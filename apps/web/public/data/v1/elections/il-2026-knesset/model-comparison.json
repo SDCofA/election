@@ -24,12 +24,12 @@
   "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [
     {
-      "source_id": "knesset_current_factions",
+      "source_id": "israel_election_authorities_web",
       "label": "Knesset current parliamentary groups",
       "url": "https://main.knesset.gov.il/en/mk/apps/faction",
       "authority": "official",
       "retrieved_at": "2026-08-09T18:00:00Z",
-      "license": "LINK-ONLY-NO-INGESTION",
+      "license": "UNVERIFIED-REUSE",
       "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
     },
     {

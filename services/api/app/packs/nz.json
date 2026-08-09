@@ -54,7 +54,7 @@
     ],
     "sources": [
       {
-        "source_id": "new_zealand_registered_parties",
+        "source_id": "new_zealand_electoral_commission_web",
         "label": "Electoral Commission register of political parties",
         "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/register-of-political-parties",
         "authority": "official",

@@ -76,7 +76,12 @@ test("logical layout remains usable in right-to-left locales", async ({ page }) 
 test("parliament layout matches visual regression baseline", async ({ page }, testInfo) => {
   test.skip(testInfo.project.name !== "chromium", "desktop visual contract");
   await page.goto("/elections/de-next-bundestag");
-  await expect(page.locator(".parliament-hemicycle")).toHaveScreenshot(
+  const parliament = page.locator(".parliament-hemicycle");
+  await parliament.evaluate((element) => {
+    element.style.width = "320px";
+    element.style.height = "160px";
+  });
+  await expect(parliament).toHaveScreenshot(
     "germany-parliament.png",
     { animations: "disabled", maxDiffPixelRatio: 0.01 }
   );

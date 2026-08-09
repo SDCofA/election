@@ -43,7 +43,7 @@
       "url": "https://polymarket.com/politics/turkey",
       "authority": "prediction market; not official",
       "retrieved_at": "2026-08-09T18:00:00Z",
-      "license": "LINK-ONLY-AUXILIARY-SIGNAL",
+      "license": "LINK-ONLY-NO-INGESTION",
       "license_url": "https://polymarket.com/tos"
     }
   ],
@@ -95,7 +95,7 @@
       "url": "https://polymarket.com/politics/turkey",
       "authority": "prediction market; not official",
       "retrieved_at": "2026-08-09T18:00:00Z",
-      "license": "LINK-ONLY-AUXILIARY-SIGNAL",
+      "license": "LINK-ONLY-NO-INGESTION",
       "license_url": "https://polymarket.com/tos"
     }
   ]

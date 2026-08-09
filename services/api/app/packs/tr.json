@@ -16,8 +16,10 @@
   },
   "source_adapters": [
     {"source_id":"turkiye_ysk","status":"reference_only_no_ingestion","formats":["html","pdf"]},
-    {"source_id":"turkiye_party_signals","status":"reference_only_no_ingestion","formats":["html"]},
-    {"source_id":"turkiye_prediction_markets","status":"auxiliary_signal_only","formats":["html"]}
+    {"source_id":"ak_party_2028_signal","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"chp_presidential_primary","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"gundemar_may_2026","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"polymarket_turkiye","status":"reference_only_no_ingestion","formats":["html"]}
   ],
   "rules": {
     "engine": "presidential_runoff",
@@ -131,7 +133,7 @@
         "url": "https://polymarket.com/politics/turkey",
         "authority": "prediction market; not official",
         "retrieved_at": "2026-08-09T18:00:00Z",
-        "license": "LINK-ONLY-AUXILIARY-SIGNAL",
+        "license": "LINK-ONLY-NO-INGESTION",
         "license_url": "https://polymarket.com/tos"
       }
     ]

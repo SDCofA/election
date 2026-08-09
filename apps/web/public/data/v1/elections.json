@@ -271,12 +271,12 @@
     ],
     "sources": [
       {
-        "source_id": "knesset_current_factions",
+        "source_id": "israel_election_authorities_web",
         "label": "Knesset current parliamentary groups",
         "url": "https://main.knesset.gov.il/en/mk/apps/faction",
         "authority": "official",
         "retrieved_at": "2026-08-09T18:00:00Z",
-        "license": "LINK-ONLY-NO-INGESTION",
+        "license": "UNVERIFIED-REUSE",
         "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
       },
       {
@@ -382,7 +382,7 @@
     "potential_candidates": [],
     "sources": [
       {
-        "source_id": "new_zealand_registered_parties",
+        "source_id": "new_zealand_electoral_commission_web",
         "label": "Electoral Commission register of political parties",
         "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/register-of-political-parties",
         "authority": "official",
@@ -566,7 +566,7 @@
         "url": "https://polymarket.com/politics/turkey",
         "authority": "prediction market; not official",
         "retrieved_at": "2026-08-09T18:00:00Z",
-        "license": "LINK-ONLY-AUXILIARY-SIGNAL",
+        "license": "LINK-ONLY-NO-INGESTION",
         "license_url": "https://polymarket.com/tos"
       }
     ]
