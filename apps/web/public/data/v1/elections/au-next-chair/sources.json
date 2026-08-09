@@ -1,0 +1,30 @@
+{
+  "election_id": "au-next-chair",
+  "sources": [
+    {
+      "source_id": "african_union_calendar",
+      "label": "African Union",
+      "url": "https://au.int/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "WRITTEN-PERMISSION-REQUIRED",
+      "license_url": "https://au.int/en/legal_notice"
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "calendar only",
+  "provenance": [
+    {
+      "source_id": "african_union_calendar",
+      "label": "African Union",
+      "url": "https://au.int/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "WRITTEN-PERMISSION-REQUIRED",
+      "license_url": "https://au.int/en/legal_notice"
+    }
+  ]
+}

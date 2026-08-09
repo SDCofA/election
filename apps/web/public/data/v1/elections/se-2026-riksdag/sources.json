@@ -1,0 +1,30 @@
+{
+  "election_id": "se-2026-riksdag",
+  "sources": [
+    {
+      "source_id": "sweden_election_authority",
+      "label": "Swedish Election Authority",
+      "url": "https://www.val.se/english/future-elections/2026-elections---the-riksdag-and-regional-and-municipal-councils",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "SE-ELECTION-OPEN-ATTRIBUTION",
+      "license_url": "https://www.val.se/valresultat-och-statistik/statistik-och-data/om-var-oppna-data"
+    }
+  ],
+  "as_of": "2026-08-09T12:00:00Z",
+  "published_at": "2026-08-09T12:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "calendar only; official party and candidate registration remains open",
+  "provenance": [
+    {
+      "source_id": "sweden_election_authority",
+      "label": "Swedish Election Authority",
+      "url": "https://www.val.se/english/future-elections/2026-elections---the-riksdag-and-regional-and-municipal-councils",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "SE-ELECTION-OPEN-ATTRIBUTION",
+      "license_url": "https://www.val.se/valresultat-och-statistik/statistik-och-data/om-var-oppna-data"
+    }
+  ]
+}

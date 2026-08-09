@@ -1,0 +1,449 @@
+{
+  "id": "gb-next-commons-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
+  "election_id": "gb-next-commons",
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "model_family": "baseline_ensemble",
+  "selection_status": "baseline retained until reliable walk-forward promotion evidence",
+  "simulation_count": 1000000,
+  "seed": 3177300602,
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "missing_drivers": [
+    "Source-vintage polling and fundamentals",
+    "Source-vintage polling",
+    "Validated historical release-vintage backtest",
+    "Subnational model"
+  ],
+  "regional_forecast_supported": false,
+  "headline": "Structural signals remain provisional; uncertainty is explicitly widened.",
+  "majority_probability": 0.490056,
+  "turnout_median": 0.6099963188171387,
+  "outcomes": [
+    {
+      "contestant_id": "lab",
+      "win_probability": 0.778892,
+      "projected_share": 0.30996009707450867,
+      "share_low": 0.24138121232390403,
+      "share_high": 0.378521628677845,
+      "projected_seats": 312,
+      "seats_low": 164,
+      "seats_high": 454
+    },
+    {
+      "contestant_id": "con",
+      "win_probability": 0.162025,
+      "projected_share": 0.24990971386432648,
+      "share_low": 0.18257046937942506,
+      "share_high": 0.3171816602349281,
+      "projected_seats": 172,
+      "seats_low": 61,
+      "seats_high": 310
+    },
+    {
+      "contestant_id": "ref",
+      "win_probability": 0.058303,
+      "projected_share": 0.21990540623664856,
+      "share_low": 0.15251847878098487,
+      "share_high": 0.2873618125915527,
+      "projected_seats": 121,
+      "seats_low": 34,
+      "seats_high": 243
+    },
+    {
+      "contestant_id": "ld",
+      "win_probability": 0.000725,
+      "projected_share": 0.13000577688217163,
+      "share_low": 0.06263641081750393,
+      "share_high": 0.19726746082305907,
+      "projected_seats": 31,
+      "seats_low": 2,
+      "seats_high": 89
+    },
+    {
+      "contestant_id": "other",
+      "win_probability": 5.5e-05,
+      "projected_share": 0.09021901339292526,
+      "share_low": 0.022595927305519584,
+      "share_high": 0.15735697746276853,
+      "projected_seats": 13,
+      "seats_low": 0,
+      "seats_high": 47
+    }
+  ],
+  "coalition_outcomes": [
+    {
+      "member_ids": [
+        "lab",
+        "con"
+      ],
+      "majority_probability": 0.974166,
+      "seats_median": 493,
+      "seats_low": 354,
+      "seats_high": 583
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ref"
+      ],
+      "majority_probability": 0.898314,
+      "seats_median": 440,
+      "seats_low": 291,
+      "seats_high": 552
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ld"
+      ],
+      "majority_probability": 0.584711,
+      "seats_median": 345,
+      "seats_low": 195,
+      "seats_high": 483
+    },
+    {
+      "member_ids": [
+        "lab",
+        "other"
+      ],
+      "majority_probability": 0.506613,
+      "seats_median": 327,
+      "seats_low": 177,
+      "seats_high": 467
+    },
+    {
+      "member_ids": [
+        "con",
+        "ref"
+      ],
+      "majority_probability": 0.355926,
+      "seats_median": 291,
+      "seats_low": 155,
+      "seats_high": 441
+    },
+    {
+      "member_ids": [
+        "con",
+        "ld"
+      ],
+      "majority_probability": 0.075402,
+      "seats_median": 196,
+      "seats_low": 86,
+      "seats_high": 345
+    },
+    {
+      "member_ids": [
+        "con",
+        "other"
+      ],
+      "majority_probability": 0.049531,
+      "seats_median": 178,
+      "seats_low": 73,
+      "seats_high": 325
+    },
+    {
+      "member_ids": [
+        "ref",
+        "ld"
+      ],
+      "majority_probability": 0.016927,
+      "seats_median": 143,
+      "seats_low": 56,
+      "seats_high": 281
+    },
+    {
+      "member_ids": [
+        "ref",
+        "other"
+      ],
+      "majority_probability": 0.009356,
+      "seats_median": 125,
+      "seats_low": 45,
+      "seats_high": 259
+    },
+    {
+      "member_ids": [
+        "ld",
+        "other"
+      ],
+      "majority_probability": 1.9e-05,
+      "seats_median": 36,
+      "seats_low": 8,
+      "seats_high": 110
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ref"
+      ],
+      "majority_probability": 0.99998,
+      "seats_median": 614,
+      "seats_low": 540,
+      "seats_high": 642
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ld"
+      ],
+      "majority_probability": 0.99037,
+      "seats_median": 525,
+      "seats_low": 391,
+      "seats_high": 605
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "other"
+      ],
+      "majority_probability": 0.982571,
+      "seats_median": 507,
+      "seats_low": 369,
+      "seats_high": 594
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ref",
+        "ld"
+      ],
+      "majority_probability": 0.949354,
+      "seats_median": 472,
+      "seats_low": 325,
+      "seats_high": 577
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ref",
+        "other"
+      ],
+      "majority_probability": 0.923006,
+      "seats_median": 454,
+      "seats_low": 305,
+      "seats_high": 564
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.640141,
+      "seats_median": 359,
+      "seats_low": 209,
+      "seats_high": 495
+    },
+    {
+      "member_ids": [
+        "con",
+        "ref",
+        "ld"
+      ],
+      "majority_probability": 0.489243,
+      "seats_median": 323,
+      "seats_low": 183,
+      "seats_high": 473
+    },
+    {
+      "member_ids": [
+        "con",
+        "ref",
+        "other"
+      ],
+      "majority_probability": 0.411201,
+      "seats_median": 305,
+      "seats_low": 167,
+      "seats_high": 455
+    },
+    {
+      "member_ids": [
+        "con",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.099855,
+      "seats_median": 210,
+      "seats_low": 98,
+      "seats_high": 359
+    },
+    {
+      "member_ids": [
+        "ref",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.025244,
+      "seats_median": 157,
+      "seats_low": 67,
+      "seats_high": 296
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ref",
+        "ld"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 642,
+      "seats_low": 603,
+      "seats_high": 650
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ref",
+        "other"
+      ],
+      "majority_probability": 0.999993,
+      "seats_median": 627,
+      "seats_low": 561,
+      "seats_high": 648
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.994026,
+      "seats_median": 539,
+      "seats_low": 407,
+      "seats_high": 616
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ref",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.96411,
+      "seats_median": 486,
+      "seats_low": 340,
+      "seats_high": 589
+    },
+    {
+      "member_ids": [
+        "con",
+        "ref",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.546567,
+      "seats_median": 337,
+      "seats_low": 196,
+      "seats_high": 486
+    }
+  ],
+  "drivers": [
+    {
+      "key": "income",
+      "label": "Household income",
+      "value": "Soft",
+      "contribution": -0.23,
+      "direction": "incumbent",
+      "confidence": 0.63
+    },
+    {
+      "key": "fragmentation",
+      "label": "Right-bloc fragmentation",
+      "value": "Elevated",
+      "contribution": 0.42,
+      "direction": "Labour",
+      "confidence": 0.76
+    },
+    {
+      "key": "approval",
+      "label": "Government approval",
+      "value": "Negative",
+      "contribution": -0.31,
+      "direction": "incumbent",
+      "confidence": 0.69
+    },
+    {
+      "key": "polling",
+      "label": "Open polling",
+      "value": "Sparse",
+      "contribution": 0.12,
+      "direction": "mixed",
+      "confidence": 0.41
+    }
+  ],
+  "driver_sensitivity": [
+    {
+      "driver_key": "income",
+      "label": "Household income",
+      "negative_scenario": -1.0,
+      "observed_scenario": -0.23,
+      "positive_scenario": 1.0,
+      "negative_incumbent_share_shift": -0.004160625000000001,
+      "observed_incumbent_share_shift": 8.399999999999998e-05,
+      "positive_incumbent_share_shift": 0.006864375000000001,
+      "confidence": 0.63,
+      "clipped": false,
+      "method": "One-at-a-time structural perturbation; all other inputs held constant"
+    },
+    {
+      "driver_key": "fragmentation",
+      "label": "Right-bloc fragmentation",
+      "negative_scenario": -1.0,
+      "observed_scenario": 0.42,
+      "positive_scenario": 1.0,
+      "negative_incumbent_share_shift": -0.009359,
+      "observed_incumbent_share_shift": 8.399999999999998e-05,
+      "positive_incumbent_share_shift": 0.003941000000000001,
+      "confidence": 0.76,
+      "clipped": false,
+      "method": "One-at-a-time structural perturbation; all other inputs held constant"
+    },
+    {
+      "driver_key": "approval",
+      "label": "Government approval",
+      "negative_scenario": -1.0,
+      "observed_scenario": -0.31,
+      "positive_scenario": 1.0,
+      "negative_incumbent_share_shift": -0.004081875,
+      "observed_incumbent_share_shift": 8.399999999999998e-05,
+      "positive_incumbent_share_shift": 0.007993125000000002,
+      "confidence": 0.69,
+      "clipped": false,
+      "method": "One-at-a-time structural perturbation; all other inputs held constant"
+    },
+    {
+      "driver_key": "polling",
+      "label": "Open polling",
+      "negative_scenario": -1.0,
+      "observed_scenario": 0.12,
+      "positive_scenario": 1.0,
+      "negative_incumbent_share_shift": -0.003934000000000001,
+      "observed_incumbent_share_shift": 8.399999999999998e-05,
+      "positive_incumbent_share_shift": 0.003241,
+      "confidence": 0.41,
+      "clipped": false,
+      "method": "One-at-a-time structural perturbation; all other inputs held constant"
+    }
+  ],
+  "methodology_url": "/methodology",
+  "input_revision_ids": [],
+  "input_provenance": [],
+  "provenance": [
+    {
+      "source_id": "uk_electoral_commission",
+      "label": "UK Electoral Commission",
+      "url": "https://www.electoralcommission.org.uk/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "EC-OGL-TERMS",
+      "license_url": "https://api.electoralcommission.org.uk/terms/"
+    }
+  ]
+}

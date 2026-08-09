@@ -1,0 +1,37 @@
+{
+  "election_id": "us-2028-president",
+  "system": "electoral_college",
+  "rules": {
+    "engine": "electoral_college",
+    "electoral_votes": 538,
+    "majority": 270,
+    "state_level_required_for_grade_above_C": true
+  },
+  "source_adapters": [
+    {
+      "source_id": "us_fec_calendar",
+      "status": "approved",
+      "formats": [
+        "html",
+        "pdf"
+      ]
+    }
+  ],
+  "forecast_enabled": true,
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "us_fec_calendar",
+      "label": "Federal Election Commission",
+      "url": "https://www.fec.gov/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "US-GOVERNMENT-WORK-17-USC-105",
+      "license_url": "https://uscode.house.gov/view.xhtml?req=(title:17%20section:105%20edition:prelim)"
+    }
+  ]
+}

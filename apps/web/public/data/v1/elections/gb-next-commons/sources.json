@@ -1,0 +1,30 @@
+{
+  "election_id": "gb-next-commons",
+  "sources": [
+    {
+      "source_id": "uk_electoral_commission",
+      "label": "UK Electoral Commission",
+      "url": "https://www.electoralcommission.org.uk/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "EC-OGL-TERMS",
+      "license_url": "https://api.electoralcommission.org.uk/terms/"
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "uk_electoral_commission",
+      "label": "UK Electoral Commission",
+      "url": "https://www.electoralcommission.org.uk/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "EC-OGL-TERMS",
+      "license_url": "https://api.electoralcommission.org.uk/terms/"
+    }
+  ]
+}

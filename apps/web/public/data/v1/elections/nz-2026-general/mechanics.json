@@ -1,0 +1,60 @@
+{
+  "election_id": "nz-2026-general",
+  "system": "mixed_member",
+  "rules": {
+    "engine": "mixed_member",
+    "seats": 120,
+    "electorate_seats": 71,
+    "nominal_list_seats": 49,
+    "party_vote_threshold": 0.05,
+    "electorate_seat_exemption": true,
+    "allocation": "Sainte-Lague compensatory MMP with possible overhang seats",
+    "general_electorates": 64,
+    "maori_electorates": 7
+  },
+  "source_adapters": [
+    {
+      "source_id": "new_zealand_electoral_commission_web",
+      "status": "blocked_license_reference_only",
+      "formats": [
+        "html",
+        "pdf"
+      ]
+    }
+  ],
+  "forecast_enabled": false,
+  "as_of": "2026-08-09T12:00:00Z",
+  "published_at": "2026-08-09T12:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "mechanics blocked; official date, boundaries, and national MMP rules verified",
+  "provenance": [
+    {
+      "source_id": "new_zealand_electoral_commission_web",
+      "label": "Electoral Commission 2026 general election timetable",
+      "url": "https://elections.nz/media-and-news/2026/key-dates-for-2026-general-election",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+      "license_url": "https://elections.nz/contact"
+    },
+    {
+      "source_id": "new_zealand_electoral_commission_web",
+      "label": "Electoral Commission MMP rules",
+      "url": "https://elections.nz/democracy-in-nz/what-is-new-zealands-system-of-government/how-are-mps-elected",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+      "license_url": "https://elections.nz/contact"
+    },
+    {
+      "source_id": "new_zealand_electoral_commission_web",
+      "label": "Electoral Commission 2026 electorate boundaries",
+      "url": "https://elections.nz/democracy-in-nz/what-are-electorates/how-are-electoral-boundaries-decided",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+      "license_url": "https://elections.nz/contact"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "election_id": "lv-2026-saeima",
+  "system": "proportional",
+  "rules": {
+    "engine": "proportional",
+    "seats": 100,
+    "national_threshold": 0.05,
+    "allocation": "five-district proportional allocation under Saeima Election Law",
+    "district_seats": {
+      "riga": 38,
+      "vidzeme": 26,
+      "latgale": 12,
+      "kurzeme": 11,
+      "zemgale": 13
+    }
+  },
+  "source_adapters": [
+    {
+      "source_id": "latvia_cvk_open_data",
+      "status": "approved",
+      "formats": [
+        "json",
+        "xml",
+        "csv"
+      ]
+    },
+    {
+      "source_id": "latvia_cvk_web",
+      "status": "blocked_license_reference_only",
+      "formats": [
+        "html"
+      ]
+    }
+  ],
+  "forecast_enabled": false,
+  "as_of": "2026-08-09T12:00:00Z",
+  "published_at": "2026-08-09T12:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "mechanics blocked; official date and district seats verified",
+  "provenance": [
+    {
+      "source_id": "latvia_cvk_web",
+      "label": "Central Election Commission of Latvia",
+      "url": "https://www.cvk.lv/lv/velesanu-iecirkni",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "ALL-RIGHTS-RESERVED",
+      "license_url": "https://www.cvk.lv/lv/velesanu-iecirkni"
+    }
+  ]
+}

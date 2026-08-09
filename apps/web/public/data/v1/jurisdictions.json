@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "au-union",
+    "name": "African Union",
+    "iso3": null,
+    "region": "Africa",
+    "eligibility": "supranational-calendar",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Institutional contestant field is not resolved for the next leadership cycle"
+    ],
+    "flag": "AU"
+  },
+  {
+    "id": "arg",
+    "name": "Argentina",
+    "iso3": "ARG",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "AR"
+  },
+  {
+    "id": "arm",
+    "name": "Armenia",
+    "iso3": "ARM",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "AM"
+  },
+  {
+    "id": "aus",
+    "name": "Australia",
+    "iso3": "AUS",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "AU"
+  },
+  {
+    "id": "aut",
+    "name": "Austria",
+    "iso3": "AUT",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "AT"
+  },
+  {
+    "id": "brb",
+    "name": "Barbados",
+    "iso3": "BRB",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "BB"
+  },
+  {
+    "id": "bel",
+    "name": "Belgium",
+    "iso3": "BEL",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "BE"
+  },
+  {
+    "id": "btn",
+    "name": "Bhutan",
+    "iso3": "BTN",
+    "region": "South Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "BT"
+  },
+  {
+    "id": "bol",
+    "name": "Bolivia",
+    "iso3": "BOL",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "BO"
+  },
+  {
+    "id": "bwa",
+    "name": "Botswana",
+    "iso3": "BWA",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "BW"
+  },
+  {
+    "id": "bra",
+    "name": "Brazil",
+    "iso3": "BRA",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Official contestant registration remains unresolved"
+    ],
+    "flag": "BR"
+  },
+  {
+    "id": "bgr",
+    "name": "Bulgaria",
+    "iso3": "BGR",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "BG"
+  },
+  {
+    "id": "can",
+    "name": "Canada",
+    "iso3": "CAN",
+    "region": "North America",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "CA"
+  },
+  {
+    "id": "cpv",
+    "name": "Cape Verde",
+    "iso3": "CPV",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "CV"
+  },
+  {
+    "id": "chl",
+    "name": "Chile",
+    "iso3": "CHL",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "CL"
+  },
+  {
+    "id": "col",
+    "name": "Colombia",
+    "iso3": "COL",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "CO"
+  },
+  {
+    "id": "cri",
+    "name": "Costa Rica",
+    "iso3": "CRI",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "CR"
+  },
+  {
+    "id": "hrv",
+    "name": "Croatia",
+    "iso3": "HRV",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "HR"
+  },
+  {
+    "id": "cyp",
+    "name": "Cyprus",
+    "iso3": "CYP",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "CY"
+  },
+  {
+    "id": "cze",
+    "name": "Czechia",
+    "iso3": "CZE",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "CZ"
+  },
+  {
+    "id": "dnk",
+    "name": "Denmark",
+    "iso3": "DNK",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "DK"
+  },
+  {
+    "id": "dom",
+    "name": "Dominican Republic",
+    "iso3": "DOM",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "DO"
+  },
+  {
+    "id": "ecu",
+    "name": "Ecuador",
+    "iso3": "ECU",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "EC"
+  },
+  {
+    "id": "egy",
+    "name": "Egypt",
+    "iso3": "EGY",
+    "region": "Africa",
+    "eligibility": "configured-exception",
+    "is_exception": true,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
+    "flag": "EG"
+  },
+  {
+    "id": "est",
+    "name": "Estonia",
+    "iso3": "EST",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "EE"
+  },
+  {
+    "id": "eu",
+    "name": "European Union",
+    "iso3": null,
+    "region": "Europe",
+    "eligibility": "supranational-forecast",
+    "is_exception": false,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
+    "flag": "EU"
+  },
+  {
+    "id": "fji",
+    "name": "Fiji",
+    "iso3": "FJI",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "FJ"
+  },
+  {
+    "id": "fin",
+    "name": "Finland",
+    "iso3": "FIN",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "FI"
+  },
+  {
+    "id": "fra",
+    "name": "France",
+    "iso3": "FRA",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "FR"
+  },
+  {
+    "id": "deu",
+    "name": "Germany",
+    "iso3": "DEU",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
+    "flag": "DE"
+  },
+  {
+    "id": "gha",
+    "name": "Ghana",
+    "iso3": "GHA",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "GH"
+  },
+  {
+    "id": "grc",
+    "name": "Greece",
+    "iso3": "GRC",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "GR"
+  },
+  {
+    "id": "gtm",
+    "name": "Guatemala",
+    "iso3": "GTM",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "GT"
+  },
+  {
+    "id": "guy",
+    "name": "Guyana",
+    "iso3": "GUY",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "GY"
+  },
+  {
+    "id": "hnd",
+    "name": "Honduras",
+    "iso3": "HND",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "HN"
+  },
+  {
+    "id": "isl",
+    "name": "Iceland",
+    "iso3": "ISL",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "IS"
+  },
+  {
+    "id": "irl",
+    "name": "Ireland",
+    "iso3": "IRL",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "IE"
+  },
+  {
+    "id": "isr",
+    "name": "Israel",
+    "iso3": "ISR",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Official candidate lists and surplus-vote agreements are not final",
+      "Official election webpages do not declare approved machine-reuse terms"
+    ],
+    "flag": "IL"
+  },
+  {
+    "id": "ita",
+    "name": "Italy",
+    "iso3": "ITA",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "IT"
+  },
+  {
+    "id": "jam",
+    "name": "Jamaica",
+    "iso3": "JAM",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "JM"
+  },
+  {
+    "id": "jpn",
+    "name": "Japan",
+    "iso3": "JPN",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "JP"
+  },
+  {
+    "id": "ken",
+    "name": "Kenya",
+    "iso3": "KEN",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "KE"
+  },
+  {
+    "id": "xkx",
+    "name": "Kosovo",
+    "iso3": "XKX",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "XK"
+  },
+  {
+    "id": "lva",
+    "name": "Latvia",
+    "iso3": "LVA",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Official candidate lists are available, but canonical party mapping and five-district seat-model verification are incomplete",
+      "The official calendar webpage is all-rights-reserved; no reusable machine-readable calendar feed is approved"
+    ],
+    "flag": "LV"
+  },
+  {
+    "id": "lso",
+    "name": "Lesotho",
+    "iso3": "LSO",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "LS"
+  },
+  {
+    "id": "lbr",
+    "name": "Liberia",
+    "iso3": "LBR",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "LR"
+  },
+  {
+    "id": "ltu",
+    "name": "Lithuania",
+    "iso3": "LTU",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "LT"
+  },
+  {
+    "id": "lux",
+    "name": "Luxembourg",
+    "iso3": "LUX",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "LU"
+  },
+  {
+    "id": "mwi",
+    "name": "Malawi",
+    "iso3": "MWI",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "MW"
+  },
+  {
+    "id": "mys",
+    "name": "Malaysia",
+    "iso3": "MYS",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "MY"
+  },
+  {
+    "id": "mdv",
+    "name": "Maldives",
+    "iso3": "MDV",
+    "region": "South Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "MV"
+  },
+  {
+    "id": "mlt",
+    "name": "Malta",
+    "iso3": "MLT",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "MT"
+  },
+  {
+    "id": "mus",
+    "name": "Mauritius",
+    "iso3": "MUS",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "MU"
+  },
+  {
+    "id": "mda",
+    "name": "Moldova",
+    "iso3": "MDA",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "MD"
+  },
+  {
+    "id": "mng",
+    "name": "Mongolia",
+    "iso3": "MNG",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "MN"
+  },
+  {
+    "id": "mne",
+    "name": "Montenegro",
+    "iso3": "MNE",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "ME"
+  },
+  {
+    "id": "nam",
+    "name": "Namibia",
+    "iso3": "NAM",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "NA"
+  },
+  {
+    "id": "npl",
+    "name": "Nepal",
+    "iso3": "NPL",
+    "region": "South Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "NP"
+  },
+  {
+    "id": "nld",
+    "name": "Netherlands",
+    "iso3": "NLD",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "NL"
+  },
+  {
+    "id": "nzl",
+    "name": "New Zealand",
+    "iso3": "NZL",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Official party lists and electorate candidates are not final before nominations close on 8 October 2026",
+      "The Electoral Commission website carries a copyright notice without approved machine-reuse terms for these webpages"
+    ],
+    "flag": "NZ"
+  },
+  {
+    "id": "nga",
+    "name": "Nigeria",
+    "iso3": "NGA",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "NG"
+  },
+  {
+    "id": "mkd",
+    "name": "North Macedonia",
+    "iso3": "MKD",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "MK"
+  },
+  {
+    "id": "nor",
+    "name": "Norway",
+    "iso3": "NOR",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "NO"
+  },
+  {
+    "id": "pan",
+    "name": "Panama",
+    "iso3": "PAN",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "PA"
+  },
+  {
+    "id": "pry",
+    "name": "Paraguay",
+    "iso3": "PRY",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "PY"
+  },
+  {
+    "id": "per",
+    "name": "Peru",
+    "iso3": "PER",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "PE"
+  },
+  {
+    "id": "pol",
+    "name": "Poland",
+    "iso3": "POL",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "PL"
+  },
+  {
+    "id": "prt",
+    "name": "Portugal",
+    "iso3": "PRT",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "PT"
+  },
+  {
+    "id": "rou",
+    "name": "Romania",
+    "iso3": "ROU",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "RO"
+  },
+  {
+    "id": "stp",
+    "name": "Sao Tome and Principe",
+    "iso3": "STP",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "ST"
+  },
+  {
+    "id": "sen",
+    "name": "Senegal",
+    "iso3": "SEN",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "SN"
+  },
+  {
+    "id": "syc",
+    "name": "Seychelles",
+    "iso3": "SYC",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "SC"
+  },
+  {
+    "id": "svk",
+    "name": "Slovakia",
+    "iso3": "SVK",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "SK"
+  },
+  {
+    "id": "svn",
+    "name": "Slovenia",
+    "iso3": "SVN",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "SI"
+  },
+  {
+    "id": "slb",
+    "name": "Solomon Islands",
+    "iso3": "SLB",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "SB"
+  },
+  {
+    "id": "zaf",
+    "name": "South Africa",
+    "iso3": "ZAF",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "ZA"
+  },
+  {
+    "id": "kor",
+    "name": "South Korea",
+    "iso3": "KOR",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "KR"
+  },
+  {
+    "id": "esp",
+    "name": "Spain",
+    "iso3": "ESP",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "ES"
+  },
+  {
+    "id": "lka",
+    "name": "Sri Lanka",
+    "iso3": "LKA",
+    "region": "South Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "LK"
+  },
+  {
+    "id": "sur",
+    "name": "Suriname",
+    "iso3": "SUR",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "SR"
+  },
+  {
+    "id": "swe",
+    "name": "Sweden",
+    "iso3": "SWE",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Official party participation and candidate registration remain open"
+    ],
+    "flag": "SE"
+  },
+  {
+    "id": "che",
+    "name": "Switzerland",
+    "iso3": "CHE",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "CH"
+  },
+  {
+    "id": "twn",
+    "name": "Taiwan",
+    "iso3": "TWN",
+    "region": "Global",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "TW"
+  },
+  {
+    "id": "gmb",
+    "name": "The Gambia",
+    "iso3": "GMB",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "GM"
+  },
+  {
+    "id": "tls",
+    "name": "Timor-Leste",
+    "iso3": "TLS",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "TL"
+  },
+  {
+    "id": "tto",
+    "name": "Trinidad and Tobago",
+    "iso3": "TTO",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "TT"
+  },
+  {
+    "id": "gbr",
+    "name": "United Kingdom",
+    "iso3": "GBR",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
+    "flag": "GB"
+  },
+  {
+    "id": "usa",
+    "name": "United States",
+    "iso3": "USA",
+    "region": "North America",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
+    "flag": "US"
+  },
+  {
+    "id": "ury",
+    "name": "Uruguay",
+    "iso3": "URY",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "UY"
+  },
+  {
+    "id": "vut",
+    "name": "Vanuatu",
+    "iso3": "VUT",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "VU"
+  }
+]

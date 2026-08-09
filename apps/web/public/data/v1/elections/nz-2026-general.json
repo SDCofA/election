@@ -1,0 +1,61 @@
+{
+  "jurisdiction": {
+    "id": "nzl",
+    "name": "New Zealand",
+    "iso3": "NZL",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Official party lists and electorate candidates are not final before nominations close on 8 October 2026",
+      "The Electoral Commission website carries a copyright notice without approved machine-reuse terms for these webpages"
+    ],
+    "flag": "NZ"
+  },
+  "election": {
+    "id": "nz-2026-general",
+    "jurisdiction_id": "nzl",
+    "name": "2026 General Election",
+    "election_date": "2026-11-07",
+    "date_confidence": "official",
+    "system": "mixed_member",
+    "seats_total": 120,
+    "majority": 61,
+    "threshold": 0.05,
+    "status": "mechanics blocked; official date, boundaries, and national MMP rules verified",
+    "last_updated": "2026-08-09T12:00:00Z",
+    "contestants": [],
+    "sources": [
+      {
+        "source_id": "new_zealand_electoral_commission_web",
+        "label": "Electoral Commission 2026 general election timetable",
+        "url": "https://elections.nz/media-and-news/2026/key-dates-for-2026-general-election",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T12:00:00Z",
+        "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+        "license_url": "https://elections.nz/contact"
+      },
+      {
+        "source_id": "new_zealand_electoral_commission_web",
+        "label": "Electoral Commission MMP rules",
+        "url": "https://elections.nz/democracy-in-nz/what-is-new-zealands-system-of-government/how-are-mps-elected",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T12:00:00Z",
+        "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+        "license_url": "https://elections.nz/contact"
+      },
+      {
+        "source_id": "new_zealand_electoral_commission_web",
+        "label": "Electoral Commission 2026 electorate boundaries",
+        "url": "https://elections.nz/democracy-in-nz/what-are-electorates/how-are-electoral-boundaries-decided",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T12:00:00Z",
+        "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+        "license_url": "https://elections.nz/contact"
+      }
+    ]
+  },
+  "forecast": null
+}

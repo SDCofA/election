@@ -1,0 +1,226 @@
+{
+  "jurisdiction": {
+    "id": "usa",
+    "name": "United States",
+    "iso3": "USA",
+    "region": "North America",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
+    "flag": "US"
+  },
+  "election": {
+    "id": "us-2028-president",
+    "jurisdiction_id": "usa",
+    "name": "2028 Presidential Election",
+    "election_date": "2028-11-07",
+    "date_confidence": "constitutional",
+    "system": "electoral_college",
+    "seats_total": 538,
+    "majority": 270,
+    "threshold": 0.0,
+    "status": "structural forecast",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "contestants": [
+      {
+        "id": "dem",
+        "name": "Democratic coalition",
+        "short_name": "DEM",
+        "color": "#2f7df6",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "Centre-left"
+      },
+      {
+        "id": "gop",
+        "name": "Republican coalition",
+        "short_name": "GOP",
+        "color": "#ef3e4a",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Centre-right"
+      },
+      {
+        "id": "other",
+        "name": "Other candidates",
+        "short_name": "OTH",
+        "color": "#b1bac8",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Other"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "us_fec_calendar",
+        "label": "Federal Election Commission",
+        "url": "https://www.fec.gov/",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "license": "US-GOVERNMENT-WORK-17-USC-105",
+        "license_url": "https://uscode.house.gov/view.xhtml?req=(title:17%20section:105%20edition:prelim)"
+      }
+    ]
+  },
+  "forecast": {
+    "id": "us-2028-president-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
+    "election_id": "us-2028-president",
+    "as_of": "2026-08-09T09:00:00Z",
+    "published_at": "2026-08-09T09:00:00Z",
+    "model_version": "structural-ensemble-0.3.0",
+    "model_family": "baseline_ensemble",
+    "selection_status": "baseline retained until reliable walk-forward promotion evidence",
+    "simulation_count": 1000000,
+    "seed": 4228208592,
+    "data_quality": "D",
+    "freshness": "structural-only; no source-vintage feature snapshot",
+    "missing_drivers": [
+      "Polling signal",
+      "Source-vintage polling and fundamentals",
+      "Source-vintage polling",
+      "Validated historical release-vintage backtest",
+      "Subnational model"
+    ],
+    "regional_forecast_supported": false,
+    "headline": "Structural signals remain provisional; uncertainty is explicitly widened.",
+    "majority_probability": 0.993769,
+    "turnout_median": 0.6550286412239075,
+    "outcomes": [
+      {
+        "contestant_id": "dem",
+        "win_probability": 0.57301,
+        "projected_share": 0.49235162138938904,
+        "share_low": 0.44069410264492037,
+        "share_high": 0.5425615966320038,
+        "projected_seats": 279,
+        "seats_low": 180,
+        "seats_high": 377
+      },
+      {
+        "contestant_id": "gop",
+        "win_probability": 0.42699,
+        "projected_share": 0.4823608100414276,
+        "share_low": 0.43147179335355756,
+        "share_high": 0.5320390582084655,
+        "projected_seats": 258,
+        "seats_low": 161,
+        "seats_high": 358
+      },
+      {
+        "contestant_id": "other",
+        "win_probability": 0.0,
+        "projected_share": 0.025287527590990067,
+        "share_low": 0.0028903328347951174,
+        "share_high": 0.07235666587948798,
+        "projected_seats": 0,
+        "seats_low": 0,
+        "seats_high": 0
+      }
+    ],
+    "coalition_outcomes": [],
+    "drivers": [
+      {
+        "key": "income",
+        "label": "Real disposable income",
+        "value": "Baseline",
+        "contribution": 0.18,
+        "direction": "incumbent",
+        "confidence": 0.54
+      },
+      {
+        "key": "approval",
+        "label": "Executive approval",
+        "value": "Early cycle",
+        "contribution": -0.11,
+        "direction": "challenger",
+        "confidence": 0.38
+      },
+      {
+        "key": "polarization",
+        "label": "Partisan alignment",
+        "value": "High",
+        "contribution": 0.31,
+        "direction": "stability",
+        "confidence": 0.82
+      },
+      {
+        "key": "polling",
+        "label": "Polling signal",
+        "value": "Not yet available",
+        "contribution": 0.0,
+        "direction": "neutral",
+        "confidence": 0.05
+      }
+    ],
+    "driver_sensitivity": [
+      {
+        "driver_key": "income",
+        "label": "Real disposable income",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.18,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0028665000000000006,
+        "observed_incumbent_share_shift": 0.002709,
+        "positive_incumbent_share_shift": 0.006583500000000001,
+        "confidence": 0.54,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "approval",
+        "label": "Executive approval",
+        "negative_scenario": -1.0,
+        "observed_scenario": -0.11,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.00025025000000000004,
+        "observed_incumbent_share_shift": 0.002709,
+        "positive_incumbent_share_shift": 0.006399750000000001,
+        "confidence": 0.38,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "polarization",
+        "label": "Partisan alignment",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.31,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.00669025,
+        "observed_incumbent_share_shift": 0.002709,
+        "positive_incumbent_share_shift": 0.00765975,
+        "confidence": 0.82,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "polling",
+        "label": "Polling signal",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": 0.0022715,
+        "observed_incumbent_share_shift": 0.002709,
+        "positive_incumbent_share_shift": 0.0031465,
+        "confidence": 0.05,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      }
+    ],
+    "methodology_url": "/methodology",
+    "input_revision_ids": [],
+    "input_provenance": [],
+    "provenance": [
+      {
+        "source_id": "us_fec_calendar",
+        "label": "Federal Election Commission",
+        "url": "https://www.fec.gov/",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "license": "US-GOVERNMENT-WORK-17-USC-105",
+        "license_url": "https://uscode.house.gov/view.xhtml?req=(title:17%20section:105%20edition:prelim)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "election_id": "lv-2026-saeima",
+  "sources": [
+    {
+      "source_id": "latvia_cvk_web",
+      "label": "Central Election Commission of Latvia",
+      "url": "https://www.cvk.lv/lv/velesanu-iecirkni",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "ALL-RIGHTS-RESERVED",
+      "license_url": "https://www.cvk.lv/lv/velesanu-iecirkni"
+    }
+  ],
+  "as_of": "2026-08-09T12:00:00Z",
+  "published_at": "2026-08-09T12:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "mechanics blocked; official date and district seats verified",
+  "provenance": [
+    {
+      "source_id": "latvia_cvk_web",
+      "label": "Central Election Commission of Latvia",
+      "url": "https://www.cvk.lv/lv/velesanu-iecirkni",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "ALL-RIGHTS-RESERVED",
+      "license_url": "https://www.cvk.lv/lv/velesanu-iecirkni"
+    }
+  ]
+}

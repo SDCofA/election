@@ -1,0 +1,293 @@
+{
+  "election_id": "gb-next-commons",
+  "snapshot_id": "gb-next-commons-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
+  "majority": 326,
+  "coalitions": [
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ref",
+        "ld"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 642,
+      "seats_low": 603,
+      "seats_high": 650
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ref",
+        "other"
+      ],
+      "majority_probability": 0.999993,
+      "seats_median": 627,
+      "seats_low": 561,
+      "seats_high": 648
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ref"
+      ],
+      "majority_probability": 0.99998,
+      "seats_median": 614,
+      "seats_low": 540,
+      "seats_high": 642
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.994026,
+      "seats_median": 539,
+      "seats_low": 407,
+      "seats_high": 616
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "ld"
+      ],
+      "majority_probability": 0.99037,
+      "seats_median": 525,
+      "seats_low": 391,
+      "seats_high": 605
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con",
+        "other"
+      ],
+      "majority_probability": 0.982571,
+      "seats_median": 507,
+      "seats_low": 369,
+      "seats_high": 594
+    },
+    {
+      "member_ids": [
+        "lab",
+        "con"
+      ],
+      "majority_probability": 0.974166,
+      "seats_median": 493,
+      "seats_low": 354,
+      "seats_high": 583
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ref",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.96411,
+      "seats_median": 486,
+      "seats_low": 340,
+      "seats_high": 589
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ref",
+        "ld"
+      ],
+      "majority_probability": 0.949354,
+      "seats_median": 472,
+      "seats_low": 325,
+      "seats_high": 577
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ref",
+        "other"
+      ],
+      "majority_probability": 0.923006,
+      "seats_median": 454,
+      "seats_low": 305,
+      "seats_high": 564
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ref"
+      ],
+      "majority_probability": 0.898314,
+      "seats_median": 440,
+      "seats_low": 291,
+      "seats_high": 552
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.640141,
+      "seats_median": 359,
+      "seats_low": 209,
+      "seats_high": 495
+    },
+    {
+      "member_ids": [
+        "lab",
+        "ld"
+      ],
+      "majority_probability": 0.584711,
+      "seats_median": 345,
+      "seats_low": 195,
+      "seats_high": 483
+    },
+    {
+      "member_ids": [
+        "con",
+        "ref",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.546567,
+      "seats_median": 337,
+      "seats_low": 196,
+      "seats_high": 486
+    },
+    {
+      "member_ids": [
+        "lab",
+        "other"
+      ],
+      "majority_probability": 0.506613,
+      "seats_median": 327,
+      "seats_low": 177,
+      "seats_high": 467
+    },
+    {
+      "member_ids": [
+        "con",
+        "ref",
+        "ld"
+      ],
+      "majority_probability": 0.489243,
+      "seats_median": 323,
+      "seats_low": 183,
+      "seats_high": 473
+    },
+    {
+      "member_ids": [
+        "con",
+        "ref",
+        "other"
+      ],
+      "majority_probability": 0.411201,
+      "seats_median": 305,
+      "seats_low": 167,
+      "seats_high": 455
+    },
+    {
+      "member_ids": [
+        "con",
+        "ref"
+      ],
+      "majority_probability": 0.355926,
+      "seats_median": 291,
+      "seats_low": 155,
+      "seats_high": 441
+    },
+    {
+      "member_ids": [
+        "con",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.099855,
+      "seats_median": 210,
+      "seats_low": 98,
+      "seats_high": 359
+    },
+    {
+      "member_ids": [
+        "con",
+        "ld"
+      ],
+      "majority_probability": 0.075402,
+      "seats_median": 196,
+      "seats_low": 86,
+      "seats_high": 345
+    },
+    {
+      "member_ids": [
+        "con",
+        "other"
+      ],
+      "majority_probability": 0.049531,
+      "seats_median": 178,
+      "seats_low": 73,
+      "seats_high": 325
+    },
+    {
+      "member_ids": [
+        "ref",
+        "ld",
+        "other"
+      ],
+      "majority_probability": 0.025244,
+      "seats_median": 157,
+      "seats_low": 67,
+      "seats_high": 296
+    },
+    {
+      "member_ids": [
+        "ref",
+        "ld"
+      ],
+      "majority_probability": 0.016927,
+      "seats_median": 143,
+      "seats_low": 56,
+      "seats_high": 281
+    },
+    {
+      "member_ids": [
+        "ref",
+        "other"
+      ],
+      "majority_probability": 0.009356,
+      "seats_median": 125,
+      "seats_low": 45,
+      "seats_high": 259
+    },
+    {
+      "member_ids": [
+        "ld",
+        "other"
+      ],
+      "majority_probability": 1.9e-05,
+      "seats_median": 36,
+      "seats_low": 8,
+      "seats_high": 110
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "uk_electoral_commission",
+      "label": "UK Electoral Commission",
+      "url": "https://www.electoralcommission.org.uk/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "EC-OGL-TERMS",
+      "license_url": "https://api.electoralcommission.org.uk/terms/"
+    }
+  ]
+}

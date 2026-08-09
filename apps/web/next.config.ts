@@ -1,11 +1,20 @@
 import type { NextConfig } from "next";
 
+const githubPages = process.env.GITHUB_PAGES === "true";
+const pagesBasePath = githubPages ? (process.env.PAGES_BASE_PATH ?? "") : "";
+
 const nextConfig: NextConfig = {
-  output: "standalone",
+  output: githubPages ? "export" : "standalone",
+  basePath: pagesBasePath,
+  assetPrefix: pagesBasePath || undefined,
+  trailingSlash: githubPages,
+  images: { unoptimized: githubPages },
   poweredByHeader: false,
-  reactStrictMode: true,
-  async headers() {
-    return [
+  reactStrictMode: true
+};
+
+if (!githubPages) {
+  nextConfig.headers = async () => [
       {
         source: "/(.*)",
         headers: [
@@ -21,7 +30,6 @@ const nextConfig: NextConfig = {
         ]
       }
     ];
-  }
-};
+}
 
 export default nextConfig;

@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+import { publicAsset } from "@/lib/public-data";
+
 const gates = [
   "At least eight strict forecast-origin folds across three held-out elections and twenty years of history",
   "Immutable revision hashes for fundamentals, every poll snapshot, and results",
@@ -58,7 +60,7 @@ export default function MethodologyPage() {
         <div className="method-links">
           <a href="https://www.v-dem.net/data/the-v-dem-dataset/">V-Dem eligibility</a>
           <a href="https://api.worldbank.org/v2/">World Bank indicators</a>
-          <Link href="/docs">REST / OpenAPI</Link>
+          <a href={publicAsset("/data/openapi-v1.json")}>REST / OpenAPI</a>
         </div>
       </section>
 

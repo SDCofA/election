@@ -1,0 +1,30 @@
+{
+  "election_id": "br-2026-president",
+  "sources": [
+    {
+      "source_id": "brazil_tse",
+      "label": "Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "CC-BY-4.0",
+      "license_url": "https://dadosabertos.tse.jus.br/dataset/?license_id=cc-by"
+    }
+  ],
+  "as_of": "2026-08-09T12:00:00Z",
+  "published_at": "2026-08-09T12:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "calendar only; official contestant registration unresolved",
+  "provenance": [
+    {
+      "source_id": "brazil_tse",
+      "label": "Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "CC-BY-4.0",
+      "license_url": "https://dadosabertos.tse.jus.br/dataset/?license_id=cc-by"
+    }
+  ]
+}

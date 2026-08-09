@@ -1,0 +1,302 @@
+{
+  "election_id": "de-next-bundestag",
+  "snapshot_id": "de-next-bundestag-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
+  "majority": 316,
+  "coalitions": [
+    {
+      "member_ids": [
+        "union",
+        "afd",
+        "spd"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 453,
+      "seats_low": 411,
+      "seats_high": 494
+    },
+    {
+      "member_ids": [
+        "union",
+        "afd",
+        "spd",
+        "greens"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 541,
+      "seats_low": 508,
+      "seats_high": 575
+    },
+    {
+      "member_ids": [
+        "union",
+        "afd",
+        "spd",
+        "left"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 541,
+      "seats_low": 508,
+      "seats_high": 575
+    },
+    {
+      "member_ids": [
+        "union",
+        "afd",
+        "greens",
+        "left"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 522,
+      "seats_low": 489,
+      "seats_high": 556
+    },
+    {
+      "member_ids": [
+        "union",
+        "spd",
+        "greens",
+        "left"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 478,
+      "seats_low": 445,
+      "seats_high": 512
+    },
+    {
+      "member_ids": [
+        "afd",
+        "spd",
+        "greens",
+        "left"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 437,
+      "seats_low": 402,
+      "seats_high": 471
+    },
+    {
+      "member_ids": [
+        "union",
+        "afd",
+        "greens"
+      ],
+      "majority_probability": 0.999998,
+      "seats_median": 434,
+      "seats_low": 392,
+      "seats_high": 475
+    },
+    {
+      "member_ids": [
+        "union",
+        "afd",
+        "left"
+      ],
+      "majority_probability": 0.999998,
+      "seats_median": 434,
+      "seats_low": 392,
+      "seats_high": 475
+    },
+    {
+      "member_ids": [
+        "union",
+        "spd",
+        "left"
+      ],
+      "majority_probability": 0.998316,
+      "seats_median": 390,
+      "seats_low": 348,
+      "seats_high": 431
+    },
+    {
+      "member_ids": [
+        "union",
+        "spd",
+        "greens"
+      ],
+      "majority_probability": 0.998263,
+      "seats_median": 390,
+      "seats_low": 348,
+      "seats_high": 431
+    },
+    {
+      "member_ids": [
+        "union",
+        "greens",
+        "left"
+      ],
+      "majority_probability": 0.985405,
+      "seats_median": 371,
+      "seats_low": 329,
+      "seats_high": 412
+    },
+    {
+      "member_ids": [
+        "afd",
+        "spd",
+        "greens"
+      ],
+      "majority_probability": 0.901713,
+      "seats_median": 348,
+      "seats_low": 307,
+      "seats_high": 390
+    },
+    {
+      "member_ids": [
+        "afd",
+        "spd",
+        "left"
+      ],
+      "majority_probability": 0.901572,
+      "seats_median": 348,
+      "seats_low": 307,
+      "seats_high": 390
+    },
+    {
+      "member_ids": [
+        "union",
+        "afd"
+      ],
+      "majority_probability": 0.879405,
+      "seats_median": 345,
+      "seats_low": 304,
+      "seats_high": 387
+    },
+    {
+      "member_ids": [
+        "afd",
+        "greens",
+        "left"
+      ],
+      "majority_probability": 0.704391,
+      "seats_median": 329,
+      "seats_low": 287,
+      "seats_high": 370
+    },
+    {
+      "member_ids": [
+        "union",
+        "spd"
+      ],
+      "majority_probability": 0.282031,
+      "seats_median": 301,
+      "seats_low": 260,
+      "seats_high": 343
+    },
+    {
+      "member_ids": [
+        "spd",
+        "greens",
+        "left"
+      ],
+      "majority_probability": 0.112675,
+      "seats_median": 285,
+      "seats_low": 243,
+      "seats_high": 326
+    },
+    {
+      "member_ids": [
+        "union",
+        "left"
+      ],
+      "majority_probability": 0.091763,
+      "seats_median": 282,
+      "seats_low": 240,
+      "seats_high": 323
+    },
+    {
+      "member_ids": [
+        "union",
+        "greens"
+      ],
+      "majority_probability": 0.091592,
+      "seats_median": 282,
+      "seats_low": 240,
+      "seats_high": 323
+    },
+    {
+      "member_ids": [
+        "afd",
+        "spd"
+      ],
+      "majority_probability": 0.013271,
+      "seats_median": 259,
+      "seats_low": 218,
+      "seats_high": 301
+    },
+    {
+      "member_ids": [
+        "afd",
+        "left"
+      ],
+      "majority_probability": 0.001554,
+      "seats_median": 240,
+      "seats_low": 199,
+      "seats_high": 282
+    },
+    {
+      "member_ids": [
+        "afd",
+        "greens"
+      ],
+      "majority_probability": 0.001466,
+      "seats_median": 240,
+      "seats_low": 199,
+      "seats_high": 282
+    },
+    {
+      "member_ids": [
+        "spd",
+        "left"
+      ],
+      "majority_probability": 2e-06,
+      "seats_median": 196,
+      "seats_low": 155,
+      "seats_high": 238
+    },
+    {
+      "member_ids": [
+        "spd",
+        "greens"
+      ],
+      "majority_probability": 1e-06,
+      "seats_median": 196,
+      "seats_low": 155,
+      "seats_high": 238
+    },
+    {
+      "member_ids": [
+        "greens",
+        "left"
+      ],
+      "majority_probability": 0.0,
+      "seats_median": 177,
+      "seats_low": 136,
+      "seats_high": 219
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "germany_federal_returning_officer",
+      "label": "Federal Returning Officer",
+      "url": "https://www.bundeswahlleiterin.de/en/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "DL-DE-BY-2.0",
+      "license_url": "https://www.bundeswahlleiterin.de/europawahlen/2024/ergebnisse/opendata.html"
+    },
+    {
+      "source_id": "dawum_polls",
+      "label": "dawum German Election Polls",
+      "url": "https://api.dawum.de/",
+      "authority": "poll_aggregator",
+      "retrieved_at": "2026-08-09T08:00:00Z",
+      "license": "ODC-ODbL-1.0",
+      "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+    }
+  ]
+}

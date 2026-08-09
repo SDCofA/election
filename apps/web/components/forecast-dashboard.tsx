@@ -5,8 +5,10 @@ import Image from "next/image";
 import Link from "next/link";
 
 import type { components } from "@elexion/contracts";
+import { FlagIcon } from "@/components/flag-icon";
 import { ParliamentHemicycle } from "@/components/parliament-hemicycle";
 import { formatDate, formatDateTime, formatNumber, message as t } from "@/lib/i18n";
+import { publicAsset, publicEndpoint } from "@/lib/public-data";
 
 type Contestant = { id: string; name: string; short_name: string; color: string; incumbent?: boolean };
 type Outcome = {
@@ -35,12 +37,48 @@ type ForecastSnapshot = components["schemas"]["ForecastSnapshot"];
 type ElectionSummary = components["schemas"]["Election"];
 type JurisdictionSummary = components["schemas"]["Jurisdiction"];
 
+type InstitutionalFigure = {
+  name: string;
+  role: string;
+  portrait: string;
+  source: string;
+  credit: string;
+};
+
+const INSTITUTIONAL_FIGURES: Record<string, InstitutionalFigure[]> = {
+  "us-2028-president": [
+    {
+      name: "Donald J. Trump",
+      role: "President · incumbency context",
+      portrait: "/portraits/donald-trump.png",
+      source: "https://www.whitehouse.gov/administration/donald-j-trump/",
+      credit: "Official White House portrait"
+    },
+    {
+      name: "JD Vance",
+      role: "Vice President · succession context",
+      portrait: "/portraits/jd-vance.jpg",
+      source: "https://www.whitehouse.gov/administration/jd-vance/",
+      credit: "Official White House portrait"
+    }
+  ],
+  "de-next-bundestag": [
+    {
+      name: "Friedrich Merz",
+      role: "Federal Chancellor · incumbency context",
+      portrait: "/portraits/friedrich-merz.webp",
+      source: "https://www.bundesregierung.de/breg-en/federal-cabinet/2343412-2343412",
+      credit: "Federal Government / Steffen Kugler"
+    }
+  ]
+};
+
 function SiteBrand({ href = "/" }: { href?: string }) {
   return (
     <Link className="brand" href={href} aria-label="SDCofA Election Desk home">
       <Image
         className="brand-lockup"
-        src="/brand/sdcofa-logo-dark.png"
+        src={publicAsset("/brand/sdcofa-logo-dark.png")}
         alt="Strategic Data Company of Ankara"
         width={360}
         height={145}
@@ -205,7 +243,7 @@ function GlobalWatch({
           href={`/elections/${item.id}`}
           key={item.id}
         >
-          <i className={item.color}>{item.flag}</i>
+          <i className={item.color}><FlagIcon code={item.flag} label={item.country} /></i>
           <span><strong>{item.country}</strong><small>{item.label}</small></span>
           <em>{item.date}</em>
         </Link>
@@ -271,7 +309,7 @@ function CalendarOnlyView({
         <section className="workspace calendar-workspace" id="calendar-view">
           <div className="election-title">
             <div>
-              <span className="eyebrow">{detail.jurisdiction.flag} / INSTITUTIONAL VIEW</span>
+              <span className="eyebrow election-eyebrow"><FlagIcon code={detail.jurisdiction.flag} label={detail.jurisdiction.name} /> INSTITUTIONAL VIEW</span>
               <h1>{detail.jurisdiction.name} <strong>{detail.election.name}</strong></h1>
               <p>No probability is published for this limited-coverage election.</p>
             </div>
@@ -311,8 +349,8 @@ function CalendarOnlyView({
           <article className="mini-panel methodology">
             <span>TRANSPARENCY</span>
             <Link href="/methodology">OPEN METHODOLOGY →</Link>
-            <Link href={`/v1/elections/${electionId}/mechanics`}>OPEN MECHANICS →</Link>
-            <Link href={`/v1/elections/${electionId}/sources`}>OPEN SOURCES →</Link>
+            <a href={publicEndpoint(`/v1/elections/${electionId}/mechanics`)}>OPEN MECHANICS →</a>
+            <a href={publicEndpoint(`/v1/elections/${electionId}/sources`)}>OPEN SOURCES →</a>
           </article>
         </aside>
       </main>
@@ -355,7 +393,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
     const controller = new AbortController();
     const optionalJson = async <T,>(path: string): Promise<T | null> => {
       try {
-        const response = await fetch(`${apiUrl}${path}`, { signal: controller.signal });
+        const response = await fetch(publicEndpoint(path), { signal: controller.signal });
         return response.ok ? await response.json() as T : null;
       } catch (error: unknown) {
         if (error instanceof DOMException && error.name === "AbortError") throw error;
@@ -363,7 +401,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
       }
     };
     Promise.all([
-      fetch(`${apiUrl}/v1/elections/${encodeURIComponent(electionId)}`, { signal: controller.signal }),
+      fetch(publicEndpoint(`/v1/elections/${encodeURIComponent(electionId)}`), { signal: controller.signal }),
       optionalJson<CatalogStatus>("/v1/catalog/status"),
       optionalJson<ElectionSummary[]>("/v1/elections"),
       optionalJson<JurisdictionSummary[]>("/v1/jurisdictions")
@@ -377,11 +415,11 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
         if (detailData.forecast) {
           const [comparisonResponse, historyResponse, optionalCoalitionData] = await Promise.all([
             fetch(
-              `${apiUrl}/v1/elections/${encodeURIComponent(electionId)}/model-comparison`,
+              publicEndpoint(`/v1/elections/${encodeURIComponent(electionId)}/model-comparison`),
               { signal: controller.signal }
             ),
             fetch(
-              `${apiUrl}/v1/elections/${encodeURIComponent(electionId)}/forecasts`,
+              publicEndpoint(`/v1/elections/${encodeURIComponent(electionId)}/forecasts`),
               { signal: controller.signal }
             ),
             optionalJson<CoalitionReport>(`/v1/elections/${encodeURIComponent(electionId)}/coalitions`)
@@ -416,7 +454,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
       window.clearTimeout(firstTick);
       window.clearInterval(clock);
     };
-  }, [apiUrl, electionId]);
+  }, [electionId]);
 
   const outcomes = useMemo(
     () => (detail.forecast?.outcomes ?? []).map((outcome) => ({
@@ -460,6 +498,21 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
     );
   }
 
+  const figures = INSTITUTIONAL_FIGURES[electionId] ?? [];
+  const leadingProbability = leaders[0]?.win_probability ?? 0.5;
+  const monteCarloSe = Math.sqrt(
+    leadingProbability * (1 - leadingProbability) / forecast.simulation_count
+  ) * 100;
+  const entropy = -[
+    leadingProbability,
+    1 - leadingProbability
+  ].reduce((sum, probability) => (
+    probability > 0 ? sum + probability * Math.log2(probability) : sum
+  ), 0);
+  const intervalWidth = leaders[0]
+    ? (leaders[0].share_high - leaders[0].share_low) * 100
+    : 0;
+
   return (
     <div className="shell">
       <header className="topbar">
@@ -494,7 +547,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
         <section className="workspace" id="forecast">
           <div className="election-title">
             <div>
-              <span className="eyebrow">{detail.jurisdiction.flag} / NATIONAL FORECAST</span>
+              <span className="eyebrow election-eyebrow"><FlagIcon code={detail.jurisdiction.flag} label={detail.jurisdiction.name} /> NATIONAL FORECAST</span>
               <h1>{detail.jurisdiction.name} <strong>{detail.election.name.replace(" Election", "")}</strong></h1>
               <p>{forecast.headline}</p>
             </div>
@@ -648,15 +701,38 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
               <div className="comparison-evidence-empty">0 VERIFIED OUT-OF-SAMPLE FOLDS · NO WINNER DECLARED</div>
             )}
           </article>
+          <article className="panel diagnostics-panel" aria-labelledby="diagnostics-heading">
+            <header><span id="diagnostics-heading">MODEL DIAGNOSTICS</span><small>For the statistically curious</small></header>
+            <div>
+              <span><small>BINARY ENTROPY</small><b>{entropy.toFixed(3)} bits</b><em>1.000 = maximum uncertainty</em></span>
+              <span><small>MONTE CARLO SE</small><b>±{monteCarloSe.toFixed(3)} pp</b><em>At displayed lead probability</em></span>
+              <span><small>90% SHARE WIDTH</small><b>{intervalWidth.toFixed(1)} pp</b><em>Leading modeled bloc</em></span>
+              <span><small>VERIFIED FOLDS</small><b>{comparison?.fold_count ?? 0}</b><em>Strict walk-forward only</em></span>
+            </div>
+          </article>
+          {figures.length > 0 && (
+            <article className="panel institutional-panel" aria-labelledby="institutional-heading">
+              <header><span id="institutional-heading">INSTITUTIONAL CONTEXT</span><small>Official portraits · not candidate assumptions</small></header>
+              <div>
+                {figures.map((figure) => (
+                  <a href={figure.source} key={figure.name} rel="noreferrer">
+                    <Image alt={figure.name} height={180} src={publicAsset(figure.portrait)} width={180} />
+                    <span><b>{figure.name}</b><small>{figure.role}</small><em>{figure.credit}</em></span>
+                  </a>
+                ))}
+              </div>
+              <p>Portraits identify current institutional actors only. The forecast remains coalition-level until candidature is officially verified.</p>
+            </article>
+          )}
           <article className="panel history-panel" aria-labelledby="history-heading">
             <header><h2 id="history-heading">{t("forecast.history")}</h2><small>Snapshot replay</small></header>
             <div className="history-list">
               {history.slice(0, 5).map((snapshot, index) => (
-                <Link href={`/v1/forecast-snapshots/${snapshot.id}`} key={snapshot.id}>
+                <a href={publicEndpoint(`/v1/forecast-snapshots/${snapshot.id}`)} key={snapshot.id}>
                   <time>{formatDateTime(snapshot.published_at)}</time>
                   <b>{snapshot.model_family.replaceAll("_", " ")}</b>
                   <span>{index === 0 ? "LATEST VALID" : "ARCHIVED"} · {snapshot.data_quality}</span>
-                </Link>
+                </a>
               ))}
               {history.length < 2 && (
                 <p>Historical comparison activates after a second immutable publication.</p>
@@ -727,7 +803,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
             <div><b>{forecast.drivers.length}</b><small>ACTIVE DRIVERS</small></div>
             <div><b>{forecast.input_provenance.length}</b><small>MODEL INPUT SOURCES</small></div>
             <Link href="/methodology">OPEN METHODOLOGY →</Link>
-            <a href={`${apiUrl}/docs`}>OPEN API →</a>
+            <a href={apiUrl ? `${apiUrl}/docs` : publicAsset("/data/openapi-v1.json")}>OPEN API SCHEMA →</a>
           </article>
         </aside>
       </main>

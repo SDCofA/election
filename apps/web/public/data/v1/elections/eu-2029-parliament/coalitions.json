@@ -1,0 +1,293 @@
+{
+  "election_id": "eu-2029-parliament",
+  "snapshot_id": "eu-2029-parliament-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
+  "majority": 361,
+  "coalitions": [
+    {
+      "member_ids": [
+        "epp",
+        "sd",
+        "right",
+        "lib-green"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 634,
+      "seats_low": 589,
+      "seats_high": 678
+    },
+    {
+      "member_ids": [
+        "epp",
+        "sd",
+        "right",
+        "other"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 590,
+      "seats_low": 546,
+      "seats_high": 635
+    },
+    {
+      "member_ids": [
+        "epp",
+        "sd",
+        "lib-green",
+        "other"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 547,
+      "seats_low": 503,
+      "seats_high": 592
+    },
+    {
+      "member_ids": [
+        "epp",
+        "right",
+        "lib-green",
+        "other"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 583,
+      "seats_low": 539,
+      "seats_high": 628
+    },
+    {
+      "member_ids": [
+        "sd",
+        "right",
+        "lib-green",
+        "other"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 525,
+      "seats_low": 480,
+      "seats_high": 571
+    },
+    {
+      "member_ids": [
+        "epp",
+        "sd",
+        "right"
+      ],
+      "majority_probability": 0.999987,
+      "seats_median": 504,
+      "seats_low": 449,
+      "seats_high": 559
+    },
+    {
+      "member_ids": [
+        "epp",
+        "right",
+        "lib-green"
+      ],
+      "majority_probability": 0.999979,
+      "seats_median": 497,
+      "seats_low": 442,
+      "seats_high": 552
+    },
+    {
+      "member_ids": [
+        "epp",
+        "sd",
+        "lib-green"
+      ],
+      "majority_probability": 0.998654,
+      "seats_median": 461,
+      "seats_low": 406,
+      "seats_high": 516
+    },
+    {
+      "member_ids": [
+        "epp",
+        "right",
+        "other"
+      ],
+      "majority_probability": 0.997547,
+      "seats_median": 454,
+      "seats_low": 399,
+      "seats_high": 509
+    },
+    {
+      "member_ids": [
+        "sd",
+        "right",
+        "lib-green"
+      ],
+      "majority_probability": 0.990348,
+      "seats_median": 439,
+      "seats_low": 384,
+      "seats_high": 494
+    },
+    {
+      "member_ids": [
+        "epp",
+        "sd",
+        "other"
+      ],
+      "majority_probability": 0.957187,
+      "seats_median": 418,
+      "seats_low": 363,
+      "seats_high": 473
+    },
+    {
+      "member_ids": [
+        "epp",
+        "lib-green",
+        "other"
+      ],
+      "majority_probability": 0.933207,
+      "seats_median": 411,
+      "seats_low": 356,
+      "seats_high": 465
+    },
+    {
+      "member_ids": [
+        "sd",
+        "right",
+        "other"
+      ],
+      "majority_probability": 0.85377,
+      "seats_median": 396,
+      "seats_low": 341,
+      "seats_high": 451
+    },
+    {
+      "member_ids": [
+        "right",
+        "lib-green",
+        "other"
+      ],
+      "majority_probability": 0.798464,
+      "seats_median": 389,
+      "seats_low": 333,
+      "seats_high": 444
+    },
+    {
+      "member_ids": [
+        "epp",
+        "right"
+      ],
+      "majority_probability": 0.581601,
+      "seats_median": 367,
+      "seats_low": 312,
+      "seats_high": 423
+    },
+    {
+      "member_ids": [
+        "sd",
+        "lib-green",
+        "other"
+      ],
+      "majority_probability": 0.406787,
+      "seats_median": 353,
+      "seats_low": 297,
+      "seats_high": 408
+    },
+    {
+      "member_ids": [
+        "epp",
+        "sd"
+      ],
+      "majority_probability": 0.193217,
+      "seats_median": 331,
+      "seats_low": 276,
+      "seats_high": 387
+    },
+    {
+      "member_ids": [
+        "epp",
+        "lib-green"
+      ],
+      "majority_probability": 0.139474,
+      "seats_median": 324,
+      "seats_low": 269,
+      "seats_high": 379
+    },
+    {
+      "member_ids": [
+        "sd",
+        "right"
+      ],
+      "majority_probability": 0.062931,
+      "seats_median": 309,
+      "seats_low": 255,
+      "seats_high": 364
+    },
+    {
+      "member_ids": [
+        "right",
+        "lib-green"
+      ],
+      "majority_probability": 0.040104,
+      "seats_median": 302,
+      "seats_low": 247,
+      "seats_high": 357
+    },
+    {
+      "member_ids": [
+        "epp",
+        "other"
+      ],
+      "majority_probability": 0.008899,
+      "seats_median": 281,
+      "seats_low": 226,
+      "seats_high": 336
+    },
+    {
+      "member_ids": [
+        "sd",
+        "lib-green"
+      ],
+      "majority_probability": 0.002229,
+      "seats_median": 266,
+      "seats_low": 211,
+      "seats_high": 321
+    },
+    {
+      "member_ids": [
+        "right",
+        "other"
+      ],
+      "majority_probability": 0.001215,
+      "seats_median": 259,
+      "seats_low": 204,
+      "seats_high": 314
+    },
+    {
+      "member_ids": [
+        "sd",
+        "other"
+      ],
+      "majority_probability": 2e-05,
+      "seats_median": 223,
+      "seats_low": 168,
+      "seats_high": 278
+    },
+    {
+      "member_ids": [
+        "lib-green",
+        "other"
+      ],
+      "majority_probability": 1.3e-05,
+      "seats_median": 216,
+      "seats_low": 161,
+      "seats_high": 271
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "eu_parliament_elections",
+      "label": "European Parliament",
+      "url": "https://elections.europa.eu/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "EP-REUSE-NOTICE",
+      "license_url": "https://elections.europa.eu/en/legal-notice/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "jurisdiction": {
+    "id": "au-union",
+    "name": "African Union",
+    "iso3": null,
+    "region": "Africa",
+    "eligibility": "supranational-calendar",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Institutional contestant field is not resolved for the next leadership cycle"
+    ],
+    "flag": "AU"
+  },
+  "election": {
+    "id": "au-next-chair",
+    "jurisdiction_id": "au-union",
+    "name": "Next AU Commission Leadership Cycle",
+    "election_date": "2029-02-15",
+    "date_confidence": "cycle estimate",
+    "system": "institutional",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "calendar only",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "contestants": [],
+    "sources": [
+      {
+        "source_id": "african_union_calendar",
+        "label": "African Union",
+        "url": "https://au.int/",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "license": "WRITTEN-PERMISSION-REQUIRED",
+        "license_url": "https://au.int/en/legal_notice"
+      }
+    ]
+  },
+  "forecast": null
+}

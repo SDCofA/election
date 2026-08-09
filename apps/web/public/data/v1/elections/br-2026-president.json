@@ -1,0 +1,42 @@
+{
+  "jurisdiction": {
+    "id": "bra",
+    "name": "Brazil",
+    "iso3": "BRA",
+    "region": "Latin America & Caribbean ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Official contestant registration remains unresolved"
+    ],
+    "flag": "BR"
+  },
+  "election": {
+    "id": "br-2026-president",
+    "jurisdiction_id": "bra",
+    "name": "2026 Presidential Election",
+    "election_date": "2026-10-04",
+    "date_confidence": "official",
+    "system": "presidential_runoff",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "calendar only; official contestant registration unresolved",
+    "last_updated": "2026-08-09T12:00:00Z",
+    "contestants": [],
+    "sources": [
+      {
+        "source_id": "brazil_tse",
+        "label": "Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T12:00:00Z",
+        "license": "CC-BY-4.0",
+        "license_url": "https://dadosabertos.tse.jus.br/dataset/?license_id=cc-by"
+      }
+    ]
+  },
+  "forecast": null
+}

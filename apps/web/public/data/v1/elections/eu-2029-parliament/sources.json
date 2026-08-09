@@ -1,0 +1,30 @@
+{
+  "election_id": "eu-2029-parliament",
+  "sources": [
+    {
+      "source_id": "eu_parliament_elections",
+      "label": "European Parliament",
+      "url": "https://elections.europa.eu/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "EP-REUSE-NOTICE",
+      "license_url": "https://elections.europa.eu/en/legal-notice/"
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "eu_parliament_elections",
+      "label": "European Parliament",
+      "url": "https://elections.europa.eu/",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "EP-REUSE-NOTICE",
+      "license_url": "https://elections.europa.eu/en/legal-notice/"
+    }
+  ]
+}

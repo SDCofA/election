@@ -169,7 +169,11 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   font-style: normal;
   font-size: 9px;
   font-weight: 850;
+  overflow: hidden;
 }
+.flag-icon { width: 100%; height: 100%; display: inline-flex; align-items: center; justify-content: center; overflow: hidden; }
+.flag-icon img { width: 100%; height: 100%; display: block; object-fit: cover; }
+.flag-code { width: 100%; height: 100%; display: grid; place-items: center; }
 .watch i.cyan, .watch i.gold, .watch i.violet, .watch i.amber { color: #272727; border-color: #b9b6ae; }
 .watch span { min-width: 0; display: grid; gap: 4px; }
 .watch strong { font: 700 11px/1.1 var(--font-display); }
@@ -185,6 +189,8 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
 .workspace { min-width: 0; padding: 30px clamp(20px, 2.6vw, 42px) 50px; background: var(--paper); }
 .election-title { min-height: 118px; display: flex; justify-content: space-between; align-items: start; gap: 28px; border-bottom: 1px solid var(--line-strong); }
 .eyebrow { color: var(--red); font-size: 9px; font-weight: 850; letter-spacing: .16em; }
+.election-eyebrow { display: inline-flex; align-items: center; gap: 9px; }
+.election-eyebrow .flag-icon { width: 30px; height: 20px; border: 1px solid #b4b0a7; box-shadow: 0 3px 9px rgba(0,0,0,.08); }
 h1 { margin: 9px 0 8px; font: 600 clamp(34px, 4vw, 60px)/.94 Georgia, "Times New Roman", serif; letter-spacing: -.04em; }
 h1 strong { font-weight: 400; color: #55514a; }
 .election-title p { max-width: 650px; margin: 0 0 18px; color: #5e5d59; font: 450 13px/1.45 var(--font-body); }
@@ -319,7 +325,7 @@ h1 strong { font-weight: 400; color: #55514a; }
 .sensitivity-row strong { color: var(--red); }
 .sensitivity-row sup { margin-inline-start: 5px; color: #8a6500; font-size: 5px; }
 
-.comparison-panel, .history-panel, .source-ledger-panel, .coalition-panel { margin-top: 16px; }
+.comparison-panel, .diagnostics-panel, .institutional-panel, .history-panel, .source-ledger-panel, .coalition-panel { margin-top: 16px; }
 .comparison-summary { display: grid; grid-template-columns: repeat(4, 1fr); border-bottom: 1px solid var(--line); }
 .comparison-summary > div { min-width: 0; padding: 15px; border-inline-end: 1px solid var(--line); background: #faf9f6; }
 .comparison-summary > div:last-child { border-inline-end: 0; }
@@ -333,6 +339,20 @@ h1 strong { font-weight: 400; color: #55514a; }
 .comparison-metrics-row { border-top: 1px solid var(--line); color: #55524e; font: 600 9px/1.2 ui-monospace, monospace; }
 .comparison-metrics-row span:first-child { color: #111; text-transform: uppercase; }
 .comparison-evidence-empty { padding: 11px 15px; color: #785900; background: #fff8dc; font: 750 8px/1.2 var(--font-display); letter-spacing: .08em; }
+.diagnostics-panel > div { display: grid; grid-template-columns: repeat(4, 1fr); }
+.diagnostics-panel > div > span { min-width: 0; padding: 18px 15px; display: grid; gap: 6px; border-inline-end: 1px solid var(--line); background: #faf9f6; }
+.diagnostics-panel > div > span:last-child { border-inline-end: 0; }
+.diagnostics-panel small { color: #77746e; font-size: 7px; font-weight: 800; letter-spacing: .1em; }
+.diagnostics-panel b { font: 700 19px/1 var(--font-display); }
+.diagnostics-panel em { color: #6b6862; font-size: 8px; font-style: normal; line-height: 1.35; }
+.institutional-panel > div { padding: 16px; display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; }
+.institutional-panel > div > a { min-height: 116px; display: grid; grid-template-columns: 96px 1fr; align-items: stretch; border: 1px solid var(--line); background: #faf9f6; }
+.institutional-panel img { width: 96px; height: 116px; object-fit: cover; object-position: center top; filter: saturate(.82) contrast(1.03); }
+.institutional-panel a > span { padding: 13px 12px; display: flex; flex-direction: column; justify-content: center; gap: 6px; }
+.institutional-panel b { font: 650 15px/1.1 Georgia, serif; }
+.institutional-panel small { color: #55524e; font-size: 8px; line-height: 1.35; text-transform: uppercase; }
+.institutional-panel em { color: #827f78; font-size: 7px; font-style: normal; }
+.institutional-panel > p { margin: 0; padding: 0 16px 16px; color: #66635d; font-size: 8px; line-height: 1.45; }
 .history-list, .source-ledger-panel > div { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); }
 .history-list a, .source-ledger-panel a { min-height: 64px; padding: 12px 15px; display: grid; gap: 4px; border-inline-end: 1px solid var(--line); background: #fff; }
 .history-list a:hover, .source-ledger-panel a:hover { background: #f8f6f1; }
@@ -401,6 +421,7 @@ h1 strong { font-weight: 400; color: #55514a; }
 .calendar-directory-grid a { min-height: 82px; padding: 14px; display: grid; grid-template-columns: 40px minmax(0, 1fr) auto; align-items: center; gap: 11px; border: 1px solid var(--line); border-top: 4px solid var(--ink); background: #fff; box-shadow: 0 8px 25px rgba(24,21,16,.04); }
 .calendar-directory-grid a:hover { transform: translateY(-2px); border-top-color: var(--red); box-shadow: var(--shadow); }
 .calendar-directory-grid i { width: 38px; height: 38px; display: grid; place-content: center; border: 1px solid #aaa69d; color: #333; background: #f6f4ee; font: 750 9px/1 var(--font-display); font-style: normal; }
+.calendar-directory-grid i .flag-icon { width: 36px; height: 26px; }
 .calendar-directory-grid span { min-width: 0; }
 .calendar-directory-grid strong, .calendar-directory-grid small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .calendar-directory-grid strong { font: 700 12px/1 var(--font-display); }
@@ -470,6 +491,8 @@ h1 strong { font-weight: 400; color: #55514a; }
   .sensitivity-head, .sensitivity-row { grid-template-columns: minmax(92px, 1.25fr) repeat(3, minmax(55px, 1fr)); }
   .sensitivity-head b, .sensitivity-row > * { padding: 7px 5px; }
   .comparison-summary { grid-template-columns: 1fr 1fr; }
+  .diagnostics-panel > div { grid-template-columns: 1fr 1fr; }
+  .diagnostics-panel > div > span { border-bottom: 1px solid var(--line); }
   .comparison-summary > div:nth-child(2) { border-inline-end: 0; }
   .comparison-summary > div { border-bottom: 1px solid var(--line); }
   .coalition-result { grid-template-columns: 1fr; }

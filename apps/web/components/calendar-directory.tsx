@@ -4,7 +4,9 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 
 import type { components } from "@elexion/contracts";
+import { FlagIcon } from "@/components/flag-icon";
 import { formatDate } from "@/lib/i18n";
+import { publicEndpoint } from "@/lib/public-data";
 
 type Election = components["schemas"]["Election"];
 type Jurisdiction = components["schemas"]["Jurisdiction"];
@@ -16,14 +18,12 @@ export function CalendarDirectory() {
   const [status, setStatus] = useState<CatalogStatus | null>(null);
   const [query, setQuery] = useState("");
   const [error, setError] = useState(false);
-  const apiUrl = process.env.NEXT_PUBLIC_API_URL ?? "";
-
   useEffect(() => {
     const controller = new AbortController();
     Promise.all([
-      fetch(`${apiUrl}/v1/elections`, { signal: controller.signal }),
-      fetch(`${apiUrl}/v1/jurisdictions`, { signal: controller.signal }),
-      fetch(`${apiUrl}/v1/catalog/status`, { signal: controller.signal }),
+      fetch(publicEndpoint("/v1/elections"), { signal: controller.signal }),
+      fetch(publicEndpoint("/v1/jurisdictions"), { signal: controller.signal }),
+      fetch(publicEndpoint("/v1/catalog/status"), { signal: controller.signal }),
     ])
       .then(async ([electionResponse, jurisdictionResponse, statusResponse]) => {
         if (![electionResponse, jurisdictionResponse, statusResponse].every((item) => item.ok)) {
@@ -44,7 +44,7 @@ export function CalendarDirectory() {
         }
       });
     return () => controller.abort();
-  }, [apiUrl]);
+  }, []);
 
   const entries = useMemo(() => {
     const byId = new Map(jurisdictions.map((item) => [item.id, item]));
@@ -87,7 +87,7 @@ export function CalendarDirectory() {
         <section className="calendar-directory-grid" aria-label="Election calendar records">
           {entries.map(({ election, jurisdiction }) => (
             <Link href={`/elections/${election.id}`} key={election.id}>
-              <i>{jurisdiction?.flag ?? election.jurisdiction_id.slice(0, 2).toUpperCase()}</i>
+              <i><FlagIcon code={jurisdiction?.flag ?? election.jurisdiction_id.slice(0, 2)} label={jurisdiction?.name} /></i>
               <span>
                 <strong>{jurisdiction?.name ?? election.jurisdiction_id}</strong>
                 <small>{election.name} · {election.system.replaceAll("_", " ")}</small>

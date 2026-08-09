@@ -1,0 +1,40 @@
+{
+  "election_id": "br-2026-president",
+  "system": "presidential_runoff",
+  "rules": {
+    "engine": "presidential_runoff",
+    "rounds": 2,
+    "first_round_threshold": 0.5,
+    "second_round_date": "2026-10-25",
+    "office": "President and Vice President"
+  },
+  "source_adapters": [
+    {
+      "source_id": "brazil_tse",
+      "status": "approved",
+      "formats": [
+        "html",
+        "pdf",
+        "csv",
+        "zip"
+      ]
+    }
+  ],
+  "forecast_enabled": false,
+  "as_of": "2026-08-09T12:00:00Z",
+  "published_at": "2026-08-09T12:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "calendar only; official contestant registration unresolved",
+  "provenance": [
+    {
+      "source_id": "brazil_tse",
+      "label": "Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "CC-BY-4.0",
+      "license_url": "https://dadosabertos.tse.jus.br/dataset/?license_id=cc-by"
+    }
+  ]
+}

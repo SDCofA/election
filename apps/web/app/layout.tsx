@@ -5,9 +5,10 @@ import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-body" });
 const display = Space_Grotesk({ subsets: ["latin"], variable: "--font-display" });
+const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, "");
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
+  metadataBase: new URL(`${siteUrl}/`),
   title: "SDCofA Election Desk — Global Election Intelligence",
   description: "Transparent, calibrated election forecasting from the Strategic Data Company of Ankara.",
   authors: [{ name: "Strategic Data Company of Ankara", url: "https://github.com/SDCofA" }],
@@ -15,13 +16,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: "SDCofA Election Desk — Global Election Intelligence",
     description: "Transparent, calibrated election forecasting from the Strategic Data Company of Ankara.",
-    images: [{ url: "/brand/sdcofa-election-desk-social.png", width: 1730, height: 910 }]
+    images: [{ url: "brand/sdcofa-election-desk-social.png", width: 1730, height: 910 }]
   },
   twitter: {
     card: "summary_large_image",
     title: "SDCofA Election Desk — Global Election Intelligence",
     description: "Transparent, calibrated election forecasting from the Strategic Data Company of Ankara.",
-    images: ["/brand/sdcofa-election-desk-social.png"]
+    images: ["brand/sdcofa-election-desk-social.png"]
   }
 };
 

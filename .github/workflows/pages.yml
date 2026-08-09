@@ -1,0 +1,57 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with: { enable-cache: true }
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 24, cache: pnpm }
+      - uses: actions/configure-pages@v5
+      - run: pnpm install --frozen-lockfile
+      - run: uv sync --project services/api --locked
+      - run: uv run --project services/api python services/api/scripts/export_static_site_data.py
+      - name: Configure GitHub Pages paths
+        shell: bash
+        run: |
+          repo_name="${GITHUB_REPOSITORY#*/}"
+          owner="${GITHUB_REPOSITORY_OWNER,,}"
+          if [[ "$repo_name" == "${GITHUB_REPOSITORY_OWNER}.github.io" ]]; then
+            base_path=""
+          else
+            base_path="/$repo_name"
+          fi
+          echo "PAGES_BASE_PATH=$base_path" >> "$GITHUB_ENV"
+          echo "NEXT_PUBLIC_BASE_PATH=$base_path" >> "$GITHUB_ENV"
+          echo "NEXT_PUBLIC_SITE_URL=https://${owner}.github.io${base_path}" >> "$GITHUB_ENV"
+      - run: GITHUB_PAGES=true pnpm --filter @elexion/web build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: apps/web/out
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
