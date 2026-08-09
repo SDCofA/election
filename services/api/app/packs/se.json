@@ -6,11 +6,9 @@
     "region": "Europe & Central Asia",
     "eligibility": "v-dem:liberal-democracy",
     "is_exception": false,
-    "forecast_enabled": false,
-    "coverage_status": "calendar_only",
-    "blocking_reasons": [
-      "Official party participation and candidate registration remain open"
-    ],
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
     "flag": "SE"
   },
   "source_adapters": [
@@ -53,9 +51,24 @@
     "seats_total": 349,
     "majority": 175,
     "threshold": 0.04,
-    "status": "calendar only; official party and candidate registration remains open",
+    "status": "exploratory bloc forecast; final candidate lists remain open",
     "last_updated": "2026-08-09T12:00:00Z",
-    "contestants": [],
+    "contestants": [
+      {"id":"red-green-centre","name":"Social Democratic-led opposition bloc","short_name":"S+","color":"#d22f2f","ideology":"Social Democrats, Left, Greens and possible Centre support","ballot_status":"scenario","basis":"Coalition-control scenario built from current Riksdag parties; not a joint ballot list."},
+      {"id":"government-parties","name":"Moderate-led government parties","short_name":"M+","color":"#315a9b","incumbent":true,"ideology":"Moderates, Christian Democrats and Liberals","ballot_status":"scenario","basis":"Incumbent government-party scenario; parties contest separately."},
+      {"id":"sweden-democrats","name":"Sweden Democrats","short_name":"SD","color":"#d2b332","ideology":"national conservative","ballot_status":"possible","basis":"Current Riksdag party and 2026 participation signal."},
+      {"id":"other-parties","name":"Other participating parties","short_name":"OTH","color":"#706b62","ideology":"other registered parties","ballot_status":"possible","basis":"Residual field for participating parties outside the current Riksdag."}
+    ],
+    "potential_candidates": [
+      {"id":"social-democrats","name":"Social Democratic Party","short_name":"S","color":"#d22f2f","leader":"Magdalena Andersson","ballot_status":"possible","basis":"Current Riksdag party; final ballots remain authoritative."},
+      {"id":"moderates","name":"Moderate Party","short_name":"M","color":"#315a9b","leader":"Ulf Kristersson","incumbent":true,"ballot_status":"possible","basis":"Current Riksdag party; final ballots remain authoritative."},
+      {"id":"sweden-democrats","name":"Sweden Democrats","short_name":"SD","color":"#d2b332","leader":"Jimmie Åkesson","ballot_status":"possible","basis":"Current Riksdag party; final ballots remain authoritative."},
+      {"id":"left","name":"Left Party","short_name":"V","color":"#9d1c32","leader":"Nooshi Dadgostar","ballot_status":"possible","basis":"Current Riksdag party; final ballots remain authoritative."},
+      {"id":"centre","name":"Centre Party","short_name":"C","color":"#27833f","ballot_status":"possible","basis":"Current Riksdag party; final ballots remain authoritative."},
+      {"id":"christian-democrats","name":"Christian Democrats","short_name":"KD","color":"#244c88","ballot_status":"possible","basis":"Current Riksdag party; final ballots remain authoritative."},
+      {"id":"liberals","name":"Liberals","short_name":"L","color":"#1687c7","ballot_status":"possible","basis":"Current Riksdag party; final ballots remain authoritative."},
+      {"id":"greens","name":"Green Party","short_name":"MP","color":"#4b9b45","ballot_status":"possible","basis":"Current Riksdag party; final ballots remain authoritative."}
+    ],
     "sources": [
       {
         "source_id": "sweden_election_authority",
@@ -65,7 +78,30 @@
         "retrieved_at": "2026-08-09T12:00:00Z",
         "license": "SE-ELECTION-OPEN-ATTRIBUTION",
         "license_url": "https://www.val.se/valresultat-och-statistik/statistik-och-data/om-var-oppna-data"
+      },
+      {
+        "source_id": "sweden_election_authority",
+        "label": "Swedish Election Authority — parties participating in 2026",
+        "url": "https://www.val.se/stalla-upp-i-val/anmalda-och-registrerade-partier/partier-som-deltar-i-kommande-val",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "SE-ELECTION-OPEN-ATTRIBUTION",
+        "license_url": "https://www.val.se/valresultat-och-statistik/statistik-och-data/om-var-oppna-data"
       }
     ]
-  }
+  },
+  "model": {
+    "base_shares": [0.46, 0.28, 0.21, 0.05],
+    "volatility": 0.055,
+    "turnout": 0.84,
+    "data_quality": "D",
+    "freshness": "structural bloc scenario; source-vintage polling snapshot pending",
+    "headline": "The opposition bloc leads structurally, but government formation remains coalition-dependent."
+  },
+  "drivers": [
+    {"key":"incumbency","label":"Government incumbency","value":"Moderate-led cabinet","contribution":0.10,"direction":"government","confidence":0.60},
+    {"key":"economy","label":"Household economy","value":"Source-vintage input pending","contribution":-0.10,"direction":"government","confidence":0.25},
+    {"key":"coalition","label":"Bloc and confidence-and-supply coordination","value":"High leverage","contribution":-0.12,"direction":"government","confidence":0.55},
+    {"key":"polling","label":"Polling signal","value":"Not ingested into a reproducible snapshot","contribution":0.0,"direction":"neutral","confidence":0.10}
+  ]
 }

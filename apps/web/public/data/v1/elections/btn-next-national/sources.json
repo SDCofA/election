@@ -13,9 +13,9 @@
   ],
   "as_of": "2026-08-09T09:00:00Z",
   "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "calendar-0.1.0",
+  "model_version": "structural-ensemble-0.3.0",
   "data_quality": "D",
-  "freshness": "TBD — awaiting an approved official calendar release",
+  "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [
     {
       "source_id": "btn_electoral_authority_reference",

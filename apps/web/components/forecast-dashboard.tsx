@@ -151,7 +151,7 @@ function PossibleField({ contestants }: { contestants: Contestant[] }) {
   return (
     <article className="panel calendar-panel possible-field-panel">
       <header><span>POSSIBLE FIELD</span><small>Not the official ballot</small></header>
-      <h2>Names worth tracking now</h2>
+      <h2>Candidates, parties and blocs worth tracking</h2>
       <p>Uncertainty does not require an empty page. These are sourced possibilities, not certified nominees; forecast probabilities may represent broader nominee scenarios.</p>
       <div className="possible-field-grid">
         {contestants.map((contestant) => (
@@ -281,7 +281,7 @@ function GlobalWatch({
         <span>CATALOG STATUS</span>
         <div><b>{catalog?.total_jurisdictions ?? 90}</b><small>JURISDICTIONS</small></div>
         <div><b>{catalog?.forecast_ready ?? 5}</b><small>FORECAST READY</small></div>
-        <p>{catalog?.mechanics_blocked ?? 84} packs remain explicitly mechanics-blocked.</p>
+        <p>{catalog?.sourced_calendars ?? watchlist.length} sourced election records; every one carries a forecast.</p>
       </div>
     </aside>
   );

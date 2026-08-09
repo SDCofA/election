@@ -80,7 +80,63 @@
         "basis": null
       }
     ],
-    "potential_candidates": [],
+    "potential_candidates": [
+      {
+        "id": "union",
+        "name": "CDU/CSU",
+        "short_name": "UNION",
+        "color": "#c5cad2",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "Centre-right",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "afd",
+        "name": "Alternative for Germany",
+        "short_name": "AFD",
+        "color": "#23a7e0",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Right",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "spd",
+        "name": "Social Democratic Party",
+        "short_name": "SPD",
+        "color": "#ec3346",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Centre-left",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "greens",
+        "name": "Alliance 90/The Greens",
+        "short_name": "GRN",
+        "color": "#4caf63",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Green",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "left",
+        "name": "The Left and others",
+        "short_name": "OTH",
+        "color": "#a857c7",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Mixed",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      }
+    ],
     "sources": [
       {
         "source_id": "germany_federal_returning_officer",

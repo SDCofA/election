@@ -9,13 +9,22 @@
       "retrieved_at": "2026-08-09T12:00:00Z",
       "license": "CC-BY-4.0",
       "license_url": "https://dadosabertos.tse.jus.br/dataset/?license_id=cc-by"
+    },
+    {
+      "source_id": "associated_press_brazil_2026",
+      "label": "Associated Press — Lula and Flávio Bolsonaro leading confirmed tickets",
+      "url": "https://apnews.com/article/brazil-flavio-bolsonaro-october-election-lula-6b84c31d17ee9f0a668e6b381a780e4f",
+      "authority": "independent reporting; candidate signal",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ap.org/terms-and-conditions/"
     }
   ],
   "as_of": "2026-08-09T12:00:00Z",
   "published_at": "2026-08-09T12:00:00Z",
-  "model_version": "calendar-0.1.0",
+  "model_version": "structural-ensemble-0.3.0",
   "data_quality": "D",
-  "freshness": "calendar only; official contestant registration unresolved",
+  "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [
     {
       "source_id": "brazil_tse",
@@ -25,6 +34,15 @@
       "retrieved_at": "2026-08-09T12:00:00Z",
       "license": "CC-BY-4.0",
       "license_url": "https://dadosabertos.tse.jus.br/dataset/?license_id=cc-by"
+    },
+    {
+      "source_id": "associated_press_brazil_2026",
+      "label": "Associated Press — Lula and Flávio Bolsonaro leading confirmed tickets",
+      "url": "https://apnews.com/article/brazil-flavio-bolsonaro-october-election-lula-6b84c31d17ee9f0a668e6b381a780e4f",
+      "authority": "independent reporting; candidate signal",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ap.org/terms-and-conditions/"
     }
   ]
 }

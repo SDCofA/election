@@ -47,7 +47,30 @@
         "basis": null
       }
     ],
-    "potential_candidates": [],
+    "potential_candidates": [
+      {
+        "id": "incumbent-bloc",
+        "name": "Government-aligned candidate",
+        "short_name": "GOV",
+        "color": "#d5b75b",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "Government",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "opposition",
+        "name": "Opposition field",
+        "short_name": "OPP",
+        "color": "#4c9ee8",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Opposition",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      }
+    ],
     "sources": [
       {
         "source_id": "egypt_nea",

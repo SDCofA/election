@@ -1,0 +1,163 @@
+[
+  {
+    "id": "can-next-national-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
+    "election_id": "can-next-national",
+    "as_of": "2026-08-09T09:00:00Z",
+    "published_at": "2026-08-09T09:00:00Z",
+    "model_version": "structural-ensemble-0.3.0",
+    "model_family": "baseline_ensemble",
+    "selection_status": "baseline retained until reliable walk-forward promotion evidence",
+    "simulation_count": 1000000,
+    "seed": 3901480640,
+    "data_quality": "D",
+    "freshness": "structural-only; no source-vintage feature snapshot",
+    "missing_drivers": [
+      "Economic voting environment",
+      "Opposition coordination",
+      "Election timing",
+      "Source-vintage polling and fundamentals",
+      "Source-vintage polling",
+      "Validated historical release-vintage backtest",
+      "Subnational model"
+    ],
+    "regional_forecast_supported": false,
+    "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
+    "majority_probability": 0.549631,
+    "turnout_median": 0.620020866394043,
+    "outcomes": [
+      {
+        "contestant_id": "government-camp",
+        "win_probability": 0.445063,
+        "projected_share": 0.3957228362560272,
+        "share_low": 0.1276193268597126,
+        "share_high": 0.6545067697763441,
+        "projected_seats": null,
+        "seats_low": null,
+        "seats_high": null
+      },
+      {
+        "contestant_id": "opposition-camp",
+        "win_probability": 0.443306,
+        "projected_share": 0.3957346975803375,
+        "share_low": 0.13201727569103242,
+        "share_high": 0.6518906116485595,
+        "projected_seats": null,
+        "seats_low": null,
+        "seats_high": null
+      },
+      {
+        "contestant_id": "other-field",
+        "win_probability": 0.111631,
+        "projected_share": 0.20854246616363525,
+        "share_low": 0.0028019239311106504,
+        "share_high": 0.4662717968225478,
+        "projected_seats": null,
+        "seats_low": null,
+        "seats_high": null
+      }
+    ],
+    "coalition_outcomes": [],
+    "drivers": [
+      {
+        "key": "incumbency",
+        "label": "Governing-camp incumbency",
+        "value": "Structural prior only",
+        "contribution": 0.0,
+        "direction": "government",
+        "confidence": 0.2
+      },
+      {
+        "key": "economy",
+        "label": "Economic voting environment",
+        "value": "Source-vintage inputs pending",
+        "contribution": 0.0,
+        "direction": "government",
+        "confidence": 0.1
+      },
+      {
+        "key": "opposition_selection",
+        "label": "Opposition coordination",
+        "value": "Candidate field unresolved",
+        "contribution": 0.0,
+        "direction": "opposition",
+        "confidence": 0.1
+      },
+      {
+        "key": "timing",
+        "label": "Election timing",
+        "value": "Three-year planning horizon",
+        "contribution": 0.0,
+        "direction": "neutral",
+        "confidence": 0.1
+      }
+    ],
+    "driver_sensitivity": [
+      {
+        "driver_key": "incumbency",
+        "label": "Governing-camp incumbency",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0017500000000000003,
+        "observed_incumbent_share_shift": 0.0,
+        "positive_incumbent_share_shift": 0.0017500000000000003,
+        "confidence": 0.2,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "economy",
+        "label": "Economic voting environment",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0008750000000000001,
+        "observed_incumbent_share_shift": 0.0,
+        "positive_incumbent_share_shift": 0.0008750000000000001,
+        "confidence": 0.1,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "opposition_selection",
+        "label": "Opposition coordination",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0008750000000000001,
+        "observed_incumbent_share_shift": 0.0,
+        "positive_incumbent_share_shift": 0.0008750000000000001,
+        "confidence": 0.1,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "timing",
+        "label": "Election timing",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0008750000000000001,
+        "observed_incumbent_share_shift": 0.0,
+        "positive_incumbent_share_shift": 0.0008750000000000001,
+        "confidence": 0.1,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      }
+    ],
+    "methodology_url": "/methodology",
+    "input_revision_ids": [],
+    "input_provenance": [],
+    "provenance": [
+      {
+        "source_id": "can_electoral_authority_reference",
+        "label": "Elections Canada",
+        "url": "https://www.elections.ca/",
+        "authority": "official reference",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.elections.ca/"
+      }
+    ]
+  }
+]

@@ -80,7 +80,63 @@
         "basis": null
       }
     ],
-    "potential_candidates": [],
+    "potential_candidates": [
+      {
+        "id": "lab",
+        "name": "Labour Party",
+        "short_name": "LAB",
+        "color": "#ef3b4f",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "Centre-left",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "con",
+        "name": "Conservative Party",
+        "short_name": "CON",
+        "color": "#2188e8",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Centre-right",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "ref",
+        "name": "Reform UK",
+        "short_name": "REF",
+        "color": "#2bd0d0",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Right",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "ld",
+        "name": "Liberal Democrats",
+        "short_name": "LD",
+        "color": "#f5bf25",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Centre",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "other",
+        "name": "Other parties",
+        "short_name": "OTH",
+        "color": "#8795a8",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Mixed",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      }
+    ],
     "sources": [
       {
         "source_id": "uk_electoral_commission",

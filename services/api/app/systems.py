@@ -96,8 +96,18 @@ def validate_pack_rules(election: Election, rules: dict) -> None:
     if rules.get("engine") != election.system.value:
         raise ValueError(f"{election.id}: rules engine does not match election system")
     if election.system == ElectionSystem.UNRESOLVED:
-        if rules.get("validation_status") != "mechanics_blocked":
-            raise ValueError(f"{election.id}: unresolved mechanics must fail closed")
+        status = rules.get("validation_status")
+        if status not in {"mechanics_blocked", "exploratory_proxy"}:
+            raise ValueError(
+                f"{election.id}: unresolved mechanics require an explicit quality state"
+            )
+        if (
+            status == "exploratory_proxy"
+            and rules.get("forecast_mode") != "national_control_scenario"
+        ):
+            raise ValueError(
+                f"{election.id}: exploratory proxy requires a national-control scenario"
+            )
         return
     if election.system in {
         ElectionSystem.FPTP,
@@ -112,9 +122,11 @@ def validate_pack_rules(election: Election, rules: dict) -> None:
         threshold = rules.get("first_round_threshold")
         if rules.get("rounds") != 2 or threshold is None or not 0.5 <= threshold <= 1:
             raise ValueError(f"{election.id}: invalid presidential runoff rules")
-    if election.system == ElectionSystem.INSTITUTIONAL and not rules.get("calendar_only"):
+    if election.system == ElectionSystem.INSTITUTIONAL and not (
+        rules.get("calendar_only") or rules.get("exploratory_scenario")
+    ):
         raise ValueError(
-            f"{election.id}: institutional selection must fail closed as calendar-only"
+            f"{election.id}: institutional selection requires calendar-only or exploratory status"
         )
 
 

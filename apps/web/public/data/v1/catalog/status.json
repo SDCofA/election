@@ -7,8 +7,8 @@
   "eligibility_snapshot_sha256": "39b412d39a061c18f20c98e4ad4d6355b05a0441df31be4ee9aec420dc3d95ea",
   "eligible_jurisdictions": 87,
   "total_jurisdictions": 220,
-  "forecast_ready": 8,
-  "calendar_only": 3,
-  "mechanics_blocked": 209,
+  "forecast_ready": 91,
+  "calendar_only": 0,
+  "mechanics_blocked": 129,
   "sourced_calendars": 91
 }

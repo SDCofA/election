@@ -80,7 +80,63 @@
         "basis": null
       }
     ],
-    "potential_candidates": [],
+    "potential_candidates": [
+      {
+        "id": "epp",
+        "name": "European People's Party",
+        "short_name": "EPP",
+        "color": "#3399ff",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "Centre-right",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "sd",
+        "name": "Socialists & Democrats",
+        "short_name": "S&D",
+        "color": "#e73d50",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Centre-left",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "right",
+        "name": "Conservative and right groups",
+        "short_name": "RIGHT",
+        "color": "#243b70",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Right",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "lib-green",
+        "name": "Liberal and green groups",
+        "short_name": "LIB+GRN",
+        "color": "#63c184",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Centre/Green",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "other",
+        "name": "Left, non-attached and others",
+        "short_name": "OTH",
+        "color": "#8b6eb5",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Mixed",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      }
+    ],
     "sources": [
       {
         "source_id": "eu_parliament_elections",

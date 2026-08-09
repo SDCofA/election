@@ -1,6 +1,6 @@
 # Completion audit
 
-Audit date: 2026-08-09. `Implemented` means a repository artifact and automated contract exist. `Fail closed` means the product exposes the missing evidence and publishes no forecast. `Operational proof required` means deployment credentials or a real production environment are outside this repository.
+Audit date: 2026-08-09. `Implemented` means a repository artifact and automated contract exist. Quality and ingestion gates fail closed without suppressing exploratory forecasts: unsupported inputs cannot be fetched, and unsupported models cannot be promoted. `Operational proof required` means deployment credentials or a real production environment are outside this repository.
 
 ## User-critical forecast claims
 
@@ -30,17 +30,17 @@ Audit date: 2026-08-09. `Implemented` means a repository artifact and automated 
 
 | Requirement | Status | Evidence |
 |---|---|---|
-| Every catalog jurisdiction has a public record | Implemented | 90/90 catalog entries have an election/calendar record and authority reference. Directory shows known dates first and explicit TBD states. |
-| Sourced national calendar | Implemented as dated source or link-only authority record | 11 curated packs contain dated/window calendar evidence. Remaining 79 contain a direct official-authority reference only and explicitly state that no calendar content was ingested. |
-| Validated pack or mechanics-blocked state | Implemented | Forecast packs validate system rules. Unresolved packs must use the `unresolved` engine, `mechanics_blocked` validation state, no contestants, no date, and no forecast. |
-| Public methodology and quality state | Implemented | Every election detail links methodology, mechanics, and sources. Forecasts expose A–D quality/freshness/missing drivers; blocked entries visibly explain each publication gate. |
-| Forecast or explicit block | Implemented | Current catalog: 5 forecast-ready, 3 calendar-only, 82 mechanics-blocked. No blocked record exposes probability or unofficial results. |
+| Every catalog jurisdiction has a public record | Implemented | 220/220 catalog countries, economies, and institutional jurisdictions appear in the directory. |
+| Sourced national calendar | Implemented as dated source or link-only authority record | 12 curated packs contain dated/window evidence. Another 79 contain a direct official-authority reference and explicitly state that no calendar content was ingested. |
+| Forecast for every sourced record | Implemented | All 91 sourced election records publish one-million-run forecasts. Unresolved packs use an `exploratory_proxy` national-control scenario, a three-year horizon, possible fields, and grade D. |
+| Public methodology and quality state | Implemented | Every election detail links methodology, mechanics, and sources. Forecasts expose A–D quality, freshness, missing drivers, and whether the field is official, possible, or scenario-only. |
+| No candidate/licensing forecast block | Implemented | Final-list, timing, legal, mechanics, and reuse uncertainty widen intervals and lower quality. Reference-only pages are never ingested, but their licensing status does not erase the scenario. |
 
 ## Product and public interfaces
 
 | Requirement | Status | Evidence |
 |---|---|---|
-| Command center and details | Implemented | Global watch, searchable 90-entry calendar, candidate cards, probability gauge, vote/seat intervals, parliament layout, coalition simulator, ticker, immutable history, methodology, and source ledger. |
+| Command center and details | Implemented | Global watch, searchable 220-entry directory, possible-field cards, probability gauge, vote/seat intervals, parliament layout, coalition simulator, ticker, immutable history, methodology, and source ledger. |
 | Maps | Fail closed without validated subnational evidence | GeoJSON endpoint exists; current forecasts suppress regional maps and explain the missing boundary/input gate. |
 | REST/OpenAPI and replay | Implemented | Versioned catalog, calendar, detail, snapshot, simulation, drivers, backtest, source, map, mechanics, coalition, and official-result routes; snapshot IDs are immutable and replayable. |
 | SSE | Implemented | Forecast, calendar, alert, result, and heartbeat envelopes require timestamps, model version, quality, freshness, and provenance. Replay and slow-client drop metrics are tested. |
@@ -61,4 +61,4 @@ Audit date: 2026-08-09. `Implemented` means a repository artifact and automated 
 
 ## Honest publication conclusion
 
-The software contract is production-shaped and fail closed. It does not claim that Markov is universally better: Markov leads historical U.S. short-horizon Brier score but has materially worse interval coverage, and the live target horizon is unsupported. It also does not label 79 authority links as ingested calendars or resolved mechanics. Those records remain TBD until licensed official evidence passes onboarding.
+The software contract separates forecast availability from model promotion. It does not claim that Markov is universally better: Markov leads historical U.S. short-horizon Brier score but has materially worse interval coverage, and the live target horizon is unsupported. The 79 authority-reference scenarios do not masquerade as ingested calendars or resolved mechanics; they remain grade D until reproducible evidence replaces their neutral priors.

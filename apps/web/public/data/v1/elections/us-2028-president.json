@@ -58,7 +58,41 @@
         "basis": null
       }
     ],
-    "potential_candidates": [],
+    "potential_candidates": [
+      {
+        "id": "dem",
+        "name": "Democratic coalition",
+        "short_name": "DEM",
+        "color": "#2f7df6",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "Centre-left",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "gop",
+        "name": "Republican coalition",
+        "short_name": "GOP",
+        "color": "#ef3e4a",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Centre-right",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      },
+      {
+        "id": "other",
+        "name": "Other candidates",
+        "short_name": "OTH",
+        "color": "#b1bac8",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Other",
+        "ballot_status": "modeled",
+        "basis": "Modeled current field; the final official ballot remains authoritative."
+      }
+    ],
     "sources": [
       {
         "source_id": "us_fec_calendar",

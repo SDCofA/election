@@ -113,6 +113,25 @@ class CatalogRepository:
                 }
             )
             election = Election.model_validate(data["election"])
+            if not election.potential_candidates:
+                election = election.model_copy(
+                    update={
+                        "potential_candidates": [
+                            contestant.model_copy(
+                                update={
+                                    "ballot_status": (
+                                        contestant.ballot_status
+                                        if contestant.ballot_status != "official"
+                                        else "modeled"
+                                    ),
+                                    "basis": contestant.basis
+                                    or "Modeled current field; the final official ballot remains authoritative.",
+                                }
+                            )
+                            for contestant in election.contestants
+                        ]
+                    }
+                )
             if revision := calendar_revisions.get(election.id):
                 election = self._calendar_override(election, revision)
             if election.jurisdiction_id != jurisdiction.id:

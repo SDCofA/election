@@ -59,7 +59,16 @@ def test_pack_validation_fails_closed_on_engine_mismatch():
         validate_pack_rules(election, {"engine": ElectionSystem.PROPORTIONAL.value, "seats": 650})
 
 
-def test_unresolved_pack_requires_explicit_mechanics_block():
+def test_unresolved_pack_requires_explicit_quality_state():
     election = get_repository().elections["arg-next-national"]
-    with pytest.raises(ValueError, match="must fail closed"):
+    with pytest.raises(ValueError, match="explicit quality state"):
         validate_pack_rules(election, {"engine": ElectionSystem.UNRESOLVED.value})
+
+
+def test_unresolved_exploratory_proxy_requires_named_mode():
+    election = get_repository().elections["arg-next-national"]
+    with pytest.raises(ValueError, match="national-control scenario"):
+        validate_pack_rules(
+            election,
+            {"engine": ElectionSystem.UNRESOLVED.value, "validation_status": "exploratory_proxy"},
+        )

@@ -91,7 +91,74 @@
         "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
       }
     ],
-    "potential_candidates": [],
+    "potential_candidates": [
+      {
+        "id": "national",
+        "name": "New Zealand National Party",
+        "short_name": "NAT",
+        "color": "#00529f",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "labour",
+        "name": "New Zealand Labour Party",
+        "short_name": "LAB",
+        "color": "#d82a20",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "green",
+        "name": "Green Party of Aotearoa New Zealand",
+        "short_name": "GRN",
+        "color": "#098137",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "act",
+        "name": "ACT New Zealand",
+        "short_name": "ACT",
+        "color": "#f5c400",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "nz-first",
+        "name": "New Zealand First Party",
+        "short_name": "NZF",
+        "color": "#111111",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "te-pati-maori",
+        "name": "Te Pāti Māori",
+        "short_name": "TPM",
+        "color": "#b3262d",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      }
+    ],
     "sources": [
       {
         "source_id": "new_zealand_electoral_commission_web",

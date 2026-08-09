@@ -3,8 +3,8 @@
   "sources": [
     {
       "source_id": "latvia_cvk_web",
-      "label": "Central Election Commission of Latvia",
-      "url": "https://www.cvk.lv/lv/velesanu-iecirkni",
+      "label": "Central Election Commission of Latvia — official 2026 candidate lists",
+      "url": "https://dati.cvk.lv/SV2026/kandidatu-saraksti/",
       "authority": "official",
       "retrieved_at": "2026-08-09T12:00:00Z",
       "license": "ALL-RIGHTS-RESERVED",
@@ -13,14 +13,14 @@
   ],
   "as_of": "2026-08-09T12:00:00Z",
   "published_at": "2026-08-09T12:00:00Z",
-  "model_version": "calendar-0.1.0",
+  "model_version": "structural-ensemble-0.3.0",
   "data_quality": "D",
-  "freshness": "mechanics blocked; official date and district seats verified",
+  "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [
     {
       "source_id": "latvia_cvk_web",
-      "label": "Central Election Commission of Latvia",
-      "url": "https://www.cvk.lv/lv/velesanu-iecirkni",
+      "label": "Central Election Commission of Latvia — official 2026 candidate lists",
+      "url": "https://dati.cvk.lv/SV2026/kandidatu-saraksti/",
       "authority": "official",
       "retrieved_at": "2026-08-09T12:00:00Z",
       "license": "ALL-RIGHTS-RESERVED",

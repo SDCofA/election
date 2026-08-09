@@ -1,13 +1,106 @@
 {
   "coalition_constraints": [],
+  "drivers": [
+    {
+      "confidence": 0.2,
+      "contribution": 0.0,
+      "direction": "government",
+      "key": "incumbency",
+      "label": "Governing-camp incumbency",
+      "value": "Structural prior only"
+    },
+    {
+      "confidence": 0.1,
+      "contribution": 0.0,
+      "direction": "government",
+      "key": "economy",
+      "label": "Economic voting environment",
+      "value": "Source-vintage inputs pending"
+    },
+    {
+      "confidence": 0.1,
+      "contribution": 0.0,
+      "direction": "opposition",
+      "key": "opposition_selection",
+      "label": "Opposition coordination",
+      "value": "Candidate field unresolved"
+    },
+    {
+      "confidence": 0.1,
+      "contribution": 0.0,
+      "direction": "neutral",
+      "key": "timing",
+      "label": "Election timing",
+      "value": "Three-year planning horizon"
+    }
+  ],
   "election": {
-    "contestants": [],
-    "date_confidence": "tbd",
-    "election_date": null,
+    "contestants": [
+      {
+        "ballot_status": "scenario",
+        "basis": "Structural proxy; not an official ballot entry.",
+        "color": "#1f6f8b",
+        "id": "government-camp",
+        "ideology": "government-control scenario",
+        "incumbent": true,
+        "name": "Governing camp / incumbent-aligned nominee",
+        "short_name": "GOV"
+      },
+      {
+        "ballot_status": "scenario",
+        "basis": "Structural proxy; not an official ballot entry.",
+        "color": "#c43d4f",
+        "id": "opposition-camp",
+        "ideology": "opposition-control scenario",
+        "name": "Leading opposition camp / nominee",
+        "short_name": "OPP"
+      },
+      {
+        "ballot_status": "scenario",
+        "basis": "Residual field used while nominations remain unresolved.",
+        "color": "#746b5f",
+        "id": "other-field",
+        "ideology": "unresolved field",
+        "name": "Other parties / candidates",
+        "short_name": "OTH"
+      }
+    ],
+    "date_confidence": "three-year structural horizon; official date pending",
+    "election_date": "2029-08-09",
     "id": "sen-next-national",
     "jurisdiction_id": "sen",
     "last_updated": "2026-08-09T09:00:00Z",
     "name": "Next National Election",
+    "potential_candidates": [
+      {
+        "ballot_status": "scenario",
+        "basis": "Structural proxy; replace with named contenders as sourced signals arrive.",
+        "color": "#1f6f8b",
+        "id": "government-camp",
+        "ideology": "government-control scenario",
+        "incumbent": true,
+        "name": "Governing camp / incumbent-aligned nominee",
+        "short_name": "GOV"
+      },
+      {
+        "ballot_status": "scenario",
+        "basis": "Structural proxy; replace with named contenders as sourced signals arrive.",
+        "color": "#c43d4f",
+        "id": "opposition-camp",
+        "ideology": "opposition-control scenario",
+        "name": "Leading opposition camp / nominee",
+        "short_name": "OPP"
+      },
+      {
+        "ballot_status": "scenario",
+        "basis": "Residual field; not an official ballot list.",
+        "color": "#746b5f",
+        "id": "other-field",
+        "ideology": "unresolved field",
+        "name": "Other parties / candidates",
+        "short_name": "OTH"
+      }
+    ],
     "sources": [
       {
         "authority": "official reference",
@@ -19,21 +112,18 @@
         "url": "https://dge.sn/"
       }
     ],
-    "status": "TBD — awaiting an approved official calendar release",
+    "status": "exploratory forecast; official date, mechanics and ballot pending",
     "system": "unresolved"
   },
   "feature_priors": {
-    "status": "unresolved"
+    "status": "structural_proxy"
   },
   "jurisdiction": {
-    "blocking_reasons": [
-      "Next national election date has not been captured from an approved reusable authority release",
-      "Electoral mechanics and contestant identities remain unresolved"
-    ],
-    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [],
+    "coverage_status": "forecast",
     "eligibility": "v-dem:electoral-democracy",
     "flag": "SN",
-    "forecast_enabled": false,
+    "forecast_enabled": true,
     "id": "sen",
     "is_exception": false,
     "iso3": "SEN",
@@ -44,10 +134,23 @@
     "geometry_status": "suppressed_until_validated",
     "level": "national"
   },
+  "model": {
+    "base_shares": [
+      0.4,
+      0.4,
+      0.2
+    ],
+    "data_quality": "D",
+    "freshness": "three-year structural scenario; official date, mechanics and ballot pending",
+    "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
+    "turnout": 0.62,
+    "volatility": 0.16
+  },
   "rules": {
     "authority_url": "https://dge.sn/",
     "engine": "unresolved",
-    "validation_status": "mechanics_blocked"
+    "forecast_mode": "national_control_scenario",
+    "validation_status": "exploratory_proxy"
   },
   "source_adapters": [
     {

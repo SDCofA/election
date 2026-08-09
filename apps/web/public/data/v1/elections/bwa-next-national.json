@@ -6,28 +6,93 @@
     "region": "Sub-Saharan Africa ",
     "eligibility": "v-dem:electoral-democracy",
     "is_exception": false,
-    "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
-    "blocking_reasons": [
-      "Next national election date has not been captured from an approved reusable authority release",
-      "Electoral mechanics and contestant identities remain unresolved"
-    ],
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
     "flag": "BW"
   },
   "election": {
     "id": "bwa-next-national",
     "jurisdiction_id": "bwa",
     "name": "Next National Election",
-    "election_date": null,
-    "date_confidence": "tbd",
+    "election_date": "2029-08-09",
+    "date_confidence": "three-year structural horizon; official date pending",
     "system": "unresolved",
     "seats_total": null,
     "majority": null,
     "threshold": 0.0,
-    "status": "TBD — awaiting an approved official calendar release",
+    "status": "exploratory forecast; official date, mechanics and ballot pending",
     "last_updated": "2026-08-09T09:00:00Z",
-    "contestants": [],
-    "potential_candidates": [],
+    "contestants": [
+      {
+        "id": "government-camp",
+        "name": "Governing camp / incumbent-aligned nominee",
+        "short_name": "GOV",
+        "color": "#1f6f8b",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "government-control scenario",
+        "ballot_status": "scenario",
+        "basis": "Structural proxy; not an official ballot entry."
+      },
+      {
+        "id": "opposition-camp",
+        "name": "Leading opposition camp / nominee",
+        "short_name": "OPP",
+        "color": "#c43d4f",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition-control scenario",
+        "ballot_status": "scenario",
+        "basis": "Structural proxy; not an official ballot entry."
+      },
+      {
+        "id": "other-field",
+        "name": "Other parties / candidates",
+        "short_name": "OTH",
+        "color": "#746b5f",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "unresolved field",
+        "ballot_status": "scenario",
+        "basis": "Residual field used while nominations remain unresolved."
+      }
+    ],
+    "potential_candidates": [
+      {
+        "id": "government-camp",
+        "name": "Governing camp / incumbent-aligned nominee",
+        "short_name": "GOV",
+        "color": "#1f6f8b",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "government-control scenario",
+        "ballot_status": "scenario",
+        "basis": "Structural proxy; replace with named contenders as sourced signals arrive."
+      },
+      {
+        "id": "opposition-camp",
+        "name": "Leading opposition camp / nominee",
+        "short_name": "OPP",
+        "color": "#c43d4f",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition-control scenario",
+        "ballot_status": "scenario",
+        "basis": "Structural proxy; replace with named contenders as sourced signals arrive."
+      },
+      {
+        "id": "other-field",
+        "name": "Other parties / candidates",
+        "short_name": "OTH",
+        "color": "#746b5f",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "unresolved field",
+        "ballot_status": "scenario",
+        "basis": "Residual field; not an official ballot list."
+      }
+    ],
     "sources": [
       {
         "source_id": "bwa_electoral_authority_reference",
@@ -40,5 +105,165 @@
       }
     ]
   },
-  "forecast": null
+  "forecast": {
+    "id": "bwa-next-national-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
+    "election_id": "bwa-next-national",
+    "as_of": "2026-08-09T09:00:00Z",
+    "published_at": "2026-08-09T09:00:00Z",
+    "model_version": "structural-ensemble-0.3.0",
+    "model_family": "baseline_ensemble",
+    "selection_status": "baseline retained until reliable walk-forward promotion evidence",
+    "simulation_count": 1000000,
+    "seed": 1613084749,
+    "data_quality": "D",
+    "freshness": "structural-only; no source-vintage feature snapshot",
+    "missing_drivers": [
+      "Economic voting environment",
+      "Opposition coordination",
+      "Election timing",
+      "Source-vintage polling and fundamentals",
+      "Source-vintage polling",
+      "Validated historical release-vintage backtest",
+      "Subnational model"
+    ],
+    "regional_forecast_supported": false,
+    "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
+    "majority_probability": 0.548619,
+    "turnout_median": 0.6200082898139954,
+    "outcomes": [
+      {
+        "contestant_id": "government-camp",
+        "win_probability": 0.444143,
+        "projected_share": 0.3954375088214874,
+        "share_low": 0.12752934321761134,
+        "share_high": 0.6543543368577955,
+        "projected_seats": null,
+        "seats_low": null,
+        "seats_high": null
+      },
+      {
+        "contestant_id": "opposition-camp",
+        "win_probability": 0.443054,
+        "projected_share": 0.39576974511146545,
+        "share_low": 0.13222447782754898,
+        "share_high": 0.650896143913269,
+        "projected_seats": null,
+        "seats_low": null,
+        "seats_high": null
+      },
+      {
+        "contestant_id": "other-field",
+        "win_probability": 0.112803,
+        "projected_share": 0.20879273116588593,
+        "share_low": 0.002800287469290197,
+        "share_high": 0.4665450900793073,
+        "projected_seats": null,
+        "seats_low": null,
+        "seats_high": null
+      }
+    ],
+    "coalition_outcomes": [],
+    "drivers": [
+      {
+        "key": "incumbency",
+        "label": "Governing-camp incumbency",
+        "value": "Structural prior only",
+        "contribution": 0.0,
+        "direction": "government",
+        "confidence": 0.2
+      },
+      {
+        "key": "economy",
+        "label": "Economic voting environment",
+        "value": "Source-vintage inputs pending",
+        "contribution": 0.0,
+        "direction": "government",
+        "confidence": 0.1
+      },
+      {
+        "key": "opposition_selection",
+        "label": "Opposition coordination",
+        "value": "Candidate field unresolved",
+        "contribution": 0.0,
+        "direction": "opposition",
+        "confidence": 0.1
+      },
+      {
+        "key": "timing",
+        "label": "Election timing",
+        "value": "Three-year planning horizon",
+        "contribution": 0.0,
+        "direction": "neutral",
+        "confidence": 0.1
+      }
+    ],
+    "driver_sensitivity": [
+      {
+        "driver_key": "incumbency",
+        "label": "Governing-camp incumbency",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0017500000000000003,
+        "observed_incumbent_share_shift": 0.0,
+        "positive_incumbent_share_shift": 0.0017500000000000003,
+        "confidence": 0.2,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "economy",
+        "label": "Economic voting environment",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0008750000000000001,
+        "observed_incumbent_share_shift": 0.0,
+        "positive_incumbent_share_shift": 0.0008750000000000001,
+        "confidence": 0.1,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "opposition_selection",
+        "label": "Opposition coordination",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0008750000000000001,
+        "observed_incumbent_share_shift": 0.0,
+        "positive_incumbent_share_shift": 0.0008750000000000001,
+        "confidence": 0.1,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "timing",
+        "label": "Election timing",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0008750000000000001,
+        "observed_incumbent_share_shift": 0.0,
+        "positive_incumbent_share_shift": 0.0008750000000000001,
+        "confidence": 0.1,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      }
+    ],
+    "methodology_url": "/methodology",
+    "input_revision_ids": [],
+    "input_provenance": [],
+    "provenance": [
+      {
+        "source_id": "bwa_electoral_authority_reference",
+        "label": "Independent Electoral Commission Botswana",
+        "url": "https://www.iec.gov.bw/",
+        "authority": "official reference",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.iec.gov.bw/"
+      }
+    ]
+  }
 }

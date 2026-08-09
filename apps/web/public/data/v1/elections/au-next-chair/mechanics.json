@@ -3,8 +3,11 @@
   "system": "institutional",
   "rules": {
     "engine": "institutional",
-    "forecast_enabled": false,
-    "calendar_only": true
+    "forecast_enabled": true,
+    "calendar_only": false,
+    "exploratory_scenario": true,
+    "voting_threshold": "two-thirds of eligible member states",
+    "selection": "secret ballot with elimination rounds"
   },
   "source_adapters": [
     {
@@ -17,19 +20,19 @@
       ]
     }
   ],
-  "forecast_enabled": false,
-  "as_of": "2026-08-09T09:00:00Z",
-  "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "calendar-0.1.0",
+  "forecast_enabled": true,
+  "as_of": "2026-08-09T18:00:00Z",
+  "published_at": "2026-08-09T18:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
   "data_quality": "D",
-  "freshness": "calendar only",
+  "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [
     {
       "source_id": "african_union_calendar",
-      "label": "African Union",
-      "url": "https://au.int/",
+      "label": "African Union Commission leadership election rules",
+      "url": "https://au.int/en/auc-leadership-elections",
       "authority": "official",
-      "retrieved_at": "2026-08-09T09:00:00Z",
+      "retrieved_at": "2026-08-09T18:00:00Z",
       "license": "WRITTEN-PERMISSION-REQUIRED",
       "license_url": "https://au.int/en/legal_notice"
     }

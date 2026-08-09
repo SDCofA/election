@@ -1,0 +1,136 @@
+{
+  "election_id": "se-2026-riksdag",
+  "snapshot_id": "se-2026-riksdag-structural-ensemble-0.3.0-baseline_ensemble-20260809T120000Z-structural",
+  "majority": 175,
+  "coalitions": [
+    {
+      "member_ids": [
+        "red-green-centre",
+        "government-parties",
+        "sweden-democrats"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 331,
+      "seats_low": 298,
+      "seats_high": 349
+    },
+    {
+      "member_ids": [
+        "red-green-centre",
+        "government-parties",
+        "other-parties"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 276,
+      "seats_low": 243,
+      "seats_high": 309
+    },
+    {
+      "member_ids": [
+        "red-green-centre",
+        "sweden-democrats",
+        "other-parties"
+      ],
+      "majority_probability": 0.999936,
+      "seats_median": 251,
+      "seats_low": 218,
+      "seats_high": 285
+    },
+    {
+      "member_ids": [
+        "red-green-centre",
+        "government-parties"
+      ],
+      "majority_probability": 0.999835,
+      "seats_median": 258,
+      "seats_low": 220,
+      "seats_high": 295
+    },
+    {
+      "member_ids": [
+        "red-green-centre",
+        "sweden-democrats"
+      ],
+      "majority_probability": 0.994272,
+      "seats_median": 234,
+      "seats_low": 195,
+      "seats_high": 270
+    },
+    {
+      "member_ids": [
+        "government-parties",
+        "sweden-democrats",
+        "other-parties"
+      ],
+      "majority_probability": 0.758944,
+      "seats_median": 189,
+      "seats_low": 156,
+      "seats_high": 222
+    },
+    {
+      "member_ids": [
+        "red-green-centre",
+        "other-parties"
+      ],
+      "majority_probability": 0.55812,
+      "seats_median": 178,
+      "seats_low": 142,
+      "seats_high": 217
+    },
+    {
+      "member_ids": [
+        "government-parties",
+        "sweden-democrats"
+      ],
+      "majority_probability": 0.44188,
+      "seats_median": 171,
+      "seats_low": 132,
+      "seats_high": 207
+    },
+    {
+      "member_ids": [
+        "government-parties",
+        "other-parties"
+      ],
+      "majority_probability": 0.005728,
+      "seats_median": 115,
+      "seats_low": 79,
+      "seats_high": 154
+    },
+    {
+      "member_ids": [
+        "sweden-democrats",
+        "other-parties"
+      ],
+      "majority_probability": 0.000165,
+      "seats_median": 91,
+      "seats_low": 54,
+      "seats_high": 129
+    }
+  ],
+  "as_of": "2026-08-09T12:00:00Z",
+  "published_at": "2026-08-09T12:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "sweden_election_authority",
+      "label": "Swedish Election Authority",
+      "url": "https://www.val.se/english/future-elections/2026-elections---the-riksdag-and-regional-and-municipal-councils",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "SE-ELECTION-OPEN-ATTRIBUTION",
+      "license_url": "https://www.val.se/valresultat-och-statistik/statistik-och-data/om-var-oppna-data"
+    },
+    {
+      "source_id": "sweden_election_authority",
+      "label": "Swedish Election Authority — parties participating in 2026",
+      "url": "https://www.val.se/stalla-upp-i-val/anmalda-och-registrerade-partier/partier-som-deltar-i-kommande-val",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "SE-ELECTION-OPEN-ATTRIBUTION",
+      "license_url": "https://www.val.se/valresultat-och-statistik/statistik-och-data/om-var-oppna-data"
+    }
+  ]
+}

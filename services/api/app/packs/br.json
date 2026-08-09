@@ -6,11 +6,9 @@
     "region": "Latin America & Caribbean",
     "eligibility": "v-dem:electoral-democracy",
     "is_exception": false,
-    "forecast_enabled": false,
-    "coverage_status": "calendar_only",
-    "blocking_reasons": [
-      "Official contestant registration remains unresolved"
-    ],
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
     "flag": "BR"
   },
   "source_adapters": [
@@ -18,6 +16,11 @@
       "source_id": "brazil_tse",
       "status": "approved",
       "formats": ["html", "pdf", "csv", "zip"]
+    },
+    {
+      "source_id": "associated_press_brazil_2026",
+      "status": "reference_only_no_ingestion",
+      "formats": ["html"]
     }
   ],
   "calendar_feeds": [
@@ -51,9 +54,18 @@
     "election_date": "2026-10-04",
     "date_confidence": "official",
     "system": "presidential_runoff",
-    "status": "calendar only; official contestant registration unresolved",
+    "status": "exploratory forecast; party-confirmed leading tickets and residual field",
     "last_updated": "2026-08-09T12:00:00Z",
-    "contestants": [],
+    "contestants": [
+      {"id":"lula","name":"Luiz Inácio Lula da Silva","short_name":"LULA","color":"#d62b2b","incumbent":true,"ideology":"Workers' Party / governing left","ballot_status":"party-confirmed","basis":"Workers' Party reelection ticket reported confirmed for the 2026 election."},
+      {"id":"flavio-bolsonaro","name":"Flávio Bolsonaro","short_name":"FLÁVIO","color":"#1f5e9c","ideology":"Liberal Party / right opposition","ballot_status":"party-confirmed","basis":"Liberal Party presidential ticket reported confirmed in July 2026."},
+      {"id":"other-tickets","name":"Other presidential tickets","short_name":"OTH","color":"#736b61","ideology":"centrist, minor-party and independent field","ballot_status":"possible","basis":"Residual field pending final TSE registration."}
+    ],
+    "potential_candidates": [
+      {"id":"lula","name":"Luiz Inácio Lula da Silva","short_name":"LULA","color":"#d62b2b","incumbent":true,"ideology":"Workers' Party / governing left","ballot_status":"party-confirmed","basis":"Leading governing ticket."},
+      {"id":"flavio-bolsonaro","name":"Flávio Bolsonaro","short_name":"FLÁVIO","color":"#1f5e9c","ideology":"Liberal Party / right opposition","ballot_status":"party-confirmed","basis":"Leading opposition ticket."},
+      {"id":"other-tickets","name":"Other registered or possible tickets","short_name":"OTH","color":"#736b61","ideology":"remaining field","ballot_status":"possible","basis":"Final TSE registration remains the authoritative ballot."}
+    ],
     "sources": [
       {
         "source_id": "brazil_tse",
@@ -63,7 +75,30 @@
         "retrieved_at": "2026-08-09T12:00:00Z",
         "license": "CC-BY-4.0",
         "license_url": "https://dadosabertos.tse.jus.br/dataset/?license_id=cc-by"
+      },
+      {
+        "source_id": "associated_press_brazil_2026",
+        "label": "Associated Press — Lula and Flávio Bolsonaro leading confirmed tickets",
+        "url": "https://apnews.com/article/brazil-flavio-bolsonaro-october-election-lula-6b84c31d17ee9f0a668e6b381a780e4f",
+        "authority": "independent reporting; candidate signal",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.ap.org/terms-and-conditions/"
       }
     ]
-  }
+  },
+  "model": {
+    "base_shares": [0.44, 0.36, 0.20],
+    "volatility": 0.075,
+    "turnout": 0.79,
+    "data_quality": "D",
+    "freshness": "candidate-signal structural scenario; no source-vintage polling snapshot",
+    "headline": "Lula leads the structural first-round scenario, with a broad interval and runoff risk."
+  },
+  "drivers": [
+    {"key":"incumbency","label":"Presidential incumbency","value":"Lula reelection ticket","contribution":0.22,"direction":"government","confidence":0.65},
+    {"key":"economy","label":"Inflation and household economy","value":"Unresolved source-vintage input","contribution":0.0,"direction":"government","confidence":0.18},
+    {"key":"opposition_selection","label":"Right-opposition consolidation","value":"Flávio ticket confirmed; centrist support uncertain","contribution":-0.12,"direction":"government","confidence":0.55},
+    {"key":"polling","label":"Polling signal","value":"Not ingested into a reproducible snapshot","contribution":0.0,"direction":"neutral","confidence":0.10}
+  ]
 }

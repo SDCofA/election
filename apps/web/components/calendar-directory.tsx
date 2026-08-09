@@ -75,7 +75,7 @@ export function CalendarDirectory() {
         </nav>
         <span>GLOBAL ELECTION DIRECTORY / SDCofA</span>
         <h1>Every country. No silent omissions.</h1>
-        <p>All catalog countries and economies appear alphabetically. A listing is not a forecast: probabilities remain blocked until eligibility, sources, mechanics, and backtests pass.</p>
+        <p>All catalog countries and economies appear alphabetically. Every sourced election record carries a forecast; unresolved dates, mechanics, and ballots are shown as explicit D-grade scenarios.</p>
         <div>
           <b>{status?.total_jurisdictions ?? jurisdictions.length}</b><small>LISTED</small>
           <b>{status?.sourced_calendars ?? elections.length}</b><small>SOURCED RECORDS</small>

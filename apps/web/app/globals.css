@@ -408,7 +408,7 @@ h1 strong { font-weight: 400; color: #55514a; }
 .possible-field-panel { grid-column: 1 / -1; }
 .possible-field-grid { margin: 0 22px; display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 10px; }
 .possible-field-grid > div { min-height: 118px; padding: 14px; display: grid; grid-template-columns: 42px 1fr; align-content: start; gap: 8px 11px; border: 1px solid var(--line); border-top: 4px solid var(--party); background: #fff; }
-.possible-field-grid i { width: 42px; height: 42px; display: grid; place-content: center; border-radius: 50%; color: #fff; background: var(--party); font: 800 9px/1 var(--font-display); font-style: normal; }
+.possible-field-grid i { width: 42px; height: 42px; display: grid; place-content: center; border-radius: 50%; color: #fff; background: #242c34; box-shadow: inset 0 0 0 3px var(--party); font: 800 9px/1 var(--font-display); font-style: normal; }
 .possible-field-grid strong, .possible-field-grid small { display: block; }
 .possible-field-grid strong { font: 750 13px/1.15 var(--font-display); }
 .possible-field-grid small { margin-top: 5px; color: #6b6862; font-size: 7px; line-height: 1.3; text-transform: uppercase; }

@@ -6,12 +6,9 @@
     "region": "Europe & Central Asia",
     "eligibility": "v-dem:liberal-democracy",
     "is_exception": false,
-    "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
-    "blocking_reasons": [
-      "Official candidate lists are available, but canonical party mapping and five-district seat-model verification are incomplete",
-      "The official calendar webpage is all-rights-reserved; no reusable machine-readable calendar feed is approved"
-    ],
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
     "flag": "LV"
   },
   "source_adapters": [
@@ -49,19 +46,55 @@
     "seats_total": 100,
     "majority": 51,
     "threshold": 0.05,
-    "status": "mechanics blocked; official date and district seats verified",
+    "status": "exploratory national-bloc forecast; district calibration pending",
     "last_updated": "2026-08-09T12:00:00Z",
-    "contestants": [],
+    "contestants": [
+      {"id":"new-unity","name":"New Unity","short_name":"JV","color":"#2d7fbc","incumbent":true,"ideology":"centrist governing list","ballot_status":"official-list","basis":"Listed by the Central Election Commission for 2026."},
+      {"id":"zzs","name":"Union of Greens and Farmers","short_name":"ZZS","color":"#4d8c3a","ideology":"agrarian-green","ballot_status":"official-list","basis":"Listed by the Central Election Commission for 2026."},
+      {"id":"national-united","name":"National Alliance / United List bloc","short_name":"NA+AS","color":"#9b6b2b","ideology":"national conservative and regional center-right","ballot_status":"scenario","basis":"Modeled bloc; constituent lists contest separately."},
+      {"id":"progressives","name":"The Progressives","short_name":"PRO","color":"#d64d87","ideology":"social democratic and green","ballot_status":"official-list","basis":"Listed by the Central Election Commission for 2026."},
+      {"id":"other-lists","name":"Other official candidate lists","short_name":"OTH","color":"#716b63","ideology":"remaining ten registered lists","ballot_status":"official-field","basis":"Aggregates the remaining official lists for a stable national proxy."}
+    ],
+    "potential_candidates": [
+      {"id":"sovereign-power","name":"Sovereign Power / Young Latvians Alliance","short_name":"SV/AJ","color":"#79634f","ballot_status":"official-list","basis":"CEC list 1."},
+      {"id":"change-rules","name":"Mēs mainām noteikumus","short_name":"MMN","color":"#805b85","ballot_status":"official-list","basis":"CEC list 2."},
+      {"id":"harmony-centre","name":"Saskaņas Centrs","short_name":"SC","color":"#b84d4d","ballot_status":"official-list","basis":"CEC list 3."},
+      {"id":"zzs","name":"Zaļo un Zemnieku savienība","short_name":"ZZS","color":"#4d8c3a","ballot_status":"official-list","basis":"CEC list 4."},
+      {"id":"national-alliance","name":"Nacionālā apvienība","short_name":"NA","color":"#8d6030","ballot_status":"official-list","basis":"CEC list 5."},
+      {"id":"gobzems-list","name":"Gobzema saraksts","short_name":"GS","color":"#665a75","ballot_status":"official-list","basis":"CEC list 6."},
+      {"id":"united-list","name":"Apvienotais saraksts","short_name":"AS","color":"#b79a35","ballot_status":"official-list","basis":"CEC list 7."},
+      {"id":"latvia-first","name":"Latvija pirmajā vietā","short_name":"LPV","color":"#a83d42","ballot_status":"official-list","basis":"CEC list 8."},
+      {"id":"new-unity","name":"Jaunā Vienotība","short_name":"JV","color":"#2d7fbc","incumbent":true,"ballot_status":"official-list","basis":"CEC list 9."},
+      {"id":"new-conservatives","name":"Jaunā konservatīvā partija","short_name":"JKP","color":"#315f8e","ballot_status":"official-list","basis":"CEC list 10."},
+      {"id":"latvian-development","name":"Latvijas attīstībai","short_name":"LA","color":"#e18b31","ballot_status":"official-list","basis":"CEC list 11."},
+      {"id":"rising-sun","name":"Austošā Saule Latvijai","short_name":"ASL","color":"#d29a31","ballot_status":"official-list","basis":"CEC list 12."},
+      {"id":"stability","name":"Stabilitātei!","short_name":"S!","color":"#8b3c42","ballot_status":"official-list","basis":"CEC list 13."},
+      {"id":"progressives","name":"Progresīvie","short_name":"PRO","color":"#d64d87","ballot_status":"official-list","basis":"CEC list 14."}
+    ],
     "sources": [
       {
         "source_id": "latvia_cvk_web",
-        "label": "Central Election Commission of Latvia",
-        "url": "https://www.cvk.lv/lv/velesanu-iecirkni",
+        "label": "Central Election Commission of Latvia — official 2026 candidate lists",
+        "url": "https://dati.cvk.lv/SV2026/kandidatu-saraksti/",
         "authority": "official",
         "retrieved_at": "2026-08-09T12:00:00Z",
         "license": "ALL-RIGHTS-RESERVED",
         "license_url": "https://www.cvk.lv/lv/velesanu-iecirkni"
       }
     ]
-  }
+  },
+  "model": {
+    "base_shares": [0.18, 0.12, 0.19, 0.15, 0.36],
+    "volatility": 0.065,
+    "turnout": 0.59,
+    "data_quality": "D",
+    "freshness": "official candidate field; national structural proxy pending district calibration",
+    "headline": "A fragmented Saeima remains most likely; coalition arithmetic dominates the forecast."
+  },
+  "drivers": [
+    {"key":"incumbency","label":"Government incumbency","value":"New Unity-led government","contribution":0.08,"direction":"government","confidence":0.60},
+    {"key":"economy","label":"Inflation and growth","value":"Source-vintage input pending","contribution":0.0,"direction":"government","confidence":0.15},
+    {"key":"coalition","label":"Post-election coalition compatibility","value":"Highly fragmented field","contribution":-0.18,"direction":"government","confidence":0.70},
+    {"key":"districts","label":"Five-district translation","value":"National proxy only","contribution":0.0,"direction":"neutral","confidence":0.20}
+  ]
 }

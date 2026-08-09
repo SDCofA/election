@@ -4,7 +4,7 @@ from fastapi.testclient import TestClient
 
 import app.main as main_module
 from app.main import app
-from app.repository import CatalogRepository
+from app.repository import CatalogRepository, get_repository
 
 client = TestClient(app)
 
@@ -35,22 +35,22 @@ def test_health_and_catalog():
     assert status["eligible_jurisdictions"] == 87
     assert status["total_jurisdictions"] == 220
     assert status["eligibility_snapshot_sha256"]
-    assert status["forecast_ready"] == 8
-    assert status["calendar_only"] == 3
-    assert status["mechanics_blocked"] == 209
+    assert status["forecast_ready"] == 91
+    assert status["calendar_only"] == 0
+    assert status["mechanics_blocked"] == 129
     assert status["sourced_calendars"] == 91
     turkiye = next(item for item in jurisdictions if item["id"] == "tur")
     assert turkiye["name"] == "Türkiye"
     assert turkiye["flag"] == "TR"
     assert turkiye["forecast_enabled"] is True
     brazil = next(item for item in jurisdictions if item["id"] == "bra")
-    assert brazil["coverage_status"] == "calendar_only"
+    assert brazil["coverage_status"] == "forecast"
     sweden = next(item for item in jurisdictions if item["id"] == "swe")
-    assert sweden["coverage_status"] == "calendar_only"
-    assert sweden["blocking_reasons"]
+    assert sweden["coverage_status"] == "forecast"
+    assert sweden["blocking_reasons"] == []
     latvia = next(item for item in jurisdictions if item["id"] == "lva")
-    assert latvia["coverage_status"] == "mechanics_blocked"
-    assert latvia["blocking_reasons"]
+    assert latvia["coverage_status"] == "forecast"
+    assert latvia["blocking_reasons"] == []
     israel = next(item for item in jurisdictions if item["id"] == "isr")
     assert israel["coverage_status"] == "forecast"
     assert israel["blocking_reasons"] == []
@@ -58,8 +58,8 @@ def test_health_and_catalog():
     assert new_zealand["coverage_status"] == "forecast"
     assert new_zealand["blocking_reasons"] == []
     argentina = next(item for item in jurisdictions if item["id"] == "arg")
-    assert argentina["coverage_status"] == "mechanics_blocked"
-    assert argentina["blocking_reasons"]
+    assert argentina["coverage_status"] == "forecast"
+    assert argentina["blocking_reasons"] == []
 
 
 def test_every_public_election_has_a_catalog_jurisdiction_and_source():
@@ -69,16 +69,24 @@ def test_every_public_election_has_a_catalog_jurisdiction_and_source():
     assert len(elections) == 91
     assert {item["jurisdiction_id"] for item in elections} <= {item["id"] for item in jurisdictions}
     assert all(item["sources"] for item in elections)
-    tbd = [item for item in elections if item["election_date"] is None]
-    assert len(tbd) == 79
-    assert all(item["date_confidence"] == "tbd" for item in tbd)
-    assert all(item["system"] == "unresolved" for item in tbd)
+    exploratory = [item for item in elections if item["system"] == "unresolved"]
+    assert len(exploratory) == 79
+    assert all(item["election_date"] is not None for item in exploratory)
+    assert all(item["date_confidence"].startswith("three-year") for item in exploratory)
+    assert all(item["potential_candidates"] for item in exploratory)
     argentina = client.get("/v1/elections/arg-next-national").json()
-    assert argentina["forecast"] is None
+    assert argentina["forecast"]["simulation_count"] == 1_000_000
+    assert len(argentina["election"]["potential_candidates"]) == 3
     assert argentina["election"]["sources"][0]["authority"] == "official reference"
     mechanics = client.get("/v1/elections/arg-next-national/mechanics").json()
-    assert mechanics["rules"]["validation_status"] == "mechanics_blocked"
-    assert mechanics["forecast_enabled"] is False
+    assert mechanics["rules"]["validation_status"] == "exploratory_proxy"
+    assert mechanics["forecast_enabled"] is True
+
+    repository = get_repository()
+    assert all(
+        repository.detail(election["id"]).forecast.simulation_count == 1_000_000
+        for election in elections
+    )
 
 
 def test_public_cache_and_security_headers():
@@ -100,7 +108,7 @@ def test_public_cache_and_security_headers():
     assert "elexion_pipeline_telemetry_up 0" in metrics.text
 
 
-def test_forecast_contract_and_missing_forecast():
+def test_forecast_contract_and_exploratory_forecasts():
     response = client.get("/v1/elections/us-2028-president")
     assert response.status_code == 200
     detail = response.json()
@@ -113,22 +121,27 @@ def test_forecast_contract_and_missing_forecast():
     assert detail["forecast"]["missing_drivers"]
     au = client.get("/v1/elections/au-next-chair")
     assert au.status_code == 200
-    assert au.json()["forecast"] is None
-    assert au.json()["jurisdiction"]["coverage_status"] == "calendar_only"
+    assert au.json()["forecast"]["simulation_count"] == 1_000_000
+    assert au.json()["jurisdiction"]["coverage_status"] == "forecast"
+    assert len(au.json()["election"]["potential_candidates"]) == 5
     assert client.get("/v1/elections/au-next-chair/sources").status_code == 200
     au_results = client.get("/v1/elections/au-next-chair/official-results").json()
     assert au_results["feed_available"] is False
-    assert au_results["model_version"] == "calendar-0.1.0"
+    assert au_results["model_version"] == "structural-ensemble-0.3.0"
     mechanics = client.get("/v1/elections/au-next-chair/mechanics").json()
     assert mechanics["rules"]["engine"] == "institutional"
-    assert mechanics["forecast_enabled"] is False
+    assert mechanics["forecast_enabled"] is True
     assert mechanics["source_adapters"][0]["status"] == "blocked_permission_required"
 
     brazil = client.get("/v1/elections/br-2026-president")
     assert brazil.status_code == 200
-    assert brazil.json()["forecast"] is None
+    assert brazil.json()["forecast"]["simulation_count"] == 1_000_000
     assert brazil.json()["election"]["date_confidence"] == "official"
-    assert brazil.json()["jurisdiction"]["coverage_status"] == "calendar_only"
+    assert brazil.json()["jurisdiction"]["coverage_status"] == "forecast"
+    assert {item["name"] for item in brazil.json()["election"]["potential_candidates"]} >= {
+        "Luiz Inácio Lula da Silva",
+        "Flávio Bolsonaro",
+    }
     brazil_mechanics = client.get("/v1/elections/br-2026-president/mechanics").json()
     assert brazil_mechanics["rules"]["second_round_date"] == "2026-10-25"
     assert brazil_mechanics["source_adapters"][0]["status"] == "approved"

@@ -87,11 +87,11 @@ test("parliament layout matches visual regression baseline", async ({ page }, te
   );
 });
 
-test("AU institutional view fails closed without forecast probability", async ({ page }) => {
+test("AU institutional view publishes a regional-path exploratory forecast", async ({ page }) => {
   await page.goto("/elections/au-next-chair");
-  await expect(page.getByText("CALENDAR / MECHANICS VIEW")).toBeVisible();
-  await expect(page.getByText("Forecast unavailable")).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
+  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
+  await expect(page.locator(".possible-field-grid strong").filter({ hasText: "Northern-region nominee" }).first()).toBeVisible();
 });
 
 test("Israel publishes an exploratory forecast and a possible party field", async ({ page }) => {
@@ -101,16 +101,16 @@ test("Israel publishes an exploratory forecast and a possible party field", asyn
   await expect(page.getByText("Likud", { exact: true })).toBeVisible();
 });
 
-test("global directory lists the full catalog and distinguishes TBD records", async ({ page }) => {
+test("global directory lists the full catalog and forecasts every sourced record", async ({ page }) => {
   await page.goto("/calendar");
   await expect(page.getByRole("heading", { name: "Every country. No silent omissions." })).toBeVisible();
   await page.getByRole("searchbox", { name: "SEARCH JURISDICTIONS" }).fill("Argentina");
   const argentina = page.getByRole("link", { name: /Argentina/ });
-  await expect(argentina).toContainText("TBD");
+  await expect(argentina).toContainText("2029");
   await argentina.click();
-  await expect(page.getByText("MECHANICS BLOCKED", { exact: true })).toBeVisible();
-  await expect(page.getByText("To be determined")).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
+  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
+  await expect(page.locator(".possible-field-grid strong").filter({ hasText: "Leading opposition camp / nominee" }).first()).toBeVisible();
   const violations = await new AxeBuilder({ page })
     .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
     .analyze();

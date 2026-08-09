@@ -25,6 +25,12 @@ export default function MethodologyPage() {
         <p>The public forecast uses a widened baseline ensemble. Gaussian Monte Carlo and Markov-momentum models each run 1,000,000 deterministic scenarios as challengers, and every production backtest model-fold uses 1,000,000 predictive draws for winner probabilities and 90% intervals. Markov leads the U.S. short-horizon historical Brier score, while Gaussian has better RMSE and interval coverage; neither is promoted because 2–14-day evidence cannot validate the current early-cycle horizon. Forecasts without source-vintage feature snapshots are forced to grade D and list zero model-input sources.</p>
       </section>
 
+      <section>
+        <h2>Forecast availability policy</h2>
+        <p>Official nominations, final electoral mechanics, and machine-reuse permission affect certainty—not whether a forecast exists. Every sourced election record receives a one-million-run scenario. When the ballot is unsettled, the model uses explicitly labeled possible candidates, parties, regional paths, or governing-versus-opposition blocs. Reference-only sources are linked but never ingested. Unresolved records use a neutral 40/40/20 governing, opposition, and other prior, a wide 16-point volatility parameter, and a three-year planning horizon.</p>
+        <p>These proxy forecasts are grade D. They are not presented as validated candidate polls, and they cannot promote a challenger model. Names and mechanics replace proxies as reproducible source-vintage evidence arrives.</p>
+      </section>
+
       <section className="method-grid">
         <article>
           <span>CHALLENGER A</span>
@@ -46,7 +52,7 @@ export default function MethodologyPage() {
 
       <section>
         <h2>System engines and limits</h2>
-        <p>Engines cover presidential runoff transfers, FPTP seat elasticity, thresholded proportional and mixed-member allocation, and electoral-college translation. District or state maps remain suppressed until validated boundary-level inputs exist. Early structural forecasts carry low quality grades and wide intervals.</p>
+        <p>Engines cover presidential runoff transfers, FPTP seat elasticity, thresholded proportional and mixed-member allocation, electoral-college translation, institutional regional paths, and unresolved national-control scenarios. District or state maps remain suppressed until validated boundary-level inputs exist. Early structural forecasts carry low quality grades and wide intervals.</p>
       </section>
 
       <section>
@@ -66,7 +72,7 @@ export default function MethodologyPage() {
 
       <section>
         <h2>Global coverage states</h2>
-        <p>Every catalog country and economy appears in the global directory. Countries without a sourced election record remain listing-only. When a credible possible field can be formed, the desk publishes an explicitly exploratory D-grade forecast even before official nominations; candidate, timing, and legal uncertainty widen the model rather than erase the contest. Official status and possible-field status are always kept separate.</p>
+        <p>Every catalog country and economy appears in the global directory. Countries without any sourced election record remain listing-only. All 91 authority-backed election records carry an explicitly exploratory forecast even before official nominations; candidate, timing, legal, licensing, and mechanics uncertainty widen the model rather than erase the contest. Official status and possible-field status are always kept separate.</p>
         <div className="method-links"><Link href="/calendar">Global election directory</Link></div>
       </section>
     </main>
