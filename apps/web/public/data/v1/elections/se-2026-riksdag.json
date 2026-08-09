@@ -26,6 +26,7 @@
     "status": "calendar only; official party and candidate registration remains open",
     "last_updated": "2026-08-09T12:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "sweden_election_authority",

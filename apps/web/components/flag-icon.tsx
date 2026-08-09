@@ -6,8 +6,12 @@ const LOCAL_FLAGS = new Set(["au", "de", "eg", "eu", "gb", "us"]);
 
 export function FlagIcon({ code, label }: { code: string; label?: string }) {
   const normalized = code.toLowerCase();
-  if (!LOCAL_FLAGS.has(normalized)) {
-    return <span className="flag-code" aria-label={label ?? code}>{code.toUpperCase()}</span>;
+  const useLocalAsset = LOCAL_FLAGS.has(normalized) && !(normalized === "au" && label === "Australia");
+  if (!useLocalAsset) {
+    const flag = /^[a-z]{2}$/.test(normalized)
+      ? String.fromCodePoint(...[...normalized.toUpperCase()].map((letter) => 127397 + letter.charCodeAt(0)))
+      : code.toUpperCase();
+    return <span className="flag-emoji" aria-label={label ? `${label} flag` : code}>{flag}</span>;
   }
   return (
     <span className="flag-icon">

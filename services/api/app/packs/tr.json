@@ -1,0 +1,153 @@
+{
+  "jurisdiction": {
+    "id": "tur",
+    "name": "Türkiye",
+    "iso3": "TUR",
+    "region": "Europe & Central Asia",
+    "eligibility": "configured-exception:exploratory-forecast",
+    "is_exception": true,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [
+      "Election timing and Recep Tayyip Erdoğan's constitutional eligibility remain unresolved",
+      "The official candidate list is not final; a sourced possible field is shown below"
+    ],
+    "flag": "TR"
+  },
+  "source_adapters": [
+    {"source_id":"turkiye_ysk","status":"reference_only_no_ingestion","formats":["html","pdf"]},
+    {"source_id":"turkiye_party_signals","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"turkiye_prediction_markets","status":"auxiliary_signal_only","formats":["html"]}
+  ],
+  "rules": {
+    "engine": "presidential_runoff",
+    "rounds": 2,
+    "first_round_threshold": 0.5,
+    "office": "President of the Republic",
+    "validation_status": "candidate_and_timing_uncertainty"
+  },
+  "election": {
+    "id": "tr-next-president",
+    "jurisdiction_id": "tur",
+    "name": "Next Presidential Election",
+    "election_date": "2028-05-07",
+    "date_confidence": "constitutional latest-date estimate; early-election uncertainty",
+    "system": "presidential_runoff",
+    "status": "exploratory structural forecast; official ballot and timing unresolved",
+    "last_updated": "2026-08-09T18:00:00Z",
+    "contestants": [
+      {"id":"government-nominee","name":"Erdoğan / governing nominee","short_name":"GOV","color":"#e38b19","incumbent":true,"ideology":"AK Party / People's Alliance"},
+      {"id":"opposition-nominee","name":"Opposition nominee","short_name":"OPP","color":"#d92f39","ideology":"CHP / opposition field"},
+      {"id":"other","name":"Other candidates","short_name":"OTH","color":"#6b6257","ideology":"other parties and independents"}
+    ],
+    "potential_candidates": [
+      {
+        "id": "erdogan",
+        "name": "Recep Tayyip Erdoğan",
+        "short_name": "RTE",
+        "color": "#e38b19",
+        "incumbent": true,
+        "ideology": "AK Party / People's Alliance",
+        "ballot_status": "possible",
+        "basis": "AK Party publicly supports a 2028 Erdoğan candidacy; legal eligibility depends on election timing or constitutional change."
+      },
+      {
+        "id": "imamoglu",
+        "name": "Ekrem İmamoğlu",
+        "short_name": "Eİ",
+        "color": "#d92f39",
+        "ideology": "CHP-selected opposition candidate",
+        "ballot_status": "presumptive",
+        "basis": "Selected through the CHP's 2025 presidential primary; legal and political developments may affect ballot access."
+      },
+      {
+        "id": "yavas",
+        "name": "Mansur Yavaş",
+        "short_name": "MY",
+        "color": "#c63d46",
+        "ideology": "opposition alternative",
+        "ballot_status": "possible",
+        "basis": "Prominent opposition alternative repeatedly tested in national presidential polling; not nominated."
+      },
+      {
+        "id": "ozel",
+        "name": "Özgür Özel",
+        "short_name": "ÖÖ",
+        "color": "#a82932",
+        "ideology": "opposition / emerging party path",
+        "ballot_status": "possible",
+        "basis": "National opposition figure and potential candidacy path; not nominated."
+      },
+      {
+        "id": "fidan",
+        "name": "Hakan Fidan",
+        "short_name": "HF",
+        "color": "#6b6257",
+        "ideology": "government succession alternative",
+        "ballot_status": "possible",
+        "basis": "Frequently tested as a governing-bloc alternative if Erdoğan cannot or does not run; not nominated."
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "turkiye_ysk",
+        "label": "Supreme Election Council election statistics and prior presidential ballot",
+        "url": "https://www.ysk.gov.tr/doc/dosyalar/docs/YEN%C4%B0-KAPAKLI-ELECTION-STATISTICS-2020-2024-ENG-11-11-2025.pdf",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.ysk.gov.tr/"
+      },
+      {
+        "source_id": "ak_party_2028_signal",
+        "label": "AK Party statement supporting an Erdoğan candidacy in 2028",
+        "url": "https://www.akparti.org.tr/haberler/genel-sekreterimiz-%C4%B1nan-vefa-iftari-programinda-konustu-27-02-2026-23-14-39/",
+        "authority": "party statement",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.akparti.org.tr/"
+      },
+      {
+        "source_id": "chp_presidential_primary",
+        "label": "CHP report identifying Ekrem İmamoğlu as its presidential candidate",
+        "url": "https://en.chp.org.tr/yayin/39-olagan-kurultay-part-mecls-calisma-raporu/Open",
+        "authority": "party statement",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://en.chp.org.tr/"
+      },
+      {
+        "source_id": "gundemar_may_2026",
+        "label": "May 2026 presidential scenario polling",
+        "url": "https://www.gundemar.com/arastirmalarimiz/cumhurbaskani-secim-anketi-mayis-2026",
+        "authority": "pollster",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.gundemar.com/"
+      },
+      {
+        "source_id": "polymarket_turkiye",
+        "label": "Polymarket Türkiye markets — auxiliary timing and constitutional signal",
+        "url": "https://polymarket.com/politics/turkey",
+        "authority": "prediction market; not official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-AUXILIARY-SIGNAL",
+        "license_url": "https://polymarket.com/tos"
+      }
+    ]
+  },
+  "model": {
+    "base_shares": [0.425, 0.525, 0.05],
+    "volatility": 0.115,
+    "turnout": 0.84,
+    "data_quality": "D",
+    "freshness": "exploratory long-range scenario; candidate and timing uncertainty"
+  },
+  "drivers": [
+    {"key":"incumbency","label":"Incumbency and governing apparatus","value":"Strong but conditional candidate","contribution":0.42,"direction":"government","confidence":0.62},
+    {"key":"economy","label":"Cost of living and macroeconomy","value":"Opposition-leaning pressure","contribution":-0.46,"direction":"government","confidence":0.68},
+    {"key":"opposition_selection","label":"Opposition nominee coordination","value":"High unresolved leverage","contribution":-0.18,"direction":"government","confidence":0.42},
+    {"key":"eligibility","label":"Election timing and Erdoğan eligibility","value":"Constitutionally uncertain","contribution":-0.08,"direction":"government","confidence":0.38},
+    {"key":"security","label":"Security and regional risk","value":"Elevated volatility","contribution":0.12,"direction":"government","confidence":0.35}
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "schema_version": 2,
-  "generated_at": "2026-08-09T10:12:04.992583+00:00",
+  "schema_version": 3,
+  "generated_at": "2026-08-09T18:06:04.685159+00:00",
   "eligibility": {
     "source": "V-Dem Country-Year Dataset",
     "version": 16,
@@ -11,9 +11,108 @@
   },
   "enrichment": {
     "source": "World Bank country catalog",
-    "snapshot_sha256": "d29d57f8adf954c5e2a1520a02fb2c7b45575d8db3bd327a9dff47d66914231c"
+    "snapshot_sha256": "d29d57f8adf954c5e2a1520a02fb2c7b45575d8db3bd327a9dff47d66914231c",
+    "scope": "All non-aggregate World Bank countries and economies, plus V-Dem jurisdictions absent from that catalog"
   },
   "jurisdictions": [
+    {
+      "id": "afg",
+      "name": "Afghanistan",
+      "iso3": "AFG",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "AF"
+    },
+    {
+      "id": "alb",
+      "name": "Albania",
+      "iso3": "ALB",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "AL"
+    },
+    {
+      "id": "dza",
+      "name": "Algeria",
+      "iso3": "DZA",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "DZ"
+    },
+    {
+      "id": "asm",
+      "name": "American Samoa",
+      "iso3": "ASM",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "AS"
+    },
+    {
+      "id": "and",
+      "name": "Andorra",
+      "iso3": "AND",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "AD"
+    },
+    {
+      "id": "ago",
+      "name": "Angola",
+      "iso3": "AGO",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "AO"
+    },
+    {
+      "id": "atg",
+      "name": "Antigua and Barbuda",
+      "iso3": "ATG",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "AG"
+    },
     {
       "id": "arg",
       "name": "Argentina",
@@ -22,6 +121,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "AR"
     },
     {
@@ -32,7 +135,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "AM"
+    },
+    {
+      "id": "abw",
+      "name": "Aruba",
+      "iso3": "ABW",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "AW"
     },
     {
       "id": "aus",
@@ -42,6 +163,10 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "AU"
     },
     {
@@ -52,7 +177,67 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "AT"
+    },
+    {
+      "id": "aze",
+      "name": "Azerbaijan",
+      "iso3": "AZE",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "AZ"
+    },
+    {
+      "id": "bhs",
+      "name": "Bahamas, The",
+      "iso3": "BHS",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BS"
+    },
+    {
+      "id": "bhr",
+      "name": "Bahrain",
+      "iso3": "BHR",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BH"
+    },
+    {
+      "id": "bgd",
+      "name": "Bangladesh",
+      "iso3": "BGD",
+      "region": "South Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BD"
     },
     {
       "id": "brb",
@@ -62,7 +247,25 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "BB"
+    },
+    {
+      "id": "blr",
+      "name": "Belarus",
+      "iso3": "BLR",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BY"
     },
     {
       "id": "bel",
@@ -72,7 +275,53 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "BE"
+    },
+    {
+      "id": "blz",
+      "name": "Belize",
+      "iso3": "BLZ",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BZ"
+    },
+    {
+      "id": "ben",
+      "name": "Benin",
+      "iso3": "BEN",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BJ"
+    },
+    {
+      "id": "bmu",
+      "name": "Bermuda",
+      "iso3": "BMU",
+      "region": "North America",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BM"
     },
     {
       "id": "btn",
@@ -82,6 +331,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "BT"
     },
     {
@@ -92,7 +345,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "BO"
+    },
+    {
+      "id": "bih",
+      "name": "Bosnia and Herzegovina",
+      "iso3": "BIH",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BA"
     },
     {
       "id": "bwa",
@@ -102,6 +373,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "BW"
     },
     {
@@ -112,7 +387,39 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "BR"
+    },
+    {
+      "id": "vgb",
+      "name": "British Virgin Islands",
+      "iso3": "VGB",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "VG"
+    },
+    {
+      "id": "brn",
+      "name": "Brunei Darussalam",
+      "iso3": "BRN",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BN"
     },
     {
       "id": "bgr",
@@ -122,7 +429,81 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "BG"
+    },
+    {
+      "id": "bfa",
+      "name": "Burkina Faso",
+      "iso3": "BFA",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BF"
+    },
+    {
+      "id": "bdi",
+      "name": "Burundi",
+      "iso3": "BDI",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "BI"
+    },
+    {
+      "id": "cpv",
+      "name": "Cabo Verde",
+      "iso3": "CPV",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
+      "flag": "CV"
+    },
+    {
+      "id": "khm",
+      "name": "Cambodia",
+      "iso3": "KHM",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "KH"
+    },
+    {
+      "id": "cmr",
+      "name": "Cameroon",
+      "iso3": "CMR",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "CM"
     },
     {
       "id": "can",
@@ -132,17 +513,67 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "CA"
     },
     {
-      "id": "cpv",
-      "name": "Cape Verde",
-      "iso3": "CPV",
-      "region": "Sub-Saharan Africa ",
-      "eligibility": "v-dem:electoral-democracy",
+      "id": "cym",
+      "name": "Cayman Islands",
+      "iso3": "CYM",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
       "is_exception": false,
       "forecast_enabled": false,
-      "flag": "CV"
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "KY"
+    },
+    {
+      "id": "caf",
+      "name": "Central African Republic",
+      "iso3": "CAF",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "CF"
+    },
+    {
+      "id": "tcd",
+      "name": "Chad",
+      "iso3": "TCD",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TD"
+    },
+    {
+      "id": "chi",
+      "name": "Channel Islands",
+      "iso3": "CHI",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "JG"
     },
     {
       "id": "chl",
@@ -152,7 +583,25 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "CL"
+    },
+    {
+      "id": "chn",
+      "name": "China",
+      "iso3": "CHN",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "CN"
     },
     {
       "id": "col",
@@ -162,7 +611,53 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "CO"
+    },
+    {
+      "id": "com",
+      "name": "Comoros",
+      "iso3": "COM",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "KM"
+    },
+    {
+      "id": "cod",
+      "name": "Congo, Dem. Rep.",
+      "iso3": "COD",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "CD"
+    },
+    {
+      "id": "cog",
+      "name": "Congo, Rep.",
+      "iso3": "COG",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "CG"
     },
     {
       "id": "cri",
@@ -172,7 +667,25 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "CR"
+    },
+    {
+      "id": "civ",
+      "name": "Cote d'Ivoire",
+      "iso3": "CIV",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "CI"
     },
     {
       "id": "hrv",
@@ -182,7 +695,39 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "HR"
+    },
+    {
+      "id": "cub",
+      "name": "Cuba",
+      "iso3": "CUB",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "CU"
+    },
+    {
+      "id": "cuw",
+      "name": "Curacao",
+      "iso3": "CUW",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "CW"
     },
     {
       "id": "cyp",
@@ -192,6 +737,10 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "CY"
     },
     {
@@ -202,6 +751,10 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "CZ"
     },
     {
@@ -212,7 +765,39 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "DK"
+    },
+    {
+      "id": "dji",
+      "name": "Djibouti",
+      "iso3": "DJI",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "DJ"
+    },
+    {
+      "id": "dma",
+      "name": "Dominica",
+      "iso3": "DMA",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "DM"
     },
     {
       "id": "dom",
@@ -222,6 +807,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "DO"
     },
     {
@@ -232,7 +821,67 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "EC"
+    },
+    {
+      "id": "egy",
+      "name": "Egypt, Arab Rep.",
+      "iso3": "EGY",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "EG"
+    },
+    {
+      "id": "slv",
+      "name": "El Salvador",
+      "iso3": "SLV",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SV"
+    },
+    {
+      "id": "gnq",
+      "name": "Equatorial Guinea",
+      "iso3": "GNQ",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "GQ"
+    },
+    {
+      "id": "eri",
+      "name": "Eritrea",
+      "iso3": "ERI",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "ER"
     },
     {
       "id": "est",
@@ -242,7 +891,53 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "EE"
+    },
+    {
+      "id": "swz",
+      "name": "Eswatini",
+      "iso3": "SWZ",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SZ"
+    },
+    {
+      "id": "eth",
+      "name": "Ethiopia",
+      "iso3": "ETH",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "ET"
+    },
+    {
+      "id": "fro",
+      "name": "Faroe Islands",
+      "iso3": "FRO",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "FO"
     },
     {
       "id": "fji",
@@ -252,6 +947,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "FJ"
     },
     {
@@ -262,6 +961,10 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "FI"
     },
     {
@@ -272,7 +975,67 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "FR"
+    },
+    {
+      "id": "pyf",
+      "name": "French Polynesia",
+      "iso3": "PYF",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "PF"
+    },
+    {
+      "id": "gab",
+      "name": "Gabon",
+      "iso3": "GAB",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "GA"
+    },
+    {
+      "id": "gmb",
+      "name": "Gambia, The",
+      "iso3": "GMB",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
+      "flag": "GM"
+    },
+    {
+      "id": "geo",
+      "name": "Georgia",
+      "iso3": "GEO",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "GE"
     },
     {
       "id": "deu",
@@ -282,6 +1045,10 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "DE"
     },
     {
@@ -292,7 +1059,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "GH"
+    },
+    {
+      "id": "gib",
+      "name": "Gibraltar",
+      "iso3": "GIB",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "GI"
     },
     {
       "id": "grc",
@@ -302,7 +1087,53 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "GR"
+    },
+    {
+      "id": "grl",
+      "name": "Greenland",
+      "iso3": "GRL",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "GL"
+    },
+    {
+      "id": "grd",
+      "name": "Grenada",
+      "iso3": "GRD",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "GD"
+    },
+    {
+      "id": "gum",
+      "name": "Guam",
+      "iso3": "GUM",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "GU"
     },
     {
       "id": "gtm",
@@ -312,7 +1143,39 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "GT"
+    },
+    {
+      "id": "gin",
+      "name": "Guinea",
+      "iso3": "GIN",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "GN"
+    },
+    {
+      "id": "gnb",
+      "name": "Guinea-Bissau",
+      "iso3": "GNB",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "GW"
     },
     {
       "id": "guy",
@@ -322,7 +1185,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "GY"
+    },
+    {
+      "id": "hti",
+      "name": "Haiti",
+      "iso3": "HTI",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "HT"
     },
     {
       "id": "hnd",
@@ -332,7 +1213,39 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "HN"
+    },
+    {
+      "id": "hkg",
+      "name": "Hong Kong SAR, China",
+      "iso3": "HKG",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "HK"
+    },
+    {
+      "id": "hun",
+      "name": "Hungary",
+      "iso3": "HUN",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "HU"
     },
     {
       "id": "isl",
@@ -342,7 +1255,67 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "IS"
+    },
+    {
+      "id": "ind",
+      "name": "India",
+      "iso3": "IND",
+      "region": "South Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "IN"
+    },
+    {
+      "id": "idn",
+      "name": "Indonesia",
+      "iso3": "IDN",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "ID"
+    },
+    {
+      "id": "irn",
+      "name": "Iran, Islamic Rep.",
+      "iso3": "IRN",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "IR"
+    },
+    {
+      "id": "irq",
+      "name": "Iraq",
+      "iso3": "IRQ",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "IQ"
     },
     {
       "id": "irl",
@@ -352,7 +1325,25 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "IE"
+    },
+    {
+      "id": "imn",
+      "name": "Isle of Man",
+      "iso3": "IMN",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "IM"
     },
     {
       "id": "isr",
@@ -362,6 +1353,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "IL"
     },
     {
@@ -372,6 +1367,10 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "IT"
     },
     {
@@ -382,6 +1381,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "JM"
     },
     {
@@ -392,7 +1395,39 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "JP"
+    },
+    {
+      "id": "jor",
+      "name": "Jordan",
+      "iso3": "JOR",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "JO"
+    },
+    {
+      "id": "kaz",
+      "name": "Kazakhstan",
+      "iso3": "KAZ",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "KZ"
     },
     {
       "id": "ken",
@@ -402,7 +1437,53 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "KE"
+    },
+    {
+      "id": "kir",
+      "name": "Kiribati",
+      "iso3": "KIR",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "KI"
+    },
+    {
+      "id": "prk",
+      "name": "Korea, Dem. People's Rep.",
+      "iso3": "PRK",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "KP"
+    },
+    {
+      "id": "kor",
+      "name": "Korea, Rep.",
+      "iso3": "KOR",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
+      "flag": "KR"
     },
     {
       "id": "xkx",
@@ -412,7 +1493,53 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "XK"
+    },
+    {
+      "id": "kwt",
+      "name": "Kuwait",
+      "iso3": "KWT",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "KW"
+    },
+    {
+      "id": "kgz",
+      "name": "Kyrgyz Republic",
+      "iso3": "KGZ",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "KG"
+    },
+    {
+      "id": "lao",
+      "name": "Lao PDR",
+      "iso3": "LAO",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "LA"
     },
     {
       "id": "lva",
@@ -422,7 +1549,25 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "LV"
+    },
+    {
+      "id": "lbn",
+      "name": "Lebanon",
+      "iso3": "LBN",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "LB"
     },
     {
       "id": "lso",
@@ -432,6 +1577,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "LS"
     },
     {
@@ -442,7 +1591,39 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "LR"
+    },
+    {
+      "id": "lby",
+      "name": "Libya",
+      "iso3": "LBY",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "LY"
+    },
+    {
+      "id": "lie",
+      "name": "Liechtenstein",
+      "iso3": "LIE",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "LI"
     },
     {
       "id": "ltu",
@@ -452,6 +1633,10 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "LT"
     },
     {
@@ -462,7 +1647,39 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "LU"
+    },
+    {
+      "id": "mac",
+      "name": "Macao SAR, China",
+      "iso3": "MAC",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MO"
+    },
+    {
+      "id": "mdg",
+      "name": "Madagascar",
+      "iso3": "MDG",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MG"
     },
     {
       "id": "mwi",
@@ -472,6 +1689,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "MW"
     },
     {
@@ -482,6 +1703,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "MY"
     },
     {
@@ -492,7 +1717,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "MV"
+    },
+    {
+      "id": "mli",
+      "name": "Mali",
+      "iso3": "MLI",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "ML"
     },
     {
       "id": "mlt",
@@ -502,7 +1745,39 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "MT"
+    },
+    {
+      "id": "mhl",
+      "name": "Marshall Islands",
+      "iso3": "MHL",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MH"
+    },
+    {
+      "id": "mrt",
+      "name": "Mauritania",
+      "iso3": "MRT",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MR"
     },
     {
       "id": "mus",
@@ -512,7 +1787,39 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "MU"
+    },
+    {
+      "id": "mex",
+      "name": "Mexico",
+      "iso3": "MEX",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MX"
+    },
+    {
+      "id": "fsm",
+      "name": "Micronesia, Fed. Sts.",
+      "iso3": "FSM",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "FM"
     },
     {
       "id": "mda",
@@ -522,7 +1829,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "MD"
+    },
+    {
+      "id": "mco",
+      "name": "Monaco",
+      "iso3": "MCO",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MC"
     },
     {
       "id": "mng",
@@ -532,6 +1857,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "MN"
     },
     {
@@ -542,7 +1871,53 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "ME"
+    },
+    {
+      "id": "mar",
+      "name": "Morocco",
+      "iso3": "MAR",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MA"
+    },
+    {
+      "id": "moz",
+      "name": "Mozambique",
+      "iso3": "MOZ",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MZ"
+    },
+    {
+      "id": "mmr",
+      "name": "Myanmar",
+      "iso3": "MMR",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MM"
     },
     {
       "id": "nam",
@@ -552,7 +1927,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "NA"
+    },
+    {
+      "id": "nru",
+      "name": "Naoero",
+      "iso3": "NRU",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "NR"
     },
     {
       "id": "npl",
@@ -562,6 +1955,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "NP"
     },
     {
@@ -572,7 +1969,25 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "NL"
+    },
+    {
+      "id": "ncl",
+      "name": "New Caledonia",
+      "iso3": "NCL",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "NC"
     },
     {
       "id": "nzl",
@@ -582,7 +1997,39 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "NZ"
+    },
+    {
+      "id": "nic",
+      "name": "Nicaragua",
+      "iso3": "NIC",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "NI"
+    },
+    {
+      "id": "ner",
+      "name": "Niger",
+      "iso3": "NER",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "NE"
     },
     {
       "id": "nga",
@@ -592,6 +2039,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "NG"
     },
     {
@@ -602,7 +2053,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "MK"
+    },
+    {
+      "id": "mnp",
+      "name": "Northern Mariana Islands",
+      "iso3": "MNP",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MP"
     },
     {
       "id": "nor",
@@ -612,7 +2081,53 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "NO"
+    },
+    {
+      "id": "omn",
+      "name": "Oman",
+      "iso3": "OMN",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "OM"
+    },
+    {
+      "id": "pak",
+      "name": "Pakistan",
+      "iso3": "PAK",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "PK"
+    },
+    {
+      "id": "plw",
+      "name": "Palau",
+      "iso3": "PLW",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "PW"
     },
     {
       "id": "pan",
@@ -622,7 +2137,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "PA"
+    },
+    {
+      "id": "png",
+      "name": "Papua New Guinea",
+      "iso3": "PNG",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "PG"
     },
     {
       "id": "pry",
@@ -632,6 +2165,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "PY"
     },
     {
@@ -642,7 +2179,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "PE"
+    },
+    {
+      "id": "phl",
+      "name": "Philippines",
+      "iso3": "PHL",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "PH"
     },
     {
       "id": "pol",
@@ -652,6 +2207,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "PL"
     },
     {
@@ -662,7 +2221,39 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "PT"
+    },
+    {
+      "id": "pri",
+      "name": "Puerto Rico (US)",
+      "iso3": "PRI",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "PR"
+    },
+    {
+      "id": "qat",
+      "name": "Qatar",
+      "iso3": "QAT",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "QA"
     },
     {
       "id": "rou",
@@ -672,7 +2263,67 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "RO"
+    },
+    {
+      "id": "rus",
+      "name": "Russian Federation",
+      "iso3": "RUS",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "RU"
+    },
+    {
+      "id": "rwa",
+      "name": "Rwanda",
+      "iso3": "RWA",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "RW"
+    },
+    {
+      "id": "wsm",
+      "name": "Samoa",
+      "iso3": "WSM",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "WS"
+    },
+    {
+      "id": "smr",
+      "name": "San Marino",
+      "iso3": "SMR",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SM"
     },
     {
       "id": "stp",
@@ -682,7 +2333,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "ST"
+    },
+    {
+      "id": "sau",
+      "name": "Saudi Arabia",
+      "iso3": "SAU",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SA"
     },
     {
       "id": "sen",
@@ -692,7 +2361,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "SN"
+    },
+    {
+      "id": "srb",
+      "name": "Serbia",
+      "iso3": "SRB",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "RS"
     },
     {
       "id": "syc",
@@ -702,16 +2389,66 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "SC"
     },
     {
+      "id": "sle",
+      "name": "Sierra Leone",
+      "iso3": "SLE",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SL"
+    },
+    {
+      "id": "sgp",
+      "name": "Singapore",
+      "iso3": "SGP",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SG"
+    },
+    {
+      "id": "sxm",
+      "name": "Sint Maarten (Dutch part)",
+      "iso3": "SXM",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SX"
+    },
+    {
       "id": "svk",
-      "name": "Slovakia",
+      "name": "Slovak Republic",
       "iso3": "SVK",
       "region": "Europe & Central Asia",
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "SK"
     },
     {
@@ -722,6 +2459,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "SI"
     },
     {
@@ -732,7 +2473,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "SB"
+    },
+    {
+      "id": "som",
+      "name": "Somalia, Fed. Rep.",
+      "iso3": "SOM",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SO"
     },
     {
       "id": "zaf",
@@ -742,17 +2501,25 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "ZA"
     },
     {
-      "id": "kor",
-      "name": "South Korea",
-      "iso3": "KOR",
-      "region": "East Asia & Pacific",
-      "eligibility": "v-dem:liberal-democracy",
+      "id": "ssd",
+      "name": "South Sudan",
+      "iso3": "SSD",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
       "is_exception": false,
       "forecast_enabled": false,
-      "flag": "KR"
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SS"
     },
     {
       "id": "esp",
@@ -762,6 +2529,10 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "ES"
     },
     {
@@ -772,7 +2543,95 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "LK"
+    },
+    {
+      "id": "kna",
+      "name": "St. Kitts and Nevis",
+      "iso3": "KNA",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "KN"
+    },
+    {
+      "id": "lca",
+      "name": "St. Lucia",
+      "iso3": "LCA",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "LC"
+    },
+    {
+      "id": "maf",
+      "name": "St. Martin (French part)",
+      "iso3": "MAF",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "MF"
+    },
+    {
+      "id": "vct",
+      "name": "St. Vincent and the Grenadines",
+      "iso3": "VCT",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "VC"
+    },
+    {
+      "id": "pse",
+      "name": "State of Palestine",
+      "iso3": "PSE",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "PS"
+    },
+    {
+      "id": "sdn",
+      "name": "Sudan",
+      "iso3": "SDN",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SD"
     },
     {
       "id": "sur",
@@ -782,6 +2641,10 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "SR"
     },
     {
@@ -792,6 +2655,10 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "SE"
     },
     {
@@ -802,7 +2669,39 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "CH"
+    },
+    {
+      "id": "syr",
+      "name": "Syrian Arab Republic",
+      "iso3": "SYR",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "SY"
+    },
+    {
+      "id": "tur",
+      "name": "Türkiye",
+      "iso3": "TUR",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TR"
     },
     {
       "id": "twn",
@@ -812,17 +2711,53 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "TW"
     },
     {
-      "id": "gmb",
-      "name": "The Gambia",
-      "iso3": "GMB",
-      "region": "Sub-Saharan Africa ",
-      "eligibility": "v-dem:electoral-democracy",
+      "id": "tjk",
+      "name": "Tajikistan",
+      "iso3": "TJK",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
       "is_exception": false,
       "forecast_enabled": false,
-      "flag": "GM"
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TJ"
+    },
+    {
+      "id": "tza",
+      "name": "Tanzania",
+      "iso3": "TZA",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TZ"
+    },
+    {
+      "id": "tha",
+      "name": "Thailand",
+      "iso3": "THA",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TH"
     },
     {
       "id": "tls",
@@ -832,7 +2767,39 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "TL"
+    },
+    {
+      "id": "tgo",
+      "name": "Togo",
+      "iso3": "TGO",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TG"
+    },
+    {
+      "id": "ton",
+      "name": "Tonga",
+      "iso3": "TON",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TO"
     },
     {
       "id": "tto",
@@ -842,7 +2809,109 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "TT"
+    },
+    {
+      "id": "tun",
+      "name": "Tunisia",
+      "iso3": "TUN",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TN"
+    },
+    {
+      "id": "tkm",
+      "name": "Turkmenistan",
+      "iso3": "TKM",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TM"
+    },
+    {
+      "id": "tca",
+      "name": "Turks and Caicos Islands",
+      "iso3": "TCA",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TC"
+    },
+    {
+      "id": "tuv",
+      "name": "Tuvalu",
+      "iso3": "TUV",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "TV"
+    },
+    {
+      "id": "uga",
+      "name": "Uganda",
+      "iso3": "UGA",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "UG"
+    },
+    {
+      "id": "ukr",
+      "name": "Ukraine",
+      "iso3": "UKR",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "UA"
+    },
+    {
+      "id": "are",
+      "name": "United Arab Emirates",
+      "iso3": "ARE",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "AE"
     },
     {
       "id": "gbr",
@@ -852,16 +2921,24 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "GB"
     },
     {
       "id": "usa",
-      "name": "United States of America",
+      "name": "United States",
       "iso3": "USA",
       "region": "North America",
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "US"
     },
     {
@@ -872,7 +2949,25 @@
       "eligibility": "v-dem:liberal-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "UY"
+    },
+    {
+      "id": "uzb",
+      "name": "Uzbekistan",
+      "iso3": "UZB",
+      "region": "Europe & Central Asia",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "UZ"
     },
     {
       "id": "vut",
@@ -882,7 +2977,95 @@
       "eligibility": "v-dem:electoral-democracy",
       "is_exception": false,
       "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "No sourced national calendar and validated electoral-system pack are onboarded"
+      ],
       "flag": "VU"
+    },
+    {
+      "id": "ven",
+      "name": "Venezuela, RB",
+      "iso3": "VEN",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "VE"
+    },
+    {
+      "id": "vnm",
+      "name": "Viet Nam",
+      "iso3": "VNM",
+      "region": "East Asia & Pacific",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "VN"
+    },
+    {
+      "id": "vir",
+      "name": "Virgin Islands (U.S.)",
+      "iso3": "VIR",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "VI"
+    },
+    {
+      "id": "yem",
+      "name": "Yemen, Rep.",
+      "iso3": "YEM",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "YE"
+    },
+    {
+      "id": "zmb",
+      "name": "Zambia",
+      "iso3": "ZMB",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "ZM"
+    },
+    {
+      "id": "zwe",
+      "name": "Zimbabwe",
+      "iso3": "ZWE",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "catalog-only:outside-v-dem-forecast-rule",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "coverage_status": "mechanics_blocked",
+      "blocking_reasons": [
+        "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      ],
+      "flag": "ZW"
     }
   ]
 }

@@ -31,7 +31,9 @@
         "color": "#2f7df6",
         "leader": null,
         "incumbent": true,
-        "ideology": "Centre-left"
+        "ideology": "Centre-left",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "gop",
@@ -40,7 +42,9 @@
         "color": "#ef3e4a",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre-right"
+        "ideology": "Centre-right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "other",
@@ -49,9 +53,12 @@
         "color": "#b1bac8",
         "leader": null,
         "incumbent": false,
-        "ideology": "Other"
+        "ideology": "Other",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "us_fec_calendar",

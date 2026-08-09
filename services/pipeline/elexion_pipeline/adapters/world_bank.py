@@ -117,6 +117,10 @@ class WorldBankAdapter:
                 region=str(row.get("region", {}).get("value") or "Global"),
             )
             for row in payload[1]
-            if row.get("id") and row.get("iso2Code")
+            if (
+                row.get("id")
+                and row.get("iso2Code")
+                and row.get("region", {}).get("id") != "NA"
+            )
         )
         return result.snapshot, countries

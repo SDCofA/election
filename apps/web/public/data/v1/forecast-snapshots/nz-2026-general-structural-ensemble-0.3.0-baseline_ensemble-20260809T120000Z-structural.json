@@ -1,0 +1,844 @@
+{
+  "id": "nz-2026-general-structural-ensemble-0.3.0-baseline_ensemble-20260809T120000Z-structural",
+  "election_id": "nz-2026-general",
+  "as_of": "2026-08-09T12:00:00Z",
+  "published_at": "2026-08-09T12:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "model_family": "baseline_ensemble",
+  "selection_status": "baseline retained until reliable walk-forward promotion evidence",
+  "simulation_count": 1000000,
+  "seed": 4188398550,
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "missing_drivers": [
+    "Source-vintage polling and fundamentals",
+    "Source-vintage polling",
+    "Validated historical release-vintage backtest",
+    "Subnational model"
+  ],
+  "regional_forecast_supported": false,
+  "headline": "Structural signals remain provisional; uncertainty is explicitly widened.",
+  "majority_probability": 0.024006,
+  "turnout_median": 0.7799893617630005,
+  "outcomes": [
+    {
+      "contestant_id": "national",
+      "win_probability": 0.719569,
+      "projected_share": 0.34761467576026917,
+      "share_low": 0.23309656754136085,
+      "share_high": 0.4609187588095665,
+      "projected_seats": 43,
+      "seats_low": 28,
+      "seats_high": 57
+    },
+    {
+      "contestant_id": "labour",
+      "win_probability": 0.270611,
+      "projected_share": 0.28615349531173706,
+      "share_low": 0.17314381524920464,
+      "share_high": 0.3977716758847236,
+      "projected_seats": 35,
+      "seats_low": 21,
+      "seats_high": 49
+    },
+    {
+      "contestant_id": "green",
+      "win_probability": 0.004511,
+      "projected_share": 0.11438672244548798,
+      "share_low": 0.002980978915002197,
+      "share_high": 0.2260744236409664,
+      "projected_seats": 14,
+      "seats_low": 0,
+      "seats_high": 28
+    },
+    {
+      "contestant_id": "act",
+      "win_probability": 0.002398,
+      "projected_share": 0.09558796882629395,
+      "share_low": 0.0029055647552013396,
+      "share_high": 0.20599268600344653,
+      "projected_seats": 11,
+      "seats_low": 0,
+      "seats_high": 25
+    },
+    {
+      "contestant_id": "nz-first",
+      "win_probability": 0.002365,
+      "projected_share": 0.09548000991344452,
+      "share_low": 0.0029048772645182907,
+      "share_high": 0.20601237714290596,
+      "projected_seats": 11,
+      "seats_low": 0,
+      "seats_high": 25
+    },
+    {
+      "contestant_id": "te-pati-maori",
+      "win_probability": 0.000546,
+      "projected_share": 0.060777146369218826,
+      "share_low": 0.0027892598416656257,
+      "share_high": 0.16533535122871398,
+      "projected_seats": 7,
+      "seats_low": 0,
+      "seats_high": 20
+    }
+  ],
+  "coalition_outcomes": [
+    {
+      "member_ids": [
+        "national",
+        "labour"
+      ],
+      "majority_probability": 0.943692,
+      "seats_median": 78,
+      "seats_low": 60,
+      "seats_high": 96
+    },
+    {
+      "member_ids": [
+        "national",
+        "green"
+      ],
+      "majority_probability": 0.349141,
+      "seats_median": 56,
+      "seats_low": 38,
+      "seats_high": 74
+    },
+    {
+      "member_ids": [
+        "national",
+        "act"
+      ],
+      "majority_probability": 0.267106,
+      "seats_median": 54,
+      "seats_low": 36,
+      "seats_high": 72
+    },
+    {
+      "member_ids": [
+        "national",
+        "nz-first"
+      ],
+      "majority_probability": 0.266539,
+      "seats_median": 54,
+      "seats_low": 36,
+      "seats_high": 72
+    },
+    {
+      "member_ids": [
+        "national",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.143694,
+      "seats_median": 49,
+      "seats_low": 33,
+      "seats_high": 67
+    },
+    {
+      "member_ids": [
+        "labour",
+        "green"
+      ],
+      "majority_probability": 0.137625,
+      "seats_median": 49,
+      "seats_low": 31,
+      "seats_high": 66
+    },
+    {
+      "member_ids": [
+        "labour",
+        "act"
+      ],
+      "majority_probability": 0.093074,
+      "seats_median": 46,
+      "seats_low": 29,
+      "seats_high": 64
+    },
+    {
+      "member_ids": [
+        "labour",
+        "nz-first"
+      ],
+      "majority_probability": 0.093019,
+      "seats_median": 46,
+      "seats_low": 29,
+      "seats_high": 64
+    },
+    {
+      "member_ids": [
+        "labour",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.039084,
+      "seats_median": 41,
+      "seats_low": 25,
+      "seats_high": 59
+    },
+    {
+      "member_ids": [
+        "green",
+        "act"
+      ],
+      "majority_probability": 0.000355,
+      "seats_median": 25,
+      "seats_low": 7,
+      "seats_high": 43
+    },
+    {
+      "member_ids": [
+        "green",
+        "nz-first"
+      ],
+      "majority_probability": 0.000357,
+      "seats_median": 25,
+      "seats_low": 7,
+      "seats_high": 42
+    },
+    {
+      "member_ids": [
+        "green",
+        "te-pati-maori"
+      ],
+      "majority_probability": 7.7e-05,
+      "seats_median": 20,
+      "seats_low": 0,
+      "seats_high": 38
+    },
+    {
+      "member_ids": [
+        "act",
+        "nz-first"
+      ],
+      "majority_probability": 0.000189,
+      "seats_median": 22,
+      "seats_low": 0,
+      "seats_high": 40
+    },
+    {
+      "member_ids": [
+        "act",
+        "te-pati-maori"
+      ],
+      "majority_probability": 4.7e-05,
+      "seats_median": 17,
+      "seats_low": 0,
+      "seats_high": 35
+    },
+    {
+      "member_ids": [
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 3.1e-05,
+      "seats_median": 17,
+      "seats_low": 0,
+      "seats_high": 35
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "green"
+      ],
+      "majority_probability": 0.996431,
+      "seats_median": 91,
+      "seats_low": 73,
+      "seats_high": 110
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "act"
+      ],
+      "majority_probability": 0.993802,
+      "seats_median": 89,
+      "seats_low": 70,
+      "seats_high": 108
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "nz-first"
+      ],
+      "majority_probability": 0.993681,
+      "seats_median": 89,
+      "seats_low": 70,
+      "seats_high": 108
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.982964,
+      "seats_median": 84,
+      "seats_low": 66,
+      "seats_high": 103
+    },
+    {
+      "member_ids": [
+        "national",
+        "green",
+        "act"
+      ],
+      "majority_probability": 0.726983,
+      "seats_median": 67,
+      "seats_low": 49,
+      "seats_high": 86
+    },
+    {
+      "member_ids": [
+        "national",
+        "green",
+        "nz-first"
+      ],
+      "majority_probability": 0.72685,
+      "seats_median": 67,
+      "seats_low": 49,
+      "seats_high": 86
+    },
+    {
+      "member_ids": [
+        "national",
+        "green",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.576989,
+      "seats_median": 63,
+      "seats_low": 44,
+      "seats_high": 81
+    },
+    {
+      "member_ids": [
+        "national",
+        "act",
+        "nz-first"
+      ],
+      "majority_probability": 0.648504,
+      "seats_median": 65,
+      "seats_low": 46,
+      "seats_high": 83
+    },
+    {
+      "member_ids": [
+        "national",
+        "act",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.488503,
+      "seats_median": 60,
+      "seats_low": 42,
+      "seats_high": 79
+    },
+    {
+      "member_ids": [
+        "national",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.487276,
+      "seats_median": 60,
+      "seats_low": 42,
+      "seats_high": 79
+    },
+    {
+      "member_ids": [
+        "labour",
+        "green",
+        "act"
+      ],
+      "majority_probability": 0.477894,
+      "seats_median": 60,
+      "seats_low": 41,
+      "seats_high": 78
+    },
+    {
+      "member_ids": [
+        "labour",
+        "green",
+        "nz-first"
+      ],
+      "majority_probability": 0.476699,
+      "seats_median": 60,
+      "seats_low": 41,
+      "seats_high": 78
+    },
+    {
+      "member_ids": [
+        "labour",
+        "green",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.319524,
+      "seats_median": 55,
+      "seats_low": 37,
+      "seats_high": 74
+    },
+    {
+      "member_ids": [
+        "labour",
+        "act",
+        "nz-first"
+      ],
+      "majority_probability": 0.389012,
+      "seats_median": 57,
+      "seats_low": 39,
+      "seats_high": 76
+    },
+    {
+      "member_ids": [
+        "labour",
+        "act",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.244936,
+      "seats_median": 53,
+      "seats_low": 34,
+      "seats_high": 71
+    },
+    {
+      "member_ids": [
+        "labour",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.2451,
+      "seats_median": 53,
+      "seats_low": 34,
+      "seats_high": 71
+    },
+    {
+      "member_ids": [
+        "green",
+        "act",
+        "nz-first"
+      ],
+      "majority_probability": 0.013499,
+      "seats_median": 36,
+      "seats_low": 17,
+      "seats_high": 54
+    },
+    {
+      "member_ids": [
+        "green",
+        "act",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.004885,
+      "seats_median": 31,
+      "seats_low": 12,
+      "seats_high": 50
+    },
+    {
+      "member_ids": [
+        "green",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.0048,
+      "seats_median": 31,
+      "seats_low": 12,
+      "seats_high": 50
+    },
+    {
+      "member_ids": [
+        "act",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.00274,
+      "seats_median": 29,
+      "seats_low": 10,
+      "seats_high": 47
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "green",
+        "act"
+      ],
+      "majority_probability": 0.999956,
+      "seats_median": 103,
+      "seats_low": 85,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "green",
+        "nz-first"
+      ],
+      "majority_probability": 0.999935,
+      "seats_median": 103,
+      "seats_low": 85,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "green",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.999738,
+      "seats_median": 98,
+      "seats_low": 80,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "act",
+        "nz-first"
+      ],
+      "majority_probability": 0.999892,
+      "seats_median": 100,
+      "seats_low": 82,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "act",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.99949,
+      "seats_median": 95,
+      "seats_low": 78,
+      "seats_high": 113
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.999474,
+      "seats_median": 95,
+      "seats_low": 77,
+      "seats_high": 113
+    },
+    {
+      "member_ids": [
+        "national",
+        "green",
+        "act",
+        "nz-first"
+      ],
+      "majority_probability": 0.952635,
+      "seats_median": 79,
+      "seats_low": 61,
+      "seats_high": 95
+    },
+    {
+      "member_ids": [
+        "national",
+        "green",
+        "act",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.890816,
+      "seats_median": 74,
+      "seats_low": 56,
+      "seats_high": 91
+    },
+    {
+      "member_ids": [
+        "national",
+        "green",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.890713,
+      "seats_median": 74,
+      "seats_low": 56,
+      "seats_high": 91
+    },
+    {
+      "member_ids": [
+        "national",
+        "act",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.840628,
+      "seats_median": 71,
+      "seats_low": 54,
+      "seats_high": 89
+    },
+    {
+      "member_ids": [
+        "labour",
+        "green",
+        "act",
+        "nz-first"
+      ],
+      "majority_probability": 0.834943,
+      "seats_median": 71,
+      "seats_low": 53,
+      "seats_high": 87
+    },
+    {
+      "member_ids": [
+        "labour",
+        "green",
+        "act",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.702611,
+      "seats_median": 66,
+      "seats_low": 48,
+      "seats_high": 84
+    },
+    {
+      "member_ids": [
+        "labour",
+        "green",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.702284,
+      "seats_median": 66,
+      "seats_low": 48,
+      "seats_high": 84
+    },
+    {
+      "member_ids": [
+        "labour",
+        "act",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.616331,
+      "seats_median": 64,
+      "seats_low": 46,
+      "seats_high": 82
+    },
+    {
+      "member_ids": [
+        "green",
+        "act",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.046703,
+      "seats_median": 42,
+      "seats_low": 24,
+      "seats_high": 60
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "green",
+        "act",
+        "nz-first"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 114,
+      "seats_low": 100,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "green",
+        "act",
+        "te-pati-maori"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 109,
+      "seats_low": 95,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "green",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 109,
+      "seats_low": 95,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "national",
+        "labour",
+        "act",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 1.0,
+      "seats_median": 106,
+      "seats_low": 92,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "national",
+        "green",
+        "act",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.997493,
+      "seats_median": 85,
+      "seats_low": 71,
+      "seats_high": 99
+    },
+    {
+      "member_ids": [
+        "labour",
+        "green",
+        "act",
+        "nz-first",
+        "te-pati-maori"
+      ],
+      "majority_probability": 0.9713,
+      "seats_median": 77,
+      "seats_low": 63,
+      "seats_high": 92
+    }
+  ],
+  "drivers": [
+    {
+      "key": "incumbency",
+      "label": "Incumbent coalition advantage",
+      "value": "Moderate",
+      "contribution": 0.18,
+      "direction": "government",
+      "confidence": 0.55
+    },
+    {
+      "key": "economy",
+      "label": "Household economy",
+      "value": "Competitive",
+      "contribution": -0.16,
+      "direction": "government",
+      "confidence": 0.46
+    },
+    {
+      "key": "coalition",
+      "label": "Coalition transferability",
+      "value": "High leverage",
+      "contribution": 0.06,
+      "direction": "government",
+      "confidence": 0.4
+    },
+    {
+      "key": "candidate_lists",
+      "label": "Final party and electorate lists",
+      "value": "Pending",
+      "contribution": -0.03,
+      "direction": "government",
+      "confidence": 0.28
+    }
+  ],
+  "driver_sensitivity": [
+    {
+      "driver_key": "incumbency",
+      "label": "Incumbent coalition advantage",
+      "negative_scenario": -1.0,
+      "observed_scenario": 0.18,
+      "positive_scenario": 1.0,
+      "negative_incumbent_share_shift": -0.00532,
+      "observed_incumbent_share_shift": 0.00035875000000000013,
+      "positive_incumbent_share_shift": 0.0043050000000000015,
+      "confidence": 0.55,
+      "clipped": false,
+      "method": "One-at-a-time structural perturbation; all other inputs held constant"
+    },
+    {
+      "driver_key": "economy",
+      "label": "Household economy",
+      "negative_scenario": -1.0,
+      "observed_scenario": -0.16,
+      "positive_scenario": 1.0,
+      "negative_incumbent_share_shift": -0.0030222500000000006,
+      "observed_incumbent_share_shift": 0.00035875000000000013,
+      "positive_incumbent_share_shift": 0.005027750000000001,
+      "confidence": 0.46,
+      "clipped": false,
+      "method": "One-at-a-time structural perturbation; all other inputs held constant"
+    },
+    {
+      "driver_key": "coalition",
+      "label": "Coalition transferability",
+      "negative_scenario": -1.0,
+      "observed_scenario": 0.06,
+      "positive_scenario": 1.0,
+      "negative_incumbent_share_shift": -0.0033512500000000005,
+      "observed_incumbent_share_shift": 0.00035875000000000013,
+      "positive_incumbent_share_shift": 0.0036487500000000005,
+      "confidence": 0.4,
+      "clipped": false,
+      "method": "One-at-a-time structural perturbation; all other inputs held constant"
+    },
+    {
+      "driver_key": "candidate_lists",
+      "label": "Final party and electorate lists",
+      "negative_scenario": -1.0,
+      "observed_scenario": -0.03,
+      "positive_scenario": 1.0,
+      "negative_incumbent_share_shift": -0.00201775,
+      "observed_incumbent_share_shift": 0.00035875000000000013,
+      "positive_incumbent_share_shift": 0.0028822500000000007,
+      "confidence": 0.28,
+      "clipped": false,
+      "method": "One-at-a-time structural perturbation; all other inputs held constant"
+    }
+  ],
+  "methodology_url": "/methodology",
+  "input_revision_ids": [],
+  "input_provenance": [],
+  "provenance": [
+    {
+      "source_id": "new_zealand_registered_parties",
+      "label": "Electoral Commission register of political parties",
+      "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/register-of-political-parties",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+      "license_url": "https://elections.nz/contact"
+    },
+    {
+      "source_id": "new_zealand_electoral_commission_web",
+      "label": "Electoral Commission 2026 general election timetable",
+      "url": "https://elections.nz/media-and-news/2026/key-dates-for-2026-general-election",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+      "license_url": "https://elections.nz/contact"
+    },
+    {
+      "source_id": "new_zealand_electoral_commission_web",
+      "label": "Electoral Commission MMP rules",
+      "url": "https://elections.nz/democracy-in-nz/what-is-new-zealands-system-of-government/how-are-mps-elected",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+      "license_url": "https://elections.nz/contact"
+    },
+    {
+      "source_id": "new_zealand_electoral_commission_web",
+      "label": "Electoral Commission 2026 electorate boundaries",
+      "url": "https://elections.nz/democracy-in-nz/what-are-electorates/how-are-electoral-boundaries-decided",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+      "license_url": "https://elections.nz/contact"
+    }
+  ]
+}

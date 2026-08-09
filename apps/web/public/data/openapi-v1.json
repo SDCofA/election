@@ -231,6 +231,22 @@
       },
       "Contestant": {
         "properties": {
+          "ballot_status": {
+            "default": "official",
+            "title": "Ballot Status",
+            "type": "string"
+          },
+          "basis": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Basis"
+          },
           "color": {
             "title": "Color",
             "type": "string"
@@ -605,6 +621,13 @@
           "name": {
             "title": "Name",
             "type": "string"
+          },
+          "potential_candidates": {
+            "items": {
+              "$ref": "#/components/schemas/Contestant"
+            },
+            "title": "Potential Candidates",
+            "type": "array"
           },
           "seats_total": {
             "anyOf": [

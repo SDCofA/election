@@ -1,0 +1,88 @@
+{
+  "election_id": "tr-next-president",
+  "system": "presidential_runoff",
+  "rules": {
+    "engine": "presidential_runoff",
+    "rounds": 2,
+    "first_round_threshold": 0.5,
+    "office": "President of the Republic",
+    "validation_status": "candidate_and_timing_uncertainty"
+  },
+  "source_adapters": [
+    {
+      "source_id": "turkiye_ysk",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html",
+        "pdf"
+      ]
+    },
+    {
+      "source_id": "turkiye_party_signals",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html"
+      ]
+    },
+    {
+      "source_id": "turkiye_prediction_markets",
+      "status": "auxiliary_signal_only",
+      "formats": [
+        "html"
+      ]
+    }
+  ],
+  "forecast_enabled": true,
+  "as_of": "2026-08-09T18:00:00Z",
+  "published_at": "2026-08-09T18:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "turkiye_ysk",
+      "label": "Supreme Election Council election statistics and prior presidential ballot",
+      "url": "https://www.ysk.gov.tr/doc/dosyalar/docs/YEN%C4%B0-KAPAKLI-ELECTION-STATISTICS-2020-2024-ENG-11-11-2025.pdf",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ysk.gov.tr/"
+    },
+    {
+      "source_id": "ak_party_2028_signal",
+      "label": "AK Party statement supporting an Erdoğan candidacy in 2028",
+      "url": "https://www.akparti.org.tr/haberler/genel-sekreterimiz-%C4%B1nan-vefa-iftari-programinda-konustu-27-02-2026-23-14-39/",
+      "authority": "party statement",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.akparti.org.tr/"
+    },
+    {
+      "source_id": "chp_presidential_primary",
+      "label": "CHP report identifying Ekrem İmamoğlu as its presidential candidate",
+      "url": "https://en.chp.org.tr/yayin/39-olagan-kurultay-part-mecls-calisma-raporu/Open",
+      "authority": "party statement",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://en.chp.org.tr/"
+    },
+    {
+      "source_id": "gundemar_may_2026",
+      "label": "May 2026 presidential scenario polling",
+      "url": "https://www.gundemar.com/arastirmalarimiz/cumhurbaskani-secim-anketi-mayis-2026",
+      "authority": "pollster",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.gundemar.com/"
+    },
+    {
+      "source_id": "polymarket_turkiye",
+      "label": "Polymarket Türkiye markets — auxiliary timing and constitutional signal",
+      "url": "https://polymarket.com/politics/turkey",
+      "authority": "prediction market; not official",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-AUXILIARY-SIGNAL",
+      "license_url": "https://polymarket.com/tos"
+    }
+  ]
+}

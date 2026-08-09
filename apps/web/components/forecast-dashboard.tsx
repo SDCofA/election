@@ -10,7 +10,16 @@ import { ParliamentHemicycle } from "@/components/parliament-hemicycle";
 import { formatDate, formatDateTime, formatNumber, message as t } from "@/lib/i18n";
 import { publicAsset, publicEndpoint } from "@/lib/public-data";
 
-type Contestant = { id: string; name: string; short_name: string; color: string; incumbent?: boolean };
+type Contestant = {
+  id: string;
+  name: string;
+  short_name: string;
+  color: string;
+  incumbent?: boolean;
+  ideology?: string | null;
+  ballot_status?: string;
+  basis?: string | null;
+};
 type Outcome = {
   contestant_id: string;
   win_probability: number;
@@ -108,6 +117,7 @@ type ElectionDetail = {
     seats_total: number | null;
     majority: number | null;
     contestants: Contestant[];
+    potential_candidates?: Contestant[];
     sources?: Array<{ label: string; url: string; authority: string; license: string }>;
   };
   forecast: {
@@ -136,6 +146,25 @@ type CatalogStatus = {
   mechanics_blocked: number;
   sourced_calendars: number;
 };
+
+function PossibleField({ contestants }: { contestants: Contestant[] }) {
+  return (
+    <article className="panel calendar-panel possible-field-panel">
+      <header><span>POSSIBLE FIELD</span><small>Not the official ballot</small></header>
+      <h2>Names worth tracking now</h2>
+      <p>Uncertainty does not require an empty page. These are sourced possibilities, not certified nominees; forecast probabilities may represent broader nominee scenarios.</p>
+      <div className="possible-field-grid">
+        {contestants.map((contestant) => (
+          <div key={contestant.id} style={{ "--party": contestant.color } as React.CSSProperties}>
+            <i>{contestant.short_name}</i>
+            <span><strong>{contestant.name}</strong><small>{contestant.ballot_status ?? "possible"} · {contestant.ideology ?? "affiliation evolving"}</small></span>
+            {contestant.basis && <p>{contestant.basis}</p>}
+          </div>
+        ))}
+      </div>
+    </article>
+  );
+}
 
 const FALLBACK: ElectionDetail = {
   jurisdiction: { name: "United States", flag: "US", eligibility: "v-dem:liberal-democracy", is_exception: false, coverage_status: "forecast_ready" },
@@ -339,6 +368,9 @@ function CalendarOnlyView({
                 </a>
               ))}
             </article>
+            {(detail.election.potential_candidates?.length ?? detail.election.contestants.length) > 0 && (
+              <PossibleField contestants={detail.election.potential_candidates?.length ? detail.election.potential_candidates : detail.election.contestants} />
+            )}
           </div>
         </section>
         <aside className="insight-rail">
@@ -609,6 +641,10 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
               <p className="panel-note">National layout only · official regional model activates after validated boundaries and inputs.</p>
             </article>
           </div>
+
+          {!!detail.election.potential_candidates?.length && (
+            <PossibleField contestants={detail.election.potential_candidates} />
+          )}
 
           <div className="lower-grid">
             <article className="panel projection-panel">

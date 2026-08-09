@@ -737,7 +737,10 @@ class CatalogRepository:
             eligibility_year=eligibility["year"],
             eligibility_rule=eligibility["rule"],
             eligibility_snapshot_sha256=eligibility["snapshot_sha256"],
-            eligible_jurisdictions=len(self.catalog_payload["jurisdictions"]),
+            eligible_jurisdictions=sum(
+                item["eligibility"].startswith("v-dem:")
+                for item in self.catalog_payload["jurisdictions"]
+            ),
             total_jurisdictions=len(self.jurisdictions),
             forecast_ready=sum(item.forecast_enabled for item in self.jurisdictions.values()),
             calendar_only=sum(

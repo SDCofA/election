@@ -14,8 +14,8 @@ def test_health_and_catalog():
     assert health["status"] == "ok"
     assert health["dependencies"]["telemetry"] == "disabled"
     jurisdictions = client.get("/v1/jurisdictions").json()
-    assert len(jurisdictions) == 90
-    assert {item["id"] for item in jurisdictions} >= {"usa", "gbr", "deu", "egy", "eu", "au-union"}
+    assert len(jurisdictions) == 220
+    assert {item["id"] for item in jurisdictions} >= {"usa", "gbr", "deu", "egy", "tur", "eu", "au-union"}
     egypt = next(item for item in jurisdictions if item["id"] == "egy")
     assert egypt["is_exception"] is True
     united_states = next(item for item in jurisdictions if item["id"] == "usa")
@@ -25,11 +25,16 @@ def test_health_and_catalog():
     assert status["eligibility_version"] == 16
     assert status["eligibility_year"] == 2025
     assert status["eligible_jurisdictions"] == 87
+    assert status["total_jurisdictions"] == 220
     assert status["eligibility_snapshot_sha256"]
-    assert status["forecast_ready"] == 5
+    assert status["forecast_ready"] == 8
     assert status["calendar_only"] == 3
-    assert status["mechanics_blocked"] == 82
-    assert status["sourced_calendars"] == 90
+    assert status["mechanics_blocked"] == 209
+    assert status["sourced_calendars"] == 91
+    turkiye = next(item for item in jurisdictions if item["id"] == "tur")
+    assert turkiye["name"] == "Türkiye"
+    assert turkiye["flag"] == "TR"
+    assert turkiye["forecast_enabled"] is True
     brazil = next(item for item in jurisdictions if item["id"] == "bra")
     assert brazil["coverage_status"] == "calendar_only"
     sweden = next(item for item in jurisdictions if item["id"] == "swe")
@@ -39,21 +44,22 @@ def test_health_and_catalog():
     assert latvia["coverage_status"] == "mechanics_blocked"
     assert latvia["blocking_reasons"]
     israel = next(item for item in jurisdictions if item["id"] == "isr")
-    assert israel["coverage_status"] == "mechanics_blocked"
-    assert israel["blocking_reasons"]
+    assert israel["coverage_status"] == "forecast"
+    assert israel["blocking_reasons"] == []
     new_zealand = next(item for item in jurisdictions if item["id"] == "nzl")
-    assert new_zealand["coverage_status"] == "mechanics_blocked"
-    assert new_zealand["blocking_reasons"]
+    assert new_zealand["coverage_status"] == "forecast"
+    assert new_zealand["blocking_reasons"] == []
     argentina = next(item for item in jurisdictions if item["id"] == "arg")
     assert argentina["coverage_status"] == "mechanics_blocked"
     assert argentina["blocking_reasons"]
 
 
-def test_every_catalog_jurisdiction_has_a_public_election_record_and_source():
+def test_every_public_election_has_a_catalog_jurisdiction_and_source():
     jurisdictions = client.get("/v1/jurisdictions").json()
     elections = client.get("/v1/elections").json()
-    assert len(jurisdictions) == len(elections) == 90
-    assert {item["jurisdiction_id"] for item in elections} == {item["id"] for item in jurisdictions}
+    assert len(jurisdictions) == 220
+    assert len(elections) == 91
+    assert {item["jurisdiction_id"] for item in elections} <= {item["id"] for item in jurisdictions}
     assert all(item["sources"] for item in elections)
     tbd = [item for item in elections if item["election_date"] is None]
     assert len(tbd) == 79
@@ -121,15 +127,25 @@ def test_forecast_contract_and_missing_forecast():
 
     israel = client.get("/v1/elections/il-2026-knesset")
     assert israel.status_code == 200
-    assert israel.json()["forecast"] is None
+    assert israel.json()["forecast"]["simulation_count"] == 1_000_000
+    assert len(israel.json()["election"]["potential_candidates"]) == 11
     israel_mechanics = client.get("/v1/elections/il-2026-knesset/mechanics").json()
     assert israel_mechanics["rules"]["seats"] == 120
     assert israel_mechanics["rules"]["national_threshold"] == 0.0325
     assert israel_mechanics["source_adapters"][0]["status"].startswith("blocked")
 
+    turkiye = client.get("/v1/elections/tr-next-president")
+    assert turkiye.status_code == 200
+    assert turkiye.json()["forecast"]["simulation_count"] == 1_000_000
+    assert {item["name"] for item in turkiye.json()["election"]["potential_candidates"]} >= {
+        "Recep Tayyip Erdoğan",
+        "Mansur Yavaş",
+        "Özgür Özel",
+    }
+
     new_zealand = client.get("/v1/elections/nz-2026-general")
     assert new_zealand.status_code == 200
-    assert new_zealand.json()["forecast"] is None
+    assert new_zealand.json()["forecast"]["simulation_count"] == 1_000_000
     assert new_zealand.json()["election"]["election_date"] == "2026-11-07"
     nz_mechanics = client.get("/v1/elections/nz-2026-general/mechanics").json()
     assert nz_mechanics["rules"]["electorate_seats"] == 71

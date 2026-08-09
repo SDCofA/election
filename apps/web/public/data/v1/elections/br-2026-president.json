@@ -26,6 +26,7 @@
     "status": "calendar only; official contestant registration unresolved",
     "last_updated": "2026-08-09T12:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "brazil_tse",

@@ -31,7 +31,9 @@
         "color": "#ef3b4f",
         "leader": null,
         "incumbent": true,
-        "ideology": "Centre-left"
+        "ideology": "Centre-left",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "con",
@@ -40,7 +42,9 @@
         "color": "#2188e8",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre-right"
+        "ideology": "Centre-right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "ref",
@@ -49,7 +53,9 @@
         "color": "#2bd0d0",
         "leader": null,
         "incumbent": false,
-        "ideology": "Right"
+        "ideology": "Right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "ld",
@@ -58,7 +64,9 @@
         "color": "#f5bf25",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre"
+        "ideology": "Centre",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "other",
@@ -67,9 +75,12 @@
         "color": "#8795a8",
         "leader": null,
         "incumbent": false,
-        "ideology": "Mixed"
+        "ideology": "Mixed",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "uk_electoral_commission",

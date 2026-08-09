@@ -66,7 +66,7 @@ export default function MethodologyPage() {
 
       <section>
         <h2>Global coverage states</h2>
-        <p>Every catalog jurisdiction has a public election record. Unknown dates are shown as TBD with unresolved mechanics and no probability. Link-only authority references are never scraped or treated as licensed data; dated calendar and forecast status require separate validation gates.</p>
+        <p>Every catalog country and economy appears in the global directory. Countries without a sourced election record remain listing-only. When a credible possible field can be formed, the desk publishes an explicitly exploratory D-grade forecast even before official nominations; candidate, timing, and legal uncertainty widen the model rather than erase the contest. Official status and possible-field status are always kept separate.</p>
         <div className="method-links"><Link href="/calendar">Global election directory</Link></div>
       </section>
     </main>

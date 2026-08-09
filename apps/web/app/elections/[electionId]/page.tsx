@@ -11,7 +11,8 @@ const electionIds = [
   "br-2026-president",
   "lv-2026-saeima",
   "il-2026-knesset",
-  "nz-2026-general"
+  "nz-2026-general",
+  "tr-next-president"
 ];
 
 export function generateStaticParams() {

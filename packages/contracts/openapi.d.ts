@@ -440,6 +440,13 @@ export interface components {
         };
         /** Contestant */
         Contestant: {
+            /**
+             * Ballot Status
+             * @default official
+             */
+            ballot_status: string;
+            /** Basis */
+            basis?: string | null;
             /** Color */
             color: string;
             /** Id */
@@ -580,6 +587,8 @@ export interface components {
             majority?: number | null;
             /** Name */
             name: string;
+            /** Potential Candidates */
+            potential_candidates?: components["schemas"]["Contestant"][];
             /** Seats Total */
             seats_total?: number | null;
             /** Sources */

@@ -31,7 +31,9 @@
         "color": "#d5b75b",
         "leader": null,
         "incumbent": true,
-        "ideology": "Government"
+        "ideology": "Government",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "opposition",
@@ -40,9 +42,12 @@
         "color": "#4c9ee8",
         "leader": null,
         "incumbent": false,
-        "ideology": "Opposition"
+        "ideology": "Opposition",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "egypt_nea",

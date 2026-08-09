@@ -22,13 +22,22 @@
       ]
     }
   ],
-  "forecast_enabled": false,
+  "forecast_enabled": true,
   "as_of": "2026-08-09T12:00:00Z",
   "published_at": "2026-08-09T12:00:00Z",
-  "model_version": "calendar-0.1.0",
+  "model_version": "structural-ensemble-0.3.0",
   "data_quality": "D",
-  "freshness": "mechanics blocked; official date, boundaries, and national MMP rules verified",
+  "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [
+    {
+      "source_id": "new_zealand_registered_parties",
+      "label": "Electoral Commission register of political parties",
+      "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/register-of-political-parties",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+      "license_url": "https://elections.nz/contact"
+    },
     {
       "source_id": "new_zealand_electoral_commission_web",
       "label": "Electoral Commission 2026 general election timetable",

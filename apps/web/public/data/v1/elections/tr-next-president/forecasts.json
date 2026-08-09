@@ -1,0 +1,217 @@
+[
+  {
+    "id": "tr-next-president-structural-ensemble-0.3.0-baseline_ensemble-20260809T180000Z-structural",
+    "election_id": "tr-next-president",
+    "as_of": "2026-08-09T18:00:00Z",
+    "published_at": "2026-08-09T18:00:00Z",
+    "model_version": "structural-ensemble-0.3.0",
+    "model_family": "baseline_ensemble",
+    "selection_status": "baseline retained until reliable walk-forward promotion evidence",
+    "simulation_count": 1000000,
+    "seed": 1935011677,
+    "data_quality": "D",
+    "freshness": "structural-only; no source-vintage feature snapshot",
+    "missing_drivers": [
+      "Source-vintage polling and fundamentals",
+      "Source-vintage polling",
+      "Validated historical release-vintage backtest",
+      "Subnational model"
+    ],
+    "regional_forecast_supported": false,
+    "headline": "Structural signals remain provisional; uncertainty is explicitly widened.",
+    "majority_probability": 0.759194,
+    "turnout_median": 0.8400121331214905,
+    "outcomes": [
+      {
+        "contestant_id": "government-nominee",
+        "win_probability": 0.310033,
+        "projected_share": 0.41207462549209595,
+        "share_low": 0.2280585028231144,
+        "share_high": 0.588074716925621,
+        "projected_seats": null,
+        "seats_low": null,
+        "seats_high": null
+      },
+      {
+        "contestant_id": "opposition-nominee",
+        "win_probability": 0.687302,
+        "projected_share": 0.5108351111412048,
+        "share_low": 0.3308674067258835,
+        "share_high": 0.6843867927789689,
+        "projected_seats": null,
+        "seats_low": null,
+        "seats_high": null
+      },
+      {
+        "contestant_id": "other",
+        "win_probability": 0.002665,
+        "projected_share": 0.07709026336669922,
+        "share_low": 0.002620472456328571,
+        "share_high": 0.242642056196928,
+        "projected_seats": null,
+        "seats_low": null,
+        "seats_high": null
+      }
+    ],
+    "coalition_outcomes": [],
+    "drivers": [
+      {
+        "key": "incumbency",
+        "label": "Incumbency and governing apparatus",
+        "value": "Strong but conditional candidate",
+        "contribution": 0.42,
+        "direction": "government",
+        "confidence": 0.62
+      },
+      {
+        "key": "economy",
+        "label": "Cost of living and macroeconomy",
+        "value": "Opposition-leaning pressure",
+        "contribution": -0.46,
+        "direction": "government",
+        "confidence": 0.68
+      },
+      {
+        "key": "opposition_selection",
+        "label": "Opposition nominee coordination",
+        "value": "High unresolved leverage",
+        "contribution": -0.18,
+        "direction": "government",
+        "confidence": 0.42
+      },
+      {
+        "key": "eligibility",
+        "label": "Election timing and Erdoğan eligibility",
+        "value": "Constitutionally uncertain",
+        "contribution": -0.08,
+        "direction": "government",
+        "confidence": 0.38
+      },
+      {
+        "key": "security",
+        "label": "Security and regional risk",
+        "value": "Elevated volatility",
+        "contribution": 0.12,
+        "direction": "government",
+        "confidence": 0.35
+      }
+    ],
+    "driver_sensitivity": [
+      {
+        "driver_key": "incumbency",
+        "label": "Incumbency and governing apparatus",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.42,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0069776000000000005,
+        "observed_incumbent_share_shift": -0.0008148000000000005,
+        "positive_incumbent_share_shift": 0.0017023999999999997,
+        "confidence": 0.62,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "economy",
+        "label": "Cost of living and macroeconomy",
+        "negative_scenario": -1.0,
+        "observed_scenario": -0.46,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0033852000000000014,
+        "observed_incumbent_share_shift": -0.0008148000000000005,
+        "positive_incumbent_share_shift": 0.006134800000000001,
+        "confidence": 0.68,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "opposition_selection",
+        "label": "Opposition nominee coordination",
+        "negative_scenario": -1.0,
+        "observed_scenario": -0.18,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0032256000000000008,
+        "observed_incumbent_share_shift": -0.0008148000000000005,
+        "positive_incumbent_share_shift": 0.002654399999999999,
+        "confidence": 0.42,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "eligibility",
+        "label": "Election timing and Erdoğan eligibility",
+        "negative_scenario": -1.0,
+        "observed_scenario": -0.08,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0032620000000000006,
+        "observed_incumbent_share_shift": -0.0008148000000000005,
+        "positive_incumbent_share_shift": 0.002058,
+        "confidence": 0.38,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "security",
+        "label": "Security and regional risk",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.12,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.003558800000000001,
+        "observed_incumbent_share_shift": -0.0008148000000000005,
+        "positive_incumbent_share_shift": 0.0013411999999999994,
+        "confidence": 0.35,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      }
+    ],
+    "methodology_url": "/methodology",
+    "input_revision_ids": [],
+    "input_provenance": [],
+    "provenance": [
+      {
+        "source_id": "turkiye_ysk",
+        "label": "Supreme Election Council election statistics and prior presidential ballot",
+        "url": "https://www.ysk.gov.tr/doc/dosyalar/docs/YEN%C4%B0-KAPAKLI-ELECTION-STATISTICS-2020-2024-ENG-11-11-2025.pdf",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.ysk.gov.tr/"
+      },
+      {
+        "source_id": "ak_party_2028_signal",
+        "label": "AK Party statement supporting an Erdoğan candidacy in 2028",
+        "url": "https://www.akparti.org.tr/haberler/genel-sekreterimiz-%C4%B1nan-vefa-iftari-programinda-konustu-27-02-2026-23-14-39/",
+        "authority": "party statement",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.akparti.org.tr/"
+      },
+      {
+        "source_id": "chp_presidential_primary",
+        "label": "CHP report identifying Ekrem İmamoğlu as its presidential candidate",
+        "url": "https://en.chp.org.tr/yayin/39-olagan-kurultay-part-mecls-calisma-raporu/Open",
+        "authority": "party statement",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://en.chp.org.tr/"
+      },
+      {
+        "source_id": "gundemar_may_2026",
+        "label": "May 2026 presidential scenario polling",
+        "url": "https://www.gundemar.com/arastirmalarimiz/cumhurbaskani-secim-anketi-mayis-2026",
+        "authority": "pollster",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.gundemar.com/"
+      },
+      {
+        "source_id": "polymarket_turkiye",
+        "label": "Polymarket Türkiye markets — auxiliary timing and constitutional signal",
+        "url": "https://polymarket.com/politics/turkey",
+        "authority": "prediction market; not official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-AUXILIARY-SIGNAL",
+        "license_url": "https://polymarket.com/tos"
+      }
+    ]
+  }
+]

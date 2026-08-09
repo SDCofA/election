@@ -6,8 +6,8 @@
     "region": "East Asia & Pacific",
     "eligibility": "v-dem:liberal-democracy",
     "is_exception": false,
-    "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
     "blocking_reasons": [
       "Official party lists and electorate candidates are not final before nominations close on 8 October 2026",
       "The Electoral Commission website carries a copyright notice without approved machine-reuse terms for these webpages"
@@ -42,10 +42,26 @@
     "seats_total": 120,
     "majority": 61,
     "threshold": 0.05,
-    "status": "mechanics blocked; official date, boundaries, and national MMP rules verified",
+    "status": "exploratory structural forecast; final lists pending",
     "last_updated": "2026-08-09T12:00:00Z",
-    "contestants": [],
+    "contestants": [
+      {"id":"national","name":"New Zealand National Party","short_name":"NAT","color":"#00529f","incumbent":true,"ideology":"registered party","ballot_status":"possible","basis":"Registered and allocated 2026 broadcasting funding; final party list remains pending."},
+      {"id":"labour","name":"New Zealand Labour Party","short_name":"LAB","color":"#d82a20","ideology":"registered party","ballot_status":"possible","basis":"Registered and allocated 2026 broadcasting funding; final party list remains pending."},
+      {"id":"green","name":"Green Party of Aotearoa New Zealand","short_name":"GRN","color":"#098137","ideology":"registered party","ballot_status":"possible","basis":"Registered and allocated 2026 broadcasting funding; final party list remains pending."},
+      {"id":"act","name":"ACT New Zealand","short_name":"ACT","color":"#f5c400","ideology":"registered party","ballot_status":"possible","basis":"Registered and allocated 2026 broadcasting funding; final party list remains pending."},
+      {"id":"nz-first","name":"New Zealand First Party","short_name":"NZF","color":"#111111","ideology":"registered party","ballot_status":"possible","basis":"Registered and allocated 2026 broadcasting funding; final party list remains pending."},
+      {"id":"te-pati-maori","name":"Te Pāti Māori","short_name":"TPM","color":"#b3262d","ideology":"registered party","ballot_status":"possible","basis":"Registered and allocated 2026 broadcasting funding; final party list remains pending."}
+    ],
     "sources": [
+      {
+        "source_id": "new_zealand_registered_parties",
+        "label": "Electoral Commission register of political parties",
+        "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/register-of-political-parties",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+        "license_url": "https://elections.nz/contact"
+      },
       {
         "source_id": "new_zealand_electoral_commission_web",
         "label": "Electoral Commission 2026 general election timetable",
@@ -74,5 +90,18 @@
         "license_url": "https://elections.nz/contact"
       }
     ]
-  }
+  },
+  "model": {
+    "base_shares": [0.354, 0.292, 0.115, 0.094, 0.094, 0.051],
+    "volatility": 0.065,
+    "turnout": 0.78,
+    "data_quality": "D",
+    "freshness": "exploratory party-field baseline; final lists pending"
+  },
+  "drivers": [
+    {"key":"incumbency","label":"Incumbent coalition advantage","value":"Moderate","contribution":0.18,"direction":"government","confidence":0.55},
+    {"key":"economy","label":"Household economy","value":"Competitive","contribution":-0.16,"direction":"government","confidence":0.46},
+    {"key":"coalition","label":"Coalition transferability","value":"High leverage","contribution":0.06,"direction":"government","confidence":0.40},
+    {"key":"candidate_lists","label":"Final party and electorate lists","value":"Pending","contribution":-0.03,"direction":"government","confidence":0.28}
+  ]
 }

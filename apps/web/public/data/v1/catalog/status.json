@@ -1,14 +1,14 @@
 {
-  "schema_version": 2,
-  "generated_at": "2026-08-09T10:12:04.992583Z",
+  "schema_version": 3,
+  "generated_at": "2026-08-09T18:06:04.685159Z",
   "eligibility_version": 16,
   "eligibility_year": 2025,
   "eligibility_rule": "v2x_regime in {2,3}",
   "eligibility_snapshot_sha256": "39b412d39a061c18f20c98e4ad4d6355b05a0441df31be4ee9aec420dc3d95ea",
   "eligible_jurisdictions": 87,
-  "total_jurisdictions": 90,
-  "forecast_ready": 5,
+  "total_jurisdictions": 220,
+  "forecast_ready": 8,
   "calendar_only": 3,
-  "mechanics_blocked": 82,
-  "sourced_calendars": 90
+  "mechanics_blocked": 209,
+  "sourced_calendars": 91
 }

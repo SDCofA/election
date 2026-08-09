@@ -6,8 +6,8 @@
     "region": "Middle East, North Africa, Afghanistan & Pakistan",
     "eligibility": "v-dem:electoral-democracy",
     "is_exception": false,
-    "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
     "blocking_reasons": [
       "Official candidate lists and surplus-vote agreements are not final",
       "Official election webpages do not declare approved machine-reuse terms"
@@ -38,10 +38,38 @@
     "seats_total": 120,
     "majority": 61,
     "threshold": 0.0325,
-    "status": "mechanics blocked; official scheduled date and national rules verified",
+    "status": "exploratory structural forecast; official list and surplus agreements unresolved",
     "last_updated": "2026-08-09T12:00:00Z",
-    "contestants": [],
+    "contestants": [
+      {"id":"likud-bloc","name":"Likud-led bloc","short_name":"LIKUD+","color":"#2864a5","incumbent":true,"ideology":"governing right bloc"},
+      {"id":"change-bloc","name":"Centrist and opposition bloc","short_name":"CHANGE","color":"#169bd5","ideology":"anti-Netanyahu center and center-right"},
+      {"id":"haredi-bloc","name":"Haredi parties","short_name":"HAREDI","color":"#273c75","ideology":"Shas and United Torah Judaism"},
+      {"id":"religious-right","name":"Religious-nationalist right","short_name":"R-RIGHT","color":"#c98a16","ideology":"Religious Zionism and Otzma Yehudit"},
+      {"id":"arab-parties","name":"Arab parties","short_name":"ARAB","color":"#3a8f5b","ideology":"Ra'am and Hadash-Ta'al"}
+    ],
+    "potential_candidates": [
+      {"id":"likud","name":"Likud","short_name":"LIKUD","color":"#2864a5","leader":"Benjamin Netanyahu","incumbent":true,"ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; the 2026 candidate list is not final."},
+      {"id":"yesh-atid","name":"Yesh Atid","short_name":"YA","color":"#169bd5","leader":"Yair Lapid","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; the 2026 candidate list is not final."},
+      {"id":"national-unity","name":"Blue and White–National Unity","short_name":"NU","color":"#4f77a8","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; alliance form and list order may change."},
+      {"id":"shas","name":"Shas","short_name":"SHAS","color":"#1f3f78","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; the 2026 candidate list is not final."},
+      {"id":"utj","name":"United Torah Judaism","short_name":"UTJ","color":"#273c75","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; the 2026 candidate list is not final."},
+      {"id":"religious-zionism","name":"Religious Zionism","short_name":"RZ","color":"#6750a4","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; electoral alliances may change."},
+      {"id":"otzma","name":"Otzma Yehudit","short_name":"OZ","color":"#c98a16","leader":"Itamar Ben Gvir","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; electoral alliances may change."},
+      {"id":"yisrael-beitenu","name":"Yisrael Beitenu","short_name":"YB","color":"#5d8aa8","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; the 2026 candidate list is not final."},
+      {"id":"raam","name":"United Arab List (Ra'am)","short_name":"RA'AM","color":"#3a8f5b","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; the 2026 candidate list is not final."},
+      {"id":"hadash-taal","name":"Hadash–Ta'al","short_name":"H-T","color":"#b94a48","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; the 2026 candidate list is not final."},
+      {"id":"labor","name":"Labor","short_name":"LAB","color":"#d9435f","ideology":"current Knesset faction","ballot_status":"possible","basis":"Current 25th Knesset faction; party or alliance form may change before filing."}
+    ],
     "sources": [
+      {
+        "source_id": "knesset_current_factions",
+        "label": "Knesset current parliamentary groups",
+        "url": "https://main.knesset.gov.il/en/mk/apps/faction",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
+      },
       {
         "source_id": "israel_election_authorities_web",
         "label": "Central Elections Committee election timeline",
@@ -61,5 +89,18 @@
         "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
       }
     ]
-  }
+  },
+  "model": {
+    "base_shares": [0.255, 0.355, 0.145, 0.145, 0.10],
+    "volatility": 0.085,
+    "turnout": 0.70,
+    "data_quality": "D",
+    "freshness": "exploratory bloc scenario; final lists and surplus agreements unresolved"
+  },
+  "drivers": [
+    {"key":"incumbency","label":"Incumbency and governing organization","value":"Durable but contested","contribution":0.28,"direction":"government","confidence":0.58},
+    {"key":"security","label":"Security environment","value":"Dominant and volatile","contribution":0.22,"direction":"government","confidence":0.46},
+    {"key":"coalition","label":"Pre-election bloc coordination","value":"Unresolved","contribution":-0.12,"direction":"government","confidence":0.34},
+    {"key":"candidate_lists","label":"Final lists and surplus agreements","value":"Not filed","contribution":-0.04,"direction":"government","confidence":0.24}
+  ]
 }

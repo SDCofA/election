@@ -31,7 +31,9 @@
         "color": "#3399ff",
         "leader": null,
         "incumbent": true,
-        "ideology": "Centre-right"
+        "ideology": "Centre-right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "sd",
@@ -40,7 +42,9 @@
         "color": "#e73d50",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre-left"
+        "ideology": "Centre-left",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "right",
@@ -49,7 +53,9 @@
         "color": "#243b70",
         "leader": null,
         "incumbent": false,
-        "ideology": "Right"
+        "ideology": "Right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "lib-green",
@@ -58,7 +64,9 @@
         "color": "#63c184",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre/Green"
+        "ideology": "Centre/Green",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "other",
@@ -67,9 +75,12 @@
         "color": "#8b6eb5",
         "leader": null,
         "incumbent": false,
-        "ideology": "Mixed"
+        "ideology": "Mixed",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "eu_parliament_elections",

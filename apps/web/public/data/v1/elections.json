@@ -12,6 +12,7 @@
     "status": "calendar only; official party and candidate registration remains open",
     "last_updated": "2026-08-09T12:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "sweden_election_authority",
@@ -37,6 +38,7 @@
     "status": "mechanics blocked; official date and district seats verified",
     "last_updated": "2026-08-09T12:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "latvia_cvk_web",
@@ -62,6 +64,7 @@
     "status": "calendar only; official contestant registration unresolved",
     "last_updated": "2026-08-09T12:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "brazil_tse",
@@ -84,10 +87,198 @@
     "seats_total": 120,
     "majority": 61,
     "threshold": 0.0325,
-    "status": "mechanics blocked; official scheduled date and national rules verified",
+    "status": "exploratory structural forecast; official list and surplus agreements unresolved",
     "last_updated": "2026-08-09T12:00:00Z",
-    "contestants": [],
+    "contestants": [
+      {
+        "id": "likud-bloc",
+        "name": "Likud-led bloc",
+        "short_name": "LIKUD+",
+        "color": "#2864a5",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "governing right bloc",
+        "ballot_status": "official",
+        "basis": null
+      },
+      {
+        "id": "change-bloc",
+        "name": "Centrist and opposition bloc",
+        "short_name": "CHANGE",
+        "color": "#169bd5",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "anti-Netanyahu center and center-right",
+        "ballot_status": "official",
+        "basis": null
+      },
+      {
+        "id": "haredi-bloc",
+        "name": "Haredi parties",
+        "short_name": "HAREDI",
+        "color": "#273c75",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Shas and United Torah Judaism",
+        "ballot_status": "official",
+        "basis": null
+      },
+      {
+        "id": "religious-right",
+        "name": "Religious-nationalist right",
+        "short_name": "R-RIGHT",
+        "color": "#c98a16",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Religious Zionism and Otzma Yehudit",
+        "ballot_status": "official",
+        "basis": null
+      },
+      {
+        "id": "arab-parties",
+        "name": "Arab parties",
+        "short_name": "ARAB",
+        "color": "#3a8f5b",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "Ra'am and Hadash-Ta'al",
+        "ballot_status": "official",
+        "basis": null
+      }
+    ],
+    "potential_candidates": [
+      {
+        "id": "likud",
+        "name": "Likud",
+        "short_name": "LIKUD",
+        "color": "#2864a5",
+        "leader": "Benjamin Netanyahu",
+        "incumbent": true,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; the 2026 candidate list is not final."
+      },
+      {
+        "id": "yesh-atid",
+        "name": "Yesh Atid",
+        "short_name": "YA",
+        "color": "#169bd5",
+        "leader": "Yair Lapid",
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; the 2026 candidate list is not final."
+      },
+      {
+        "id": "national-unity",
+        "name": "Blue and White–National Unity",
+        "short_name": "NU",
+        "color": "#4f77a8",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; alliance form and list order may change."
+      },
+      {
+        "id": "shas",
+        "name": "Shas",
+        "short_name": "SHAS",
+        "color": "#1f3f78",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; the 2026 candidate list is not final."
+      },
+      {
+        "id": "utj",
+        "name": "United Torah Judaism",
+        "short_name": "UTJ",
+        "color": "#273c75",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; the 2026 candidate list is not final."
+      },
+      {
+        "id": "religious-zionism",
+        "name": "Religious Zionism",
+        "short_name": "RZ",
+        "color": "#6750a4",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; electoral alliances may change."
+      },
+      {
+        "id": "otzma",
+        "name": "Otzma Yehudit",
+        "short_name": "OZ",
+        "color": "#c98a16",
+        "leader": "Itamar Ben Gvir",
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; electoral alliances may change."
+      },
+      {
+        "id": "yisrael-beitenu",
+        "name": "Yisrael Beitenu",
+        "short_name": "YB",
+        "color": "#5d8aa8",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; the 2026 candidate list is not final."
+      },
+      {
+        "id": "raam",
+        "name": "United Arab List (Ra'am)",
+        "short_name": "RA'AM",
+        "color": "#3a8f5b",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; the 2026 candidate list is not final."
+      },
+      {
+        "id": "hadash-taal",
+        "name": "Hadash–Ta'al",
+        "short_name": "H-T",
+        "color": "#b94a48",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; the 2026 candidate list is not final."
+      },
+      {
+        "id": "labor",
+        "name": "Labor",
+        "short_name": "LAB",
+        "color": "#d9435f",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "current Knesset faction",
+        "ballot_status": "possible",
+        "basis": "Current 25th Knesset faction; party or alliance form may change before filing."
+      }
+    ],
     "sources": [
+      {
+        "source_id": "knesset_current_factions",
+        "label": "Knesset current parliamentary groups",
+        "url": "https://main.knesset.gov.il/en/mk/apps/faction",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
+      },
       {
         "source_id": "israel_election_authorities_web",
         "label": "Central Elections Committee election timeline",
@@ -118,10 +309,87 @@
     "seats_total": 120,
     "majority": 61,
     "threshold": 0.05,
-    "status": "mechanics blocked; official date, boundaries, and national MMP rules verified",
+    "status": "exploratory structural forecast; final lists pending",
     "last_updated": "2026-08-09T12:00:00Z",
-    "contestants": [],
+    "contestants": [
+      {
+        "id": "national",
+        "name": "New Zealand National Party",
+        "short_name": "NAT",
+        "color": "#00529f",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "labour",
+        "name": "New Zealand Labour Party",
+        "short_name": "LAB",
+        "color": "#d82a20",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "green",
+        "name": "Green Party of Aotearoa New Zealand",
+        "short_name": "GRN",
+        "color": "#098137",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "act",
+        "name": "ACT New Zealand",
+        "short_name": "ACT",
+        "color": "#f5c400",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "nz-first",
+        "name": "New Zealand First Party",
+        "short_name": "NZF",
+        "color": "#111111",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      },
+      {
+        "id": "te-pati-maori",
+        "name": "Te Pāti Māori",
+        "short_name": "TPM",
+        "color": "#b3262d",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "registered party",
+        "ballot_status": "possible",
+        "basis": "Registered and allocated 2026 broadcasting funding; final party list remains pending."
+      }
+    ],
+    "potential_candidates": [],
     "sources": [
+      {
+        "source_id": "new_zealand_registered_parties",
+        "label": "Electoral Commission register of political parties",
+        "url": "https://elections.nz/democracy-in-nz/political-parties-in-new-zealand/register-of-political-parties",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "COPYRIGHT-NOTICE-REFERENCE-ONLY",
+        "license_url": "https://elections.nz/contact"
+      },
       {
         "source_id": "new_zealand_electoral_commission_web",
         "label": "Electoral Commission 2026 general election timetable",
@@ -152,6 +420,158 @@
     ]
   },
   {
+    "id": "tr-next-president",
+    "jurisdiction_id": "tur",
+    "name": "Next Presidential Election",
+    "election_date": "2028-05-07",
+    "date_confidence": "constitutional latest-date estimate; early-election uncertainty",
+    "system": "presidential_runoff",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "exploratory structural forecast; official ballot and timing unresolved",
+    "last_updated": "2026-08-09T18:00:00Z",
+    "contestants": [
+      {
+        "id": "government-nominee",
+        "name": "Erdoğan / governing nominee",
+        "short_name": "GOV",
+        "color": "#e38b19",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "AK Party / People's Alliance",
+        "ballot_status": "official",
+        "basis": null
+      },
+      {
+        "id": "opposition-nominee",
+        "name": "Opposition nominee",
+        "short_name": "OPP",
+        "color": "#d92f39",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "CHP / opposition field",
+        "ballot_status": "official",
+        "basis": null
+      },
+      {
+        "id": "other",
+        "name": "Other candidates",
+        "short_name": "OTH",
+        "color": "#6b6257",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "other parties and independents",
+        "ballot_status": "official",
+        "basis": null
+      }
+    ],
+    "potential_candidates": [
+      {
+        "id": "erdogan",
+        "name": "Recep Tayyip Erdoğan",
+        "short_name": "RTE",
+        "color": "#e38b19",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "AK Party / People's Alliance",
+        "ballot_status": "possible",
+        "basis": "AK Party publicly supports a 2028 Erdoğan candidacy; legal eligibility depends on election timing or constitutional change."
+      },
+      {
+        "id": "imamoglu",
+        "name": "Ekrem İmamoğlu",
+        "short_name": "Eİ",
+        "color": "#d92f39",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "CHP-selected opposition candidate",
+        "ballot_status": "presumptive",
+        "basis": "Selected through the CHP's 2025 presidential primary; legal and political developments may affect ballot access."
+      },
+      {
+        "id": "yavas",
+        "name": "Mansur Yavaş",
+        "short_name": "MY",
+        "color": "#c63d46",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition alternative",
+        "ballot_status": "possible",
+        "basis": "Prominent opposition alternative repeatedly tested in national presidential polling; not nominated."
+      },
+      {
+        "id": "ozel",
+        "name": "Özgür Özel",
+        "short_name": "ÖÖ",
+        "color": "#a82932",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition / emerging party path",
+        "ballot_status": "possible",
+        "basis": "National opposition figure and potential candidacy path; not nominated."
+      },
+      {
+        "id": "fidan",
+        "name": "Hakan Fidan",
+        "short_name": "HF",
+        "color": "#6b6257",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "government succession alternative",
+        "ballot_status": "possible",
+        "basis": "Frequently tested as a governing-bloc alternative if Erdoğan cannot or does not run; not nominated."
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "turkiye_ysk",
+        "label": "Supreme Election Council election statistics and prior presidential ballot",
+        "url": "https://www.ysk.gov.tr/doc/dosyalar/docs/YEN%C4%B0-KAPAKLI-ELECTION-STATISTICS-2020-2024-ENG-11-11-2025.pdf",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.ysk.gov.tr/"
+      },
+      {
+        "source_id": "ak_party_2028_signal",
+        "label": "AK Party statement supporting an Erdoğan candidacy in 2028",
+        "url": "https://www.akparti.org.tr/haberler/genel-sekreterimiz-%C4%B1nan-vefa-iftari-programinda-konustu-27-02-2026-23-14-39/",
+        "authority": "party statement",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.akparti.org.tr/"
+      },
+      {
+        "source_id": "chp_presidential_primary",
+        "label": "CHP report identifying Ekrem İmamoğlu as its presidential candidate",
+        "url": "https://en.chp.org.tr/yayin/39-olagan-kurultay-part-mecls-calisma-raporu/Open",
+        "authority": "party statement",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://en.chp.org.tr/"
+      },
+      {
+        "source_id": "gundemar_may_2026",
+        "label": "May 2026 presidential scenario polling",
+        "url": "https://www.gundemar.com/arastirmalarimiz/cumhurbaskani-secim-anketi-mayis-2026",
+        "authority": "pollster",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.gundemar.com/"
+      },
+      {
+        "source_id": "polymarket_turkiye",
+        "label": "Polymarket Türkiye markets — auxiliary timing and constitutional signal",
+        "url": "https://polymarket.com/politics/turkey",
+        "authority": "prediction market; not official",
+        "retrieved_at": "2026-08-09T18:00:00Z",
+        "license": "LINK-ONLY-AUXILIARY-SIGNAL",
+        "license_url": "https://polymarket.com/tos"
+      }
+    ]
+  },
+  {
     "id": "us-2028-president",
     "jurisdiction_id": "usa",
     "name": "2028 Presidential Election",
@@ -171,7 +591,9 @@
         "color": "#2f7df6",
         "leader": null,
         "incumbent": true,
-        "ideology": "Centre-left"
+        "ideology": "Centre-left",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "gop",
@@ -180,7 +602,9 @@
         "color": "#ef3e4a",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre-right"
+        "ideology": "Centre-right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "other",
@@ -189,9 +613,12 @@
         "color": "#b1bac8",
         "leader": null,
         "incumbent": false,
-        "ideology": "Other"
+        "ideology": "Other",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "us_fec_calendar",
@@ -217,6 +644,7 @@
     "status": "calendar only",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "african_union_calendar",
@@ -249,7 +677,9 @@
         "color": "#c5cad2",
         "leader": null,
         "incumbent": true,
-        "ideology": "Centre-right"
+        "ideology": "Centre-right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "afd",
@@ -258,7 +688,9 @@
         "color": "#23a7e0",
         "leader": null,
         "incumbent": false,
-        "ideology": "Right"
+        "ideology": "Right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "spd",
@@ -267,7 +699,9 @@
         "color": "#ec3346",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre-left"
+        "ideology": "Centre-left",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "greens",
@@ -276,7 +710,9 @@
         "color": "#4caf63",
         "leader": null,
         "incumbent": false,
-        "ideology": "Green"
+        "ideology": "Green",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "left",
@@ -285,9 +721,12 @@
         "color": "#a857c7",
         "leader": null,
         "incumbent": false,
-        "ideology": "Mixed"
+        "ideology": "Mixed",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "germany_federal_returning_officer",
@@ -329,7 +768,9 @@
         "color": "#3399ff",
         "leader": null,
         "incumbent": true,
-        "ideology": "Centre-right"
+        "ideology": "Centre-right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "sd",
@@ -338,7 +779,9 @@
         "color": "#e73d50",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre-left"
+        "ideology": "Centre-left",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "right",
@@ -347,7 +790,9 @@
         "color": "#243b70",
         "leader": null,
         "incumbent": false,
-        "ideology": "Right"
+        "ideology": "Right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "lib-green",
@@ -356,7 +801,9 @@
         "color": "#63c184",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre/Green"
+        "ideology": "Centre/Green",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "other",
@@ -365,9 +812,12 @@
         "color": "#8b6eb5",
         "leader": null,
         "incumbent": false,
-        "ideology": "Mixed"
+        "ideology": "Mixed",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "eu_parliament_elections",
@@ -400,7 +850,9 @@
         "color": "#ef3b4f",
         "leader": null,
         "incumbent": true,
-        "ideology": "Centre-left"
+        "ideology": "Centre-left",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "con",
@@ -409,7 +861,9 @@
         "color": "#2188e8",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre-right"
+        "ideology": "Centre-right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "ref",
@@ -418,7 +872,9 @@
         "color": "#2bd0d0",
         "leader": null,
         "incumbent": false,
-        "ideology": "Right"
+        "ideology": "Right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "ld",
@@ -427,7 +883,9 @@
         "color": "#f5bf25",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre"
+        "ideology": "Centre",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "other",
@@ -436,9 +894,12 @@
         "color": "#8795a8",
         "leader": null,
         "incumbent": false,
-        "ideology": "Mixed"
+        "ideology": "Mixed",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "uk_electoral_commission",
@@ -471,7 +932,9 @@
         "color": "#d5b75b",
         "leader": null,
         "incumbent": true,
-        "ideology": "Government"
+        "ideology": "Government",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "opposition",
@@ -480,9 +943,12 @@
         "color": "#4c9ee8",
         "leader": null,
         "incumbent": false,
-        "ideology": "Opposition"
+        "ideology": "Opposition",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "egypt_nea",
@@ -508,6 +974,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "arg_electoral_authority_reference",
@@ -533,6 +1000,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "arm_electoral_authority_reference",
@@ -558,6 +1026,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "aus_electoral_authority_reference",
@@ -583,6 +1052,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "aut_electoral_authority_reference",
@@ -608,6 +1078,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "bel_electoral_authority_reference",
@@ -633,6 +1104,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "bgr_electoral_authority_reference",
@@ -658,6 +1130,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "bol_electoral_authority_reference",
@@ -683,6 +1156,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "brb_electoral_authority_reference",
@@ -708,6 +1182,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "btn_electoral_authority_reference",
@@ -733,6 +1208,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "bwa_electoral_authority_reference",
@@ -758,6 +1234,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "can_electoral_authority_reference",
@@ -783,6 +1260,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "che_electoral_authority_reference",
@@ -808,6 +1286,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "chl_electoral_authority_reference",
@@ -833,6 +1312,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "col_electoral_authority_reference",
@@ -858,6 +1338,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "cpv_electoral_authority_reference",
@@ -883,6 +1364,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "cri_electoral_authority_reference",
@@ -908,6 +1390,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "cyp_electoral_authority_reference",
@@ -933,6 +1416,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "cze_electoral_authority_reference",
@@ -958,6 +1442,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "dnk_electoral_authority_reference",
@@ -983,6 +1468,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "dom_electoral_authority_reference",
@@ -1008,6 +1494,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "ecu_electoral_authority_reference",
@@ -1033,6 +1520,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "esp_electoral_authority_reference",
@@ -1058,6 +1546,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "est_electoral_authority_reference",
@@ -1083,6 +1572,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "fin_electoral_authority_reference",
@@ -1108,6 +1598,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "fji_electoral_authority_reference",
@@ -1133,6 +1624,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "fra_electoral_authority_reference",
@@ -1158,6 +1650,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "gha_electoral_authority_reference",
@@ -1183,6 +1676,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "gmb_electoral_authority_reference",
@@ -1208,6 +1702,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "grc_electoral_authority_reference",
@@ -1233,6 +1728,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "gtm_electoral_authority_reference",
@@ -1258,6 +1754,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "guy_electoral_authority_reference",
@@ -1283,6 +1780,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "hnd_electoral_authority_reference",
@@ -1308,6 +1806,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "hrv_electoral_authority_reference",
@@ -1333,6 +1832,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "irl_electoral_authority_reference",
@@ -1358,6 +1858,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "isl_electoral_authority_reference",
@@ -1383,6 +1884,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "ita_electoral_authority_reference",
@@ -1408,6 +1910,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "jam_electoral_authority_reference",
@@ -1433,6 +1936,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "jpn_electoral_authority_reference",
@@ -1458,6 +1962,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "ken_electoral_authority_reference",
@@ -1483,6 +1988,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "kor_electoral_authority_reference",
@@ -1508,6 +2014,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "lbr_electoral_authority_reference",
@@ -1533,6 +2040,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "lka_electoral_authority_reference",
@@ -1558,6 +2066,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "lso_electoral_authority_reference",
@@ -1583,6 +2092,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "ltu_electoral_authority_reference",
@@ -1608,6 +2118,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "lux_electoral_authority_reference",
@@ -1633,6 +2144,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "mda_electoral_authority_reference",
@@ -1658,6 +2170,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "mdv_electoral_authority_reference",
@@ -1683,6 +2196,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "mkd_electoral_authority_reference",
@@ -1708,6 +2222,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "mlt_electoral_authority_reference",
@@ -1733,6 +2248,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "mne_electoral_authority_reference",
@@ -1758,6 +2274,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "mng_electoral_authority_reference",
@@ -1783,6 +2300,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "mus_electoral_authority_reference",
@@ -1808,6 +2326,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "mwi_electoral_authority_reference",
@@ -1833,6 +2352,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "mys_electoral_authority_reference",
@@ -1858,6 +2378,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "nam_electoral_authority_reference",
@@ -1883,6 +2404,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "nga_electoral_authority_reference",
@@ -1908,6 +2430,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "nld_electoral_authority_reference",
@@ -1933,6 +2456,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "nor_electoral_authority_reference",
@@ -1958,6 +2482,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "npl_electoral_authority_reference",
@@ -1983,6 +2508,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "pan_electoral_authority_reference",
@@ -2008,6 +2534,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "per_electoral_authority_reference",
@@ -2033,6 +2560,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "pol_electoral_authority_reference",
@@ -2058,6 +2586,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "prt_electoral_authority_reference",
@@ -2083,6 +2612,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "pry_electoral_authority_reference",
@@ -2108,6 +2638,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "rou_electoral_authority_reference",
@@ -2133,6 +2664,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "sen_electoral_authority_reference",
@@ -2158,6 +2690,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "slb_electoral_authority_reference",
@@ -2183,6 +2716,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "stp_electoral_authority_reference",
@@ -2208,6 +2742,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "sur_electoral_authority_reference",
@@ -2233,6 +2768,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "svk_electoral_authority_reference",
@@ -2258,6 +2794,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "svn_electoral_authority_reference",
@@ -2283,6 +2820,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "syc_electoral_authority_reference",
@@ -2308,6 +2846,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "tls_electoral_authority_reference",
@@ -2333,6 +2872,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "tto_electoral_authority_reference",
@@ -2358,6 +2898,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "twn_electoral_authority_reference",
@@ -2383,6 +2924,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "ury_electoral_authority_reference",
@@ -2408,6 +2950,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "vut_electoral_authority_reference",
@@ -2433,6 +2976,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "xkx_electoral_authority_reference",
@@ -2458,6 +3002,7 @@
     "status": "TBD — awaiting an approved official calendar release",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "zaf_electoral_authority_reference",

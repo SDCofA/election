@@ -26,6 +26,7 @@
     "status": "calendar only",
     "last_updated": "2026-08-09T09:00:00Z",
     "contestants": [],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "african_union_calendar",

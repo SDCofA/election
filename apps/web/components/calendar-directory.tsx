@@ -47,29 +47,39 @@ export function CalendarDirectory() {
   }, []);
 
   const entries = useMemo(() => {
-    const byId = new Map(jurisdictions.map((item) => [item.id, item]));
+    const byJurisdiction = new Map<string, Election>();
+    elections.forEach((election) => {
+      const current = byJurisdiction.get(election.jurisdiction_id);
+      if (!current || (!current.election_date && election.election_date)) {
+        byJurisdiction.set(election.jurisdiction_id, election);
+      }
+    });
     const normalized = query.trim().toLocaleLowerCase();
-    return elections
-      .map((election) => ({ election, jurisdiction: byId.get(election.jurisdiction_id) }))
+    return jurisdictions
+      .map((jurisdiction) => ({ jurisdiction, election: byJurisdiction.get(jurisdiction.id) }))
       .filter(({ election, jurisdiction }) => {
         if (!normalized) return true;
-        return `${jurisdiction?.name ?? ""} ${election.name} ${election.system}`
+        return `${jurisdiction.name} ${jurisdiction.iso3} ${jurisdiction.region} ${election?.name ?? ""} ${election?.system ?? ""}`
           .toLocaleLowerCase()
           .includes(normalized);
-      });
+      })
+      .sort((a, b) => a.jurisdiction.name.localeCompare(b.jurisdiction.name));
   }, [elections, jurisdictions, query]);
 
   return (
     <main className="calendar-directory-page">
       <header className="calendar-directory-header">
-        <Link href="/">← SDCOFA ELECTION DESK</Link>
+        <nav className="calendar-directory-nav" aria-label="Directory navigation">
+          <Link href="/">← FORECAST DESK</Link>
+          <Link href="/methodology">METHODOLOGY</Link>
+        </nav>
         <span>GLOBAL ELECTION DIRECTORY / SDCofA</span>
-        <h1>Every covered jurisdiction</h1>
-        <p>Known dates appear first. TBD records link only to official authorities and remain mechanics-blocked—never silently forecast.</p>
+        <h1>Every country. No silent omissions.</h1>
+        <p>All catalog countries and economies appear alphabetically. A listing is not a forecast: probabilities remain blocked until eligibility, sources, mechanics, and backtests pass.</p>
         <div>
+          <b>{status?.total_jurisdictions ?? jurisdictions.length}</b><small>LISTED</small>
           <b>{status?.sourced_calendars ?? elections.length}</b><small>SOURCED RECORDS</small>
           <b>{status?.forecast_ready ?? 0}</b><small>FORECAST READY</small>
-          <b>{status?.mechanics_blocked ?? 0}</b><small>MECHANICS BLOCKED</small>
         </div>
       </header>
       <label className="calendar-search">
@@ -85,20 +95,27 @@ export function CalendarDirectory() {
         <p className="calendar-directory-error" role="alert">Election directory unavailable. No substitute data shown.</p>
       ) : (
         <section className="calendar-directory-grid" aria-label="Election calendar records">
-          {entries.map(({ election, jurisdiction }) => (
-            <Link href={`/elections/${election.id}`} key={election.id}>
-              <i><FlagIcon code={jurisdiction?.flag ?? election.jurisdiction_id.slice(0, 2)} label={jurisdiction?.name} /></i>
+          {entries.map(({ election, jurisdiction }) => {
+            const content = (
+              <>
+              <i><FlagIcon code={jurisdiction.flag} label={jurisdiction.name} /></i>
               <span>
-                <strong>{jurisdiction?.name ?? election.jurisdiction_id}</strong>
-                <small>{election.name} · {election.system.replaceAll("_", " ")}</small>
+                <strong>{jurisdiction.name}</strong>
+                <small>{election ? `${election.name} · ${election.system.replaceAll("_", " ")}` : `${jurisdiction.iso3} · CATALOG LISTING`}</small>
               </span>
               <em>
-                {election.election_date
+                {election?.election_date
                   ? formatDate(`${election.election_date}T00:00:00Z`, { dateStyle: "medium", timeZone: "UTC" })
-                  : "TBD"}
+                  : election ? "TBD" : "LISTED"}
               </em>
-            </Link>
-          ))}
+              </>
+            );
+            return election ? (
+              <Link href={`/elections/${election.id}`} key={jurisdiction.id}>{content}</Link>
+            ) : (
+              <article key={jurisdiction.id}>{content}</article>
+            );
+          })}
         </section>
       )}
     </main>

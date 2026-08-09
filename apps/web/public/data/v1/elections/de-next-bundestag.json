@@ -31,7 +31,9 @@
         "color": "#c5cad2",
         "leader": null,
         "incumbent": true,
-        "ideology": "Centre-right"
+        "ideology": "Centre-right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "afd",
@@ -40,7 +42,9 @@
         "color": "#23a7e0",
         "leader": null,
         "incumbent": false,
-        "ideology": "Right"
+        "ideology": "Right",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "spd",
@@ -49,7 +53,9 @@
         "color": "#ec3346",
         "leader": null,
         "incumbent": false,
-        "ideology": "Centre-left"
+        "ideology": "Centre-left",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "greens",
@@ -58,7 +64,9 @@
         "color": "#4caf63",
         "leader": null,
         "incumbent": false,
-        "ideology": "Green"
+        "ideology": "Green",
+        "ballot_status": "official",
+        "basis": null
       },
       {
         "id": "left",
@@ -67,9 +75,12 @@
         "color": "#a857c7",
         "leader": null,
         "incumbent": false,
-        "ideology": "Mixed"
+        "ideology": "Mixed",
+        "ballot_status": "official",
+        "basis": null
       }
     ],
+    "potential_candidates": [],
     "sources": [
       {
         "source_id": "germany_federal_returning_officer",

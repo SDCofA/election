@@ -22,6 +22,7 @@ ELECTION_IDS = (
     "lv-2026-saeima",
     "il-2026-knesset",
     "nz-2026-general",
+    "tr-next-president",
 )
 
 

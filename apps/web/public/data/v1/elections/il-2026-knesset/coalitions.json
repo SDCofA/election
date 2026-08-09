@@ -1,0 +1,311 @@
+{
+  "election_id": "il-2026-knesset",
+  "snapshot_id": "il-2026-knesset-structural-ensemble-0.3.0-baseline_ensemble-20260809T120000Z-structural",
+  "majority": 61,
+  "coalitions": [
+    {
+      "member_ids": [
+        "likud-bloc",
+        "change-bloc",
+        "haredi-bloc",
+        "religious-right"
+      ],
+      "majority_probability": 0.999991,
+      "seats_median": 108,
+      "seats_low": 90,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "change-bloc",
+        "haredi-bloc",
+        "arab-parties"
+      ],
+      "majority_probability": 0.999966,
+      "seats_median": 103,
+      "seats_low": 85,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "change-bloc",
+        "religious-right",
+        "arab-parties"
+      ],
+      "majority_probability": 0.999962,
+      "seats_median": 103,
+      "seats_low": 85,
+      "seats_high": 120
+    },
+    {
+      "member_ids": [
+        "change-bloc",
+        "haredi-bloc",
+        "religious-right",
+        "arab-parties"
+      ],
+      "majority_probability": 0.996092,
+      "seats_median": 89,
+      "seats_low": 71,
+      "seats_high": 108
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "change-bloc",
+        "religious-right"
+      ],
+      "majority_probability": 0.988384,
+      "seats_median": 90,
+      "seats_low": 69,
+      "seats_high": 111
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "change-bloc",
+        "haredi-bloc"
+      ],
+      "majority_probability": 0.988281,
+      "seats_median": 90,
+      "seats_low": 69,
+      "seats_high": 111
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "change-bloc",
+        "arab-parties"
+      ],
+      "majority_probability": 0.971249,
+      "seats_median": 85,
+      "seats_low": 64,
+      "seats_high": 106
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "haredi-bloc",
+        "religious-right",
+        "arab-parties"
+      ],
+      "majority_probability": 0.946045,
+      "seats_median": 78,
+      "seats_low": 60,
+      "seats_high": 96
+    },
+    {
+      "member_ids": [
+        "change-bloc",
+        "haredi-bloc",
+        "religious-right"
+      ],
+      "majority_probability": 0.896528,
+      "seats_median": 77,
+      "seats_low": 55,
+      "seats_high": 98
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "change-bloc"
+      ],
+      "majority_probability": 0.826557,
+      "seats_median": 73,
+      "seats_low": 51,
+      "seats_high": 94
+    },
+    {
+      "member_ids": [
+        "change-bloc",
+        "haredi-bloc",
+        "arab-parties"
+      ],
+      "majority_probability": 0.81027,
+      "seats_median": 72,
+      "seats_low": 51,
+      "seats_high": 94
+    },
+    {
+      "member_ids": [
+        "change-bloc",
+        "religious-right",
+        "arab-parties"
+      ],
+      "majority_probability": 0.810012,
+      "seats_median": 72,
+      "seats_low": 51,
+      "seats_high": 94
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "haredi-bloc",
+        "religious-right"
+      ],
+      "majority_probability": 0.648156,
+      "seats_median": 65,
+      "seats_low": 44,
+      "seats_high": 86
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "haredi-bloc",
+        "arab-parties"
+      ],
+      "majority_probability": 0.49745,
+      "seats_median": 60,
+      "seats_low": 39,
+      "seats_high": 82
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "religious-right",
+        "arab-parties"
+      ],
+      "majority_probability": 0.496681,
+      "seats_median": 60,
+      "seats_low": 39,
+      "seats_high": 82
+    },
+    {
+      "member_ids": [
+        "change-bloc",
+        "haredi-bloc"
+      ],
+      "majority_probability": 0.473137,
+      "seats_median": 60,
+      "seats_low": 38,
+      "seats_high": 81
+    },
+    {
+      "member_ids": [
+        "change-bloc",
+        "religious-right"
+      ],
+      "majority_probability": 0.471712,
+      "seats_median": 60,
+      "seats_low": 38,
+      "seats_high": 81
+    },
+    {
+      "member_ids": [
+        "change-bloc",
+        "arab-parties"
+      ],
+      "majority_probability": 0.323882,
+      "seats_median": 55,
+      "seats_low": 34,
+      "seats_high": 76
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "haredi-bloc"
+      ],
+      "majority_probability": 0.1696,
+      "seats_median": 48,
+      "seats_low": 26,
+      "seats_high": 69
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "religious-right"
+      ],
+      "majority_probability": 0.169373,
+      "seats_median": 48,
+      "seats_low": 26,
+      "seats_high": 69
+    },
+    {
+      "member_ids": [
+        "haredi-bloc",
+        "religious-right",
+        "arab-parties"
+      ],
+      "majority_probability": 0.154951,
+      "seats_median": 47,
+      "seats_low": 26,
+      "seats_high": 69
+    },
+    {
+      "member_ids": [
+        "likud-bloc",
+        "arab-parties"
+      ],
+      "majority_probability": 0.090336,
+      "seats_median": 43,
+      "seats_low": 22,
+      "seats_high": 65
+    },
+    {
+      "member_ids": [
+        "haredi-bloc",
+        "religious-right"
+      ],
+      "majority_probability": 0.024058,
+      "seats_median": 35,
+      "seats_low": 14,
+      "seats_high": 56
+    },
+    {
+      "member_ids": [
+        "religious-right",
+        "arab-parties"
+      ],
+      "majority_probability": 0.009629,
+      "seats_median": 30,
+      "seats_low": 9,
+      "seats_high": 51
+    },
+    {
+      "member_ids": [
+        "haredi-bloc",
+        "arab-parties"
+      ],
+      "majority_probability": 0.009475,
+      "seats_median": 30,
+      "seats_low": 9,
+      "seats_high": 51
+    }
+  ],
+  "as_of": "2026-08-09T12:00:00Z",
+  "published_at": "2026-08-09T12:00:00Z",
+  "model_version": "structural-ensemble-0.3.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "knesset_current_factions",
+      "label": "Knesset current parliamentary groups",
+      "url": "https://main.knesset.gov.il/en/mk/apps/faction",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
+    },
+    {
+      "source_id": "israel_election_authorities_web",
+      "label": "Central Elections Committee election timeline",
+      "url": "https://www.gov.il/he/departments/dynamiccollectors/election-timeline26",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "UNVERIFIED-REUSE",
+      "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
+    },
+    {
+      "source_id": "israel_election_authorities_web",
+      "label": "Knesset electoral system",
+      "url": "https://main.knesset.gov.il/EN/mk/pages/elections.aspx",
+      "authority": "official",
+      "retrieved_at": "2026-08-09T12:00:00Z",
+      "license": "UNVERIFIED-REUSE",
+      "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
+    }
+  ]
+}

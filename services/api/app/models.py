@@ -62,6 +62,8 @@ class Contestant(BaseModel):
     leader: str | None = None
     incumbent: bool = False
     ideology: str | None = None
+    ballot_status: str = "official"
+    basis: str | None = None
 
 
 class Election(BaseModel):
@@ -77,6 +79,7 @@ class Election(BaseModel):
     status: str
     last_updated: datetime
     contestants: list[Contestant]
+    potential_candidates: list[Contestant] = Field(default_factory=list)
     sources: list[SourceRef]
 
 
