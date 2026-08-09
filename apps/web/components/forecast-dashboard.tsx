@@ -602,7 +602,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
                       {contestant.short_name.slice(0, 1)}<span>{contestant.incumbent ? "INC" : "CHL"}</span>
                     </div>
                     <small>{contestant.name}</small>
-                    <strong style={{ color: contestant.color }}>{pct(win_probability)}</strong>
+                    <strong>{pct(win_probability)}</strong>
                     <em>{index === 0 ? "NARROW EDGE" : "TOSS-UP"}</em>
                   </div>
                 ))}
@@ -618,7 +618,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
               <div className="seat-total">
                 {leaders.map(({ contestant, projected_seats }, index) => (
                   <div key={contestant.id} className={index ? "right" : ""}>
-                    <small>{contestant.short_name} MEDIAN</small><b style={{ color: contestant.color }}>{projected_seats ?? pct(forecast.outcomes[index].projected_share)}</b>
+                    <small>{contestant.short_name} MEDIAN</small><b>{projected_seats ?? pct(forecast.outcomes[index].projected_share)}</b>
                   </div>
                 ))}
               </div>
@@ -652,7 +652,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
               <div className="projection-table">
                 {outcomes.map(({ contestant, projected_share, share_low, share_high, projected_seats, seats_low, seats_high }) => (
                   <div className="projection-row" key={contestant.id}>
-                    <b style={{ color: contestant.color }}>{contestant.short_name}</b>
+                    <b>{contestant.short_name}</b>
                     <span><i style={{ width: `${projected_share * 100}%`, background: contestant.color }} /></span>
                     <strong>{pct(projected_share)}</strong>
                     <small>{pct(share_low)}–{pct(share_high)}</small>

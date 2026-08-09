@@ -1,0 +1,30 @@
+{
+  "election_id": "rou-next-national",
+  "sources": [
+    {
+      "source_id": "rou_electoral_authority_reference",
+      "label": "Permanent Electoral Authority Romania",
+      "url": "https://www.roaep.ro/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.roaep.ro/"
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "TBD — awaiting an approved official calendar release",
+  "provenance": [
+    {
+      "source_id": "rou_electoral_authority_reference",
+      "label": "Permanent Electoral Authority Romania",
+      "url": "https://www.roaep.ro/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.roaep.ro/"
+    }
+  ]
+}

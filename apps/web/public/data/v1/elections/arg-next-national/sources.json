@@ -1,0 +1,30 @@
+{
+  "election_id": "arg-next-national",
+  "sources": [
+    {
+      "source_id": "arg_electoral_authority_reference",
+      "label": "Cámara Nacional Electoral",
+      "url": "https://www.electoral.gob.ar/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.electoral.gob.ar/"
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "TBD — awaiting an approved official calendar release",
+  "provenance": [
+    {
+      "source_id": "arg_electoral_authority_reference",
+      "label": "Cámara Nacional Electoral",
+      "url": "https://www.electoral.gob.ar/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.electoral.gob.ar/"
+    }
+  ]
+}

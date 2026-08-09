@@ -1,0 +1,35 @@
+{
+  "election_id": "nga-next-national",
+  "system": "unresolved",
+  "rules": {
+    "authority_url": "https://www.inecnigeria.org/",
+    "engine": "unresolved",
+    "validation_status": "mechanics_blocked"
+  },
+  "source_adapters": [
+    {
+      "formats": [
+        "html"
+      ],
+      "source_id": "nga_electoral_authority_reference",
+      "status": "reference_only_no_ingestion"
+    }
+  ],
+  "forecast_enabled": false,
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "TBD — awaiting an approved official calendar release",
+  "provenance": [
+    {
+      "source_id": "nga_electoral_authority_reference",
+      "label": "Independent National Electoral Commission Nigeria",
+      "url": "https://www.inecnigeria.org/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.inecnigeria.org/"
+    }
+  ]
+}

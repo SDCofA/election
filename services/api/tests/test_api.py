@@ -15,7 +15,15 @@ def test_health_and_catalog():
     assert health["dependencies"]["telemetry"] == "disabled"
     jurisdictions = client.get("/v1/jurisdictions").json()
     assert len(jurisdictions) == 220
-    assert {item["id"] for item in jurisdictions} >= {"usa", "gbr", "deu", "egy", "tur", "eu", "au-union"}
+    assert {item["id"] for item in jurisdictions} >= {
+        "usa",
+        "gbr",
+        "deu",
+        "egy",
+        "tur",
+        "eu",
+        "au-union",
+    }
     egypt = next(item for item in jurisdictions if item["id"] == "egy")
     assert egypt["is_exception"] is True
     united_states = next(item for item in jurisdictions if item["id"] == "usa")

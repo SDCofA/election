@@ -1,0 +1,30 @@
+{
+  "election_id": "nld-next-national",
+  "sources": [
+    {
+      "source_id": "nld_electoral_authority_reference",
+      "label": "Electoral Council Netherlands",
+      "url": "https://www.kiesraad.nl/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.kiesraad.nl/"
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "TBD — awaiting an approved official calendar release",
+  "provenance": [
+    {
+      "source_id": "nld_electoral_authority_reference",
+      "label": "Electoral Council Netherlands",
+      "url": "https://www.kiesraad.nl/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.kiesraad.nl/"
+    }
+  ]
+}

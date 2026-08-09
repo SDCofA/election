@@ -1,0 +1,44 @@
+{
+  "jurisdiction": {
+    "id": "irl",
+    "name": "Ireland",
+    "iso3": "IRL",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "IE"
+  },
+  "election": {
+    "id": "irl-next-national",
+    "jurisdiction_id": "irl",
+    "name": "Next National Election",
+    "election_date": null,
+    "date_confidence": "tbd",
+    "system": "unresolved",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "TBD — awaiting an approved official calendar release",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "contestants": [],
+    "potential_candidates": [],
+    "sources": [
+      {
+        "source_id": "irl_electoral_authority_reference",
+        "label": "Electoral Commission Ireland",
+        "url": "https://www.electoralcommission.ie/",
+        "authority": "official reference",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.electoralcommission.ie/"
+      }
+    ]
+  },
+  "forecast": null
+}

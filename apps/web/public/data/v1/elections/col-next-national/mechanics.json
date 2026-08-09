@@ -1,0 +1,35 @@
+{
+  "election_id": "col-next-national",
+  "system": "unresolved",
+  "rules": {
+    "authority_url": "https://www.registraduria.gov.co/",
+    "engine": "unresolved",
+    "validation_status": "mechanics_blocked"
+  },
+  "source_adapters": [
+    {
+      "formats": [
+        "html"
+      ],
+      "source_id": "col_electoral_authority_reference",
+      "status": "reference_only_no_ingestion"
+    }
+  ],
+  "forecast_enabled": false,
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "TBD — awaiting an approved official calendar release",
+  "provenance": [
+    {
+      "source_id": "col_electoral_authority_reference",
+      "label": "Registraduría Nacional del Estado Civil",
+      "url": "https://www.registraduria.gov.co/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.registraduria.gov.co/"
+    }
+  ]
+}

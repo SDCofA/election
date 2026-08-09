@@ -1,0 +1,44 @@
+{
+  "jurisdiction": {
+    "id": "sen",
+    "name": "Senegal",
+    "iso3": "SEN",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "SN"
+  },
+  "election": {
+    "id": "sen-next-national",
+    "jurisdiction_id": "sen",
+    "name": "Next National Election",
+    "election_date": null,
+    "date_confidence": "tbd",
+    "system": "unresolved",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "TBD — awaiting an approved official calendar release",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "contestants": [],
+    "potential_candidates": [],
+    "sources": [
+      {
+        "source_id": "sen_electoral_authority_reference",
+        "label": "Direction générale des Élections Senegal",
+        "url": "https://dge.sn/",
+        "authority": "official reference",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://dge.sn/"
+      }
+    ]
+  },
+  "forecast": null
+}

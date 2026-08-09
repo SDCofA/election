@@ -38,9 +38,11 @@ jobs:
           else
             base_path="/$repo_name"
           fi
-          echo "PAGES_BASE_PATH=$base_path" >> "$GITHUB_ENV"
-          echo "NEXT_PUBLIC_BASE_PATH=$base_path" >> "$GITHUB_ENV"
-          echo "NEXT_PUBLIC_SITE_URL=https://${owner}.github.io${base_path}" >> "$GITHUB_ENV"
+          {
+            echo "PAGES_BASE_PATH=$base_path"
+            echo "NEXT_PUBLIC_BASE_PATH=$base_path"
+            echo "NEXT_PUBLIC_SITE_URL=https://${owner}.github.io${base_path}"
+          } >> "$GITHUB_ENV"
       - run: GITHUB_PAGES=true pnpm --filter @elexion/web build
       - uses: actions/upload-pages-artifact@v3
         with:

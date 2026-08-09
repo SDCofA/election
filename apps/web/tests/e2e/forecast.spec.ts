@@ -52,7 +52,8 @@ test("mobile layout has no viewport overflow and touch targets meet WCAG 2.2 min
     if (!(await target.isVisible())) continue;
     const box = await target.boundingBox();
     expect(box, `interactive target ${index} has no box`).not.toBeNull();
-    expect(Math.min(box!.width, box!.height), `interactive target ${index} is too small`).toBeGreaterThanOrEqual(24);
+    const markup = await target.evaluate((element) => element.outerHTML);
+    expect(Math.min(box!.width, box!.height), `interactive target ${index} is too small: ${markup}`).toBeGreaterThanOrEqual(24);
   }
 });
 
@@ -88,16 +89,16 @@ test("AU institutional view fails closed without forecast probability", async ({
   await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
 });
 
-test("Israel mechanics-blocked view suppresses forecast probability", async ({ page }) => {
+test("Israel publishes an exploratory forecast and a possible party field", async ({ page }) => {
   await page.goto("/elections/il-2026-knesset");
-  await expect(page.getByText("MECHANICS BLOCKED", { exact: true })).toBeVisible();
-  await expect(page.getByText("Forecast unavailable")).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
+  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
+  await expect(page.getByText("Likud", { exact: true })).toBeVisible();
 });
 
-test("global directory exposes TBD jurisdictions without inventing forecasts", async ({ page }) => {
+test("global directory lists the full catalog and distinguishes TBD records", async ({ page }) => {
   await page.goto("/calendar");
-  await expect(page.getByRole("heading", { name: "Every covered jurisdiction" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Every country. No silent omissions." })).toBeVisible();
   await page.getByRole("searchbox", { name: "SEARCH JURISDICTIONS" }).fill("Argentina");
   const argentina = page.getByRole("link", { name: /Argentina/ });
   await expect(argentina).toContainText("TBD");
@@ -109,6 +110,16 @@ test("global directory exposes TBD jurisdictions without inventing forecasts", a
     .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
     .analyze();
   expect(violations.violations).toEqual([]);
+});
+
+test("Türkiye exposes a million-run exploratory forecast and named possibilities", async ({ page }) => {
+  await page.goto("/elections/tr-next-president");
+  await expect(page.locator(".breaking b")).toHaveText("1,000,000 RUNS");
+  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
+  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
+  await expect(page.getByText("Recep Tayyip Erdoğan", { exact: true })).toBeVisible();
+  await expect(page.getByText("Mansur Yavaş", { exact: true })).toBeVisible();
+  await expect(page.getByText("Özgür Özel", { exact: true })).toBeVisible();
 });
 
 test("route-specific API outage never substitutes another election", async ({ page }) => {

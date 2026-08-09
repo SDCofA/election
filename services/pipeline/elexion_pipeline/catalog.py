@@ -21,15 +21,11 @@ def build_api_catalog(
         jurisdictions.append(
             {
                 "id": iso3.lower(),
-                "name": country_names.get(
-                    iso3, country.name if country else item.name
-                ),
+                "name": country_names.get(iso3, country.name if country else item.name),
                 "iso3": iso3,
                 "region": country.region if country else "Global",
                 "eligibility": (
-                    f"v-dem:{item.regime}"
-                    if item
-                    else "catalog-only:outside-v-dem-forecast-rule"
+                    f"v-dem:{item.regime}" if item else "catalog-only:outside-v-dem-forecast-rule"
                 ),
                 "is_exception": False,
                 "forecast_enabled": False,

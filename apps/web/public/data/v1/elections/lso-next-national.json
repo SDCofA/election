@@ -1,0 +1,44 @@
+{
+  "jurisdiction": {
+    "id": "lso",
+    "name": "Lesotho",
+    "iso3": "LSO",
+    "region": "Sub-Saharan Africa ",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "LS"
+  },
+  "election": {
+    "id": "lso-next-national",
+    "jurisdiction_id": "lso",
+    "name": "Next National Election",
+    "election_date": null,
+    "date_confidence": "tbd",
+    "system": "unresolved",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "TBD — awaiting an approved official calendar release",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "contestants": [],
+    "potential_candidates": [],
+    "sources": [
+      {
+        "source_id": "lso_electoral_authority_reference",
+        "label": "Independent Electoral Commission Lesotho",
+        "url": "https://iec.org.ls/",
+        "authority": "official reference",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://iec.org.ls/"
+      }
+    ]
+  },
+  "forecast": null
+}

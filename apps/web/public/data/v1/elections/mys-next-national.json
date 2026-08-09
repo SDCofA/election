@@ -1,0 +1,44 @@
+{
+  "jurisdiction": {
+    "id": "mys",
+    "name": "Malaysia",
+    "iso3": "MYS",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "flag": "MY"
+  },
+  "election": {
+    "id": "mys-next-national",
+    "jurisdiction_id": "mys",
+    "name": "Next National Election",
+    "election_date": null,
+    "date_confidence": "tbd",
+    "system": "unresolved",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "TBD — awaiting an approved official calendar release",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "contestants": [],
+    "potential_candidates": [],
+    "sources": [
+      {
+        "source_id": "mys_electoral_authority_reference",
+        "label": "Election Commission of Malaysia",
+        "url": "https://www.spr.gov.my/",
+        "authority": "official reference",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.spr.gov.my/"
+      }
+    ]
+  },
+  "forecast": null
+}

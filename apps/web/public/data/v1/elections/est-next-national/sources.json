@@ -1,0 +1,30 @@
+{
+  "election_id": "est-next-national",
+  "sources": [
+    {
+      "source_id": "est_electoral_authority_reference",
+      "label": "State Electoral Office Estonia",
+      "url": "https://www.valimised.ee/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.valimised.ee/"
+    }
+  ],
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "TBD — awaiting an approved official calendar release",
+  "provenance": [
+    {
+      "source_id": "est_electoral_authority_reference",
+      "label": "State Electoral Office Estonia",
+      "url": "https://www.valimised.ee/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.valimised.ee/"
+    }
+  ]
+}

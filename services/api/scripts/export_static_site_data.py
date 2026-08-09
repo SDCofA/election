@@ -1,31 +1,18 @@
 from __future__ import annotations
 
 import json
+import os
 import shutil
 from pathlib import Path
 
 from fastapi.testclient import TestClient
 
-from app.main import app
+os.environ.setdefault("ELEXION_RATE_LIMIT_PER_MINUTE", "10000")
+
+from app.main import app  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[3]
 OUTPUT = ROOT / "apps" / "web" / "public" / "data"
-ELECTION_IDS = (
-    "us-2028-president",
-    "gb-next-commons",
-    "de-next-bundestag",
-    "eu-2029-parliament",
-    "eg-next-president",
-    "au-next-chair",
-    "se-2026-riksdag",
-    "br-2026-president",
-    "lv-2026-saeima",
-    "il-2026-knesset",
-    "nz-2026-general",
-    "tr-next-president",
-)
-
-
 def write_json(relative_path: str, payload: object) -> None:
     target = OUTPUT / relative_path
     target.parent.mkdir(parents=True, exist_ok=True)
@@ -47,9 +34,13 @@ def export_endpoint(client: TestClient, endpoint: str) -> bool:
 def main() -> None:
     shutil.rmtree(OUTPUT, ignore_errors=True)
     with TestClient(app) as client:
-        for endpoint in ("/v1/catalog/status", "/v1/elections", "/v1/jurisdictions"):
-            export_endpoint(client, endpoint)
-        for election_id in ELECTION_IDS:
+        export_endpoint(client, "/v1/catalog/status")
+        election_response = client.get("/v1/elections")
+        election_response.raise_for_status()
+        elections = election_response.json()
+        write_json("v1/elections.json", elections)
+        export_endpoint(client, "/v1/jurisdictions")
+        for election_id in (item["id"] for item in elections):
             root = f"/v1/elections/{election_id}"
             export_endpoint(client, root)
             for suffix in ("model-comparison", "forecasts", "coalitions", "mechanics", "sources"):
