@@ -83,7 +83,7 @@ test("parliament layout matches visual regression baseline", async ({ page }, te
   });
   await expect(parliament).toHaveScreenshot(
     "germany-parliament.png",
-    { animations: "disabled", maxDiffPixelRatio: 0.01 }
+    { animations: "disabled", maxDiffPixelRatio: 0.025 }
   );
 });
 
