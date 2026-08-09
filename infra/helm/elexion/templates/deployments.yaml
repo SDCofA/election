@@ -1,0 +1,121 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-api
+spec:
+  replicas: {{ .Values.api.replicas }}
+  minReadySeconds: 30
+  progressDeadlineSeconds: 300
+  strategy: { type: RollingUpdate, rollingUpdate: { maxUnavailable: 0, maxSurge: 1 } }
+  selector: { matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: api } }
+  template:
+    metadata: { labels: { app: elexion-api, app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: api } }
+    spec:
+      securityContext: { runAsNonRoot: true, seccompProfile: { type: RuntimeDefault } }
+      {{- with .Values.imagePullSecrets }}
+      imagePullSecrets: {{- toYaml . | nindent 8 }}
+      {{- end }}
+      containers:
+        - name: api
+          image: {{ .Values.api.image | quote }}
+          imagePullPolicy: {{ .Values.imagePullPolicy }}
+          ports: [{ name: http, containerPort: 8000 }]
+          envFrom: [{ secretRef: { name: {{ .Values.secrets.existingSecret }} } }]
+          startupProbe: { httpGet: { path: /health, port: http }, failureThreshold: 45, periodSeconds: 2 }
+          readinessProbe: { httpGet: { path: /health, port: http }, initialDelaySeconds: 4, periodSeconds: 10 }
+          livenessProbe: { httpGet: { path: /health, port: http }, initialDelaySeconds: 15, periodSeconds: 20 }
+          resources: {{- toYaml .Values.api.resources | nindent 12 }}
+          securityContext: { allowPrivilegeEscalation: false, capabilities: { drop: ["ALL"] }, readOnlyRootFilesystem: true }
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-web
+spec:
+  replicas: {{ .Values.web.replicas }}
+  minReadySeconds: 30
+  progressDeadlineSeconds: 300
+  strategy: { type: RollingUpdate, rollingUpdate: { maxUnavailable: 0, maxSurge: 1 } }
+  selector: { matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: web } }
+  template:
+    metadata: { labels: { app: elexion-web, app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: web } }
+    spec:
+      securityContext: { runAsNonRoot: true, seccompProfile: { type: RuntimeDefault } }
+      {{- with .Values.imagePullSecrets }}
+      imagePullSecrets: {{- toYaml . | nindent 8 }}
+      {{- end }}
+      containers:
+        - name: web
+          image: {{ .Values.web.image | quote }}
+          imagePullPolicy: {{ .Values.imagePullPolicy }}
+          ports: [{ name: http, containerPort: 3000 }]
+          env:
+            - { name: API_INTERNAL_URL, value: {{ printf "http://%s-api:8000" .Release.Name | quote }} }
+          readinessProbe: { httpGet: { path: /, port: http }, initialDelaySeconds: 4, periodSeconds: 10 }
+          livenessProbe: { httpGet: { path: /, port: http }, initialDelaySeconds: 15, periodSeconds: 20 }
+          resources: {{- toYaml .Values.web.resources | nindent 12 }}
+          securityContext: { allowPrivilegeEscalation: false, capabilities: { drop: ["ALL"] }, readOnlyRootFilesystem: true }
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-dagster-webserver
+spec:
+  replicas: 1
+  selector: { matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: dagster-webserver } }
+  template:
+    metadata: { labels: { app: elexion-dagster-webserver, app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: dagster-webserver } }
+    spec:
+      securityContext: { runAsNonRoot: true, seccompProfile: { type: RuntimeDefault } }
+      {{- with .Values.imagePullSecrets }}
+      imagePullSecrets: {{- toYaml . | nindent 8 }}
+      {{- end }}
+      containers:
+        - name: dagster-webserver
+          image: {{ .Values.pipeline.image | quote }}
+          imagePullPolicy: {{ .Values.imagePullPolicy }}
+          command: ["dagster-webserver", "-h", "0.0.0.0", "-p", "3001", "-w", "/app/workspace.yaml"]
+          ports: [{ name: http, containerPort: 3001 }]
+          envFrom: [{ secretRef: { name: {{ .Values.secrets.existingSecret }} } }]
+          env:
+            - { name: ELEXION_S3_BUCKET, value: {{ .Values.config.s3Bucket | quote }} }
+            - { name: ELEXION_API_INTERNAL_URL, value: {{ printf "http://%s-api:8000" .Release.Name | quote }} }
+          volumeMounts:
+            - { name: dagster-storage, mountPath: /opt/dagster/dagster_home/storage }
+          readinessProbe: { httpGet: { path: /server_info, port: http }, initialDelaySeconds: 10, periodSeconds: 10 }
+          resources: {{- toYaml .Values.pipeline.resources | nindent 12 }}
+          securityContext: { allowPrivilegeEscalation: false, capabilities: { drop: ["ALL"] }, readOnlyRootFilesystem: true }
+      volumes:
+        - name: dagster-storage
+          emptyDir: {}
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-dagster-daemon
+spec:
+  replicas: 1
+  selector: { matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: dagster-daemon } }
+  template:
+    metadata: { labels: { app: elexion-dagster-daemon, app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: dagster-daemon } }
+    spec:
+      securityContext: { runAsNonRoot: true, seccompProfile: { type: RuntimeDefault } }
+      {{- with .Values.imagePullSecrets }}
+      imagePullSecrets: {{- toYaml . | nindent 8 }}
+      {{- end }}
+      containers:
+        - name: dagster-daemon
+          image: {{ .Values.pipeline.image | quote }}
+          imagePullPolicy: {{ .Values.imagePullPolicy }}
+          command: ["dagster-daemon", "run", "-w", "/app/workspace.yaml"]
+          envFrom: [{ secretRef: { name: {{ .Values.secrets.existingSecret }} } }]
+          env:
+            - { name: ELEXION_S3_BUCKET, value: {{ .Values.config.s3Bucket | quote }} }
+            - { name: ELEXION_API_INTERNAL_URL, value: {{ printf "http://%s-api:8000" .Release.Name | quote }} }
+          volumeMounts:
+            - { name: dagster-storage, mountPath: /opt/dagster/dagster_home/storage }
+          resources: {{- toYaml .Values.pipeline.resources | nindent 12 }}
+          securityContext: { allowPrivilegeEscalation: false, capabilities: { drop: ["ALL"] }, readOnlyRootFilesystem: true }
+      volumes:
+        - name: dagster-storage
+          emptyDir: {}

@@ -1,0 +1,109 @@
+name: elexion
+services:
+  postgres:
+    image: postgis/postgis:17-3.5
+    environment:
+      POSTGRES_DB: elexion
+      POSTGRES_USER: elexion
+      POSTGRES_PASSWORD: local-elexion
+    ports: ["5432:5432"]
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./postgres/001_schema.sql:/docker-entrypoint-initdb.d/001_schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U elexion"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  redis:
+    image: redis:8-alpine
+    command: ["redis-server", "--appendonly", "yes"]
+    ports: ["6379:6379"]
+  nats:
+    image: nats:2-alpine
+    command: ["-js", "-sd", "/data"]
+    ports: ["4222:4222", "8222:8222"]
+  minio:
+    image: minio/minio:latest
+    command: server /data --console-address :9001
+    environment:
+      MINIO_ROOT_USER: elexion
+      MINIO_ROOT_PASSWORD: local-elexion-secret
+    ports: ["9000:9000", "9001:9001"]
+    volumes: ["minio-data:/data"]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  minio-init:
+    image: minio/mc:latest
+    entrypoint:
+      - /bin/sh
+      - -c
+      - mc alias set local http://minio:9000 elexion local-elexion-secret && mc mb --ignore-existing local/elexion-raw
+    depends_on:
+      minio: { condition: service_healthy }
+  api:
+    build: ../services/api
+    environment:
+      DATABASE_URL: postgresql://elexion:local-elexion@postgres:5432/elexion
+      REDIS_URL: redis://redis:6379/0
+      NATS_URL: nats://nats:4222
+      ELEXION_INTERNAL_TOKEN: local-internal-token
+      S3_ENDPOINT: http://minio:9000
+    ports: ["8000:8000"]
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+    depends_on:
+      postgres: { condition: service_healthy }
+  dagster-webserver:
+    build:
+      context: ..
+      dockerfile: services/pipeline/Dockerfile
+    command: ["dagster-webserver", "-h", "0.0.0.0", "-p", "3001", "-w", "/app/workspace.yaml"]
+    environment: &dagster-environment
+      POSTGRES_DB: elexion
+      POSTGRES_USER: elexion
+      POSTGRES_PASSWORD: local-elexion
+      POSTGRES_HOST: postgres
+      AWS_ACCESS_KEY_ID: elexion
+      AWS_SECRET_ACCESS_KEY: local-elexion-secret
+      AWS_DEFAULT_REGION: us-east-1
+      ELEXION_S3_BUCKET: elexion-raw
+      ELEXION_S3_ENDPOINT: http://minio:9000
+      ELEXION_API_INTERNAL_URL: http://api:8000
+      ELEXION_INTERNAL_TOKEN: local-internal-token
+      NATS_URL: nats://nats:4222
+    ports: ["3001:3001"]
+    volumes: ["dagster-storage:/opt/dagster/dagster_home/storage"]
+    depends_on:
+      postgres: { condition: service_healthy }
+      minio-init: { condition: service_completed_successfully }
+      api: { condition: service_healthy }
+  dagster-daemon:
+    build:
+      context: ..
+      dockerfile: services/pipeline/Dockerfile
+    command: ["dagster-daemon", "run", "-w", "/app/workspace.yaml"]
+    environment: *dagster-environment
+    volumes: ["dagster-storage:/opt/dagster/dagster_home/storage"]
+    depends_on:
+      postgres: { condition: service_healthy }
+      minio-init: { condition: service_completed_successfully }
+      api: { condition: service_healthy }
+  web:
+    build:
+      context: ..
+      dockerfile: apps/web/Dockerfile
+    environment:
+      API_INTERNAL_URL: http://api:8000
+    ports: ["3000:3000"]
+    depends_on: [api]
+volumes:
+  postgres-data:
+  minio-data:
+  dagster-storage:

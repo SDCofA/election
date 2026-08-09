@@ -1,0 +1,23 @@
+{
+  "jurisdiction": {"id":"eu","name":"European Union","region":"Europe","eligibility":"supranational-forecast","is_exception":false,"forecast_enabled":true,"flag":"EU"},
+  "source_adapters":[{"source_id":"eu_parliament_elections","status":"approved","formats":["html","pdf"]}],
+  "rules":{"engine":"proportional","seats":720,"allocation":"member-state degressive proportionality","national_thresholds_vary":true},
+  "election": {
+    "id":"eu-2029-parliament","jurisdiction_id":"eu","name":"2029 European Parliament Election","election_date":"2029-06-10","date_confidence":"projected window","system":"proportional","seats_total":720,"majority":361,"threshold":0.0,"status":"structural forecast","last_updated":"2026-08-09T09:00:00Z",
+    "contestants":[
+      {"id":"epp","name":"European People's Party","short_name":"EPP","color":"#3399ff","incumbent":true,"ideology":"Centre-right"},
+      {"id":"sd","name":"Socialists & Democrats","short_name":"S&D","color":"#e73d50","ideology":"Centre-left"},
+      {"id":"right","name":"Conservative and right groups","short_name":"RIGHT","color":"#243b70","ideology":"Right"},
+      {"id":"lib-green","name":"Liberal and green groups","short_name":"LIB+GRN","color":"#63c184","ideology":"Centre/Green"},
+      {"id":"other","name":"Left, non-attached and others","short_name":"OTH","color":"#8b6eb5","ideology":"Mixed"}
+    ],
+    "sources":[{"source_id":"eu_parliament_elections","label":"European Parliament","url":"https://elections.europa.eu/","authority":"official","retrieved_at":"2026-08-09T09:00:00Z","license":"EP-REUSE-NOTICE","license_url":"https://elections.europa.eu/en/legal-notice/"}]
+  },
+  "model":{"base_shares":[0.27,0.19,0.24,0.18,0.12],"volatility":0.035,"turnout":0.52,"data_quality":"D","freshness":"structural-only"},
+  "drivers":[
+    {"key":"national","label":"National government cycle","value":"Mixed","contribution":-0.08,"direction":"incumbents","confidence":0.51},
+    {"key":"migration","label":"Migration salience","value":"High","contribution":0.31,"direction":"right blocs","confidence":0.68},
+    {"key":"energy","label":"Energy prices","value":"Stable","contribution":0.09,"direction":"centre blocs","confidence":0.58},
+    {"key":"fragmentation","label":"Group fragmentation","value":"High","contribution":-0.21,"direction":"majority","confidence":0.81}
+  ]
+}

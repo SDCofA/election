@@ -1,0 +1,4 @@
+load_from:
+  - python_module:
+      module_name: elexion_pipeline.definitions
+      working_directory: /app

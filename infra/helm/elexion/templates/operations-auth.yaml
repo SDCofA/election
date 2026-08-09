@@ -1,0 +1,78 @@
+{{- if .Values.oidc.enabled }}
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-operations-auth
+spec:
+  replicas: 2
+  selector: { matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: operations-auth } }
+  template:
+    metadata: { labels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: operations-auth } }
+    spec:
+      securityContext: { runAsNonRoot: true, seccompProfile: { type: RuntimeDefault } }
+      containers:
+        - name: oauth2-proxy
+          image: {{ .Values.oidc.image | quote }}
+          imagePullPolicy: {{ .Values.imagePullPolicy }}
+          args:
+            - --provider=oidc
+            - --oidc-issuer-url={{ required "oidc.issuerUrl is required" .Values.oidc.issuerUrl }}
+            - --upstream=http://{{ .Release.Name }}-dagster-webserver:3001
+            - --http-address=0.0.0.0:4180
+            - --email-domain=*
+            - --reverse-proxy=true
+            - --cookie-secure=true
+            - --cookie-httponly=true
+            - --cookie-samesite=lax
+            - --skip-provider-button=true
+            - --set-xauthrequest=true
+          env:
+            - name: OAUTH2_PROXY_CLIENT_ID
+              valueFrom: { secretKeyRef: { name: {{ .Values.oidc.existingSecret }}, key: client-id } }
+            - name: OAUTH2_PROXY_CLIENT_SECRET
+              valueFrom: { secretKeyRef: { name: {{ .Values.oidc.existingSecret }}, key: client-secret } }
+            - name: OAUTH2_PROXY_COOKIE_SECRET
+              valueFrom: { secretKeyRef: { name: {{ .Values.oidc.existingSecret }}, key: cookie-secret } }
+          ports: [{ name: http, containerPort: 4180 }]
+          readinessProbe: { httpGet: { path: /ping, port: http }, initialDelaySeconds: 3, periodSeconds: 10 }
+          livenessProbe: { httpGet: { path: /ping, port: http }, initialDelaySeconds: 10, periodSeconds: 20 }
+          resources: {{- toYaml .Values.oidc.resources | nindent 12 }}
+          securityContext: { allowPrivilegeEscalation: false, capabilities: { drop: ["ALL"] }, readOnlyRootFilesystem: true }
+---
+apiVersion: v1
+kind: Service
+metadata: { name: {{ .Release.Name }}-operations-auth }
+spec:
+  selector: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: operations-auth }
+  ports: [{ name: http, port: 4180, targetPort: http }]
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: {{ .Release.Name }}-operations
+spec:
+  ingressClassName: {{ .Values.ingress.className }}
+  tls:
+    - hosts: [{{ required "oidc.host is required" .Values.oidc.host | quote }}]
+      secretName: {{ required "oidc.tlsSecret is required" .Values.oidc.tlsSecret }}
+  rules:
+    - host: {{ required "oidc.host is required" .Values.oidc.host | quote }}
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend: { service: { name: {{ .Release.Name }}-operations-auth, port: { number: 4180 } } }
+---
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata: { name: {{ .Release.Name }}-dagster-ingress }
+spec:
+  podSelector:
+    matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: dagster-webserver }
+  policyTypes: [Ingress]
+  ingress:
+    - from:
+        - podSelector:
+            matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: operations-auth }
+      ports: [{ protocol: TCP, port: 3001 }]
+{{- end }}

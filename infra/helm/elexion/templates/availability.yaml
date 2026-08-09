@@ -1,0 +1,19 @@
+{{- if gt (int .Values.api.replicas) 1 }}
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata: { name: {{ .Release.Name }}-api }
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: api }
+---
+{{- end }}
+{{- if gt (int .Values.web.replicas) 1 }}
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata: { name: {{ .Release.Name }}-web }
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: web }
+{{- end }}

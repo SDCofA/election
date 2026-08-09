@@ -1,0 +1,61 @@
+imagePullPolicy: IfNotPresent
+imagePullSecrets: []
+api:
+  image: ghcr.io/OWNER/elexion-api:latest
+  replicas: 2
+  port: 8000
+  resources:
+    requests: { cpu: 500m, memory: 768Mi }
+    limits: { cpu: "2", memory: 2Gi }
+web:
+  image: ghcr.io/OWNER/elexion-web:latest
+  replicas: 2
+  port: 3000
+  resources:
+    requests: { cpu: 100m, memory: 256Mi }
+    limits: { cpu: "1", memory: 768Mi }
+pipeline:
+  image: ghcr.io/OWNER/elexion-pipeline:latest
+  port: 3001
+  resources:
+    requests: { cpu: 250m, memory: 512Mi }
+    limits: { cpu: "2", memory: 2Gi }
+migrations:
+  enabled: true
+  image: ""
+  activeDeadlineSeconds: 300
+oidc:
+  enabled: false
+  image: quay.io/oauth2-proxy/oauth2-proxy:v7.15.3
+  issuerUrl: ""
+  host: ""
+  tlsSecret: ""
+  existingSecret: elexion-oidc
+  resources:
+    requests: { cpu: 50m, memory: 64Mi }
+    limits: { cpu: 250m, memory: 256Mi }
+canary:
+  enabled: false
+  apiImage: ""
+  webImage: ""
+config:
+  publicApiUrl: https://api.elexion.example
+  s3Bucket: elexion-raw
+secrets:
+  existingSecret: elexion-runtime
+ingress:
+  enabled: false
+  className: nginx
+  host: elexion.example
+monitoring:
+  prometheusRule:
+    enabled: false
+    namespace: ""
+backup:
+  enabled: false
+  schedule: "17 1 * * *"
+  s3Prefix: elexion/backups/postgres
+  encryption: AES256
+  kmsKeyId: ""
+  successfulJobsHistoryLimit: 3
+  failedJobsHistoryLimit: 3

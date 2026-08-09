@@ -1,0 +1,24 @@
+{
+  "jurisdiction": {"id":"deu","name":"Germany","iso3":"DEU","region":"Europe","eligibility":"v-dem:liberal-democracy","is_exception":false,"forecast_enabled":true,"flag":"DE"},
+  "source_adapters":[{"source_id":"germany_federal_returning_officer","status":"approved","formats":["csv","pdf"]},{"source_id":"dawum_polls","status":"approved","formats":["json"]}],
+  "poll_feeds":[{"source_id":"dawum_polls","endpoint":"/","parser_version":"dawum-v1","parliament_id":"0","earliest_date":"2025-02-24","party_mapping":{"1":"union","7":"afd","2":"spd","4":"greens","5":"left","23":"left","3":"left","0":"left"},"unmapped_contestant_id":"left"}],
+  "rules":{"engine":"mixed_member","seats":630,"national_threshold":0.05,"seat_allocation":"proportional approximation pending district model"},
+  "election": {
+    "id":"de-next-bundestag","jurisdiction_id":"deu","name":"Next Bundestag Election","election_date":"2029-03-25","date_confidence":"projected","system":"mixed_member","seats_total":630,"majority":316,"threshold":0.05,"status":"date projected","last_updated":"2026-08-09T09:00:00Z",
+    "contestants":[
+      {"id":"union","name":"CDU/CSU","short_name":"UNION","color":"#c5cad2","incumbent":true,"ideology":"Centre-right"},
+      {"id":"afd","name":"Alternative for Germany","short_name":"AFD","color":"#23a7e0","ideology":"Right"},
+      {"id":"spd","name":"Social Democratic Party","short_name":"SPD","color":"#ec3346","ideology":"Centre-left"},
+      {"id":"greens","name":"Alliance 90/The Greens","short_name":"GRN","color":"#4caf63","ideology":"Green"},
+      {"id":"left","name":"The Left and others","short_name":"OTH","color":"#a857c7","ideology":"Mixed"}
+    ],
+    "sources":[{"source_id":"germany_federal_returning_officer","label":"Federal Returning Officer","url":"https://www.bundeswahlleiterin.de/en/","authority":"official","retrieved_at":"2026-08-09T09:00:00Z","license":"DL-DE-BY-2.0","license_url":"https://www.bundeswahlleiterin.de/europawahlen/2024/ergebnisse/opendata.html"},{"source_id":"dawum_polls","label":"dawum German Election Polls","url":"https://api.dawum.de/","authority":"poll_aggregator","retrieved_at":"2026-08-09T08:00:00Z","license":"ODC-ODbL-1.0","license_url":"https://opendatacommons.org/licenses/odbl/1-0/"}]
+  },
+  "model":{"base_shares":[0.31,0.24,0.17,0.14,0.14],"volatility":0.03,"turnout":0.79,"data_quality":"C","freshness":"illustrative open-source inputs"},
+  "drivers":[
+    {"key":"growth","label":"Industrial growth","value":"Stagnant","contribution":-0.29,"direction":"incumbent","confidence":0.71},
+    {"key":"energy","label":"Energy affordability","value":"Improving","contribution":0.17,"direction":"incumbent","confidence":0.62},
+    {"key":"coalition","label":"Coalition compatibility","value":"Constrained","contribution":-0.12,"direction":"majority","confidence":0.78},
+    {"key":"demographics","label":"Demographic pressure","value":"High","contribution":-0.2,"direction":"status quo","confidence":0.84}
+  ]
+}

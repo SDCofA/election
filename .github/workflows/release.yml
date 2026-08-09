@@ -1,0 +1,238 @@
+name: Release
+
+on:
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: write
+  id-token: write
+  attestations: write
+  security-events: write
+
+concurrency:
+  group: elexion-production
+  cancel-in-progress: false
+
+env:
+  SOURCE_SHA: ${{ github.event.workflow_run.head_sha || github.sha }}
+
+jobs:
+  images:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: true
+      matrix:
+        include:
+          - component: api
+            context: services/api
+            dockerfile: services/api/Dockerfile
+          - component: pipeline
+            context: .
+            dockerfile: services/pipeline/Dockerfile
+          - component: web
+            context: .
+            dockerfile: apps/web/Dockerfile
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.SOURCE_SHA }}
+      - name: Resolve immutable image name
+        id: image
+        shell: bash
+        run: |
+          registry="ghcr.io/${GITHUB_REPOSITORY_OWNER,,}"
+          image="$registry/elexion-${{ matrix.component }}"
+          echo "registry=$registry" >> "$GITHUB_OUTPUT"
+          echo "name=$image" >> "$GITHUB_OUTPUT"
+          echo "tag=$image:sha-$SOURCE_SHA" >> "$GITHUB_OUTPUT"
+      - uses: docker/setup-qemu-action@v3
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build and publish multi-architecture image
+        id: build
+        uses: docker/build-push-action@v6
+        with:
+          context: ${{ matrix.context }}
+          file: ${{ matrix.dockerfile }}
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: |
+            ${{ steps.image.outputs.tag }}
+            ${{ steps.image.outputs.name }}:latest
+          cache-from: type=gha,scope=${{ matrix.component }}
+          cache-to: type=gha,mode=max,scope=${{ matrix.component }}
+          provenance: mode=max
+          sbom: true
+      - uses: sigstore/cosign-installer@v3
+      - name: Keyless-sign immutable image digest
+        shell: bash
+        run: cosign sign --yes "${{ steps.image.outputs.name }}@${{ steps.build.outputs.digest }}"
+      - name: Scan published image
+        uses: aquasecurity/trivy-action@ed142fd0673e97e23eac54620cfb913e5ce36c25
+        with:
+          image-ref: ${{ steps.image.outputs.name }}@${{ steps.build.outputs.digest }}
+          format: sarif
+          output: trivy-${{ matrix.component }}.sarif
+          severity: HIGH,CRITICAL
+          ignore-unfixed: true
+          exit-code: 1
+      - name: Upload vulnerability report
+        if: always() && hashFiles(format('trivy-{0}.sarif', matrix.component)) != ''
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: trivy-${{ matrix.component }}.sarif
+          category: image-${{ matrix.component }}
+      - name: Export SPDX SBOM
+        uses: anchore/sbom-action@v0
+        with:
+          image: ${{ steps.image.outputs.name }}@${{ steps.build.outputs.digest }}
+          format: spdx-json
+          output-file: sbom-${{ matrix.component }}.spdx.json
+          artifact-name: sbom-${{ matrix.component }}
+      - name: Export digest for deployment
+        shell: bash
+        run: echo '${{ steps.build.outputs.digest }}' > '${{ matrix.component }}.digest'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: image-digest-${{ matrix.component }}
+          path: ${{ matrix.component }}.digest
+          if-no-files-found: error
+
+  deploy:
+    needs: images
+    if: >-
+      (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success') &&
+      (github.event_name == 'workflow_run' || github.ref_name == github.event.repository.default_branch) &&
+      vars.KUBE_SERVER != '' && vars.KUBE_OIDC_AUDIENCE != ''
+    runs-on: ubuntu-latest
+    environment: production
+    timeout-minutes: 30
+    env:
+      KUBE_SERVER: ${{ vars.KUBE_SERVER }}
+      KUBE_OIDC_AUDIENCE: ${{ vars.KUBE_OIDC_AUDIENCE }}
+      KUBE_NAMESPACE: ${{ vars.KUBE_NAMESPACE || 'elexion' }}
+      HELM_RELEASE: ${{ vars.HELM_RELEASE || 'elexion' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.SOURCE_SHA }}
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: image-digest-*
+          merge-multiple: true
+      - uses: azure/setup-helm@v4
+      - uses: azure/setup-kubectl@v4
+      - uses: sigstore/cosign-installer@v3
+      - name: Exchange GitHub OIDC identity for cluster session
+        shell: bash
+        env:
+          KUBE_CA_CERT: ${{ secrets.KUBE_CA_CERT }}
+        run: |
+          test -n "$KUBE_CA_CERT"
+          token="$(curl --fail --silent --show-error \
+            -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
+            "${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=${KUBE_OIDC_AUDIENCE}" | jq -r .value)"
+          test -n "$token"
+          printf '%s' "$KUBE_CA_CERT" | base64 --decode > "$RUNNER_TEMP/kube-ca.crt"
+          kubectl config set-cluster production \
+            --server="$KUBE_SERVER" --certificate-authority="$RUNNER_TEMP/kube-ca.crt" \
+            --embed-certs=true
+          kubectl config set-credentials github-actions --token="$token"
+          kubectl config set-context production \
+            --cluster=production --user=github-actions --namespace="$KUBE_NAMESPACE"
+          kubectl config use-context production
+          kubectl auth can-i get deployments --namespace "$KUBE_NAMESPACE" | grep -qx yes
+      - name: Resolve and verify signed digests
+        id: refs
+        shell: bash
+        run: |
+          registry="ghcr.io/${GITHUB_REPOSITORY_OWNER,,}"
+          for component in api pipeline web; do
+            digest="$(cat "$component.digest")"
+            test "${digest#sha256:}" != "$digest"
+            ref="$registry/elexion-$component@$digest"
+            cosign verify \
+              --certificate-oidc-issuer=https://token.actions.githubusercontent.com \
+              --certificate-identity-regexp="https://github.com/${GITHUB_REPOSITORY}/.github/workflows/release.yml@.*" \
+              "$ref" >/dev/null
+            echo "$component=$ref" >> "$GITHUB_OUTPUT"
+          done
+      - name: Inspect current release
+        id: current
+        shell: bash
+        run: |
+          if helm status "$HELM_RELEASE" --namespace "$KUBE_NAMESPACE" >/dev/null 2>&1; then
+            revision="$(helm history "$HELM_RELEASE" --namespace "$KUBE_NAMESPACE" -o json | jq -r '.[-1].revision')"
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+            echo "revision=$revision" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            echo "revision=0" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Bootstrap production release
+        if: steps.current.outputs.exists == 'false'
+        shell: bash
+        run: |
+          helm upgrade --install "$HELM_RELEASE" infra/helm/elexion \
+            --namespace "$KUBE_NAMESPACE" --create-namespace --atomic --timeout 10m \
+            --set-string api.image='${{ steps.refs.outputs.api }}' \
+            --set-string web.image='${{ steps.refs.outputs.web }}' \
+            --set-string pipeline.image='${{ steps.refs.outputs.pipeline }}'
+      - name: Deploy isolated canary
+        if: steps.current.outputs.exists == 'true'
+        shell: bash
+        run: |
+          helm upgrade "$HELM_RELEASE" infra/helm/elexion \
+            --namespace "$KUBE_NAMESPACE" --reuse-values --atomic --timeout 10m \
+            --set canary.enabled=true \
+            --set-string migrations.image='${{ steps.refs.outputs.pipeline }}' \
+            --set-string canary.apiImage='${{ steps.refs.outputs.api }}' \
+            --set-string canary.webImage='${{ steps.refs.outputs.web }}'
+          kubectl rollout status deployment/"$HELM_RELEASE-canary-api" --timeout=5m
+          kubectl rollout status deployment/"$HELM_RELEASE-canary-web" --timeout=5m
+      - name: Exercise canary health from inside cluster
+        if: steps.current.outputs.exists == 'true'
+        shell: bash
+        run: |
+          check="elexion-canary-check-$GITHUB_RUN_ID"
+          kubectl run "$check" --rm -i --restart=Never --image=curlimages/curl:8.17.0 -- \
+            curl --fail --retry 12 --retry-all-errors --retry-delay 5 \
+            "http://$HELM_RELEASE-canary-api:8000/health"
+          kubectl run "$check-web" --rm -i --restart=Never --image=curlimages/curl:8.17.0 -- \
+            curl --fail --retry 12 --retry-all-errors --retry-delay 5 \
+            "http://$HELM_RELEASE-canary-web:3000/"
+      - name: Promote immutable images
+        if: steps.current.outputs.exists == 'true'
+        shell: bash
+        run: |
+          helm upgrade "$HELM_RELEASE" infra/helm/elexion \
+            --namespace "$KUBE_NAMESPACE" --reuse-values --atomic --timeout 10m \
+            --set canary.enabled=false \
+            --set-string api.image='${{ steps.refs.outputs.api }}' \
+            --set-string web.image='${{ steps.refs.outputs.web }}' \
+            --set-string pipeline.image='${{ steps.refs.outputs.pipeline }}'
+      - name: Verify stable rollout
+        shell: bash
+        run: |
+          kubectl rollout status deployment/"$HELM_RELEASE-api" --timeout=5m
+          kubectl rollout status deployment/"$HELM_RELEASE-web" --timeout=5m
+          kubectl rollout status deployment/"$HELM_RELEASE-dagster-webserver" --timeout=5m
+          kubectl rollout status deployment/"$HELM_RELEASE-dagster-daemon" --timeout=5m
+      - name: Roll back to pre-canary revision
+        if: failure() && steps.current.outputs.exists == 'true'
+        shell: bash
+        run: |
+          helm rollback "$HELM_RELEASE" '${{ steps.current.outputs.revision }}' \
+            --namespace "$KUBE_NAMESPACE" --wait --timeout 10m
+          kubectl rollout status deployment/"$HELM_RELEASE-api" --timeout=5m
+          kubectl rollout status deployment/"$HELM_RELEASE-web" --timeout=5m

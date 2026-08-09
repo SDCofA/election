@@ -1,0 +1,888 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-08-09T10:12:04.992583+00:00",
+  "eligibility": {
+    "source": "V-Dem Country-Year Dataset",
+    "version": 16,
+    "year": 2025,
+    "rule": "v2x_regime in {2,3}",
+    "snapshot_sha256": "39b412d39a061c18f20c98e4ad4d6355b05a0441df31be4ee9aec420dc3d95ea",
+    "license": "CC-BY-SA-4.0"
+  },
+  "enrichment": {
+    "source": "World Bank country catalog",
+    "snapshot_sha256": "d29d57f8adf954c5e2a1520a02fb2c7b45575d8db3bd327a9dff47d66914231c"
+  },
+  "jurisdictions": [
+    {
+      "id": "arg",
+      "name": "Argentina",
+      "iso3": "ARG",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "AR"
+    },
+    {
+      "id": "arm",
+      "name": "Armenia",
+      "iso3": "ARM",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "AM"
+    },
+    {
+      "id": "aus",
+      "name": "Australia",
+      "iso3": "AUS",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "AU"
+    },
+    {
+      "id": "aut",
+      "name": "Austria",
+      "iso3": "AUT",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "AT"
+    },
+    {
+      "id": "brb",
+      "name": "Barbados",
+      "iso3": "BRB",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "BB"
+    },
+    {
+      "id": "bel",
+      "name": "Belgium",
+      "iso3": "BEL",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "BE"
+    },
+    {
+      "id": "btn",
+      "name": "Bhutan",
+      "iso3": "BTN",
+      "region": "South Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "BT"
+    },
+    {
+      "id": "bol",
+      "name": "Bolivia",
+      "iso3": "BOL",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "BO"
+    },
+    {
+      "id": "bwa",
+      "name": "Botswana",
+      "iso3": "BWA",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "BW"
+    },
+    {
+      "id": "bra",
+      "name": "Brazil",
+      "iso3": "BRA",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "BR"
+    },
+    {
+      "id": "bgr",
+      "name": "Bulgaria",
+      "iso3": "BGR",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "BG"
+    },
+    {
+      "id": "can",
+      "name": "Canada",
+      "iso3": "CAN",
+      "region": "North America",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "CA"
+    },
+    {
+      "id": "cpv",
+      "name": "Cape Verde",
+      "iso3": "CPV",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "CV"
+    },
+    {
+      "id": "chl",
+      "name": "Chile",
+      "iso3": "CHL",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "CL"
+    },
+    {
+      "id": "col",
+      "name": "Colombia",
+      "iso3": "COL",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "CO"
+    },
+    {
+      "id": "cri",
+      "name": "Costa Rica",
+      "iso3": "CRI",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "CR"
+    },
+    {
+      "id": "hrv",
+      "name": "Croatia",
+      "iso3": "HRV",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "HR"
+    },
+    {
+      "id": "cyp",
+      "name": "Cyprus",
+      "iso3": "CYP",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "CY"
+    },
+    {
+      "id": "cze",
+      "name": "Czechia",
+      "iso3": "CZE",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "CZ"
+    },
+    {
+      "id": "dnk",
+      "name": "Denmark",
+      "iso3": "DNK",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "DK"
+    },
+    {
+      "id": "dom",
+      "name": "Dominican Republic",
+      "iso3": "DOM",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "DO"
+    },
+    {
+      "id": "ecu",
+      "name": "Ecuador",
+      "iso3": "ECU",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "EC"
+    },
+    {
+      "id": "est",
+      "name": "Estonia",
+      "iso3": "EST",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "EE"
+    },
+    {
+      "id": "fji",
+      "name": "Fiji",
+      "iso3": "FJI",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "FJ"
+    },
+    {
+      "id": "fin",
+      "name": "Finland",
+      "iso3": "FIN",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "FI"
+    },
+    {
+      "id": "fra",
+      "name": "France",
+      "iso3": "FRA",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "FR"
+    },
+    {
+      "id": "deu",
+      "name": "Germany",
+      "iso3": "DEU",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "DE"
+    },
+    {
+      "id": "gha",
+      "name": "Ghana",
+      "iso3": "GHA",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "GH"
+    },
+    {
+      "id": "grc",
+      "name": "Greece",
+      "iso3": "GRC",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "GR"
+    },
+    {
+      "id": "gtm",
+      "name": "Guatemala",
+      "iso3": "GTM",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "GT"
+    },
+    {
+      "id": "guy",
+      "name": "Guyana",
+      "iso3": "GUY",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "GY"
+    },
+    {
+      "id": "hnd",
+      "name": "Honduras",
+      "iso3": "HND",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "HN"
+    },
+    {
+      "id": "isl",
+      "name": "Iceland",
+      "iso3": "ISL",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "IS"
+    },
+    {
+      "id": "irl",
+      "name": "Ireland",
+      "iso3": "IRL",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "IE"
+    },
+    {
+      "id": "isr",
+      "name": "Israel",
+      "iso3": "ISR",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "IL"
+    },
+    {
+      "id": "ita",
+      "name": "Italy",
+      "iso3": "ITA",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "IT"
+    },
+    {
+      "id": "jam",
+      "name": "Jamaica",
+      "iso3": "JAM",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "JM"
+    },
+    {
+      "id": "jpn",
+      "name": "Japan",
+      "iso3": "JPN",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "JP"
+    },
+    {
+      "id": "ken",
+      "name": "Kenya",
+      "iso3": "KEN",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "KE"
+    },
+    {
+      "id": "xkx",
+      "name": "Kosovo",
+      "iso3": "XKX",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "XK"
+    },
+    {
+      "id": "lva",
+      "name": "Latvia",
+      "iso3": "LVA",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "LV"
+    },
+    {
+      "id": "lso",
+      "name": "Lesotho",
+      "iso3": "LSO",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "LS"
+    },
+    {
+      "id": "lbr",
+      "name": "Liberia",
+      "iso3": "LBR",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "LR"
+    },
+    {
+      "id": "ltu",
+      "name": "Lithuania",
+      "iso3": "LTU",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "LT"
+    },
+    {
+      "id": "lux",
+      "name": "Luxembourg",
+      "iso3": "LUX",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "LU"
+    },
+    {
+      "id": "mwi",
+      "name": "Malawi",
+      "iso3": "MWI",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "MW"
+    },
+    {
+      "id": "mys",
+      "name": "Malaysia",
+      "iso3": "MYS",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "MY"
+    },
+    {
+      "id": "mdv",
+      "name": "Maldives",
+      "iso3": "MDV",
+      "region": "South Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "MV"
+    },
+    {
+      "id": "mlt",
+      "name": "Malta",
+      "iso3": "MLT",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "MT"
+    },
+    {
+      "id": "mus",
+      "name": "Mauritius",
+      "iso3": "MUS",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "MU"
+    },
+    {
+      "id": "mda",
+      "name": "Moldova",
+      "iso3": "MDA",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "MD"
+    },
+    {
+      "id": "mng",
+      "name": "Mongolia",
+      "iso3": "MNG",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "MN"
+    },
+    {
+      "id": "mne",
+      "name": "Montenegro",
+      "iso3": "MNE",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "ME"
+    },
+    {
+      "id": "nam",
+      "name": "Namibia",
+      "iso3": "NAM",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "NA"
+    },
+    {
+      "id": "npl",
+      "name": "Nepal",
+      "iso3": "NPL",
+      "region": "South Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "NP"
+    },
+    {
+      "id": "nld",
+      "name": "Netherlands",
+      "iso3": "NLD",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "NL"
+    },
+    {
+      "id": "nzl",
+      "name": "New Zealand",
+      "iso3": "NZL",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "NZ"
+    },
+    {
+      "id": "nga",
+      "name": "Nigeria",
+      "iso3": "NGA",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "NG"
+    },
+    {
+      "id": "mkd",
+      "name": "North Macedonia",
+      "iso3": "MKD",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "MK"
+    },
+    {
+      "id": "nor",
+      "name": "Norway",
+      "iso3": "NOR",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "NO"
+    },
+    {
+      "id": "pan",
+      "name": "Panama",
+      "iso3": "PAN",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "PA"
+    },
+    {
+      "id": "pry",
+      "name": "Paraguay",
+      "iso3": "PRY",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "PY"
+    },
+    {
+      "id": "per",
+      "name": "Peru",
+      "iso3": "PER",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "PE"
+    },
+    {
+      "id": "pol",
+      "name": "Poland",
+      "iso3": "POL",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "PL"
+    },
+    {
+      "id": "prt",
+      "name": "Portugal",
+      "iso3": "PRT",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "PT"
+    },
+    {
+      "id": "rou",
+      "name": "Romania",
+      "iso3": "ROU",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "RO"
+    },
+    {
+      "id": "stp",
+      "name": "Sao Tome and Principe",
+      "iso3": "STP",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "ST"
+    },
+    {
+      "id": "sen",
+      "name": "Senegal",
+      "iso3": "SEN",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "SN"
+    },
+    {
+      "id": "syc",
+      "name": "Seychelles",
+      "iso3": "SYC",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "SC"
+    },
+    {
+      "id": "svk",
+      "name": "Slovakia",
+      "iso3": "SVK",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "SK"
+    },
+    {
+      "id": "svn",
+      "name": "Slovenia",
+      "iso3": "SVN",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "SI"
+    },
+    {
+      "id": "slb",
+      "name": "Solomon Islands",
+      "iso3": "SLB",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "SB"
+    },
+    {
+      "id": "zaf",
+      "name": "South Africa",
+      "iso3": "ZAF",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "ZA"
+    },
+    {
+      "id": "kor",
+      "name": "South Korea",
+      "iso3": "KOR",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "KR"
+    },
+    {
+      "id": "esp",
+      "name": "Spain",
+      "iso3": "ESP",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "ES"
+    },
+    {
+      "id": "lka",
+      "name": "Sri Lanka",
+      "iso3": "LKA",
+      "region": "South Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "LK"
+    },
+    {
+      "id": "sur",
+      "name": "Suriname",
+      "iso3": "SUR",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "SR"
+    },
+    {
+      "id": "swe",
+      "name": "Sweden",
+      "iso3": "SWE",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "SE"
+    },
+    {
+      "id": "che",
+      "name": "Switzerland",
+      "iso3": "CHE",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "CH"
+    },
+    {
+      "id": "twn",
+      "name": "Taiwan",
+      "iso3": "TWN",
+      "region": "Global",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "TW"
+    },
+    {
+      "id": "gmb",
+      "name": "The Gambia",
+      "iso3": "GMB",
+      "region": "Sub-Saharan Africa ",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "GM"
+    },
+    {
+      "id": "tls",
+      "name": "Timor-Leste",
+      "iso3": "TLS",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "TL"
+    },
+    {
+      "id": "tto",
+      "name": "Trinidad and Tobago",
+      "iso3": "TTO",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "TT"
+    },
+    {
+      "id": "gbr",
+      "name": "United Kingdom",
+      "iso3": "GBR",
+      "region": "Europe & Central Asia",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "GB"
+    },
+    {
+      "id": "usa",
+      "name": "United States of America",
+      "iso3": "USA",
+      "region": "North America",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "US"
+    },
+    {
+      "id": "ury",
+      "name": "Uruguay",
+      "iso3": "URY",
+      "region": "Latin America & Caribbean ",
+      "eligibility": "v-dem:liberal-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "UY"
+    },
+    {
+      "id": "vut",
+      "name": "Vanuatu",
+      "iso3": "VUT",
+      "region": "East Asia & Pacific",
+      "eligibility": "v-dem:electoral-democracy",
+      "is_exception": false,
+      "forecast_enabled": false,
+      "flag": "VU"
+    }
+  ]
+}

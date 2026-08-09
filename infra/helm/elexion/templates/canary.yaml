@@ -1,0 +1,73 @@
+{{- if .Values.canary.enabled }}
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-canary-api
+spec:
+  replicas: 1
+  minReadySeconds: 15
+  progressDeadlineSeconds: 300
+  selector:
+    matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: canary-api }
+  template:
+    metadata:
+      labels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: canary-api }
+    spec:
+      securityContext: { runAsNonRoot: true, seccompProfile: { type: RuntimeDefault } }
+      {{- with .Values.imagePullSecrets }}
+      imagePullSecrets: {{- toYaml . | nindent 8 }}
+      {{- end }}
+      containers:
+        - name: api
+          image: {{ .Values.canary.apiImage | quote }}
+          imagePullPolicy: {{ .Values.imagePullPolicy }}
+          ports: [{ name: http, containerPort: 8000 }]
+          envFrom: [{ secretRef: { name: {{ .Values.secrets.existingSecret }} } }]
+          startupProbe: { httpGet: { path: /health, port: http }, failureThreshold: 45, periodSeconds: 2 }
+          readinessProbe: { httpGet: { path: /health, port: http }, periodSeconds: 5 }
+          resources: {{- toYaml .Values.api.resources | nindent 12 }}
+          securityContext: { allowPrivilegeEscalation: false, capabilities: { drop: ["ALL"] }, readOnlyRootFilesystem: true }
+---
+apiVersion: v1
+kind: Service
+metadata: { name: {{ .Release.Name }}-canary-api }
+spec:
+  selector: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: canary-api }
+  ports: [{ name: http, port: 8000, targetPort: http }]
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-canary-web
+spec:
+  replicas: 1
+  minReadySeconds: 15
+  progressDeadlineSeconds: 300
+  selector:
+    matchLabels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: canary-web }
+  template:
+    metadata:
+      labels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: canary-web }
+    spec:
+      securityContext: { runAsNonRoot: true, seccompProfile: { type: RuntimeDefault } }
+      {{- with .Values.imagePullSecrets }}
+      imagePullSecrets: {{- toYaml . | nindent 8 }}
+      {{- end }}
+      containers:
+        - name: web
+          image: {{ .Values.canary.webImage | quote }}
+          imagePullPolicy: {{ .Values.imagePullPolicy }}
+          ports: [{ name: http, containerPort: 3000 }]
+          env:
+            - { name: API_INTERNAL_URL, value: {{ printf "http://%s-canary-api:8000" .Release.Name | quote }} }
+          readinessProbe: { httpGet: { path: /, port: http }, initialDelaySeconds: 4, periodSeconds: 5 }
+          resources: {{- toYaml .Values.web.resources | nindent 12 }}
+          securityContext: { allowPrivilegeEscalation: false, capabilities: { drop: ["ALL"] }, readOnlyRootFilesystem: true }
+---
+apiVersion: v1
+kind: Service
+metadata: { name: {{ .Release.Name }}-canary-web }
+spec:
+  selector: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: canary-web }
+  ports: [{ name: http, port: 3000, targetPort: http }]
+{{- end }}

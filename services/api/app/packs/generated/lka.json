@@ -1,0 +1,61 @@
+{
+  "coalition_constraints": [],
+  "election": {
+    "contestants": [],
+    "date_confidence": "tbd",
+    "election_date": null,
+    "id": "lka-next-national",
+    "jurisdiction_id": "lka",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "name": "Next National Election",
+    "sources": [
+      {
+        "authority": "official reference",
+        "label": "Election Commission of Sri Lanka",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://elections.gov.lk/",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "source_id": "lka_electoral_authority_reference",
+        "url": "https://elections.gov.lk/"
+      }
+    ],
+    "status": "TBD — awaiting an approved official calendar release",
+    "system": "unresolved"
+  },
+  "feature_priors": {
+    "status": "unresolved"
+  },
+  "jurisdiction": {
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "coverage_status": "mechanics_blocked",
+    "eligibility": "v-dem:electoral-democracy",
+    "flag": "LK",
+    "forecast_enabled": false,
+    "id": "lka",
+    "is_exception": false,
+    "iso3": "LKA",
+    "name": "Sri Lanka",
+    "region": "South Asia"
+  },
+  "map": {
+    "geometry_status": "suppressed_until_validated",
+    "level": "national"
+  },
+  "rules": {
+    "authority_url": "https://elections.gov.lk/",
+    "engine": "unresolved",
+    "validation_status": "mechanics_blocked"
+  },
+  "source_adapters": [
+    {
+      "formats": [
+        "html"
+      ],
+      "source_id": "lka_electoral_authority_reference",
+      "status": "reference_only_no_ingestion"
+    }
+  ]
+}

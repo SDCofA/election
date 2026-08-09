@@ -1,0 +1,104 @@
+name: Deploy
+on:
+  workflow_dispatch:
+    inputs:
+      image_tag:
+        description: Signed container tag to deploy
+        required: true
+        type: string
+      environment:
+        description: GitHub environment
+        required: true
+        default: production
+        type: string
+permissions:
+  contents: read
+  packages: read
+  id-token: write
+concurrency:
+  group: elexion-${{ inputs.environment }}
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: azure/setup-helm@v4
+      - uses: sigstore/cosign-installer@6f9f17788090df1f26f669e9d70d6ae9567deba6 # v4.1.2
+      - name: Verify keyless image signatures
+        env:
+          IMAGE_TAG: ${{ inputs.image_tag }}
+        run: |
+          identity="https://github.com/${GITHUB_REPOSITORY}/.github/workflows/publish.yml@refs/tags/v.*"
+          for component in api web pipeline; do
+            cosign verify \
+              --certificate-identity-regexp "${identity}" \
+              --certificate-oidc-issuer "https://token.actions.githubusercontent.com" \
+              "ghcr.io/${GITHUB_REPOSITORY_OWNER}/elexion-${component}:${IMAGE_TAG}"
+          done
+      - name: Configure Kubernetes with GitHub OIDC
+        env:
+          KUBE_SERVER: ${{ secrets.KUBE_SERVER }}
+          KUBE_CA_DATA: ${{ secrets.KUBE_CA_DATA }}
+        run: |
+          token_url="${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=kubernetes"
+          oidc_token="$(curl --fail --silent --show-error \
+            -H "Authorization: bearer ${ACTIONS_ID_TOKEN_REQUEST_TOKEN}" \
+            "${token_url}" | jq -r '.value')"
+          echo "::add-mask::${oidc_token}"
+          kubectl config set-cluster elexion --server="${KUBE_SERVER}" --certificate-authority=<(echo "${KUBE_CA_DATA}" | base64 --decode) --embed-certs=true
+          kubectl config set-credentials github-oidc --token="${oidc_token}"
+          kubectl config set-context elexion --cluster=elexion --user=github-oidc --namespace="${{ vars.KUBE_NAMESPACE }}"
+          kubectl config use-context elexion
+      - name: Detect existing release
+        id: release
+        run: |
+          if helm status elexion --namespace "${{ vars.KUBE_NAMESPACE }}" >/dev/null 2>&1; then
+            echo "exists=true" >> "${GITHUB_OUTPUT}"
+          else
+            echo "exists=false" >> "${GITHUB_OUTPUT}"
+          fi
+      - name: Stage isolated canary
+        if: steps.release.outputs.exists == 'true'
+        run: |
+          helm upgrade elexion infra/helm/elexion \
+            --namespace "${{ vars.KUBE_NAMESPACE }}" \
+            --reuse-values --atomic --wait --timeout 10m \
+            --set canary.enabled=true \
+            --set-string migrations.image="ghcr.io/${{ github.repository_owner }}/elexion-pipeline:${{ inputs.image_tag }}" \
+            --set-string canary.apiImage="ghcr.io/${{ github.repository_owner }}/elexion-api:${{ inputs.image_tag }}" \
+            --set-string canary.webImage="ghcr.io/${{ github.repository_owner }}/elexion-web:${{ inputs.image_tag }}"
+          kubectl rollout status deployment/elexion-canary-api --timeout=3m
+          kubectl rollout status deployment/elexion-canary-web --timeout=3m
+      - name: Smoke canary through cluster services
+        if: steps.release.outputs.exists == 'true'
+        run: |
+          kubectl run "elexion-canary-smoke-${GITHUB_RUN_ID}" \
+            --namespace "${{ vars.KUBE_NAMESPACE }}" \
+            --image=curlimages/curl:8.12.1 --restart=Never --rm --attach \
+            --command -- sh -ec \
+            'curl --fail --retry 12 --retry-all-errors http://elexion-canary-api:8000/health && curl --fail --retry 12 --retry-all-errors http://elexion-canary-web:3000/v1/catalog/status'
+      - name: Atomic production promotion
+        run: |
+          helm upgrade --install elexion infra/helm/elexion \
+            --namespace "${{ vars.KUBE_NAMESPACE }}" \
+            --create-namespace \
+            --atomic --wait --timeout 10m \
+            --set canary.enabled=false \
+            --set-string api.image="ghcr.io/${{ github.repository_owner }}/elexion-api:${{ inputs.image_tag }}" \
+            --set-string web.image="ghcr.io/${{ github.repository_owner }}/elexion-web:${{ inputs.image_tag }}" \
+            --set-string pipeline.image="ghcr.io/${{ github.repository_owner }}/elexion-pipeline:${{ inputs.image_tag }}"
+      - name: Verify rollout
+        run: |
+          kubectl rollout status deployment/elexion-api --timeout=3m
+          kubectl rollout status deployment/elexion-web --timeout=3m
+          kubectl rollout status deployment/elexion-dagster-webserver --timeout=3m
+          kubectl rollout status deployment/elexion-dagster-daemon --timeout=3m
+      - name: Remove canary resources after failure or promotion
+        if: always() && steps.release.outputs.exists == 'true'
+        run: |
+          helm upgrade elexion infra/helm/elexion \
+            --namespace "${{ vars.KUBE_NAMESPACE }}" \
+            --reuse-values --atomic --wait --timeout 10m \
+            --set canary.enabled=false

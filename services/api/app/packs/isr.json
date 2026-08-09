@@ -1,0 +1,65 @@
+{
+  "jurisdiction": {
+    "id": "isr",
+    "name": "Israel",
+    "iso3": "ISR",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Official candidate lists and surplus-vote agreements are not final",
+      "Official election webpages do not declare approved machine-reuse terms"
+    ],
+    "flag": "IL"
+  },
+  "source_adapters": [
+    {
+      "source_id": "israel_election_authorities_web",
+      "status": "blocked_license_reference_only",
+      "formats": ["html", "pdf"]
+    }
+  ],
+  "rules": {
+    "engine": "proportional",
+    "seats": 120,
+    "national_threshold": 0.0325,
+    "districts": 1,
+    "allocation": "Bader-Ofer proportional allocation with registered surplus-vote agreements"
+  },
+  "election": {
+    "id": "il-2026-knesset",
+    "jurisdiction_id": "isr",
+    "name": "2026 Knesset Election",
+    "election_date": "2026-10-27",
+    "date_confidence": "official",
+    "system": "proportional",
+    "seats_total": 120,
+    "majority": 61,
+    "threshold": 0.0325,
+    "status": "mechanics blocked; official scheduled date and national rules verified",
+    "last_updated": "2026-08-09T12:00:00Z",
+    "contestants": [],
+    "sources": [
+      {
+        "source_id": "israel_election_authorities_web",
+        "label": "Central Elections Committee election timeline",
+        "url": "https://www.gov.il/he/departments/dynamiccollectors/election-timeline26",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T12:00:00Z",
+        "license": "UNVERIFIED-REUSE",
+        "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
+      },
+      {
+        "source_id": "israel_election_authorities_web",
+        "label": "Knesset electoral system",
+        "url": "https://main.knesset.gov.il/EN/mk/pages/elections.aspx",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T12:00:00Z",
+        "license": "UNVERIFIED-REUSE",
+        "license_url": "https://main.knesset.gov.il/About/pages/termsofuse.aspx"
+      }
+    ]
+  }
+}

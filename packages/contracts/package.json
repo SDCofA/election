@@ -1,0 +1,7 @@
+{
+  "name": "@elexion/contracts",
+  "version": "0.2.0",
+  "private": true,
+  "types": "openapi.d.ts",
+  "files": ["openapi.d.ts", "openapi-v1.json"]
+}

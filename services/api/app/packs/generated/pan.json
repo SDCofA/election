@@ -1,0 +1,61 @@
+{
+  "coalition_constraints": [],
+  "election": {
+    "contestants": [],
+    "date_confidence": "tbd",
+    "election_date": null,
+    "id": "pan-next-national",
+    "jurisdiction_id": "pan",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "name": "Next National Election",
+    "sources": [
+      {
+        "authority": "official reference",
+        "label": "Tribunal Electoral Panama",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.tribunal-electoral.gob.pa/",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "source_id": "pan_electoral_authority_reference",
+        "url": "https://www.tribunal-electoral.gob.pa/"
+      }
+    ],
+    "status": "TBD — awaiting an approved official calendar release",
+    "system": "unresolved"
+  },
+  "feature_priors": {
+    "status": "unresolved"
+  },
+  "jurisdiction": {
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "coverage_status": "mechanics_blocked",
+    "eligibility": "v-dem:electoral-democracy",
+    "flag": "PA",
+    "forecast_enabled": false,
+    "id": "pan",
+    "is_exception": false,
+    "iso3": "PAN",
+    "name": "Panama",
+    "region": "Latin America & Caribbean "
+  },
+  "map": {
+    "geometry_status": "suppressed_until_validated",
+    "level": "national"
+  },
+  "rules": {
+    "authority_url": "https://www.tribunal-electoral.gob.pa/",
+    "engine": "unresolved",
+    "validation_status": "mechanics_blocked"
+  },
+  "source_adapters": [
+    {
+      "formats": [
+        "html"
+      ],
+      "source_id": "pan_electoral_authority_reference",
+      "status": "reference_only_no_ingestion"
+    }
+  ]
+}

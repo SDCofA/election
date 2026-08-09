@@ -1,0 +1,67 @@
+{
+  "jurisdiction": {
+    "id": "lva",
+    "name": "Latvia",
+    "iso3": "LVA",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "mechanics_blocked",
+    "blocking_reasons": [
+      "Official candidate lists are available, but canonical party mapping and five-district seat-model verification are incomplete",
+      "The official calendar webpage is all-rights-reserved; no reusable machine-readable calendar feed is approved"
+    ],
+    "flag": "LV"
+  },
+  "source_adapters": [
+    {
+      "source_id": "latvia_cvk_open_data",
+      "status": "approved",
+      "formats": ["json", "xml", "csv"]
+    },
+    {
+      "source_id": "latvia_cvk_web",
+      "status": "blocked_license_reference_only",
+      "formats": ["html"]
+    }
+  ],
+  "rules": {
+    "engine": "proportional",
+    "seats": 100,
+    "national_threshold": 0.05,
+    "allocation": "five-district proportional allocation under Saeima Election Law",
+    "district_seats": {
+      "riga": 38,
+      "vidzeme": 26,
+      "latgale": 12,
+      "kurzeme": 11,
+      "zemgale": 13
+    }
+  },
+  "election": {
+    "id": "lv-2026-saeima",
+    "jurisdiction_id": "lva",
+    "name": "2026 Saeima Election",
+    "election_date": "2026-10-03",
+    "date_confidence": "official",
+    "system": "proportional",
+    "seats_total": 100,
+    "majority": 51,
+    "threshold": 0.05,
+    "status": "mechanics blocked; official date and district seats verified",
+    "last_updated": "2026-08-09T12:00:00Z",
+    "contestants": [],
+    "sources": [
+      {
+        "source_id": "latvia_cvk_web",
+        "label": "Central Election Commission of Latvia",
+        "url": "https://www.cvk.lv/lv/velesanu-iecirkni",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T12:00:00Z",
+        "license": "ALL-RIGHTS-RESERVED",
+        "license_url": "https://www.cvk.lv/lv/velesanu-iecirkni"
+      }
+    ]
+  }
+}

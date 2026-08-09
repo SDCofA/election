@@ -1,0 +1,43 @@
+{{- if .Values.backup.enabled }}
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: {{ .Release.Name }}-postgres-backup
+spec:
+  schedule: {{ .Values.backup.schedule | quote }}
+  concurrencyPolicy: Forbid
+  successfulJobsHistoryLimit: {{ .Values.backup.successfulJobsHistoryLimit }}
+  failedJobsHistoryLimit: {{ .Values.backup.failedJobsHistoryLimit }}
+  jobTemplate:
+    spec:
+      backoffLimit: 2
+      activeDeadlineSeconds: 3600
+      template:
+        metadata:
+          labels: { app.kubernetes.io/instance: {{ .Release.Name }}, app.kubernetes.io/component: backup }
+        spec:
+          restartPolicy: Never
+          securityContext: { runAsNonRoot: true, seccompProfile: { type: RuntimeDefault } }
+          containers:
+            - name: postgres-backup
+              image: {{ .Values.pipeline.image | quote }}
+              imagePullPolicy: {{ .Values.imagePullPolicy }}
+              command: ["python", "-m", "elexion_pipeline.backup"]
+              envFrom: [{ secretRef: { name: {{ .Values.secrets.existingSecret }} } }]
+              env:
+                - { name: ELEXION_S3_BUCKET, value: {{ .Values.config.s3Bucket | quote }} }
+                - { name: ELEXION_BACKUP_PREFIX, value: {{ .Values.backup.s3Prefix | quote }} }
+                - { name: ELEXION_BACKUP_ENCRYPTION, value: {{ .Values.backup.encryption | quote }} }
+                {{- with .Values.backup.kmsKeyId }}
+                - { name: ELEXION_BACKUP_KMS_KEY_ID, value: {{ . | quote }} }
+                {{- end }}
+              resources:
+                requests: { cpu: 100m, memory: 256Mi }
+                limits: { cpu: "1", memory: 1Gi }
+              volumeMounts:
+                - { name: temporary, mountPath: /tmp }
+              securityContext: { allowPrivilegeEscalation: false, capabilities: { drop: ["ALL"] }, readOnlyRootFilesystem: true }
+          volumes:
+            - name: temporary
+              emptyDir: { sizeLimit: 10Gi }
+{{- end }}

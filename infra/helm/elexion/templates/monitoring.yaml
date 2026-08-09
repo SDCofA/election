@@ -1,0 +1,88 @@
+{{- if .Values.monitoring.prometheusRule.enabled }}
+apiVersion: monitoring.coreos.com/v1
+kind: PrometheusRule
+metadata:
+  name: {{ .Release.Name }}-alerts
+  {{- with .Values.monitoring.prometheusRule.namespace }}
+  namespace: {{ . }}
+  {{- end }}
+  labels:
+    app.kubernetes.io/instance: {{ .Release.Name }}
+spec:
+  groups:
+    - name: elexion.api
+      rules:
+        - alert: ElexionApiMetricsAbsent
+          expr: absent(elexion_http_requests_total)
+          for: 10m
+          labels: { severity: critical }
+          annotations:
+            summary: Elexion API metrics are absent
+            description: Prometheus has not observed the API request counter for ten minutes.
+        - alert: ElexionApiP95LatencyHigh
+          expr: histogram_quantile(0.95, sum by (le) (rate(elexion_http_request_duration_seconds_bucket[5m]))) > 0.3
+          for: 10m
+          labels: { severity: warning }
+          annotations:
+            summary: Elexion API p95 latency exceeds 300 ms
+            description: Five-minute request latency has breached the public forecast SLO.
+        - alert: ElexionApiErrorRateHigh
+          expr: sum(rate(elexion_http_requests_total{status=~"5.."}[5m])) / clamp_min(sum(rate(elexion_http_requests_total[5m])), 0.001) > 0.05
+          for: 10m
+          labels: { severity: critical }
+          annotations:
+            summary: Elexion API error rate exceeds 5 percent
+            description: Server errors exceed the ten-minute publication availability gate.
+        - alert: ElexionForecastStale
+          expr: max by (election_id) (elexion_forecast_age_seconds) > 90000
+          for: 15m
+          labels: { severity: critical }
+          annotations:
+            summary: Elexion forecast is older than the daily freshness SLO
+            description: Latest valid snapshot for {{ "{{" }} $labels.election_id {{ "}}" }} is more than 25 hours old.
+        - alert: ElexionPipelineTelemetryUnavailable
+          expr: elexion_pipeline_telemetry_up == 0
+          for: 15m
+          labels: { severity: critical }
+          annotations:
+            summary: Pipeline telemetry database is unavailable
+            description: API metrics cannot read durable Dagster and adapter health events.
+        - alert: ElexionDailyPipelineStale
+          expr: time() - elexion_pipeline_last_success_timestamp_seconds{job_name="refresh_forecasts"} > 90000
+          for: 15m
+          labels: { severity: critical }
+          annotations:
+            summary: Daily forecast pipeline has not succeeded within 25 hours
+            description: Latest durable refresh_forecasts success is outside the freshness SLO.
+        - alert: ElexionDailyPipelineNeverSucceeded
+          expr: absent(elexion_pipeline_last_success_timestamp_seconds{job_name="refresh_forecasts"})
+          for: 30h
+          labels: { severity: critical }
+          annotations:
+            summary: Daily forecast pipeline has no recorded success
+            description: No durable refresh_forecasts success appeared within thirty hours.
+        - alert: ElexionAdapterFailure
+          expr: increase(elexion_adapter_failures_total[15m]) > 0
+          labels: { severity: warning }
+          annotations:
+            summary: Official-source adapter entered fallback
+            description: Adapter {{ "{{" }} $labels.adapter_id {{ "}}" }} failed for {{ "{{" }} $labels.scope_id {{ "}}" }}.
+        - alert: ElexionSourceDrift
+          expr: increase(elexion_adapter_failures_total{failure_kind=~"parser_drift|source_drift"}[15m]) > 0
+          labels: { severity: critical }
+          annotations:
+            summary: Official-source parser or monotonicity contract drifted
+            description: Last-known-good data remains active while the source contract is investigated.
+        - alert: ElexionInvalidLiveEvents
+          expr: increase(elexion_live_events_invalid_total[10m]) > 0
+          labels: { severity: warning }
+          annotations:
+            summary: Invalid election event envelopes rejected
+            description: At least one malformed or unverifiable live event was rejected.
+        - alert: ElexionSlowSseConsumers
+          expr: increase(elexion_live_events_dropped_total[10m]) > 0
+          labels: { severity: warning }
+          annotations:
+            summary: SSE messages dropped for slow clients
+            description: Subscriber backpressure exceeded the bounded event queue.
+{{- end }}

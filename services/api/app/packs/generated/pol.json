@@ -1,0 +1,61 @@
+{
+  "coalition_constraints": [],
+  "election": {
+    "contestants": [],
+    "date_confidence": "tbd",
+    "election_date": null,
+    "id": "pol-next-national",
+    "jurisdiction_id": "pol",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "name": "Next National Election",
+    "sources": [
+      {
+        "authority": "official reference",
+        "label": "National Electoral Commission Poland",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://pkw.gov.pl/",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "source_id": "pol_electoral_authority_reference",
+        "url": "https://pkw.gov.pl/"
+      }
+    ],
+    "status": "TBD — awaiting an approved official calendar release",
+    "system": "unresolved"
+  },
+  "feature_priors": {
+    "status": "unresolved"
+  },
+  "jurisdiction": {
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "coverage_status": "mechanics_blocked",
+    "eligibility": "v-dem:electoral-democracy",
+    "flag": "PL",
+    "forecast_enabled": false,
+    "id": "pol",
+    "is_exception": false,
+    "iso3": "POL",
+    "name": "Poland",
+    "region": "Europe & Central Asia"
+  },
+  "map": {
+    "geometry_status": "suppressed_until_validated",
+    "level": "national"
+  },
+  "rules": {
+    "authority_url": "https://pkw.gov.pl/",
+    "engine": "unresolved",
+    "validation_status": "mechanics_blocked"
+  },
+  "source_adapters": [
+    {
+      "formats": [
+        "html"
+      ],
+      "source_id": "pol_electoral_authority_reference",
+      "status": "reference_only_no_ingestion"
+    }
+  ]
+}

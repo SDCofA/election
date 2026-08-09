@@ -1,0 +1,61 @@
+{
+  "coalition_constraints": [],
+  "election": {
+    "contestants": [],
+    "date_confidence": "tbd",
+    "election_date": null,
+    "id": "mne-next-national",
+    "jurisdiction_id": "mne",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "name": "Next National Election",
+    "sources": [
+      {
+        "authority": "official reference",
+        "label": "State Election Commission Montenegro",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://dik.co.me/",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "source_id": "mne_electoral_authority_reference",
+        "url": "https://dik.co.me/"
+      }
+    ],
+    "status": "TBD — awaiting an approved official calendar release",
+    "system": "unresolved"
+  },
+  "feature_priors": {
+    "status": "unresolved"
+  },
+  "jurisdiction": {
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "coverage_status": "mechanics_blocked",
+    "eligibility": "v-dem:electoral-democracy",
+    "flag": "ME",
+    "forecast_enabled": false,
+    "id": "mne",
+    "is_exception": false,
+    "iso3": "MNE",
+    "name": "Montenegro",
+    "region": "Europe & Central Asia"
+  },
+  "map": {
+    "geometry_status": "suppressed_until_validated",
+    "level": "national"
+  },
+  "rules": {
+    "authority_url": "https://dik.co.me/",
+    "engine": "unresolved",
+    "validation_status": "mechanics_blocked"
+  },
+  "source_adapters": [
+    {
+      "formats": [
+        "html"
+      ],
+      "source_id": "mne_electoral_authority_reference",
+      "status": "reference_only_no_ingestion"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "coalition_constraints": [],
+  "election": {
+    "contestants": [],
+    "date_confidence": "tbd",
+    "election_date": null,
+    "id": "ury-next-national",
+    "jurisdiction_id": "ury",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "name": "Next National Election",
+    "sources": [
+      {
+        "authority": "official reference",
+        "label": "Corte Electoral Uruguay",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.gub.uy/corte-electoral/",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "source_id": "ury_electoral_authority_reference",
+        "url": "https://www.gub.uy/corte-electoral/"
+      }
+    ],
+    "status": "TBD — awaiting an approved official calendar release",
+    "system": "unresolved"
+  },
+  "feature_priors": {
+    "status": "unresolved"
+  },
+  "jurisdiction": {
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "coverage_status": "mechanics_blocked",
+    "eligibility": "v-dem:liberal-democracy",
+    "flag": "UY",
+    "forecast_enabled": false,
+    "id": "ury",
+    "is_exception": false,
+    "iso3": "URY",
+    "name": "Uruguay",
+    "region": "Latin America & Caribbean "
+  },
+  "map": {
+    "geometry_status": "suppressed_until_validated",
+    "level": "national"
+  },
+  "rules": {
+    "authority_url": "https://www.gub.uy/corte-electoral/",
+    "engine": "unresolved",
+    "validation_status": "mechanics_blocked"
+  },
+  "source_adapters": [
+    {
+      "formats": [
+        "html"
+      ],
+      "source_id": "ury_electoral_authority_reference",
+      "status": "reference_only_no_ingestion"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "coalition_constraints": [],
+  "election": {
+    "contestants": [],
+    "date_confidence": "tbd",
+    "election_date": null,
+    "id": "prt-next-national",
+    "jurisdiction_id": "prt",
+    "last_updated": "2026-08-09T09:00:00Z",
+    "name": "Next National Election",
+    "sources": [
+      {
+        "authority": "official reference",
+        "label": "Comissão Nacional de Eleições Portugal",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.cne.pt/",
+        "retrieved_at": "2026-08-09T09:00:00Z",
+        "source_id": "prt_electoral_authority_reference",
+        "url": "https://www.cne.pt/"
+      }
+    ],
+    "status": "TBD — awaiting an approved official calendar release",
+    "system": "unresolved"
+  },
+  "feature_priors": {
+    "status": "unresolved"
+  },
+  "jurisdiction": {
+    "blocking_reasons": [
+      "Next national election date has not been captured from an approved reusable authority release",
+      "Electoral mechanics and contestant identities remain unresolved"
+    ],
+    "coverage_status": "mechanics_blocked",
+    "eligibility": "v-dem:electoral-democracy",
+    "flag": "PT",
+    "forecast_enabled": false,
+    "id": "prt",
+    "is_exception": false,
+    "iso3": "PRT",
+    "name": "Portugal",
+    "region": "Europe & Central Asia"
+  },
+  "map": {
+    "geometry_status": "suppressed_until_validated",
+    "level": "national"
+  },
+  "rules": {
+    "authority_url": "https://www.cne.pt/",
+    "engine": "unresolved",
+    "validation_status": "mechanics_blocked"
+  },
+  "source_adapters": [
+    {
+      "formats": [
+        "html"
+      ],
+      "source_id": "prt_electoral_authority_reference",
+      "status": "reference_only_no_ingestion"
+    }
+  ]
+}

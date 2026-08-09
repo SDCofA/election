@@ -1,0 +1,69 @@
+{
+  "jurisdiction": {
+    "id": "bra",
+    "name": "Brazil",
+    "iso3": "BRA",
+    "region": "Latin America & Caribbean",
+    "eligibility": "v-dem:electoral-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Official contestant registration remains unresolved"
+    ],
+    "flag": "BR"
+  },
+  "source_adapters": [
+    {
+      "source_id": "brazil_tse",
+      "status": "approved",
+      "formats": ["html", "pdf", "csv", "zip"]
+    }
+  ],
+  "calendar_feeds": [
+    {
+      "source_id": "brazil_tse",
+      "endpoint": "/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026",
+      "parser_version": "brazil-tse-calendar-v1",
+      "election_date": "2026-10-04",
+      "date_confidence": "official",
+      "status": "calendar only; official contestant registration unresolved",
+      "released_at": "2026-02-26T00:00:00-03:00",
+      "available_at": "2026-02-26T00:00:00-03:00",
+      "required_markers": [
+        "4 de outubro de 2026",
+        "25 de outubro de 2026",
+        "Presidente e Vice-Presidente da República"
+      ]
+    }
+  ],
+  "rules": {
+    "engine": "presidential_runoff",
+    "rounds": 2,
+    "first_round_threshold": 0.5,
+    "second_round_date": "2026-10-25",
+    "office": "President and Vice President"
+  },
+  "election": {
+    "id": "br-2026-president",
+    "jurisdiction_id": "bra",
+    "name": "2026 Presidential Election",
+    "election_date": "2026-10-04",
+    "date_confidence": "official",
+    "system": "presidential_runoff",
+    "status": "calendar only; official contestant registration unresolved",
+    "last_updated": "2026-08-09T12:00:00Z",
+    "contestants": [],
+    "sources": [
+      {
+        "source_id": "brazil_tse",
+        "label": "Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T12:00:00Z",
+        "license": "CC-BY-4.0",
+        "license_url": "https://dadosabertos.tse.jus.br/dataset/?license_id=cc-by"
+      }
+    ]
+  }
+}

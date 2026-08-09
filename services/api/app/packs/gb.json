@@ -1,0 +1,23 @@
+{
+  "jurisdiction": {"id":"gbr","name":"United Kingdom","iso3":"GBR","region":"Europe","eligibility":"v-dem:liberal-democracy","is_exception":false,"forecast_enabled":true,"flag":"GB"},
+  "source_adapters":[{"source_id":"uk_electoral_commission","status":"approved","formats":["json"]}],
+  "rules":{"engine":"fptp","district_magnitude":1,"seats":650,"district_model_required_for_grade_above_C":true},
+  "election": {
+    "id":"gb-next-commons","jurisdiction_id":"gbr","name":"Next House of Commons Election","election_date":"2029-08-15","date_confidence":"legal-latest-date estimate","system":"fptp","seats_total":650,"majority":326,"threshold":0.0,"status":"date projected","last_updated":"2026-08-09T09:00:00Z",
+    "contestants":[
+      {"id":"lab","name":"Labour Party","short_name":"LAB","color":"#ef3b4f","incumbent":true,"ideology":"Centre-left"},
+      {"id":"con","name":"Conservative Party","short_name":"CON","color":"#2188e8","ideology":"Centre-right"},
+      {"id":"ref","name":"Reform UK","short_name":"REF","color":"#2bd0d0","ideology":"Right"},
+      {"id":"ld","name":"Liberal Democrats","short_name":"LD","color":"#f5bf25","ideology":"Centre"},
+      {"id":"other","name":"Other parties","short_name":"OTH","color":"#8795a8","ideology":"Mixed"}
+    ],
+    "sources":[{"source_id":"uk_electoral_commission","label":"UK Electoral Commission","url":"https://www.electoralcommission.org.uk/","authority":"official","retrieved_at":"2026-08-09T09:00:00Z","license":"EC-OGL-TERMS","license_url":"https://api.electoralcommission.org.uk/terms/"}]
+  },
+  "model":{"base_shares":[0.31,0.25,0.22,0.13,0.09],"volatility":0.038,"turnout":0.61,"data_quality":"C","freshness":"illustrative open-source inputs"},
+  "drivers":[
+    {"key":"income","label":"Household income","value":"Soft","contribution":-0.23,"direction":"incumbent","confidence":0.63},
+    {"key":"fragmentation","label":"Right-bloc fragmentation","value":"Elevated","contribution":0.42,"direction":"Labour","confidence":0.76},
+    {"key":"approval","label":"Government approval","value":"Negative","contribution":-0.31,"direction":"incumbent","confidence":0.69},
+    {"key":"polling","label":"Open polling","value":"Sparse","contribution":0.12,"direction":"mixed","confidence":0.41}
+  ]
+}

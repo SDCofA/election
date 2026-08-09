@@ -1,0 +1,128 @@
+name: CI
+on:
+  pull_request:
+  push:
+    branches: [main, master]
+permissions:
+  contents: read
+jobs:
+  security:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate workflow contracts
+        run: |
+          curl --fail --location --silent --show-error \
+            --output /tmp/actionlint.tar.gz \
+            https://github.com/rhysd/actionlint/releases/download/v1.7.12/actionlint_1.7.12_linux_amd64.tar.gz
+          echo "8aca8db96f1b94770f1b0d72b6dddcb1ebb8123cb3712530b08cc387b349a3d8  /tmp/actionlint.tar.gz" | sha256sum --check
+          tar --extract --gzip --file /tmp/actionlint.tar.gz --directory /tmp actionlint
+          /tmp/actionlint -no-color
+      - uses: aquasecurity/trivy-action@ed142fd0673e97e23eac54620cfb913e5ce36c25 # v0.36.0
+        with:
+          scan-type: fs
+          scan-ref: .
+          scanners: vuln,secret,misconfig
+          severity: HIGH,CRITICAL
+          ignore-unfixed: true
+          exit-code: 1
+  api:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with: { enable-cache: true }
+      - run: uv sync --project services/api --dev --locked
+      - run: uv run --project services/api ruff check services/api/app services/api/tests
+      - run: uv run --project services/api ruff format --check services/api/app services/api/tests
+      - run: uv run --project services/api pytest -q services/api/tests
+      - run: uv run --project services/api python services/api/scripts/load_smoke.py
+      - run: uv run --project services/api python services/api/scripts/export_openapi.py --check packages/contracts/openapi-v1.json
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 24, cache: pnpm }
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm typecheck
+      - run: pnpm --filter @elexion/web lint
+      - run: pnpm contracts && git diff --exit-code -- packages/contracts/openapi.d.ts
+      - run: NEXT_PUBLIC_LOCALE=ar pnpm build
+  e2e:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with: { enable-cache: true }
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 24, cache: pnpm }
+      - run: uv sync --project services/api --locked
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm --filter @elexion/web build
+      - run: pnpm --filter @elexion/web exec playwright install --with-deps chromium
+      - run: pnpm --filter @elexion/web test:e2e
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with: { enable-cache: true }
+      - run: uv sync --project services/pipeline --dev --locked
+      - run: uv run --project services/pipeline ruff check services/pipeline/elexion_pipeline services/pipeline/tests
+      - run: uv run --project services/pipeline ruff format --check services/pipeline/elexion_pipeline services/pipeline/tests
+      - run: uv run --project services/pipeline pytest -q services/pipeline/tests
+      - run: uv run --project services/pipeline python -c "from dagster import Definitions; from elexion_pipeline.definitions import defs; Definitions.validate_loadable(defs)"
+  database:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgis/postgis:17-3.5
+        env:
+          POSTGRES_DB: elexion
+          POSTGRES_USER: elexion
+          POSTGRES_PASSWORD: test-elexion
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U elexion"
+          --health-interval 5s
+          --health-timeout 3s
+          --health-retries 20
+    env:
+      PGPASSWORD: test-elexion
+      DATABASE_URL: postgresql://elexion:test-elexion@localhost:5432/elexion
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with: { enable-cache: true }
+      - run: uv sync --project services/pipeline --locked
+      - run: uv sync --project services/api --locked
+      - run: sudo apt-get update && sudo apt-get install --yes postgresql-client
+      - run: uv run --project services/pipeline python -m elexion_pipeline.migrate --root infra/postgres
+      - run: uv run --project services/pipeline python -m elexion_pipeline.migrate --root infra/postgres
+      - run: psql -h localhost -U elexion -d elexion -v ON_ERROR_STOP=1 -f infra/postgres/002_smoke_test.sql
+      - run: uv run --project services/pipeline python services/pipeline/scripts/persistence_smoke.py
+      - name: Verify durable operational metrics
+        run: |
+          uv run --project services/api python -c "import os; from app.operational_metrics import operational_metric_lines; lines=operational_metric_lines(os.environ['DATABASE_URL']); assert 'elexion_pipeline_telemetry_up 1' in lines; assert any('refresh_forecasts' in line for line in lines); assert any('calendar-smoke' in line for line in lines)"
+      - name: Verify immutable API replay from PostgreSQL
+        run: |
+          uv run --project services/api python -c "from app.repository import get_repository; r=get_repository(); assert r.forecast_store_status == 'connected:1'; assert any(s.id == 'persistence-smoke-snapshot' for s in r.forecast_history('us-2028-president'))"
+      - name: Backup and isolated restore drill
+        run: |
+          pg_dump -h localhost -U elexion -d elexion --format=custom --file=/tmp/elexion.dump
+          createdb -h localhost -U elexion elexion_restore
+          pg_restore -h localhost -U elexion -d elexion_restore --exit-on-error /tmp/elexion.dump
+          test "$(psql -h localhost -U elexion -d elexion_restore -Atc "select count(*) from information_schema.tables where table_schema='public'")" -ge 15
+  helm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: azure/setup-helm@v4
+      - run: helm lint infra/helm/elexion
+      - run: helm template test infra/helm/elexion > /dev/null
+      - run: helm template test infra/helm/elexion --set oidc.enabled=true --set oidc.issuerUrl=https://id.example.test --set oidc.host=ops.example.test --set oidc.tlsSecret=ops-tls > /dev/null
+      - run: helm template test infra/helm/elexion --set monitoring.prometheusRule.enabled=true > /dev/null
+      - run: helm template test infra/helm/elexion --set backup.enabled=true > /dev/null

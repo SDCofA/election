@@ -1,0 +1,17 @@
+{
+  "name": "elexion-global",
+  "private": true,
+  "packageManager": "pnpm@10.28.2",
+  "scripts": {
+    "dev": "pnpm --filter @elexion/web dev",
+    "build": "pnpm --filter @elexion/web build",
+    "lint": "pnpm --filter @elexion/web lint",
+    "typecheck": "pnpm --filter @elexion/web typecheck",
+    "test:api": "uv run --project services/api pytest services/api/tests",
+    "contracts": "openapi-typescript packages/contracts/openapi-v1.json -o packages/contracts/openapi.d.ts"
+  },
+  "devDependencies": {
+    "openapi-typescript": "7.13.0",
+    "typescript": "5.9.3"
+  }
+}

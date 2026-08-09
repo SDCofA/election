@@ -1,0 +1,7 @@
+apiVersion: v2
+name: elexion
+description: Cloud-neutral Elexion Global application chart
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+

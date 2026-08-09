@@ -1,0 +1,71 @@
+{
+  "jurisdiction": {
+    "id": "swe",
+    "name": "Sweden",
+    "iso3": "SWE",
+    "region": "Europe & Central Asia",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Official party participation and candidate registration remain open"
+    ],
+    "flag": "SE"
+  },
+  "source_adapters": [
+    {
+      "source_id": "sweden_election_authority",
+      "status": "approved",
+      "formats": ["html", "csv", "json", "zip"]
+    }
+  ],
+  "calendar_feeds": [
+    {
+      "source_id": "sweden_election_authority",
+      "endpoint": "/english/future-elections/2026-elections---the-riksdag-and-regional-and-municipal-councils",
+      "parser_version": "sweden-calendar-v1",
+      "election_date": "2026-09-13",
+      "date_confidence": "official",
+      "status": "calendar only; official party and candidate registration remains open",
+      "released_at": "2026-06-18T00:00:00+02:00",
+      "available_at": "2026-06-18T00:00:00+02:00",
+      "required_markers": [
+        "Election day is 13 September 2026",
+        "elections to the Riksdag",
+        "Candidates running in the 2026 elections"
+      ]
+    }
+  ],
+  "rules": {
+    "engine": "proportional",
+    "seats": 349,
+    "national_threshold": 0.04,
+    "allocation": "adjusted Sainte-Lague with permanent and adjustment seats"
+  },
+  "election": {
+    "id": "se-2026-riksdag",
+    "jurisdiction_id": "swe",
+    "name": "2026 Riksdag Election",
+    "election_date": "2026-09-13",
+    "date_confidence": "official",
+    "system": "proportional",
+    "seats_total": 349,
+    "majority": 175,
+    "threshold": 0.04,
+    "status": "calendar only; official party and candidate registration remains open",
+    "last_updated": "2026-08-09T12:00:00Z",
+    "contestants": [],
+    "sources": [
+      {
+        "source_id": "sweden_election_authority",
+        "label": "Swedish Election Authority",
+        "url": "https://www.val.se/english/future-elections/2026-elections---the-riksdag-and-regional-and-municipal-councils",
+        "authority": "official",
+        "retrieved_at": "2026-08-09T12:00:00Z",
+        "license": "SE-ELECTION-OPEN-ATTRIBUTION",
+        "license_url": "https://www.val.se/valresultat-och-statistik/statistik-och-data/om-var-oppna-data"
+      }
+    ]
+  }
+}
