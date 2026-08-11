@@ -15,8 +15,11 @@
     "flag": "AU"
   },
   "source_adapters": [
-    {"source_id":"australia_aec","status":"approved","formats":["html","csv"]},
-    {"source_id":"australia_parliament","status":"reference_only_no_ingestion","formats":["html","pdf"]},
+    {"source_id":"australia_aec_window","status":"approved","formats":["html"]},
+    {"source_id":"australia_aec_2025_tpp","status":"approved","formats":["html","csv"]},
+    {"source_id":"australia_parliament_timing","status":"reference_only_no_ingestion","formats":["html","pdf"]},
+    {"source_id":"australia_parliament_shadow_ministry","status":"reference_only_no_ingestion","formats":["pdf"]},
+    {"source_id":"australia_alp_leadership","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"australia_wikipedia_revision_archive","status":"approved","formats":["wikitext"]}
   ],
   "backtest_dataset": "au-federal-tpp-2010-2025-v1.json",
@@ -71,7 +74,7 @@
       "National TPP is diagnostic for major-party direction but does not replace a division-level seat and crossbench model.",
       "Model-family confidence intervals overlap; the narrow Markov lead is not decisive."
     ],
-    "source_ids": ["australia_aec", "australia_wikipedia_revision_archive"]
+    "source_ids": ["australia_aec_2025_tpp", "australia_wikipedia_revision_archive"]
   },
   "model": {
     "base_shares": [0.52, 0.25, 0.23],

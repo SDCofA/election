@@ -298,6 +298,38 @@
       "content_types": ["application/json", "text/json"]
     },
     {
+      "id": "australia_aec_window",
+      "name": "Australian Electoral Commission election window",
+      "base_url": "https://www.aec.gov.au/",
+      "allowed_hosts": ["www.aec.gov.au", "aec.gov.au"],
+      "authority": "official",
+      "license_id": "CC-BY-4.0",
+      "license_name": "Creative Commons Attribution 4.0 International",
+      "license_url": "https://www.aec.gov.au/footer/copyright.htm",
+      "attribution": "Australian Electoral Commission",
+      "usage_scope": "AEC-authored election timing material",
+      "approved": true,
+      "max_bytes": 50000000,
+      "freshness_hours": 24,
+      "content_types": ["text/html", "application/pdf"]
+    },
+    {
+      "id": "australia_aec_2025_tpp",
+      "name": "Australian Electoral Commission 2025 results",
+      "base_url": "https://results.aec.gov.au/31496/Website/",
+      "allowed_hosts": ["results.aec.gov.au"],
+      "authority": "official",
+      "license_id": "CC-BY-4.0",
+      "license_name": "Creative Commons Attribution 4.0 International",
+      "license_url": "https://www.aec.gov.au/footer/copyright.htm",
+      "attribution": "Australian Electoral Commission",
+      "usage_scope": "Official 2025 federal election results",
+      "approved": true,
+      "max_bytes": 50000000,
+      "freshness_hours": 8760,
+      "content_types": ["text/html", "text/csv", "application/zip"]
+    },
+    {
       "id": "egypt_nea",
       "name": "Egypt National Election Authority",
       "base_url": "https://www.elections.eg/",

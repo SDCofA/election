@@ -14,7 +14,14 @@
   },
   "source_adapters": [
     {
-      "source_id": "australia_aec",
+      "source_id": "australia_aec_window",
+      "status": "approved",
+      "formats": [
+        "html"
+      ]
+    },
+    {
+      "source_id": "australia_aec_2025_tpp",
       "status": "approved",
       "formats": [
         "html",
@@ -22,11 +29,25 @@
       ]
     },
     {
-      "source_id": "australia_parliament",
+      "source_id": "australia_parliament_timing",
       "status": "reference_only_no_ingestion",
       "formats": [
         "html",
         "pdf"
+      ]
+    },
+    {
+      "source_id": "australia_parliament_shadow_ministry",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "pdf"
+      ]
+    },
+    {
+      "source_id": "australia_alp_leadership",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html"
       ]
     },
     {
