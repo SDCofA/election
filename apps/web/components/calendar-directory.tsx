@@ -73,9 +73,9 @@ export function CalendarDirectory() {
           <Link href="/">← FORECAST DESK</Link>
           <Link href="/methodology">METHODOLOGY</Link>
         </nav>
-        <span>GLOBAL ELECTION DIRECTORY / SDCofA</span>
-        <h1>Every country. No silent omissions.</h1>
-        <p>All catalog countries and economies appear alphabetically. Every sourced election record carries a forecast; unresolved dates, mechanics, and ballots are shown as explicit D-grade scenarios.</p>
+        <span>G20 ELECTION DIRECTORY / SDCofA</span>
+        <h1>G20 countries only.</h1>
+        <p>The 19 sovereign G20 countries appear alphabetically. Regional bodies are excluded. Every sourced election record carries a forecast; unresolved dates, mechanics, and ballots remain explicit D-grade scenarios.</p>
         <div>
           <b>{status?.total_jurisdictions ?? jurisdictions.length}</b><small>LISTED</small>
           <b>{status?.sourced_calendars ?? elections.length}</b><small>SOURCED RECORDS</small>
@@ -83,7 +83,7 @@ export function CalendarDirectory() {
         </div>
       </header>
       <label className="calendar-search">
-        <span>SEARCH JURISDICTIONS</span>
+        <span>SEARCH G20 COUNTRIES</span>
         <input
           onChange={(event) => setQuery(event.target.value)}
           placeholder="Country or election system"

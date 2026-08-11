@@ -32,15 +32,14 @@ def test_simulations_are_deterministic_and_normalized():
     assert SIMULATION_COUNT == 1_000_000
 
 
-def test_all_forecast_systems_produce_normalized_outcomes():
+def test_all_public_g20_forecasts_produce_normalized_outcomes():
     repo = get_repository()
-    assert {item.system for item in repo.elections.values()} >= {
+    assert {item.system for item in repo.elections.values()} == {
         "presidential_runoff",
         "fptp",
-        "proportional",
         "mixed_member",
         "electoral_college",
-        "institutional",
+        "unresolved",
     }
     for snapshot in repo.forecasts.values():
         assert math.isclose(sum(item.win_probability for item in snapshot.outcomes), 1)

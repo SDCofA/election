@@ -1,4 +1,4 @@
-# Elexion Global
+# Elexion G20
 
 Broadcast-grade election forecasting platform. Current vertical slice includes a Next.js command center, FastAPI forecast service, deterministic one-million-run simulation engine, declarative jurisdiction packs, pipeline assets, local infrastructure, Helm chart, and CI.
 

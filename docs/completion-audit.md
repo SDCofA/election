@@ -1,6 +1,6 @@
 # Completion audit
 
-Audit date: 2026-08-09. `Implemented` means a repository artifact and automated contract exist. Quality and ingestion gates fail closed without suppressing exploratory forecasts: unsupported inputs cannot be fetched, and unsupported models cannot be promoted. `Operational proof required` means deployment credentials or a real production environment are outside this repository.
+Audit date: 2026-08-11. `Implemented` means a repository artifact and automated contract exist. Quality and ingestion gates fail closed without suppressing exploratory forecasts: unsupported inputs cannot be fetched, and unsupported models cannot be promoted. `Operational proof required` means deployment credentials or a real production environment are outside this repository.
 
 ## User-critical forecast claims
 
@@ -22,17 +22,17 @@ Audit date: 2026-08-09. `Implemented` means a repository artifact and automated 
 | Normalized election domain | Implemented | Jurisdictions, systems, elections, districts, parties, candidates, coalitions, observations, source revisions, model versions, runs, snapshots, outcomes, and official results are represented in SQL. |
 | Electoral-system engines | Implemented | Runoff, FPTP, proportional, mixed-member, electoral-college, and institutional validation/translation paths have golden and invariant tests. |
 | Source licensing/provenance | Implemented | Registry blocks unapproved terms before fetch; raw content is hashed and immutable; canonical records retain revision IDs, four time clocks, license metadata, confidence, and last-known-good fallback. |
-| Eligibility | Implemented | Pinned V-Dem v16/2025 snapshot; Egypt is visibly configured as an exception; EU and AU views are explicit. |
+| Eligibility | Implemented | Public scope is pinned to the 19 sovereign G20 countries. The EU and AU are intentionally excluded. V-Dem status remains visible as model context rather than a public-scope rule. |
 | Economic, governance, event, poll, and boundary adapters | Implemented where reuse is approved | Official sources, World Bank, OECD, Eurostat, GDELT, V-Dem, DAWUM, and geoBoundaries have adapters/contracts. Disallowed or reference-only sources are not fetched. |
 | Hierarchical fundamentals and dynamic polls | Implemented | Leakage-safe empirical-Bayes partial pooling and time-decayed poll aggregation with mode quality, covariance, and house effects are unit-tested. Publication falls back to structural grade D where source-vintage inputs are unavailable. |
 
-## Global coverage
+## G20 coverage
 
 | Requirement | Status | Evidence |
 |---|---|---|
-| Every catalog jurisdiction has a public record | Implemented | 220/220 catalog countries, economies, and institutional jurisdictions appear in the directory. |
-| Sourced national calendar | Implemented as dated source or link-only authority record | 12 curated packs contain dated/window evidence. Another 79 contain a direct official-authority reference and explicitly state that no calendar content was ingested. |
-| Forecast for every sourced record | Implemented | All 91 sourced election records publish one-million-run forecasts. Unresolved packs use an `exploratory_proxy` national-control scenario, a three-year horizon, possible fields, and grade D. |
+| Every G20 country has a public record | Implemented | The 19 sovereign countries appear in the directory; unions and regional bodies do not. |
+| Sourced election calendar | Implemented as dated source or link-only authority record | 13 G20 countries have a sourced election record; the remaining six stay listing-only. |
+| Forecast for every sourced record | Implemented | All 13 sourced G20 election records publish one-million-run forecasts. Eight unresolved packs use an `exploratory_proxy` national-control scenario, a three-year horizon, possible fields, and grade D. |
 | Public methodology and quality state | Implemented | Every election detail links methodology, mechanics, and sources. Forecasts expose A–D quality, freshness, missing drivers, and whether the field is official, possible, or scenario-only. |
 | No candidate/licensing forecast block | Implemented | Final-list, timing, legal, mechanics, and reuse uncertainty widen intervals and lower quality. Reference-only pages are never ingested, but their licensing status does not erase the scenario. |
 
@@ -40,7 +40,7 @@ Audit date: 2026-08-09. `Implemented` means a repository artifact and automated 
 
 | Requirement | Status | Evidence |
 |---|---|---|
-| Command center and details | Implemented | Global watch, searchable 220-entry directory, possible-field cards, probability gauge, vote/seat intervals, parliament layout, coalition simulator, ticker, immutable history, methodology, and source ledger. |
+| Command center and details | Implemented | G20 watch, searchable 19-country directory, possible-field cards, probability gauge, vote/seat intervals, parliament layout, coalition simulator, ticker, immutable history, methodology, and source ledger. |
 | Maps | Fail closed without validated subnational evidence | GeoJSON endpoint exists; current forecasts suppress regional maps and explain the missing boundary/input gate. |
 | REST/OpenAPI and replay | Implemented | Versioned catalog, calendar, detail, snapshot, simulation, drivers, backtest, source, map, mechanics, coalition, and official-result routes; snapshot IDs are immutable and replayable. |
 | SSE | Implemented | Forecast, calendar, alert, result, and heartbeat envelopes require timestamps, model version, quality, freshness, and provenance. Replay and slow-client drop metrics are tested. |
@@ -61,4 +61,4 @@ Audit date: 2026-08-09. `Implemented` means a repository artifact and automated 
 
 ## Honest publication conclusion
 
-The software contract separates forecast availability from model promotion. It does not claim that Markov is universally better: Markov leads historical U.S. short-horizon Brier score but has materially worse interval coverage, and the live target horizon is unsupported. The 79 authority-reference scenarios do not masquerade as ingested calendars or resolved mechanics; they remain grade D until reproducible evidence replaces their neutral priors.
+The software contract separates forecast availability from model promotion. It does not claim that Markov is universally better: Markov leads historical U.S. short-horizon Brier score but has materially worse interval coverage, and the live target horizon is unsupported. Türkiye has zero verified out-of-sample folds; its probability is an exploratory scenario, not a backtested verdict. The eight G20 authority-reference scenarios remain grade D until reproducible evidence replaces their neutral priors.

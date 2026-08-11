@@ -143,7 +143,8 @@
     "volatility": 0.115,
     "turnout": 0.84,
     "data_quality": "D",
-    "freshness": "exploratory long-range scenario; candidate and timing uncertainty"
+    "freshness": "exploratory long-range scenario; candidate and timing uncertainty",
+    "headline": "The opposition-nominee scenario leads, but Erdoğan or another governing nominee retains a material path; Türkiye has no validated backtest."
   },
   "drivers": [
     {"key":"incumbency","label":"Incumbency and governing apparatus","value":"Strong but conditional candidate","contribution":0.42,"direction":"government","confidence":0.62},

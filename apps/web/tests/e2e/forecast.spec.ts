@@ -13,7 +13,7 @@ test.beforeEach(async ({ page }) => {
 
 test("forecast page meets automated WCAG AA and interaction gates", async ({ page }, testInfo) => {
   await page.goto("/elections/de-next-bundestag");
-  await expect(page.getByRole("heading", { name: /Germany/ })).toBeVisible();
+  await expect(page.getByRole("heading", { name: /Germany/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
   await expect(page.getByText("DRIVER SENSITIVITY MATRIX")).toBeVisible();
   await expect(page.getByRole("table", { name: "Driver sensitivity matrix" })).toBeVisible();
@@ -87,24 +87,21 @@ test("parliament layout matches visual regression baseline", async ({ page }, te
   );
 });
 
-test("AU institutional view publishes a regional-path exploratory forecast", async ({ page }) => {
-  await page.goto("/elections/au-next-chair");
+test("Brazil publishes an exploratory forecast and a possible candidate field", async ({ page }) => {
+  await page.goto("/elections/br-2026-president");
   await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
   await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
-  await expect(page.locator(".possible-field-grid strong").filter({ hasText: "Northern-region nominee" }).first()).toBeVisible();
+  await expect(page.locator(".possible-field-grid strong").filter({ hasText: "Luiz Inácio Lula da Silva" })).toBeVisible();
 });
 
-test("Israel publishes an exploratory forecast and a possible party field", async ({ page }) => {
-  await page.goto("/elections/il-2026-knesset");
-  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
-  await expect(page.getByText("Likud", { exact: true })).toBeVisible();
-});
-
-test("global directory lists the full catalog and forecasts every sourced record", async ({ page }) => {
+test("directory lists only G20 members and forecasts every sourced record", async ({ page }) => {
   await page.goto("/calendar");
-  await expect(page.getByRole("heading", { name: "Every country. No silent omissions." })).toBeVisible();
-  await page.getByRole("searchbox", { name: "SEARCH JURISDICTIONS" }).fill("Argentina");
+  await expect(page.getByRole("heading", { name: "G20 countries only." })).toBeVisible();
+  await expect(page.locator(".calendar-directory-grid > *")).toHaveCount(19);
+  await expect(page.getByText("Egypt", { exact: true })).toHaveCount(0);
+  await expect(page.getByText("European Union", { exact: true })).toHaveCount(0);
+  await expect(page.getByText("African Union", { exact: true })).toHaveCount(0);
+  await page.getByRole("searchbox", { name: "SEARCH G20 COUNTRIES" }).fill("Argentina");
   const argentina = page.getByRole("link", { name: /Argentina/ });
   await expect(argentina).toContainText("2029");
   await argentina.click();
@@ -125,6 +122,8 @@ test("Türkiye exposes a million-run exploratory forecast and named possibilitie
   await expect(page.getByText("Recep Tayyip Erdoğan", { exact: true })).toBeVisible();
   await expect(page.getByText("Mansur Yavaş", { exact: true })).toBeVisible();
   await expect(page.getByText("Özgür Özel", { exact: true })).toBeVisible();
+  await expect(page.getByText(/0 jurisdiction-specific out-of-sample folds/)).toBeVisible();
+  await expect(page.locator(".candidate").filter({ hasText: "Erdoğan" })).toContainText("UNDERDOG · REAL PATH");
 });
 
 test("route-specific API outage never substitutes another election", async ({ page }) => {

@@ -9,7 +9,7 @@ from fastapi.testclient import TestClient
 
 os.environ.setdefault("ELEXION_RATE_LIMIT_PER_MINUTE", "10000")
 
-from app.main import app  # noqa: E402
+from app.main import app
 
 ROOT = Path(__file__).resolve().parents[3]
 OUTPUT = ROOT / "apps" / "web" / "public" / "data"

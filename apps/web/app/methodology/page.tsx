@@ -23,6 +23,7 @@ export default function MethodologyPage() {
       <section>
         <h2>Current publication state</h2>
         <p>The public forecast uses a widened baseline ensemble. Gaussian Monte Carlo and Markov-momentum models each run 1,000,000 deterministic scenarios as challengers, and every production backtest model-fold uses 1,000,000 predictive draws for winner probabilities and 90% intervals. Markov leads the U.S. short-horizon historical Brier score, while Gaussian has better RMSE and interval coverage; neither is promoted because 2–14-day evidence cannot validate the current early-cycle horizon. Forecasts without source-vintage feature snapshots are forced to grade D and list zero model-input sources.</p>
+        <p>Türkiye currently has zero verified out-of-sample folds. Its governing-versus-opposition probabilities are an exploratory scenario informed by a referenced May 2026 matchup poll and structural assumptions, not a Türkiye-backtested verdict. A roughly one-in-three path is substantial; it does not mean Erdoğan cannot win.</p>
       </section>
 
       <section>
@@ -71,9 +72,9 @@ export default function MethodologyPage() {
       </section>
 
       <section>
-        <h2>Global coverage states</h2>
-        <p>Every catalog country and economy appears in the global directory. Countries without any sourced election record remain listing-only. All 91 authority-backed election records carry an explicitly exploratory forecast even before official nominations; candidate, timing, legal, licensing, and mechanics uncertainty widen the model rather than erase the contest. Official status and possible-field status are always kept separate.</p>
-        <div className="method-links"><Link href="/calendar">Global election directory</Link></div>
+        <h2>G20 coverage states</h2>
+        <p>Public scope is limited to the 19 sovereign G20 countries. The European Union and African Union are excluded. Countries without a sourced election record remain listing-only. All sourced G20 election records carry an explicitly exploratory forecast even before official nominations; candidate, timing, legal, licensing, and mechanics uncertainty widen the model rather than erase the contest.</p>
+        <div className="method-links"><Link href="/calendar">G20 election directory</Link></div>
       </section>
     </main>
   );

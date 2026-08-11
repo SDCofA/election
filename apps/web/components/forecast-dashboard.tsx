@@ -216,13 +216,20 @@ const WATCHLIST = [
   { id: "us-2028-president", flag: "US", country: "United States", label: "President · Electoral College", date: "NOV 2028", color: "" },
   { id: "gb-next-commons", flag: "GB", country: "United Kingdom", label: "Commons · FPTP", date: "PROJECTED", color: "cyan" },
   { id: "de-next-bundestag", flag: "DE", country: "Germany", label: "Bundestag · mixed member", date: "MAR 2029", color: "gold" },
-  { id: "eu-2029-parliament", flag: "EU", country: "European Union", label: "Parliament · proportional", date: "JUN 2029", color: "violet" },
-  { id: "eg-next-president", flag: "EG", country: "Egypt", label: "President · exception", date: "WINDOW", color: "amber" },
-  { id: "au-next-chair", flag: "AU", country: "African Union", label: "Institutional calendar", date: "FEB 2029", color: "violet" }
+  { id: "br-2026-president", flag: "BR", country: "Brazil", label: "President · runoff", date: "OCT 2026", color: "violet" },
+  { id: "tr-next-president", flag: "TR", country: "Türkiye", label: "President · runoff", date: "MAY 2028", color: "amber" },
+  { id: "arg-next-national", flag: "AR", country: "Argentina", label: "National control · scenario", date: "AUG 2029", color: "violet" }
 ];
 
 const pct = (value: number) => `${Math.round(value * 100)}%`;
 const signedPoints = (value: number) => `${value >= 0 ? "+" : ""}${(value * 100).toFixed(2)} pp`;
+const probabilityLabel = (value: number) => {
+  if (value >= 0.8) return "STRONG FAVORITE";
+  if (value >= 0.6) return "FAVORED";
+  if (value >= 0.4) return "COMPETITIVE";
+  if (value >= 0.2) return "UNDERDOG · REAL PATH";
+  return "LONG SHOT";
+};
 type ConnectionState = "connecting" | "live" | "fallback";
 
 function GlobalWatch({
@@ -264,7 +271,7 @@ function GlobalWatch({
   const watchlist = liveWatchlist.length ? liveWatchlist : WATCHLIST;
   return (
     <aside className="rail" id="calendar" aria-label="Election watchlist">
-      <div className="rail-heading"><span>GLOBAL WATCH</span><b>{String(watchlist.length).padStart(2, "0")}</b></div>
+      <div className="rail-heading"><span>G20 WATCH</span><b>{String(watchlist.length).padStart(2, "0")}</b></div>
       {watchlist.map((item) => (
         <Link
           aria-current={item.id === electionId ? "page" : undefined}
@@ -279,8 +286,8 @@ function GlobalWatch({
       ))}
       <div className="coverage">
         <span>CATALOG STATUS</span>
-        <div><b>{catalog?.total_jurisdictions ?? 90}</b><small>JURISDICTIONS</small></div>
-        <div><b>{catalog?.forecast_ready ?? 5}</b><small>FORECAST READY</small></div>
+        <div><b>{catalog?.total_jurisdictions ?? 19}</b><small>G20 COUNTRIES</small></div>
+        <div><b>{catalog?.forecast_ready ?? 13}</b><small>FORECAST READY</small></div>
         <p>{catalog?.sourced_calendars ?? watchlist.length} sourced election records; every one carries a forecast.</p>
       </div>
     </aside>
@@ -589,21 +596,23 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
           <div className="confidence-banner">
             <span className="grade">{forecast.data_quality}</span>
             <div><b>{detail.election.status.toUpperCase()}</b><small>{forecast.freshness} · {detail.election.date_confidence}</small></div>
-            <p>Probabilities describe uncertainty, not certainty. Inputs and model versions remain traceable.</p>
+            <p>{comparison?.fold_count
+              ? `Backtest evidence: ${comparison.fold_count} verified out-of-sample folds.`
+              : "UNVALIDATED SCENARIO: 0 jurisdiction-specific out-of-sample folds. This is not a backtested call."}</p>
           </div>
 
           <div className="hero-grid">
             <article className="panel probability-panel">
               <header><span>{t("forecast.winProbability")}</span><small>Monte Carlo ensemble</small></header>
               <div className="duel">
-                {leaders.map(({ contestant, win_probability }, index) => (
+                {leaders.map(({ contestant, win_probability }) => (
                   <div className="candidate" key={contestant.id}>
                     <div className="avatar" style={{ "--party": contestant.color } as React.CSSProperties}>
                       {contestant.short_name.slice(0, 1)}<span>{contestant.incumbent ? "INC" : "CHL"}</span>
                     </div>
                     <small>{contestant.name}</small>
                     <strong>{pct(win_probability)}</strong>
-                    <em>{index === 0 ? "NARROW EDGE" : "TOSS-UP"}</em>
+                    <em>{probabilityLabel(win_probability)}</em>
                   </div>
                 ))}
                 <div className="probability-gauge" style={{ "--value": `${leaders[0].win_probability * 360}deg` } as React.CSSProperties}>

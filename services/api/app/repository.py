@@ -45,6 +45,29 @@ PACKS_DIR = Path(__file__).parent / "packs"
 BACKTESTS_DIR = Path(__file__).parent / "backtests"
 CATALOG_PATH = Path(__file__).parent / "catalog" / "vdem-v16.json"
 MODEL_VERSION = "structural-ensemble-0.3.0"
+G20_COUNTRY_IDS = frozenset(
+    {
+        "arg",
+        "aus",
+        "bra",
+        "can",
+        "chn",
+        "deu",
+        "fra",
+        "gbr",
+        "idn",
+        "ind",
+        "ita",
+        "jpn",
+        "kor",
+        "mex",
+        "rus",
+        "sau",
+        "tur",
+        "usa",
+        "zaf",
+    }
+)
 
 
 class CatalogRepository:
@@ -71,6 +94,7 @@ class CatalogRepository:
         self.jurisdictions = {
             item["id"]: Jurisdiction.model_validate(item)
             for item in self.catalog_payload["jurisdictions"]
+            if item["id"] in G20_COUNTRY_IDS
         }
         calendar_revisions: dict[str, CalendarRevision] = {}
         if dsn := os.getenv("DATABASE_URL"):
@@ -83,6 +107,8 @@ class CatalogRepository:
         for path in sorted(PACKS_DIR.rglob("*.json")):
             data = json.loads(path.read_text(encoding="utf-8"))
             jurisdiction = Jurisdiction.model_validate(data["jurisdiction"])
+            if jurisdiction.id not in G20_COUNTRY_IDS:
+                continue
             managed = self.jurisdictions.get(jurisdiction.id)
             if managed and jurisdiction.eligibility.startswith("v-dem:"):
                 jurisdiction = jurisdiction.model_copy(
@@ -757,7 +783,7 @@ class CatalogRepository:
             eligibility_rule=eligibility["rule"],
             eligibility_snapshot_sha256=eligibility["snapshot_sha256"],
             eligible_jurisdictions=sum(
-                item["eligibility"].startswith("v-dem:")
+                item["id"] in G20_COUNTRY_IDS and item["eligibility"].startswith("v-dem:")
                 for item in self.catalog_payload["jurisdictions"]
             ),
             total_jurisdictions=len(self.jurisdictions),

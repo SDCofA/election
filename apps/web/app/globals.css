@@ -482,7 +482,7 @@ h1 strong { font-weight: 400; color: #55514a; }
   .workspace { padding: 24px 16px 38px; }
   .hero-grid, .lower-grid { grid-template-columns: 1fr; }
   .confidence-banner { grid-template-columns: 34px 1fr; }
-  .confidence-banner p { display: none; }
+  .confidence-banner p { grid-column: 1 / -1; justify-self: start; padding-top: 8px; }
 }
 @media (max-width: 620px) {
   .brand b, .status-cluster span:not(.live-dot), .breaking p { display: none; }
