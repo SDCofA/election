@@ -362,6 +362,18 @@ class CatalogRepository:
             evaluation_period_end=report.evaluation_period_end,
             dataset_sha256=report.dataset_sha256,
             vintage_verified=report.provenance_verified,
+            historical_election_count=int(
+                data.get("backtest_feasibility", {}).get("historical_election_count", 0)
+            ),
+            historical_span_years=int(
+                data.get("backtest_feasibility", {}).get("historical_span_years", 0)
+            ),
+            maximum_held_out_elections=int(
+                data.get("backtest_feasibility", {}).get("maximum_held_out_elections", 0)
+            ),
+            validation_constraints=list(
+                data.get("backtest_feasibility", {}).get("validation_constraints", [])
+            ),
             message="; ".join(report.promotion_reasons),
             **CatalogRepository._snapshot_metadata(snapshot),
         )

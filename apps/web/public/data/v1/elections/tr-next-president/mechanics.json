@@ -10,6 +10,13 @@
   },
   "source_adapters": [
     {
+      "source_id": "turkiye_wikipedia_revision_archive",
+      "status": "approved",
+      "formats": [
+        "wikitext"
+      ]
+    },
+    {
       "source_id": "turkiye_ysk",
       "status": "reference_only_no_ingestion",
       "formats": [

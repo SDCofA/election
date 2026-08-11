@@ -152,8 +152,10 @@ test("Türkiye exposes a million-run exploratory forecast and named possibilitie
   await expect(page.getByText("HORIZON MULTIPLIER")).toBeVisible();
   await expect(page.getByText("WHY THIS IS NOT A RELIABLE BACKTEST")).toBeVisible();
   await expect(page.getByText("DIRECT ELECTIONS")).toBeVisible();
-  await expect(page.getByText(/only one distinct held-out election/i)).toBeVisible();
-  await expect(page.getByText(/0 jurisdiction-specific out-of-sample folds/)).toBeVisible();
+  await expect(page.getByText(/only one distinct held-out presidential election/i)).toBeVisible();
+  await expect(page.getByText(/3 historical walk-forward folds/)).toBeVisible();
+  await expect(page.getByText(/forecast-origin vintages verified/)).toBeVisible();
+  await expect(page.getByText(/1,000,000 predictive draws per model-fold across 1 held-out elections/)).toBeVisible();
   await expect(page.locator(".candidate").filter({ hasText: "Erdoğan" })).toContainText("UNDERDOG · REAL PATH");
 });
 

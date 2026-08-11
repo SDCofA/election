@@ -1,0 +1,931 @@
+In the run up to the [[Turkish general election, 2018|2018 Turkish general election]] scheduled to take place on 24 June 2018, various organisations carry out [[opinion polling]] to gauge voting intention in [[Turkey]]. Results of such polls are displayed in this article. These polls only include Turkish voters nationwide and do not take into account [[Turkish diaspora|Turkish expatriates]] voting abroad. The date range for these opinion polls are from the [[Turkish general election, November 2015|previous general election]], held on 1 November 2015, to the present day.
+
+==Presidential election==
+
+===First round===
+====Following candidate selection====
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:20px;"
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="50px"|Sample
+!width=75 |[[Recep Tayyip Erdoğan|Erdoğan]]
+!width=75 |[[Muharrem İnce|İnce]]
+!width=75 |[[Meral Akşener|Akşener]]
+!width=75 |[[Selahattin Demirtaş|Demirtaş]]
+!width=75 |[[Temel Karamollaoğlu|Karamollaoğlu]]
+!width=75 |[[Doğu Perinçek|Perinçek]]
+!width=60 rowspan=2|Lead #1
+!width=60 rowspan=2|Lead #2
+|-
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"|
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+!style="background: {{İyi Party/meta/color}}"|
+!style="background: {{Peoples' Democratic Party (Turkey)/meta/color}}"|
+!style="background: {{Felicity Party/meta/color}}"|
+!style="background: {{Patriotic Party (Turkey)/meta/color}}"|
+|-
+
+|{{nowrap|29 May–3 Jun 2018}}
+|[https://web.archive.org/web/20180605163801/http://www.cumhuriyet.com.tr/foto/foto_galeri/989607/1/iste_son_anket__ince_den_rekor_artis__fark_kapaniyor.html SONAR]
+|3,000
+| style="background: #FFF1C4" |48.3
+| style="background: #FFC2C2" |31.4
+|9.5
+|8.2
+|2.1
+|0.5
+| style="background: #FDC400" | {{fontcolor|white|'''16.9'''}}
+| style="background: #d40000" | {{fontcolor|white|'''21.9'''}}
+|-
+|{{nowrap|28 May–3 Jun 2018}}
+|[https://web.archive.org/web/20180606203511/http://www.remres.com.tr/filemanager/files/haziran-1.pdf REMRES]
+|4,482
+| style="background: #FFF1C4" |41.7
+| style="background: #FFC2C2" |26.1
+|16.7
+|11.4
+|3.9
+|0.2
+| style="background: #FDC400" | {{fontcolor|white|'''15.6'''}}
+| style="background: #d40000" | {{fontcolor|white|'''9.4'''}}
+|-
+|{{nowrap|28 May–1 Jun 2018}}
+|[https://web.archive.org/web/20180607205313/http://www.cumhuriyet.com.tr/haber/siyaset/988587/Referandumda_yuzde_60_diyen_AKP_anketcisinin_son_rakamlari.html ORC]
+|3,410
+| style="background: #FFF1C4" |'''53.4'''
+| style="background: #FFC2C2" |23.8
+|11.5
+|8.7
+|2.1
+|0.5
+| style="background: #FDC400" | {{fontcolor|white|'''29.6'''}}
+| style="background: #d40000" | {{fontcolor|white|'''12.3'''}}
+|-
+|{{nowrap|26–31 May 2018}}
+|[https://web.archive.org/web/20180608181233/http://www.cumhuriyet.com.tr/foto/foto_galeri/992691/1/Son_ankette_Erdogan_ve_AKP_icin_sok_sonuclar.html PİAR]
+|2,620
+| style="background: #FFF1C4" |39.7
+| style="background: #FFC2C2" |26.0
+|21.2
+|11.1
+|1.8
+|0.1
+| style="background: #FDC400" | {{fontcolor|white|'''13.7'''}}
+| style="background: #d40000" | {{fontcolor|white|'''5.2'''}}
+|-
+|{{nowrap|25–26 May 2018}}
+|[https://web.archive.org/web/20180607204032/http://www.mynet.com/haber/secim/24-haziran-secimleri-icin-son-anket-sonuclari-hangi-partinin-ne-kadar-oyu-var-4178334-1 Gezici]
+|6,811
+| style="background: #FFF1C4" |48.7
+| style="background: #FFC2C2" |25.8
+|14.4
+|10.1
+|0.6
+|0.4
+| style="background: #FDC400" | {{fontcolor|white|'''22.9'''}}
+| style="background: #d40000" | {{fontcolor|white|'''11.4'''}}
+|-
+|{{nowrap|1–28 May 2018}}
+|[https://web.archive.org/web/20180606022541/https://odatv.com/referandumu-hatasiz-tahmin-eden-sirketin-son-anketi-ilk-kez-odatvde-03061834.html Konsensus]
+|2,000
+| style="background: #FFF1C4" |47.9
+| style="background: #FFC2C2" |26.8
+|14.8
+|9.7
+|0.7
+|0.1
+| style="background: #FDC400" | {{fontcolor|white|'''21.1'''}}
+| style="background: #d40000" | {{fontcolor|white|'''12.0'''}}
+|-
+|{{nowrap|22–23 May 2018}}
+|[https://web.archive.org/web/20180525062216/http://www.yenicaggazetesi.com.tr/anket-sonuclari-aciklandi-aksener-ince-ve-erdoganda-son-durum-2960g.htm Mediar]
+|4,268
+| style="background: #FFF1C4" |43.5
+| style="background: #FFC2C2" |22.2
+|19.3
+|12.8
+|1.6
+|0.6
+| style="background: #FDC400" | {{fontcolor|white|'''21.3'''}}
+| style="background: #d40000" | {{fontcolor|white|'''2.9'''}}
+|-
+|{{Nowrap|17–23 May 2018}}
+|[https://web.archive.org/web/20180525204615/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%203.pdf REMRES]
+|4,276
+| style="background: #FFF1C4" |42.2
+| style="background: #FFC2C2" |24.6
+|16.9
+|12.3
+|3.8
+|0.2
+| style="background: #FDC400" | {{fontcolor|white|'''17.6'''}}
+| style="background: #d40000" | {{fontcolor|white|'''7.7'''}}
+|-
+|{{nowrap|13–20 May 2018}}
+|[https://web.archive.org/web/20180524082416/http://www.cumhuriyet.com.tr/haber/ekonomi/980790/MAK_anketine_gore_ulkenin_en_buyuk_sorunu_ve_adaylarin_oy_orani.html MAK]
+|5,000
+| style="background: #FFF1C4" |'''51.4'''
+| style="background: #FFC2C2" |23.9
+|12.3
+|9.6
+|2.2
+|0.6
+| style="background: #FDC400" | {{fontcolor|white|'''27.5'''}}
+| style="background: #d40000" | {{fontcolor|white|'''11.6'''}}
+|-
+|{{nowrap|7–17 May 2018}}
+|[https://www.sozcu.com.tr/2018/gundem/muhalefet-blokunun-oyu-58-2416599/ SONAR]
+|3,000
+| style="background: #FFF1C4" |42.0
+| style="background: #FFC2C2" |21.9
+|21.0
+|11.0
+|2.1
+|2.0
+| style="background: #FDC400" | {{fontcolor|white|'''20.1'''}}
+| style="background: #d40000" | {{fontcolor|white|'''0.9'''}}
+|-
+|{{nowrap|25 Apr–13 May 2018}}
+|[https://web.archive.org/web/20180519160322/http://www.sehrivangazetesi.com/haber-bir-anket-daha-aciklandi-iste-son-anket-sonuclari-50085.html Politic's]
+|2,650
+| style="background: #FFF1C4" |'''52.2'''
+| style="background: #FFC2C2" |25.5
+|12.3
+|8.5
+|1.1
+|0.4
+| style="background: #FDC400" | {{fontcolor|white|'''26.7'''}}
+| style="background: #d40000" | {{fontcolor|white|'''13.2'''}}
+|-
+|{{nowrap|6–9 May 2018}}
+|[https://web.archive.org/web/20180511114929/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%202.pdf REMRES]
+|3,653
+| style="background: #FFF1C4" |42.1
+| style="background: #FFC2C2" |24.1
+|17.1
+|12.6
+|3.9
+|0.2
+| style="background: #FDC400" | {{fontcolor|white|'''18.0'''}}
+| style="background: #d40000" | {{fontcolor|white|'''7.0'''}}
+|-
+! {{nowrap|'''10 Aug 2014'''}}
+! [[Turkish presidential election, 2014|Election]]{{ref label|reference_name_A|a|a}}
+! –
+! style="background: #FFF1C4" |51.7<br>{{small|([[Recep Tayyip Erdoğan|Erdoğan]])}}
+! 38.6<br>{{small|([[Ekmeleddin İhsanoğlu|İhsanoğlu]])}}
+! {{NA}}
+! 9.8<br>{{small|([[Selahattin Demirtaş|Demirtaş]])}}
+! {{NA}}
+! {{NA}}
+! style="background: #FDC400" |{{fontcolor|white|13.1}}
+| style="background: #d40000" | {{fontcolor|white|'''26.8'''}}
+|}
+
+====Prior to candidate selection====
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:20px;"
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="50px"|Sample
+!width=75 |[[Justice and Development Party (Turkey)|AKP]]
+!width=75 |[[Republican People's Party (Turkey)|CHP]]
+!width=75 |[[Nationalist Movement Party|MHP]]
+!width=75 |[[Peoples' Democratic Party (Turkey)|HDP]]
+!width=75 |[[İyi Party|İYİ]]
+!width=75 |[[Felicity Party|SP]]
+!width=75 |Others
+!width=50 rowspan=2|Lead
+|-
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"|
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+!style="background: {{Nationalist Movement Party/meta/color}}"|
+!style="background: {{Peoples' Democratic Party (Turkey)/meta/color}}"|
+!style="background: {{İyi Party/meta/color}}"|
+!style="background: {{Felicity Party/meta/color}}"|
+!style="background: {{Independent politician/meta/color}}"|
+|-
+|{{nowrap|2 May 2018}}
+|[https://web.archive.org/web/20180511113520/http://www.remres.com.tr/editor/upload/files/100.pdf REMRES]
+|2,586
+| style="background: #FFF1C4" |41.2<br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small>
+| style="background: #FFC2C2" |21.7<br><small>(generic)</small>
+|rowspan=8 {{NA}}
+|12.5<br><small>([[Selahattin Demirtaş|Demirtaş]])</small>
+|20.6<br><small>([[Meral Akşener|Akşener]])</small>
+|3.9<br><small> ([[Temel Karamollaoğlu|Karamollaoğlu]])</small>
+|0.1
+| style="background: #FDC400" | {{fontcolor|white|'''19.5'''}}
+|-
+|{{nowrap|1 May 2018}}||[https://web.archive.org/web/20180508191938/https://pbs.twimg.com/media/DcIMG8wW4AAdE4S.jpg PİAR] || – || style="background: #FFF1C4" |41.1 <br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small> || 20.2<br><small>(generic)</small> || 11.4<br><small>([[Selahattin Demirtaş|Demirtaş]])</small> || style="background: #BFE3FF" |24.6<br><small>([[Meral Akşener|Akşener]])</small> || 2.5<br><small> ([[Temel Karamollaoğlu|Karamollaoğlu]])</small> || 0.2 || style="background: #FDC400" | {{fontcolor|white|'''16.5'''}}
+|-
+|{{nowrap|26–29 Apr 2018}}||[https://web.archive.org/web/20180508192126/http://www.yenicaggazetesi.com.tr/son-anket-sonuclari-aciklandi-cumhur-ittifaki-tepetaklak-2875g-p5.htm Mediar] || 2,660 || style="background: #FFF1C4" |42.1 <br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small> || style="background: #FFC2C2" |20.1<br><small>(generic)</small> || 13.4<br><small>([[Selahattin Demirtaş|Demirtaş]])</small> || 19.7<br><small>([[Meral Akşener|Akşener]])</small> || 3.1<br><small> ([[Temel Karamollaoğlu|Karamollaoğlu]])</small> || 1.6 || style="background: #FDC400" | {{fontcolor|white|'''22.0'''}}
+|-
+|{{nowrap|24–25 Apr 2018}}
+|[https://web.archive.org/web/20180511112238/http://www.cumhuriyet.com.tr/foto/foto_galeri/972715/3/Konsensus_anketi__ikinci_turda_hangi_aday_ne_kadar_oy_aliyor_.html Konsensus]
+|1,000
+| style="background: #FFF1C4" |47.6 <br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small>
+|20.5<br><small>([[Muharrem İnce|İnce]])</small>
+|7.8<br><small>([[Selahattin Demirtaş|Demirtaş]])</small>
+|style="background: #BFE3FF" |21.9<br><small>([[Meral Akşener|Akşener]])</small>
+|2.1<br><small> ([[Temel Karamollaoğlu|Karamollaoğlu]])</small>
+|0.1<br><small>([[Doğu Perinçek|Perinçek]])</small>
+| style="background: #FDC400" |{{fontcolor|white|'''25.7'''}}
+|-
+|{{nowrap|14–15 Apr 2018}}||[https://web.archive.org/web/20180508192213/https://tr.sputniknews.com/turkiye/201804231033137702-gezici-arastirma-secim-anket-erdogan-aksener-ikinci-tur/ Gezici] || 3,864 || style="background: #FFF1C4" |43.5 <br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small> || 9.7<br><small>([[Kemal Kılıçdaroğlu|Kılıçdaroğlu]])</small> || 11.1<br><small>([[Ahmet Türk|Türk]])</small> || style="background: #BFE3FF" | 18.6<br><small>([[Meral Akşener|Akşener]])</small> || 1.5<br><small> ([[Temel Karamollaoğlu|Karamollaoğlu]])</small> || <small>9.5<br> ([[İlker Başbuğ|Başbuğ]])<br>5.3<br>([[Abdullah Gül|Gül]])<br>0.9<br>(Others)</small> || style="background: #FDC400" | {{fontcolor|white|'''24.9'''}}
+|-
+|{{nowrap|4–14 Feb 2018}}||[https://web.archive.org/web/20180508192319/http://www.cumhuriyet.com.tr/haber/siyaset/955802/5_MHP_liden_1_i__Erdogan_a_asla_oy_vermem__diyor..._iste_son_ankete_gore_ittifakin_oy_orani.html Ankara Analitik] || 1,619 || style="background: #FFF1C4" |46.4 <br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small> || 12.7 <br><small>([[Kemal Kılıçdaroğlu|Kılıçdaroğlu]])</small> || {{NA}} || 12.7<br><small>([[Meral Akşener|Akşener]])</small> || rowspan=6 {{NA}} || <small>15.2<br>([[Abdullah Gül|Gül]])<br>7.0<br> ([[Abdüllatif Şener|Şener]])</small> || style="background: #FDC400" | {{fontcolor|white|'''33.7'''}}
+|-
+|{{nowrap|4–14 Feb 2018}}||[https://web.archive.org/web/20180509112129/https://imgur.com/Wx4scKm PİAR] || 2,440 || style="background: #FFF1C4" |43.2 <br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small> || style="background: #FFC2C2" |24.0 <br><small>(generic)</small> || 13.1 <br><small>(generic)</small> || 18.2<br><small>([[Meral Akşener|Akşener]])</small> || 1.5 || style="background: #FDC400" | {{fontcolor|white|'''19.2'''}}
+|-
+|{{nowrap|14 Jan 2018}}||[https://web.archive.org/web/20180508192511/http://www.cumhuriyet.com.tr/foto/foto_galeri/905050/5/SONAR_in_son_anketi__Erdogan_in_ikinci_turda_da_secilmesi_cok_zor.html SONAR] || 3,000 || style="background: #FFF1C4" |46.4 <br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small> || style="background: #FFC2C2" |22.5<br><small>(generic)</small> || 9.5<br><small>(generic)</small> || 18.2<br><small>([[Meral Akşener|Akşener]])</small> || 3.4 || style="background: #FDC400" | {{fontcolor|white|'''23.9'''}}
+|-
+|{{nowrap|10 Jan 2018}}||[https://web.archive.org/web/20180508192609/http://www.cumhuriyet.com.tr/haber/turkiye/902107/Fatih_Altayli_nin_acikladigi_ankette_MHP_surprizi.html Konsensus] || – || style="background: #FFF1C4" |48.1<br><small>(generic)</small> || style="background: #FFC2C2" |25.1<br><small>(generic)</small> || 11.9<br><small>(generic)</small> || 9.6<br><small>(generic)</small> || 2.9<br><small>(generic)</small> || 2.4 || style="background: #FDC400" | {{fontcolor|white|'''23.0'''}}
+|-
+|{{nowrap|10–15 Oct 2017}}||[https://web.archive.org/web/20180508192646/https://indigodergisi.com/2017/11/2019-secim-anketi-cumhurbaskanligi/ Gezici] || 4,638 || style="background: #FFF1C4" |47.8<br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small> || 14.0<br><small>([[Kemal Kılıçdaroğlu|Kılıçdaroğlu]])</small> ||rowspan=2 {{NA}} || {{NA}} || style="background: #BFE3FF" |38.0<br><small>([[Meral Akşener|Akşener]])</small> ||rowspan=2 {{NA}} || style="background: #FDC400" | {{fontcolor|white|'''9.8'''}}
+|-
+|{{nowrap|27 Sep 2017}}||[https://web.archive.org/web/20180508192739/http://gazetekarinca.com/2017/09/sonardan-secim-anketi-akpnin-oylari-dususte-meclise-5-parti-giriyor/ SONAR] || – || style="background: #FFF1C4" |48.2<br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small> || style="background: #FFC2C2" |30.1<br><small>(generic)</small> || 8.8<br><small>(generic)</small> || 12.9<br><small>([[Meral Akşener|Akşener]])</small> || style="background: #FDC400" | {{fontcolor|white|'''18.1'''}}
+|-
+!{{nowrap|10 Aug 2014}}||[[Turkish presidential election, 2014|Election]]{{ref label|reference_name_A|a|a}} || – || style="background: #FFF1C4" |51.8<br><small>([[Recep Tayyip Erdoğan|Erdoğan]])</small> ||colspan=2| 38.4<br><small>([[Ekmeleddin İhsanoğlu|İhsanoğlu]])</small> || 9.8<br><small>([[Selahattin Demirtaş|Demirtaş]])</small> || {{NA}} || {{NA}} || {{NA}} || style="background: #FDC400" | {{fontcolor|white|'''13.4'''}}
+|}
+
+===Second round===
+
+====Official candidates====
+
+=====Erdoğan vs. Akşener=====
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:20px;"
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="50px"|Sample
+!width=50 |[[Recep Tayyip Erdoğan|Erdoğan]]
+!width=50 |[[Meral Akşener|Akşener]]
+!width=50 rowspan=2|Lead
+|-
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"|
+!style="background: {{İyi Party/meta/color}}"|
+|-
+|{{nowrap|17–23 May 2018}}||[https://web.archive.org/web/20180525204615/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%203.pdf REMRES]||4,276|| style="background: #FFF1C4" |51.2|| 48.8|| style="background: #FDC400" |{{fontcolor|white|'''2.4'''}}
+|-
+|{{nowrap|6–9 May 2018}}||[https://web.archive.org/web/20180511114929/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%202.pdf REMRES]||3,653|| style="background: #FFF1C4" |50.8|| 49.2|| style="background: #FDC400" |{{fontcolor|white|'''1.6'''}}
+|-
+|2 May 2018 ||[https://web.archive.org/web/20180511113520/http://www.remres.com.tr/editor/upload/files/100.pdf REMRES] ||2,586 || style="background: #FFF1C4" |50.1 || 49.9 || style="background: #FDC400" | {{fontcolor|white|'''0.2'''}}
+|-
+|{{nowrap|1 May 2018}}||[https://web.archive.org/web/20180508192859/https://pbs.twimg.com/media/DcINNNtWsAAiiEU.jpg PİAR] || – || 49.5 || style="background: #BFE3FF" |50.5 || style="background: #44B4E4" | {{fontcolor|white|'''1.0'''}}
+|-
+|{{nowrap|24–25 Apr 2018}}
+|[https://web.archive.org/web/20180511112238/http://www.cumhuriyet.com.tr/foto/foto_galeri/972715/3/Konsensus_anketi__ikinci_turda_hangi_aday_ne_kadar_oy_aliyor_.html Konsensus]
+|1,000
+| style="background: #FFF1C4" |52.4
+|47.6
+| style="background: #FDC400" | {{fontcolor|white|'''4.8'''}}
+|-
+|{{nowrap|14–15 Apr 2018}}||[https://web.archive.org/web/20180508192213/https://tr.sputniknews.com/turkiye/201804231033137702-gezici-arastirma-secim-anket-erdogan-aksener-ikinci-tur/ Gezici] || 3,864 || style="background: #FFF1C4" |52.2 || 47.8 || style="background: #FDC400" | {{fontcolor|white|'''4.4'''}}
+|-
+|{{nowrap|22–26 Mar 2018}}||[https://web.archive.org/web/20180508193006/http://www.kpsscafe.com.tr/turkiye/son-secim-anket-sonucu-aciklandi-partilerin-oy-orani-bomba-h83112.html ORC] || 5,620 || style="background: #FFF1C4" |59.6 || 40.4 || style="background: #FDC400" | {{fontcolor|white|'''19.2'''}}
+|-
+|{{nowrap|6–18 Mar 2018}}||[https://web.archive.org/web/20180508193101/http://www.cumhuriyet.com.tr/foto/foto_galeri/953641/2/Bu_pazar_secim_olsa_anketi___Erdogan_a_oy_veririm__diyenlerin_orani_yuzde_30.html PİAR] || 5,620 || style="background: #FFF1C4" |50.5 || 49.5 || style="background: #FDC400" | {{fontcolor|white|'''1.0'''}}
+|-
+|{{nowrap|2–17 Dec 2017}}||[https://web.archive.org/web/20180508193155/http://www.yenicaggazetesi.com.tr/son-anket-sonuclari-aciklandi-aksenerle-erdogan-arasindaki-fark-kapaniyor-182238h.htm Gezici] || 4,238 || style="background: #FFF1C4" |51.4 || 48.6 || style="background: #FDC400" | {{fontcolor|white|'''2.8'''}}
+|}
+
+=====Erdoğan vs. İnce=====
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:20px;"
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="50px"|Sample
+!width=50 |[[Recep Tayyip Erdoğan|Erdoğan]]
+!width=50 |[[Muharrem İnce|İnce]]
+!width=50 rowspan=2|Lead
+|-
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"|
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+|-
+|{{nowrap|29 May–3 Jun 2018}}
+|[https://web.archive.org/web/20180605163801/http://www.cumhuriyet.com.tr/foto/foto_galeri/989607/1/iste_son_anket__ince_den_rekor_artis__fark_kapaniyor.html SONAR]
+|3,000
+| style="background: #FFF1C4" |53.7
+|46.3
+|style="background: #FDC400" |{{fontcolor|white|'''7.4'''}}
+|-
+|{{nowrap|17–23 May 2018}}||[https://web.archive.org/web/20180525204615/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%203.pdf REMRES]||4,276|| style="background: #FFF1C4" |50.2|| 49.8|| style="background: #FDC400" |{{fontcolor|white|'''0.4'''}}
+|-
+|6–9 May 2018||[https://web.archive.org/web/20180511114929/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%202.pdf REMRES]||3,653|| style="background: #FFF1C4" |50.3|| 49.7|| style="background: #FDC400" |{{fontcolor|white|'''0.6'''}}
+|-
+|{{nowrap|24–25 Apr 2018}}|| [https://web.archive.org/web/20180511112238/http://www.cumhuriyet.com.tr/foto/foto_galeri/972715/3/Konsensus_anketi__ikinci_turda_hangi_aday_ne_kadar_oy_aliyor_.html Konsensus] || 1,000 || style="background: #FFF1C4" |55.1|| 44.9 || style="background: #FDC400" |{{fontcolor|white|'''10.2'''}}
+|}
+
+====Hypothetical candidates====
+
+{{hidden begin
+|title = Hypothetical candidates
+|titlestyle = background:lightgrey; text-align:center;
+}}
+=====Erdoğan vs. Gül=====
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:20px;"
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="50px"|Sample
+!width=50 |[[Recep Tayyip Erdoğan|Erdoğan]]
+!width=50 |[[Abdullah Gül|Gül]]
+!width=50 rowspan=2|Lead
+|-
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"|
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"|
+|-
+! 28 Apr 2018
+! colspan="22" |[[Abdullah Gül]] declares he will not run for president
+|-
+|{{nowrap|14–15 Apr 2018}}||[https://web.archive.org/web/20180508193508/https://tr.sputniknews.com/turkiye/201804231033137702-gezici-arastirma-secim-anket-erdogan-aksener-ikinci-tur/ Gezici] || 3,864 || style="background: #FFF1C4" |64.6 || 35.4 || style="background: #FDC400" | {{fontcolor|white|'''29.2'''}}
+|-
+|{{nowrap|22–26 Mar 2018}}||[https://web.archive.org/web/20180508193006/http://www.kpsscafe.com.tr/turkiye/son-secim-anket-sonucu-aciklandi-partilerin-oy-orani-bomba-h83112.html ORC] || 5,620 || style="background: #FFF1C4" |67.7 || 32.3 || style="background: #FDC400" | {{fontcolor|white|'''35.4'''}}
+|-
+|{{nowrap|8–14 Feb 2018}}||[https://web.archive.org/web/20180323092334/http://www.yurtgazetesi.com.tr/gundem/son-anket-optimardan-iste-akp-mhp-ittifakina-destek-orani-h83001.html Optimar] || 1,500 || style="background: #FFF1C4" |62.2 || 37.8 || style="background: #FDC400" | {{fontcolor|white|'''24.4'''}}
+|}
+
+=====Erdoğan vs. Kılıçdaroğlu=====
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:20px;"
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="50px"|Sample
+!width=50 |[[Recep Tayyip Erdoğan|Erdoğan]]
+!width=50 |[[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]
+!width=50 rowspan=2|Lead
+|-
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"|
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+|-
+|{{nowrap|4 May 2018}}|| [https://web.archive.org/web/20180508193244/http://t24.com.tr/haber/konsensusun-anketine-gore-muharrem-ince-ve-erdoganin-oy-oranlari-ne,620356 Konsensus] || 1,000 || style="background: #FFF1C4" |57.7|| 42.3 || style="background: #FDC400" |{{fontcolor|white|'''15.4'''}}
+|-
+|{{nowrap|1 May 2018}}||[https://web.archive.org/web/20180508193733/https://pbs.twimg.com/media/DcIM1aeX4AEh-cc.jpg PİAR] || – || style="background: #FFF1C4" |53.0 || 47.0 || style="background: #FDC400" |{{fontcolor|white|'''6.0'''}}
+|-
+! 29 Apr 2018
+! colspan="22" |[[Kemal Kılıçdaroğlu]] declares he will not run for president
+|-
+|{{nowrap|22–26 Mar 2018}}||[https://web.archive.org/web/20180508193006/http://www.kpsscafe.com.tr/turkiye/son-secim-anket-sonucu-aciklandi-partilerin-oy-orani-bomba-h83112.html ORC] || 5,620 || style="background: #FFF1C4" |62.0 || 38.0 || style="background: #FDC400" | {{fontcolor|white|'''24.0'''}}
+|-
+|{{nowrap|6–18 Mar 2018}}||[https://web.archive.org/web/20180508193101/http://www.cumhuriyet.com.tr/foto/foto_galeri/953641/2/Bu_pazar_secim_olsa_anketi___Erdogan_a_oy_veririm__diyenlerin_orani_yuzde_30.html PİAR] || – || style="background: #FFF1C4" |52.0 || 48.0 || style="background: #FDC400" | {{fontcolor|white|'''4.0'''}}
+|}
+{{hidden end}}
+
+==Parliamentary election==
+Poll results are listed in the tables below in reverse chronological order, showing the most recent first, and using the date the survey's fieldwork was done, as opposed to the date of publication. If such date is unknown, the date of publication is given instead. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading party's colour. In the instance that there is a tie, then no figure is shaded. The lead column on the right shows the percentage-point difference between the two parties with the highest figures. When a specific poll does not show a data figure for a party, the party's cell corresponding to that poll is shown empty.
+
+=== Graphical summary ===
+
+[[Image:Turkish polls 2018.png|1000px]]
+
+===Party vote===
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:17px;"
+|-
+!rowspan=2 width="150px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="50px"|Sample
+!width=50 |[[Justice and Development Party (Turkey)|AKP]]
+!width=50 |[[Republican People's Party (Turkey)|CHP]]
+!width=50 |[[Nationalist Movement Party|MHP]]
+!width=50 |[[Peoples' Democratic Party (Turkey)|HDP]]
+!width=50 |[[İyi Party|İYİ]]
+!width=50 |[[Felicity Party|SP]]
+!width=50 |Others
+!width=50 rowspan=2|Lead
+|-
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"| 
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+!style="background: {{Nationalist Movement Party/meta/color}}"|
+!style="background: {{Peoples' Democratic Party (Turkey)/meta/color}}"|
+!style="background: {{İyi Party/meta/color}}"|
+!style="background: {{Felicity Party/meta/color}}"|
+!style="background: {{Independent politician/meta/color}}"|
+|-
+|28 May–3 Jun 2018
+|[https://web.archive.org/web/20180606202937/http://www.remres.com.tr/filemanager/files/haziran-1.pdf REMRES]
+|4,482
+| style="background: #FFF1C4" |40.0
+|23.5
+|5.1
+|10.4
+|15.2
+|4.2
+|1.6
+| style="background: #FDC400" |{{fontcolor|white|'''16.5'''}}
+|-
+|29 May–1 Jun 2018||[http://web.archive.org/web/20180605163801/http://www.cumhuriyet.com.tr/foto/foto_galeri/989607/1/iste_son_anket__ince_den_rekor_artis__fark_kapaniyor.html Sonar]||3,000||style="background: #FFF1C4" |42.2|| 28.2|| 7.1 ||10.0||9.2||2.1||1.2|| style="background: #FDC400" |{{fontcolor|white|'''14.0'''}}
+|-
+|{{nowrap|26–31 May 2018}}
+|[https://web.archive.org/web/20180608181233/http://www.cumhuriyet.com.tr/foto/foto_galeri/992691/1/Son_ankette_Erdogan_ve_AKP_icin_sok_sonuclar.html PİAR]
+|2,620
+| style="background: #FFF1C4" |34.8
+|23.4
+|7.3
+|14.1
+|17.2
+|2.5
+|0.7
+| style="background: #FDC400" |{{fontcolor|white|'''11.4'''}}
+|-
+|1–28 May 2018||[http://web.archive.org/web/20180606022541/https://odatv.com/referandumu-hatasiz-tahmin-eden-sirketin-son-anketi-ilk-kez-odatvde-03061834.html Konsensus]||2,000|| style="background: #FFF1C4" |43.8|| 27.4|| 7.4 ||9.7||11.2||0.3||0.2|| style="background: #FDC400" |{{fontcolor|white|'''16.4'''}}
+|-
+|23–26 May 2018||[http://web.archive.org/web/20180530034827/http://www.cumhuriyet.com.tr/koseyazisi/985154/24_Haziran_da_iktidarin_isi_artik_daha_zor.html İEA]||1,500|| style="background: #FFF1C4" |40.7|| 22.7|| 3.8 ||12.1||15.7||2.5||2.5|| style="background: #FDC400" |{{fontcolor|white|'''18.0'''}}
+|-
+|22–23 May 2018||[http://web.archive.org/web/20180525062245/http://www.yenicaggazetesi.com.tr/anket-sonuclari-aciklandi-aksener-ince-ve-erdoganda-son-durum-2960g-p3.htm Mediar]||4,268|| style="background: #FFF1C4" |39.6|| 22.6|| 5.3 ||11.4||17.6||2.3||1.2|| style="background: #FDC400" |{{fontcolor|white|'''17.0'''}}
+|-
+|{{Nowrap|17–23 May 2018}}||[https://web.archive.org/web/20180525204615/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%203.pdf REMRES]||4,276||style="background: #FFF1C4" |40.0|| 23.3|| 5.3 ||10.4||15.1||4.2||1.7|| style="background: #FDC400" |{{fontcolor|white|'''16.7'''}}
+|-
+|13–20 May 2018||[http://web.archive.org/web/20180524082416/http://www.cumhuriyet.com.tr/haber/ekonomi/980790/MAK_anketine_gore_ulkenin_en_buyuk_sorunu_ve_adaylarin_oy_orani.html MAK]||5,000|| style="background: #FFF1C4" |45.0|| 23.5|| 9.0 ||9.0||8.5||2.2||2.8|| style="background: #FDC400" |{{fontcolor|white|'''21.5'''}}
+|-
+|6–9 May 2018||[https://web.archive.org/web/20180511114929/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%202.pdf REMRES]||3,653|| style="background: #FFF1C4" |40.3|| 23.2|| 5.3 ||10.3||15.5||4.2||1.2|| style="background: #FDC400" |{{fontcolor|white|'''17.1'''}}
+|-
+|2 May 2018||[https://web.archive.org/web/20180511113520/http://www.remres.com.tr/editor/upload/files/100.pdf REMRES]||2,586|| style="background: #FFF1C4" |40.5|| 22.7|| 5.6 ||10.4||15.2||4.2||1.3|| style="background: #FDC400" |{{fontcolor|white|'''17.8'''}}
+|-
+|rowspan=5|{{nowrap|1 May 2018}}||rowspan=5| [https://web.archive.org/web/20180501224824/https://tr.sputniknews.com/turkiye/201805011033258184-piar-arastirma-24-haziran-anketi-cumhur-ittifaki-oy-kaybi/ PİAR] || rowspan="5" | – || style="background: #FFF1C4" |44.2 || 23.4 ||rowspan=8| <small>[[People's Alliance (Turkey)|with AKP]]</small> ||12.1 || 17.5 || 2.5 ||0.3 || style="background: #Fdc400" | {{fontcolor|white|'''20.8'''}}
+|-
+| style="background: #FFF1C4" |44.0 || 32.2 || <small>with CHP</small> || 23.3 || <small>with İYİ</small> || 0.5 || style="background: #Fdc400" | {{fontcolor|white|'''11.8'''}}
+|-
+| style="background: #FFF1C4" |44.7 || 40.2 || 14.9 || <small>[[Nation Alliance (Turkey)|with CHP]]</small> || <small>[[Nation Alliance (Turkey)|with CHP]]</small> || 0.2 || style="background: #Fdc400" | {{fontcolor|white|'''4.5'''}}
+|-
+| style="background: #FFF1C4" |41.6 || 23.9 || 11.4 || 22.8 || <small>with İYİ</small> || 0.3 || style="background: #Fdc400" | {{fontcolor|white|'''17.7'''}}
+|-
+| 46.8 || style="background: #FFCCCC" | 53.0 || <small>with CHP</small> || <small>with CHP</small> || <small>with CHP</small> || 0.2 || style="background: #D50000" | {{fontcolor|white|'''6.2'''}}
+|-
+|rowspan=1|{{nowrap|26–29 Apr 2018}}||rowspan=1| [https://web.archive.org/web/20180501225633/http://www.yenicaggazetesi.com.tr/son-anket-sonuclari-aciklandi-cumhur-ittifaki-tepetaklak-2875g-p4.htm Mediar] || rowspan="1" | 2,660 || style="background: #FFF1C4" |42.5 || 22.9 || 13.2 || 17.1 || 3.1 || 1.2 || style="background: #Fdc400" | {{fontcolor|white|'''19.6'''}}
+|-
+|rowspan=1|{{nowrap|25 Apr 2018}}||rowspan=1| [https://web.archive.org/web/20180508194359/https://www.evrensel.net/haber/350960/sonardan-secim-anketi-akp-mhp-ittifaki-yuzde-46-9 SONAR] || rowspan="1" | – || style="background: #FFF1C4" |46.9 || 23.8 || 11.3 || 14.5 || <small>with İYİ</small> || {{n/a}} || style="background: #Fdc400" | {{fontcolor|white|'''23.1'''}}
+|-
+|rowspan=2|24–25 Apr 2018
+|rowspan=2|[https://web.archive.org/web/20180511112238/http://www.cumhuriyet.com.tr/foto/foto_galeri/972715/3/Konsensus_anketi__ikinci_turda_hangi_aday_ne_kadar_oy_aliyor_.html Konsensus]
+|rowspan=2|1,000
+|style="background: #FFF1C4" |49.0
+|22.4
+|6.7
+|21.4
+|<small>with İYİ</small>
+|0.5
+|style="background: #Fdc400" | {{fontcolor|white|'''26.6'''}}
+|-
+|style="background: #FFF1C4" |42.2
+|20.2
+|7.8
+|7.0
+|19.7
+|2.5
+|0.4
+|style="background: #Fdc400" | {{fontcolor|white|'''22.0'''}}
+|-
+!18 Apr 2018 !! colspan=10|[[Turkish general election, 2018|Early elections]] are called for 24 June 2018
+|-
+|rowspan=1|{{nowrap|13–20 Apr 2018}}||rowspan=1| [http://www.dw.com/tr/metropoll-cumhur-ittifak%C4%B1n%C4%B1n-oy-oran%C4%B1-y%C3%BCzde-54/a-43733769 Metropoll] || rowspan=1|2,063 || style="background: #FFF1C4" |48.2 || 21.0 || 5.7 || 10.5 || 12.3 || 1.5 || 0.8 || style="background: #Fdc400" | {{fontcolor|white|'''27.2'''}}
+|-
+|rowspan=3|{{nowrap|14–15 Apr 2018}}||rowspan=3| [https://tr.sputniknews.com/turkiye/201804231033137702-gezici-arastirma-secim-anket-erdogan-aksener-ikinci-tur/ Gezici] || rowspan=3|3,864 || style="background: #FFF1C4" |45.8 || 19.7 || 7.0 || 9.7 || 16.3 || 0.8 || 0.7 || style="background: #Fdc400" | {{fontcolor|white|'''26.1'''}}
+|-
+| style="background: #FFF1C4" |48.2|| 18.9|| rowspan=4| <small>[[People's Alliance (Turkey)|with AKP]]</small> || 9.5 ||23.4 || <small>with İYİ</small> ||0.0 || style="background: #Fdc400" | {{fontcolor|white|'''24.8'''}}
+|-
+| style="background: #FFF1C4" |49.9 || 18.9 ||10.5 ||17.8||rowspan=31 {{NA}} ||2.9 || style="background: #Fdc400" | {{fontcolor|white|'''31.0'''}}
+|-
+|{{nowrap|22–26 Mar 2018}}|| [http://www.kpsscafe.com.tr/turkiye/son-secim-anket-sonucu-aciklandi-partilerin-oy-orani-bomba-h83112.html ORC] || 5,620 || style="background: #FFF1C4" |56.2 || 26.5 ||  8.3 || 7.1 || 1.9 || style="background: #Fdc400" | {{fontcolor|white|'''29.7'''}}
+|-
+|{{nowrap|14–24 Mar 2018}}|| [http://www.cumhuriyet.com.tr/haber/siyaset/955802/5_MHP_liden_1_i__Erdogan_a_asla_oy_vermem__diyor..._iste_son_ankete_gore_ittifakin_oy_orani.html Ankara Analitik] || 1,619 || style="background: #FFF1C4" |52.9 || 18.4 || 5.3 || 12.6 || {{n/a}} || style="background: #Fdc400" | {{fontcolor|white|'''34.5'''}}
+|-
+|rowspan=4|{{nowrap|6–18 Mar 2018}}||rowspan=4| [http://www.cumhuriyet.com.tr/foto/foto_galeri/953641/2/Bu_pazar_secim_olsa_anketi___Erdogan_a_oy_veririm__diyenlerin_orani_yuzde_30.html PİAR] || rowspan=4| 5,620
+| style="background: #FFF1C4" |39.6 || 22.2 || 5.8 || 12.2 || 16.9 || 0.8 || style="background: #Fdc400" | {{fontcolor|white|'''17.4'''}}
+|-
+| style="background: #FFF1C4" |44.2 || 31.1 || rowspan=3| <small>[[People's Alliance (Turkey)|with AKP]]</small> || {{n/a}} || 24.3 || 0.4 || style="background: #Fdc400" | {{fontcolor|white|'''13.1'''}}
+|-
+| style="background: #FFF1C4" |53.1 || 35.4 || 11.1 ||{{n/a}} ||0.4 || style="background: #Fdc400" | {{fontcolor|white|'''17.7'''}}
+|-
+| style="background: #FFF1C4" |43.2 || 23.1 || 11.7 ||21.7 ||0.3 || style="background: #Fdc400" | {{fontcolor|white|'''20.1'''}}
+|-
+|{{nowrap|23–27 Feb 2018}}|| [http://www.gazetevatan.com/son-secim-anketi-bomba-ittifak-detayi-1147397-gundem/ ORC] || 3,420 || style="background: #FFF1C4" |48.2 || 24.6 || 11.2 || 7.9 || 5.7 || 2.4 || style="background: #Fdc400" | {{fontcolor|white|'''23.6'''}}
+|-
+|{{nowrap|8–14 Feb 2018}}|| [http://www.yurtgazetesi.com.tr/gundem/son-anket-optimardan-iste-akp-mhp-ittifakina-destek-orani-h83001.html Optimar] || 1,500 || style="background: #FFF1C4" |52.2 || 22.6 || 10.7 || 7.8 || 4.2 || 2.5 || style="background: #Fdc400" | {{fontcolor|white|'''29.6'''}}
+|-
+|rowspan=2|{{nowrap|4–14 Feb 2018}}||rowspan=2| [http://www.mynet.com/haber/guncel/unlu-anket-sirketinin-sahibi-twitter-dan-paylasti-iste-son-anket-3756468-1 PİAR] || rowspan=2|2,440 || style="background: #FFF1C4" |40.2 || 25.5 || 7.3 || 12.0 || 13.3 || 1.7 || style="background: #Fdc400" | {{fontcolor|white|'''14.7'''}}
+|-
+| style="background: #FFF1C4" |45.2 || 25.5|| <small>[[People's Alliance (Turkey)|with AKP]]</small> ||13.5 ||14.0 ||1.9 || style="background: #Fdc400" | {{fontcolor|white|'''19.7'''}}
+|-
+|{{nowrap|18 Jan 2018}}||[http://www.mynet.com/haber/guncel/hangi-parti-ne-kadar-oy-alacak-3630788-1 ORC] || – || style="background: #FFF1C4" |47.2 || 25.9 || 10.8 || 8.5 || 5.5 || 2.1 || style="background: #Fdc400" | {{fontcolor|white|'''21.3'''}}
+|-
+|{{nowrap|14 Jan 2018}}||[http://www.cumhuriyet.com.tr/foto/foto_galeri/905050/2/SONAR_in_son_anketi__Erdogan_in_ikinci_turda_da_secilmesi_cok_zor.html SONAR] || 3,000 || style="background: #FFF1C4" |40.1 || 25.3 || 7.1 || 10.8 || 14.2 || 2.5 || style="background: #Fdc400" | {{fontcolor|white|'''14.8'''}}
+|-
+|{{nowrap|10 Jan 2018}}||[http://www.cumhuriyet.com.tr/haber/turkiye/902107/Fatih_Altayli_nin_acikladigi_ankette_MHP_surprizi.html Konsensus] || – || style="background: #FFF1C4" |48.2 || 25.4 || 11.4 || 9.8 || 2.9 || 2.4 || style="background: #Fdc400" | {{fontcolor|white|'''22.8'''}}
+|-
+|{{nowrap|24 Dec 2017}}||[http://www.mynet.com/haber/guncel/son-secim-anketi-aciklandi-bu-pazar-secim-olsaydi-iste-oy-oranlari-3578930-1 İEA] || 1,537 || style="background: #FFF1C4" |45.5 || 21.5 || 6.7 || 11.4 || 12.3 || 2.3 || style="background: #Fdc400" | {{fontcolor|white|'''24.0'''}}
+|-
+|{{nowrap|2–17 Dec 2017}}||[http://www.sozcu.com.tr/2018/gundem/gezici-son-anket-arastirmasinin-sonuclarini-ilk-defa-halk-arenasinda-acikladi-2181545/ Gezici] || 4,238 || style="background: #FFF1C4" |42.0 || 20.1 || 7.3 || 8.7 || 20.2 || 1.7 || style="background: #Fdc400" | {{fontcolor|white|'''21.9'''}}
+|-
+|{{nowrap|1–15 Dec 2017}}||[http://www.milatgazetesi.com/yasam/2019-cumhurbaskanligi-secim-anketi-2019-secimleri-ne-zaman-h136599.html AAA] || 40,800 || style="background: #FFF1C4" |45.8 || 22.5 || 12.7 || 10.3 || 8.7 || 0.0 || style="background: #Fdc400" | {{fontcolor|white|'''23.3'''}}
+|-
+|{{nowrap|9–15 Nov 2017}}||[http://www.internethaber.com/orcnin-son-secim-anketi-bomba-o-partiye-buyuk-sok-foto-galerisi-1824725.htm ORC] || 2,674 || style="background: #FFF1C4" |48.9 || 23.9 || 10.2 || 7.5 || 6.7 || 2.8 || style="background: #Fdc400" | {{fontcolor|white|'''25.0'''}}
+|-
+|{{nowrap|13 Nov 2017}}||[http://www.cumhuriyet.com.tr/haber/turkiye/865203/AKP_li_Dag__anket_sonucu_acikladi..._iYi_Parti_yi_yok_saydi.html AKP] || – || style="background: #FFF1C4" |50.2 || 23.2 || 10.7 || 10.5 || {{NA}} || 5.5 || style="background: #Fdc400" | {{fontcolor|white|'''27.0'''}}
+|-
+|{{nowrap|1–13 Nov 2017}}||[https://www.birgun.net/haber-detay/bu-pazar-secim-olsa-hangi-parti-ne-kadar-oy-alir-192305.html İEA] || 1,537 || style="background: #FFF1C4" |47.4 || 19.2 || 7.2 || 12.3 || 12.2 || 1.6 || style="background: #Fdc400" | {{fontcolor|white|'''28.2'''}}
+|-
+|{{nowrap|1–6 Nov 2017}}||[http://www.yurtgazetesi.com.tr/gundem/yeni-secim-anketi-akp-yuzde-3851-mhp-baraj-altinda-h57662.html Sonar] || 3,000 || style="background: #FFF1C4" |38.5 || 23.5 || 7.8 || 10.3 || 16.1 || 3.8 || style="background: #Fdc400" | {{fontcolor|white|'''15.0'''}}
+|-
+|{{nowrap|31 Oct 2017}}||[http://odatv.com/akp-medyasi-aksener-anketi-yayinladi-3110171200.html Optimar] || 1,547 || style="background: #FFF1C4" |50.6 || 23.3 || 9.9 || 7.8 || 6.4 || 2.0 || style="background: #Fdc400" | {{fontcolor|white|'''27.3'''}}
+|-
+|rowspan=2|{{nowrap|10–15 Oct 2017}}||rowspan=2 | [https://tr.sputniknews.com/turkiye/201711011030835512-gezici-aksener-erken-secim-oy-dagilimi-aksener/ Gezici] || rowspan=2| 4,638 || style="background: #FFF1C4" |43.8 || 18.5 || 8.8 || 7.0 || 19.5 || 2.4 || style="background: #Fdc400" | {{fontcolor|white|'''24.3'''}}
+|-
+| style="background: #FFF1C4" |47.1 || 26.8 || 13.5 || 9.8 ||rowspan=2 {{NA}} || 2.8 || style="background: #Fdc400" | {{fontcolor|white|'''20.3'''}}
+|-
+|{{nowrap|14 Oct 2017}}||[http://www.sonhaberler.com/arastirma/kondanin-yarin-secim-olsa-son-anketi-h460064.html Konda] || 2,646 || style="background: #FFF1C4" |50.9 || 26.0 || 10.3 || 10.5 || 2.3 || style="background: #Fdc400" | {{fontcolor|white|'''24.9'''}}
+|-
+|{{nowrap|5–12 Oct 2017}}||[http://t24.com.tr/haber/mak-danismanlik-erdogani-desteklerim-diyenlerin-orani-yuzde-48-meclise-sadece-akp-ve-chp-girebiliyor,464382 MAK] || – || style="background: #FFF1C4" |48.8 || 25.3 || 8.9 || 8.2 || 5.3 || 3.6 || style="background: #Fdc400" | {{fontcolor|white|'''23.5'''}}
+|-
+|{{nowrap|6–8 Oct 2017}}||[http://www.gazetevatan.com/orc-den-meral-aksener-li-genel-secim-anket-calismasi-1109157-siyaset/ ORC] || 2,580 || style="background: #FFF1C4" |47.4 || 26.3 || 10.7 || 7.3 || 6.2 || 2.1 || style="background: #Fdc400" | {{fontcolor|white|'''21.1'''}}
+|-
+|{{nowrap|27 Sep 2017}}||[http://www.ensonhaber.com/sonarin-secim-anketi.html Sonar] || – || style="background: #FFF1C4" |38.2 || 28.4 || 10.1 || 10.6 || 10.8 || 1.9 || style="background: #Fdc400" | {{fontcolor|white|'''9.8'''}}
+|-
+|{{nowrap|2–10 Sep 2017}}||[https://tr.sputniknews.com/turkiye/201709131030132201-aksener-parti-oy-orani/ Objektif] || 4,322 || style="background: #FFF1C4" |39.9 || 23.4 || 4.0 || 10.1 || 21.0 || 1.6 || style="background: #Fdc400" | {{fontcolor|white|'''16.5'''}}
+|-
+|{{nowrap|10–16 Jul 2017}}||[https://web.archive.org/web/20170805035548/http://www.yeniakit.com.tr/haber/son-secim-anketi-aciklandi-iste-sonuclar-357195.html MAK] || 5,400 || style="background: #FFF1C4" |50.5 || 26.5 || 12.7 || 8.0 ||rowspan=2 {{NA}} || 2.3 || style="background: #Fdc400" | {{fontcolor|white|'''24.0'''}}
+|-
+|{{nowrap|5–14 Jul 2017}}||[http://www.gazetevatan.com/bu-pazar-secim-olsa-iste-son-gelen-anket-sonuclari-1086833-gundem/ Konensus] || 1,500 || style="background: #FFF1C4" |54.5 || 26.8 || 7.6 || 8.5 || 2.6 || style="background: #Fdc400" | {{fontcolor|white|'''27.7'''}}
+|-
+!{{nowrap|16 Apr 2017}}!! colspan="10"| {{centre|[[Turkish constitutional referendum, 2017]]}}
+|-
+|{{nowrap|24–27 Mar 2017}}||[http://www.orcarastirma.com.tr/wp-content/uploads/2017/03/24-27-MART-2017-ÖZEL-GÜNDEM-ARAŞRTIRMASI.pdf ORC] || 2,740 || style="background: #FFF1C4" |52.4 || 24.0 || 15.2 || 6.3 ||rowspan=25 {{NA}} || rowspan=25 {{NA}} ||2.1 || style="background: #Fdc400" | {{fontcolor|white|'''28.4'''}}
+|-
+|{{nowrap|18–22 Mar 2017}}||[http://www.cumhuriyet.com.tr/foto/foto_galeri/705998/7/Avrasya_Kamuoyu_Arastirmalari_Merkezi_referandum_anketini_acikladi.html AKAM] || 2,032 || style="background: #FFF1C4" |46.7 || 31.4 || 8.8 || 10.8 || 2.2 || style="background: #Fdc400" | {{fontcolor|white|'''15.3'''}}
+|-
+|{{nowrap|3–9 Mar 2017}}||[http://www.cumhuriyet.com.tr/foto/foto_haber/695283/1/_Evet_mi_onde_Hayir_mi___iste_son_referandum_anketinden_cikan_carpici_sonuc.html AKAM] || 8,120 || style="background: #FFF1C4" |45.2 || 31.6 || 9.7 || 10.3 || 3.2 || style="background: #Fdc400" | {{fontcolor|white|'''13.6'''}}
+|-
+|{{nowrap|25 Feb–2 Mar 2017}}||[http://www.haberler.com/tarihe-gecti-dunyada-onegi-yok-her-4-secmenden-9327340-haberi/?oku=1 MAK] || 5,400 || style="background: #FFF1C4" |52.2 || 24.5 || 13.4 || 7.8 || 2.2 || style="background: #Fdc400" | {{fontcolor|white|'''27.7'''}}
+|-
+|{{nowrap|16–21 Feb 2017}}||[http://www.birgun.net/haber-detay/avrasya-kamuoyu-arastirmalari-merkezi-referandum-anketi-sonucunu-acikladi-147689.html AKAM] || 4,060 || style="background: #FFF1C4" |45.2 || 29.9 || 11.8 || 10.7 || 2.4 || style="background: #Fdc400" | {{fontcolor|white|'''15.3'''}}
+|-
+|{{nowrap|10–18 Feb 2017}}||[http://www.cumhuriyet.com.tr/foto/foto_haber/684118/3/Fark_artiyor..._iste_son__baskanlik__anketinin_sonucu.html THEMİS] || 1,985 || style="background: #FFF1C4" |45.6 || 31.3 || 8.3 || 9.6 || 5.2 || style="background: #Fdc400" | {{fontcolor|white|'''14.3'''}}
+|-
+|{{nowrap|3 Feb 2017}}||[https://tr.sputniknews.com/turkiye/201702041027066901-gezici-arastirma-referandum-anayasa-degisikligi-anket/ Gezici] || – || style="background: #FFF1C4" |45.1 || 26.0 || 15.1 || 10.2 || 3.6 || style="background: #Fdc400" | {{fontcolor|white|'''19.1'''}}
+|-
+|{{nowrap|26 Jan-1 Feb 2017}}||[http://duzgunhaber.com.tr/son_anketten_cikan_surpriz-_dort_partinin_son_durumu_ne-79319 MAK] || 5,400 || style="background: #FFF1C4" |51.7 || 25.6 || 12.8 || 7.8 || 2.3 || style="background: #Fdc400" | {{fontcolor|white|'''26.1'''}}
+|-
+|{{nowrap|24–29 Jan 2017}}||[http://www.haberler.com/konsensus-un-referandum-anketi-52-evet-9252906-haberi/ Konsensus] || 1,117 || style="background: #FFF1C4" |53.4 || 27.2 || 9.0 || 7.9 || 2.5 || style="background: #Fdc400" | {{fontcolor|white|'''26.2'''}}
+|-
+|{{nowrap|10–11 Jan 2017}}||[http://www.aksam.com.tr/guncel/iste-son-anket-referandumda-evet-yuzde-62/haber-585477 ORC] || 2,340 || style="background: #FFF1C4" |53.0 || 23.6 || 15.8 || 6.5 || 1.1 || style="background: #Fdc400" | {{fontcolor|white|'''29.4'''}}
+|-
+|{{nowrap|3–10 Jan 2017}}||[http://duzgunhaber.com.tr/son_anketten_surpriz_sonuclar_cikti-78421 Optimar] || 2,043 || style="background: #FFF1C4" |52.1 || 25.8 || 13.3 || 6.4 || 2.4 || style="background: #Fdc400" | {{fontcolor|white|'''26.3'''}}
+|-
+|{{nowrap|7–16 Dec 2016}}||[http://www.khas.edu.tr/uploads/TSSEA2016.pptx KHAS] || 1,000 || style="background: #FFF1C4" |52.7 || 27.2 || 11.9 || 6.4 || 1.9 || style="background: #Fdc400" | {{fontcolor|white|'''25.5'''}}
+|-
+|{{nowrap|15 Dec 2016}}||[http://www.haberler.com/orc-anketinde-siyasi-partilerin-son-durumu-9067740-haberi/ ORC] || 2,450 || style="background: #FFF1C4" |52.8 || 23.4 || 15.0 || 7.0 || 1.8 || style="background: #Fdc400" | {{fontcolor|white|'''29.4'''}}
+|-
+|{{nowrap|21 Nov–6 Dec 2016}}||[http://www.haber7.com/foto-galeri/42015-turkiye-siyasi-gundem-arastirmasi-aralik-2016/p35 İVEM] || 3,650 || style="background: #FFF1C4" |54.6 || 24.2 || 12.4 || 6.5 || 2.3 || style="background: #Fdc400" | {{fontcolor|white|'''30.4'''}}
+|-
+|{{nowrap|30 Nov 2016}}||[http://www.diken.com.tr/metropoll-arastirmasi-yuzde-51-baskanliga-karsi-sonucu-yuzde-10luk-kararsizlar-belirleyecek/ MetroPoll] || – || style="background: #FFF1C4" |49.5 || 26.5 || 11.5 || 10.7 || 1.8 || style="background: #Fdc400" | {{fontcolor|white|'''23.0'''}}
+|-
+|{{nowrap|15–19 Nov 2016}}||[http://www.internethaber.com/son-anket-sonuclari-mhp-ve-hdp-oylari-sasirtti-foto-galerisi-1732684.htm?page=9 MAK] || 5,400 || style="background: #FFF1C4" |50.8 || 24.6 || 14.5 || 7.5 || 2.6 || style="background: #Fdc400" | {{fontcolor|white|'''26.2'''}}
+|-
+|{{nowrap|9–17 Nov 2016}}||[http://www.cumhuriyet.com.tr/haber/turkiye/636142/Son_ankette_carpici_sonuclar__Erdogan_a_destekte_buyuk_dusus.html AKAM] || 4,240 || style="background: #FFF1C4" |45.6 || 30.3 || 11.2 || 11.4 || 1.5 || style="background: #Fdc400" | {{fontcolor|white|'''15.3'''}}
+|-
+|{{nowrap|22 Oct 2016}}||[http://duzgunhaber.com.tr/hangi_parti_yukseliyor-_hangi_parti_dususte-64791 ORC] || – || style="background: #FFF1C4" |53.1 || 25.0 || 14.2 || 6.2 || 1.5 || style="background: #Fdc400" | {{fontcolor|white|'''28.1'''}}
+|-
+|{{nowrap|24–26 Sep 2016}}||[https://web.archive.org/web/20161018205953/http://www.haberler.com/son-secim-anketi-ak-parti-nin-oy-orani-yuzde-54-8856154-haberi/ A&G] || 3,018 || style="background: #FFF1C4" |54.6 || 24.8 || 12.0 || 7.9 || 0.7 || style="background: #Fdc400" | {{fontcolor|white|'''29.8'''}}
+|-
+|{{nowrap|2 Aug 2016}}||[https://web.archive.org/web/20160903171542/http://www.ensonhaber.com/son-anket-millet-fetonun-tamamen-temizlenmesini-istiyor-2016-09-02.html ORC] || – || style="background: #FFF1C4" |54.7 || 24.0 || 14.0 || 5.8 || 1.5 || style="background: #Fdc400" | {{fontcolor|white|'''30.7'''}}
+|-
+|{{nowrap|27 Jul 2016}}||[http://www.karar.com/gundem/darbe-girisiminden-sonra-ilk-anket?p=16 Optimar] || 1,273 || style="background: #FFF1C4" |53.8 || 21.5 || 11.7 || 10.7 || 2.3 || style="background: #Fdc400" | {{fontcolor|white|'''32.3'''}}
+|-
+|{{nowrap|5–12 Jun 2016}}||[http://www.haberler.com/orc-anketi-ak-parti-yuzde-53-5-hdp-6-9-8552463-haberi/ ORC] || 2,240 || style="background: #FFF1C4" |53.5 || 23.6 || 12.0 || 6.9 || 4.0 || style="background: #Fdc400" | {{fontcolor|white|'''29.9'''}}
+|-
+|{{nowrap|1 Jun 2016}}||[http://www.birgun.net/haber-detay/erdogan-a-anket-soku-halk-baskanlik-istemiyor-114304.html Metropoll] || 3,000 || style="background: #FFF1C4" |49.9 || 24.1 || 13.8 || 11.0 || 1.2 || style="background: #Fdc400" | {{fontcolor|white|'''25.8'''}}
+|-
+|{{nowrap|30 May 2016}}||[http://www.haberler.com/kamuoyundan-baskanliga-destek-yildirim-a-guven-8482666-haberi/ Optimar] || 1,508 || style="background: #FFF1C4" |51.4 || 24.3 || 11.6 || 10.1 || 2.7 || style="background: #Fdc400" | {{fontcolor|white|'''27.1'''}}
+|-
+|{{nowrap|23 May 2016}}||[http://www.gazetevatan.com/binali-yildirim-li-ilk-anket-orc-den-947972-gundem/ ORC] || – || style="background: #FFF1C4" |53.0 || 24.0 || 13.0 || 7.0 || 3.0 || style="background: #Fdc400" | {{fontcolor|white|'''29.0'''}}
+|-
+!{{nowrap|22–24 May 2016}}!! colspan="10"| {{centre|[[Binali Yıldırım]] becomes [[Prime Minister of Turkey]] following the resignation of [[Ahmet Davutoğlu]]}}
+|-
+|{{nowrap|9 May 2016}}||[https://web.archive.org/web/20160528164315/https://twitter.com/KamuARarastirma/status/729646651837718528 KamuAR] || 2,493 || style="background: #FFF1C4" |48.9 || 26.4 || 12.6 || 8.4 ||rowspan=17 {{NA}} || rowspan=17 {{NA}} || 3.7 || style="background: #Fdc400" | {{fontcolor|white|'''22.5'''}}
+|-
+|{{nowrap|5–6 May 2016}}||[http://www.turkiyegazetesi.com.tr/gundem/368004.aspx ORC] || 1,265 || style="background: #FFF1C4" |52.8 || 24.0 || 12.8 || 7.1 || 3.3 || style="background: #Fdc400" | {{fontcolor|white|'''28.8'''}}
+|-
+|{{nowrap|27 Apr 2016}}||[http://www.gazetevatan.com/sonar-in-son-anketi-bahceli-gider-939325-gundem/ Sonar] || – || style="background: #FFF1C4" |48.8 || 25.6 || 10.8 || 9.7 || 5.1 || style="background: #Fdc400" | {{fontcolor|white|'''23.2'''}}
+|-
+|{{nowrap|10–14 Apr 2016}}||[http://www.evrensel.net/haber/277801/son-anket-sonuclari-muzakereye-evet-baskanliga-hayir AKAM] || 1,214 || style="background: #FFF1C4" |47.2 || 28.0 || 10.9 || 10.6 || 3.3 || style="background: #Fdc400" | {{fontcolor|white|'''19.2'''}}
+|-
+|{{nowrap|6 Apr 2016}}||[https://twitter.com/KamuARarastirma/status/717634136266174464 KamuAR] || 3,917 || style="background: #FFF1C4" |49.1 || 25.7 || 12.3 || 9.6 || 3.3 || style="background: #Fdc400" | {{fontcolor|white|'''23.4'''}}
+|-
+|{{nowrap|26–27 Mar 2016}}||[http://www.ensonhaber.com/gezicinin-anketinde-ak-parti-rekor-kirdi-2016-04-19.html Gezici] || – || style="background: #FFF1C4" |56.2 || 25.8 || 8.9 || 7.3 || 1.8 || style="background: #Fdc400" | {{fontcolor|white|'''30.4'''}}
+|-
+|{{nowrap|2–6 Mar 2016}}||[http://www.haberler.com/orc-anketi-ak-parti-nin-oyu-yuzde-54-e-cikti-8246385-haberi/?oku=1 ORC] || 4,176 || style="background: #FFF1C4" |54.0 || 21.7 || 11.6 || 7.8 || 4.9 || style="background: #Fdc400" | {{fontcolor|white|'''32.3'''}}
+|-
+|{{nowrap|5 Mar 2016}}||[http://www.gazetevatan.com/metropoll-den-son-secim-anketi-921571-gundem/ Metropoll] || – || style="background: #FFF1C4" |49.9 || 25.3 || 11.5 || 10.5 || 2.8 || style="background: #Fdc400" | {{fontcolor|white|'''24.6'''}}
+|-
+|{{nowrap|26 Feb 2016}}||[http://www.turkiyegazetesi.com.tr/politika/349334.aspx KONDA]|| 2,150 || style="background: #FFF1C4" |51.1 || 24.9 || 11.7 || 10.1 || 2.2 || style="background: #Fdc400" | {{fontcolor|white|'''25.9'''}}
+|-
+|{{nowrap|12 Feb 2016}}||[http://www.hurhaber.com/iste-ivem-arastirma-nin-son-secim-anketi-2016-haberi-56587.html İVEM]|| – || style="background: #FFF1C4" |52.4 || 25.2 || 11.3 || 8.4 || 2.7 || style="background: #Fdc400" | {{fontcolor|white|'''27.2'''}}
+|-
+|{{nowrap|27 Jan–3 Feb 2016}}||[http://www.ensonhaber.com/orcnin-baskanlik-ve-secim-anketi-2016-02-05.html ORC]|| 8,320 || style="background: #FFF1C4" |55.8 || 20.9 || 11.3 || 9.8 || 2.2 || style="background: #Fdc400" | {{fontcolor|white|'''34.9'''}}
+|-
+|{{nowrap|6 Jan 2016}}||[http://www.turkiyegazetesi.com.tr/gundem/336837.aspx GENAR]|| 4,500 || style="background: #FFF1C4" |50.8 || 25.7 || 11.1 || 10.2 || 2.2 || style="background: #Fdc400" | {{fontcolor|white|'''25.1'''}}
+|-
+|1–3 Jan 2016||[http://www.haber7.com/ic-politika/haber/1735940-iste-2016nin-ilk-anketi Varyans]|| – || style="background: #FFF1C4" |51.9 || 23.7 || 11.1 || 11.0 || 2.4 || style="background: #Fdc400" | {{fontcolor|white|'''28.2'''}}
+|-
+|1–4 Dec 2015||[http://www.turkiyegazetesi.com.tr/fotogaleri/bugun-secim-olsa-hangi-parti-birinci-gelir--4055.aspx MAK]|| 5,500 || style="background: #FFF1C4" |53.5 || 24.6 || 10.5 || 9.5  || 1.9 || style="background: #Fdc400" | {{fontcolor|white|'''28.9'''}}
+|-
+|16–21 Nov 2015||[http://www.turkiyegazetesi.com.tr/politika/327358.aspx MAK]|| 5,670 || style="background: #FFF1C4" |52.5 || 24.7 || 11.1 || 10.0 || 1.7 || style="background: #Fdc400" | {{fontcolor|white|'''27.8'''}}
+|-
+|4–9 Nov 2015||[http://www.internethaber.com/secim-sonrasi-orc-ilk-anket-sonuclari-ak-parti-yuzde-kac-oy-aldi-1486455h.htm ORC]|| 3,230 || style="background: #FFF1C4" |54.0 || 24.6 || 10.5 || 9.1 || 1.8 || style="background: #Fdc400" | {{fontcolor|white|'''29.4'''}}
+|-
+|2–3 Nov 2015||[http://www.turkiyegazetesi.com.tr/politika/323175.aspx IPSOS]|| 1,614 || style="background: #FFF1C4" |53.0 || 25.0 || 9.0 || 11.0 || 2.0 || style="background: #Fdc400" | {{fontcolor|white|'''28.0'''}}
+|- class=sortbottom style="background:#f2f2f2; font-weight:bold"
+!1 Nov 2015||{{nowrap|[[Turkish general election, November 2015|Election]]{{ref label|reference_name_A|a|a}}}}||–||style="background: #FFF1C4"|49.3 || 25.6 || 12.0 || 10.6 || {{NA}} || 0.7 || 1.8 ||style="background: #Fdc400"|{{fontcolor|white|23.7}}
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="50px"|Sample
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"| 
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+!style="background: {{Nationalist Movement Party/meta/color}}"|
+!style="background: {{Peoples' Democratic Party (Turkey)/meta/color}}"|
+!style="background: {{İyi Party/meta/color}}"|
+!style="background: {{Felicity Party/meta/color}}"|
+!style="background: {{Independent politician/meta/color}}"|
+!width=50 rowspan=2|Lead
+|-
+!width=50 |[[Justice and Development Party (Turkey)|AKP]]
+!width=50 |[[Republican People's Party (Turkey)|CHP]]
+!width=50 |[[Nationalist Movement Party|MHP]]
+!width=50 |[[Peoples' Democratic Party (Turkey)|HDP]]
+!width=50 |[[İyi Party|İYİ]]
+!width=50 |[[Felicity Party|SP]]
+!width=50 |Others
+|}
+
+{{note label|reference_name_A|a|a}} Domestic vote only
+
+=== Alliance vote ===
+
+==== Following formation of alliances ====
+{| class="wikitable" style="text-align:center; font-size:90%; line-height:17px;"
+|-
+! rowspan="2" width="150px" |Date
+! rowspan="2" width="110px" |Pollster
+! rowspan="2" width="50px" |Sample
+! width="50" |[[People's Alliance (Turkey)|Cumhur]]
+! width="50" |[[Nation Alliance (Turkey)|Millet]]
+! width="65" |[[Peoples' Democratic Party (Turkey)|HDP]] and others
+! rowspan="2" width="50" |Lead
+|-
+! style="background: {{Justice and Development Party (Turkey)/meta/color}}" | 
+! style="background: {{Republican People's Party (Turkey)/meta/color}}" |
+! style="background: {{Independent politician/meta/color}}" |
+|-
+|{{nowrap|28 May–3 Jun 2018}}||[https://web.archive.org/web/20180606202937/http://www.remres.com.tr/filemanager/files/haziran-1.pdf REMRES]||4,482|| style="background: #FFF1C4" |44.2||44.0||11.5 + 0.3|| style="background: #FDC400" |{{fontcolor|white|'''0.2'''}}
+|-
+|29 May–1 Jun 2018||[https://web.archive.org/web/20180605163801/http://www.cumhuriyet.com.tr/foto/foto_galeri/989607/1/iste_son_anket__ince_den_rekor_artis__fark_kapaniyor.html Sonar]||3,000|| style="background: #FFF1C4" |49.3|| 39.5|| 10.0 + 1.2 || style="background: #FDC400" |{{fontcolor|white|'''9.8'''}}
+|-
+|{{nowrap|28 May–1 Jun 2018}}||[https://web.archive.org/web/20180607205313/http://www.cumhuriyet.com.tr/haber/siyaset/988587/Referandumda_yuzde_60_diyen_AKP_anketcisinin_son_rakamlari.html ORC]||3,410|| style="background: #FFF1C4" |52.8|| 35.6||10.9 + 0.7|| style="background: #FDC400" |{{fontcolor|white|'''17.2'''}}
+|-
+|{{nowrap|26–31 May 2018}}
+|[https://web.archive.org/web/20180608181233/http://www.cumhuriyet.com.tr/foto/foto_galeri/992691/1/Son_ankette_Erdogan_ve_AKP_icin_sok_sonuclar.html PİAR]
+|2,620
+|42.1
+| style="background: #FFC2C2" |43.1
+|14.1 + 0.7
+| style="background: #D50000" |{{fontcolor|white|'''1.0'''}}
+|-
+|{{nowrap|1–28 May 2018}}||[https://web.archive.org/web/20180606022541/https://odatv.com/referandumu-hatasiz-tahmin-eden-sirketin-son-anketi-ilk-kez-odatvde-03061834.html Konsensus]||2,000|| style="background: #FFF1C4" |50.4|| 39.7||9.6 + 0.3|| style="background: #FDC400" |{{fontcolor|white|'''10.4'''}}
+|-
+|{{nowrap|25–26 May 2018}}
+|[https://web.archive.org/web/20180607204032/http://www.mynet.com/haber/secim/24-haziran-secimleri-icin-son-anket-sonuclari-hangi-partinin-ne-kadar-oyu-var-4178334-1 Gezici]
+|6,811
+| style="background: #FFF1C4" |48.7
+|38.9
+|11.5 + 0.9
+| style="background: #FDC400" |{{fontcolor|white|'''9.8'''}}
+|-
+|{{nowrap|23–26 May 2018}}||[https://web.archive.org/web/20180530034827/http://www.cumhuriyet.com.tr/koseyazisi/985154/24_Haziran_da_iktidarin_isi_artik_daha_zor.html İEA]||1,500|| style="background: #FFF1C4" |44.5|| 40.5||13.5 + 1.5|| style="background: #FDC400" |{{fontcolor|white|'''4.0'''}}
+|-
+|{{nowrap|22–23 May 2018}}||[https://web.archive.org/web/20180525062245/http://www.yenicaggazetesi.com.tr/anket-sonuclari-aciklandi-aksener-ince-ve-erdoganda-son-durum-2960g-p3.htm Mediar]||4,268|| style="background: #FFF1C4" |45.6|| 42.5||11.4 + 0.5|| style="background: #FDC400" |{{fontcolor|white|'''2.4'''}}
+|-
+|{{nowrap|17–23 May 2018}}
+|[https://web.archive.org/web/20180525204615/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%203.pdf REMRES]
+|4,276
+| style="background: #FFF1C4" | 43.9
+|43.7
+|12.1 + 0.3
+| style="background: #Fdc400" |{{fontcolor|white|'''0.2'''}}
+|-
+|{{nowrap|13–20 May 2018}}
+|[https://web.archive.org/web/20180524082416/http://www.cumhuriyet.com.tr/haber/ekonomi/980790/MAK_anketine_gore_ulkenin_en_buyuk_sorunu_ve_adaylarin_oy_orani.html MAK]
+|5,000
+| style="background: #FFF1C4" | 54.0
+|34.2
+|9.0 + 2.8
+| style="background: #Fdc400" |{{fontcolor|white|'''19.8'''}}
+|-
+|{{nowrap|6–9 May 2018}}
+|[https://web.archive.org/web/20180511114929/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%202.pdf REMRES]
+|3,653
+| style="background: #FFF1C4" | 43.9
+|43.5
+|12.2 + 0.4
+| style="background: #Fdc400" |{{fontcolor|white|'''0.4'''}}
+|-
+|2 May 2018
+|[https://web.archive.org/web/20180511113520/http://www.remres.com.tr/editor/upload/files/100.pdf REMRES]
+|2,586
+| style="background: #FFF1C4" | 44.2
+|43.4
+|12.1 + 0.3
+| style="background: #Fdc400" |{{fontcolor|white|'''0.8'''}}
+|}
+
+==== Prior to formation of alliances ====
+{| class="wikitable" style="text-align:center; font-size:90%; line-height:17px;"
+|-
+! width="150px" |Date
+! width="110px" |Pollster
+! width="50px" |Sample
+! width="50" |[[People's Alliance (Turkey)|Cumhur]]
+! width="50" |[[Nation Alliance (Turkey)|Millet]]
+! width="65" |Others
+! width="50" |Lead
+|-
+!1–3 May 2018
+! colspan="6" |[[Republican People's Party (Turkey)|CHP]], [[İYİ Party|İYİ]], [[Felicity Party|SP]] and [[Democrat Party (Turkey, current)|DP]] launch the [[Nation Alliance (Turkey)|Millet]] alliance
+|-
+| rowspan="5" |{{nowrap|1 May 2018}}|| rowspan="5" |[https://web.archive.org/web/20180501224824/https://tr.sputniknews.com/turkiye/201805011033258184-piar-arastirma-24-haziran-anketi-cumhur-ittifaki-oy-kaybi/ PİAR]|| rowspan="5" | – || 44.2 ||rowspan=2 {{n/a}} || style="background: #F2F2F2" | 55.8 || style="background:{{Independent politician/meta/color}}" |'''11.6'''
+|-
+| 44.0 || style="background: #F2F2F2" | 56.0 || style="background:{{Independent politician/meta/color}}" |'''11.5'''
+|-
+| style="background: #FFF1C4" |44.7 || 40.2 || 15.1 || style="background: #Fdc400" |{{fontcolor|white|'''4.5'''}}
+|-
+| 41.6 ||rowspan=14 {{n/a}} ||58.4 || style="background:{{Independent politician/meta/color}}" |'''16.8'''
+|-
+| 46.8 || style="background: #F2F2F2" | 53.2 || style="background:{{Independent politician/meta/color}}" |'''6.4'''
+|-
+| rowspan="1" |{{nowrap|26–29 Apr 2018}}|| rowspan="1" |[https://web.archive.org/web/20180501225633/http://www.yenicaggazetesi.com.tr/son-anket-sonuclari-aciklandi-cumhur-ittifaki-tepetaklak-2875g-p4.htm Mediar]|| rowspan="1" | 2,660 || 42.5 || style="background: #F2F2F2" | 57.5 || style="background:{{Independent politician/meta/color}}" |'''15.0'''
+|-
+| rowspan="1" |{{nowrap|25 Apr 2018}}|| rowspan="1" |[https://web.archive.org/web/20180508194359/https://www.evrensel.net/haber/350960/sonardan-secim-anketi-akp-mhp-ittifaki-yuzde-46-9 SONAR]|| rowspan="1" | – || 46.9 || style="background: #F2F2F2" | 53.1 || style="background:{{Independent politician/meta/color}}" |'''6.2'''
+|-
+|24–25 Apr 2018
+|[https://web.archive.org/web/20180511112238/http://www.cumhuriyet.com.tr/foto/foto_galeri/972715/3/Konsensus_anketi__ikinci_turda_hangi_aday_ne_kadar_oy_aliyor_.html Konsensus]
+|1,000
+|49.0
+| style="background: #F2F2F2" |51.0
+| style="background:{{Independent politician/meta/color}}" |'''2.0'''
+|-
+| rowspan="3" |{{nowrap|14–15 Apr 2018}}|| rowspan="3" |[https://web.archive.org/web/20180508193508/https://tr.sputniknews.com/turkiye/201804231033137702-gezici-arastirma-secim-anket-erdogan-aksener-ikinci-tur/ Gezici]|| rowspan="3" |3,864 || style="background: #FFF1C4" | 52.8 || 47.2 || style="background: #Fdc400" |{{fontcolor|white|'''5.6'''}}
+|-
+| 49.9 || style="background: #F2F2F2" | 50.1 || style="background:{{Independent politician/meta/color}}" |'''0.2'''
+|-
+| 48.2 || style="background: #F2F2F2" | 51.8 || style="background:{{Independent politician/meta/color}}" |'''3.6'''
+|-
+|{{nowrap|22–26 Mar 2018}}||[https://web.archive.org/web/20180508193006/http://www.kpsscafe.com.tr/turkiye/son-secim-anket-sonucu-aciklandi-partilerin-oy-orani-bomba-h83112.html ORC]|| 5,620 || style="background: #FFF1C4" | 56.2 || 43.8 || style="background: #Fdc400" |{{fontcolor|white|'''12.4'''}}
+|-
+|{{nowrap|14–24 Mar 2018}}||[https://web.archive.org/web/20180508192319/http://www.cumhuriyet.com.tr/haber/siyaset/955802/5_MHP_liden_1_i__Erdogan_a_asla_oy_vermem__diyor..._iste_son_ankete_gore_ittifakin_oy_orani.html Ankara Analitik]|| 1,619 || style="background: #FFF1C4" | 52.9 || 47.1 || style="background: #Fdc400" |{{fontcolor|white|'''5.8'''}}
+|-
+| rowspan="4" |{{nowrap|6–18 Mar 2018}}|| rowspan="4" |[https://web.archive.org/web/20180508193101/http://www.cumhuriyet.com.tr/foto/foto_galeri/953641/2/Bu_pazar_secim_olsa_anketi___Erdogan_a_oy_veririm__diyenlerin_orani_yuzde_30.html PİAR]|| rowspan="4" | 5,620
+| 45.4 || style="background: #F2F2F2" | 54.6 || style="background:{{Independent politician/meta/color}}" |'''9.2'''
+|-
+| 44.2 || style="background: #F2F2F2" | 55.8 || style="background:{{Independent politician/meta/color}}" |'''11.6'''
+|-
+| style="background: #FFF1C4" | 53.1 || 46.9 || style="background: #Fdc400" |{{fontcolor|white|'''6.2'''}}
+|-
+| 43.2 || style="background: #F2F2F2" | 56.8 || style="background:{{Independent politician/meta/color}}" |'''13.6'''
+|-
+! 20 Feb 2018 || colspan="6" |[[Justice and Development Party (Turkey)|AKP]] and [[Nationalist Movement Party|MHP]] launch the [[People's Alliance (Turkey)|Cumhur]] alliance
+|}
+
+===Seat projections===
+
+====Parties====
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:20px;"
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="60px"|Sample
+!width=50 |[[Justice and Development Party (Turkey)|AKP]]
+!width=50 |[[Republican People's Party (Turkey)|CHP]]
+!width=50 |[[Nationalist Movement Party|MHP]]
+!width=50 |[[Peoples' Democratic Party (Turkey)|HDP]]
+!width=50 |[[İyi Party|İYİ]]
+!width=50 |Others
+!width=50 rowspan=2|Majority
+|-
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"| 
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+!style="background: {{Nationalist Movement Party/meta/color}}"|
+!style="background: {{Peoples' Democratic Party (Turkey)/meta/color}}"|
+!style="background: {{İyi Party/meta/color}}"|
+!style="background: {{Independent politician/meta/color}}"|
+|-
+| {{nowrap|26–29 Apr 2018}}
+| [https://web.archive.org/web/20180508194109/http://www.yenicaggazetesi.com.tr/son-anket-sonuclari-aciklandi-cumhur-ittifaki-tepetaklak-2875g.htm Mediar]
+| 2,660
+| style="background: #FFF1C4"| {{Composition bar compact|280|600|{{Justice and Development Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|150|600|{{Republican People's Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| <small>[[People's Alliance (Turkey)|with AKP]]<small>
+| {{Composition bar compact|80|600|{{Peoples' Democratic Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|90|600|{{Good Party/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|0|600|{{Independent politician/meta/color}}|color=#000|text-shadow=no}}
+| style="background: {{Justice and Development Party (Turkey)/meta/color}}" | <small>{{fontcolor|white|'''Hung'''}}</small>
+|-
+| {{nowrap|4–14 Feb 2018}}
+| [https://web.archive.org/web/20180508194029/http://www.mynet.com/haber/guncel/unlu-anket-sirketinin-sahibi-twitter-dan-paylasti-iste-son-anket-3756468-1 PİAR]
+| 2,440
+| style="background: #FFF1C4"| {{Composition bar compact|275|600|{{Justice and Development Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|145|600|{{Republican People's Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|0|600|{{Nationalist Movement Party/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|95|600|{{Peoples' Democratic Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|85|600|{{Good Party/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|0|600|{{Independent politician/meta/color}}|color=#000|text-shadow=no}}
+| style="background: {{Justice and Development Party (Turkey)/meta/color}}" | <small>{{fontcolor|white|'''Hung'''}}</small>
+|-
+| {{nowrap|2–10 Sep 2017}}
+| [https://web.archive.org/web/20180508193945/https://indigodergisi.com/2017/09/2019-secim-anketi-meral-aksener/ Objektif]
+| 4,322
+| style="background: #FFF1C4"| {{Composition bar compact|280|600|{{Justice and Development Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|140|600|{{Republican People's Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|0|600|{{Nationalist Movement Party/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|50|600|{{Peoples' Democratic Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|130|600|{{Good Party/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|0|600|{{Independent politician/meta/color}}|color=#000|text-shadow=no}}
+| style="background: #Fdc400" | <small>{{fontcolor|white|'''Hung'''}}</small>
+|-
+|- class=sortbottom style="background:#f2f2f2; font-weight:bold"
+! 1 Nov 2015
+! {{nowrap|[[Turkish general election, November 2015|Election]]
+!–
+! style="background: #FFF1C4"| {{Composition bar compact|317|550|{{Justice and Development Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+! {{Composition bar compact|134|550|{{Republican People's Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+! {{Composition bar compact|40|550|{{Nationalist Movement Party/meta/color}}|color=#000|text-shadow=no}}
+! {{Composition bar compact|59|550|{{Peoples' Democratic Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+! {{N/A}}
+! {{Composition bar compact|0|550|{{Independent politician/meta/color}}|color=#000|text-shadow=no}}
+| style="background: #Fdc400"|{{fontcolor|white|84}}
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="60px"|Sample
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"| 
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+!style="background: {{Nationalist Movement Party/meta/color}}"|
+!style="background: {{Peoples' Democratic Party (Turkey)/meta/color}}"|
+!style="background: {{İyi Party/meta/color}}"|
+!style="background: {{Independent politician/meta/color}}"|
+!width=60 rowspan=2|Majority
+|-
+!width=50 |[[Justice and Development Party (Turkey)|AKP]]
+!width=50 |[[Republican People's Party (Turkey)|CHP]]
+!width=50 |[[Nationalist Movement Party|MHP]]
+!width=50 |[[Peoples' Democratic Party (Turkey)|HDP]]
+!width=50 |[[İyi Party|İYİ]]
+!width=50 |Others
+|}
+
+====Alliances====
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:20px;"
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="60px"|Sample
+!width=50 |[[People's Alliance (Turkey)|Cumhur]]
+!width=50 |[[Nation Alliance (Turkey)|Millet]]
+!width=50 |Others ([[Peoples' Democratic Party (Turkey)|HDP]])
+!width=50 rowspan=2|Majority
+|-
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"| 
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+!style="background: {{Independent politician/meta/color}}"|
+|-
+| {{nowrap|1 May 2018}}
+| [https://web.archive.org/web/20180508193918/https://pbs.twimg.com/media/DcIK9-yX4AA9TCe.jpg PİAR]
+| –
+| style="background: #FFF1C4"| {{Composition bar compact|270|600|{{Justice and Development Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|230|600|{{Republican People's Party (Turkey)/meta/color}}|color=#000|text-shadow=no}}
+| {{Composition bar compact|100|600|{{Independent politician/meta/color}}|color=#000|text-shadow=no}}
+| style="background: #Fdc400" | <small>{{fontcolor|white|'''Hung'''}}</small>
+|-
+!rowspan=2 width="110px"|Date
+!rowspan=2 width="110px"|Pollster
+!rowspan=2 width="60px"|Sample
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"| 
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+!style="background: {{Independent politician/meta/color}}"|
+!width=60 rowspan=2|Majority
+|-
+!width=50 |[[People's Alliance (Turkey)|Cumhur]]
+!width=50 |[[Nation Alliance (Turkey)|Millet]]
+!width=50 |Others
+|}
+
+[[Category:Turkish general election, 2018]]
+[[Category:Opinion polling for future elections|Turkey]]
+[[Category:Opinion polling in Turkey]]

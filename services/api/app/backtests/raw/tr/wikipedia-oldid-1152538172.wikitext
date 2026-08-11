@@ -1,0 +1,5441 @@
+{{short description|none}}
+{{Import-blanktable}}
+{{for|the parliamentary election scheduled to occur alongside the presidential election|Opinion polling for the 2023 Turkish parliamentary election}}
+In the run up to the [[2023 Turkish general election|Turkish general election]] scheduled to take place on 14 May 2023, various organisations carry out [[opinion polling]] to gauge voting intention in [[Turkey]]. Results of such polls are displayed in this article. These polls only include Turkish voters nationwide and do not take into account [[Turkish diaspora|Turkish expatriates]] voting abroad. The date range for these opinion polls are from the [[2018 Turkish general election|previous general election]], held on 24 June 2018, to the present day.
+
+Poll results are listed in the tables below in reverse chronological order, showing the most recent first, and using the date the survey's fieldwork was done, as opposed to the date of publication. If such date is unknown, the date of publication is given instead. The highest percentage figure in each polling survey is displayed in bold, and the background shaded in the leading party's color. In the instance that there is a tie, or that no candidate exceeds 50%, top two candidates' figures are shaded. The lead column on the right shows the percentage-point difference between the two parties with the highest figures. When a specific poll does not show a data figure for a party, the party's cell corresponding to that poll is shown empty.
+
+==First round==
+=== Official campaign polling ===
+The table below contains polls conducted after the official start of the campaign period on 10 March.<ref>{{Cite web |last=Sabah |first=Daily |date=2023-03-06 |title=Türkiye's presidential polls process to start March 10: Erdoğan |url=https://www.dailysabah.com/politics/elections/turkiyes-presidential-polls-process-to-start-march-10-erdogan |access-date=2023-03-08 |website=Daily Sabah |language=en-US}}</ref>
+{| class="wikitable tpl-blanktable mw-collapsible" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="3" | Fieldwork date{{refn|Publishment date if not possible.|group=nb|name=datenotice}}
+! rowspan="3" | Polling firm
+! rowspan="3" |Published by
+! rowspan="3" | Sample size
+! [[File:Recep Tayyip Erdogan in Ukraine.jpg|80x80px]]
+! [[File:Kemal Kılıçdaroğlu in March 2023 (cropped).png|80x80px]]
+! [[File:Dr. Sinan Oğan 2023 (cropped).jpg|80x80px]]
+! [[File:Muharrem İnce, 2023 (cropped).jpg|80x80px]]
+! rowspan="3" | Others
+! rowspan="3" | Lead
+|-
+! {{small|[[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[People's Alliance (Turkey)|PEOPLE]]}}}}
+! {{small|[[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]<br/>{{small|[[Nation Alliance (Turkey)|NATION]]}}}}
+! {{small|[[Sinan Oğan|Oğan]]<br/>{{small|[[Ancestor Alliance|ATA]]}}}}
+! {{small|[[Muharrem İnce|İnce]]<br/>{{small|[[Homeland Party (Turkey, 2021)|MP]]}}}}
+|-
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Republican People's Party (Turkey)}};" |
+! style="background:{{party color|Ancestor Alliance}};" |
+! style="background:{{party color|Homeland Party (Turkey, 2021)}};" |
+|-
+|25-30 Apr
+| colspan="2" |[https://twitter.com/tagarastirma/status/1652701471131959298?s=20 TAG]
+|1,900
+| 43.3
+| style="background:#FFC2C2" |'''51.9'''
+|2.3
+|2.7
+| –
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''8.6'''
+|-
+|25-28 Apr
+| colspan="2" |[https://twitter.com/gundemedairhs/status/1652366057523298306?s=20 Optimar]
+|3,005
+| style="background:#FFF1C4" |'''48.6'''
+| style="background:#FFC2C2" |44.1
+|3.0
+|4.3
+| –
+|style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |'''4.5'''
+|-
+|25-27 Apr
+| colspan="2" |[https://www.haber7.com/siyaset/haber/3321324-optimar-ve-areda-survey-pes-pese-anket-paylasti-parti-parti-aday-aday-son-durum AREDA]{{refn|Owner is affiliated with and has worked for AKP.<ref>{{Cite news |date=2019-11-10 |title=AKP'li Yusuf Akın İstanbul'a açıldı |language=tr |work=Cumhuriyet |url=https://www.kocaelibarisgazetesi.com/haber/5997284/akpli-yusuf-akin-istanbula-acildi |access-date=2023-04-19}}</ref>|group=pc|name=areda}}
+|14,193
+| style="background:#FFF1C4" |'''51.1'''
+| 42.0
+|2.8
+|4.1
+| –
+|style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |'''9.1'''
+|-
+|24-27 Apr
+| colspan="2" |[https://twitter.com/SerArastirma/status/1651585623461969925 SER-AR]
+|5,000
+|44.8
+| style="background:#FFC2C2" |'''53.1'''
+|0.5
+|1.6
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''8.3'''
+|-
+|23-26 Apr
+| colspan="2" |[https://twitter.com/teamarastirma/status/1652582366072676353?s=20 TEAM]
+|3,054
+| style="background:#FFF1C4" |44.4
+| style="background:#FFC2C2" |'''47.4'''
+|2.1
+|6.1
+| –
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''3.0'''
+|-
+|17-25 Apr
+| colspan="2" |[https://www.tusiar.com/?pnum=213 TÜSİAR]
+|1,500
+| style="background:#FFF1C4" | '''48.7'''
+| style="background:#FFC2C2" |46.6
+|1.1
+|3.6
+|–
+|style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |'''2.1'''
+|-
+|10-25 Apr
+|[https://www.sozcu.com.tr/2023/yazarlar/can-coskun/son-anket-calismasindan-carpici-sonuclar-7667602/ BULGU]
+|[[Sözcü]]
+|2,400
+|style="background:#FFF1C4" |41.5
+| style="background:#FFC2C2" |'''49.5'''
+|2.5
+|6.5
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''8.0'''
+|-
+|13-24 Apr
+| colspan="2" |[https://twitter.com/caliskanerh/status/1651632051924213780?s=20 Artıbir]
+|1,500
+| style="background:#FFF1C4" | 43.7
+| style="background:#FFC2C2" |'''49.4'''
+|2.4
+|4.5
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''5.7'''
+|-
+|19-22 Apr
+| colspan="2" |[https://twitter.com/orc_arastirma/status/1650442862356561920 ORC]
+|3,920
+| style="background:#FFF1C4" | 42.4
+| style="background:#FFC2C2" |'''49.3'''
+|2.2
+|6.1
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''6.9'''
+|-
+
+|-
+|15-20 Apr
+| colspan="2" |[https://twitter.com/ersinceliq/status/1649054806546472966?s=20 AREDA]{{refn|group=pc|name=areda}}
+|17,400
+| style="background:#FFF1C4" |'''51.4'''
+| 41.8
+|2.2
+|4.6
+| –
+|style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |'''9.6'''
+|-
+|12-20 Apr
+| colspan="2" |[https://twitter.com/areaarastirma/status/1650443168528101383 Area]
+|10,277
+| style="background:#FFF1C4" | 46.7
+| style="background:#FFC2C2" |'''46.8'''
+|2.6
+|3.9
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''0.1'''
+|-
+
+|14-16 Apr
+| colspan="2" |[https://gazetekarinca.com/yoneylemin-anketi-cumhurbaskanligi-secimi-kil-payi-ikinci-tura-kaliyor/ Yöneylem]
+|2,422
+| style="background:#FFF1C4" | 43.0
+| style="background:#FFC2C2" |'''48.6'''
+|2.8
+|5.8
+| –
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''5.6'''
+|-
+|10-16 Apr
+| colspan="2" |[https://twitter.com/ahakanbayrakci/status/1649143326396805134?s=20 SONAR]
+|4,541
+| style="background:#FFF1C4" |'''46.1'''
+| style="background:#FFC2C2" |44.1
+|2.1
+|7.7
+| –
+|style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |'''2.0'''
+|-
+|10-16 Apr
+| colspan="2" |[https://twitter.com/AksoyArastirma/status/1648243977261383681/photo/1 AKSOY]
+|1,067
+| style="background:#FFF1C4" | 38.4
+| style="background:#FFC2C2" |'''47.9'''
+|4.8
+|9.0
+| –
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''9.5'''
+|-
+|10-16 Apr
+| colspan="2" |[https://twitter.com/DanismanlikMak/status/1648074490624999425?s=20 MAK]
+|5,750
+| style="background:#FFF1C4" | 43.7
+| style="background:#FFC2C2" |'''47.8'''
+|1.1
+|3.4
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''4.1'''
+|-
+|5-15 Apr
+| colspan="2" |[https://twitter.com/Hbs_arastirma/status/1650073799054831617?s=20 HBS]
+|5,100
+| style="background:#FFF1C4" | '''46.4'''
+| style="background:#FFC2C2" | 45.7
+|1.7
+|6.2
+|–
+|style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |'''0.7'''
+|-
+|12-14 Apr
+| colspan="2" |[https://twitter.com/aredasurvey/status/1647177136048951296?s=20 AREDA]{{refn|group=pc|name=areda}}
+|10,136
+| style="background:#FFF1C4" | '''50.8'''
+| 43.1
+|1.6
+|4.5
+|–
+|style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |'''7.7'''
+|-
+|13 Apr
+| colspan="2" |[https://twitter.com/ArastirmaG/status/1646505948138156032?s=20 AR-G]
+|1,984
+| style="background:#FFF1C4" | 45.6
+| style="background:#FFC2C2" |'''49.2'''
+|1.3
+|3.9
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''3.6'''
+|-
+|8-12 Apr
+| colspan="2" |[https://twitter.com/Alfarastirma/status/1646875149822558208 ALF]
+|2,340
+| style="background:#FFF1C4" | 43.9
+| style="background:#FFC2C2" |'''47.4'''
+|2.2
+|6.5
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''3.5'''
+|-
+|7-11 Apr
+| colspan="2" |[https://twitter.com/orc_arastirma/status/1646124168126029825 ORC]
+|5,400
+| style="background:#FFF1C4" | 41.5
+| style="background:#FFC2C2" |'''48.9'''
+|2.4
+|7.2
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''7.4'''
+|-
+|6-10 Apr
+| colspan="2" |[https://www.youtube.com/watch?v=_MlY2WF_WVk Avrasya]{{refn|Owner applied for an MP candidacy for CHP.<ref>{{Cite news |date=2023-03-27 |title=Kemal Özkiraz kimdir? CHP'den milletvekili aday adayı olan Kemal Özkiraz nereli, kaç yaşında? |language=tr |work=Cumhuriyet |url=https://www.cumhuriyet.com.tr/turkiye/kemal-ozkiraz-kimdir-chpden-milletvekili-aday-adayi-olan-kemal-ozkiraz-nereli-kac-yasinda-2065199 |access-date=2023-04-18}}</ref>|group=pc|name=avrasya}}
+|2,410
+| 42.3
+| style="background:#FFC2C2" |'''50.9'''
+|2.0
+|4.8
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''8.6'''
+|-
+|9 Apr
+| colspan="2" |[https://twitter.com/BurhanEptemli/status/1644965593886470147 SAROS]
+| 10,729
+|  style="background:#FFF1C4" |'''46.8'''
+|  style="background:#FFC2C2" |45.7
+| 1.6
+| 6.0
+| –
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |'''1.1'''
+|-
+|3-8 Apr
+| colspan="2" |[https://twitter.com/AntinKu59563337/status/1645895703456104452 TAG]
+|1,600
+| 42.9
+| style="background:#FFC2C2" |'''51.4'''
+|1.6
+|4.1
+|–
+|style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |'''8.5'''
+|-
+|1-8 Apr
+|Optimar
+|[https://www.milliyet.com.tr/gundem/cumhurbaskanligi-secimi-ilk-turda-biter-mi-iste-14-mayis-secimleri-icin-son-anket-6930137 Milliyet]
+|4,745
+| style="background:#FFF1C4" |'''45.9'''
+| style="background:#FFC2C2" |43.9
+|1.7
+|8.3
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.0
+|-
+|1-4 Apr
+| colspan="2" |[https://twitter.com/tekararastirma/status/1643602985874866178?s=20 TekAr]
+|3,600
+|style="background:#FFF1C4" |45.8
+| style="background:#FFC2C2" |'''46.2'''
+|2.4
+|5.6
+| –
+| style="background:#ed1c24; color:white;" | '''0.4'''
+|-
+|1-3 Apr
+| colspan="2" |[https://twitter.com/ozersencar1/status/1644645626615853060/photo/1/ MetroPoll]
+| 2,610
+|  style="background:#FFF1C4" |41.1
+|  style="background:#FFC2C2" |'''42.6'''
+| 2.2
+| 5.0
+| 11.3
+| style="background:#ed1c24; color:white;" | '''1.5'''
+|-
+|1-2 Apr
+| colspan="2" |[https://twitter.com/geziciarastirma/status/1646050318491308033/photo/1 Gezici]
+|2.864
+|43.2
+| style="background:#FFC2C2" |'''53.4'''
+|1.3
+|2.1
+| –
+| style="background:#ed1c24; color:white;" | '''10.2'''
+|-
+|25 Mar-2 Apr
+| colspan="2" |[https://twitter.com/AsalArastirma/status/1643886844130541568/ ASAL]
+|2,147
+| style="background:#FFF1C4" |'''46.8'''
+| style="background:#FFC2C2" |42.2
+|2.6
+|8.4
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.6
+|-
+|28 Mar - 1 Apr
+|AREDA{{refn|group=pc|name=areda}}
+|[https://www.sabah.com.tr/galeri/yasam/secim-anketi-sonuclari-oy-oranlari-son-dakika-2023-cumhurbaskanligi-secim-anket-sonuclari-nasil-hangi-parti-onde-fark-yuzde-kac/2 Sabah]
+|18,487
+| style="background:#FFF1C4" |'''50.6'''
+| 41.8
+| 2.1
+| 5.5
+|–
+| style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | '''8.8'''
+|-
+|31 Mar
+|MetroPoll
+|[https://www.birgun.net/haber/metropoll-anketi-erdogan-in-oylari-geriledi-kilicdaroglu-onde-426932 BirGün]
+|2,046
+| style="background:#FFF1C4" |42.0
+| style="background:#FFC2C2" |'''44.6'''
+|–
+|–
+|13.4
+| style="background:#ed1c24; color:white;" | '''2.6'''
+|-
+! colspan="4" | 31 March 2023
+! colspan="6" |Final candidate list was published in the [[Official Gazette of the Republic of Turkey|Official Gazette]].<ref>{{cite web | url = https://www.haberturk.com/son-dakika-cumhurbaskani-kesin-aday-listesi-resmi-gazete-de-3578707 | title = Son dakika haberi Cumhurbaşkanı kesin aday listesi Resmi Gazete'de | date = 31 March 2023 | work = Habertürk | archiveurl = https://web.archive.org/web/20230330211606/https://www.haberturk.com/son-dakika-cumhurbaskani-kesin-aday-listesi-resmi-gazete-de-3578707 | archivedate = 30 March 2023}}</ref>
+|-
+|28-30 Mar
+| colspan="2" |[https://twitter.com/FidelOKAN/status/1642614469607006212?s=20 Ankara Analitik]
+|2,187
+| style="background:#FFF1C4" |'''44.5'''
+| style="background:#FFC2C2" |39.7
+|1.5
+|14.3
+|–
+| style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |'''4.8'''
+|-
+|27-29 Mar
+| colspan="2" |[https://twitter.com/YoneylemSosyal/status/1643872851206762497?t=kLfJFjGe5hVT2dkXrVSZYw&s=19 Yöneylem]
+|2,655
+| style="background:#FFF1C4" |41.6
+| style="background:#FFC2C2" |'''46.4'''
+|2.9
+|9.1
+|–
+| style="background:#ed1c24; color:white;" |'''4.8'''
+|-
+! colspan="4" |24 March 2023
+! colspan="6" |[[Fatih Erbakan|Erbakan]] withdraws his candidacy, endorsing Erdoğan.<ref>{{Cite web |date=2023-03-24 |title=Yeniden Refah Partisi, Cumhur İttifakı'na katıldı |url=https://www.sozcu.com.tr/2023/gundem/son-dakika-yeniden-refah-cumhur-ittifakina-katildi-7631813/ |access-date=2023-03-24 |website=[[Sözcü]] |language=tr}}</ref>
+|-
+! colspan="4" |22 March 2023
+! colspan="6" |[[Labour and Freedom Alliance]] announces that they are not nominating a candidate.<ref>{{cite web|title= EvÖİ aday çıkarmayacak|access-date=22 March 2023|date=22 March 2023|publisher= [[Sözcü]]|url=https://www.sozcu.com.tr/2023/gundem/emek-ve-ozgurluk-ittifaki-aday-cikarmayacak-7629062/|language=tr}}</ref>
+|-
+|13-21 Mar
+|Artıbir
+|[https://www.youtube.com/watch?v=9iqIYPATNss KRT TV Live]
+|1,500
+|44.0
+| style="background:#FFC2C2" |'''51.3'''
+|1.2
+|3.5
+|–
+| style="background:#ed1c24; color:white;" | '''7.3'''
+|-
+|20 Mar
+| colspan="2" |[https://twitter.com/sarosarastirma/status/1637903585504636929/ SAROS]
+|10,826
+| style="background:#FFF1C4" |44.3
+| style="background:#FFC2C2" |'''45.5'''
+|–
+|3.1
+|2.3
+| style="background:#ed1c24; color:white;" |'''1.2'''
+|-
+| 13-18 Mar
+| colspan="2" |[https://twitter.com/DasdemirHilmi/status/1639084418663841795 Optimar]
+|1,916
+| style="background:#FFF1C4" |'''47.4'''
+| style="background:#FFC2C2" |45.3
+|0.7
+|6.5
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.1
+|-
+|12-17 Mar
+|Avrasya{{refn|group=pc|name=avrasya}}
+|[https://www.youtube.com/watch?v=vhprBFa6b80 23 DERECE]
+|2,560
+|39.7
+| style="background:#FFC2C2" |'''53.5'''
+|1.4
+|2.9
+|2.5
+| style="background:#ed1c24; color:white;" |'''13.8'''
+|-
+|13-15 Mar
+| colspan="2" |[https://twitter.com/tagarastirma/status/1637164668203552770?s=20 TAG]
+|2,100
+| style="background:#FFF1C4" |43.2
+| style="background:#FFC2C2" |'''45.4'''
+|3.6
+|5.5
+|2.3
+| style="background:#ed1c24; color:white;" |'''2.2'''
+|-
+|11-15 Mar
+| colspan="2" |[https://orcarastirma.com.tr/port-folio/secime-60-gun-kala/ ORC]
+|4,540
+|42.3
+| style="background:#FFC2C2" |'''53.1'''
+|1.5
+|3.1
+|–
+| style="background:#ed1c24; color:white;" |'''7.8'''
+|-
+| 17 Mar
+|Themis
+|[https://web.archive.org/web/20230317152731/https://www.haber3.com/foto-galeri/haber/yenilenen-ibb-secimlerini-dogru-tahmin-eden-themis-son-secim-anketini-aciklandi-galeri-6122603 Haber3]
+|1,458
+| style="background:#FFF1C4" |32.1
+| style="background:#FFC2C2" |'''36.8'''
+|12.2
+|7.9
+| 11.1
+| style="background:#ed1c24; color:white;" |'''4.7'''
+|-
+| 15 Mar
+|MAK
+|[https://web.archive.org/web/20230315205831/https://www.youtube.com/live/yqKkq4kVQBw?feature=share&t=1888 Habertürk TV]
+|5,750
+|45.7
+| style="background:#FFC2C2" |'''51.1'''
+|–
+|–
+| 3.3
+| style="background:#ed1c24; color:white;" |'''5.4'''
+|-
+| 14 Mar
+| colspan="2" |[https://twitter.com/ArastirmaG/status/1635609377540567040?t=ssR5K6FZ6CGlnPyJFLN_8w&s=19 AR-G]
+|1,472
+| style="background:#FFF1C4" |43.1
+| style="background:#FFC2C2" |'''46.2'''
+|3.1
+|7.6
+| –
+| style="background:#ed1c24; color:white;" |'''3.1'''
+|}
+
+=== Pre-campaign polling ===
+
+==== 2023 ====
+{{update|date=March 2023}}
+{{Expand Turkish|2023 Türkiye cumhurbaşkanlığı seçimi için yapılan anketler|section=yes|date=March 2023}}
+
+{| class="wikitable tpl-blanktable mw-collapsible" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" | Fieldwork date
+! rowspan="2" | Polling firm
+! rowspan="2" | Published by
+! rowspan="2" | Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! colspan="3" style="background:{{party color|Republican People's Party (Turkey)}};" |
+! style="background:{{party color|Peoples' Democratic Party (Turkey)}};" |
+! style="background:{{party color|İYİ Party}};" |
+! style="background:{{party color|Felicity Party}};" |
+! style="background:{{party color|Democracy and Progress Party}};" |
+! style="background:{{party color|Future Party (Turkey)}};" |
+! style="background:{{party color|Homeland Party (Turkey, 2021)}};" |
+! rowspan="2" | Others
+! rowspan="2" | Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br />{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Ekrem İmamoğlu|İmamoğlu]]<br />{{small|[[Republican People's Party|CHP]]}}
+! [[Mansur Yavaş|Yavaş]]<br />{{small|[[Republican People's Party|CHP]]}}
+! [[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]<br />{{small|[[Republican People's Party|CHP]]}}
+! [[Selahattin Demirtaş|Demirtaş]]<br />{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Meral Akşener|Akşener]]<br />{{small|[[Good Party|İYİ]]}}
+! [[Temel Karamollaoğlu|Karamollaoğlu]]<br />{{small|[[Felicity Party|SAADET]]}}
+! [[Ali Babacan|Babacan]]<br />{{small|[[Democracy and Progress Party|DEVA]]}}
+! [[Ahmet Davutoğlu|Davutoğlu]]<br />{{small|[[Future Party (Turkey)|GP]]}}
+! [[Muharrem İnce|İnce]]<br />{{small|[[Homeland Party (Turkey, 2021)|MP]]}}
+|-
+! colspan="4" | 6 March 2023
+! colspan="12" |[[Kemal Kılıçdaroğlu|Kılıçdaroğlu]] is declared the [[Nation Alliance (Turkey)|Nation Alliance]] candidate for president.
+|-
+|23–27 Feb
+|Areda{{refn|group=pc|name=areda}}
+|[https://www.yenisafak.com/gundem/subat-ayi-secim-anketi-erdogan-yuzde-498-ile-acik-ara-onde-4511608?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp Yeni Şafak]
+|3,000
+| style="background:#FFF1C4" |'''49.8'''
+|6.9
+|9.6
+| style="background:#FFC2C2" |21.7
+|6.0
+|2.6
+| 0.4
+| 0.8
+| 0.2
+| 0.8
+|1.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |28.1
+|}
+
+==== 2022 ====
+{{update|date=September 2022}}
+{{Expand Turkish|2023 Türkiye cumhurbaşkanlığı seçimi için yapılan anketler|section=yes|date=September 2022}}
+
+{| class="wikitable tpl-blanktable mw-collapsible" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Polling firm
+! rowspan="2" |Published by
+! rowspan="2" | Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! colspan="3" style="background:{{party color|Republican People's Party (Turkey)}};" |
+! colspan="3" style="background:{{party color|Peoples' Democratic Party (Turkey)}};" |
+! style="background:{{party color|İYİ Party}};" |
+! style="background:{{party color|Felicity Party}};" |
+! style="background:{{party color|Nationalist Movement Party}};" |
+! style="background:{{party color|Democracy and Progress Party}};" |
+! style="background:{{party color|Future Party (Turkey)}};" |
+! style="background:{{party color|Homeland Party (Turkey, 2021)}};" |
+! rowspan="2"| Others
+! rowspan="2"| Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Ekrem İmamoğlu|İmamoğlu]]<br/>{{small|[[Republican People's Party|CHP]]}}
+! [[Mansur Yavaş|Yavaş]]<br/>{{small|[[Republican People's Party|CHP]]}}
+! [[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]<br/>{{small|[[Republican People's Party|CHP]]}}
+! [[Selahattin Demirtaş|Demirtaş]]<br/>{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Meral Danış Beştaş|Beştaş]]<br/>{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Pervin Buldan|Buldan]]<br/>{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Meral Akşener|Akşener]]<br/>{{small|[[Good Party|İYİ]]}}
+! [[Temel Karamollaoğlu|Karamollaoğlu]]<br/>{{small|[[Felicity Party|SAADET]]}}
+! [[Devlet Bahçeli|Bahçeli]]<br/>{{small|[[Nationalist Movement Party|MHP]]}}
+! [[Ali Babacan|Babacan]]<br/>{{small|[[Democracy and Progress Party|DEVA]]}}
+! [[Ahmet Davutoğlu|Davutoğlu]]<br/>{{small|[[Future Party (Turkey)|GP]]}}
+! [[Muharrem İnce|İnce]]<br/>{{small|[[Homeland Party (Turkey, 2021)|MP]]}}
+|-
+|12–15 Aug
+|Optimar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/kilicdaroglunun-nefesi-yavasin-ensesinde-erdogan-acik-ara-onde-42125173 Hürriyet]
+|2,000
+| style="background:#FFF1C4"|'''36.5'''
+|3.7
+| style="background:#FFC2C2"|14.7
+|14.6
+|9.5
+| –
+| –
+|7.6
+| –
+|8.3
+| –
+| –
+| –
+|5.1
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |21.8
+|-
+|11–14 Jul
+|Optimar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/oylar-hangi-liderlere-ve-hangi-partilere-gidiyor-42108264 Hürriyet]
+|3,481
+| style="background:#FFF1C4"|'''30.1'''
+|4.6
+| style="background:#FFC2C2"|12.5
+|11
+|8.2
+| –
+| –
+|6.4
+| –
+| –
+| –
+| –
+| –
+| –
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |17.6
+|-
+|13–24 Jun
+| colspan="2" |[https://sonararastirma.com.tr/haziran-2022/ SONAR]
+|3.100
+| style="background:#FFF1C4"|'''40.2'''
+| 10.1
+| style="background:#FFC2C2" |17.8
+|4.3
+|4.6
+| –
+| –
+|10.4
+| –
+|2.2
+|1.7
+| –
+|2.1
+|6.6
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |22.4
+|-
+|12–15 May
+|Optimar
+|[https://t24.com.tr/haber/optimar-anketi-akp-nin-oyu-yuzde-36-erdogan-yukseliste,1040625 T24]
+|2.519
+| style="background:#FFF1C4"|'''36.1'''
+|8.4
+|style="background:#FFC2C2" |11.9
+|style="background:#FFC2C2" |11.9
+|4.7
+| –
+| –
+|3.2
+| –
+| –
+| –
+| –
+| –
+| –
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |24.2
+|-
+|6–12 May
+| colspan="2" |[https://sonararastirma.com.tr/mayis-2022/ SONAR]
+|2.840
+| style="background:#FFF1C4"|'''39.2'''
+|12.5
+|style="background:#FFC2C2" |15.7
+|3.9
+|4.7
+|8.0
+|2.8
+|1.9
+|–
+|–
+|2.7
+|8.6
+|–
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |23,5
+|-
+|23–28 Apr
+|Optimar
+|[https://www.gazeteduvar.com.tr/optimardan-secim-anketi-erdogan-ak-partinin-altina-dustu-galeri-1563181 Gazete Duvar]
+|1.847
+| style="background:#FFF1C4"|'''33.1'''
+|9.1
+|style="background:#FFC2C2" |13.0
+|12.0
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |20,1
+|-
+|Apr
+| colspan="2" |[https://twitter.com/ozersencar1/status/1524428983869263872 MetroPOLL]
+|–
+| style="background:#FFF1C4"|'''40.1'''
+|–
+|–
+|style="background:#FFC2C2" |30.2
+|15.2
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |9,9
+|-
+|Apr
+| colspan="2" |[https://twitter.com/alfarastirma/status/1522526693163999235 ALF]
+|–
+| style="background:#FFF1C4"|'''33.7'''
+|16.6
+|style="background:#FFC2C2" |22.2
+|4.3
+|8.3
+|7.2
+|–
+|–
+|–
+|–
+|2.1
+|5.6
+|–
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |11,5
+|-
+|10–16 Mar
+|Optimar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/ekonomi-ve-ukrayna-savasi-anketlere-nasil-yansidi-42028581 Hürriyet]
+|2.002
+| style="background:#FFF1C4"|'''33.8'''
+|10.7
+|9.9
+|style="background:#FFC2C2" |11.5
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 22.3
+|-
+|24–31 Jan
+|AKAM
+|[https://twitter.com/EuropeElects/status/1492896391051583492 Europe Elects]
+|1.860
+| style="background:#FFF1C4"| 28.5
+|–
+|–
+|style="background:#FFC2C2" |'''30.3'''
+|10.2
+|–
+|–
+|11.0
+|4.9
+|7.9
+|2.4
+|–
+|2.7
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" | 1.8
+|-
+|7–13 Jan
+|İEA
+|[https://twitter.com/EuropeElects/status/1491801725048483843 Europe Elects]
+|1.500
+| style="background:#FFF1C4"| '''44.0'''
+|–
+|–
+|–
+|15.2
+|–
+|–
+| style="background:#D0EBFF" |40.8
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 2.2
+|}
+
+==== 2021 ====
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" | Fieldwork date
+! rowspan="2" | Polling firm
+! rowspan="2" |Published by
+! rowspan="2" | Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! colspan="3" style="background:{{party color|Republican People's Party (Turkey)}};" |
+! colspan="3" style="background:{{party color|Peoples' Democratic Party (Turkey)}};" |
+! style="background:{{party color|İYİ Party}};" |
+! style="background:{{party color|Felicity Party}};" |
+! style="background:{{party color|Nationalist Movement Party}};" |
+! style="background:{{party color|Democracy and Progress Party}};" |
+! style="background:{{party color|Future Party (Turkey)}};" |
+! style="background:{{party color|Homeland Party (Turkey, 2021)}};" |
+! rowspan="2" | Others
+! rowspan="2" | Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br />{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Ekrem İmamoğlu|İmamoğlu]]<br />{{small|[[Republican People's Party|CHP]]}}
+! [[Mansur Yavaş|Yavaş]]<br />{{small|[[Republican People's Party|CHP]]}}
+! [[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]<br />{{small|[[Republican People's Party|CHP]]}}
+! [[Selahattin Demirtaş|Demirtaş]]<br />{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Meral Danış Beştaş|Beştaş]]<br />{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Pervin Buldan|Buldan]]<br />{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Meral Akşener|Akşener]]<br />{{small|[[Good Party|İYİ]]}}
+! [[Temel Karamollaoğlu|Karamollaoğlu]]<br />{{small|[[Felicity Party|SAADET]]}}
+! [[Devlet Bahçeli|Bahçeli]]<br />{{small|[[Nationalist Movement Party|MHP]]}}
+! [[Ali Babacan|Babacan]]<br />{{small|[[Democracy and Progress Party|DEVA]]}}
+! [[Ahmet Davutoğlu|Davutoğlu]]<br />{{small|[[Future Party (Turkey)|GP]]}}
+! [[Muharrem İnce|İnce]]<br />{{small|[[Homeland Party (Turkey, 2021)|MP]]}}
+|-
+|30 Nov–5 Dec
+|Yöneylem
+|[https://www.t24.com.tr/haber/yoneylem-arastirma-dan-secim-anketi-akp-ilk-kez-birinci-parti-konumunu-yitirdi-millet-ittifaki-nin-oy-orani-cumhur-ittifaki-nin-7-7-puan-onunde,999416 T24]
+|2,002
+| style="background:#FFF1C4" | '''43.5'''
+|–
+|–
+| style="background:#FFC2C2" |40.8
+|15.8
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 2.7
+|-
+|13–20 Nov
+|Optimar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-ekonomi-cikti-41946021 Hürriyet]
+|2,507
+| style="background:#FFF1C4" | '''26.0'''
+|8.5
+| style="background:#FFC2C2" |14.2
+|5.0
+|8.7
+|–
+|–
+|6.4
+|–
+|4.3
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 11.8
+|-
+|11–14 Nov
+| colspan="2" |[https://twitter.com/AsalArastirma/status/1466153516590931969 ASAL]
+|1,712
+| style="background:#FFF1C4" | '''43.3'''
+| style="background:#FFC2C2" |11.3
+|10.6
+|6.0
+|10.1
+|–
+|–
+|7.7
+|–
+|3.7
+|2.4
+|0.7
+|1.5
+|2.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 32.0
+|-
+|27 Oct–3 Nov
+|Yöneylem
+|[https://twitter.com/EuropeElects/status/1459831053154193410 Europe Elects]
+|2,000
+| style="background:#FFF1C4" | '''44.8'''
+|–
+|–
+| style="background:#FFC2C2" |40.0
+|15.2
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 4.8
+|-
+|Oct
+| colspan="2" |[https://twitter.com/AdaArastirma/status/1459958946131763201 ADA]
+|2,423
+| style="background:#FFF1C4" | '''38.8'''
+|–
+|–
+| style="background:#FFC2C2" |19.0
+|–
+|–
+|6.1
+|17.1
+|1.0
+|7.8
+|2.7
+|1.4
+|2.4
+|3.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 19.8
+|-
+|Oct
+| colspan="2" |[https://twitter.com/sarosarastirma/status/1454517015163641861 SAROS]
+|1,854
+| style="background:#FFF1C4" | '''43.4'''
+| style="background:#FFC2C2" |12.1
+|11.4
+|6.1
+|11.0
+|–
+|–
+|8.0
+|–
+|3.6
+|3.0
+|0.5
+|0.7
+|0.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 31.3
+|-
+|24–30 Sep
+|Yöneylem
+|[https://www.gazeteduvar.com.tr/secim-anketi-erdogana-karsi-dort-aday-kazaniyor-galeri-1538251 Gazete Duvar]
+|2,400
+| style="background:#FFF1C4" | '''47.8'''
+|–
+|–
+| style="background:#FFC2C2" |36.3
+|15.9
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 11.5
+|-
+|19–27 Sep
+| colspan="2" |[https://twitter.com/Optimar_AS/status/1446084813195292672 Optimar]
+|1,938
+| style="background:#FFF1C4" | '''45.6'''
+|8.1
+| style="background:#FFC2C2" |15.8
+|10.1
+|9.1
+|–
+|–
+|9.4
+|–
+|0.5
+|0.3
+|0.1
+|–
+|1.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 29.8
+|-
+|10–22 Sep
+| colspan="2" |[https://sahamerkezi.org/wp-content/uploads/2021/10/TURKIYE-GENELI-GUNDEM-VE-SECMEN-EGILIMI-SAHA-ARASTIRMA-RAPORU-PDF.pdf Sosyo Politik]
+|2,000
+| style="background:#FFF1C4" | '''48.2'''
+|7.6
+|5.8
+| style="background:#FFC2C2" |19.0
+|8.4
+|–
+|–
+|6.8
+|–
+|–
+|2.1
+|1.4
+|0.7
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 29.2
+|-
+|20–27 Aug
+|Yöneylem
+|[https://www.gazeteduvar.com.tr/son-secim-anketi-ak-parti-yuzde-315-mhp-baraj-alti-chp-yuzde-271-galeri-1534086?p=4 Gazete Duvar]
+|3,040
+| style="background:#FFF1C4" | '''45.9'''
+|–
+|–
+| style="background:#FFC2C2" |38.2
+|15.9
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 7.7
+|-
+|Aug
+|Optimar
+|[https://www.paraanaliz.com/2021/raporlar/optimar-anketi-halk-orman-yanginlarinda-en-basarili-mucadeleyi-halkin-verdigini-dusunuyor-g-11842/ Para Analiz]
+|N/A
+| style="background:#FFF1C4" | '''46.3'''
+|8.2
+| style="background:#FFC2C2" |18.5
+|7.3
+|6.3
+|–
+|–
+|5.3
+|0.1
+|3.2
+|1.6
+|0.1
+|0.9
+|2.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 27.8
+|-
+|10–13 Jul
+|Optimar
+|[https://www.hurhaber.com/optimar-dan-secim-anketi-iyi-parti-ve-hdp-baraj-alti-kaldi-434830-m.html Hür Haber]
+|1,726
+| style="background:#FFF1C4" | '''45.1'''
+|8.9
+| style="background:#FFC2C2" |15.9
+|8.3
+|5.9
+|–
+|–
+|6.4
+|0.5
+|4.1
+|0.9
+|0.3
+|0.4
+|3.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 29.2
+|-
+|21–28 Jun
+| colspan="2" |[https://sahamerkezi.org/wp-content/uploads/2021/07/TURKIYE-GENELI-SIYASAL-GUNDEM-VE-SECMEN-EGILIM-ANKET-CALISMA-RAPORU-PDF.pdf Sosyo Politik]
+|1,008
+| style="background:#FFF1C4" | '''37.5'''
+|14.2
+|7.6
+| style="background:#FFC2C2" |18.3
+|9.8
+|–
+|–
+|8.4
+|–
+|–
+|3.1
+|–
+|1.1
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 19.2
+|-
+|22–24 May
+|Optimar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/muhalefet-erken-secimi-bir-daha-dusunmeli-41823934 Hürriyet]
+|1,836
+| style="background:#FFF1C4" | '''36.7'''
+|7.7
+| style="background:#FFC2C2" |13.8
+|6.5
+|8.2
+|–
+|–
+|8.0
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 22.9
+|-
+|22–30 Apr
+|Optimar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-onemli-sonuclar-cikti-41812195 Hürriyet]
+|2,027
+| style="background:#FFF1C4" | '''38.6'''
+|9.6
+| style="background:#FFC2C2" |15.7
+|4.1
+|–
+|–
+|–
+|6.0
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 22.9
+|-
+|Mar
+| colspan="2" |[https://twitter.com/BurhanEptemli/status/1380242992343232514 SAROS]
+|3,042
+| style="background:#FFF1C4" | '''38.6'''
+| style="background:#FFC2C2" |14.6
+|2.9
+|3.9
+|13.2
+|–
+|–
+|9.7
+|–
+|11.3
+|1.9
+|1.8
+|1.4
+|0.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |24.0
+|-
+|28 Feb – 5 Mar
+|Optimar
+|[https://www.milliyet.com.tr/yazarlar/zafer-sahin/anketlerin-dili-6499771 Milliyet]
+|2,207
+| style="background:#FFF1C4" | '''32.5'''
+|6.2
+| style="background:#FFC2C2" |8.0
+|1.6
+|–
+|–
+|–
+|5.2
+|–
+|–
+|–
+|–
+|4.2
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 24.5
+|-
+|10 Jan – 4 Feb
+| colspan="2" |[https://twitter.com/arastirmasonar/status/1358735565324181506 SONAR]
+|3,200
+| style="background:#FFF1C4" | '''45.9'''
+| style="background:#FFC2C2" |14.6
+| 9.8
+| 2.3
+| 5.2
+| –
+| –
+| 8.8
+| –
+| 7.1
+| –
+| –
+| –
+| 6.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |31.3
+|-
+|20–26 Jan
+| colspan="2" |[https://twitter.com/AdaArastirma/status/1355572767912026113 ADA]
+|3,245
+| style="background:#FFF1C4" | '''48.2'''
+| –
+| –
+| 12.6
+| 7.4
+| –
+| –
+| style="background:#D0EBFF" |13.7
+| 1.0
+| –
+| 4.0
+| 2.4
+| 3.3
+| 7.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |34.5
+|-
+|Jan
+| colspan="2" |[https://twitter.com/BurhanEptemli/status/1365325523153526788 SAROS]
+|3,034
+| style="background:#FFF1C4" | '''37.6'''
+|9.6
+|3.8
+|7.3
+| style="background:#E2D3EE" |17.1
+|–
+|–
+|9.3
+|0.9
+|10.0
+|1.5
+|1.6
+|1.2
+|0.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |20.5
+|}
+
+==== 2020 ====
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" | Fieldwork date
+! rowspan="2" | Polling firm
+! rowspan="2" | Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! colspan="3" style="background:{{party color|Republican People's Party (Turkey)}};" |
+! colspan="2" style="background:{{party color|Peoples' Democratic Party (Turkey)}};" |
+! style="background:{{party color|İYİ Party}};" |
+! style="background:{{party color|Felicity Party}};" |
+! style="background:{{party color|Nationalist Movement Party}};" |
+! style="background:{{party color|Democracy and Progress Party}};" |
+! style="background:{{party color|Future Party (Turkey)}};" |
+! style="background:{{party color|Homeland Party (Turkey, 2021)}};" |
+! rowspan="2" | Others
+! rowspan="2" | Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br />{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Ekrem İmamoğlu|İmamoğlu]]<br />{{small|[[Republican People's Party|CHP]]}}
+! [[Mansur Yavaş|Yavaş]]<br />{{small|[[Republican People's Party|CHP]]}}
+! [[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]<br />{{small|[[Republican People's Party|CHP]]}}
+! [[Selahattin Demirtaş|Demirtaş]]<br />{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Meral Danış Beştaş|Beştaş]]<br />{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Meral Akşener|Akşener]]<br />{{small|[[Good Party|İYİ]]}}
+! [[Temel Karamollaoğlu|Karamollaoğlu]]<br />{{small|[[Felicity Party|SAADET]]}}
+! [[Devlet Bahçeli|Bahçeli]]<br />{{small|[[Nationalist Movement Party|MHP]]}}
+! [[Ali Babacan|Babacan]]<br />{{small|[[Democracy and Progress Party|DEVA]]}}
+! [[Ahmet Davutoğlu|Davutoğlu]]<br />{{small|[[Future Party (Turkey)|GP]]}}
+! [[Muharrem İnce|İnce]]<br />{{small|[[Homeland Party (Turkey, 2021)|MP]]}}
+|-
+|-
+|Dec
+|[http://www.teamarastirma.com/wp-content/uploads/2021/04/TEAM-Se%C3%A7men-E%C4%9Filimleri-Ara%C5%9Ft%C4%B1rmalar%C4%B1-2020.pdf TEAM]
+|9,281
+| style="background:#FFF1C4" | '''43.2'''
+| style="background:#FFC2C2" |16.2
+|6.2
+|2.8
+|9.6
+|–
+|8.3
+|–
+|4.8
+|1.6
+|1.0
+|3.9
+|2.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |27.0
+|-
+|Dec
+|[https://youtube.com/watch?v=zvjQBXsNemI Sandık Analiz]
+|3,809
+| style="background:#FFF1C4" | '''44.0'''
+| style="background:#FFC2C2" |31.2
+| –
+| –
+| –
+| 7.5
+| 10.6
+| 0.6
+| –
+| 4.1
+| 1.1
+| –
+| 0.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |12.8
+|-
+|3–9 Dec
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-surpriz-sonuclar-cikti-41687713 Optimar]
+|2,253
+| style="background:#FFF1C4" | '''33.8'''
+| 4.7
+| style="background:#FFC2C2" |6.6
+| 4.5
+| –
+| –
+| 5.1
+| –
+| –
+| –
+| –
+| –
+| –
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |27.2
+|-
+|11 Nov – 4 Dec
+|[https://www.khas.edu.tr/sites/khas.edu.tr/files/inline-files/TEA2020_Tur_WEBRAPOR_1.pdf Kadir Has University]
+|1,000
+| style="background:#FFF1C4" | '''47.8'''
+| 9.6
+| 6.1
+| 10.8
+| style="background:#E2D3EE" |11.1
+| –
+| 10.3
+| –
+| –
+| –
+| –
+| –
+| 4.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |36.7
+|-
+|Nov
+|[https://twitter.com/BurhanEptemli/status/1333183665027903489 SAROS]
+|3,092
+| style="background:#FFF1C4" | '''34.1'''
+| style="background:#FFC2C2" |13.1
+|4.1
+|7.0
+|12.2
+|–
+|7.5
+|–
+|10.3
+|9.9
+|0.7
+|0.6
+|0.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |21.0
+|-
+|26–30 Oct
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/siyaset-ve-sosyal-medya-uzerine-ilginc-bir-anket-41655494 Optimar]
+|2,147
+| style="background:#FFF1C4" | '''36.4'''
+|8.3
+| style="background:#FFC2C2" |8.6
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 27.8
+|-
+|Aug
+|[http://sonararastirma.com.tr/arastirmalar/ SONAR]
+|2,850
+| style="background:#FFF1C4" | '''50.5'''
+| 11.1
+| 7.7
+| –
+| 7.8
+| –
+| 8.8
+| –
+| –
+| –
+| –
+| 8.3
+| 5.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 39.4
+|-
+|3–5 Aug
+|[https://twitter.com/AdaArastirma/status/1293886103926210563 ADA]
+|1,750
+| style="background:#FFF1C4" | '''43.2'''
+| 13.8
+| style="background:#FFC2C2" |14.3
+| 1.2
+| 5.7
+| –
+| 6.8
+| 0.9
+| 4.2
+| 3.4
+| 1.7
+| 3.7
+| 1.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |28.9
+|-
+|10–14 Jul
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/kilicdaroglu-ayasofya-davetini-geri-cevirdi-41568885 Optimar]
+|2,047
+| style="background:#FFF1C4" | '''38.4'''
+| style="background:#FFC2C2" |7.0
+|4.0
+|–
+|4.7
+|–
+|5.6
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 31.4
+|-
+|Jun
+|[https://twitter.com/BurhanEptemli/status/1273731857281167360 SAROS]
+|3,017
+| style="background:#FFF1C4" | '''41.4'''
+| style="background:#FFC2C2" |15.0
+|4.7
+|9.9
+|9.2
+|–
+|8.8
+|0.2
+|8.1
+|0.7
+|1.4
+|–
+|0.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 26.4
+|-
+|May
+|[https://twitter.com/ArastirmaG/status/1261988707617443840 AR–G]
+|1,258
+| style="background:#FFF1C4" | '''42.1'''
+| style="background:#FFC2C2" |19.6
+|12.8
+|1.0
+|5.6
+|–
+|6.1
+|0.9
+|3.2
+|4.1
+|1.8
+|2.2
+|0.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 22.5
+|-
+|20 Apr – 8 May
+|[https://www.karadenizgazete.com.tr/siyaset/optimarin-son-secim-anketi-erdogan-mi-yavas-mi-imamoglu-mu/273440 Optimar]
+|2,307
+| style="background:#FFF1C4" | '''48.2'''
+| style="background:#FFC2C2" |13.5
+|7.3
+|–
+|8.5
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 34.7
+|-
+|9 Mar - 2 Apr
+| [https://www.haberler.com/cumhurbaskanligi-secim-anketinde-erdogan-dan-13192802-haberi/ Konsensus]
+|1,500
+| style="background:#FFF1C4" | '''49.9'''
+| style="background:#FFC2C2" |17.7
+| 5.6
+| –
+| 6.8
+| –
+| 5.5
+| –
+| –
+| –
+| –
+| –
+| –
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 32.2
+|-
+| data-sort-value="2020-03-06" |2–6 Mar
+| [https://www.haberler.com/cumhurbaskanligi-secimi-anketinde-babacan-ince-13009194-haberi/ ADA]
+|1,366
+| style="background:#FFF1C4" | '''44.3'''
+| style="background:#FFC2C2" | 25.5
+| 2.9
+| 1.3
+| 6.6
+| –
+| 6.2
+| 1.3
+| 4.9
+| 3.2
+| 1.3
+| 1.4
+| 1.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 18.8
+|-
+| data-sort-value="2020-02-24" |24 Feb
+| [http://www.cumhuriyet.com.tr/galeri/cumhurbaskanligi-secimi-anketi-erdoganin-oy-orani-yuzde-385e-geriledi-1723068/ Polimetre]{{refn|name=generic-achi|Poll didn't present candidate names for AKP, CHP, HDP, İYİ; but presented parties.|group=nb}}
+| N/A
+| style="background:#FFF1C4" | '''38.5'''
+| colspan="3" style="background:#FFC2C2" | 35.1
+| 9.3
+| –
+| 8.1
+| –
+| –
+| –
+| –
+| –
+| 9.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 3.4
+|-
+| data-sort-value="2020-01-13" |2–9 Jan
+| [https://www.haberler.com/cumhurbaskanligi-anketinde-erdogan-ile-imamoglu-12812056-haberi/ Artibir]
+|1,500
+| style="background:#FFF1C4" | '''49.5'''
+| style="background:#FFC2C2" | 37.7
+| –
+| –
+| 9.4
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 3.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 11.8
+|}
+
+==== 2018–2019 ====
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Polling firm
+! rowspan="2"| Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! colspan="3" style="background:{{party color|Republican People's Party (Turkey)}};" |
+! style="background:{{party color|Peoples' Democratic Party (Turkey)}};" |
+! style="background:{{party color|İYİ Party}};" |
+! style="background:{{party color|Felicity Party}};" |
+! style="background:{{party color|Nationalist Movement Party}};" |
+! style="background:{{party color|Democracy and Progress Party}};" |
+! style="background:{{party color|Future Party (Turkey)}};" |
+! style="background:{{party color|Homeland Party (Turkey, 2021)}};" |
+! rowspan="2"| Others
+! rowspan="2"| Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Ekrem İmamoğlu|İmamoğlu]]<br/>{{small|[[Republican People's Party|CHP]]}}
+! [[Mansur Yavaş|Yavaş]]<br/>{{small|[[Republican People's Party|CHP]]}}
+! [[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]<br/>{{small|[[Republican People's Party|CHP]]}}
+! [[Selahattin Demirtaş|Demirtaş]]<br/>{{small| [[Peoples' Democratic Party (Turkey)|HDP]]}}
+! [[Meral Akşener|Akşener]]<br/>{{small|[[Good Party|İYİ]]}}
+! [[Temel Karamollaoğlu|Karamollaoğlu]]<br/>{{small|[[Felicity Party|SAADET]]}}
+! [[Devlet Bahçeli|Bahçeli]]<br/>{{small|[[Nationalist Movement Party|MHP]]}}
+! [[Ali Babacan|Babacan]]<br/>{{small|[[Democracy and Progress Party|DEVA]]}}
+! [[Ahmet Davutoğlu|Davutoğlu]]<br/>{{small|[[Future Party (Turkey)|GP]]}}
+! [[Muharrem İnce|İnce]]<br/>{{small|[[Homeland Party (Turkey, 2021)|MP]]}}
+|-
+|13–15 Dec
+|[https://www.haberler.com/vatandasin-yeni-partilerden-beklentisi-yok-12723199 Public Status]
+|4,150
+| style="background:#FFF1C4" | '''53.0'''
+|27.7
+|–
+|–
+|8.5
+|6.8
+|1.1
+|–
+|0.9
+|0.2
+|1.2
+|1.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"| 25.3
+|-
+|21−28 Oct
+|[https://twitter.com/AdaArastirma/status/1190591720125345792 ADA]
+|1,700
+| style="background:#FFF1C4" | '''45.1'''
+| style="background:#FFC2C2" | 26.6
+| –
+| 1.1
+| 4.2
+| 6.1
+| 1.4
+| 5.3
+| 3.8
+| 2.1
+| 1.6
+| 2.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"| 18.1
+|-
+| data-sort-value="2018-07-11" |19–30 Aug
+| [http://www.enpolitik.com/haber/316224/unlu-arastirma-sirketinden-son-anket-cumhurbaskanligi-seciminde-kime-oy-verirsiniz.html ADA]
+|1,721
+| style="background:#FFF1C4" | '''39.1'''
+| style="background:#FFC2C2" | 28.6
+| –
+| 0.5
+| 8.0
+| 6.8
+| –
+| 6.5
+| 4.2
+| 2.3
+| 2.0
+| 2.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 10.5
+|-
+| data-sort-value="2018-07-11" |2–7 Aug
+| [https://twitter.com/sarosarastirma/status/1175436995591573505/photo/1 SAROS]
+|3,012
+| style="background:#FFF1C4" | '''45.0'''
+| style="background:#FFC2C2" | 19.2
+| –
+| –
+| 15.3
+| 12.8
+| –
+| –
+| 0.7
+| –
+| 4.9
+| 2.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" | 25.8
+|-
+!colspan=16|2019
+|-
+| data-sort-value="2018-07-11"|Jul
+| [http://www.mynet.com/haber/politika/orc-den-secim-sonrasi-anket-iste-partilerin-son-oy-oranlari-4259708-1 ORC]
+| N/A
+| style="background:#FFF1C4"| '''56.7'''{{refn|With [[Nationalist Movement Party|MHP]].|group=nb|name=erdogan2018pres}}
+| colspan="3" | 27.7{{refn|With [[Muharrem İnce]] as the candidate.|group=nb|name=ince2018pres}}
+| 8.4
+| 6.5
+| 0.5
+| –
+| colspan="3" {{N/A}}
+| 0.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"| 29.0
+|-
+! 24 Jun 2018
+! [[2018 Turkish general election|2018 presidential election]]
+! 51,188,524
+! style="background:#FFF1C4"| 52.6{{refn|group=nb|name=erdogan2018pres}}
+! colspan="3" | 30.6{{refn|group=nb|name=ince2018pres}}
+! 8.4
+! 7.3
+! 0.9
+! N/A
+! N/A
+! N/A
+! N/A
+! 0.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"| 20.0
+|}
+
+==Second round==
+===Erdoğan vs. Kılıçdaroğlu===
+====2023====
+[[File:Erdoğan-Kılıçdaroğlu ikinci tur anketleri.png|1000px]]
+
+{| class="wikitable tpl-blanktable mw-collapsible" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="3" | Fieldwork date
+! rowspan="3" | Polling firm
+! rowspan="3" | Sample size
+! [[File:Recep Tayyip Erdogan in Ukraine.jpg|80x80px]]
+! [[File:Kemal Kılıçdaroğlu in March 2023 (cropped).png|80x80px]]
+! rowspan="3" | Undecided
+! rowspan="3" | Lead
+|-
+! {{small|[[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[People's Alliance (Turkey)|PEOPLE]]}}}}
+! {{small|[[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]<br/>{{small|[[Nation Alliance (Turkey)|NATION]]}}}}
+|-
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Republican People's Party (Turkey)}};" |
+|-
+|25-28 Apr
+|[https://www.haber7.com/siyaset/haber/3321324-optimar-ve-areda-survey-pes-pese-anket-paylasti-parti-parti-aday-aday-son-durum Optimar]
+|3,005
+|style="background:#FFF1C4" |'''51.4'''
+|48.6
+| –
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.8
+|-
+|25-27 Apr
+|[https://www.haber7.com/siyaset/haber/3321324-optimar-ve-areda-survey-pes-pese-anket-paylasti-parti-parti-aday-aday-son-durum AREDA]{{refn|group=pc|name=areda}}
+|14,193
+|style="background:#FFF1C4" |'''53.3'''
+|46.7
+| –
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |6.6
+|-
+|23-26 Apr
+|[https://twitter.com/teamarastirma/status/1652582370925477889?s=20 TEAM]
+|3,054
+|47.5
+|style="background:#FFC2C2 |'''52.5'''
+| –
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |5.0
+|-
+|17-25 Apr
+|[https://www.tusiar.com/?pnum=213 TÜSİAR]
+|972
+|style="background:#FFF1C4" |'''51.1'''
+|48.9
+| –
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.2
+|-
+|18-24 Apr
+|[https://www.al-monitor.com/originals/2023/04/al-monitorpremise-poll-turkeys-election-dead-heat-erdogan-and-kilicdaroglu-tied Al-Monitor/Premise]
+|972
+|style="background:#FFF1C4" |'''45.2'''
+|44.9
+|9.9
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |0.3
+|-
+|10-25 Apr
+|[https://www.sozcu.com.tr/2023/yazarlar/can-coskun/son-anket-calismasindan-carpici-sonuclar-7667602/ BULGU]
+|2,400
+| 44.3
+|style="background:#FFC2C2" |'''55.7'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |11.4
+|-
+|13-24 Apr
+|[https://twitter.com/caliskanerh/status/1651632051924213780?s=20 Artıbir]
+|1,500
+| 46.4
+|style="background:#FFC2C2" |'''53.6'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |7.2
+|-
+|12-20 Apr
+|[https://twitter.com/areaarastirma/status/1650443170855919616 Area]
+| 10,277
+| 49.3
+|  style="background:#FFC2C2" |'''50.7'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |1.4
+|-
+|15-20 Apr
+|[https://twitter.com/ersinceliq/status/1649054806546472966?s=20 Areda]{{refn|group=pc|name=areda}}
+|17,400
+|style="background:#FFF1C4" |'''53.5'''
+|46.5
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |7.0
+|-
+|Apr
+|[https://twitter.com/medyaadami/status/1649073337023320070?s=20 Genar]
+|–
+|style="background:#FFF1C4" |'''51.7'''
+|48.3
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |3.4
+|-
+|10-16 Apr
+|[https://twitter.com/ahakanbayrakci/status/1649143326396805134?s=20 SONAR]
+|4,541
+|style="background:#FFF1C4" |'''52.1'''
+|47.9
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.2
+|-
+|10-16 Apr
+|[https://twitter.com/AksoyArastirma/status/1648243980532948992?s=20 Aksoy]
+| 1,067
+|42.6
+|  style="background:#FFC2C2" |'''57.4'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |14.8
+|-
+|5-15 Apr
+|[https://twitter.com/Hbs_arastirma/status/1650103246436937728?s=20 HBS]
+| 5,100
+| 49.3
+|  style="background:#FFC2C2" |'''50.7'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |1.4
+|-
+|1-7 Apr
+|[https://www.ensonhaber.com/gundem/optimardan-iki-turlu-cumhurbaskani-secim-anketi Optimar]
+|4,745
+|style="background:#FFF1C4" |'''51.1'''
+|48.9
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.2
+|-
+|Apr
+|[https://twitter.com/BurhanEptemli/status/1644965593886470147 Saros]
+| 10,729
+|49.7
+|  style="background:#FFC2C2" |'''50.3'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |0.6
+|-
+|1-2 Apr
+| [https://twitter.com/geziciarastirma/status/1646050318491308033 Gezici]
+|2,864
+|44.8
+|style="background:#FFC2C2" |'''55.2'''
+| –
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |10.4
+|-
+|25 Mar-2 Apr
+|[https://twitter.com/AsalArastirma/status/1643886844130541568/ ASAL]
+|2,147
+|style="background:#FFF1C4" |'''51.4'''
+|48.6
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.8
+|-
+|28 Mar-1 Apr
+|[https://www.kamubiz.com/areda-arastirmaya-gore-erdogan-6-puan-fark-atiyor Areda Survey]{{refn|group=pc|name=areda}}
+|18,478
+|style="background:#FFF1C4" |'''52.8'''
+|47.2
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |5.6
+|-
+|27-29 Mar
+|[https://halktv.com.tr/siyaset/secimlere-gunler-kala-son-anket-sonuclari-aciklandi-yoneylemin-arastirmasina-729492h Yöneylem]
+|2,655
+|44.9
+|style="background:#FFC2C2" |'''55.1'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |10.2
+|-
+|22-27 Mar
+| [https://twitter.com/yirmiucderece/status/1639174488699879424?s=20 Aksoy]
+|1,537
+|43.2
+|style="background:#FFC2C2" |'''56.8'''
+| –
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |13.6
+|-
+|-
+|12-17 Mar
+|[https://www.youtube.com/watch?v=iHWr4jjtwy0&ab_channel=AvrasyaAnket Avrasya]{{refn|group=pc|name=avrasya}}
+|2,560
+|43.0
+|style="background:#FFC2C2" |'''57.0'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |14.0
+|-
+|11-15 Mar
+|[https://twitter.com/BulguArastirma/status/1638222622075789317 Bulgu Araştırma]
+|1,800
+|38.6
+|style="background:#FFC2C2" |'''42.4'''
+|19.0
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"  |3.8
+|-
+|11-14 Mar
+|[https://twitter.com/ozersencar1/status/1641781828192202754 MetroPOLL]
+|1,999
+|42.0
+|style="background:#FFC2C2" |'''44.6'''
+|13.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"  |2.6
+|-
+|8-15 Mar
+|[https://twitter.com/DanismanlikMak/status/1638492248202412032 MAK]
+|5,750
+|42.4
+|style="background:#FFC2C2" |'''46.5'''
+|11.1
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"  |4.1
+|-
+|7-10 Mar
+|[https://twitter.com/AdaArastirma/status/1636708199708479492?t=lmvZI3mC8kmK0eVgiAmUjw&s=19 ADA]
+|3,121
+|style="background:#FFF1C4" |'''53.7'''
+|46.3
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |7.4
+|-
+|6-9 Mar
+|[https://turkiyeraporu.com/wp-content/uploads/2023/03/Rapor-81-TR-Mart-2023-Vol.-I.pdf İEA]
+|2,000
+|39.6
+|style="background:#FFC2C2" |'''47.0'''
+|13.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"  |7.4
+|-
+|8 Mar
+|[https://web.archive.org/web/20230311111055/https://twitter.com/AksoyArastirma/status/1634499956940652544 Aksoy]
+|1,537
+|44.4
+|style="background:#FFC2C2" |'''55.6'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"  |11.2
+|-
+|6-7 Mar
+|[https://web.archive.org/web/20230314035555/https://twitter.com/alfarastirma/status/1633473319558160384?t=9w3wIImK0TJoNV2GxM7qkA&s=19 ALF]
+|1,770
+|44.9
+|style="background:#FFC2C2" |'''55.1'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |10.2
+|-
+! colspan="1" | 6 March 2023
+! colspan="12" |[[Kemal Kılıçdaroğlu|Kılıçdaroğlu]] is declared the [[Nation Alliance (Turkey)|Nation Alliance]] candidate for president.
+|-
+|-
+|4-6 Mar
+|[https://web.archive.org/web/20230307161352/https://twitter.com/orc_arastirma/status/1633127020556173314 ORC]
+|1,850
+|43.2
+| style="background:#FFC2C2" |'''56.8'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |13.6
+|-
+|March
+|[https://twitter.com/yirmiucderece/status/1639174488699879424?t=LROac-HS_ltfg1OQlU4JAw&s=19 Aksoy]
+|1,537
+|43.2
+|style="background:#FFC2C2" |'''56.8'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |13.6
+|-
+|March
+|[https://twitter.com/sarosarastirma/status/1637903585504636929 SAROS]
+|10,826
+|46.3
+| style="background:#FFC2C2" |'''53.7'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |7.4
+|-
+| March
+|[https://twitter.com/ZAMajans/status/1637360229758259204?t=jKRsegOtxImvZekGMtU8qw&s=19 GENAR]
+|3,000
+| style="background:#FFF1C4" |'''46.3'''
+|42.1
+|11.6
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.2
+|-
+|March
+|[https://web.archive.org/web/20230310200802/https://twitter.com/PiarArastirma/status/1634234492469616640 Piar]
+|1,460
+|42.9
+| style="background:#FFC2C2" |'''57.1'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |14.2
+|-
+|27 Jan–2 Feb
+|[https://web.archive.org/web/20230204223803/https://www.youtube.com/watch?v=fugx9g8GP2M Avrasya]{{refn|group=pc|name=avrasya}}
+|2,460
+|40.3
+| style="background:#FFC2C2" |'''48.2'''
+|11.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |7.9
+|-
+|February
+|[https://twitter.com/ozersencar1/status/1641781828192202754 MetroPOLL]
+|2,117
+|style="background:#FFF1C4" |'''42.7'''
+|41.4
+|15.7
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |1.3
+|-
+|14-24 Jan
+|[https://twitter.com/AsalArastirma/status/1621431989755584513/ ASAL]
+|2,520
+|style="background:#FFF1C4" |'''46.9'''
+|39.3
+|13.8
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |7.6
+|-
+|13-18 Jan
+|[https://twitter.com/ozersencar1/status/1641781828192202754 MetroPOLL]
+|2,022
+|style="background:#FFF1C4" |'''45.9'''
+|43.0
+|11.1
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.9
+|-
+|3-8 Jan
+|[https://web.archive.org/web/20230113223603/https://www.youtube.com/watch?v=61LYNjjlemo Avrasya]{{refn|group=pc|name=avrasya}}
+|2,612
+|38.3
+| style="background:#FFC2C2" |'''48.5'''
+|13.2
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|10.2
+|-
+|2-5 Jan
+|[https://web.archive.org/web/20230116173035/http://twitter.com/orc_arastirma/status/1612354342274605056 ORC]
+|3,780
+|style="background:#FFF1C4" |'''42.5'''
+|41.8
+|15.7
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |0.7
+|-
+|23 Dec–2 Jan
+|[https://web.archive.org/web/20230109203238/https://sahamerkezi.org/turkiye-geneli-siyasal-gundem-ve-secmen-egilimi-saha-arastirma-raporu-3/ Sosyo Politik]
+|1,582
+|35.8
+| style="background:#FFC2C2" |'''36.8'''
+|27.4
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.0
+|-
+|January
+|[https://web.archive.org/web/20230315115232/https://twitter.com/YoneylemSosyal/status/1630810138511548417 Yöneylem]
+|2,400
+|41.0
+| style="background:#FFC2C2" |'''46.2'''
+|12.7
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|5.2
+|}
+
+====2022====
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="3" | Fieldwork date
+! rowspan="3" | Polling firm
+! rowspan="3" | Sample size
+! [[File:Recep Tayyip Erdogan in Ukraine.jpg|80x80px]]
+! [[File:Kemal Kılıçdaroğlu in March 2023 (cropped).png|80x80px]]
+! rowspan="3" | Undecided
+! rowspan="3" | Lead
+|-
+! {{small|[[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[People's Alliance (Turkey)|People's]]}}}}
+! {{small|[[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]<br/>{{small|[[Nation Alliance (Turkey)|Nation]]}}}}
+|-
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Republican People's Party (Turkey)}};" |
+|-
+|22-27 Dec
+|[https://web.archive.org/web/20221229203528/https://www.diken.com.tr/anket-chpde-dusus-durmadi-erdogan-uc-adaya-da-kaybediyor/ Yöneylem]
+|2,400
+|42.5
+| style="background:#FFC2C2" |'''45.2'''
+|12.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.7
+|-
+|20-25 Dec
+|[https://web.archive.org/web/20221226212913/https://www.youtube.com/watch?v=mlZseA14V4o&bpctr=9999999999&has_verified=1&video_id=mlZseA14V4o Area]
+|2,004
+|37.6
+| style="background:#FFC2C2" |'''38.6'''
+|23.8
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.0
+|-
+|14-24 Dec
+|[https://web.archive.org/web/20221228211252/https://t24.com.tr/foto-haber/artibir-arastirma-dan-son-secim-anketi-kilicdaroglu-erdogan-i-gecti,20354 Artıbir]
+|1,500
+|39.4
+| style="background:#FFC2C2" |'''43.6'''
+|17.0
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.2
+|-
+|13-18 Dec
+|[https://web.archive.org/web/20221230200059/https://halktv.com.tr/makale/ibbnin-fatih-tablosuna-ikinci-kez-on-inceleme-710693 MetroPOLL]
+|2,077
+|40.1
+| style="background:#FFC2C2" |'''44.9'''
+|15.0
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.8
+|-
+|3 Nov–12 Dec
+|[https://web.archive.org/web/20230118174218/https://www.gazeteduvar.com.tr/ak-partililere-erdogan-anketi-1-yilda-yuzde-18-fark-galeri-1598872 Global & Akademetre]
+|1,000
+| style="background:#FFF1C4" |'''44.0'''
+|34.3
+|21.7
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |9.7
+|-
+|29 Nov–3 Dec
+|[https://web.archive.org/web/20221206174503/https://www.youtube.com/watch?v=JhbPiezuj8M Avrasya]{{refn|group=pc|name=avrasya}}
+|2,612
+|37.5
+| style="background:#FFC2C2" |'''48.2'''
+|14.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|10.7
+|-
+|December
+|[https://web.archive.org/web/20230125161030/https://twitter.com/sarosarastirma/status/1617974834348314624 SAROS]
+|11,106
+|49.7
+| style="background:#FFC2C2" |'''50.3'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|0.6
+|-
+|21-30 Nov
+|[https://web.archive.org/web/20221205193132/https://t24.com.tr/foto-haber/arti-bir-arastirma-kilicdaroglu-erdogan-i-geciyor-akp-2-5-farkla-birinci-parti,19813 Artıbir]
+|1,500
+|38.2
+| style="background:#FFC2C2" |'''43.8'''
+|18.0
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|5.6
+|-
+|23-27 Nov
+|[https://web.archive.org/web/20221206184558/https://www.yurttansesler.org/anket/yoneylem-den-anket-erdogan-3-adayin-da-gerisinde-h18952.html Yöneylem]
+|2,400
+|42.8
+| style="background:#FFC2C2" |'''43.3'''
+|13.9
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|0.5
+|-
+|15-20 Nov
+|[https://web.archive.org/web/20221207030927/https://twitter.com/ozersencar1/status/1600111773432135680 MetroPOLL]
+|2,122
+|style="background:#FFF1C4" |'''44.5'''
+|39.4
+|16.0
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |5.1
+|-
+|29 Oct–6 Nov
+|[https://web.archive.org/web/20221110231427/https://www.youtube.com/watch?v=8K4tAu5isIc Avrasya]{{refn|group=pc|name=avrasya}}
+|2,560
+|38.4
+| style="background:#FFC2C2" |'''47.9'''
+|13.7
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|9.5
+|-
+|November
+|[https://twitter.com/sarosarastirma/status/1604863908182900737/ SAROS]
+|11,028
+|40.2
+| style="background:#FFC2C2" |'''41.0'''
+|18.8
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|0.8
+|-
+|24-28 Oct
+|[https://web.archive.org/web/20221103192409/https://www.cumhuriyet.com.tr/siyaset/yoneylem-arastirma-ortaya-koydu-erdogan-uc-isme-karsi-kaybediyor-1999080 Yöneylem]
+|2,400
+|40.7
+| style="background:#FFC2C2" |'''43.6'''
+|15,7
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.9
+|-
+|15-18 Oct
+|[https://web.archive.org/web/20221207030927/https://twitter.com/ozersencar1/status/1600111773432135680 MetroPOLL]
+|2,145
+|style="background:#FFF1C4" |'''45.4'''
+|41.3
+|13.2
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.1
+|-
+|10-18 Oct
+|[https://www.gazeteduvar.com.tr/son-anket-kilicdaroglu-erdogana-5-puan-fark-atiyor-galeri-1586203 Artıbir]
+|1,500
+|38.5
+| style="background:#FFC2C2" |'''43.4'''
+|18.1
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.9
+|-
+|5-14 Oct
+|[https://web.archive.org/web/20221025210857/https://www.mynet.com/galeri/son-dakika-asal-arastirma-nin-secim-anketi-buyuk-ses-getirecek-kilicdaroglu-imamoglu-yavas-erdogan-in-aldigi-oylar-dikkat-cekti-110107058695 ASAL]
+|2,312
+|style="background:#FFF1C4" |'''42.8'''
+|38.8
+|18.4
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.0
+|-
+|26-30 Sep
+|[https://web.archive.org/web/20221004192342/https://www.gazeteduvar.com.tr/son-anket-kilicdaroglu-erdogana-karsi-6-puan-farkla-kazaniyor-galeri-1583444 Yöneylem]
+|2,400
+|40.6
+| style="background:#FFC2C2" |'''46.8'''
+|12.6
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|6.2
+|-
+|17-20 Sep
+|[https://twitter.com/ozersencar1/status/1584133443939897344 MetroPOLL]
+|2,119
+|style="background:#FFF1C4" |'''44.9'''
+|43.9
+|11.2
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |1.0
+|-
+|15-20 Sep
+|[https://web.archive.org/web/20220924230136/https://twitter.com/areaarastirma/status/1573284625950318595 Area]
+|3,123
+|31.8
+| style="background:#FFC2C2" |'''36.5'''
+|31.6
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.7
+|-
+|5-14 Sep
+|[https://web.archive.org/web/20220920174757/https://www.haberimizvar.net/kilicdaroglu-481-erdogan-382-34868-haberi Artıbir]
+|1,500
+|38.2
+| style="background:#FFC2C2" |'''48.1'''
+|13,7
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|9.9
+|-
+|September
+|[https://web.archive.org/web/20221125234012/https://www.youtube.com/watch?v=n2Jm6scCM0k KONDA]
+|–
+|35.0
+| style="background:#FFC2C2" |'''37.0'''
+|28.0
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.0
+|-
+|September
+|[https://twitter.com/sarosarastirma/status/1576649827576086528/ SAROS]
+|2,025
+|style="background:#FFF1C4" |'''41.3'''
+|39.0
+|19.7
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.3
+|-
+|September
+|[https://www.diken.com.tr/kilicdarogluna-sunulan-anket-erdogani-72-puanla-geciyor/ Aksoy]
+|1,067
+|46.4
+| style="background:#FFC2C2" |'''53.6'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|7.2
+|-
+|25 Aug–1 Sept
+|[https://web.archive.org/web/20220908202815/https://www.medyatava.com/foto-galeri/son-secim-anketi-cok-konusulacak-yoneylem-anket-sonuclarini-acikladi-bu-pazar-secim-olsa-bakin-kim-kazanacak-mansur-yavas-ekrem-imamoglu-ve-kemal-kilicdaroglunun-adayliginda-kim-onde_270321?sayfa=5 Yöneylem]
+|2,403
+|38.0
+| style="background:#FFC2C2" |'''48.7'''
+|13.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|10.7
+|-
+|22-28 Aug
+|[https://www.youtube.com/watch?v=9KL--b_uwa4&t=2305s Avrasya]{{refn|group=pc|name=avrasya}}
+|2,000
+|38.0
+| style="background:#FFC2C2" |'''44.7'''
+|18.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|6.7
+|-
+|13-17 Aug
+|[https://web.archive.org/web/20220907235833/https://twitter.com/beehaber/status/1567457660705951744 MetroPOLL]
+|1,717
+|41.4
+| style="background:#FFC2C2" |'''47.7'''
+|10.9
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|6.3
+|-
+|30 Jul–8 Aug
+|[https://web.archive.org/web/20220811230839/https://www.youtube.com/watch?v=OquK6D_QwWA&gl=US&hl=en Avrasya]{{refn|group=pc|name=avrasya}}
+|2,410
+|35.8
+| style="background:#FFC2C2" |'''56.5'''
+|7.7
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|20.7
+|-
+|1-4 Aug
+|[https://web.archive.org/web/20220808140455/https://www.medyaradar.com/bu-pazar-secim-olsa-hangi-aday-kazanir-iste-son-anket-sonuclari-fotogaleri-2096035 Areda Survey]{{refn|group=pc|name=areda}}
+|3,872
+|style="background:#FFF1C4" |'''47.9'''
+|42.4
+|9.7
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |5.5
+|-
+|August
+|[https://web.archive.org/web/20220820234405/https://twitter.com/Hbs_arastirma/status/1560657895393374208 HBS]
+|–
+|style="background:#FFF1C4" |'''56.0'''
+|44.0
+|–
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |12.0
+|-
+|11-16 Jul
+|[https://web.archive.org/web/20220801091529/https://twitter.com/metropoll/status/1553999578868944896 MetroPOLL]
+|2,091
+|42.7
+| style="background:#FFC2C2" |'''45.4'''
+|11.9
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.7
+|-
+|2-3 Jul
+|[https://web.archive.org/web/20220729195525/https://www.cumhuriyet.com.tr/siyaset/gezici-arastirma-merkezi-y-ve-z-kusagina-cumhurbaskanligi-secimini-sordu-1956382 Gezici]
+|2,680
+|46.8
+| style="background:#FFC2C2" |'''53.2'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|6.4
+|-
+|Jul
+|[https://twitter.com/sarosarastirma/status/1549342799442722817 SAROS]
+|1,672
+|style="background:#FFF1C4" |'''37.6'''
+|36.5
+|25.9
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |1.1
+|-
+|25 Jun–1 Jul
+|[https://web.archive.org/web/20220705235454/https://www.youtube.com/watch?v=ZMEkSx7N0sk&bpctr=9999999999&has_verified=1&video_id=ZMEkSx7N0sk Avrasya]{{refn|group=pc|name=avrasya}}
+|1,460
+|37,9
+| style="background:#FFC2C2" |'''54.1'''
+|8.0
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|16.2
+|-
+|20-30 Jun
+|[https://web.archive.org/web/20220729194734/https://www.youtube.com/watch?app=desktop&v=7y6V24kpzXE BUPAR]
+|2,986
+|31.2
+| style="background:#FFC2C2" |'''43.4'''
+|25.4
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|12.2
+|-
+|24-28 Jun
+|[https://www.cumhuriyet.com.tr/galeri/artik-birinci-parti-degil-akpnin-kemiklesmis-oylari-eriyor-1954700/8 Yöneylem]
+|2,704
+|37.5
+| style="background:#FFC2C2" |'''46.6'''
+|15.9
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|9.1
+|-
+|10-21 Jun
+|[https://www.youtube.com/watch?v=8sFx-xDOQ40 Objektif]
+|9,960
+|38.9
+| style="background:#FFC2C2" |'''51.7'''
+|9.4
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|12.8
+|-
+|11-15 Jun
+|[https://web.archive.org/web/20220701111129/https://twitter.com/metropoll/status/1542442222553030656 MetroPOLL]
+|2,123
+|39.8
+| style="background:#FFC2C2" |'''46.1'''
+|14.1
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|6.3
+|-
+|7-14 Jun
+|[https://web.archive.org/web/20220726211958/https://twitter.com/AsalArastirma/status/1541734490594222083 ASAL]
+|3,000
+|style="background:#FFF1C4" |'''36.8'''
+|35.1
+|28.1
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |1.7
+|-
+|June
+|[https://web.archive.org/web/20221125234012/https://www.youtube.com/watch?v=n2Jm6scCM0k KONDA]
+|–
+|34.0
+|31.0
+| style="background:#D6D6D6" |'''35.0'''
+! style="background:#A3A3A3; color:white;" |1.0
+|-
+|June
+|[https://web.archive.org/web/20220708172355/https://twitter.com/caliskanerh/status/1544961644144562176 Artıbir]
+|1,500
+|38.4
+| style="background:#FFC2C2" |'''47.6'''
+|14
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|9.2
+|-
+|26 May–1 Jun
+|[https://web.archive.org/web/20220603091936/https://www.youtube.com/watch?v=0BYfigqbCXo Avrasya]{{refn|group=pc|name=avrasya}}
+|1,500
+|39.1
+| style="background:#FFC2C2" |'''51.5'''
+|9.4
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|12.4
+|-
+|16-23 May
+|[https://web.archive.org/web/20220528233407/https://twitter.com/caliskanerh/status/1530594683013025795// Artıbir]
+|1,500
+|39.7
+| style="background:#FFC2C2" |'''48.2'''
+|12.1
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|8.5
+|-
+|12-15 May
+|[https://web.archive.org/web/20220517061551/https://www.gazeteduvar.com.tr/son-anket-chp-ak-parti-basa-bas-millet-ittifaki-farki-aciyor-galeri-1565049 Yöneylem]
+|2,400
+|36.5
+| style="background:#FFC2C2" |'''44.9'''
+|18.7
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|8.4
+|-
+|5-8 May
+|[https://twitter.com/AsalArastirma/status/1523960052452888579 ASAL]
+|2,400
+|style="background:#FFF1C4" |'''43.1'''
+|32.4
+|24.5
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |10.7
+|-
+|27 Apr–3 May
+|[https://web.archive.org/web/20220508124014/https://www.youtube.com/watch?v=sd8prk0Dsbk Avrasya]{{refn|group=pc|name=avrasya}}
+|2,460
+|40.2
+| style="background:#FFC2C2" |'''51.3'''
+|8.5
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|11.1
+|-
+|May
+|[https://web.archive.org/web/20220612101225/https://twitter.com/ozersencar1/status/1535927264684154880 MetroPOLL]
+|–
+|40.5
+|style="background:#FFC2C2" |'''42.7'''
+|16.8
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.2
+|-
+|May
+|[https://web.archive.org/web/20220524221432/https://twitter.com/sarosarastirma/status/1528575418806173696 SAROS]
+|2,987
+|48.8
+|style="background:#FFC2C2" |'''51.2'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.4
+|-
+|14-20 Apr
+|[https://web.archive.org/web/20220503161220/https://www.cumhuriyet.com.tr/turkiye/metropoll-arastirmadan-son-secim-anketi-erdogan-kararsizlari-toplasa-bile-1932121 MetroPOLL]
+|2,164
+|42.5
+|style="background:#FFC2C2" |'''43.3'''
+|13.5
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|0.8
+|-
+|8-10 Apr
+|[https://web.archive.org/web/20220414110047/https://twitter.com/AsalArastirma/status/1514559006286696451 ASAL]
+|2,100
+|style="background:#FFF1C4" |'''42.3'''
+|33.0
+|24.7
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |9.3
+|-
+|1-4 Apr
+|[https://web.archive.org/web/20220409205909/https://sahamerkezi.org/turkiye-geneli-siyasal-gundem-ve-secmen-egilimi-saha-arastirma-raporu-2 Sosyo Politik]
+|2,010
+|38.1
+|style="background:#FFC2C2" |'''40.5'''
+|21.4
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.4
+|-
+|24-29 Mar
+|[https://web.archive.org/web/20220403204607/https://www.youtube.com/watch?v=PZyVJMPhMzM&video_id=PZyVJMPhMzM Avrasya]{{refn|group=pc|name=avrasya}}
+|2,490
+|41.9
+|style="background:#FFC2C2" |'''46.8'''
+|11.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.9
+|-
+|3–6 Mar
+|[https://www.medyatava.com/foto-galeri/cok-konusulacak-secim-anketi-yoneylem-arastirma-mart-ayi-anket-sonucunu-acikladi-mecliste-bulunan-iki-parti-baraj-altinda-kaliyor-millet-ittifakinin-oy-oraninda-ise-ciddi-artis-var_249000 Yöneylem]
+|2,488
+|38.6
+|style="background:#FFC2C2" |'''40.1'''
+|21.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.5
+|-
+|Feb
+|[https://www.cumhuriyet.com.tr/galeri/son-ankette-carpici-ikinci-tur-sonucu-1914304 GEZİCİ]
+|–
+|47.4
+|style="background:#FFC2C2" |'''52.6'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|5.2
+|-
+|24–31 Jan
+|[https://twitter.com/EuropeElects/status/1492901478880661505 AKAM]
+|1,860
+|40
+|style="background:#FFC2C2" |'''60'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|20
+|-
+|9–14 Jan
+|[https://www.youtube.com/watch?v=Cdgq8D_HPSk AKAM]
+|1,260
+|42.0
+|style="background:#FFC2C2" |'''53.9'''
+|4.1
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|11.9
+|}
+====2019–2021====
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="3" | Fieldwork date
+! rowspan="3" | Polling firm
+! rowspan="3" | Sample size
+! [[File:Recep Tayyip Erdogan in Ukraine.jpg|80x80px]]
+! [[File:Kemal Kılıçdaroğlu in March 2023 (cropped).png|80x80px]]
+! rowspan="3" | Undecided
+! rowspan="3" | Lead
+|-
+! {{small|[[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[People's Alliance (Turkey)|People's]]}}}}
+! {{small|[[Kemal Kılıçdaroğlu|Kılıçdaroğlu]]<br/>{{small|[[Nation Alliance (Turkey)|Nation]]}}}}
+|-
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Republican People's Party (Turkey)}};" |
+|-
+|23–27 Dec
+|[https://www.youtube.com/watch?v=0I5ZLlHjfLk&ab_channel=AvrasyaAnket AKAM]
+|2,460
+|40.5
+|style="background:#FFC2C2" |'''53.9'''
+| –
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|13.4
+|-
+|14–15 Dec
+|[https://www.youtube.com/watch?v=clgbdwIyHT0 AKAM]
+|1,260
+|32.1
+|style="background:#FFC2C2" |'''50.6'''
+|17.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|18.5
+|-
+|13–20 Nov
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-ekonomi-cikti-41946021 Optimar]
+|2,507
+|style="background:#FFF1C4" |'''35.4'''
+|33.9
+|30.6
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |1.5
+|-
+|11–17 Nov
+|[https://www.youtube.com/watch?v=OAH-8LdYgWE AKAM]
+|1,260
+|34.1
+|style="background:#FFC2C2" |'''47.9'''
+|18.0
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|13.8
+|-
+|27 Oct – 3 Nov
+|[https://twitter.com/EuropeElects/status/1459838547083603971 Yöneylem]
+|2,000
+|46.5
+|style="background:#FFC2C2" |'''53.5'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|7.0
+|-
+|9–14 Oct
+|[https://www.youtube.com/watch?v=gAJmmk4vSvY AKAM]
+|1,500
+|47.1
+|style="background:#FFC2C2" |'''52.9'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|5.8
+|-
+|Oct
+|[https://twitter.com/sarosarastirma/status/1454520754880618498 SAROS]
+|1,854
+| style="background:#FFF1C4" |'''47.9'''
+|37.9
+|14.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |10.0
+|-
+|19–27 Sep
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/secim-anketleri-neyi-gosteriyor-surpriz-var-mi-41910042 Optimar]
+|1,938
+| style="background:#FFF1C4" |'''41.2'''
+|34.7
+|24.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |6.5
+|-
+|21–28 Aug
+|[https://youtube.com/watch?v=Ttbl6HJ-0oY AKAM]
+|2,460
+|45.8
+|style="background:#FFC2C2" |'''54.2'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|8.4
+|-
+|Aug
+|[https://www.gazeteduvar.com.tr/son-secim-anketi-ak-parti-yuzde-315-mhp-baraj-alti-chp-yuzde-271-galeri-1534086?p=7 Yöneylem]
+|3,040
+|38.6
+|style="background:#FFC2C2" |'''42.9'''
+|18.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.3
+|-
+|11–14 Aug
+|[https://www.youtube.com/watch?v=48wV9qjXRFQ AKAM]
+|N/A
+|46.1
+|style="background:#FFC2C2" |'''53.9'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|7.8
+|-
+|Aug
+|[https://www.paraanaliz.com/2021/raporlar/optimar-anketi-halk-orman-yanginlarinda-en-basarili-mucadeleyi-halkin-verdigini-dusunuyor-g-11842/ Optimar]
+|N/A
+| style="background:#FFF1C4" |'''47.4'''
+|31.8
+|20.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |15.6
+|-
+|July
+|[https://www.youtube.com/watch?v=Im58cel6v1U Bupar]
+|–
+|31.2
+|style="background:#FFC2C2" |'''43.4'''
+|25.4
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|12.2
+|-
+|26–30 Jul
+|[https://www.tamgaturk.com/haber/yoneylem-arastirma-cumhur-ittifaki-yuzde-368-millet-ittifaki-yuzde-377-35847.html Yöneylem]
+|3,040
+|40.6
+|style="background:#FFC2C2" |'''41.0'''
+|18.4
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|0.4
+|-
+|10–13 Jul
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-ne-cikti-41854377 Optimar]
+|1,726
+|style="background:#FFF1C4" |'''49.2'''
+|30.8
+|20.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|18.4
+|-
+|25–29 Jun
+|[https://abcgazetesi.com/sedat-peker-ve-secim-arastirmasi-erdogan-4-puan-kaybetti-soylu-inandirici-bulunmadi-395109 Yöneylem]
+|3,848
+|style="background:#FFF1C4" |'''43.4'''
+|38.7
+|17.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.7
+|-
+|23–28 Jun
+|[https://www.youtube.com/watch?v=keVpzktkJXw AKAM]
+|2,460
+|39.1
+|style="background:#FFC2C2" |'''44.0'''
+|16.9
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.9
+|-
+|8–13 Jun
+|[https://www.youtube.com/watch?v=aFh52G58nBc AKAM]
+|2,460
+|35.2
+|style="background:#FFC2C2" |'''41.8'''
+|23.0
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|6.6
+|-
+|May
+|[https://www.cumhuriyet.com.tr/galeri/iste-gezicinin-son-anketi-1835572 Gezici]
+|2,280
+|43.1
+| style="background:#FFC2C2" |'''44.8'''
+|12.1
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |1.7
+|-
+|21–25 May
+|[https://youtube.com/watch?v=aa63tE88YGM Yöneylem]
+|3,140
+|style="background:#FFF1C4" |'''44.8'''
+|40.4
+|14.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.4
+|-
+|22–24 May
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/muhalefet-erken-secimi-bir-daha-dusunmeli-41823934 Optimar]
+|1,836
+|style="background:#FFF1C4" |'''46.7'''
+|35.5
+|17.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|11.2
+|-
+|12-15 May
+|[https://www.gazeteduvar.com.tr/son-anket-chp-ak-parti-basa-bas-millet-ittifaki-farki-aciyor-galeri-1565049 Yöneylem]
+|2.400
+|36.5
+|style="background:#FFC2C2" |'''44.9'''
+|18.7
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|8.4
+|-
+|6–9 May
+|[https://www.youtube.com/watch?v=XjhW6VxToSc İEA]
+|1,506
+|style="background:#FFF1C4" |'''44.2'''
+|39.4
+|16.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.8
+|-
+|27 Apr-3 May
+|[https://www.youtube.com/watch?v=sd8prk0Dsbk AKAM]
+|2.460
+|40.2
+|style="background:#FFC2C2" |'''51.3'''
+|8.5
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|11,1
+|-
+|27–30 Apr
+|[https://www.cumhuriyet.com.tr/haber/genis-katilimli-yapilan-ankete-gore-erdogan-secmenini-darbe-gundemine-ikna-edemiyor-1833582 Yöneylem]
+|3,605
+|style="background:#FFF1C4" |'''45.5'''
+|32.4
+|22.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|13.1
+|-
+|26–30 Apr
+|[https://www.cumhuriyet.com.tr/galeri/son-anket-aciklandi-erdogani-uzecek-3-isim-belli-oldu-1834754/3 Aksoy]
+|1,067
+| style="background:#FFF1C4" |'''37.2'''
+|32.5
+|30.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.7
+|-
+|16–21 Apr
+|[https://www.haberturk.com/yazarlar/nagehan-alci/3059369-2023-e-dogru-yol-ayriminda-bir-turkiye Metropoll]
+|1,752
+|style="background:#FFF1C4" |'''42.5'''
+|39.7
+|17.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|2.8
+|-
+|14–20 Apr
+|[https://www.cumhuriyet.com.tr/turkiye/metropoll-arastirmadan-son-secim-anketi-erdogan-kararsizlari-toplasa-bile-1932121 MetroPOLL]
+|2.164
+|42.5
+|style="background:#FFC2C2" |'''43.3'''
+|13.5
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|0.8
+|-
+|1–4 Apr
+|[https://sahamerkezi.org/turkiye-geneli-siyasal-gundem-ve-secmen-egilimi-saha-arastirma-raporu-2/ Sosyo Politik]
+|2.010
+|38.1
+|style="background:#FFC2C2" |'''40.5'''
+|21.4
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.4
+|-
+|Mar
+|[https://youtube.com/watch?v=dZbK52hXfNc Aksoy]
+|N/A
+|style="background:#FFF1C4" |'''39.6'''
+|29.9
+|30.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|9.7
+|-
+|Mar
+|[https://twitter.com/BurhanEptemli/status/1380245759564603395 SAROS]
+|3,042
+|style="background:#FFF1C4" |'''45.1'''
+|39.9
+|15.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|5.2
+|-
+|29–31 Mar
+|[https://yoneylemarastirma.com/pdfFiles/tsp_Mart_2021.pdf Yöneylem]
+|3,140
+| style="background:#FFF1C4" |'''47.3'''
+|31.9
+|20.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |15.4
+|-
+|24–29 Mar
+|[https://www.youtube.com/watch?v=PZyVJMPhMzM AKAM]
+|2.490
+|41.9
+|style="background:#FFC2C2" |'''46.8'''
+|11.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.9
+|-
+|28 Feb – 5 Mar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/turkiyenin-nabzi-nasil-atiyor-41762835 Optimar]
+|2,207
+|style="background:#FFF1C4" |'''44.7'''
+|27.0
+|28.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|17.7
+|-
+|Feb
+|[https://twitter.com/AksoyArastirma/status/1368887069955743744 Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''38.9'''
+|31.4
+|29.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|7.5
+|-
+|Jan
+|[https://twitter.com/BurhanEptemli/status/1365327532803969026 SAROS]
+|3,034
+| style="background:#FFF1C4" |'''42.2'''
+|23.7
+|34.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |18.5
+|-
+|Jan
+|[https://twitter.com/AksoyArastirma/status/1361281524138672128/ Aksoy]
+|2,400
+| style="background:#FFF1C4" |'''40.0'''
+|29.2
+|30.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |10.8
+|-
+|15–30 Jan
+|[https://www.cumhuriyet.com.tr/haber/son-yapilan-arastirmada-carpici-sonuclar-sosyal-arastirmalar-merkezinin-ocak-anketi-yayinladi-1822678 Yöneylem]
+|5,292
+| style="background:#FFF1C4" |'''41.0'''
+|29.0
+|29.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |12.0
+|-
+|20–26 Jan
+|[https://www.adaarastirma.com/rapor/ocak-gundem-arastirma.pdf ADA]
+|3,245
+| style="background:#FFF1C4" |'''52.8'''
+|27.8
+|19.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |25.0
+|-
+|12–20 Jan
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/2021in-anketinden-ne-cikti-41724343 Optimar]
+|2,089
+| style="background:#FFF1C4" |'''45.8'''
+|27.2
+|27.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |18.6
+|-
+|6–10 Jan
+|[https://youtube.com/watch?v=ur9Nji_IpbY AKAM]
+|1,460
+|style="background:#FFF1C4" |'''37.4'''
+|35.9
+|26.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|1.5
+|-
+!colspan=7|2021
+|-
+|Dec
+|[https://twitter.com/AksoyArastirma/status/1346489541838962689 Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''39.0'''
+|29.7
+|31.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|9.3
+|-
+|19–23 Dec
+|[https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/rte-akp-ve-mhp-icin-iki-ankette-onemli-farkliliklar-uzerine-1805069 MetroPoll]
+|1,791
+| style="background:#FFF1C4" |'''45.2'''
+|27.8
+|27.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |17.4
+|-
+|3–9 Dec
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-surpriz-sonuclar-cikti-41687713 Optimar]
+|2,253
+| style="background:#FFF1C4" |'''47.8'''
+|42.2
+|10.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |5.6
+|-
+|Nov
+|[https://twitter.com/BurhanEptemli/status/1333184617201983491 SAROS]
+|3,092
+| style="background:#FFF1C4" |'''42.5'''
+|32.0
+|25.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |10.5
+|-
+|21–26 Nov
+|[https://twitter.com/avrasyaanket/status/1333496841531428867 AKAM]
+|2,460
+|style="background:#FFF1C4" |'''41.0'''
+|38.9
+|20.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|2.1
+|-
+|Oct
+|[https://www.gercekgundem.com/siyaset/231156/aksoy-arastirmanin-anketinden-iste-akp-chp-mhp-iyi-parti-ve-hdpnin-oylarinin-son-durumu Aksoy]
+|2,400
+| style="background:#FFF1C4" |'''40.6'''
+|31.3
+|28.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |9.3
+|-
+|19–24 Oct
+|[https://www.gercekgundem.com/siyaset/225677/avrasya-arastirmadan-son-anket-erdogan-2-adaya-karsi-kaybediyor AKAM]
+|2,460
+| style="background:#FFF1C4" |'''41.2'''
+|38.5
+|20.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.7
+|-
+|21–25 Sep
+|[https://www.cumhuriyet.com.tr/haber/avrasya-arastirmadan-yeni-anket-cumhur-ittifaki-tek-basina-yetmiyor-1770385 AKAM]
+|2,460
+| style="background:#FFF1C4" |'''38.5'''
+|38.1
+|23.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |0.4
+|-
+|22–27 Aug
+|[https://www.gercekgundem.com/galeri/siyaset/12606/son-ankette-erdogani-uzecek-imamoglu-ve-yavas-sonucu-fark-artiyor AKAM]
+|2,460
+|style="background:#FFF1C4" |'''41.4'''
+|40.6
+|18.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|0.8
+|-
+|May
+|[https://haber7.com/siyaset/haber/2974479-son-secim-anketi-erdogan-hepsine-buyuk-fark-atti ORC]
+|2,316
+|style="background:#FFF1C4" |'''54.1'''
+|36.4
+|9.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|17.7
+|-
+!colspan=7|2020
+|-
+|28–31 Dec
+|[https://twitter.com/orc_arastirma/status/1212665905630584832 ORC]
+|2,980
+| style="background:#FFF1C4" |'''53.7'''
+|31.7
+|14.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |22.0
+|-
+!colspan=7|2019
+|}
+
+===Erdoğan vs. İnce===
+[[File:Erdoğan-İnce ikinci tur anketleri.png|1000px]]
+
+{| class="wikitable tpl-blanktable mw-collapsible" style="text-align:center; font-size:85%; line-height:14px;"
+! rowspan="3" | Fieldwork date
+! rowspan="3" | Polling firm
+! rowspan="3" | Sample size
+! [[File:Recep Tayyip Erdogan in Ukraine.jpg|80x80px]]
+! [[File:Muharrem İnce, 2023 (cropped).jpg|80x80px]]
+! rowspan="3" | Undecided
+! rowspan="3" | Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Muharrem İnce|İnce]]<br/>{{small|[[Homeland Party (Turkey, 2021)|MP]]}}
+|-
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Homeland Party (Turkey, 2021)}};" |
+|-
+|15–17 March
+|[https://twitter.com/tagarastirma/status/1638517738397106176/photo/1 TAG]
+|1850
+| style="background:#FFF1C4" |'''47.4'''
+|36.1
+|16.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |11.3
+|-
+! colspan="7" |2023
+|-
+|Feb
+|[https://twitter.com/ArastirmaG/status/1495837298495213570 AR-G]
+|–
+| style="background:#FFF1C4" |'''52.0'''
+|11.0
+|37.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |15
+|-
+! colspan="7" |2022
+|-
+|Oct
+|[https://twitter.com/sarosarastirma/status/1454519238945869826 SAROS]
+|1,854
+| style="background:#FFF1C4" |'''49.8'''
+|27.0
+|23.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |22.8
+|-
+|19–27 Sep
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/secim-anketleri-neyi-gosteriyor-surpriz-var-mi-41910042 Optimar]
+|1,938
+| style="background:#FFF1C4" |'''43.1'''
+|30.4
+|26.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |12.7
+|-
+|Aug
+|[https://www.paraanaliz.com/2021/raporlar/optimar-anketi-halk-orman-yanginlarinda-en-basarili-mucadeleyi-halkin-verdigini-dusunuyor-g-11842/ Optimar]
+|N/A
+| style="background:#FFF1C4" |'''49.9'''
+|29.4
+|20.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |20.5
+|-
+|10–13 Jul
+|[https://youtube.com/watch?v=DXBYLNBWeYY Optimar]
+|1,726
+|style="background:#FFF1C4" |'''49.4'''
+|26.4
+|24.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|23.0
+|-
+|23–28 Jun
+|[https://youtube.com/watch?v=keVpzktkJXw AKAM]
+|2,460
+|style="background:#FFF1C4" |'''41.0'''
+|34.2
+|24.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.8
+|-
+! 17 May 2021
+! colspan="6" |İnce founded the [[Homeland Party (Turkey, 2021)|Homeland Party]].
+|-
+! rowspan="2" | Fieldwork date
+! rowspan="2" | Polling firm
+! rowspan="2" | Sample size
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Muharrem İnce|İnce]]<br/>{{small|[[Republican People's Party|CHP]]}}
+! rowspan="2" | Undecided
+! rowspan="2" | Lead
+|-
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Republican People's Party}};" |
+|-
+|Mar
+|[https://youtube.com/watch?v=dZbK52hXfNc Aksoy]
+|N/A
+|style="background:#FFF1C4" |'''41.8'''
+|20.9
+|37.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|20.9
+|-
+|Mar
+|[https://twitter.com/BurhanEptemli/status/1380245114128363522 SAROS]
+|3,042
+|style="background:#FFF1C4" |'''44.7'''
+|21.9
+|33.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|22.8
+|-
+|28 Feb – 5 Mar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/turkiyenin-nabzi-nasil-atiyor-41762835 Optimar]
+|2,207
+|style="background:#FFF1C4" |'''44.2'''
+|26.4
+|29.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|17.8
+|-
+|Feb
+|[https://twitter.com/YoneylemSosyal/status/1375000610278412288 Yöneylem]
+|N/A
+|style="background:#FFF1C4" |'''45.1'''
+|25.2
+|29.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|19.9
+|-
+|Feb
+|[https://twitter.com/AksoyArastirma/status/1368887069955743744 Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''39.6'''
+|22.2
+|38.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|17.4
+|-
+|Jan
+|[https://twitter.com/BurhanEptemli/status/1365326570680963081 SAROS]
+|3,034
+|style="background:#FFF1C4" |'''42.0'''
+|6.0
+|51.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|36.0
+|-
+|Jan
+|[https://twitter.com/AksoyArastirma/status/1361281524138672128/ Aksoy]
+|2,400
+| style="background:#FFF1C4" |'''39.6'''
+|23.4
+|36.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |16.2
+|-
+|20–26 Jan
+|[https://www.adaarastirma.com/rapor/ocak-gundem-arastirma.pdf ADA]
+|3,245
+| style="background:#FFF1C4" |'''50.5'''
+|28.1
+|21.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |22.4
+|-
+|12–20 Jan
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/2021in-anketinden-ne-cikti-41724343 Optimar]
+|2,089
+| style="background:#FFF1C4" |'''45.0'''
+|28.6
+|26.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |16.4
+|-
+|6–10 Jan
+|[https://youtube.com/watch?v=ur9Nji_IpbY AKAM]
+|1,460
+|style="background:#FFF1C4" |'''37.9'''
+|30.6
+|31.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|7.3
+|-
+!colspan=7|2021
+|-
+|Dec
+|[https://twitter.com/AksoyArastirma/status/1346489541838962689 Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''40.2'''
+|24.6
+|35.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|15.6
+|-
+|19–23 Dec
+|[https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/rte-akp-ve-mhp-icin-iki-ankette-onemli-farkliliklar-uzerine-1805069 MetroPoll]
+|1,791
+| style="background:#FFF1C4" |'''43.1'''
+|23.4
+|33.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |19.7
+|-
+|Nov
+|[https://twitter.com/BurhanEptemli/status/1333185524459315200 SAROS]
+|3,092
+|style="background:#FFF1C4" |'''42.3'''
+|10.3
+|47.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|32.0
+|-
+|Oct
+|[https://www.gercekgundem.com/siyaset/231156/aksoy-arastirmanin-anketinden-iste-akp-chp-mhp-iyi-parti-ve-hdpnin-oylarinin-son-durumu Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''41.4'''
+|29.2
+|29.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|12.2
+|-
+|19–24 Oct
+|[https://www.gercekgundem.com/siyaset/225677/avrasya-arastirmadan-son-anket-erdogan-2-adaya-karsi-kaybediyor AKAM]
+|2,460
+|style="background:#FFF1C4" |'''41.9'''
+|35.9
+|22.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.0
+|-
+|21–25 Sep
+|[https://www.cumhuriyet.com.tr/haber/avrasya-arastirmadan-yeni-anket-cumhur-ittifaki-tek-basina-yetmiyor-1770385 AKAM]
+|2,460
+|style="background:#FFF1C4" |'''38.7'''
+|35.1
+|26.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|3.6
+|-
+|Aug
+|[https://www.karadenizgazete.com.tr/siyaset/cumhurbaskani-adayi-kim-olsun/288916 MetroPoll]
+|N/A
+| style="background:#FFF1C4" |'''48.5'''
+|32.2
+|19.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |16.3
+|-
+|22–27 Aug
+|[https://www.gercekgundem.com/galeri/siyaset/12606/son-ankette-erdogani-uzecek-imamoglu-ve-yavas-sonucu-fark-artiyor AKAM]
+|2,460
+|style="background:#FFF1C4" |'''42.7'''
+|35.9
+|21.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.8
+|-
+|10–12 Aug
+|[https://www.karadenizgazete.com.tr/siyaset/bu-pazar-cumhurbaskanligi-secimi-olsa-anketi/286189 Optimar]
+|2,121
+| style="background:#FFF1C4" |'''44.5'''
+|33.5
+|22.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |11.0
+|-
+|10–24 Jan
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Ocak_2020.pdf Yöneylem]
+|2,507
+|style="background:#FFF1C4" |'''43.1'''
+|32.6
+|24.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|10.5
+|-
+!colspan=7|2020
+|-
+|2–7 Aug
+|[https://twitter.com/sarosarastirma/status/1175437608215822342 SAROS]
+|3,012
+| style="background:#FFF1C4" |'''40.6'''
+|26.7
+|32.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|13.9
+|-
+!colspan=7|2019
+|}
+
+=== Hypothetical candidates ===
+
+====Erdoğan vs. İmamoğlu====
+[[File:Erdoğan-İmamoğlu ikinci tur anketleri.png|1000px]]
+
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Polling firm
+! rowspan="2"| Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Republican People's Party (Turkey)}};" |
+! rowspan="2"| Undecided
+! rowspan="2"| Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Ekrem İmamoğlu|İmamoğlu]]<br/>{{small|[[Republican People's Party|CHP]]}}
+|-
+|Jul
+|[https://www.youtube.com/watch?v=Im58cel6v1U Bupar]
+|–
+|30.5
+|style="background:#FFC2C2" |'''43.9'''
+|25.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|13.4
+|-
+|12-15 May
+|[https://www.gazeteduvar.com.tr/son-anket-chp-ak-parti-basa-bas-millet-ittifaki-farki-aciyor-galeri-1565049 Yöneylem]
+|2.400
+|36.0
+|style="background:#FFC2C2" |'''46.5'''
+|17.7
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|10.5
+|-
+|27 Apr-3 May
+|[https://www.youtube.com/watch?v=sd8prk0Dsbk AKAM]
+|2.460
+|38.8
+|style="background:#FFC2C2" |'''53.7'''
+|7.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|14.9
+|-
+|14–20 Apr
+|[https://www.cumhuriyet.com.tr/turkiye/metropoll-arastirmadan-son-secim-anketi-erdogan-kararsizlari-toplasa-bile-1932121 MetroPOLL]
+|2.164
+|40.0
+|style="background:#FFC2C2" |'''49.7'''
+|9.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|9.7
+|-
+|1–4 APR
+|[https://sahamerkezi.org/turkiye-geneli-siyasal-gundem-ve-secmen-egilimi-saha-arastirma-raporu-2/ Sosyo Politik]
+|2.010
+|36.7
+|style="background:#FFC2C2" |'''42.5'''
+|20.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|5.8
+|-
+|24–29 Mar
+|[https://www.youtube.com/watch?v=PZyVJMPhMzM AKAM]
+|2.490
+|42.2
+|style="background:#FFC2C2" |'''52.1'''
+|5.7
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|9.9
+|-
+|3–6 Mar
+|[https://www.medyatava.com/foto-galeri/cok-konusulacak-secim-anketi-yoneylem-arastirma-mart-ayi-anket-sonucunu-acikladi-mecliste-bulunan-iki-parti-baraj-altinda-kaliyor-millet-ittifakinin-oy-oraninda-ise-ciddi-artis-var_249000 Yöneylem]
+|2.488
+|37.6
+|style="background:#FFC2C2" |'''49.6'''
+|12.8
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|12
+|-
+|24–31 Jan
+|[https://twitter.com/EuropeElects/status/1492901478880661505 AKAM]
+|1.860
+|38
+|style="background:#FFC2C2" |'''62'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|24
+|-
+|9–14 Jan
+|[https://www.youtube.com/watch?v=Cdgq8D_HPSk AKAM]
+|1.260
+|38.1
+|style="background:#FFC2C2" |'''59.1'''
+|2.1
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|21
+|-
+!colspan=7|2022
+|-
+|23–27 Dec
+|[https://www.youtube.com/watch?v=0I5ZLlHjfLk&ab_channel=AvrasyaAnket AKAM]
+|2,460
+|39.1
+|style="background:#FFC2C2" |'''58.4'''
+| –
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|19.3
+|-
+|14–15 Dec
+|[https://www.youtube.com/watch?v=clgbdwIyHT0 AKAM]
+|1,260
+|31
+|style="background:#FFC2C2" |'''54.7'''
+|14.3
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|23.7
+|-
+|13–20 Nov
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-ekonomi-cikti-41946021 Optimar]
+|2,507
+|style="background:#FFF1C4" |'''41.3'''
+|34.2
+|24.5
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |7.1
+|-
+|11–17 Nov
+|[https://www.youtube.com/watch?v=OAH-8LdYgWE AKAM]
+|1,260
+|33.6
+|style="background:#FFC2C2" |'''49.5'''
+|16.9
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|15.9
+|-
+|27 Oct – 3 Nov
+|[https://twitter.com/EuropeElects/status/1459838547083603971 Yöneylem]
+|2,000
+|42.0
+|style="background:#FFC2C2" |'''58.0'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|16.0
+|-
+|9–14 Oct
+|[https://www.youtube.com/watch?v=gAJmmk4vSvY AKAM]
+|1,500
+|42.3
+|style="background:#FFC2C2" |'''57.7'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|15.4
+|-
+|Oct
+|[https://twitter.com/sarosarastirma/status/1454521215528448011 SAROS]
+|1,854
+| style="background:#FFF1C4" |'''47.3'''
+|41.3
+|11.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |6.0
+|-
+|19–27 Sep
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/secim-anketleri-neyi-gosteriyor-surpriz-var-mi-41910042 Optimar]
+|1,938
+| style="background:#FFF1C4" |'''42.6'''
+|38.0
+|19.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.6
+|-
+|21–28 Aug
+|[https://youtube.com/watch?v=Ttbl6HJ-0oY AKAM]
+|2,460
+|40.5
+|style="background:#FFC2C2" |'''59.5'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|19.0
+|-
+|Aug
+|[https://www.gazeteduvar.com.tr/son-secim-anketi-ak-parti-yuzde-315-mhp-baraj-alti-chp-yuzde-271-galeri-1534086?p=7 Yöneylem]
+|3,040
+|37.8
+|style="background:#FFC2C2" |'''48.5'''
+|13.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|10.7
+|-
+|11–14 Aug
+|[https://www.youtube.com/watch?v=BhbA066LMWk AKAM]
+|N/A
+|41.1
+|style="background:#FFC2C2" |'''58.9'''
+|–
+|! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|17.8
+|-
+|Aug
+|[https://www.paraanaliz.com/2021/raporlar/optimar-anketi-halk-orman-yanginlarinda-en-basarili-mucadeleyi-halkin-verdigini-dusunuyor-g-11842/ Optimar]
+|N/A
+| style="background:#FFF1C4" |'''46.3'''
+|36.4
+|17.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |9.9
+|-
+|26–30 Jul
+|[https://www.tamgaturk.com/haber/yoneylem-arastirma-cumhur-ittifaki-yuzde-368-millet-ittifaki-yuzde-377-35847.html Yöneylem]
+|3,040
+|39.2
+|style="background:#FFC2C2" |'''48.5'''
+|12.3
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|9.3
+|-
+|10–13 Jul
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-ne-cikti-41854377 Optimar]
+|1,726
+|style="background:#FFF1C4" |'''48.1'''
+|37.8
+|14.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|10.3
+|-
+|25–29 Jun
+|[https://abcgazetesi.com/sedat-peker-ve-secim-arastirmasi-erdogan-4-puan-kaybetti-soylu-inandirici-bulunmadi-395109 Yöneylem]
+|3,848
+|40.6
+|style="background:#FFC2C2" |'''46.1'''
+|13.3
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|5.5
+|-
+|21−29 Jun
+|[https://www.gazeteduvar.com.tr/secim-anketi-imamoglu-ve-yavas-erdogani-geciyor-mhp-baraj-altinda-galeri-1527665 Artıbir]
+|1,500
+|44.2
+|style="background:#FFC2C2" |'''46.1'''
+|9.7
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.9
+|-
+|23−28 Jun
+|[https://www.youtube.com/watch?v=keVpzktkJXw AKAM]
+|2,460
+|37.8
+|style="background:#FFC2C2" |'''50.2'''
+|12.0
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|14.4
+|-
+|8–13 Jun
+|[https://www.youtube.com/watch?v=aFh52G58nBc AKAM]
+|2,460
+|34.7
+|style="background:#FFC2C2" |'''49.6'''
+|15.7
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|14.9
+|-
+|5–30 May
+|[https://twitter.com/sandikanaliz/status/1409115184980008960 Sandık Analiz]
+|4,477
+|43.1
+|style="background:#FFC2C2" |'''56.9'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|13.8
+|-
+|21–25 May
+|[https://youtube.com/watch?v=aa63tE88YGM Yöneylem]
+|3,140
+|40.4
+|style="background:#FFC2C2" |'''48.5'''
+|11.1
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|8.1
+|-
+|22–24 May
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/muhalefet-erken-secimi-bir-daha-dusunmeli-41823934 Optimar]
+|1,836
+|style="background:#FFF1C4" |'''44.9'''
+|41.8
+|13.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|3.1
+|-
+|6–9 May
+|[https://www.youtube.com/watch?v=XjhW6VxToSc İEA]
+|1,506
+|39.9
+|style="background:#FFC2C2" |'''51.4'''
+|8.7
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|11.5
+|-
+|27–30 Apr
+|[https://www.cumhuriyet.com.tr/haber/genis-katilimli-yapilan-ankete-gore-erdogan-secmenini-darbe-gundemine-ikna-edemiyor-1833582 Yöneylem]
+|3,605
+|40.3
+| style="background:#FFC2C2" |'''42.9'''
+|16.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |2.6
+|-
+|Apr
+|[https://www.cumhuriyet.com.tr/haber/kismi-kapanma-oncesi-yapilan-son-anket-akp-oylari-dip-yapti-1832922 AKAM]
+|N/A
+|32.1
+| style="background:#FFC2C2" |'''48.0'''
+|19.9
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |15.9
+|-
+|26–30 Apr
+|[https://www.cumhuriyet.com.tr/galeri/son-anket-aciklandi-erdogani-uzecek-3-isim-belli-oldu-1834754/3 Aksoy]
+|1,067
+|36.0
+| style="background:#FFC2C2" |'''45.5'''
+|18.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |9.5
+|-
+|9–30 Apr
+|[https://youtube.com/watch?v=MpVzTXuzFmo Sandık Analiz]
+|2,427
+|44.2
+|style="background:#FFC2C2" |'''55.8'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|11.6
+|-
+|16–21 Apr
+|[https://www.haberturk.com/yazarlar/nagehan-alci/3059369-2023-e-dogru-yol-ayriminda-bir-turkiye Metropoll]
+|1,752
+|38.8
+| style="background:#FFC2C2" |'''49.7'''
+|11.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |10.9
+|-
+|11–14 Apr
+|[https://www.gercekgundem.com/siyaset/267725/secmen-her-gecen-gun-daha-da-uzaklasiyor-saray-ittifakinda-panik-yaratacak-anket AKAM]
+|1,460
+|30.5
+| style="background:#FFC2C2" |'''48.6'''
+|20.9
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |18.1
+|-
+|Mar
+|[https://youtube.com/watch?v=dZbK52hXfNc Aksoy]
+|N/A
+|37.0
+| style="background:#FFC2C2" |'''45.1'''
+|17.9
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |8.1
+|-
+|Mar
+|[https://twitter.com/BurhanEptemli/status/1380246089526312962 SAROS]
+|3,042
+| style="background:#FFF1C4" |'''45.2'''
+|44.2
+|10.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |1.0
+|-
+|29–31 Mar
+|[https://yoneylemarastirma.com/pdfFiles/tsp_Mart_2021.pdf Yöneylem]
+|3,140
+| style="background:#FFF1C4" |'''42.8'''
+|42.6
+|14.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |0.2
+|-
+|26–31 Mar
+|[https://twitter.com/avrasyaanket/status/1378055861688537090 AKAM]
+|2,460
+|33.6
+|style="background:#FFC2C2" |'''47.6'''
+|18.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|14.0
+|-
+|7–24 Mar
+|[https://twitter.com/sandikanaliz/status/1388201400845455362 Sandık Analiz]
+|N/A
+|44.4
+| style="background:#FFC2C2" |'''55.6'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |11.2
+|-
+|7–12 Mar
+|[https://www.youtube.com/watch?v=GMnxsTic6bI&feature=youtu.be AKAM]
+|1,480
+|35.2
+|style="background:#FFC2C2" |'''47.0'''
+|17.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|11.8
+|-
+|28 Feb – 5 Mar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/turkiyenin-nabzi-nasil-atiyor-41762835 Optimar]
+|2,207
+| style="background:#FFF1C4" |'''42.5'''
+|34.6
+|22.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |7.9
+|-
+|Feb
+|[https://youtube.com/watch?v=zKxken0SGGU&pp=QACIAgA%3D Sandık Analiz]
+|9,804
+|45.7
+| style="background:#FFC2C2" |'''54.3'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |8.6
+|-
+|Feb
+|[https://twitter.com/YoneylemSosyal/status/1375000610278412288 Yöneylem]
+|N/A
+|style="background:#FFF1C4" |'''41.9'''
+|40.8
+|17.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|1.1
+|-
+|Feb
+|[https://www.cumhuriyet.com.tr/haber/son-anket-geldi-erdogani-geciyorlar-1818848 Aksoy]
+|2,400
+|37.3
+|style="background:#FFC2C2" |'''45.3'''
+|17.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|8.0
+|-
+|18–25 Feb
+|[https://www.youtube.com/watch?v=laE7C_6aIFo AKAM]
+|2,184
+|34.3
+|style="background:#FFC2C2" |'''46.2'''
+|19.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|11.9
+|-
+|19–22 Feb
+|[https://twitter.com/ozersencar1/status/1368276234908614661 Metropoll]
+|1,604
+|style="background:#FFF1C4" |'''44.3'''
+|43.7
+|12.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|0.6
+|-
+|Jan
+|[https://youtube.com/watch?v=m9BtyEZW3JQ Sandık Analiz]
+|9,738
+|44.3
+| style="background:#FFC2C2" |'''55.7'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |11.4
+|-
+|Jan
+|[https://twitter.com/BurhanEptemli/status/1365328890588237828 SAROS]
+|3,034
+| style="background:#FFF1C4" |'''42.9'''
+|37.8
+|19.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |5.1
+|-
+|Jan
+|[https://twitter.com/AksoyArastirma/status/1361281524138672128/ Aksoy]
+|2,400
+|37.7
+| style="background:#FFC2C2" |'''44.1'''
+|18.2
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |6.4
+|-
+|15–30 Jan
+|[https://www.cumhuriyet.com.tr/haber/son-yapilan-arastirmada-carpici-sonuclar-sosyal-arastirmalar-merkezinin-ocak-anketi-yayinladi-1822678 Yöneylem]
+|5,292
+|38.8
+| style="background:#FFC2C2" |'''40.1'''
+|20.7
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |1.3
+|-
+|12–20 Jan
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/2021in-anketinden-ne-cikti-41724343 Optimar]
+|2,089
+| style="background:#FFF1C4" |'''43.9'''
+|35.2
+|20.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |8.7
+|-
+|6–10 Jan
+|[https://youtube.com/watch?v=ur9Nji_IpbY AKAM]
+|1,460
+|37.2
+|style="background:#FFC2C2" |'''42.1'''
+|20.7
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.9
+|-
+|4–9 Jan
+|[https://www.haber3.com/guncel/politika/erdogan-dsp-ve-spyi-bu-yuzden-mi-ziyaret-etti-dikkat-ceken-secim-anketi-haberi-5588107/ Artıbir]
+|1,500
+| style="background:#FFF1C4" |'''43.2'''
+|41.2
+|15.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.0
+|-
+!colspan=7|2021
+|-
+|Dec
+|[https://youtube.com/watch?v=Gziq-6GnwSY Sandık Analiz]
+|3,809
+|47.7
+| style="background:#FFC2C2" |'''52.3'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |4.6
+|-
+|Dec
+|[https://twitter.com/AksoyArastirma/status/1346489541838962689 Aksoy]
+|2,400
+|37.0
+| style="background:#FFC2C2" |'''43.3'''
+|19.7
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |6.3
+|-
+|19–23 Dec
+|[https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/rte-akp-ve-mhp-icin-iki-ankette-onemli-farkliliklar-uzerine-1805069 MetroPoll]
+|1,791
+| style="background:#FFF1C4" |'''41.5'''
+|41.2
+|17.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |0.3
+|-
+|21 Nov – 9 Dec
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/erdoganin-karsisinda-kim-ne-kadar-oy-aliyor-41697854 Konsensus]
+|1,500
+|style="background:#FFF1C4" |'''53.7'''
+|46.3
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|7.4
+|-
+|Nov
+|[https://twitter.com/BurhanEptemli/status/1333184431553720321 SAROS]
+|3,092
+| style="background:#FFF1C4" |'''42.5'''
+|36.2
+|21.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |6.3
+|-
+|21–26 Nov
+|[https://twitter.com/avrasyaanket/status/1333496841531428867 AKAM]
+|2,460
+|41.5
+|style="background:#FFC2C2" |'''43.1'''
+|15.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.6
+|-
+|Oct
+|[https://www.gercekgundem.com/siyaset/231156/aksoy-arastirmanin-anketinden-iste-akp-chp-mhp-iyi-parti-ve-hdpnin-oylarinin-son-durumu Aksoy]
+|2,400
+|40.6
+| style="background:#FFC2C2" |'''44.0'''
+|15.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |3.4
+|-
+|19–24 Oct
+|[https://www.gercekgundem.com/siyaset/225677/avrasya-arastirmadan-son-anket-erdogan-2-adaya-karsi-kaybediyor AKAM]
+|2,460
+|41.1
+| style="background:#FFC2C2" |'''42.3'''
+|16.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |1.2
+|-
+|21–25 Sep
+|[https://www.cumhuriyet.com.tr/haber/avrasya-arastirmadan-yeni-anket-cumhur-ittifaki-tek-basina-yetmiyor-1770385 AKAM]
+|2,460
+|38.7
+| style="background:#FFC2C2" |'''41.9'''
+|19.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |3.2
+|-
+|Aug
+|[https://www.karadenizgazete.com.tr/siyaset/cumhurbaskani-adayi-kim-olsun/288916 MetroPoll]
+|N/A
+| style="background:#FFF1C4" |'''46.5'''
+|43.5
+|10.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |3.0
+|-
+|22–27 Aug
+|[https://www.gercekgundem.com/galeri/siyaset/12606/son-ankette-erdogani-uzecek-imamoglu-ve-yavas-sonucu-fark-artiyor AKAM]
+|2,460
+|40.8
+|style="background:#FFC2C2" |'''43.7'''
+|15.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.9
+|-
+|10–12 Aug
+|[https://www.karadenizgazete.com.tr/siyaset/bu-pazar-cumhurbaskanligi-secimi-olsa-anketi/286189 Optimar]
+|2,121
+| style="background:#FFF1C4" |'''45.1'''
+|36.8
+|18.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |8.3
+|-
+|5–6 Aug
+|[https://www.gercekgundem.com/siyaset/203691/iste-meral-aksenere-evine-don-cagrisi-yapilmasina-sebep-olan-anket Aksoy]
+|1,067
+|37.1
+|style="background:#FFC2C2" |'''38.7'''
+|24.2
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.6
+|-
+|18–26 Jul
+|[https://www.gercekgundem.com/galeri/siyaset/12097/bu-pazar-secim-olsa-akp-ve-erdoganin-oy-orani-ne-kadar Artıbir]
+|1,500
+|style="background:#FFF1C4" |'''39.0'''
+|33.1
+|27.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|5.9
+|-
+|20–23 May
+|[https://www.cumhuriyet.com.tr/haber/son-secim-anketi-erdogan-bir-sonraki-secimi-kaybedecek-1741924 AKAM]
+|2,460
+|40.4
+|style="background:#FFC2C2" |'''45.5'''
+|14.1
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|5.1
+|-
+|20 Apr – 8 May
+|[https://www.karadenizgazete.com.tr/siyaset/optimarin-son-secim-anketi-erdogan-mi-yavas-mi-imamoglu-mu/273440 Optimar]
+|2,307
+|style="background:#FFF1C4" |'''44.7'''
+|34.7
+|20.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|10.0
+|-
+|20–29 Apr
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Nisan_2020.pdf Yöneylem]
+|2,409
+|style="background:#FFF1C4" |'''40.8'''
+|37.0
+|22.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|3.8
+|-
+|18–25 Mar
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Mart_2020.pdf Yöneylem]
+|2,605
+|42.1
+| style="background:#FFC2C2" |'''44.9'''
+|13.0
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"| 2.8
+|-
+|20 Feb – 2 Mar
+|[https://www.gercekgundem.com/galeri/siyaset/9100/son-ankette-erdogana-imamoglu-soku-bu-pazar-secim-olsa-kime-oy-verirsiniz Artıbir]
+|1,500
+| style="background:#FFF1C4" |'''42.9'''
+|39.6
+|17.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |3.3
+|-
+|28 Jan – 4 Feb
+|[https://tele1.com.tr/iste-son-anketin-sonuclari-erdogan-milyonlarca-oy-kaybetti-127101/3/ Artıbir]
+|1,500
+| style="background:#FFF1C4" |'''43.2'''
+|38.3
+|18.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.9
+|-
+|10–24 Jan
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Ocak_2020.pdf Yöneylem]
+|2,507
+|39.1
+| style="background:#FFC2C2" |'''41.4'''
+|19.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"| 2.3
+|-
+!colspan=7|2020
+|-
+|28–31 Dec
+|[https://twitter.com/orc_arastirma/status/1212666531529646080 ORC]
+|2,980
+| style="background:#FFF1C4" |'''50.9'''
+|34.2
+|14.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |16.7
+|-
+| data-sort-value="2018-07-11"|19–24 Nov
+|[https://t24.com.tr/haber/piar-arastirma-dan-cumhurbaskanligi-secim-anketi-ekrem-imamoglu-yuzde-44-5-erdogan-yuzde-39-7,850494 PIAR]
+|2,416
+|39.7
+| style="background:#FFC2C2" |'''44.5'''
+|15.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"| 4.8
+|-
+|2–7 Aug
+|[https://twitter.com/sarosarastirma/status/1175437608215822342 SAROS]
+|3,012
+|style="background:#FFF1C4" |'''40.7'''
+|36.9
+|22.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|3.8
+|-
+!colspan=7|2019
+|}
+
+====Erdoğan vs. Yavaş====
+[[File:Erdoğan-Yavaş ikinci tur anketleri.png|1000px]]
+
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Polling firm
+! rowspan="2"| Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Republican People's Party (Turkey)}};" |
+! rowspan="2"| Undecided
+! rowspan="2"| Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Mansur Yavaş|Yavaş]]<br/>{{small|[[Republican People's Party|CHP]]}}
+|-
+|Jul
+|[https://www.youtube.com/watch?v=Im58cel6v1U Bupar]
+|–
+|30.0
+|style="background:#FFC2C2" |'''47.4'''
+|22.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|17.4
+|-
+|27 Apr-3 May
+|[https://www.youtube.com/watch?v=sd8prk0Dsbk AKAM]
+|2.460
+|38.4
+|style="background:#FFC2C2" |'''52.0'''
+|9.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|13.6
+|-
+|14–20 Apr
+|[https://www.cumhuriyet.com.tr/turkiye/metropoll-arastirmadan-son-secim-anketi-erdogan-kararsizlari-toplasa-bile-1932121 MetroPOLL]
+|2.164
+|36.5
+|style="background:#FFC2C2" |'''53.9'''
+|9.0
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|17.4
+|-
+|1–4 Ap
+|[https://sahamerkezi.org/turkiye-geneli-siyasal-gundem-ve-secmen-egilimi-saha-arastirma-raporu-2/ Sosyo Politik]
+|2.010
+|32.5
+|style="background:#FFC2C2" |'''34.0'''
+|33.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|0.6
+|-
+|24–29 Mar
+|[https://www.youtube.com/watch?v=PZyVJMPhMzM AKAM]
+|2.490
+|39.7
+|style="background:#FFC2C2" |'''55.5'''
+|4.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|15.8
+|-
+|F
+|[https://twitter.com/ArastirmaG/status/1495837298495213570 AR-G]
+|–
+|42.0
+| style="background:#FFC2C2" |'''56.0'''
+|2.0
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |14
+|-
+|24–31 Jan
+|[https://twitter.com/EuropeElects/status/1492901478880661505 AKAM]
+|1.860
+|36
+|style="background:#FFC2C2" |'''64'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|28
+|-
+|9–14 Jan
+|[https://www.youtube.com/watch?v=Cdgq8D_HPSk AKAM]
+|1.260
+|35.4
+|style="background:#FFC2C2" |'''61.5'''
+|3.1
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|26.1
+|-
+!colspan=7|2022
+|-
+|23–27 Dec
+|[https://www.youtube.com/watch?v=0I5ZLlHjfLk&ab_channel=AvrasyaAnket AKAM]
+|2,460
+|35.2
+|style="background:#FFC2C2" |'''61.5'''
+| –
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|26.3
+|-
+|14–15 Dec
+|[https://www.youtube.com/watch?v=clgbdwIyHT0 AKAM]
+|1,260
+|30.1
+|style="background:#FFC2C2" |'''54.2'''
+|15.7
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|24.1
+|-
+|13–20 Nov
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-ekonomi-cikti-41946021 Optimar]
+|2,507
+|style="background:#FFF1C4" |'''41.3'''
+|39.3
+|19.4
+!style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2
+|-
+|11–17 Nov
+|[https://www.youtube.com/watch?v=OAH-8LdYgWE AKAM]
+|1,260
+|32.8
+|style="background:#FFC2C2" |'''49.2'''
+|18.0
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|16.4
+|-
+|27 Oct – 3 Nov
+|[https://twitter.com/EuropeElects/status/1459838547083603971 Yöneylem]
+|2,000
+|38.0
+|style="background:#FFC2C2" |'''62.0'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|24.0
+|-
+|9–14 Oct
+|[https://www.youtube.com/watch?v=gAJmmk4vSvY AKAM]
+|1,500
+|43.1
+|style="background:#FFC2C2" |'''56.9'''
+|–
+!style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|13.8
+|-
+|Oct
+|[https://twitter.com/sarosarastirma/status/1454520926603730948 SAROS]
+|1,854
+| style="background:#FFF1C4" |'''47.9'''
+|38.8
+|13.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |9.1
+|-
+|19–27 Sep
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/secim-anketleri-neyi-gosteriyor-surpriz-var-mi-41910042 Optimar]
+|1,938
+| style="background:#FFF1C4" |'''42.3'''
+|39.3
+|18.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |3.0
+|-
+|21–28 Aug
+|[https://youtube.com/watch?v=Ttbl6HJ-0oY AKAM]
+|2,460
+|41.9
+|style="background:#FFC2C2" |'''58.1'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|16.2
+|-
+|Aug
+|[https://www.gazeteduvar.com.tr/son-secim-anketi-ak-parti-yuzde-315-mhp-baraj-alti-chp-yuzde-271-galeri-1534086?p=7 Yöneylem]
+|3,040
+|34.8
+|style="background:#FFC2C2" |'''53.8'''
+|11.3
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|19.0
+|-
+|11–14 Aug
+|[https://www.youtube.com/watch?v=BhbA066LMWk AKAM]
+|N/A
+|42.6
+|style="background:#FFC2C2" |'''57.4'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|14.8
+|-
+|Aug
+|[https://www.paraanaliz.com/2021/raporlar/optimar-anketi-halk-orman-yanginlarinda-en-basarili-mucadeleyi-halkin-verdigini-dusunuyor-g-11842/ Optimar]
+|N/A
+| style="background:#FFF1C4" |'''46.5'''
+|41.8
+|11.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.7
+|-
+|26–30 Jul
+|[https://www.tamgaturk.com/haber/yoneylem-arastirma-cumhur-ittifaki-yuzde-368-millet-ittifaki-yuzde-377-35847.html Yöneylem]
+|3,040
+|36.6
+|style="background:#FFC2C2" |'''52.8'''
+|10.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|16.2
+|-
+|10–13 Jul
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/anketten-ne-cikti-41854377 Optimar]
+|1,726
+|style="background:#FFF1C4" |'''46.8'''
+|39.3
+|13.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|7.5
+|-
+|25–29 Jun
+|[https://abcgazetesi.com/sedat-peker-ve-secim-arastirmasi-erdogan-4-puan-kaybetti-soylu-inandirici-bulunmadi-395109 Yöneylem]
+|3,848
+|38.4
+|style="background:#FFC2C2" |'''49.3'''
+|12.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|10.9
+|-
+|21–29 Jun
+|[https://www.gazeteduvar.com.tr/secim-anketi-imamoglu-ve-yavas-erdogani-geciyor-mhp-baraj-altinda-galeri-1527665 Artıbir]
+|1,500
+|42.7
+|style="background:#FFC2C2" |'''45.8'''
+|11.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|3.1
+|-
+|23–28 Jun
+|[https://www.youtube.com/watch?v=keVpzktkJXw AKAM]
+|2,460
+|37.0
+|style="background:#FFC2C2" |'''49.4'''
+|13.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|12.4
+|-
+|8–13 Jun
+|[https://www.youtube.com/watch?v=aFh52G58nBc AKAM]
+|2,460
+|32.0
+|style="background:#FFC2C2" |'''48.2'''
+|19.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|16.2
+|-
+|5–30 May
+|[https://twitter.com/sandikanaliz/status/1409115002859053057 Sandık Analiz]
+|4,477
+|39.2
+|style="background:#FFC2C2" |'''60.8'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|21.6
+|-
+|21–25 May
+|[https://youtube.com/watch?v=aa63tE88YGM Yöneylem]
+|3,140
+|38.8
+|style="background:#FFC2C2" |'''50.7'''
+|10.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|11.9
+|-
+|22–24 May
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/muhalefet-erken-secimi-bir-daha-dusunmeli-41823934 Optimar]
+|1,836
+|style="background:#FFF1C4" |'''44.1'''
+|42.0
+|13.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|2.1
+|-
+|6–9 May
+|[https://www.youtube.com/watch?v=XjhW6VxToSc İEA]
+|1,506
+|38.1
+|style="background:#FFC2C2" |'''52.5'''
+|9.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|14.4
+|-
+|27–30 Apr
+|[https://www.cumhuriyet.com.tr/haber/genis-katilimli-yapilan-ankete-gore-erdogan-secmenini-darbe-gundemine-ikna-edemiyor-1833582 Yöneylem]
+|3,605
+|38.9
+| style="background:#FFC2C2" |'''46.5'''
+|14.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |7.6
+|-
+|Apr
+|[https://www.cumhuriyet.com.tr/haber/kismi-kapanma-oncesi-yapilan-son-anket-akp-oylari-dip-yapti-1832922 AKAM]
+|N/A
+|30.9
+| style="background:#FFC2C2" |'''47.5'''
+|21.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |16.6
+|-
+|26–30 Apr
+|[https://www.cumhuriyet.com.tr/galeri/son-anket-aciklandi-erdogani-uzecek-3-isim-belli-oldu-1834754/3 Aksoy]
+|1,067
+|35.7
+| style="background:#FFC2C2" |'''47.9'''
+|16.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |12.2
+|-
+|9–30 Apr
+|[https://www.youtube.com/watch?v=Dz5PM2Ei_MM Sandık Analiz]
+|2,427
+|38.9
+|style="background:#FFC2C2" |'''61.1'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|22.2
+|-
+|16–21 Apr
+|[https://www.haberturk.com/yazarlar/nagehan-alci/3059369-2023-e-dogru-yol-ayriminda-bir-turkiye Metropoll]
+|1,752
+|37.5
+| style="background:#FFC2C2" |'''49.4'''
+|13.1
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |11.9
+|-
+|11–14 Apr
+|[https://www.gercekgundem.com/siyaset/267725/secmen-her-gecen-gun-daha-da-uzaklasiyor-saray-ittifakinda-panik-yaratacak-anket AKAM]
+|1,460
+|30.5
+| style="background:#FFC2C2" |'''48.0'''
+|21.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |17.5
+|-
+|Mar
+|[https://youtube.com/watch?v=dZbK52hXfNc Aksoy]
+|N/A
+|37.0
+|style="background:#FFC2C2" |'''47.8'''
+|15.2
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|10.8
+|-
+|Mar
+|[https://twitter.com/BurhanEptemli/status/1380245907241906176 SAROS]
+|3,042
+|style="background:#FFF1C4" |'''45.2'''
+|41.0
+|13.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.2
+|-
+|29–31 Mar
+|[https://yoneylemarastirma.com/pdfFiles/tsp_Mart_2021.pdf Yöneylem]
+|3,140
+|41.3
+|style="background:#FFC2C2" |'''45.5'''
+|13.2
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|4.2
+|-
+|26–31 Mar
+|[https://twitter.com/avrasyaanket/status/1378055861688537090 AKAM]
+|2,460
+|33.8
+|style="background:#FFC2C2" |'''47.7'''
+|18.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|13.9
+|-
+|7–24 Mar
+|[https://twitter.com/sandikanaliz/status/1388204702794461188 Sandık Analiz]
+|N/A
+|42.9
+| style="background:#FFC2C2" |'''57.1'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |14.2
+|-
+|7–12 Mar
+|[https://www.youtube.com/watch?v=GMnxsTic6bI&feature=youtu.be AKAM]
+|1,480
+|34.3
+| style="background:#FFC2C2" |'''47.1'''
+|18.6
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |12.8
+|-
+|28 Feb – 5 Mar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/turkiyenin-nabzi-nasil-atiyor-41762835?sessionid=4 Optimar]
+|2,207
+|style="background:#FFF1C4" |'''41.2'''
+|36.7
+|22.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.5
+|-
+|Feb
+|[https://youtube.com/watch?v=030e8oun1DQ Sandık Analiz]
+|9,804
+|44.5
+| style="background:#FFC2C2" |'''55.5'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |11.0
+|-
+|Feb
+|[https://twitter.com/YoneylemSosyal/status/1375000610278412288 Yöneylem]
+|N/A
+|40.1
+|style="background:#FFC2C2" |'''43.0'''
+|16.9
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|2.9
+|-
+|Feb
+|[https://www.cumhuriyet.com.tr/haber/son-anket-geldi-erdogani-geciyorlar-1818848 Aksoy]
+|2,400
+|37.0
+|style="background:#FFC2C2" |'''47.5'''
+|15.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|10.5
+|-
+|18–25 Feb
+|[https://www.youtube.com/watch?v=laE7C_6aIFo&feature=youtu.be AKAM]
+|2,184
+|34.7
+|style="background:#FFC2C2" |'''48.6'''
+|16.7
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|13.9
+|-
+|19–22 Feb
+|[https://twitter.com/ozersencar1/status/1368257117015203840 Metropoll]
+|1,604
+|style="background:#FFF1C4" |'''44.6'''
+|44.4
+|11.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|0.2
+|-
+|Jan
+|[https://youtube.com/watch?v=zVRFXkfiGhQ Sandık Analiz]
+|9,746
+|43.6
+| style="background:#FFC2C2" |'''56.4'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |12.8
+|-
+|Jan
+|[https://twitter.com/BurhanEptemli/status/1365328551516512264 SAROS]
+|3,034
+| style="background:#FFF1C4" |'''41.9'''
+|30.9
+|27.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |11.0
+|-
+|Jan
+|[https://twitter.com/AksoyArastirma/status/1361281524138672128/ Aksoy]
+|2,400
+|37.7
+| style="background:#FFC2C2" |'''48.5'''
+|13.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |10.8
+|-
+|15–30 Jan
+|[https://www.cumhuriyet.com.tr/haber/son-yapilan-arastirmada-carpici-sonuclar-sosyal-arastirmalar-merkezinin-ocak-anketi-yayinladi-1822678 Yöneylem]
+|5,292
+|38.4
+|38.4
+|22.9
+!0.0
+|-
+|12–20 Jan
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/2021in-anketinden-ne-cikti-41724343 Optimar]
+|2,089
+| style="background:#FFF1C4" |'''43.1'''
+|31.8
+|25.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |11.9
+|-
+|6–10 Jan
+|[https://youtube.com/watch?v=ur9Nji_IpbY AKAM]
+|1,460
+|36.9
+|style="background:#FFC2C2" |'''42.7'''
+|20.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|5.8
+|-
+!colspan=7|2021
+|-
+|Dec
+|[https://youtube.com/watch?v=vnuwtYvDqA8 Sandık Analiz]
+|3,809
+|46.7
+| style="background:#FFC2C2" |'''53.3'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |6.6
+|-
+|Dec
+|[https://twitter.com/AksoyArastirma/status/1346489541838962689 Aksoy]
+|2,400
+|35.4
+| style="background:#FFC2C2" |'''48.7'''
+|15.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |13.3
+|-
+|19–23 Dec
+|[https://www.haberler.com/metropoll-den-dikkat-ceken-cumhurbaskanligi-13842310-haberi/ MetroPoll]
+|1,791
+|40.7
+|style="background:#FFC2C2" |'''43.9'''
+|15.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|3.2
+|-
+|21 Nov – 9 Dec
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/erdoganin-karsisinda-kim-ne-kadar-oy-aliyor-41697854 Konsensus]
+|1,500
+|style="background:#FFF1C4" |'''55.2'''
+|44.8
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|10.4
+|-
+|Nov
+|[https://youtube.com/watch?v=0mgGaZZcZ1Y Sandık Analiz]
+|N/A
+|48.9
+|style="background:#FFC2C2" |'''51.1'''
+|–
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.2
+|-
+|Nov
+|[https://twitter.com/BurhanEptemli/status/1333184715159969794 SAROS]
+|3,092
+| style="background:#FFF1C4" |'''42.8'''
+|31.9
+|25.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |10.9
+|-
+|21–26 Nov
+|[https://twitter.com/avrasyaanket/status/1333496841531428867 AKAM]
+|2,460
+|41.1
+|style="background:#FFC2C2" |'''42.2'''
+|16.7
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.1
+|-
+|2–12 Nov
+|[https://www.karadenizgazete.com.tr/siyaset/bu-pazar-cumhurbaskanligi-secimi-olsa-asagidaki-isimlerde-hangisine-oy-verirsiniz/299858 Artıbir]
+|1,500
+|style="background:#FFF1C4" |'''43.6'''
+|38.9
+|17.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.7
+|-
+|Oct
+|[https://www.gercekgundem.com/siyaset/231156/aksoy-arastirmanin-anketinden-iste-akp-chp-mhp-iyi-parti-ve-hdpnin-oylarinin-son-durumu Aksoy]
+|2,400
+|39.5
+| style="background:#FFC2C2" |'''49.0'''
+|11.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |9.5
+|-
+|19–24 Oct
+|[https://www.gercekgundem.com/siyaset/225677/avrasya-arastirmadan-son-anket-erdogan-2-adaya-karsi-kaybediyor AKAM]
+|2,460
+|39.8
+|style="background:#FFC2C2" |'''40.4'''
+|19.8
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|0.6
+|-
+|21–25 Sep
+|[https://www.cumhuriyet.com.tr/haber/avrasya-arastirmadan-yeni-anket-cumhur-ittifaki-tek-basina-yetmiyor-1770385 AKAM]
+|2,460
+|style="background:#FFF1C4" |'''38.0'''
+|37.6
+|24.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|0.4
+|-
+|Aug
+|[https://www.karadenizgazete.com.tr/siyaset/cumhurbaskani-adayi-kim-olsun/288916 MetroPoll]
+|N/A
+| style="background:#FFF1C4" |'''45.5'''
+|43.0
+|11.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.5
+|-
+|22–27 Aug
+|[https://www.gercekgundem.com/galeri/siyaset/12606/son-ankette-erdogani-uzecek-imamoglu-ve-yavas-sonucu-fark-artiyor AKAM]
+|2,460
+|40.4
+| style="background:#FFC2C2" |'''41.1'''
+|18.5
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;" |0.7
+|-
+|10–12 Aug
+|[https://www.karadenizgazete.com.tr/siyaset/bu-pazar-cumhurbaskanligi-secimi-olsa-anketi/286189 Optimar]
+|2,121
+|style="background:#FFF1C4" |'''44.5'''
+|36.7
+|18.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|7.8
+|-
+|5–6 Aug
+|[https://www.gercekgundem.com/siyaset/203691/iste-meral-aksenere-evine-don-cagrisi-yapilmasina-sebep-olan-anket Aksoy]
+|1,067
+|39.2
+|style="background:#FFC2C2" |'''40.4'''
+|20.4
+! style="background:{{party color|Republican People's Party (Turkey)}}; color:white;"|1.2
+|-
+|18–26 Jul
+|[https://www.gercekgundem.com/galeri/siyaset/12097/bu-pazar-secim-olsa-akp-ve-erdoganin-oy-orani-ne-kadar Artıbir]
+|1,500
+|style="background:#FFF1C4" |'''49.7'''
+|30.5
+|19.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|19.2
+|-
+|20–23 May
+|[https://www.cumhuriyet.com.tr/haber/son-secim-anketi-erdogan-bir-sonraki-secimi-kaybedecek-1741924 AKAM]
+|2,460
+|style="background:#FFF1C4" |'''39.9'''
+|39.7
+|20.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|0.2
+|-
+|20 Apr – 8 May
+|[https://www.karadenizgazete.com.tr/siyaset/optimarin-son-secim-anketi-erdogan-mi-yavas-mi-imamoglu-mu/273440 Optimar]
+|2,307
+|style="background:#FFF1C4" |'''43.0'''
+|36.1
+|20.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.9
+|-
+|20–29 Apr
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Nisan_2020.pdf Yöneylem]
+|2,409
+|style="background:#FFF1C4" |'''39.9'''
+|36.9
+|23.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|3.0
+|-
+|10–24 Jan
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Ocak_2020.pdf Yöneylem]
+|2,507
+|style="background:#FFF1C4" |'''39.5'''
+|32.6
+|27.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.9
+|-
+!colspan=7|2020
+|}
+
+====Erdoğan vs. Akşener====
+{{Graph:Chart
+ | xType=date
+ | xAxisAngle=-40
+ | width = 650
+ | height= 325
+ | type = line
+ | interpolate = bundle
+ | showSymbols = 1
+ | symbolsShape = dot
+ | yAxisTitle = % Support
+ | yGrid = yes
+ | yAxisMin = 0
+ | linewidth = 2
+ | legend=
+ | colors=#FF8700, #3DB5E6, lightgrey
+ | x= 2019/12/31, 2020/01/24, 2020/05/15, 2020/08/06, 2020/08/15,
+      2020/08/27, 2020/09/25, 2020/10/10, 2020/10/24, 2020/11/10,
+      2020/11/26, 2020/12/09, 2020/12/15, 2020/12/23, 2021/01/01,
+      2021/01/05, 2021/01/10, 2021/01/15, 2021/01/20, 2021/01/26,
+      2021/01/30, 2021/02/05, 2021/02/15, 2021/02/25, 2021/03/05,
+      2021/03/10, 2021/03/20, 2021/03/24, 2021/04/10, 2021/04/21,
+      2021/04/30, 2021/05/09, 2021/05/24, 2021/05/25, 2021/06/13,
+      2021/06/20, 2021/06/28, 2021/07/30, 2021/07/30, 2021/08/29,
+      2021/08/30, 2021/10/30, 2022/04/04, 2022/04/20, 2022/07/26,
+
+ | y1Title= Erdoğan
+ | y1= 50.2, 40.8, 51.9, 40.4, 42.0, 46.8, 37.9, 40.6, 41.4, 41.5,
+       42.6, 63.8, 42.9, 38.1, 37.1, 43.8, 48.3, 40.1, 40.6, 42.0,
+       49.5, 40.2, 43.9, 50.3, 43.6, 49.1, 45.1, 39.5, 38.5, 37.4,
+       42.6, 39.1, 43.8, 42.2, 34.1, 39.8, 41.2, 40.1, 46.8, 37.2,
+       46.0, 43.7, 34.5, 41.9, 30.1,
+
+ | y2Title= Akşener
+ | y2= 38.0, 30.1, 37.5, 32.2, 40.1, 38.3, 36.8, 38.1, 35.9, 40.3, 
+       19.7, 37.2, 30.2, 37.1, 36.4, 30.0, 37.6, 32.1, 38.1, 27.0,
+       50.5, 35.8, 34.2, 49.7, 27.0, 50.9, 34.0, 38.0, 42.5, 37.5,
+       38.1, 45.4, 30.0, 43.0, 38.9, 42.3, 41.6, 44.2, 53.2, 45.6,
+       54.0, 43.3, 28.7, 43.8, 37.3,
+
+ | y3Title= Undecided
+ | y3= 11.8, 29.1, 10.6, 27.3, 17.9, 14.9, 25.3, 21.3, 22.7, 18.2,
+       37.7,     , 26.9, 24.8, 26.5, 26.2, 14.1, 27.4, 21.3, 30.9,
+           , 24.0, 21.9,     , 29.5,     , 20.8, 22.5, 19.0, 25.1,
+       19.3, 15.5, 26.2, 14.8, 27.0, 17.9, 17.2, 15.7,     4 , 13.0, 36.8,
+       13.7, 32.6,
+}}
+
+===== 2022 =====
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|- 
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Polling firm
+! rowspan="2"| Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|İYİ Party}};" |
+! rowspan="2"| Undecided
+! rowspan="2"| Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Meral Akşener|Akşener]]<br/>{{small|[[Good Party|İYİ]]}}
+|-
+|July
+|[https://www.youtube.com/watch?v=Im58cel6v1U Bupar]
+|–
+|30.1
+|style="background:#D0EBFF" |'''37.3'''
+|32.6
+! style="background:{{party color|İYİ Party}}; color:white;"|7.2
+|-
+|14–20 Apr
+|[https://www.cumhuriyet.com.tr/turkiye/metropoll-arastirmadan-son-secim-anketi-erdogan-kararsizlari-toplasa-bile-1932121 MetroPOLL]
+|2.164
+|41.9
+|style="background:#D0EBFF" |'''43.8'''
+|13,7
+! style="background:{{party color|İYİ Party}}; color:white;"|1.9
+|-
+|1–4 Apr
+|[https://sahamerkezi.org/turkiye-geneli-siyasal-gundem-ve-secmen-egilimi-saha-arastirma-raporu-2/ Sosyo Politik]
+|2.010
+|34.5
+|28.7
+| style="background:#D6D6D6" | '''36.8'''
+! style="background:#A3A3A3; color:white;" |2.3
+|}
+
+=====2021=====
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Polling firm
+! rowspan="2"| Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|İYİ Party}};" |
+! rowspan="2"| Undecided
+! rowspan="2"| Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Meral Akşener|Akşener]]<br/>{{small|[[Good Party|İYİ]]}}
+|-
+|Oct
+|[https://twitter.com/sarosarastirma/status/1454520363011002369 SAROS]
+|1,854
+| style="background:#FFF1C4" |'''48.0'''
+|37.1
+|14.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |10.9
+|-
+|21–28 Aug
+|[https://youtube.com/watch?v=Ttbl6HJ-0oY AKAM]
+|2,460
+|46.0
+|style="background:#D0EBFF" |'''54.0'''
+|–
+! style="background:{{party color|İYİ Party}}; color:white;"|8.0
+|-
+|Aug
+|[https://www.gazeteduvar.com.tr/son-secim-anketi-ak-parti-yuzde-315-mhp-baraj-alti-chp-yuzde-271-galeri-1534086?p=7 Yöneylem]
+|3,040
+|37.2
+|style="background:#D0EBFF" |'''45.6'''
+|17.2
+! style="background:{{party color|İYİ Party}}; color:white;"|8.4
+|-
+|11–14 Aug
+|[https://www.youtube.com/watch?v=BhbA066LMWk AKAM]
+|N/A
+|46.8
+|style="background:#D0EBFF" |'''53.2'''
+|–
+! style="background:{{party color|İYİ Party}}; color:white;"|6.4
+|-
+|26–30 Jul
+|[https://www.tamgaturk.com/haber/yoneylem-arastirma-cumhur-ittifaki-yuzde-368-millet-ittifaki-yuzde-377-35847.html Yöneylem]
+|3,040
+|40.1
+|style="background:#D0EBFF" |'''44.2'''
+|15.7
+! style="background:{{party color|İYİ Party}}; color:white;"|4.1
+|-
+|25–29 Jun
+|[https://abcgazetesi.com/sedat-peker-ve-secim-arastirmasi-erdogan-4-puan-kaybetti-soylu-inandirici-bulunmadi-395109 Yöneylem]
+|3,848
+|41.2
+|style="background:#D0EBFF" |'''41.6'''
+|17.2
+! style="background:{{party color|İYİ Party}}; color:white;"|0.4
+|-
+|23–28 Jun
+|[https://www.youtube.com/watch?v=keVpzktkJXw AKAM]
+|2,460
+|39.8
+|style="background:#D0EBFF" |'''42.3'''
+|17.9
+! style="background:{{party color|İYİ Party}}; color:white;"|2.5
+|-
+|8–13 Jun
+|[https://www.youtube.com/watch?v=aFh52G58nBc AKAM]
+|2,460
+|34.1
+|style="background:#D0EBFF" |'''38.9'''
+|27.0
+! style="background:{{party color|İYİ Party}}; color:white;"|4.8
+|-
+|21–25 May
+|[https://youtube.com/watch?v=aa63tE88YGM Yöneylem]
+|3,140
+|42.2
+|style="background:#D0EBFF" |'''43.0'''
+|14.8
+! style="background:{{party color|İYİ Party}}; color:white;"|0.8
+|-
+|22–24 May
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/muhalefet-erken-secimi-bir-daha-dusunmeli-41823934 Optimar]
+|1,836
+|style="background:#FFF1C4" |'''43.8'''
+|30.0
+|26.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|13.8
+|-
+|6–9 May
+|[https://www.youtube.com/watch?v=XjhW6VxToSc İEA]
+|1,506
+|39.1
+|style="background:#D0EBFF" |'''45.4'''
+|15.5
+! style="background:{{party color|İYİ Party}}; color:white;"|6.3
+|-
+|27–30 Apr
+|[https://www.cumhuriyet.com.tr/haber/genis-katilimli-yapilan-ankete-gore-erdogan-secmenini-darbe-gundemine-ikna-edemiyor-1833582 Yöneylem]
+|3,605
+| style="background:#FFF1C4" |'''42.6'''
+|38.1
+|19.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |4.5
+|-
+|26–30 Apr
+|[https://www.cumhuriyet.com.tr/galeri/son-anket-aciklandi-erdogani-uzecek-3-isim-belli-oldu-1834754 Aksoy]
+|1,067
+|37.4
+|style="background:#D0EBFF" |'''37.5'''
+|25.1
+! style="background:{{party color|İYİ Party}}; color:white;"|0.1
+|-
+|16–21 Apr
+|[https://www.haberturk.com/yazarlar/nagehan-alci/3059369-2023-e-dogru-yol-ayriminda-bir-turkiye Metropoll]
+|1,752
+|38.5
+|style="background:#D0EBFF" |'''42.5'''
+|19.0
+! style="background:{{party color|İYİ Party}}; color:white;"|4.0
+|-
+|Mar
+|[https://youtube.com/watch?v=dZbK52hXfNc Aksoy]
+|N/A
+| style="background:#FFF1C4" |'''39.5'''
+|38.0
+|22.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |1.5
+|-
+|Mar
+|[https://twitter.com/BurhanEptemli/status/1380245419410739205 SAROS]
+|3,042
+| style="background:#FFF1C4" |'''45.1'''
+|34.0
+|20.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |11.1
+|-
+|29–31 Mar
+|[https://yoneylemarastirma.com/pdfFiles/tsp_Mart_2021.pdf Yöneylem]
+|3,140
+| style="background:#FFF1C4" |'''44.4'''
+|36.4
+|19.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |8.0
+|-
+|7–24 Mar
+|[https://twitter.com/sandikanaliz/status/1388235910651785227 Sandık Analiz]
+|4,039
+|49.1
+| style="background:#D0EBFF" |'''50.9'''
+|–
+! style="background:{{party color|İYİ Party}}; color:white;" |1.8
+|-
+|28 Feb – 5 Mar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/turkiyenin-nabzi-nasil-atiyor-41762835 Optimar]
+|2,207
+|style="background:#FFF1C4" |'''43.6'''
+|27.0
+|29.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|16.6
+|-
+|Feb
+|[https://youtube.com/watch?v=fCF62IpRE-A&pp=QACIAgA%3D Sandık Analiz]
+|9,804
+| style="background:#FFF1C4" |'''50.3'''
+|49.7
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |0.6
+|-
+|Feb
+|[https://twitter.com/YoneylemSosyal/status/1375000610278412288 Yöneylem]
+|N/A
+|style="background:#FFF1C4" |'''43.9'''
+|34.2
+|21.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|9.7
+|-
+|Feb
+|[https://twitter.com/AksoyArastirma/status/1368887069955743744 Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''40.2'''
+|35.8
+|24.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|4.4
+|-
+|Jan
+|[https://youtube.com/watch?v=JAJPqruLwOM Sandık Analiz]
+|9,733
+|49.5
+|style="background:#D0EBFF" |'''50.5'''
+|–
+! style="background:{{party color|İYİ Party}}; color:white;"|1.0
+|-
+|Jan
+|[https://twitter.com/BurhanEptemli/status/1365328103858397185 SAROS]
+|3,034
+| style="background:#FFF1C4" |'''42.0'''
+|27.0
+|30.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |15.0
+|-
+|Jan
+|[https://twitter.com/AksoyArastirma/status/1361281524138672128/ Aksoy]
+|2,400
+| style="background:#FFF1C4" |'''40.6'''
+|38.1
+|21.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |2.5
+|-
+|15–30 Jan
+|[https://www.cumhuriyet.com.tr/haber/son-yapilan-arastirmada-carpici-sonuclar-sosyal-arastirmalar-merkezinin-ocak-anketi-yayinladi-1822678 Yöneylem]
+|5,292
+| style="background:#FFF1C4" |'''40.1'''
+|32.1
+|27.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |8.0
+|-
+|20–26 Jan
+|[https://www.adaarastirma.com/rapor/ocak-gundem-arastirma.pdf ADA]
+|3,245
+| style="background:#FFF1C4" |'''48.3'''
+|37.6
+|14.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |10.7
+|-
+|12–20 Jan
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/2021in-anketinden-ne-cikti-41724343 Optimar]
+|2,089
+| style="background:#FFF1C4" |'''43.8'''
+|30.0
+|26.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |13.8
+|-
+|6–10 Jan
+|[https://youtube.com/watch?v=ur9Nji_IpbY AKAM]
+|1,460
+|style="background:#FFF1C4" |'''37.1'''
+|36.4
+|26.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|0.7
+|-
+!colspan=7|2021
+|-
+|Dec
+|[https://twitter.com/AksoyArastirma/status/1346489541838962689 Aksoy]
+|2,400
+| style="background:#FFF1C4" |'''38.1'''
+|37.1
+|24.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |1.0
+|-
+|19–23 Dec
+|[https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/rte-akp-ve-mhp-icin-iki-ankette-onemli-farkliliklar-uzerine-1805069 MetroPoll]
+|1,791
+|style="background:#FFF1C4" |'''42.9'''
+|30.2
+|26.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|12.7
+|-
+|21 Nov – 9 Dec
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/erdoganin-karsisinda-kim-ne-kadar-oy-aliyor-41697854 Konsensus]
+|1,500
+|style="background:#FFF1C4" |'''63.8'''
+|37.2
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|26.6
+|-
+|Nov
+|[https://twitter.com/BurhanEptemli/status/1333185021155422210 SAROS]
+|3,092
+| style="background:#FFF1C4" |'''42.6'''
+|19.7
+|37.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |22.9
+|-
+|21–26 Nov
+|[https://twitter.com/avrasyaanket/status/1333496841531428867 AKAM]
+|2,460
+|style="background:#FFF1C4" |'''41.5'''
+|40.3
+|18.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|1.2
+|-
+|Oct
+|[https://www.gercekgundem.com/siyaset/231156/aksoy-arastirmanin-anketinden-iste-akp-chp-mhp-iyi-parti-ve-hdpnin-oylarinin-son-durumu Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''41.4'''
+|35.9
+|22.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|5.5
+|-
+|19–24 Oct
+|[https://www.gercekgundem.com/siyaset/225677/avrasya-arastirmadan-son-anket-erdogan-2-adaya-karsi-kaybediyor AKAM]
+|2,460
+|style="background:#FFF1C4" |'''40.6'''
+|38.1
+|21.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|2.5
+|-
+|21–25 Sep
+|[https://www.cumhuriyet.com.tr/haber/avrasya-arastirmadan-yeni-anket-cumhur-ittifaki-tek-basina-yetmiyor-1770385 AKAM]
+|2,460
+|style="background:#FFF1C4" |'''37.9'''
+|36.8
+|25.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|1.1
+|-
+|Aug
+|[https://www.karadenizgazete.com.tr/siyaset/cumhurbaskani-adayi-kim-olsun/288916 MetroPoll]
+|N/A
+|style="background:#FFF1C4" |'''46.8'''
+|38.3
+|14.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|8.5
+|-
+|22–27 Aug
+|[https://www.gercekgundem.com/galeri/siyaset/12606/son-ankette-erdogani-uzecek-imamoglu-ve-yavas-sonucu-fark-artiyor AKAM]
+|2,460
+|style="background:#FFF1C4" |'''42.0'''
+|40.1
+|17.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|1.9
+|-
+|5–6 Aug
+|[https://www.gercekgundem.com/siyaset/203691/iste-meral-aksenere-evine-don-cagrisi-yapilmasina-sebep-olan-anket Aksoy]
+|1,067
+|style="background:#FFF1C4" |'''40.4'''
+|32.2
+|27.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|8.2
+|-
+|May
+|[https://haber7.com/siyaset/haber/2974479-son-secim-anketi-erdogan-hepsine-buyuk-fark-atti ORC]
+|2,316
+|style="background:#FFF1C4" |'''51.9'''
+|37.5
+|10.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|14.4
+|-
+|10–24 Jan
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Ocak_2020.pdf Yöneylem]
+|2,507
+|style="background:#FFF1C4" |'''40.8'''
+|30.1
+|29.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|10.7
+|-
+!colspan=7|2020
+|-
+|28–31 Dec
+|[https://twitter.com/orc_arastirma/status/1212666130801844229 ORC]
+|2,980
+| style="background:#FFF1C4" |'''50.2'''
+|38.0
+|11.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |12.2
+|-
+!colspan=7|2019
+|}
+
+====Erdoğan vs. Babacan====
+{{Graph:Chart
+ | xType=date
+ | xAxisAngle=-40
+ | width = 650
+ | height= 325
+ | type = line
+ | interpolate = bundle
+ | showSymbols = 1
+ | symbolsShape = dot
+ | yAxisTitle = % Support
+ | yGrid = yes
+ | yAxisMin = 0
+ | linewidth = 2
+ | legend=
+ | colors=#FF8700, #006D9E, lightgrey
+ | x= 2019/08/07, 2020/01/24, 2020/03/25, 2020/08/06, 2020/08/27,
+      2020/10/10, 2020/11/10, 2020/11/26, 2020/12/10, 2020/12/20,
+      2021/01/05, 2021/01/10, 2021/01/15, 2021/01/20, 2021/01/25,
+      2021/02/10, 2021/03/05, 2021/03/10, 2021/03/20, 2021/05/30,
+      2021/06/28, 2021/10/16, 2021/10/27, 2021/11/11, 2021/11/20,
+      2021/12/15, 2021/12/25, 2022/04/04,
+
+ | y1Title= Erdoğan
+ | y1=  38.7, 37.0, 46.6, 39.9, 41.9, 39.9, 42.1, 40.1, 42.8, 40.4,
+        43.6, 41.0, 45.1, 40.3, 42.2, 37.2, 40.1, 43.2, 45.2, 40.6,
+        43.5, 39.0, 48.1, 34.6, 33.5, 32.8, 44.3, 36.6,
+
+ | y2Title= Babacan
+ | y2=   6.1, 26.1, 24.7, 14.6, 35.2, 36.7, 25.2, 37.9, 15.0, 25.4, 
+        21.4, 21.8, 20.9, 21.9,  3.4, 34.3, 20.4, 17.4, 19.6, 20.7, 
+        36.9, 36.1, 51.9, 42.0, 42.9, 46.5, 48.5, 21.0,
+
+ | y3Title= Undecided
+ | y3=  55.2, 36.9, 28.7, 45.5, 22.9, 23.4, 32.7, 22.0, 42.2, 34.2,
+        35.0, 37.2, 34.5, 37.5, 54.4, 28.5, 39.5, 39.4, 35.1, 38.7,
+        19.6, 24.9,     , 23.6, 23.6, 21.5,     , 42.3
+}}
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Polling firm
+! rowspan="2"| Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Democracy and Progress Party}};" |
+! rowspan="2"| Undecided
+! rowspan="2"| Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Ali Babacan|Babacan]]<br/>{{small|[[Democracy and Progress Party|DEVA]]}}
+|-
+|1–4 April
+|[https://sahamerkezi.org/turkiye-geneli-siyasal-gundem-ve-secmen-egilimi-saha-arastirma-raporu-2/ Sosyo Politik]
+|2.010
+|36.6
+|21.0
+|style="background:#D6D6D6" |'''42.3'''
+!style="background:#A3A3A3; color:white;" |5.7
+|-
+! colspan="7" |2022
+|-
+|23–27 Dec
+|[https://www.youtube.com/watch?v=0I5ZLlHjfLk&ab_channel=AvrasyaAnket AKAM]
+|2,460
+|44.3
+|style="background:#9CE0FF"|'''48.5'''
+| –
+!class="unsortable" style="background:{{party color|Democracy and Progress Party}}; color:white;"|4.2
+|-
+|14–15 Dec
+|[https://m.youtube.com/watch?v=clgbdwIyHT0&feature=youtu.be AKAM]
+|1,260
+|32.8
+|style="background:#9CE0FF"|'''46.5'''
+|21.5
+!class="unsortable" style="background:{{party color|Democracy and Progress Party}}; color:white;"|13.7
+|-
+|11–17 Nov
+|[https://www.youtube.com/watch?v=OAH-8LdYgWE AKAM]
+|1,260
+|33.5
+|style="background:#9CE0FF"|'''42.9'''
+|23.6
+!class="unsortable" style="background:{{party color|Democracy and Progress Party}}; color:white;"|9.4
+|-
+|23–28 Oct
+|[https://www.youtube.com/watch?v=RQxvpJQHbD8 AKAM]
+|2,460
+|34.6
+|style="background:#9CE0FF"|'''42.0'''
+|23.4
+!style="background:{{party color|Democracy and Progress Party}}; color:white;"|7.4
+|-
+|9–14 Oct
+| [https://www.youtube.com/watch?v=gAJmmk4vSvY AKAM]
+|1,500
+|48.1
+|style="background:#9CE0FF"|'''51.9'''
+|–
+!style="background:{{party color|Democracy and Progress Party}}; color:white;"|3.8
+|-
+|Oct
+|[https://twitter.com/sarosarastirma/status/1454518871965282309 SAROS]
+|1,854
+| style="background:#FFF1C4" |'''48.9'''
+|18.7
+|32.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |30.2
+|-
+|23–28 Jun
+|[https://www.youtube.com/watch?v=keVpzktkJXw AKAM]
+|2,460
+|style="background:#FFF1C4" |'''39.0'''
+|36.1
+|24.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|2.9
+|-
+|6–9 May
+|[https://www.youtube.com/watch?v=XjhW6VxToSc İEA]
+|1,506
+|style="background:#FFF1C4" |'''43.5'''
+|36.9
+|19.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.6
+|-
+|Mar
+|[https://youtube.com/watch?v=dZbK52hXfNc Aksoy]
+|N/A
+|style="background:#FFF1C4" |'''40.6'''
+|20.7
+|38.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|19.9
+|-
+|Mar
+|[https://twitter.com/BurhanEptemli/status/1380244424018558982 SAROS]
+|3,042
+|style="background:#FFF1C4" |'''45.2'''
+|19.6
+|35.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|25.6
+|-
+|28 Feb – 5 Mar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/turkiyenin-nabzi-nasil-atiyor-41762835 Optimar]
+|2,207
+|style="background:#FFF1C4" |'''43.2'''
+|17.4
+|39.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|25.8
+|-
+|Feb
+|[https://twitter.com/AksoyArastirma/status/1368887069955743744 Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''40.1'''
+|20.4
+|39.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|19.7
+|-
+|Jan
+|[https://twitter.com/BurhanEptemli/status/1365325982677282824 SAROS]
+|3,034
+| style="background:#FFF1C4" |'''42.2'''
+|3.4
+|54.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |38.8
+|-
+|Jan
+|[https://twitter.com/AksoyArastirma/status/1361281524138672128/ Aksoy]
+|2,400
+| style="background:#FFF1C4" |'''41.0'''
+|21.8
+|37.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |19.2
+|-
+|15–30 Jan
+|[https://www.cumhuriyet.com.tr/haber/son-yapilan-arastirmada-carpici-sonuclar-sosyal-arastirmalar-merkezinin-ocak-anketi-yayinladi-1822678 Yöneylem]
+|5,292
+| style="background:#FFF1C4" |'''40.3'''
+|21.9
+|37.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |18.4
+|-
+|20–26 Jan
+|[https://www.adaarastirma.com/rapor/ocak-gundem-arastirma.pdf ADA]
+|3,245
+| style="background:#FFF1C4" |'''51.9'''
+|25.9
+|22.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |26.0
+|-
+|12–20 Jan
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/2021in-anketinden-ne-cikti-41724343 Optimar]
+|2,089
+| style="background:#FFF1C4" |'''45.1'''
+|20.9
+|34.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |24.2
+|-
+|6–10 Jan
+|[https://youtube.com/watch?v=ur9Nji_IpbY AKAM]
+|1,460
+|style="background:#FFF1C4" |'''37.2'''
+|34.3
+|28.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|2.9
+|-
+!colspan=7|2021
+|-
+|Dec
+|[https://twitter.com/AksoyArastirma/status/1346489541838962689 Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''40.4'''
+|25.4
+|34.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|15.0
+|-
+|19–23 Dec
+|[https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/rte-akp-ve-mhp-icin-iki-ankette-onemli-farkliliklar-uzerine-1805069 MetroPoll]
+|1,791
+| style="background:#FFF1C4" |'''43.6'''
+|21.4
+|35.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |22.2
+|-
+|Nov
+|[https://twitter.com/BurhanEptemli/status/1333185108338208770 SAROS]
+|3,092
+|style="background:#FFF1C4" |'''42.8'''
+|15.0
+|42.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|27.8
+|-
+|21–26 Nov
+|[https://twitter.com/avrasyaanket/status/1333496841531428867 AKAM]
+|2,460
+|style="background:#FFF1C4" |'''40.1'''
+|37.9
+|22.0
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|2.2
+|-
+|Oct
+|[https://www.gercekgundem.com/siyaset/231156/aksoy-arastirmanin-anketinden-iste-akp-chp-mhp-iyi-parti-ve-hdpnin-oylarinin-son-durumu Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''42.1'''
+|25.2
+|32.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|16.9
+|-
+|19–24 Oct
+|[https://www.gercekgundem.com/siyaset/225677/avrasya-arastirmadan-son-anket-erdogan-2-adaya-karsi-kaybediyor AKAM]
+|2,460
+|style="background:#FFF1C4" |'''39.9'''
+|36.7
+|23.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|3.2
+|-
+|22–27 Aug
+|[https://www.gercekgundem.com/galeri/siyaset/12606/son-ankette-erdogani-uzecek-imamoglu-ve-yavas-sonucu-fark-artiyor AKAM]
+|2,460
+|style="background:#FFF1C4" |'''41.9'''
+|35.2
+|22.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.7
+|-
+|5–6 Aug
+|[https://www.gercekgundem.com/siyaset/203691/iste-meral-aksenere-evine-don-cagrisi-yapilmasina-sebep-olan-anket Aksoy]
+|1,067
+| style="background:#FFF1C4" |'''39.9'''
+|14.6
+|45.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |25.3
+|-
+|18–25 Mar
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Mart_2020.pdf Yöneylem]
+|2,605
+| style="background:#FFF1C4" |'''46.6'''
+|24.7
+|28.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |21.9
+|-
+|10–24 Jan
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Ocak_2020.pdf Yöneylem]
+|2,507
+| style="background:#FFF1C4" |'''37.0'''
+|26.1
+|36.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |10.9
+|-
+!colspan=7|2020
+|-
+|2–7 Aug
+|[https://twitter.com/sarosarastirma/status/1175437608215822342 SAROS]
+|3,012
+| style="background:#FFF1C4" |'''38.7'''
+|6.1
+|55.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|32.6
+|-
+!colspan=7|2019
+|}
+
+====Erdoğan vs. Gül====
+{| class="wikitable tpl-blanktable mw-collapsible mw-collapsed" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2"| Fieldwork date
+! rowspan="2"| Polling firm
+! rowspan="2"| Sample size
+! style="background:{{party color|Justice and Development Party (Turkey)}};" |
+! style="background:{{party color|Independent politician}};" |
+! rowspan="2"| Undecided
+! rowspan="2"| Lead
+|-
+! [[Recep Tayyip Erdoğan|Erdoğan]]<br/>{{small|[[Justice and Development Party (Turkey)|AKP]]}}
+! [[Abdullah Gül|Gül]]<br/>{{small|[[Independent Politician|IND]]}}
+|-
+|23–27 Dec
+|[https://www.youtube.com/watch?v=0I5ZLlHjfLk&ab_channel=AvrasyaAnket AKAM]
+|2,460
+|style="background:#FFF1C4" |'''54.7'''
+|38.0
+| –
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |16.7
+|-
+|Oct
+|[https://twitter.com/sarosarastirma/status/1454517412557213703 SAROS]
+|1,854
+| style="background:#FFF1C4" |'''49.4'''
+|11.8
+|38.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |37.6
+|-
+|23–28 Jun
+|[https://www.youtube.com/watch?v=keVpzktkJXw AKAM]
+|2,460
+|style="background:#FFF1C4" |'''39.9'''
+|34.5
+|25.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|5.4
+|-
+|Mar
+|[https://youtube.com/watch?v=dZbK52hXfNc Aksoy]
+|N/A
+|style="background:#FFF1C4" |'''39.5'''
+|16.3
+|44.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|23.2
+|-
+|Mar
+|[https://twitter.com/BurhanEptemli/status/1380244019687665667 SAROS]
+|3,042
+|style="background:#FFF1C4" |'''45.3'''
+|18.5
+|36.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|26.8
+|-
+|28 Feb – 5 Mar
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/turkiyenin-nabzi-nasil-atiyor-41762835 Optimar]
+|2,207
+|style="background:#FFF1C4" |'''44.2'''
+|16.7
+|39.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|27.5
+|-
+|Feb
+|[https://www.cumhuriyet.com.tr/haber/son-anket-geldi-erdogani-geciyorlar-1818848 Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''38.4'''
+|18.1
+|43.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|20.3
+|-
+|Jan
+|[https://twitter.com/BurhanEptemli/status/1365326347380412416 SAROS]
+|3,034
+|style="background:#FFF1C4" |'''41.9'''
+|4.0
+|54.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|37.9
+|-
+|Jan
+|[https://twitter.com/AksoyArastirma/status/1361281524138672128/ Aksoy]
+|2,400
+| style="background:#FFF1C4" |'''40.1'''
+|17.2
+|42.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |22.9
+|-
+|12–20 Jan
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/2021in-anketinden-ne-cikti-41724343 Optimar]
+|2,089
+| style="background:#FFF1C4" |'''43.5'''
+|20.3
+|36.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |23.2
+|-
+!colspan=7|2021
+|-
+|Dec
+|[https://twitter.com/AksoyArastirma/status/1346489541838962689 Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''38.5'''
+|16.9
+|44.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|21.6
+|-
+|21 Nov – 9 Dec
+|[https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/erdoganin-karsisinda-kim-ne-kadar-oy-aliyor-41697854 Konsensus]
+|1,500
+|style="background:#FFF1C4" |'''76.3'''
+|23.7
+|–
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|52.6
+|-
+|Nov
+|[https://twitter.com/BurhanEptemli/status/1333185338580340737 SAROS]
+|3,092
+|style="background:#FFF1C4" |'''42.6'''
+|10.5
+|46.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|32.1
+|-
+|21–26 Nov
+|[https://twitter.com/avrasyaanket/status/1333496841531428867 AKAM]
+|2,460
+|style="background:#FFF1C4" |'''43.2'''
+|37.1
+|19.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.1
+|-
+|Oct
+|[https://www.gercekgundem.com/siyaset/231156/aksoy-arastirmanin-anketinden-iste-akp-chp-mhp-iyi-parti-ve-hdpnin-oylarinin-son-durumu Aksoy]
+|2,400
+|style="background:#FFF1C4" |'''41.0'''
+|18.7
+|40.3
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|22.3
+|-
+|19–24 Oct
+|[https://www.gercekgundem.com/siyaset/225677/avrasya-arastirmadan-son-anket-erdogan-2-adaya-karsi-kaybediyor AKAM]
+|2,460
+|style="background:#FFF1C4" |'''40.7'''
+|34.5
+|24.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|6.2
+|-
+|21–25 Sep
+|[https://www.cumhuriyet.com.tr/haber/avrasya-arastirmadan-yeni-anket-cumhur-ittifaki-tek-basina-yetmiyor-1770385 AKAM]
+|2,460
+|style="background:#FFF1C4" |'''41.0'''
+|33.4
+|25.6
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|7.6
+|-
+|Aug
+|[https://www.karadenizgazete.com.tr/siyaset/cumhurbaskani-adayi-kim-olsun/288916 MetroPoll]
+|N/A
+| style="background:#FFF1C4" |'''49.6'''
+|22.5
+|27.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |27.1
+|-
+|22–27 Aug
+|[https://www.gercekgundem.com/galeri/siyaset/12606/son-ankette-erdogani-uzecek-imamoglu-ve-yavas-sonucu-fark-artiyor AKAM]
+|2,460
+|style="background:#FFF1C4" |'''42.1'''
+|33.2
+|24.7
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|8.9
+|-
+|10–12 Aug
+|[https://www.karadenizgazete.com.tr/siyaset/bu-pazar-cumhurbaskanligi-secimi-olsa-anketi/286189 Optimar]
+|2,121
+| style="background:#FFF1C4" |'''44.3'''
+|21.3
+|34.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |23.0
+|-
+|5–6 Aug
+|[https://www.gercekgundem.com/siyaset/203691/iste-meral-aksenere-evine-don-cagrisi-yapilmasina-sebep-olan-anket Aksoy]
+|1,067
+|style="background:#FFF1C4" |'''40.2'''
+|15.4
+|44.4
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|24.8
+|-
+|May
+|[https://haber7.com/siyaset/haber/2974479-son-secim-anketi-erdogan-hepsine-buyuk-fark-atti ORC]
+|2,316
+|style="background:#FFF1C4" |'''57.4'''
+|25.1
+|17.5
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|32.3
+|-
+|20 Apr – 8 May
+|[https://www.karadenizgazete.com.tr/siyaset/optimarin-son-secim-anketi-erdogan-mi-yavas-mi-imamoglu-mu/273440 Optimar]
+|2,307
+| style="background:#FFF1C4" |'''46.7'''
+|20.4
+|32.9
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |26.3
+|-
+|10–18 Mar
+|[https://www.gazeteduvar.com.tr/secim-anketi-yuzde-41-erdogan-yuzde-16-gul-haber-893986 Optimar]
+|2,007
+| style="background:#FFF1C4" |'''41.8'''
+|16.0
+|42.2
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |25.8
+|-
+|10–24 Jan
+|[https://yoneylemarastirma.com/pdfFiles/gundemetre_Ocak_2020.pdf Yöneylem]
+|2,507
+|style="background:#FFF1C4" |'''37.0'''
+|25.2
+|37.8
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;"|11.8
+|-
+!colspan=7|2020
+|-
+|28–31 Dec
+|[https://twitter.com/orc_arastirma/status/1212665709051961345 ORC]
+|2,980
+| style="background:#FFF1C4" |'''52.1'''
+|32.8
+|15.1
+! style="background:{{party color|Justice and Development Party (Turkey)}}; color:white;" |19.3
+|-
+!colspan=7|2019
+|}
+
+==Notes==
+'''General'''
+{{reflist|group=nb}}
+'''Political connections'''
+{{reflist|group=pc}}
+
+==References==
+{{reflist}}
+
+{{Turkish elections}}
+{{Future opinion polling}}
+
+[[Category:2023 Turkish presidential election]]
+[[Category:Opinion polling in Turkey|2023 presidential]]
+[[Category:Opinion polling for future elections|Turkey presidential]]

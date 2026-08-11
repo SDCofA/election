@@ -1,5 +1,6 @@
 import hashlib
 import json
+import runpy
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -361,6 +362,42 @@ def test_packaged_million_draw_report_is_bound_to_dataset_engine_and_target():
     assert dataset.provenance_verified is False
     assert report.provenance_verified is False
     assert "contemporaneous archived poll" in " ".join(report.promotion_reasons)
+
+
+def test_packaged_turkiye_report_uses_archived_origins_without_overclaiming():
+    root = Path(__file__).parents[1] / "app" / "backtests"
+    dataset = load_backtest_dataset(root / "tr-presidential-2014-2023-v1.json")
+    report_path = root / "tr-presidential-2014-2023-v1-report.json"
+    report = load_backtest_report(
+        report_path,
+        dataset_sha256=dataset.dataset_sha256,
+        target_horizon_days=637,
+        expected_sha256=hashlib.sha256(report_path.read_bytes()).hexdigest(),
+    )
+    assert len(dataset.records) == 9
+    assert dataset.provenance_verified is True
+    assert report.provenance_verified is True
+    assert report.simulation_count == 1_000_000
+    assert len(report.folds) == 3
+    assert report.held_out_election_count == 1
+    assert report.reliable is False
+    assert report.winner is None
+    assert "three distinct held-out elections" in " ".join(report.promotion_reasons)
+
+
+def test_turkiye_archive_vectors_recompute_from_pinned_wikitext():
+    api_root = Path(__file__).parents[1]
+    builder = runpy.run_path(api_root / "scripts" / "build_tr_presidential_backtest.py")
+    parser = builder["poll_vector_from_wikitext"]
+    snapshots = builder["POLL_SNAPSHOTS"]
+    raw_root = api_root / "app" / "backtests" / "raw" / "tr"
+    for year, origins in snapshots.items():
+        for oldid, _, expected in origins:
+            raw = (raw_root / f"wikipedia-oldid-{oldid}.wikitext").read_text(encoding="utf-8")
+            computed = parser(raw, year)
+            assert all(
+                abs(actual - target) <= 0.000002 for actual, target in zip(computed, expected)
+            )
 
 
 def test_cached_report_rejects_wrong_target_horizon():

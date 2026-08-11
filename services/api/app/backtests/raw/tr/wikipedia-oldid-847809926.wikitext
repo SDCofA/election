@@ -1,0 +1,847 @@
+{{Current election}}
+{{Use dmy dates|date=May 2018}}
+{{Infobox election
+| election_name = Turkish presidential election, 2018
+| country = Turkey
+| type = presidential
+| ongoing = no
+| previous_election = Turkish presidential election, 2014
+| previous_year = 2014
+| election_date = 24 June 2018
+| next_election = 
+| next_year = 2023
+| opinion_polls = Opinion polling for the Turkish general election, 2018
+| turnout = 86.24% {{increase}} 12.11 [[percentage point|pp]]
+| image1 = [[File:Recep Tayyip Erdogan 2017 (cropped).jpg|160x160px]]
+| candidate1 = '''[[Recep Tayyip Erdoğan]]'''
+| colour1 = FDC400
+| party1 = [[Justice and Development Party (Turkey)|AK Party]]
+| alliance1 = [[People's Alliance (Turkey)|People's Alliance]]
+| popular_vote1 = '''26,324,482'''
+| percentage1 = '''52.59%'''
+| image2 = [[File:Muharrem İnce (cropped).jpg|160x160px]]
+| candidate2 = [[Muharrem İnce]]
+| colour2 = D50000
+| party2 = [[Republican People's Party (Turkey)|CHP]]
+| alliance2 = [[Nation Alliance (Turkey)|Nation Alliance]]
+| popular_vote2 = 15,336,594
+| percentage2 = 30.64%
+| image3 = [[File:Selahattin Demirtaş 2018 (cropped).jpg|160x160px]]
+| candidate3 = [[Selahattin Demirtaş]]{{efn|group=n|Since 2016 in [[preventive detention]] in Istanbul<ref>{{cite web|url=https://www.reuters.com/article/us-turkey-kurds-demirtas/jailed-leader-of-turkeys-pro-kurdish-opposition-makes-first-court-appearance-in-14-months-idUSKBN1F11YI|title=Jailed leader of Turkey's pro-Kurdish opposition makes first court appearance in 14 months|date=12 January 2018|website=Reuters|accessdate=7 May 2018}}</ref>}}
+| colour3 = B000B8
+| party3 = [[Peoples' Democratic Party (Turkey)|HDP]]
+| alliance3 = ''None''{{efn|group=n|Supported by the left-wing political parties and groups of the [[Peoples' Democratic Congress|HDK]]}}
+| popular_vote3 = 4,205,219
+| percentage3 = 8.40%
+| image4 = [[File:Meral Akşener (cropped).jpg|160x160px]]
+| candidate4 = [[Meral Akşener]]
+| colour4 = 42ABE2
+| party4 = [[İyi Party|İYİ]]
+| alliance4 = [[Nation Alliance (Turkey)|Nation Alliance]]
+| popular_vote4 = 3,649,233
+| percentage4 = 7.29%
+| image5 = [[File:Temel Karamollaoğlu presidential campaign (cropped).jpg|160x160px]]
+| candidate5 = [[Temel Karamollaoğlu]]
+| colour5 = FF5F5F
+| party5 = [[Felicity Party|Felicity]]
+| alliance5 = [[Nation Alliance (Turkey)|Nation Alliance]]
+| popular_vote5 = 443,766
+| percentage5 = 0.89%
+| image6 = [[File:Doğu Perinçek 2 (cropped).jpg|160x160px]]
+| colour6 = B80000
+| candidate6 = [[Doğu Perinçek]]
+| party6 = [[Patriotic Party (Turkey)|Patriotic]]
+| alliance6 = ''None''
+| popular_vote6 = 98,926
+| percentage6 = 0.20%
+<!-- map -->| map_image = Turkish presidential election 2018.png
+| map_size = 420px
+| map_caption = '''Results by [[Provinces of Turkey|province]]'''<br>{{legend0|{{Justice and Development Party (Turkey)/meta/color}}|[[Recep Tayyip Erdoğan|Erdoğan]] (63)}}    &nbsp; {{legend0|{{Republican People's Party (Turkey)/meta/color}}|[[Muharrem İnce|İnce]] (8)}}  &nbsp;   {{legend0|{{Peoples' Democratic Party (Turkey)/meta/color}}|[[Selahattin Demirtaş|Demirtaş]] (10)}}
+<!-- bottom -->| title = President
+| before_election = [[Recep Tayyip Erdoğan]]
+| before_party = Justice and Development Party (Turkey)
+| after_election = [[Recep Tayyip Erdoğan]]
+| after_party = Justice and Development Party (Turkey)
+}}
+
+The '''Turkish presidential election of 2018''' took place on 24 June 2018 as part of the [[Turkish general election, 2018|2018 general election]], alongside [[Turkish parliamentary election, 2018|parliamentary elections]] on the same day. Following the approval of constitutional changes in a [[Turkish constitutional referendum, 2017|referendum]] held in 2017, the elected [[President of Turkey|President]] will be both the [[head of state]] and [[head of government]] of [[Turkey]], taking over the latter role from the to-be-abolished office of the [[Prime Minister of Turkey|Prime Minister]].<ref name=Guardian/> 
+
+The election was originally scheduled for November 2019. Despite insistence from the government that they would not be brought forward, speculation over an early vote continued since the 2017 referendum. After calls from [[Nationalist Movement Party]] leader [[Devlet Bahçeli]] for a snap election, President [[Recep Tayyip Erdoğan]] announced on 18 April 2018 that it would take place on 24 June.<ref name=Hurriyet/>
+
+Incumbent president [[Recep Tayyip Erdoğan]] declared his candidacy for the [[People's Alliance (Turkey)|People's Alliance]] (Turkish: ''Cumhur İttifakı'') on 27 April 2018.<ref name=Sputnik/> Turkey's main opposition, the [[Republican People's Party (Turkey)|Republican People's Party]], nominated [[Muharrem İnce]], a member of the parliament known for his combative opposition and spirited speeches against Erdoğan.<ref>{{cite web|title=Turkey's main opposition nominates combative former teacher to challenge Erdogan|url=https://www.reuters.com/article/us-turkey-election/turkeys-main-opposition-nominates-combative-former-teacher-to-challenge-erdogan-idUSKBN1I50V4|publisher=Reuters|accessdate=6 May 2018}}</ref> The [[Peoples' Democratic Party (Turkey)|Peoples' Democratic Party]] nominated the imprisoned ex-chairman [[Selahattin Demirtaş]]. Besides these candidates, [[Meral Akşener]], the founder and leader of [[İyi Party]],<ref name=ntv/> [[Temel Karamollaoğlu]], the leader of the [[Felicity Party]] and [[Doğu Perinçek]], the leader of the [[Patriotic Party (Turkey)|Patriotic Party]], have announced their candidacies and collected the 100,000 signatures required for nomination.
+
+Campaigning for the election centred mainly on the faltering Turkish economy and the [[Turkish currency and debt crisis, 2018|currency and debt crisis]], with both government and opposition commentators warning of a more serious economic crisis following the election. The [[2018 Gaza border protests]], following the [[United States recognition of Jerusalem as capital of Israel]], along with the [[Turkish military operation in Afrin]], were also featured in the campaign.
+
+==Electoral system==
+[[File:Turkish presidential election 2018 ballot paper.jpg|thumb|Ballot paper used for the 2018 presidential election]]
+The [[President of Turkey]] is directly elected through the [[two-round system]], under which a candidate must obtain at least 50%+1 of the popular vote in order to be elected. If no candidate secures an overall majority outright, then a runoff is held between the two most voted-for candidates from the first round, the winner of which is then declared elected. The first direct election to the Turkish presidency was held in 2014, after [[Turkish constitutional referendum, 2007|a referendum in 2007]] abolished the previous system under which the head of state was elected by the legislature, the [[Grand National Assembly of Turkey]]. The President of Turkey is subject to term limits, and may serve at most two consecutive five-year terms.{{cn|date=June 2018}}
+
+Prospective presidential candidates must be at least 40 years old and must have completed higher education. Any political party that has won 5% of the vote in the previous parliamentary election can put forward a candidate, although parties that have not met this threshold can form alliances and field joint candidates as long as their total vote share exceeds 5%. [[Independent (politician)|Independents]] can run if they collect 100,000 signatures from the electorate.<ref>{{cite web|url=http://www.cnnturk.com/video/turkiye/anayasa-degisikligi-maddeleri-tam-metni-yeni-anayasa-maddeleri-nelerdir |title=Anayasa değişikliği maddeleri tam metni &#124; Yeni anayasa maddeleri nelerdir? &#124; Son Dakika Türkiye Haberleri |publisher=Cnnturk.com |date= |accessdate=23 October 2017}}</ref> An estimate released in July 2017 predicted that collecting 100,000 signatures to stand for election could exceed [[Turkish lira|₺]]15&nbsp;million (US$4.2&nbsp;million) in costs, if each individual signature would require certification by a [[notary]].<ref>{{cite web|author=Sputnik |url=https://tr.sputniknews.com/turkiye/201707231029396275-cumhurbaskanligina-aday-gostermenin-bedeli-15milyon-lirayi-bulabilir/ |title='Cumhurbaşkanlığına aday göstermenin bedeli 15 milyon lirayı bulabilir' - Sputnik Türkiye |publisher=Tr.sputniknews.com |date=23 July 2017 |accessdate=23 October 2017}}</ref> However, the [[Supreme Electoral Council of Turkey]] (YSK) announced that signature collection would occur between 4 and 9 May, with voters having to submit their nominations at their local electoral council branch.{{cn|date=June 2018}}
+
+Based on the results of the [[Turkish general election, November 2015|previous general election]] in November 2015, only the [[Justice and Development Party (Turkey)|Justice and Development Party]] (AKP), [[Republican People's Party (Turkey)|Republican People's Party]] (CHP), [[Nationalist Movement Party]] (MHP) and [[Peoples' Democratic Party (Turkey)|Peoples' Democratic Party]] (HDP) are eligible to field candidates for the presidential election. The remaining parties combined received under 3% of the vote and are thus unable to field either a joint candidate or a candidate in their own right. In addition to past election results, parties which have a parliamentary group can nominate a candidate. Thus, the newly formed [[İYİ Party]] was also eligible to nominate their candidate, since 15 CHP members of parliament defected to them with the intention of allowing the party to form a parliamentary group. However, İYİ Party leader and presidential candidates [[Meral Akşener]] insisted on being nominated by collecting signatures rather than through parliament.{{cn|date=June 2018}}
+
+==Candidates==
+===Official candidates===
+The [[Supreme Electoral Council of Turkey|Supreme Electoral Council]] (YSK) formally announced the candidates on 13 May.<ref>http://www.ysk.gov.tr/doc/karar/dosya/77662/2018-472.pdf</ref>
+<center>
+{| class="wikitable" style="font-size:90%; text-align:center;" 
+|-
+! colspan=6 | Official list of presidential candidates in order they appear on the ballot paper<ref>{{cite web|url=http://halktv.com.tr/yskda-kura-cekimleri-yapildi-cumhurbaskani-adaylarinin-siralamasi-belli-oldu-320938|title=YSK'da kura çekimleri yapıldı! Cumhurbaşkanı adaylarının sıralaması belli oldu|date=14 May 2018|publisher=|accessdate=15 May 2018}}</ref>
+|-
+| '''1'''
+| '''2'''
+| '''3'''
+| '''4'''
+| '''5'''
+| '''6'''
+|-
+| [[File:Muharrem İnce (cropped).jpg|150x150px]]
+| [[File:Meral Akşener İYİ Party 1 (cropped).jpg|150x150px]]
+| [[File:Recep Tayyip Erdogan 2017.jpg|center|150x150px]]
+| [[File:Selahattin Demirtaş 2018 (cropped).jpg|150x150px]]
+| [[File:Temel Karamollaoğlu presidential campaign (cropped).jpg|150x150px]]
+| [[File:Doğu Perinçek 2 (cropped).jpg|center|150x150px]]
+|-
+! style="width:100px; font-size:100%; background:{{Republican People's Party (Turkey)/meta/color}};"|
+! style="width:100px; font-size:100%; background:{{İYİ Party/meta/color}};"| 
+! style="width:100px; font-size:100%; background:{{Justice and Development Party (Turkey)/meta/color}};"| 
+! style="width:100px; font-size:100%; background:{{Peoples' Democratic Party (Turkey)/meta/color}};"| 
+! style="width:100px; font-size:100%; background:{{Felicity Party/meta/color}};"| 
+! style="width:100px; font-size:100%; background:{{Patriotic Party (Turkey)/meta/color}};"| 
+|-
+| '''[[Muharrem İnce]]'''
+| '''[[Meral Akşener]]'''
+| '''[[Recep Tayyip Erdoğan]]'''
+| '''[[Selahattin Demirtaş]]'''
+| '''[[Temel Karamollaoğlu]]'''
+| '''[[Doğu Perinçek]]'''
+|-
+| [[Republican People's Party (Turkey)|CHP]]<br>{{small|([[Nation Alliance (Turkey)|Nation Alliance]])}}
+| [[İYİ Party|İYİ]]<br>{{small|([[Nation Alliance (Turkey)|Nation Alliance]])}}
+| [[Justice and Development Party (Turkey)|AK Party]]<br>{{small|([[People's Alliance (Turkey)|People's Alliance]])}}
+| [[Peoples' Democratic Party (Turkey)|HDP]]<br>{{small|(No alliance)}}
+| [[Felicity Party|Felicity]]<br>{{small|([[Nation Alliance (Turkey)|Nation Alliance]])}}
+| [[Patriotic Party (Turkey)|Patriotic]]<br>{{small|(No alliance)}}
+|-
+! colspan=6 |
+|-
+| [[Muharrem İnce presidential campaign, 2018|View campaign]]
+| [[Meral Akşener presidential campaign, 2018|View campaign]]
+| [[Recep Tayyip Erdoğan presidential campaign, 2018|View campaign]]
+| [[Selahattin Demirtaş presidential campaign, 2018|View campaign]]
+| [[Temel Karamollaoğlu presidential campaign, 2018|View campaign]]
+| [[Doğu Perinçek presidential campaign, 2018|View campaign]]
+|-
+|}
+</center>
+
+===Selection process===
+[[File:Abdullah Gül 2018 election announcement.png|thumb|Former President [[Abdullah Gül]] announces that he will not stand as a presidential candidate on 28 April]]
+In the run-up to the election, various parties underwent a [[2018 Turkish presidential election candidate nominations|candidate selection process]] to nominate presidential candidates.
+====People's Alliance (AKP and MHP)====
+{{main|2018 Turkish presidential election candidate nominations#People's Alliance (AKP and MHP)}}
+Serving president [[Recep Tayyip Erdoğan]] was widely seen as the undisputed candidate of the [[People's Alliance (Turkey)|People's Alliance]], an alliance set up by the governing [[Justice and Development Party (Turkey)|Justice and Development Party]] (AK Party) and the far-right [[Nationalist Movement Party]] (MHP). This was confirmed by MHP leader [[Devlet Bahçeli]] on 21 April 2018.<ref>{{cite web|url=http://www.trthaber.com/haber/gundem/mhp-genel-baskani-devlet-bahceli-adayimiz-sayin-recep-tayyip-erdogandir-361839.html|title=MHP Genel Başkanı Devlet Bahçeli: Adayımız Sayın Recep Tayyip Erdoğan'dır|publisher=}}</ref> The AK Party parliamentary group voted unanimously to nominate Erdoğan on 3 May.<ref>{{cite web|url=https://www.kamupersoneli.net/politika/cumhurbaskani-erdogan-316-imza-ile-aday-oldu-h45314.html|title=Cumhurbaşkanı Erdoğan 316 İmza İle Aday Oldu!|first=|last=Kamupersoneli.net|publisher=}}</ref>
+====Republican People's Party (CHP)====
+[[File:Muharrem İnce presidential candidate.jpg|thumb|[[Muharrem İnce]] being announced as the CHP's presidential candidate on 4 May]]
+{{main|2018 Turkish presidential election candidate nominations#Republican People's Party (CHP)}}
+The main opposition [[Republican People's Party (Turkey)|Republican People's Party]] (CHP) began a wide search for a candidate, with several rumours that the party was content with supporting a cross-party candidate that was not necessarily in line with the party's values as part of an election alliance. CHP leader [[Kemal Kılıçdaroğlu]] subsequently conducted several meetings with the leaders of the [[Felicity Party]] and the [[İYİ Party]]. Former President [[Abdullah Gül]] was mentioned as a cross-party option, allegedly receiving the support of senior officials, but was disbanded following heavy opposition from the lower ranks and voters. Gül eventually announced that he would not stand, citing the lack of cross-party consensus.<ref>{{cite web|url=https://www.gercekgundem.com/siyaset/12266/abdullah-gul-beklenen-kararini-acikladi-aday-degilim|title=Abdullah Gül beklenen kararını açıkladı: Aday değilim|publisher=}}</ref> Despite ruling it out several times, party leader Kemal Kılıçdaroğlu was frequently mentioned as a potential candidate, along with [[Yılmaz Büyükerşen]], [[İlhan Kesici]], [[Muharrem İnce]] and [[Mehmet Haberal]]. Certain MPs, such as [[Öztürk Yılmaz]] and [[Didem Engin]] also publicly declared their interest.<ref>{{cite web|url=http://www.gunes.com/gundem/chp-milletvekili-didem-engin-cumhurbaskanligi-aday-adayiyim-868343|title=CHP Milletvekili Didem Engin: Cumhurbaşkanlığı aday adayıyım Gündem Haberi - GÜNEŞ|publisher=}}</ref> On 26 April, CHP MP [[Özgür Özel]], himself seen as a potential candidate, announced that their nominee would be one who would make the AKP 'crazy' the most.<ref>{{cite web|url=https://www.cnnturk.com/turkiye/chpli-ozgur-ozel-erdogani-en-cildirtacak-adayi-aciklayacagiz|title=CHP'li Özgür Özel: 'Erdoğan'ı en çıldırtacak adayı açıklayacağız'|website=CNN Türk|accessdate=15 May 2018}}</ref> On 4 May, [[Yalova (electoral district)|Yalova]] MP Muharrem İnce was declared the party's candidate.<ref>{{cite web|url=https://www.amerikaninsesi.com/a/chp-cumhurbaskani-muharrem-ince-partili-olmayacagim/4377316.html|title=CHP Cumhurbaşkanı Adayı Muharrem İnce: 'Partili Olmayacağım'|first=Yıldız|last=Yazıcıoğlu|publisher=}}</ref>
+
+====Peoples' Democratic Party (HDP)====
+[[File:HDP meeting 2018.jpg|thumb|HDP co-leader [[Sezai Temelli]] meeting party activists in [[Diyarbakır]] on 30 April to gauge views on their presidential candidate]]
+{{main|2018 Turkish presidential election candidate nominations#Peoples' Democratic Party (HDP)}}
+The HDP nominated [[Selahattin Demirtaş]], their former leader who was also the HDP's candidate in [[Turkish presidential election, 2014|2014]], on 4 May.<ref>{{cite web|url=http://www.trthaber.com/haber/gundem/hdpnin-cumhurbaskani-adayi-selahattin-demirtas-oldu-363927.html|title=HDP'nin Cumhurbaşkanı adayı Selahattin Demirtaş oldu|publisher=}}</ref> It was reported that the party executive had broadly agreed on Demirtaş earlier, raising concern that his preventative detention since 2016 could potentially bar him from running. Originally due in court on 11 April, Demirtaş's trial for charges of 'spreading terrorist propaganda' was delayed to 30 April, and then again to 8 June.<ref>http://www.dw.com/tr/demirtaşın-duruşması-8-hazirana-ertelendi/a-43597817</ref> His candidacy was announced as a part of a 'broad coalition of Kurdish and left-wing parties'.<ref>{{cite web|url=http://www.hurriyet.com.tr/gundem/hdp-resmen-acikladi-demirtas-aday-40826599|title=HDP resmen açıkladı: Demirtaş aday|publisher=}}</ref> His lawyers and HDP officials claimed that his detention wouldn't affect his candidacy.<ref>{{cite web|url=https://tr.sputniknews.com/turkiye/201804301033237228-hdp-demirtas-cumhurbaskani-aday/|title=HDP'li yetkililer: Demirtaş, ceza çıksa da çıkmasa da aday olacak|first=|last=Sputnik|website=tr.sputniknews.com}}</ref> In his first message after announcing his candidacy, he called on his supporters to be his 'hands and arms' during the campaign.<ref>http://www.dw.com/tr/hdpnin-adayı-demirtaştan-ilk-mesaj/a-43660186</ref>
+====İYİ Party====
+[[File:Meral Akşener İYİ Party 2.jpg|thumb|[[Meral Akşener]] announcing her presidential ambitions during the establishment of the [[İyi Party]] on 25 October 2017]]
+{{main|2018 Turkish presidential election candidate nominations#İYİ Party}}
+Upon announcing the [[İYİ Party]]'s establishment on 25 October 2017, party leader [[Meral Akşener]] announced that she would be a candidate in the presidential election.<ref>{{cite web|url=https://www.ntv.com.tr/turkiye/meral-aksener-benim-cumhurbaskani-olmami-istiyorlar-iyi-parti-kuruldu,hz54g-JF8kCjBtWSCg6wIA|title=Meral Akşener "İyi Parti"nin kuruluşunda konuştu|date=25 October 2017|publisher=}}</ref> She reaffirmed her candidacy on 18 April 2018, shortly after the election was called.<ref>{{cite web|url=https://www.milligazete.com.tr/haber/1532500/erken-secim-karari-sonrasi-meral-aksenerden-flas-aciklama|title=Erken seçim kararı sonrası Meral Akşener'den flaş açıklama|publisher=}}</ref> The party subsequently received pressure from the CHP and the [[Felicity Party]] (SP) to enter a joint alliance and support a cross-party candidate, with the SP supporting [[Abdullah Gül]].<ref>{{cite web|url=https://tr.sputniknews.com/turkiye/201804251033171340-iyi-parti-koray-aydin-aksener-gul-cati-aday/|title=İYİ Parti: Çatı aday istemiyoruz, CHP ve SP Abdullah Gül ile çıkabilir|first=|last=Sputnik|website=tr.sputniknews.com}}</ref> Akşener refused to withdraw her candidacy, with the party's General Administration Council voting unanimously to nominate her as their party candidate on 24 April 2018.<ref>{{cite web|url=https://www.haberler.com/dha-ankara-iyi-parti-nin-cumhurbaskani-adayi-10786442-haberi/|title=İyi Parti Genel İdare Kurulu Kararını Verdi: Cumhurbaşkanı Adayı Akşener|publisher=}}</ref>
+====Felicity Party (SP)====
+[[File:CHP and SP leader meeting.jpg|thumb|SP leader [[Temel Karamollaoğlu]] and CHP leader [[Kemal Kılıçdaroğlu]] meet to discuss a joint candidate on 23 April 2018]]
+{{main|2018 Turkish presidential election candidate nominations#Felicity Party (SP)}}
+In the run-up to the election, SP leader [[Temel Karamollaoğlu]] managed to carry his party to the mainstream media following a number of speeches where he heavily criticised the government. This led to the SP being regarded as a potential kingmaker in future alliances, causing several larger parties to approach Karamollaoğlu in a bid to field a joint candidate. Although this led to the [[Nation Alliance (Turkey)|Nation Alliance]] being established between the SP, CHP and the İYİ Party, no consensus was reached on a joint presidential candidate and each party decided to nominate their own. The SP polled their members on four potential candidates, namely Karamollaoğlu, [[Abdullah Gül]], [[Haşim Kılıç]] and [[Abdüllatif Şener]]. Karamollaoğlu was announced as the party's candidate on 1 May.<ref>{{cite web|url=https://www.ntv.com.tr/turkiye/saadet-partisinin-cumhurbaskani-adayitemel-karamollaoglu,c18V84kgZkuvmcbMitAaeA|title=Saadet Partisi'nin Cumhurbaşkanı adayı&nbsp;Temel Karamollaoğlu oldu|date=2 May 2018|publisher=|accessdate=15 May 2018}}</ref>
+====Others====
+{{main|2018 Turkish presidential election candidate nominations#Others}}
+The left-wing [[Patriotic Party (Turkey)|Patriotic Party]] declared their leader [[Doğu Perinçek]] as their candidate. As part of a triple alliance of small centre-right parties consisting of the [[Motherland Party (Turkey)|Motherland Party]] (ANAP), the [[True Path Party (2007)|True Path Party]] (DYP) and the [[Justice Party (2015)|Justice Party]] (AP), the AP's leader [[Vecdet Öz]] was nominated as a joint candidate. As [[Independent (politician)|independents]], journalist [[Levent Gültekin]] and [[Tuna Bekleviç]] declared their intentions to run.{{cn|date=June 2018}}
+
+===Nominations===
+[[File:Meral Akşener signature 2018.png||thumb|[[İYİ Party]] candidate [[Meral Akşener]] signs for her own nomination, 4 May 2018]]
+[[File:Turkish presidential election 2018 nomination signatures.png|thumb|Signatures received by each candidate between 4 and 9 May 2018]]
+The [[Constitution of Turkey]], amended following the controversial [[Turkish constitutional referendum, 2017|2017 constitutional referendum]], allows any party with a parliamentary group (at least 20 MPs) to nominate a presidential candidate. This meant that the AK Party, CHP, HDP, MHP and technically the [[İYİ Party]] were eligible to automatically nominate candidates through parliament. [[Meral Akşener]], the İYİ Party's leader and presidential candidate, opted to be nominated through signatures instead. The MHP, as part of the [[People's Alliance (Turkey)|People's Alliance]], did not field a candidate and announced support for the AK Party's candidate [[Recep Tayyip Erdoğan]]. The CHP formally nominated [[Muharrem İnce]] and the HDP nominated [[Selahattin Demirtaş]]. The remaining candidates were required to collect at least 100,000 signatures.
+
+Voters were able to give signatures to their preferred presidential candidate between 4 May and 9 May at their local electoral council branch. They were only permitted to nominate one candidate. The number of signatures needed to formally become a candidate was 100,000. Seven candidates applied to the YSK to seek nomination by signatures, with three applications being rejected due to insufficient paperwork. As a result, the remaining four successful applicants were as follows.
+
+*'''[[Meral Akşener]]''', Leader of the [[İYİ Party]]
+*'''[[Temel Karamollaoğlu]]''', Leader of the [[Felicity Party]]
+*'''[[Doğu Perinçek]]''', Leader of the [[Patriotic Party (Turkey)|Patriotic Party]]
+*'''[[Vecdet Öz]]''', Leader of the [[Justice Party (2015)|Justice Party]]
+
+Voters abroad were not eligible to give signatures, prompting Perinçek to appeal to the [[Constitutional Court of Turkey|Constitutional Court]], arguing that the YSK had violated the rights of Turkish citizens abroad. Overseas citizens were, however, allowed to send a signed declaration by post to their local electoral council in Turkey. Only 72 overseas citizens did so, with 17 signing for Akşener, 18 signing for Karamollaoğlu, 35 signing for Perinçek and no signatures for Öz.<Ref>{{cite web|url=https://www.gercekgundem.com/siyaset/13889/aksener-rekora-kosuyor-perincekin-imza-sayisinda-artis|title=5. günün sonunda son durum! Perinçek...|publisher=|accessdate=15 May 2018}}</ref>
+
+{| class=wikitable style="font-size:90%;"
+
+|-
+
+!rowspan="2" colspan="2"|Party
+
+!rowspan="2"|Candidate
+
+! colspan="6"|Daily signatures
+
+!rowspan="2"| Result
+
+|-
+
+!width="90px"| 4 May<ref>{{cite web|url=http://www.bingolnet.com/2018/05/04/100-bin-imzada-ilk-gun-atilan-imza-sayilari-belli-oldu/|title=100 Bin İmzada İlk Gün Atılan İmza Sayıları Belli Oldu - Bingöl Net - Bingöl Haberleri - Bingöl Son Dakika|date=4 May 2018|publisher=|accessdate=7 May 2018}}</ref>
+
+!width="90px"| 5 May<ref>{{cite web|url=http://ipahaber.com/2018/05/06/100-bin-imzada-hangi-aday-kac-imza-topladi/|title=100 bin imzada hangi aday kaç imza topladı?|date=6 May 2018|publisher=|accessdate=7 May 2018}}</ref>
+
+!width="90px"| 6 May<ref>{{cite web|url=https://www.sozcu.com.tr/2018/gundem/meral-aksener-iki-yuz-bin-imzaya-ulasti-2391250/|title=Meral Akşener iki yüz bin imzaya ulaştı|publisher=|accessdate=7 May 2018}}</ref>
+
+!width="90px"| 7 May<ref>{{cite web|url=https://www.sozcu.com.tr/2018/gundem/cumhurbaslanligi-adaylari-icin-imza-verme-isleminde-4-gun-sona-erdi-2393142/|title=Cumhurbaşlanlığı adayları için imza verme işleminde 4. gün sona erdi|publisher=|accessdate=7 May 2018}}</ref>
+
+!width="90px"| 8 May<ref>{{cite web|url=https://www.sozcu.com.tr/2018/gundem/dogu-perincek-imza-sayisi-80-bin-kadar-2395273/|title=Cumhurbaşkanlığı adayları için imza verme işleminde son gün|publisher=|accessdate=15 May 2018}}</ref>
+
+!width="90px"| 9 May<ref>{{cite web|url=http://www.cumhuriyet.com.tr/haber/siyaset/971703/100_bin_imza_sureci_sona_erdi__iste_son_durum.html|title=100 bin imza süreci sona erdi… İşte son durum|publisher=Cumhuriyegt|accessdate=9 May 2018}}</ref>
+
+|-
+
+|style="background: {{İYİ Party/meta/color}}"| || '''[[İYİ Party|İYİ]]''' || [[Meral Akşener]] || style="background: #DEFDE6" |{{right|{{aye}} '''127,850'''}} ||style="background: #DEFDE6" |{{right|173,569}} ||style="background: #DEFDE6" | {{right|207,142}} ||style="background: #DEFDE6" | {{right|232,744}} ||style="background: #DEFDE6" | {{right|246,684}}
+
+| style="background: #DEFDE6" | {{right|255,582}} ||style="background: #DEFDE6" | {{center|{{aye}} '''Nominated'''}}
+
+|-
+
+|style="background: {{Felicity Party/meta/color}}"| || '''[[Felicity Party|SP]]''' || [[Temel Karamollaoğlu]]
+
+||{{right|44,959}}||{{right|95,168}}|| style="background: #DEFDE6" |{{right|{{aye}} '''135,945'''}} || style="background: #DEFDE6" | {{right|150,134}}||style="background: #DEFDE6" | {{right|160,680}}
+
+| style="background: #DEFDE6" | {{right|167,967}} || style="background: #DEFDE6" | {{center|{{aye}} '''Nominated'''}}
+
+|-
+
+|style="background: {{Patriotic Party (Turkey)/meta/color}}"| || '''[[Patriotic Party (Turkey)|VATAN]]''' || [[Doğu Perinçek]]
+
+||{{right|14,555}}||{{right|26,845}}||{{right|45,026}}||{{right|65,433}}||{{right|93,919}}|| style="background: #DEFDE6" | {{right|{{aye}} '''118,575'''}} || style="background: #DEFDE6" | {{center|{{aye}} '''Nominated'''}}
+
+|-
+
+|style="background: {{Justice Party (Turkey)/meta/color}}"| || '''[[Justice Party (Turkey, 2015)|AP]]''' || [[Vecdet Öz]]
+
+||{{right|231}}||{{right|706}}||{{right|1,256}}||{{right|2,015}}||{{right|2,505}}|| {{right|3,030}} || style="background: #FF9595" | {{center|{{nay}} '''Not nominated'''}}
+
+|-
+
+! colspan=3|Totals !!{{right|187,595}}!!{{right|296,288}}!!{{right|389,369}}!!{{right|450,426}}!!{{right|503,788}}!!{{right|545,154}}!!
+
+|-
+
+
+
+|}
+
+==Campaign==
+
+===Erdoğan campaign===
+{{Main article|Recep Tayyip Erdoğan presidential campaign, 2018}}
+[[Recep Tayyip Erdoğan]], incumbent [[President of Turkey]] since 2014, was officially nominated as the presidential candidate of the [[Justice and Development Party (Turkey)|Justice and Development Party]] (AKP) on 3 May 2018.<ref>{{cite web|title=AKP formally nominates Erdoğan for presidential election|url=http://www.hurriyetdailynews.com/akp-formally-nominates-erdogan-for-presidential-election-131254|website=Hürriyet Daily News|accessdate=4 May 2018}}</ref> Shortly thereafter, the nominally oppositional [[Nationalist Movement Party]] (MHP) reiterated that it would endorse Erdoğan's candidacy, and would jointly apply to the electoral commission for its formal registration.<ref>{{cite web|title=AKP, MHP jointly apply to election board for Erdoğan's presidential bid|url=http://www.hurriyetdailynews.com/akp-mhp-jointly-apply-to-election-board-for-erdogans-presidential-bid-131311|website=Hürriyet Daily News|accessdate=4 May 2018}}</ref> In early May, it was confirmed by Erdoğan that he would be visiting the [[Bosnia]]n capital of [[Sarajevo]] in the early stages of the campaign, most likely on 20 May 2018, and hold campaign rallies with the [[Turks in Bosnia and Herzegovina|Bosnian Turks]] to drum up support for his re-election bid.<ref>{{cite web|title=Erdogan's Bosnia Rally May Be Key Game-Changer|url=http://www.balkaninsight.com/en/article/erdogan-s-bosnia-rally-may-be-key-game-changer-05-04-2018|website=Balkan Insight|accessdate=4 May 2018}}</ref>
+
+===İnce campaign===
+[[File:CHP 2018 manifesto launch 1.jpg|thumb|[[Muharrem İnce]] at the [[Republican People's Party (Turkey)|CHP]] manifesto launch, 26 May]]
+{{Main article|Muharrem İnce presidential campaign, 2018}}
+[[Muharrem İnce]], a [[member of parliament]] for [[Yalova]], was announced as the presidential candidate of the [[Republican People's Party (Turkey)|Republican People's Party]] (CHP) on 3 May 2018.<ref name="auto"/> On the following day, 4 May, party leader [[Kemal Kilicdaroglu]] formally proclaimed the CHP's support for İnce.<ref name="auto1"/> Shortly thereafter, the CHP began preparations for the campaign season, launching the production of campaign material and merchandise. It was revealed in early May that İnce's campaign would adopt the slogan "''Türkiye'ye güvence Muharrem İnce''", roughly translating to "Muharrem İnce, an assurance to Turkey",<ref>{{cite web|title=İşte Muharrem İnce'nin afişi ve sloganı|url=http://www.cumhuriyet.com.tr/haber/siyaset/968571/iste_Muharrem_ince_nin_afisi_ve_slogani.html|website=Cumhuriyet|accessdate=4 May 2018}}</ref> and that it would be kicked off with an election rally in his home city of [[Yalova]] on 5 May.<ref>{{cite web|title=CHP presidential candidate İnce vows to be 'everyone's president'|url=http://www.hurriyetdailynews.com/chp-presidential-candidate-ince-vows-to-be-everyones-president-131298|website=Hürriyet Daily News|accessdate=4 May 2018}}</ref>
+
+===Demirtaş campaign===
+[[File:Selahattin Demirtaş 2018 campaign launch.jpg|thumb|Selahattin Demirtaş's campaign being launched outside [[Edirne]] prison where he is incarcerated, 25 May]]
+{{Main article|Selahattin Demirtaş presidential campaign, 2018}}
+[[Selahattin Demirtaş]] was officially announced as the candidate of the [[Peoples' Democratic Party (Turkey)|People's Democratic Party]] (HDP) on 4 May 2018, after members of the party had hinted at his candidacy weeks in advance.<ref>{{cite web|title=HDP'li yetkililer: Demirtaş, ceza çıksa da çıkmasa da aday olacak|url=https://tr.sputniknews.com/turkiye/201804301033237228-hdp-demirtas-cumhurbaskani-aday/|website=Sputnik News|accessdate=4 May 2018}}</ref> Party leader [[Pervin Buldan]] declared that Demirtaş, a jailed former co-chair of the HDP, would be leading a five-party "Kurdish alliance" into the general election.<ref>{{cite web|title=HDP nominates imprisoned former leader Demirtaş for presidency|url=http://www.hurriyetdailynews.com/hdp-nominates-imprisoned-former-leader-demirtas-for-presidency-131350|website=Hürriyet Daily News|accessdate=4 May 2018}}</ref>
+
+===Akşener campaign===
+{{Main article|Meral Akşener presidential campaign, 2018}}
+[[Meral Akşener]] was nominated as the candidate of the [[İyi Party]] on 4 May 2018, after she had succesfully collected the 100,000 signatures required for minor party candidates to gain ballot access. Reportedly, she passed this threshold less than four hours after having launched her signature collection campaign.<ref>{{cite web|title=Akşener collects 100,000 signatures in 4 hours to become presidential candidate|url=https://www.turkishminute.com/2018/05/04/aksener-collects-100000-signatures-in-4-hours-to-become-presidential-candidate/|website=Turkish Minute|accessdate=4 May 2018}}</ref>
+
+===Karamollaoğlu campaign===
+[[File:Temel Karamollaoğlu presidential campaign.jpg|thumb|Temel Karamollaoğlu beginning his campaign on 1 May]]
+{{Main article|Temel Karamollaoğlu presidential campaign, 2018}}
+[[Temel Karamollaoğlu]] was nominated as the candidate of the Felicity Party (SP) on 6 May 2018, after he had succesfully collected the 100,000 signatures required for minor party candidates to gain ballot access. Karamollaoğlu's campaign adopted the slogan "''Türkiye'ye bilge başkan''" ("A wise leader for Turkey").
+
+=== Perinçek campaign ===
+{{Main article|Doğu Perinçek presidential campaign, 2018}}
+[[Doğu Perinçek]] was nominated as the candidate of the [[Patriotic Party (Turkey)|VATAN]] Party on 9 May 2018, after he had successfully collected the 100,000 signatures required for minor party candidates to gain ballot access.<ref>{{cite web|url=https://www.aydinlik.com.tr/baraj-yikildi-dogu-perincek-100-bini-asti-politika-mayis-2018-11|title=Baraj yıkıldı: Doğu Perinçek 100 bini aştı! - Aydınlık|first=Aydınlık|last=Gazetesi|publisher=}}</ref>
+
+==Endorsements==
+===Parties===
+{|class="wikitable" style="text-align:left; font-size:90%; line-height:20px;"
+|-
+!colspan="2"|Candidate
+!colspan="3"|Endorsement
+!Ideology
+|-
+!rowspan=6 style="background:#fdc400; width:2px;"|
+|rowspan=6 align="center"|{{centre|'''[[Recep Tayyip Erdoğan|Erdoğan]]'''<br>{{small|[[Justice and Development Party (Turkey)|AK Party]]}}}}
+|-
+|style="background:{{Nationalist Movement Party/meta/color}}; width:2px;"|
+|{{centre|'''MHP'''}}
+|[[Nationalist Movement Party]]
+|[[Turkish nationalism]]
+|-
+|style="background:{{Great Union Party/meta/color}}; width:2px;"|
+|{{centre|'''BBP'''}}
+|[[Great Unity Party]]
+|[[Sunni Islam|Sunni]] [[Islamism]]
+|-
+|style="background:#009900; width:2px;"|
+|{{centre|'''HÜDAPAR'''}}
+|[[Free Cause Party]]<Ref>{{http://bianet.org/english/politics/197609-fundamentalist-islamist-party-huda-par-to-support-erdogan</ref>
+|[[Pan-Islamism]]
+|-
+|style="background:{{Motherland Party (Turkey)/meta/color}}; width:2px;"|
+|{{centre|'''ANAP'''}}
+|[[Motherland Party (Turkey)|Motherland Party]]<Ref>{{cite web|url=https://www.dirilispostasi.com/2018-cumhurbaskanligi-ve-genel-secimi/anaptan-cumhur-ittifakina-destek-karari-5afd45d08ca780440d15e982|title=ANAP'tan Cumhur İttifakı'na destek kararı|first=Diriliş|last=Postası|date=17 May 2018|website=Diriliş Postası}}</ref>
+|[[Social conservatism]]
+|-
+|style="background:#000000; width:2px;"|
+|{{centre|'''ASP'''}}
+|[[AS Party]]<Ref>{{cite web|url=http://www.mynet.com/haber/secim/as-parti-den-cumhur-ittifaki-na-destek-4130744-1|title=AS Parti'den Cumhur İttifakı'na destek!|first=|last=Mynet|publisher=}}</ref>
+|[[Turkish Armed Forces|Pro-military]]
+|-
+!colspan=7|
+|-
+!rowspan=10 style="background:#d40000; width:2px;"|
+|rowspan=10 align="center"|{{centre|'''[[Muharrem İnce|İnce]]'''<br>{{small|[[Republican People's Party (Turkey)|CHP]]}}}}
+|style="background:#009900; width:2px;"|
+|{{centre|'''YURT-P'''}}
+|[[Homeland Party (Turkey)|Homeland Party]]<ref>{{cite web|url=https://odatv.com/sadettin-tantan-kimi-destekliyor-08061800.html|title=Sadettin Tantan kimi destekliyor|publisher=|accessdate=24 June 2018}}</ref>
+|[[Turkish nationalism]]
+|-
+|style="background:#9B60A6; width:2px;"|
+|{{centre|'''TİYAP'''}}
+|Undeployed and Pensioner's Party of Turkey<ref name="auto2">{{cite web|url=http://www.mynet.com/haber/secim/9-siyasi-partiden-muharrem-ince-ye-destek-4216348-1|title=9 siyasi partiden Muharrem İnce'ye destek|first=|last=Mynet|publisher=|accessdate=24 June 2018}}</ref>
+|[[Social democracy]]
+|-
+|style="background:#DE2CC0; width:2px;"|
+|{{centre|'''KP'''}}
+|[[Women's Party (Turkey)|Women's Party]]<ref name="auto2"/>
+|[[Feminism]]
+|-
+|style="background:#e30000; width:2px;"|
+|{{centre|'''EYP'''}}
+|Unhindered Life Party<ref name="auto2"/>
+|[[Disability rights movement|Disability rights]]
+|-
+|style="background:#d20000; width:2px;"|
+|{{centre|'''BTP'''}}
+|Great Turkey Party<ref name="auto2"/>
+|[[Democratic socialism]]
+|-
+|style="background:#BA2F2F; width:2px;"|
+|{{centre|'''MMP'''}}
+|[[National Struggle Party]]<ref name="auto2"/>
+|[[Turkish nationalism]]
+|-
+|style="background:#0099cc; width:2px;"|
+|{{centre|'''MHHP'''}}
+|Defense of Rights Movement Party<ref name="auto2"/>
+|[[Kemalism]]
+|-
+|style="background:#D42424; width:2px;"|
+|{{centre|'''TBP'''}}
+|Unity Party of Turkey<ref name="auto2"/>
+|[[Kemalism]]
+|-
+|style="background:#D20000; width:2px;"|
+|{{centre|'''TBP'''}}
+|United Turkey Party<ref name="auto2"/>
+|[[Turkish nationalism]]
+|-
+|style="background:#E6B94F; width:2px;"|
+|{{centre|'''GAP'''}}
+|Young Anatolia Party<ref name="auto2"/>
+|[[National conservatism]]
+|-
+!colspan=9|
+|-
+!rowspan=9 style="background:{{Peoples' Democratic Party (Turkey)/meta/color}}; width:2px;"|
+|rowspan=9 align="center" | {{centre|'''[[Selahattin Demirtaş|Demirtaş]]'''<br>{{small|[[Peoples' Democratic Party (Turkey)|HDP]]}}}}
+|style="background:#007C0C; width:2px;"|
+|{{centre|'''DBP'''}}
+|[[Democratic Regions Party]]<ref name="rudaw.net">{{cite web|url=http://www.rudaw.net/turkish/kurdistan/270420185|title=PSK ile ÖSP’den Demirtaş’a destek|publisher=|accessdate=24 June 2018}}</ref>
+|[[Kurdish nationalism]]
+|-
+|style="background:{{Freedom and Solidarity Party/meta/color}}; width:2px;"|
+|{{centre|'''ÖDP'''}}
+|[[Freedom and Solidarity Party]]<ref name="rudaw.net"/>
+|[[Libertarian socialism]]
+|-
+|style="background:#000000; width:2px;"|
+|{{centre|'''ÖSP'''}}
+|[[Freedom and Socialism Party]]<ref name="rudaw.net"/>
+|[[Marxism]]
+|-
+|style="background:#d40000; width:2px;"|
+|{{centre|'''EMEP'''}}
+|[[Labour Party (Turkey)|Labour Party]]<ref>{{cite web|url=https://www.evrensel.net/haber/351642/emep-secimde-selahattin-demirtasi-ve-hdpyi-destekleyecegiz|title=EMEP: Seçimde Selahattin Demirtaş’ı ve HDP'yi destekleyeceğiz - Evrensel.net|publisher=}}</ref>
+|[[Communism]]
+|-
+|style="background:#009900; width:2px;"|
+|{{centre|'''PSK'''}}
+|Kurdistan Socialist Party<ref name="rudaw.net"/>
+|[[Kurdish nationalism]]
+|-
+|style="background:#009900; width:2px;"|
+|{{centre|'''PAK'''}}
+|Kurdistan Freedom Party<ref name="kurdistan24" >{{cite news|title=4 Partiyên tifaqa Kurdistanê: Dengê me ji Demîrtaş re ye|url=http://www.kurdistan24.net/ku/news/f23c38c6-e6bb-437d-9582-601b5e679815|accessdate=13 June 2018}}</ref>
+|[[Kurdish nationalism]]
+|-
+|style="background:#FFFF00; width:2px;"|
+|{{centre|'''KDP-T'''}}
+|[[Kurdistan Democratic Party/North]]<ref name="kurdistan24" />
+|[[Kurdish nationalism]]
+|-
+|style="background:#0099cc; width:2px;"|
+|{{centre|'''ESP'''}}
+|[[Socialist Party of the Oppressed]]<ref name="bianet.org">{{cite web|url=https://m.bianet.org/bianet/siyaset/196837-hdp-nin-adayi-selahattin-demirtas|title=HDP'nin Adayı Selahattin Demirtaş|publisher=}}</ref>
+|[[Communism]]
+|-
+|style="background:#ff0000; width:2px;"|
+|{{centre|'''EHP'''}}
+|[[Labourist Movement Party]]<ref name="bianet.org"/>
+|[[Communism]]
+|-
+!colspan=7|
+|-
+|rowspan=2 style="background:{{İYİ Party/meta/color}}; width:2px;"|
+|rowspan=2 align="center"|{{centre|'''[[Meral Akşener|Akşener]]'''<br>{{small|[[İYİ Party|İYİ]]}}}}
+|style="background:#e30000; width:2px;"|
+|{{centre|'''DP'''}}
+|[[Democratic Party (Turkey, current)|Democratic Party]]
+|[[Liberal conservatism]]
+|-
+|style="background:#a4a4a4; width:2px;"|
+|{{centre|'''DYP'''}}
+|[[True Path Party (2007)|True Path Party]] ([[Muğla]] branch)<Ref>{{cite web|url=http://www.hamlegazetesi.com.tr/dypden-iyi-partiye-destek-karari/|title=DYP’den İYİ Partiye destek kararı|website=www.hamlegazetesi.com.tr}}</ref>
+|[[Liberal conservatism]]
+|-
+!colspan=7|
+|-
+|rowspan=1 style="background:{{Patriotic Party (Turkey)/meta/color}}; width:2px;"|
+|rowspan=1 align="center"|{{centre|'''[[Doğu Perinçek|Perinçek]]'''<br>{{small|[[Patriotic Party (Turkey)|Patriotic]]}}}}
+|style="background:#000000; width:2px;"|
+|{{centre|'''HEPAR'''}}
+|[[Rights and Equality Party]]
+|[[Turkish nationalism]]
+|}
+
+===NGOs and unions===
+==Controversies==
+===State of emergency===
+{{seealso|2016 Turkish coup d'état attempt}}
+On 20 July 2016, five days after an attempted coup, the government declared a [[state of emergency]] ''(Turkish: Olağanüstü Hal, OHAL)'', allowing ministers to rule the country by decree, bypassing parliament and limiting certain civil freedoms. The government have frequently been criticised for violating the constitutional limits of a state of emergency, using it as an excuse for governing without any political opposition. Since 2016, the state of emergency has been extended for the sixth time, with parliament voting to extend it by a further three months on 18 January 2018.<ref>{{cite web|url=http://www.hurriyet.com.tr/gundem/son-dakika-ohal-6nci-kez-uzatildi-40714575|title=Son dakika: OHAL 6'ncı kez uzatıldı|publisher=|accessdate=15 May 2018}}</ref> The extension led to speculation that the election would occur under state of emergency conditions, similar to the controversial [[Turkish constitutional referendum, 2017|2017 constitutional referendum]].{{cn|date=June 2018}}
+
+[[Heather Nauert]], the [[Spokesperson for the United States Department of State]] and acting [[Under Secretary of State for Public Diplomacy and Public Affairs]], issued a statement on 20 April citing 'concern' for whether free and fair elections would be possible under a state of emergency.<ref>{{cite web|url=http://www.posta.com.tr/abd-den-erken-secim-aciklamasi-endiseliyiz-haberi-1407945|title=ABD'den 'erken seçim' açıklaması: Endişeliyiz|publisher=|accessdate=15 May 2018}}</ref> On 24 April, the [[Parliamentary Assembly of the Council of Europe]] (PACE) issued a statement calling for the elections to be delayed, declaring that they would not meet European standards or be held in a democratic manner.<ref>{{cite web|url=https://tr.sputniknews.com/avrupa/201804241033158618-avrupa-turkiye-secim-erteleme-cagrisi/|title=Avrupa'dan Türkiye'ye 'seçimleri erteleyin' çağrısı|website=tr.sputniknews.com|accessdate=15 May 2018}}</ref> [[Prince Zeid bin Ra'ad]], the [[United Nations]] [[Office of the United Nations High Commissioner for Human Rights|High Commissioner for Human Rights]], also issued a statement calling for the state of emergency to end in order to guarantee credible elections.<ref>{{cite web|url=https://www.reuters.com/article/us-turkey-election-un/u-n-rights-chief-urges-turkey-to-end-state-of-emergency-before-vote-idUSKBN1IA11P|title=U.N. rights chief urges Turkey to end state of emergency before vote|publisher=Reuters|accessdate=15 May 2018}}</ref>
+
+The calls to end the state of emergency were criticised by the Turkish government and loyal members of parliament, who called the PACE declaration 'politicised, unfair, unjust and beyond the limits'.<ref>{{cite web|url=https://tr.sputniknews.com/turkiye/201804251033184585-akpm-erken-secim-erteleyin-cagrisi-ak-parti-mhp-tepki/|title=AKPM'nin 'seçimi erteleyin' çağrısına AK Parti ve MHP'den tepki: Siyasi, haksız, yersiz ve hadsiz karar|website=tr.sputniknews.com|accessdate=15 May 2018}}</ref> Prime minister [[Binali Yıldırım]] criticised PACE for being 'non-credible' due to it having invited [[Democratic Union Party (Syria)|Democratic Union Party]] (PYD) chairman [[Salih Muslim]], who is regarded as a terrorist leader by Turkey, to give a speech.<ref>{{cite web|url=https://tr.sputniknews.com/turkiye/201804241033164363-yildirim-akpm-terorist/|title=Yıldırım: AKPM seçimler ertelensin diyeceğine terörist başını getirip konuşturmasın|first=|last=Sputnik|website=tr.sputniknews.com|accessdate=15 May 2018}}</ref> The [[Ministry of Foreign Affairs (Turkey)|Ministry of Foreign Affairs]] declared Nauert's statements about a forthcoming election 'unacceptable'.<ref>{{cite web|url=http://www.haberturk.com/son-dakika-abd-ye-ohal-de-secim-yaniti-1928853|title=ABD'ye|publisher=|accessdate=15 May 2018}}</ref>
+
+===Media censorship===
+Following his nomination as the CHP's presidential candidate on 4 May, [[Muharrem İnce]] began his campaign with a rally in his hometown of [[Yalova]]. It was noted that only pro-opposition TV channels such as [[Halk TV]] were covering the event, with the state broadcaster [[Turkish Radio and Television Corporation|TRT]] notably absent. In his next rally at [[Balıkesir]], İnce declared that if TRT were to continue not broadcasting opposition campaigns, he would march to the TRT headquarters with the CHP's 130 MPs and conduct his next rally in front of them.<ref>{{cite web|url=http://www.diken.com.tr/inceden-yalovadaki-mitingi-gormeyen-trtye-bu-son-uyarim-trt-80-milyonundur/|title=İnce'den Yalova'daki mitingi 'görmeyen' TRT'ye: Bu son uyarım, TRT 80 milyonundur - Diken|date=5 May 2018|publisher=|accessdate=15 May 2018}}</ref>
+
+A similar situation was observed during the [[İYİ Party]]'s first extraordinary congress on 1 April, which was only covered by Halk TV. In response, party leader [[Meral Akşener]] claimed that she had not embarked on her campaign with any expectations from 'the government's media'.<ref>{{cite web|url=http://www.yenicaggazetesi.com.tr/iyi-parti-kongresini-hicbir-kanal-yayinlamadi-188512h.htm|title=İYİ Parti kongresini hiçbir kanal yayınlamadı|publisher=|accessdate=15 May 2018}}</ref> The party subsequently sent the TRT photos from the congress, an [[abacus]] and a calculator as a 'present', so that they could count how many people attended the event.<ref>{{cite web|url=http://www.yenicaggazetesi.com.tr/iyi-partiden-trtye-ozel-hediye-paketi-188928h.htm|title=İYİ Parti'den TRT'ye özel hediye paketi!|publisher=|accessdate=15 May 2018}}</ref>
+
+===Election violence===
+[[File:Temel Karamollaoğlu hospital visit.jpg|thumb|[[Felicity Party]] leader and candidate [[Temel Karamollaoğlu]] visits injured MP candidate Mehmet Fethi Öztürk in hospital, 26 May 2018]]
+On 7 May, a group armed with knives and clubs consisting of allegedly 50 to 60 people approached an [[İYİ Party]] election stand in [[Bağcılar]], [[İstanbul]], wounding 8 people with one in critical condition.<ref>{{cite web|url=http://www.diken.com.tr/iyi-parti-saldirisinda-tutuklanan-iki-kisi-mhp-standini-kapatiyorduk-bir-anda-oldu/|title='İYİ Parti saldırısı'nda tutuklanan iki kişi: MHP standını kapatıyorduk, bir anda oldu - Diken|date=8 May 2018|publisher=|accessdate=15 May 2018}}</ref><Ref>{{cite web|url=https://www.bbc.com/turkce/haberler-turkiye-44026369|title=İstanbul'da İYİ Parti standına bıçaklı saldırı|date=7 May 2018|publisher=|accessdate=15 May 2018|via=www.bbc.com}}</ref> The group allegedly consisted of rival [[Nationalist Movement Party]] (MHP) campaigners, many of which had reportedly been suspended from the party for past violent activity.<Ref>{{cite web|url=http://www.diken.com.tr/iyi-parti-cephesinden-bagcilar-saldirisinin-perde-arkasi-eski-mhpli-sicili-bozuklarin-isi/|title=İYİ Parti cephesinden Bağcılar saldırısının perde arkası: MHP'li 'sicili bozuklar'ın işi - Diken|date=8 May 2018|publisher=|accessdate=15 May 2018}}</ref> A total of 8 people were arrested following the attack, with six being released and two being charged afterwards.<ref>{{cite web|url=https://www.sozcu.com.tr/2018/gundem/iyi-parti-standina-saldiranlar-hakim-karsisinda-2395021/|title=Son dakika haberi… İYİ Parti standına saldıranlar tutuklandı|publisher=|accessdate=15 May 2018}}</ref>
+
+On 8 May, the house of İYİ Party founding member Mehmet Aslan in [[Beykoz]], İstanbul was shot at by unknown assailants. Aslan was not in the building at the time.<ref>{{cite web|url=https://www.sozcu.com.tr/2018/gundem/son-dakika-iyi-parti-kurucusuna-silahli-saldiri-2395840/|title=Son Dakika… İYİ Parti kurucusuna silahlı saldırı|publisher=|accessdate=15 May 2018}}</ref>
+
+On 26 May, a group of [[Felicity Party]] and [[Nationalist Movement Party]] (MHP) activists engaged in a brawl in [[Ankara]] following a dispute over hanging up party flags. Clubs were used by MHP activists, injuring 7 Felicity Party activists with two in serious condition.<ref>{{cite web|url=https://www.sozcu.com.tr/2018/gundem/ankarada-karsit-goruslu-partililer-arasinda-bayrak-kavgasi-2-yarali-2430459/|title=Ankara’da bayrak kavgası: 7 yaralı|publisher=}}</ref> Felicity Party MP candidate for Ankara, Mehmet Fethi Öztürk, was among the two seriously injured. Gunshots were also reported, which were blamed on Öztürk and led to his arrest while in hospital.<Ref>https://www.amerikaninsesi.com/a/hdp-nin-i̇tirazına-rağmen-ysk-sandık-taşıma-kararı-aldı/4411307.html</ref>
+
+===Nomination irregularities===
+The [[Supreme Electoral Council of Turkey]] (YSK) had devised a system to collect signatures for voters to nominate candidates, with the process taking place between 4 and 9 May. On 8 May, [[Patriotic Party (Turkey)|Patriotic Party]] leader [[Doğu Perinçek]], who by that time was close to reaching the 100,000 signatures needed for nomination, criticised the system for irregularities. Perinçek claimed that the system has crashed throughout 8 May, affecting people who wanted to give signatures, criticising the government for incompetence.<Ref>{{cite web|url=https://www.gazeteduvar.com.tr/politika/2018/05/08/perincek-imza-verirken-sistem-coktu/|title='Sistem çökmüştü biz gelince çalıştı'|publisher=|accessdate=15 May 2018}}</ref> The crashes in the system caused doubt about whether Perinçek would reach the required 100,000 signatures by the 9 May deadline.<ref>{{cite web|url=http://www.cumhuriyet.com.tr/haber/turkiye/971027/Perincek_aday_olabilecek_mi__YSK_nin_sistemi_coktu.html|title=Perinçek aday olabilecek mi? YSK'nin sistemi çöktü|publisher=|accessdate=15 May 2018}}</ref> Regardless, Perinçek managed to surpass 100,000 signatures by noon on 9 May.{{cn|date=June 2018}}
+
+=== Leaked speech ===
+During a leaked speech of a private meeting with AKP officials, Erdoğan ordered them to go in a great number as official reprentatives in voting locations to seize control of the ballot boxes, ensuring that the "work there would be finished before it even started". He also ordered them to target HDP voters with the help of AKP local officials who he assured them would be in possession of voters lists to help with their "special work". This would be done in order to prevent HDP crossing the 10% electoral threshold, which would greatly help the AKP and prevent a repeat of the "[[Turkish general election, June 2015|7 June]] experience"<ref name=reactions>{{cite web|url=https://www.voanews.com/a/leaked-erdogan-video-stokes-turkish-vote-rigging-fears/4440931.html|title=Erdogan Stokes Vote-Rigging Fears|first=Dorian|last=Jones|publisher=|accessdate=24 June 2018}}</ref>, when the AKP lost its parliamentary majority in an upset defeat.{{cn|date=June 2018}}
+
+==Opinion polls==
+
+{{main|Opinion polling for the Turkish general election, 2018}}
+
+[[Opinion polls]] have been conducted to gauge voter intentions for the presidential election. Polls have generally shown a clear lead for [[Recep Tayyip Erdoğan]], though with vote totals below his [[Turkish presidential election, 2014|2014 election victory]] where he was elected with 51.8% of the vote outright. Indicating that a second round will most likely take place, the polls indicate that there is competition between [[Muharrem İnce]] and [[Meral Akşener]] over who will proceed to the run-off and face Erdoğan. '''Emboldened''' vote shares indicate percentages above 50%, indicating outright first round victory.
+
+===Graphical summary===
+
+[[File:2018 Turkish presidential election opinion polls (1st round).png|centre|700px]]
+
+===Voting intention===
+
+{|class="wikitable" style="text-align:center; font-size:90%; line-height:20px;"
+
+|-
+
+!rowspan=2 width="110px"|Date
+
+!rowspan=2 width="110px"|Pollster
+
+!rowspan=2 width="50px"|Sample&nbsp;size 
+
+!width=75 |[[Recep Tayyip Erdoğan|Erdoğan]]
+
+!width=75 |[[Muharrem İnce|İnce]]
+
+!width=75 |[[Meral Akşener|Akşener]]
+
+!width=75 |[[Selahattin Demirtaş|Demirtaş]]
+
+!width=75 |[[Temel Karamollaoğlu|Karamollaoğlu]]
+
+!width=75 |[[Doğu Perinçek|Perinçek]]
+
+!width=60 rowspan=2|Lead 1
+
+!width=60 rowspan=2|Lead 2
+
+|-
+
+!style="background: {{Justice and Development Party (Turkey)/meta/color}}"|
+
+!style="background: {{Republican People's Party (Turkey)/meta/color}}"|
+
+!style="background: {{İyi Party/meta/color}}"|
+
+!style="background: {{Peoples' Democratic Party (Turkey)/meta/color}}"|
+
+!style="background: {{Felicity Party/meta/color}}"|
+
+!style="background: {{Patriotic Party (Turkey)/meta/color}}"|
+
+|-
+|16–17 Jun 2018
+|[http://www.cumhuriyet.com.tr/haber/siyaset/1003723/iste_secime_3_gun_kala_yayinlanan_son_anket.html Gezici]
+|1,812
+| style="background: #FFF1C4" |48.2
+| style="background: #FFC2C2" |29.1
+|11.4
+|10.0
+|1.2
+|0.1
+| style="background: #FDC400" |{{fontcolor|white|'''19.1'''}}
+| style="background: #d40000" |{{fontcolor|white|'''17.7'''}}
+|-
+
+|13 Jun 2018
+|[http://www.cumhuriyet.com.tr/foto/foto_galeri/996822/1/iste_son_arastirma__Hangi_ittifak_kac_vekil_cikaracak__il_il_detaylar_ortaya_cikti.html Plus Mayak]
+| –
+| style="background: #FFF1C4" |45.8
+| style="background: #FFC2C2" |28.9
+|13.1
+|10.2
+|1.8
+|0.2
+| style="background: #FDC400" |{{fontcolor|white|'''16.9'''}}
+| style="background: #d40000" |{{fontcolor|white|'''15.8'''}}
+|-
+|13 Jun 2018
+|[https://web.archive.org/web/20180613185952/https://pbs.twimg.com/media/Dfld7r9X0AAi-zl.jpg AKAM]
+|2,460
+| style="background: #FFF1C4" |44.5
+| style="background: #FFC2C2" |29.0
+|14.5
+|9.3
+|2.5
+|0.2
+| style="background: #FDC400" |{{fontcolor|white|'''15.5'''}}
+| style="background: #d40000" |{{fontcolor|white|'''15.5'''}}
+|-
+|6–13 Jun 2018
+|[https://web.archive.org/web/20180613215042/http://www.remres.com.tr/filemanager/files/haziran%202.pdf REMRES]
+|5,674
+| style="background: #FFF1C4" |43.6
+| style="background: #FFC2C2" |29.5
+|12.3
+|11.4
+|3.0
+|0.2
+| style="background: #FDC400" |{{fontcolor|white|'''14.1'''}}
+| style="background: #d40000" |{{fontcolor|white|'''17.2'''}}
+|-
+
+|11 Jun 2018
+|[http://www.cumhuriyet.com.tr/foto/foto_galeri/994404/1/Saray_ittifaki_na_sok.html CHP]
+| –
+| style="background: #FFF1C4" |45.6
+| style="background: #FFC2C2" |32.2
+|8.2
+|10.7
+|3.1
+|0.2
+| style="background: #FDC400" | {{fontcolor|white|'''13.4'''}}
+| style="background: #d40000" | {{fontcolor|white|'''24.0'''}}
+|-
+|8–11 Jun 2018
+|[https://www.birgun.net/haber-detay/mediar-arastirma-dan-secim-anketi-akp-cogunlugu-kaybediyor-219319.html Mediar]
+| 2,410
+| style="background: #FFF1C4" |48.0
+| style="background: #FFC2C2" |29.9
+|9.2
+|10.2
+|2.1
+|0.8
+| style="background: #FDC400" | {{fontcolor|white|'''18.1'''}}
+| style="background: #d40000" | {{fontcolor|white|'''19.7'''}}
+|-
+|{{nowrap|6 Jun 2018}}
+|[https://www.medyasiyaset.com/aytun-ciray-erdogannin-elindeki-anket-sonuclarini-acikladi/ İYİ Party]
+| –
+| style="background: #FFF1C4" |42.0
+| 22.4
+| style="background: #BFE3FF" | 22.7
+|11.0
+|colspan=2 |1.9
+| style="background: #FDC400" | {{fontcolor|white|'''19.3'''}}
+| style="background: {{İyi Party/meta/color}}" | {{fontcolor|white|'''0.3'''}}
+|-
+
+|{{nowrap|1–6 Jun 2018}}
+|[http://www.diken.com.tr/mak-anketi-erdogan-birinci-turda-yuzde-51-5-vekil-dagilimi-hdpye-endeksli/ MAK]
+|5,400
+| style="background: #FFF1C4" |'''51.5'''
+| style="background: #FFC2C2" |24.4
+|12.5
+|8.8
+|2.2
+|0.6
+| style="background: #FDC400" | {{fontcolor|white|'''29.6'''}}
+| style="background: #d40000" | {{fontcolor|white|'''11.9'''}}
+|-
+
+|{{nowrap|29 May–1 June 2018}}
+|[http://www.cumhuriyet.com.tr/foto/foto_galeri/989607/1/iste_son_anket__ince_den_rekor_artis__fark_kapaniyor.html Sonar]
+|3,000
+| style="background: #FFF1C4" |48.3
+| style="background: #FFC2C2" |31.4
+|9.5
+|8.2
+|2.1
+|0.5
+| style="background: #FDC400" | {{fontcolor|white|'''16.9'''}}
+| style="background: #d40000" | {{fontcolor|white|'''21.9'''}}
+|-
+
+|{{nowrap|28 May–1 June 2018}}
+|[http://www.cumhuriyet.com.tr/haber/siyaset/988587/Referandumda_yuzde_60_diyen_AKP_anketcisinin_son_rakamlari.html ORC]
+|3,410
+| style="background: #FFF1C4" |'''53.4'''
+| style="background: #FFC2C2" |23.8
+|11.5
+|8.7
+|2.1
+|0.5
+| style="background: #FDC400" | {{fontcolor|white|'''29.6'''}}
+| style="background: #d40000" | {{fontcolor|white|'''12.3'''}}
+|-
+
+
+|{{nowrap|1–28 May 2018}}
+|[https://odatv.com/referandumu-hatasiz-tahmin-eden-sirketin-son-anketi-ilk-kez-odatvde-03061834.html Konsensus]
+|2,000
+| style="background: #FFF1C4" |47.9
+| style="background: #FFC2C2" |26.8
+|14.8
+|9.7
+|0.7
+|0.1
+| style="background: #FDC400" | {{fontcolor|white|'''21.1'''}}
+| style="background: #d40000" | {{fontcolor|white|'''12.0'''}}
+|-
+
+|{{nowrap|22–23 May 2018}}
+
+|[http://www.yenicaggazetesi.com.tr/anket-sonuclari-aciklandi-aksener-ince-ve-erdoganda-son-durum-2960g.htm Mediar]
+
+|4,268
+
+| style="background: #FFF1C4" |43.5
+
+| style="background: #FFC2C2" |22.2
+
+|19.3
+
+|12.8
+
+|1.6
+
+|0.6
+
+| style="background: #FDC400" | {{fontcolor|white|'''21.3'''}}
+
+| style="background: #d40000" | {{fontcolor|white|'''2.9'''}}
+
+|-
+|{{Nowrap|17–23 May 2018}}
+
+|[https://web.archive.org/web/20180525204615/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%203.pdf REMRES]
+
+|4,276
+
+| style="background: #FFF1C4" |42.2
+
+| style="background: #FFC2C2" |24.6
+
+|16.9
+
+|12.3
+
+|3.8
+
+|0.2
+
+| style="background: #FDC400" | {{fontcolor|white|'''17.6'''}}
+
+| style="background: #d40000" | {{fontcolor|white|'''7.7'''}}
+
+|-
+
+|{{nowrap|13–20 May 2018}}
+
+|[http://www.cumhuriyet.com.tr/haber/ekonomi/980790/MAK_anketine_gore_ulkenin_en_buyuk_sorunu_ve_adaylarin_oy_orani.html MAK]
+
+|5,000
+
+| style="background: #FFF1C4" |'''51.4'''
+
+| style="background: #FFC2C2" |23.9
+
+|12.3
+
+|9.6
+
+|2.2
+
+|0.6
+
+| style="background: #FDC400" | {{fontcolor|white|'''27.5'''}}
+
+| style="background: #d40000" | {{fontcolor|white|'''11.6'''}}
+
+|-
+
+|{{nowrap|7–17 May 2018}}
+
+|[https://www.sozcu.com.tr/2018/gundem/muhalefet-blokunun-oyu-58-2416599/ Sonar]
+
+|3,000
+
+| style="background: #FFF1C4" |42.0
+
+| style="background: #FFC2C2" |21.9
+
+|21.0
+
+|11.0
+
+|2.1
+
+|2.0
+
+| style="background: #FDC400" | {{fontcolor|white|'''20.1'''}}
+
+| style="background: #d40000" | {{fontcolor|white|'''0.9'''}}
+
+|-
+
+|{{nowrap|25 Apr–13 May 2018}}
+
+|[https://web.archive.org/web/20180519160322/http://www.sehrivangazetesi.com/haber-bir-anket-daha-aciklandi-iste-son-anket-sonuclari-50085.html Politic's]
+
+|2,650
+
+| style="background: #FFF1C4" |'''52.2'''
+
+| style="background: #FFC2C2" |25.5
+
+|12.3
+
+|8.5
+
+|1.1
+
+|0.4
+
+| style="background: #FDC400" | {{fontcolor|white|'''26.7'''}}
+
+| style="background: #d40000" | {{fontcolor|white|'''13.2'''}}
+
+|-
+
+|{{nowrap|6–9 May 2018}}
+
+|[https://web.archive.org/web/20180511114929/http://www.remres.com.tr/editor/upload/files/may%C4%B1s%202.pdf REMRES]
+
+|3,653
+
+| style="background: #FFF1C4" |42.1
+
+| style="background: #FFC2C2" |24.1
+
+|17.1
+
+|12.6
+
+|3.9
+
+|0.2
+
+| style="background: #FDC400" | {{fontcolor|white|'''18.0'''}}
+
+| style="background: #d40000" | {{fontcolor|white|'''7.0'''}}
+
+|-
+
+! {{nowrap|'''10 Aug 2014'''}}
+
+! [[Turkish presidential election, 2014|Election]]{{ref label|reference_name_A|a|a}}
+
+! –
+
+! style="background: #FFF1C4" |51.7<br>{{small|([[Recep Tayyip Erdoğan|Erdoğan]])}}
+
+! 38.6<br>{{small|([[Ekmeleddin İhsanoğlu|İhsanoğlu]])}}
+
+! {{NA}}
+
+! 9.8<br>{{small|([[Selahattin Demirtaş|Demirtaş]])}}
+
+! {{NA}}
+
+! {{NA}}
+
+! style="background: #FDC400" |{{fontcolor|white|13.1}}
+
+| style="background: #d40000" | {{fontcolor|white|'''26.8'''}}
+
+|}
+
+==Results==
+{{Turkish presidential election, 2018}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|refs=
+<ref name=Guardian>{{cite web|url=https://www.theguardian.com/world/live/2017/apr/16/turkey-referendum-recep-tayyip-erdogan-votes-presidential-powers |title=Turkey referendum: Erdoğan wins vote amid dispute over ballots – as it happened &#124; World news |publisher=The Guardian |date=16 April 2017 |accessdate=23 October 2017}}</ref>
+<ref name=Hurriyet>{{cite web|title=Erdoğan açıkladı... Erken seçim tarihi belli oldu|url=http://www.hurriyet.com.tr/gundem/erdogandan-erken-secim-icin-son-dakika-aciklamasi-40809175|website=Hürriyet|accessdate=18 April 2018}}</ref>
+<ref name=Sputnik>{{cite web|url=https://tr.sputniknews.com/turkiye/201804251033178197-hdp-cumhurbaskani-adayi-demirtas/|title=HDP'nin cumhurbaşkanı adayı Demirtaş|publisher=tr.sputniknews.com |date=26 April 2018 |accessdate=26 April 2018}}</ref>
+<ref name=ntv>{{Cite news|url=https://www.ntv.com.tr/turkiye/iyi-parti-genel-baskani-aksener-100-bin-imzayla-cumhurbaskani-adayi-olacagim,bDEX_kvnB065HK_Y2E_tnw|title=''100 bin imzayla Cumhurbaşkanı adayı olacağım''|date=18 April 2018|work=NTV|access-date=19 April 2018}}</ref>
+<ref name=cnnturk>{{cite web|url=https://www.cnnturk.com/turkiye/2019daki-cumhurbaskanligi-secimi-icin-ilk-aday-cikti-tuna-beklevic|title=2019'daki cumhurbaşkanlığı seçimi için ilk aday çıktı: Tuna Bekleviç|website=CNN Türk|language=tr|access-date=3 January 2018}}</ref>
+<ref name=sputnik>{{cite web|url=https://tr.sputniknews.com/turkiye/201709261030320067-tuna-beklevic-cumhurbaskanligi-aday/|title=AK Partili bakanların eski danışmanı Bekleviç, Cumhurbaşkanlığı adaylığını açıkladı|last=Sputnik|website=tr.sputniknews.com|language=tr|access-date=3 January 2018}}</ref>
+<ref name=euronews>{{Cite news|url=http://tr.euronews.com/2017/09/29/tuna-beklevic-cumhurbaskanligi-secimlerine-aday-muhalefetle-calismaya-haziriz|title=Tuna Bekleviç cumhurbaşkanlığı seçimlerine aday: Muhalefetle çalışmaya hazırız|date=29 September 2017|work=euronews|access-date=3 January 2018|language=tr}}</ref>
+<ref name=hurriyet2>{{Cite news|url=http://www.hurriyet.com.tr/gundem/levent-gultekin-adayligini-acikladi-40809677|title=Levent Gültekin adaylığını açıkladı|work=Hürriyet|access-date=19 April 2018|language=tr}}</ref>
+<ref name=sozcu>{{Cite news|url=https://www.sozcu.com.tr/2018/gundem/gazeteci-levent-gultekin-cumhurbaskanligina-aday-oldugunu-acikladi-2359008/|title=Gazeteci Levent Gültekin, Cumhurbaşkanlığı'na aday olduğunu açıkladı|access-date=19 April 2018|language=tr}}</ref>
+}}
+
+{{Turkish elections}}
+{{Turkish presidential elections}}
+
+[[Category:June 2018 events in Asia]]
+[[Category:June 2018 events in Europe]]
+[[Category:Presidential elections in Turkey|2018]]
+[[Category:Turkish general election, 2018|Presidential]]
+[[Category:Election and referendum articles with incomplete results|2018]]

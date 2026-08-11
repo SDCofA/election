@@ -1,0 +1,379 @@
+{{Infobox election
+| election_name     = Turkish general election, 2011
+| country           = Turkey
+| type              = parliamentary
+| previous_election = Turkish general election, 2007
+| previous_year     = 2007
+| previous_mps      =
+| election_date     = {{Start date|2011|06|12}}
+| elected_mps       =
+| next_election     = Turkish general election, 2015
+| next_year         = 2015
+| next_mps          =
+| seats_for_election= All 550 seats of the [[Grand National Assembly of Turkey]]
+| majority_seats    = 276
+| opinion_polls     =
+| turnout           = 83.16%
+<!-- AK Party -->
+| image1            = [[File:Recep Tayyip Erdogan.PNG|170x170px]]
+| leader1           = [[Recep Tayyip Erdoğan]]
+| colour1           = FFD42A
+| party1            = Justice and Development Party (Turkey)
+| leader_since1     = 2001
+| leaders_seat1     = [[Istanbul]]
+| last_election1    = 341 seats, 46.66%
+| seats1            = '''327'''
+| seat_change1      = {{decrease}}14
+| popular_vote1     = '''21,399,082'''
+| percentage1       = '''49.83%'''
+| swing1            = {{increase}}3.17[[Percentage point|pp]]
+<!-- CHP -->
+| image2            = [[File:Kemal Kilicdaroglu.png|170x170px]]
+| leader2           = [[Kemal Kılıçdaroğlu]]
+| colour2           = FF0000
+| party2            = Republican People's Party (Turkey)
+| leader_since2     = 2010
+| leaders_seat2     = [[Istanbul]]
+| last_election2    = 112 seats, 20.85%
+| seats2            = 135
+| seat_change2      = {{increase}}23
+| popular_vote2     = 11,155,972
+| percentage2       = 25.98%
+| swing2            = {{increase}}5.13[[Percentage point|pp]]
+<!-- MHP -->
+| image3            = [[File:Devlet Bahçeli TBMM.jpg|170x170px]]
+| leader3           = [[Devlet Bahçeli]]
+| colour3           = 8DB600
+| party3            = Nationalist Movement Party
+| leader_since3     = 1997
+| leaders_seat3     = [[Osmaniye]]
+| last_election3    = 71 seats, 14.29%
+| seats3            = 53
+| seat_change3      = {{decrease}}18
+| popular_vote3     = 5,585,513
+| percentage3       = 13.01%
+| swing3            = {{decrease}}1.28[[Percentage point|pp]]
+<!-- map -->
+| map_image         = 2011 Turkish general election english.svg
+| map_size          = 400px
+| map_caption       = 
+<!-- bottom -->
+| title             = Prime Minister
+| before_election   = [[Recep Tayyip Erdoğan]]
+| before_party      = Justice and Development Party (Turkey)
+| after_election    = [[Recep Tayyip Erdoğan]]
+| after_party       = Justice and Development Party (Turkey)
+}}
+{{Politics of Turkey}}
+'''[[Republic of Turkey|Turkey's]] 17th general election''' was held on 12 June 2011 to elect 550 new members of [[Grand National Assembly of Turkey|Grand National Assembly]].
+
+==Background==
+Emboldened by the [[Turkish constitutional referendum, 2010|2010 constitutional referendum]], AK party leaders said they would create a new constitution after the 2011 elections.<ref>{{cite web|url=http://english.aljazeera.net/news/europe/2010/09/2010913172313425174.html |title=Call to try Turkish coup leaders |publisher=Al Jazeera English |date=2010-09-13 |accessdate=2011-06-13}}</ref>
+
+==Electoral system==
+
+===Date===
+On March 3, 2011, [[Grand National Assembly of Turkey|Parliament]] approved a ruling party proposal to set June 12 as the date for the general elections. The proposal was submitted by the ruling Justice and Development Party (AK Party) on February 21 and was approved unanimously in the Parliament's General Assembly. In its proposal, the AK Party pointed to the appropriateness of June 12 as the election date considering the June dates for the placement test for high schools (SBS) and the [[ÖSS|university entrance exam]] (LYS). Seeking high voter turnout, the heat during the summer was also considered during the choice of date.
+
+===Changes to electoral law and regulations===
+In accordance with a law approved by Parliament last year that made changes to Turkey's election laws, Turkish voters encountered some new rules and reforms during the general election of 2011. The changes sought to bring Turkish election campaign regulations up to European standards.<ref>{{cite web|url=http://www.todayszaman.com/newsDetail_getNewsById.action?load=detay&newsId=235779&link=235779 |title=Novelties await voters in June 12 elections with new law |work=Today's Zaman |date=February 17, 2008 |accessdate=March 27, 2011}}</ref>
+*The age for parliamentary [[Suffrage|eligibility]] was reduced from 30 to 25.
+*Wooden ballot boxes were replaced by new ballot boxes made out of hard plastic that were transparent, unbreakable and resistant to heat.
+*Voting booths were upgraded to a stronger, safer, and more portable model.
+*Voting envelopes were made larger and had different colors for each matter that was being voted upon.
+*Campaigning was now allowed until two hours after sunset. Under the previous law, campaigning after sundown was forbidden.
+*Citizens were able to vote without official identification as long as they could provide their identity number.
+*Anyone who prevented someone from casting their vote would receive three to five years in prison.
+
+Turkish voters living abroad will have to wait for another election to be able to cast their votes in the countries in which they are residing due to the inability to institute electronic voting. Turkish voters abroad thus needed to cast their votes at customs gates.<ref>{{cite web|url=http://www.hurriyetdailynews.com/n.php?n=june-12-election-will-witness-8216firsts8217-2011-03-06 |title=Turkey's June 12 elections to provide many 'firsts' |work=Hürriyet Daily News |date=March 6, 2011 |accessdate=March 27, 2011}}</ref>
+
+===Regions===
+The number of MPs by [[Provinces of Turkey|province]] was redistributed according to the most recent population data. The number of deputies in Parliament for Istanbul was increased by 15, for Ankara by three and İzmir by two; Antalya, Diyarbakır, Van and Şırnak each received one more seat in Parliament. Ankara's two regions yielded 15 and 16 deputies. Istanbul, made up of three regions, elected 30, 27 and 28 deputies. İzmir, with two regions, elected 13 deputies each from both regions.
+
+{| class="wikitable"
+|-
+! colspan=7|The number of MPs by [[Provinces of Turkey|province]]<ref>{{cite web|url=http://www.ysk.gov.tr/ysk/docs/Kararlar/2011Pdf/2011-119.pdf |title=İllere göre milletvekili dağılımı |language=Turkish |work=Turkey's Supreme Election Board |date=March 2, 2011 |accessdate=March 27, 2011}}</ref>
+|-
+|
+* [[Adana Province|Adana]]  14
+* [[Adıyaman Province|Adıyaman]] 5
+* [[Afyonkarahisar Province|Afyonkarahisar]]  5
+* [[Ağrı Province|Ağrı]]  4
+* [[Amasya Province|Amasya]] 3
+* [[Ankara Province|Ankara, region 1]], 15
+* [[Ankara Province|Ankara, region 2]], 16
+* [[Antalya Province|Antalya]] 14
+* [[Artvin Province|Artvin]] 2
+* [[Aydın Province|Aydın]] 7
+* [[Balıkesir Province|Balıkesir]] 8
+* [[Bilecik Province|Bilecik]] 2
+|
+* [[Bingöl Province|Bingöl]] 3
+* [[Bitlis Province|Bitlis]] 3
+* [[Bolu Province|Bolu]] 3
+* [[Burdur Province|Burdur]] 3
+* [[Bursa Province|Bursa]] 18
+* [[Çanakkale Province|Çanakkale]] 4
+* [[Çankırı Province|Çankırı]] 2
+* [[Çorum Province|Çorum]] 4
+* [[Denizli Province|Denizli]] 7
+* [[Diyarbakır Province|Diyarbakır]] 11
+* [[Edirne Province|Edirne]] 3
+* [[Elazığ Province|Elazığ]] 5
+|
+*  [[Erzincan Province|Erzincan]] 2
+*  [[Erzurum Province|Erzurum]]  6
+*  [[Eskişehir Province|Eskişehir]] 6
+*  [[Gaziantep Province|Gaziantep]] 12
+*  [[Giresun Province|Giresun]]  4
+*  [[Gümüşhane Province|Gümüşhane]]  2
+*  [[Hakkâri Province|Hakkâri]]  3
+*  [[Hatay Province|Hatay]]  10
+*  [[Isparta Province|Isparta]]  4
+*  [[Mersin Province|Mersin]]  11
+*  [[Istanbul Province|Istanbul, region 1]], 30
+*  [[Istanbul Province|Istanbul, region 2]], 27
+|
+* [[Istanbul Province|Istanbul, region 3]], 28
+* [[İzmir Province|İzmir, region 1]], 13
+* [[İzmir Province|İzmir, region 2]], 13
+* [[Kars Province|Kars]] 3
+* [[Kastamonu Province|Kastamonu]] 3
+* [[Kayseri Province|Kayseri]] 9
+* [[Kırklareli Province|Kırklareli]] 3
+* [[Kırşehir Province|Kırşehir]] 2
+* [[Kocaeli Province|Kocaeli]]  11
+* [[Konya Province|Konya]] 14
+* [[Kütahya Province|Kütahya]] 5
+* [[Malatya Province|Malatya]]  6
+|
+* [[Manisa Province|Manisa]]  10
+* [[Kahramanmaraş Province|Kahramanmaraş]]  8
+* [[Mardin Province|Mardin]]  6
+* [[Muğla Province|Muğla]]  6
+* [[Muş Province|Muş]] 4
+* [[Nevşehir Province|Nevşehir]]  3
+* [[Niğde Province|Niğde]]  3
+* [[Ordu Province|Ordu]]  6
+* [[Rize Province|Rize]] 3
+* [[Sakarya Province|Sakarya]] 7
+* [[Samsun Province|Samsun]]  9
+* [[Siirt Province|Siirt]]  3
+|
+* [[Sinop Province|Sinop]] 2
+* [[Sivas Province|Sivas]]  5
+* [[Tekirdağ Province|Tekirdağ]]  6
+* [[Tokat Province|Tokat]]  5
+* [[Trabzon Province|Trabzon]] 6
+* [[Tunceli Province|Tunceli]]  2
+* [[Şanlıurfa Province|Şanlıurfa]] 12
+* [[Uşak Province|Uşak]] 3
+* [[Van Province|Van]] 8
+* [[Yozgat Province|Yozgat]]  4
+* [[Zonguldak Province|Zonguldak]] 5
+* [[Aksaray Province|Aksaray]] 3
+|
+* [[Bayburt Province|Bayburt]] 1
+* [[Karaman Province|Karaman]] 2
+* [[Kırıkkale Province|Kırıkkale]] 3
+* [[Batman Province|Batman]] 4
+* [[Şırnak Province|Şırnak]] 4
+* [[Bartın Province|Bartın]] 2
+* [[Ardahan Province|Ardahan]] 2
+* [[Iğdır Province|Iğdır]] 2
+* [[Yalova Province|Yalova]] 2
+* [[Karabük Province|Karabük]] 2
+* [[Kilis Province|Kilis]] 2
+* [[Osmaniye Province|Osmaniye]] 4
+* [[Düzce Province|Düzce]] 3
+|}
+
+===Parties===
+On March 5, 2011, Turkey's Supreme Election Board announced that twenty-seven political parties had signed up to participate in the June 12 general elections:
+{{Multicol}}
+* [[Alternative Party (Turkey)|Alternative Party]] (''Alternatif Parti'', AP)
+* [[Communist Party of Turkey (current)|Communist Party of Turkey]] (''Türkiye Komünist Partisi'', TKP)
+* [[Democratic Party (Turkey, current)|Democratic Party]] (''Demokrat Parti'', DP)
+* [[Democratic Left Party (Turkey)|Democratic Left Party]] (''Demokratik Sol Parti'', DSP)
+* [[Equality and Democracy Party]] (''Eşitlik ve Demokrasi Partisi'', EDP)
+* [[Felicity Party]] (''Saadet Partisi'', SP)
+* [[Freedom and Solidarity Party]] (''Özgürlük ve Dayanışma Partisi'', ÖDP)
+* [[Great Union Party]] (''Büyük Birlik Partisi'', BBP)
+* [[Homeland Party (Turkey)|Homeland Party]] (''Yurt Parti'', YURT-P)
+* [[Independent Turkey Party]] (''Bağımsız Türkiye Partisi'', BTP)
+* [[Justice and Development Party (Turkey)|Justice and Development Party]] (''Adalet ve Kalkınma Partisi'', AK Party)
+* [[Labour Party (Turkey)|Labour Party]] (''Emek Partisi'', EMEP)
+* [[Liberal Democratic Party (Turkey)|Liberal Democratic Party]] (''Liberal Demokrat Parti'', LDP)
+* [[Nation Party (Turkey, 1992)|Nation Party]] (''Millet Partisi'', MP)
+{{Multicol-break}}
+* [[Nationalist and Conservative Party]] (''Milliyetçi ve Muhafazakar Parti'', MMP)
+* [[Nationalist Movement Party]] (''Milliyetçi Hareket Partisi'', MHP)
+* New Party (''[[Yeni Parti]]'', YP)
+* [[Peace and Democracy Party]] (''Barış ve Demokrasi Partisi'', BDP)
+* [[People's Ascent Party]] (''Halkın Yükselişi Partisi'', HYP)
+* [[People's Voice Party]] (''Halkın Sesi Partisi'', HAS Parti)
+* [[Republican People's Party (Turkey)|Republican People's Party]] (''Cumhuriyet Halk Partisi'', CHP)
+* [[Rights and Equality Party]] (''Hak ve Eşitlik Partisi'', HEPAR)
+* [[Rights and Freedoms Party]] (''Hak ve Özgürlükler Partisi'', HAKPAR)
+* [[True Path Party]] (''Doğru Yol Partisi'', DYP)
+* [[Turkey Party]] (''Türkiye Partisi'', TP)
+* [[Workers' Party (Turkey)|Workers' Party]] (''İşçi Partisi'', İP)
+* [[Young Party]] (''Genç Parti'', GP)
+{{Multicol-end}}
+
+Nine smaller political parties decided to change their election strategy. Some of them decided to participate in the elections as [[independent (politician)|independent]], while others formed an [[political coalition|alliance]] under one party.
+On April 19, 2011, the Supreme Election Board announced that ÖDP and YP could not join the June 12 general elections as they could not hand out their necessary documents on time. Thus, the number of political parties joined the elections dropped to 15.
+
+==Campaign==
+
+===Justice and Development Party===
+The large number of applications gave the ruling [[Justice and Development Party (Turkey)|Justice and Development Party]] (AK Party) nearly 15 million Turkish Liras in revenue ahead of the June 12 general elections.
+AK Party, which had the most female deputies in the outgoing Parliament, planned to expand that number for the new term. Its aim was that all provinces with four to five deputies had at least one female deputy candidate during the election. The total 5,599 applications to the AK Party included those of 855 female candidates and 315 candidates with disabilities. Each male applicant paid a fee of 3,000 liras, while women paid half that sum and people with disabilities had their fees waived. The applications thus brought in a total of 14.85 million liras to the party. This revenue, however, will not remain in the AK Party's bank account after the elections, party leader [[Recep Tayyip Erdoğan|Erdoğan]] said, explaining that candidates who did not make it onto the party's list will have their money returned.<ref>{{cite web|url=http://www.hurriyetdailynews.com/n.php?n=6000-applications-and-15-million-tl-for-akp-2011-03-16 |title=6,000 hats tossed into AKP's June election ring in Turkey |work=Hürriyet Daily News |date=March 16, 2011 |accessdate=April 2, 2011}}</ref>
+
+Key figures who applied to be AK Party candidates included Ambassador [[Volkan Bozkır]], the head of Turkey's [[Accession of Turkey to the European Union|General Secretariat for the European Union]] and former [[Istanbul Province|Istanbul]] [[List of Governors of Istanbul Province|Governor]] [[Muammer Güler]].
+
+April 12, 2011, was the last date for political parties to submit their list of candidate MPs to the Higher Election Board for the general elections. Prime Minister Erdoğan dismissed half his party's parliamentary deputies for this election, aiming to rejuvenate the party as he sought a third term in power. Erdoğan nominated only 146 deputies out of the 333 parliamentary seats for the ruling Justice & Development party to stand again in this election.<ref>{{Cite news| author = Strauss, Delphine| title = Erdogan shakes up Turkey's ruling party| newspaper = Financial Times| location = Ankara| publisher = | date = April 13, 2011| url = http://www.ft.com/cms/s/0/1741ece8-6571-11e0-b150-00144feab49a.html#axzz1JSMjsSsO| accessdate = April 14, 2011}}</ref> Of the AK Party's 550 candidates, 514 had university degrees. There were also 11 people with disabilities on the list.<ref>{{Cite news| author = Şen, Erdal| coauthors = Güler, Habib| title = Change comes out of candidate lists with 267 deputies out| newspaper = Today's Zaman| location = Ankara| publisher = | date = April 13, 2011| url =http://www.todayszaman.com/news-240915-change-comes-out-of-candidate-lists-with-267-deputies-out.html| accessdate = April 14, 2011}}</ref> Important figures from the party kept their positions with many ministers moved to the coastal regions where the party previously attracted fewer votes.
+
+Following a rally by Erdoğan in [[Kastamonu]] on 4 May, assailants ambushed a police convoy killing one person and wounding another. The [[Kurdistan Workers Party]] claimed responsibility for the attack after Erdoğan accused "separatists" at another rally for the attack.
+
+{{Collapsible list
+|title= Locations of the [[Political rally|election rallies]] of the Justice and Development Party
+|[[File:2011 mitingleri Adalet ve Kalkınma Partisi.png|thumb|500px|right|Map of the election rallies of the Justice and Development Party]]
+|April 22: [[Bayburt]], [[Gümüşhane]]
+|April 24: [[Beykoz]], [[Şile]], [[Çekmeköy]], [[Sancaktepe]]
+|April 30: [[Muş]], [[Iğdır]]
+|May 2: [[Arnavutköy]], [[Sultangazi]]
+|May 3: [[Esenyurt]], [[Beylikdüzü]], [[Büyükçekmece]]
+|May 4: [[Kastamonu]], [[Amasya]]
+|May 5: [[Adana]], [[Osmaniye]]
+|May 7: [[Yığılca]], [[Düzce]], [[Zonguldak]]
+|May 8: [[Kilis]], [[Kahramanmaraş]]
+|May 10: [[Afyon]], [[Kütahya]]
+|May 11: [[Çorlu]], [[Lüleburgaz]], [[Edirne]]
+|May 12: [[Balıkesir]], [[Yalova]]
+|May 13: [[Manisa]], [[Denizli]]
+|May 14: [[Rize]], [[Giresun]]
+|May 15: [[Uşak]], [[Antalya]]
+|May 16: [[Altındağ, Ankara|Siteler]], [[Keçiören]], [[Sincan, Ankara|Sincan]]
+|May 17: [[Yozgat]], [[Malatya]]
+|May 18: [[Tokat]], [[Çorum]]
+|May 19: [[Siirt]]
+|May 20: [[Kars]], [[Van, Turkey|Van]]
+|May 21: [[Hakkâri]], [[Şanlıurfa]]
+|May 22: [[İzmit|Kocaeli]], [[Bursa]]
+|May 24: [[Şırnak]], [[Batman, Turkey|Batman]]
+|May 25: [[Kırıkkale]], [[Nevşehir]]
+|May 26: [[Niğde]], [[Aksaray]]
+|May 27: [[Aydın]], [[Muğla]]
+|May 28: [[Hatay, Turkey|Hatay]], [[Eskişehir]]
+|May 29: [[Kayseri]], [[Ankara]]
+|May 30: [[Ümraniye]], [[Ataşehir]], [[Kartal]], [[Çağlayan]]
+|May 31: [[Trabzon]], [[Ordu]]
+|June 1: [[Diyarbakır]]
+|June 2: [[Isparta]], [[Mersin]]
+|June 3: [[Konya]], [[Samsun]]
+|June 4: [[Adana]], [[İzmir]]
+|June 5: [[Adapazarı|Sakarya]], [[Istanbul]]
+|June 6: [[Çankırı]]
+|June 7: [[Adıyaman]], [[Mardin]]
+|June 8: [[Elazığ]], [[Bingöl]]
+|June 9: [[Sivas]], [[Gaziantep]]
+|June 10: [[Erzurum]], [[Ağrı]]
+|June 11: [[Tuzla (district)|Tuzla]], [[Maltepe, Istanbul|Maltepe]], [[Üsküdar]]
+}}
+
+===Republican People's Party===
+The 2011 general election was the first general election in which [[Kemal Kılıçdaroğlu]] participated as the leader of [[Republican People's Party (Turkey)|Republican People's Party]] (CHP). The former CHP leader [[Deniz Baykal]] resigned from his post in May 2010 and left the CHP with 26% of the votes, according to opinion polls. Kılıçdaroğlu announced that he would resign from his post if he was not successful in the 2011 elections. He did not provide details as to what his criteria for success were.<ref>{{cite web|url=http://www.sundayszaman.com/sunday/newsDetail_getNewsById.action?newsId=233428 |title=CHP most assertive in search for candidates ahead of June elections |work=Sunday's Zaman |date=January 25, 2011 |accessdate=April 1, 2011}}</ref> Over 3,500 people applied to run for the main opposition party in the June elections. Male candidates paid 3,000 Turkish Liras to submit an application; female candidates paid 2,000 while those with disabilities paid 500 liras.<ref>{{cite web|url=http://web.hurriyetdailynews.com/n.php?n=chp-receives-more-than-3000-applications-for-election-race-2011-03-23 |title=Main Turkish opposition receives more than 3,000 candidate applications |work=Hürriyet Daily News |date=March 23, 2011 |accessdate=April 2, 2011}}</ref> Among the candidates were former CHP leader Deniz Baykal and arrested [[Ergenekon (organization)|Ergenekon]] suspects such as [[Mustafa Balbay]] and [[Mehmet Haberal]].<ref>{{cite web|url=http://www.todayszaman.com/news-238638-haberal-becomes-member-of-chp-for-candidacy-in-polls.html |title=Haberal becomes member of CHP for candidacy in polls |work=Today's Zaman |date=March 19, 2011 |accessdate=April 1, 2011}}</ref>
+
+The party held [[primary elections]] in 29 provinces. Making a clean break with the past, Kemal Kılıçdaroğlu left his mark on the Republican People's Party's 435-candidate list, leaving off 78 current deputies as he sought to redefine and reposition the main opposition. The CHP's candidate list also included 11 politicians who were formerly part of center-right parties, such as the [[Motherland Party (Turkey)|Motherland Party]], the [[True Path Party]] and the [[Turkey Party]]. Center-right voters gravitated toward the AK Party when these other parties virtually collapsed after the 2002 elections. Key party figures that did not make it on to the list, criticised the CHP for making "a shift in axis."<ref>{{Cite news| author = Villelabeitia, Ibon| title = Trailing in polls, Turkey's opposition seeks new face| newspaper = | location = Ankara| publisher = Reuters| date = April 12, 2011| url = http://www.reuters.com/article/2011/04/12/us-turkey-elections-candidates-idUSTRE73B3LF20110412| accessdate = April 14, 2011}}</ref>
+
+==Polls==
+{{Main|Opinion polling for the Turkish general election, 2011}}
+In the [[Turkish local elections, 2009|local elections of 2009]], the ruling AK Party received 39% of the votes. The second party CHP received 23% of the votes, and the third party MHP received 16% of the votes. In the run up to the general election of 2011, the polling organisations noted a growth in the popularity of the AK Party. Polling organisations showed a rate between 42% and 51%. For CHP, the numbers varied between 25% and 30%. MHP was mostly shown between 10% and 14%
+
+==Results==
+
+===Nationwide results===
+The provisional election results were announced at 18:30 ([[UTC+2]]) on June 12, 2011. The official election results will be announced when all votes are counted.
+{{Turkish general election, 2011}}
+
+===Analysis===
+{{Main|Results breakdown of the Turkish general election, 2011|List of MPs elected in the Turkish general election, 2011}}
+The ruling party of [[Turkish Prime Minister|Prime Minister]] [[Recep Tayyip Erdoğan]] won a third term in parliamentary elections. Erdoğan is the only prime minister in Turkish history to win three consecutive general elections and each time receive more votes than in the previous election. Four party groups will take their place in Turkey's new Parliament as electoral officials had counted all the votes. The ruling Justice and Development Party (AK Party) will form a majority government after winning just a shade under 50 percent of the popular vote; the incumbents will be joined again by the opposition Republican People's Party (CHP), the Nationalist Movement Party (MHP) and the Peace and Democracy Party (BDP) in the legislature. The 327 seats won by AK Party are slightly less than the 330 required to propose constitutional changes to a referendum without the support of other parties in parliament,<ref name="NPR">{{cite web|url=http://www.npr.org/templates/story/story.php?storyId=137132918|title=Turkey's Ruling Party Wins Election|publisher=NPR|date=12 June 2011|accessdate=12 June 2011}}</ref> and falls far short of the [[two-thirds majority]] needed to rewrite Turkey's [[Turkish Constitution of 1982|1982 military constitution]] unilaterally without the need for a referendum. 
+A total of 73 AK Party senior officials were elected for the last time in this election. The party's bylaws state that a person can run for Parliament for three consecutive terms at most. Prime Minister Recep Tayyip Erdogan, parliamentary Speaker [[Mehmet Ali Şahin]], deputy prime ministers [[Bülent Arınç]], [[Cemil Çiçek]], [[Ali Babacan]], ministers [[Beşir Atalay]], [[Faruk Çelik]], [[Mehmet Mehdi Eker]], [[Sadullah Ergin]], [[Egemen Bağış]], [[Nimet Çubukçu]], [[Hayati Yazıcı]], [[Vecdi Gönül]], [[Taner Yıldız]], [[Nihat Ergün]], [[Binali Yıldırım]] and [[Recep Akdağ]] are among those who will not be eligible for nomination in the next general election.
+
+The second largest party in parliament, the Republican People's Party, won 25.9% of the vote. MHP won 13% of the vote, more than the 10% threshold required to win seats in Parliament.<ref name="NPR" /> Thirty-five independent candidates, all of whom were backed by the Kurdish BDP under their [[Labor, Democracy and Freedom Bloc]] alliance (together with other parties, including the [[Rights and Freedoms Party]], the [[Participatory Democracy Party]] and the [[Labour Party (Turkey)|Labour Party]]), were also voted in. [[Leyla Zana]] (50) returns to Parliament two decades after she was elected to the national assembly for the first time in 1991. [[Erol Dora]] became Turkey's first [[Syriac Christian|Syriac]] lawmaker.<ref>{{cite web|url=http://www.todayszaman.com/newsDetail_getNewsById.action?load=detay&newsId=247172&link=247172 |title=Numbers indicate highs, lows, lasts, firsts in new Parliament |publisher=Today's Zaman|date=June 13, 2011|accessdate=June 27, 2011}}</ref>
+
+The number of female deputies was boosted from 46 to 78. With 44 female deputies, the AK Party ranks the first. This term, there will be 20 female deputies from the opposition Republican People's Party (CHP), three from the Nationalist Movement Party (MHP) and 11 among the Kurdish Peace and Democracy (BDP)-backed independents in Parliament.
+
+[[Erol Dora]], an Assyrian lawyer elected as independent but supported by the BDP, is the first Christian member of parliament since 1960 (the Armenian [[Migirdich Shellefyan]] was a MP in 1955-1960) and the first non-Muslim since 1999 (the Jew [[Cefi Kamhi]] was a MP in 1995-1999).<ref>Thomas Seibert, "[http://en.qantara.de/Source-of-Hope-for-the-Christian-Minority/16388c16598i1p77/index.html Source of Hope for the Christian Minority]", ''Qantara.de'', 15 June 2011</ref>
+
+The oldest member of Parliament [[Oktay Ekşi]] from CHP, who was the youngest member of Constituent Assembly of 1961, will act as the parliamentary speaker temporarily during the oath ceremony. [[Bilal Macit]] (27) from AK party has become the youngest member of Parliament.
+
+[[Hatip Dicle]] (BDP) was stripped of his seat after losing an appeal against a prior conviction for spreading terrorist propaganda. His seat went to [[Oya Eronat]] of the AKP.<ref>http://english.people.com.cn/90001/90777/90853/7418659.html</ref> There are speculations that the remaining BDP MPs boycotted parliament because of this incident, but that attitude did not bring him to the parliament.<ref>http://www.rferl.org/content/turkeys_pro_kurdish_group_to_boycott_parliament/24244330.html</ref> Both AKP and CHP favoured amending the law in this case to allow Dicle to take his seat; a similar case had already applied to PM Erdoğan in 2003, when the law was also changed to allow for his seating.<ref>http://derstandard.at/1308679522991/Kurdenpartei-beschloss-Parlamentsboykott</ref>
+
+Two CHP MPs, journalist [[Mustafa Balbay]] and academic [[Mehmet Haberal]], were in jail at the time for suspected involvement in the [[Ergenekon (organization)|Ergenekon]] conspiracy; applications for their release were denied, which was strongly criticized by the CHP, who said they would appeal the ruling.<ref>http://english.people.com.cn/90001/90777/90854/7420008.html</ref>
+
+BDP and CHP both boycotted parliament's opening ceremony, as Dicle had been stripped of his seat and eight other MPs were refused attendance due to prison terms considered political by both BDP and CHP.<ref>{{cite news| url=http://www.bbc.co.uk/news/world-europe-13946916 | work=BBC News | title=Turkey election: Opposition boycotts parliament oath | date=June 28, 2011}}</ref>
+
+==Reactions==
+
+===International organisations===
+*{{flag|Arab League}} - Secretary-General [[Amr Moussa]] congratulated Prime Minister Recep Tayyip Erdoğan, [[Turkish Ministry of Foreign Affairs|Foreign Minister]] [[Ahmet Davutoğlu]] and the Turkish people in this "historic moment". He also thanked the [[government of Turkey]] for opening the Turkish-Syrian border to Syrian refugees that [[Siege of Jisr ash-Shugur|fled]] the country.<ref>{{cite news| url=http://www.facebook.com/note.php?created&&note_id=160722967328266&id=135342716532958 |author= Amr Moussa |work=Facebook |title=موسى يهنئ تركيا حكومةً و شعباً بفوز حزب العدالة والتنمية |date=June 13, 2011 |accessdate=June 12, 2011}}</ref>
+*{{EU}} - European Parliament's Turkey rapporteur [[Ria Oomen-Ruijten]] congratulated Erdoğan and AK Party, and said that AK Party government, which was elected for the third time, undertook an important responsibility. Ruijten wanted the government to be loyal to EU accession process and reforms.<ref name="worldleaders"/> [[European Commission President]] [[Jose Manuel Barroso]] and [[President of the European Council]] [[Herman Van Rompuy]] sent a joint message to Erdoğan on his landslide election victory in Sunday's polls. "The results of the elections pave the way for the continuation of strengthening Turkey's democratic institutions as well as the modernization of the country", Barroso and Rompuy said.<ref>{{cite news| url=http://www.turkishweekly.net/news/116099/eu-leaders-congratulate-erdogan-on-election-win.html |work=Turkish Weekly |title=EU Leaders Congratulate Erdoğan on Election Win |date=June 13, 2011 |accessdate=June 12, 2011}}</ref> The [[President of the European Parliament]] (EP), [[Jerzy Buzek]], congratulated Erdogan on Monday on the victory of the Justice and Development (AK) Party in Sunday's elections. In his message, Buzek underlined that such a great victory implied great need for responsibility in progressing for much needed reforms.<ref name="worldleaders3"/>
+*{{flag|Council of Europe}} - [[Parliamentary Assembly of the Council of Europe]] (PACE) President [[Mevlüt Çavuşoğlu]] said his respect for Erdoğan had increased and noted that the elections, in which he was also running, have been democratic and transparent.<ref name="worldleaders3">{{cite news| url=http://www.worldbulletin.net/?aType=haber&ArticleID=75055 |work=World Bulletin |title=Western leaders congratulate Turkey's Erdogan |date=June 14, 2011 |accessdate=June 14, 2011}}</ref>
+*{{flag|OIC}} - Speaking to [[Anatolian Agency|AA]] in the British capital of London, OIC Secretary General [[Ekmeleddin Ihsanoglu]] commented on the results of Sunday's general elections in Turkey. "Turkish nation gives the necessary messages in every election. However, these messages should be read well by politicians and the new parliament, and actions should be taken accordingly. That is the most important thing", he said.<ref name="worldleaders">{{cite news| url=http://www.worldbulletin.net/?aType=haber&ArticleID=75016 |work=World Bulletin |title=World leaders congratulate Turkey's Erdoğan |date=June 13, 2011 |accessdate=June 12, 2011}}</ref>
+
+;Others
+*[[European People's Party (European Parliament group)|European People's Party (EPP)]] - The president of the EPP [[Wilfried Martens]] congratulated Recep Tayyip Erdoğan for his party's 3rd consecutive victory in parliamentary elections. "We hope that this new process will bring Turkey closer to the European Union", Martens said.<ref name="EPP">{{cite news| url=http://www.32462857769.net/EPP/e-PressRelease/PDF/AKP.pdf |work=European People's Party |title=EPP President congratulates PM Erdoğan and AKP for 3rd consecutive win |date=June 13, 2011 |accessdate=June 17, 2011}}</ref>
+*[[Progressive Alliance of Socialists and Democrats|Progressive Alliance of Socialists and Democrats (S&D)]] - The chairman of the S&D [[Martin Schulz]] welcomed the results of the general election. "This election result makes it possible for Turkey to maintain its political stability and to continue on the road to modernisation of the country with a view to further integration with the European Union", Schulz said.<ref name="AASchulz">{{cite news| url=http://haber.aa.com.tr/haber_goster.php?sessionid=d8ddf30d5b870686fd092526e02f14e3&haber_id=108444&habertable=haber2011 |work=Anadolu Ajansı |title=EP's socialist group president welcomes election result |date=June 14, 2011 |accessdate=June 17, 2011}}</ref>
+
+===Countries===
+*{{AFG}} - [[Afghan President|President]] [[Hamid Karzai]] sent a message to Erdoğan congratulating him for the victory of the Justice and Development Party in Sunday's elections.<ref name="worldleaders2"/>
+*{{ALB}} - [[Albanian President|President]] [[Bamir Topi]] sent a message to Erdoğan congratulating him for the victory.<ref name="worldleaders2"/> While [[Prime minister of Albania|Prime minister]] [[Sali Berisha]] also congratulated Erdogan for his victory.<ref>http://www.worldbulletin.net/?aType=haber&ArticleID=75065</ref>
+*{{AZE}} - [[Azerbaijani President]] [[Ilham Aliyev]] called Erdoğan late Sunday to congratulate him on his victory by wide margin. Aliyev also invited Erdoğan to Azerbaijan for the joint consideration and further development of "our future possibilities of cooperation."<ref>{{cite news| url=http://en.apa.az/news.php?id=149313 |work=APA |title=Azerbaijani President congratulates Erdoğan on AKP's victory in parliamentary elections |date=June 13, 2011 |accessdate=June 12, 2011}}</ref>
+*{{CHN}} - [[Chinese Foreign Ministry|Foreign ministry]] spokesperson Hong Lei congratulated Erdoğan. He said that the China–Turkey relations have improved in recent years and that the [[strategic partnership]] between the two countries began in 2010.<ref>{{cite news| url=http://secim2011.samanyoluhaber.com/h_582248_Secim-2011-cin-secimi-kazanan-basbakan-erdogani-tebrik-etti.html |work=Samanyolu Haber |title=Çin, Erdoğan'ı tebrik etti |language=Turkish |date=June 14, 2011 |accessdate=June 14, 2011}}</ref>
+*{{EGY}} - [[Prime Minister of Egypt|Prime Minister]] [[Essam Sharaf]] telephoned his Turkish counterpart to congratulate him on winning Turkey's parliamentary elections. The prime minister expressed Egypt's keenness on cementing relations with Turkey and exchanging expertise in all domains. Sharaf conveyed to Erdogan greetings from Field Marshal [[Mohamed Hussein Tantawi]], the head of the [[Supreme Council of the Armed Forces]].<ref>{{cite news| url=http://www.sis.gov.eg/En/Story.aspx?sid=56278 |work=Egypt State Information Service |title=Sharaf congratulates Erdogan on his party win in elections |date=June 15, 2011 |accessdate=June 16, 2011}}</ref>
+*{{FRA}} - [[French President|President]] [[Nicolas Sarkozy]] sent a congratulatory message to Erdogan on his victory in the elections. In his message, President Sarkozy said that he wanted to further strengthen Turkey-France cooperation. We affirmed our will to further strengthen our cooperation in all areas and to exchange views on global and regional issues during my visit to Ankara in February, he said. He said that France wanted to work with Turkey, one of its significant partners and allies, to ensure stability and prosperity in the region.<ref>{{cite news| url=http://www.todayszaman.com/news-247232-sarkozy-calls-for-mideast-cooperation-with-turkey-in-election-message.html |work=Today's Zaman |title=Sarkozy calls for Mideast cooperation with Turkey in election message |date=June 13, 2011 |accessdate=June 14, 2011}}</ref>
+*{{GER}} - [[Chancellor of Germany (Federal Republic of Germany)|Chancellor]] [[Angela Merkel]] congratulated Erdoğan in a letter and praised his modernization policy. "The result reflects the success of your modernization policy in the past years" she said.<ref>{{cite news| url=http://de.euronews.net/agenturmeldungen/970431-merkel-und-eu-gratulieren-erdogan-zum-wahlsieg/ |work=Euronews |title=Merkel und EU gratulieren Erdogan zum Wahlsieg |language=German |date=June 13, 2011 |accessdate=June 12, 2011}}</ref>
+*{{GEO}} - [[Georgian President|President]] [[Mikheil Saakashvili]] congratulates Turkish Prime Minister on the Justice and Development Party (AKP)'s victory in the parliamentary elections. In a Monday message to Recep Tayyip Erdoğan, Saakashvili hailed the AKP's landslide victory in the elections.<ref name="worldleaders2"/>
+*{{GRE}} - [[Prime Minister of Greece|Prime Minister]] [[George Papandreou]] called Erdoğan on the phone and congratulated his victory.<ref name="worldleaders2"/>
+*{{ITA}} - [[Italian Prime Minister|Prime Minister]] [[Silvio Berlusconi]] congratulated Erdoğan on the success of his party.<ref name="worldleaders3"/>
+*{{IRN}} - [[Iranian President|President]] [[Mahmoud Ahmadinejad]] sent a message to Erdoğan, congratulating the premier on the election success of his Justice and Development Party in Sunday's polls.<ref name="worldleaders"/>
+*{{IRQ}} - [[Iraqi President|President]] [[Jalal Talabani]] congratulated Erdoğan and said the poll results show that Turks see the AK Party's management of the country as the best way for development and prosperity. He said the election results also prove that Turks support policies to solve problems related to ethnic and social issues and foreign policy that are based on freedom, justice and principles and values that require democracy.<ref name="worldleaders4">{{cite news| url=http://www.sundayszaman.com/sunday/newsDetail_getNewsById.action?newsId=247226 |work=Sunday's Zaman |title=World leaders hail Erdoğan win, reiterate strong ties |date=June 14, 2011 |accessdate=June 14, 2011}}</ref>
+*{{ISR}} - [[Prime Minister of Israel|Prime Minister]] [[Benjamin Netanyahu]] had welcomed Turkey's "free and democratic" elections and wants to improve the relations. "We are pleased because in this region there is rarely a guarantee that free and fair elections exist" he said.<ref>{{cite news| url=http://www.agi.it/english-version/world/elenco-notizie/201106131623-pol-ren1066-netanyahu_pleased_with_turkey_s_free_and_fair_elections |work=Agenzia Giornalistica Italia |title=Netanyahu pleased with Turkey's free and fair elections |date=June 13, 2011 |accessdate=June 13, 2011}}</ref>
+*{{KAZ}} - [[Prime Minister of Kazakhstan|Prime Minister]] [[Karim Masimov]] sent a message to Erdoğan on Monday congratulating him over the election success of his Justice and Development Party in Sunday's polls.<ref>{{cite news| url=http://en.trend.az/news/politics/1891427.html |work=trend.az |title=Kazakh President congratulates Turkish PM on election victory |date=June 13, 2011 |accessdate=June 14, 2011}}</ref>
+*{{KGZ}} - [[Prime Minister of Kyrgyzstan|Prime Minister]] [[Almazbek Atambayev]] congratulated Erdoğan and underlined Turkey's development under the "smart management" of the prime minister as the factor that led to the success and prosperity of the Turkish people.<ref name="worldleaders4"/>
+*{{LBN}} - former [[Prime Minister of Lebanon|Prime Minister]] [[Saad Hariri]] contacted Turkish Prime Minister Recep Tayyip Erdoğan to congratulate him on his victory and his party's success in Turkey's legislative elections on Sunday, according to a statement issued by Hariri's office.<ref>{{cite news| url=http://www.nowlebanon.com/NewsArticleDetails.aspx?ID=281233 |work=NOW Lebanon |title=Hariri congratulates Turkish PM on election victory |date=June 13, 2011 |accessdate=June 13, 2011}}</ref>
+*{{MEX}} - [[President of Mexico|President]] [[Felipe de Jesus Calderon]] called Erdogan on the phone and congratulated him.<ref name="worldleaders3"/>
+*{{OMA}} - [[Sultan of Oman|Sultan]] [[Qaboos bin Said Al Said]] has sent a cable of congratulations to Recep Tayyip Erdogan, Prime Minister of Turkey and Chairman of the ruling Justice and Development Party, on the occasion of his party's victory in the legislative elections that took place Turkey. His Majesty the Sultan expressed his sincere congratulations, along with his best wishes of success to Erdogan, hoping he will achieve further progress for the friendly people of Turkey.<ref>{{cite news| url=http://main.omanobserver.om/node/55351 |work=Oman Observer |title=HM congratulates Erdogan |date=June 19, 2011 |accessdate=June 20, 2011}}</ref>
+*{{PAK}} - [[Prime Minister of Pakistan|Prime Minister]] [[Yousaf Raza Gillani]] telephoned his Turkish counterpart to felicitate him over his party's successive victory in the elections. Congratulating the Turkish Prime Minister on behalf of the people and the government of Pakistan as well as his own and on behalf of his family, Prime Minister Gilani said that AK Party's impressive electoral success shows a victory for democracy. He further said that "this win of his party in third consecutive elections speaks volumes about the trust Turkish people repose in his leadership and the government's policies." The Prime Minister hoped that the relations with Turkey would further be strengthened under the stewardship of Erdoğan as both brotherly nations have mutuality of views on regional and international issues.<ref>{{cite news| url=http://ftpapp.app.com.pk/en_/index.php?option=com_content&task=view&id=142121&Itemid=2 |agency=Associated Press Of Pakistan |title=Gilani phones Erdogan to greet over electoral victory |date=June 13, 2011 |accessdate=June 12, 2011}}</ref>
+*{{flag|Palestinian Authority}} - [[President of the Palestinian National Authority|President]] [[Mahmud Abbas]] sent a letter to [[Turkish President]] [[Abdullah Gul]] and Prime Minister Recep Tayyip Erdoğan, leader of the AK Party, congratulating them for winning the elections. Abbas also praised "Turkey's firmly established positions and its support to our people and our struggle for freedom and the establishment of the independent Palestinian state."<ref>{{cite news| url=http://news.xinhuanet.com/english2010/world/2011-06/13/c_13926981.htm |work=[[Xinhua News Agency]] |title=Abbas, Hamas congratulate Turkey's AKP on winning elections |date=June 13, 2011 |accessdate=June 13, 2011}}</ref>
+*{{QAT}} - [[Sheikh]] [[Hamad bin Khalifa Al Thani]] held talks on the phone with Turkey's President Abdullah Gul and Prime Minister Recep Tayyip Erdogan. During the conversations, the Emir congratulated them for the victory of the Justice and Development Party (AKP) in the parliamentary elections held on Sunday besides discussing relations between Qatar and Turkey.<ref>{{cite news| url=http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=441050&version=1&template_id=36&parent_id=16 |work=Gulf Times |title=Emir holds talks with Turkish leaders on phone |date=June 15, 2011 |accessdate=June 15, 2011}}</ref>
+*{{RUS}} - [[Russian Prime Minister|Prime Minister]] [[Vladimir Putin]] congratulated Erdogan on the victory of his party at the elections. "The voting results are evidence of the wide recognition of your personal merits as a prime minister and of the real achievements that have been made in the social and economic areas of the Turkish Republic. I would particularly like to highlight the major contribution that you and your party have been making to strengthening partner relations between our countries. For its part, Russia is ready and willing to cooperate closely with you to further promote mutually beneficial partnership. From the very bottom of my heart, I wish you health and happiness, and new achievements and victories to the Justice and Development Party" he said.<ref>{{cite news| url=http://www.isria.com/pages/14_June_2011_218.php |work=isria.com |title=Russia - Prime Minister Vladimir Putin congratulates Turkish Prime Minister Recep Tayyip Erdogan on the victory of his party at the parliamentary elections |date=June 14, 2011 |accessdate=June 14, 2011}}</ref> [[Russian President|President]] [[Dmitry Medvedev]] also congratulated Erdogan on his party's victory. According to the Russian President, Russian-Turkish relations during the AKP's rule were developing successfully and the Kremlin looks forward to cooperating with the Turkish authorities in various fields.<ref>{{cite news| url=http://vestnikkavkaza.net/news/politics/14836.html |work=isria.com |title=Russian President congratules Erdogan on victory |date=June 14, 2011 |accessdate=June 15, 2011}}</ref>
+*{{ESP}} - [[Spanish Prime Minister|Prime Minister]] [[José Luis Rodríguez Zapatero]] sent a letter to his Turkish counterpart on Sunday night congratulating him for the victory of the Justice and Development Party in Sunday's elections. In his letter, Zapatero said that the "three back to back victories of the AK Party is a clear indication of the confidence the Turkish people have in Erdoğan and his administration". Zapatero said that relations between Spain and Turkey were "excellent" and that the new term in Turkey will provide an opportunity to further strengthen the relations between the two countries.<ref name="worldleaders2">{{cite news| url=http://www.turkishweekly.net/news/116118/turkey-elections-spanish-pm-zapatero-congratulates-erdogan-over-ak-party-39-s-victory.html |work=Turkish Weekly |title=Turkey-Elections -Spanish PM Zapatero Congratulates Erdogan over AK Party's Victory |date=June 13, 2011 |accessdate=June 12, 2011}}</ref>
+*{{SWE}} - [[Swedish Foreign Minister|Foreign Minister]] [[Carl Bildt]] said that the elections in Turkey ended with an impressive victory for Prime Minister Recep Tayyip Erdogan and the Justice and Development Party. In a note posted on his internet site, Bildt said that the election victory was a reason to congratulate Erdogan and his party. Turkey's growing economy, active foreign policy, and stance on the developments taking place in the Arabic world recently have led Turkey's people to extend a strong support to the future. What is crucial from now on is a new and more democratic constitution, Bildt said.<ref name="worldleaders3"/>
+*{{SYR}} - [[President of Syria|President]] [[Bashar al-Assad]] congratulated Erdogan on his victory in the parliamentary elections during a phone conversation. The conversation, which began as a congratulatory call from Assad to Erdogan over his election victory, turned to the topic of violence and reforms in Syria. Erdogan told Assad he must make a timetable for reforms, and implement them urgently.<ref>{{cite news| url=http://www.jpost.com/MiddleEast/Article.aspx?id=225002 |work=The Jerusalem Post |title=Erdogan to Assad: Stop the violence, implement reforms |date=June 14, 2011 |accessdate=June 15, 2011}}</ref> The next day, President Bashar al-Assad send a special delegation led by [[Hasan Turkmani]] to the Turkish capital of Ankara to meet Turkish Prime Minister Recep Tayyip Erdogan.<ref>{{cite news| url=http://www.chinadaily.com.cn/world/2011-06/15/content_12706909.htm |work=Xinhua |title=Syrian president's envoy to meet Turkish PM |date=June 15, 2011 |accessdate=June 15, 2011}}</ref>
+*{{UKR}} - [[Ukrainian President|President]] [[Viktor Yanukovych]] has congratulated Erdogan in a letter posted on his official website. "This success is a sign of the support by the Turkish people of the efforts that your political party and you personally are taking to develop a democratic Turkish state and ensure the interests of the Turkish people", he wrote. The president noted that Ukraine wanted to strengthen friendly relations with Turkey and deepen their strategic partnership, which was launched during the Turkish prime minister's recent visit to Kyiv.<ref>{{cite news| url=http://bsanna-news.ukrinform.ua/newsitem.php?id=16241&lang=en |title=Ukraine wants to strengthen strategic partnership with Turkey |date=June 20, 2011 |work=bsanna-news |accessdate=June 20, 2011}}</ref>
+*{{UAE}} - [[President of the United Arab Emirates|President]] [[Khalifa bin Zayed Al Nahyan]] sent a congratulatory cable to Turkish prime minister Recep Tayyip Erdogan. His Highness Shaikh [[Mohammed bin Rashid Al Maktoum]], Vice-President and Prime Minister of the UAE and Ruler of Dubai, also sent a similar cable to Erdogan. General Shaikh [[Mohammed bin Zayed Al Nahyan]], Crown Prince of Abu Dhabi and Deputy Supreme Commander of the UAE Armed Forces, also congratulated the Turkish PM on the parliamentary victory.<ref>{{cite news| url=http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/theuae/2011/June/theuae_June444.xml&section=theuae |work=[[Khaleej Times]] |title=Leaders greet Turkish PM |date=June 16, 2011 |accessdate=June 16, 2011}}</ref>
+*{{UK}} - [[British Prime Minister|Prime Minister]] [[David Cameron]] called Erdoğan on the phone and congratulated his victory. The leaders also agreed there needs to be a united and determined international approach to pressure [[List of heads of state of Libya|Libyan leader]] [[Muammar Gaddafi]]. Cameron told Erdoğan that he is pleased with Turkey's leadership role, particularly in coordinating and hosting the [[Libya Contact Group]] in Turkey next month.<ref name="worldleaders"/>
+*{{USA}} - President [[Barack Obama]] called Turkish prime minister from his plane en route to [[Puerto Rico]] from [[Miami]] to congratulate him on historic electoral victory with 50 percent of vote that won him the third term. "He called to congratulate the prime minister on his party's victory in the parliamentary elections", White House spokesman [[Jay Carney]] said<ref>{{cite news| url=http://www.google.com/hostednews/afp/article/ALeqM5g-wYiov4xbIAsMOGjrjSBYiH93Nw?docId=CNG.8e4ecab4df197ac6695e0b85f29cdd3b.a1 |work=AFP |title=Obama congratulates Erdogan on election victory |date=June 14, 2011 |accessdate=June 14, 2011}}</ref>
+
+;Others
+*{{TRNC}} - [[President of Northern Cyprus|President]] [[Dervis Eroglu]] sent a message to Erdoğan and congratulated Erdoğan on the victory Justice & Development Party won in Sunday's parliamentary elections. "On behalf of Turkish Cypriot people, I sincerely congratulate you on recording a great success on June 12 parliamentary elections and on gaining the opportunity to form a government on your own", Eroglu said.<ref name="worldleaders"/>
+*{{flag|Kosovo}} - [[Prime Minister of Kosovo|Prime Minister]] [[Hashim Thaci]] congratulated Erdoğan and said the guarantee of Turkey's success lay under the prime minister's determination in strengthening the rapid development of Turkey and pushing for good neighborly relations, peace, stability and cooperation among countries in the region.<ref name="worldleaders4"/>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.google.com.tr/intl/tr/landing/elections/2011/ Elections results], Google
+*[http://en.qantara.de/Source-of-Hope-for-the-Christian-Minority/16388c16598i1p77/index.html The Syrian Orthodox Lawyer Erol Dora: Source of Hope for the Christian Minority]
+
+{{Turkish elections}}
+
+[[Category:Turkish general election, 2011| ]]
+[[Category:2011 elections in Asia]]
+[[Category:2011 elections in Europe]]
+[[Category:2011 in Turkey|General election]]
+[[Category:General elections in Turkey|2011]]

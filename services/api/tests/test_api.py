@@ -148,14 +148,21 @@ def test_forecast_contract_and_exploratory_forecasts():
     }
 
     comparison = client.get("/v1/elections/tr-next-president/model-comparison").json()
-    assert comparison["fold_count"] == 0
+    assert comparison["fold_count"] == 3
     assert comparison["winner"] is None
-    assert comparison["status"] == "insufficient_historical_vintages"
+    assert comparison["status"] == "insufficient_evidence"
+    assert comparison["historical_leader"] == "markov_momentum"
+    assert comparison["held_out_election_count"] == 1
+    assert comparison["simulation_count_per_model_fold"] == 1_000_000
+    assert comparison["evaluated_horizon_min_days"] == 2
+    assert comparison["evaluated_horizon_max_days"] == 15
+    assert comparison["target_horizon_days"] == 637
+    assert comparison["vintage_verified"] is True
     assert comparison["historical_election_count"] == 3
     assert comparison["historical_span_years"] == 9
     assert comparison["maximum_held_out_elections"] == 1
     assert len(comparison["validation_constraints"]) == 4
-    assert "only one distinct held-out election" in comparison["message"]
+    assert "three distinct held-out elections" in comparison["message"]
 
 
 def test_unknown_election_is_404():

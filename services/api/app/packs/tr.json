@@ -15,6 +15,7 @@
     "flag": "TR"
   },
   "source_adapters": [
+    {"source_id":"turkiye_wikipedia_revision_archive","status":"approved","formats":["wikitext"]},
     {"source_id":"turkiye_ysk","status":"reference_only_no_ingestion","formats":["html","pdf"]},
     {"source_id":"turkiye_ysk_presidential_archive","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"ak_party_2028_signal","status":"reference_only_no_ingestion","formats":["html"]},
@@ -22,6 +23,9 @@
     {"source_id":"gundemar_may_2026","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"polymarket_turkiye","status":"reference_only_no_ingestion","formats":["html"]}
   ],
+  "backtest_dataset": "tr-presidential-2014-2023-v1.json",
+  "backtest_report": "tr-presidential-2014-2023-v1-report.json",
+  "backtest_report_sha256": "be8d7f7495b97bca55c1acff6dd19c2c77131d7525f87b1a87bcf8a9474cac5c",
   "rules": {
     "engine": "presidential_runoff",
     "rounds": 2,
@@ -152,14 +156,14 @@
     "historical_election_count": 3,
     "historical_span_years": 9,
     "maximum_held_out_elections": 1,
-    "message": "No champion declared: Türkiye has only three completed direct presidential elections (2014, 2018, and 2023). With two elections reserved for training, only one distinct held-out election is possible.",
+    "message": "No champion declared: three archive-verified forecast origins now test 2023 after training on 2014 and 2018, but they represent only one distinct held-out election.",
     "validation_constraints": [
       "Only three completed direct presidential elections exist in the current constitutional era: 2014, 2018, and 2023.",
-      "A minimum two-election training window leaves at most one distinct held-out presidential election; the promotion gate requires three.",
+      "Only one distinct held-out presidential election is possible after the minimum two-election training window; the promotion gate requires three.",
       "The available direct-presidential history spans nine years; the reliability gate requires twenty.",
-      "Archived, publication-date-verifiable poll vintages are still required before any retrospective fold can be labeled verified."
+      "All three forecast origins test the same 2023 election, so they are not three independent election holdouts."
     ],
-    "source_ids": ["turkiye_ysk_presidential_archive"]
+    "source_ids": ["turkiye_ysk_presidential_archive", "turkiye_wikipedia_revision_archive"]
   },
   "model": {
     "base_shares": [0.425, 0.525, 0.05],
@@ -168,7 +172,7 @@
     "turnout": 0.84,
     "data_quality": "D",
     "freshness": "exploratory long-range scenario; candidate and timing uncertainty",
-    "headline": "The opposition-nominee scenario leads, but Erdoğan or another governing nominee retains a material path; Türkiye has no validated backtest.",
+    "headline": "The opposition-nominee scenario leads, but Erdoğan or another governing nominee retains a material path; Türkiye has only one held-out election, not a validated model.",
     "scenarios": [
       {
         "id": "erdogan-v-imamoglu",
