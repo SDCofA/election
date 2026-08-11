@@ -18,6 +18,9 @@ PUBLIC_BASELINE = "baseline_ensemble"
 BASELINES = (PUBLIC_BASELINE, "polls_only", "fundamentals_only", "previous_election")
 FAMILIES = CHALLENGERS + BASELINES
 BACKTEST_SIMULATION_COUNT = 1_000_000
+HORIZON_MATCH_FRACTION = 0.10
+HORIZON_MATCH_MIN_DAYS = 2
+HORIZON_MATCH_MAX_DAYS = 30
 
 
 @dataclass(frozen=True)
@@ -717,16 +720,28 @@ def _select_training_origins(
             grouped.setdefault(record.election_id, []).append(record)
     selected = []
     for origins in grouped.values():
-        selected.append(
-            min(
-                origins,
-                key=lambda item: (
-                    abs((item.election_date - item.forecast_as_of).days - target_horizon),
-                    -item.forecast_as_of.toordinal(),
-                ),
-            )
+        closest = min(
+            origins,
+            key=lambda item: (
+                abs((item.election_date - item.forecast_as_of).days - target_horizon),
+                -item.forecast_as_of.toordinal(),
+            ),
         )
+        closest_horizon = (closest.election_date - closest.forecast_as_of).days
+        if _horizons_comparable(target_horizon, closest_horizon):
+            selected.append(closest)
     return sorted(selected, key=lambda item: item.election_date)
+
+
+def _horizon_match_tolerance(horizon_days: int) -> int:
+    return max(
+        HORIZON_MATCH_MIN_DAYS,
+        min(HORIZON_MATCH_MAX_DAYS, math.ceil(horizon_days * HORIZON_MATCH_FRACTION)),
+    )
+
+
+def _horizons_comparable(target_horizon: int, evidence_horizon: int) -> bool:
+    return abs(target_horizon - evidence_horizon) <= _horizon_match_tolerance(target_horizon)
 
 
 def _calibration_error(values: list[tuple[float, float]]) -> float:
@@ -856,7 +871,7 @@ def walk_forward_backtest(
     history_span_years = (
         election_dates[-1].year - election_dates[0].year if len(election_dates) >= 2 else 0
     )
-    evaluated_horizons = [(item.election_date - item.forecast_as_of).days for item in ordered]
+    evaluated_horizons = [(fold.test_date - fold.test_forecast_as_of).days for fold in folds]
     evaluated_horizon_min_days = min(evaluated_horizons) if evaluated_horizons else None
     evaluated_horizon_max_days = max(evaluated_horizons) if evaluated_horizons else None
     held_out_election_count = len(set(fold_groups))
@@ -880,14 +895,12 @@ def walk_forward_backtest(
         )
     if dataset_sha256 is None or len(dataset_sha256) != 64:
         reliability_reasons.append("A content-addressed production dataset is required")
-    if (
-        target_horizon_days is not None
-        and evaluated_horizon_min_days is not None
-        and evaluated_horizon_max_days is not None
-        and not evaluated_horizon_min_days <= target_horizon_days <= evaluated_horizon_max_days
+    if target_horizon_days is not None and not any(
+        _horizons_comparable(target_horizon_days, evidence_horizon)
+        for evidence_horizon in evaluated_horizons
     ):
         reliability_reasons.append(
-            "Production forecast horizon is outside the evaluated historical horizon range"
+            "Production forecast horizon is outside the evaluated historical horizon neighborhoods"
         )
     reliable = not reliability_reasons
     markov_transition, markov_step = fit_markov_parameters(ordered)

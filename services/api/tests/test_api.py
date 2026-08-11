@@ -155,7 +155,7 @@ def test_forecast_contract_and_exploratory_forecasts():
     assert comparison["held_out_election_count"] == 1
     assert comparison["simulation_count_per_model_fold"] == 1_000_000
     assert comparison["evaluated_horizon_min_days"] == 2
-    assert comparison["evaluated_horizon_max_days"] == 15
+    assert comparison["evaluated_horizon_max_days"] == 14
     assert comparison["target_horizon_days"] == 637
     assert comparison["vintage_verified"] is True
     assert comparison["historical_election_count"] == 3

@@ -153,6 +153,37 @@ def test_multiple_forecast_origins_are_horizon_matched_without_same_election_lea
         )
 
 
+def test_noncomparable_training_horizons_are_excluded_from_walk_forward_folds():
+    records = [_origin(_record(year, 0.0), 7) for year in range(1988, 2025, 4)]
+    records.append(_origin(_record(2024, 0.0), 90))
+    report = walk_forward_backtest(
+        records,
+        minimum_train=5,
+        dataset_sha256="a" * 64,
+        simulation_count=5_000,
+    )
+    assert all((fold.test_date - fold.test_forecast_as_of).days == 7 for fold in report.folds)
+
+
+def test_target_horizon_must_be_near_an_evaluated_fold_not_merely_inside_range():
+    records = [
+        _origin(_record(year, 0.0), horizon)
+        for year in range(1988, 2025, 4)
+        for horizon in (7, 821)
+    ]
+    report = walk_forward_backtest(
+        records,
+        minimum_train=5,
+        dataset_sha256="a" * 64,
+        simulation_count=5_000,
+        target_horizon_days=365,
+    )
+    assert report.evaluated_horizon_min_days == 7
+    assert report.evaluated_horizon_max_days == 821
+    assert report.reliable is False
+    assert "outside the evaluated" in " ".join(report.promotion_reasons)
+
+
 def test_gaussian_and_markov_predictive_distributions_are_distinct_and_reproducible():
     records = [_record(year, 0.0) for year in range(1990, 2002, 2)]
     train, test = records[:-1], records[-1]

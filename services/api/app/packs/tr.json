@@ -25,7 +25,7 @@
   ],
   "backtest_dataset": "tr-presidential-2014-2023-v1.json",
   "backtest_report": "tr-presidential-2014-2023-v1-report.json",
-  "backtest_report_sha256": "be8d7f7495b97bca55c1acff6dd19c2c77131d7525f87b1a87bcf8a9474cac5c",
+  "backtest_report_sha256": "9b30842dea9d0adde8d29d8e28531bfdb749c7c447c38d6fcde132ca5f074a5f",
   "rules": {
     "engine": "presidential_runoff",
     "rounds": 2,

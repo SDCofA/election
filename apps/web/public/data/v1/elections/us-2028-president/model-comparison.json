@@ -81,7 +81,7 @@
   "historical_span_years": 0,
   "maximum_held_out_elections": 0,
   "validation_constraints": [],
-  "message": "Every fold requires contemporaneous archived poll and source-revision provenance; Production forecast horizon is outside the evaluated historical horizon range",
+  "message": "Every fold requires contemporaneous archived poll and source-revision provenance; Production forecast horizon is outside the evaluated historical horizon neighborhoods",
   "as_of": "2026-08-09T09:00:00Z",
   "published_at": "2026-08-09T09:00:00Z",
   "model_version": "structural-ensemble-0.4.0",
