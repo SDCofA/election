@@ -3,7 +3,7 @@
   "status": "insufficient_evidence",
   "winner": null,
   "historical_leader": "markov_momentum",
-  "selection_rule": "minimum eight strict forecast-origin folds across three held-out elections and twenty years of source-vintage history; verified source revisions; election-clustered paired-bootstrap Brier superiority; RMSE and interval-coverage gates",
+  "selection_rule": "public baseline and challengers; minimum eight strict forecast-origin folds across three held-out elections and twenty years of source-vintage history; verified source revisions; election-clustered paired-bootstrap Brier superiority; RMSE and interval-coverage gates",
   "metrics": [
     {
       "model_family": "gaussian_monte_carlo",
@@ -24,6 +24,16 @@
       "vote_share_rmse": 0.012394063106365474,
       "interval_coverage": 0.4166666666666667,
       "calibration_error": 0.010433888888888881
+    },
+    {
+      "model_family": "baseline_ensemble",
+      "folds": 12,
+      "brier_score": 0.05134170079649999,
+      "brier_ci_low": 0.010670076949333335,
+      "brier_ci_high": 0.09201332464366664,
+      "vote_share_rmse": 0.010643365197742628,
+      "interval_coverage": 0.9722222222222222,
+      "calibration_error": 0.07858083333333335
     },
     {
       "model_family": "polls_only",

@@ -14,7 +14,8 @@ from .models import BacktestMetrics
 from .simulation import _markov_shift
 
 CHALLENGERS = ("gaussian_monte_carlo", "markov_momentum")
-BASELINES = ("polls_only", "fundamentals_only", "previous_election")
+PUBLIC_BASELINE = "baseline_ensemble"
+BASELINES = (PUBLIC_BASELINE, "polls_only", "fundamentals_only", "previous_election")
 FAMILIES = CHALLENGERS + BASELINES
 BACKTEST_SIMULATION_COUNT = 1_000_000
 
@@ -421,6 +422,8 @@ def _predict(
         return _normalize(np.asarray(test.fundamentals_shares, dtype=np.float64))
     if family == "previous_election":
         return _normalize(np.asarray(train[-1].actual_shares, dtype=np.float64))
+    if family == PUBLIC_BASELINE:
+        return base
     if family == "gaussian_monte_carlo":
         return _normalize(base + bias)
 
@@ -520,7 +523,8 @@ def _predictive_distribution(
         raise ValueError("Probabilistic backtests require at least 1,000 draws")
     point = _predict(family, train, test)
     dimensions = len(point)
-    residuals = _rolling_residuals(family, train, dimensions)
+    residual_family = "gaussian_monte_carlo" if family == PUBLIC_BASELINE else family
+    residuals = _rolling_residuals(residual_family, train, dimensions)
     covariance = _residual_covariance(residuals, dimensions)
     rng = np.random.default_rng(_stable_fold_seed(family, train, test))
 
@@ -538,6 +542,10 @@ def _predictive_distribution(
         shocks += _gaussian_draws(rng, simulation_count, covariance * 0.25)
     elif family == "gaussian_monte_carlo":
         shocks = _gaussian_draws(rng, simulation_count, covariance)
+    elif family == PUBLIC_BASELINE:
+        # Mirrors the public baseline's deliberately wider national-error scale
+        # (0.60 versus the Gaussian challenger's 0.45) while using only training residuals.
+        shocks = _gaussian_draws(rng, simulation_count, covariance * (0.60 / 0.45) ** 2)
     else:
         if len(residuals):
             indices = rng.integers(0, len(residuals), size=simulation_count)

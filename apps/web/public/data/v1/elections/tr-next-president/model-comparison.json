@@ -3,7 +3,7 @@
   "status": "insufficient_historical_vintages",
   "winner": null,
   "historical_leader": null,
-  "selection_rule": "strict multi-origin source-vintage walk-forward; election-clustered paired-bootstrap Brier superiority; RMSE and empirical interval-coverage gates",
+  "selection_rule": "public baseline plus challengers under strict multi-origin source-vintage walk-forward; election-clustered paired-bootstrap Brier superiority; RMSE and empirical interval-coverage gates",
   "metrics": [],
   "leakage_check": true,
   "fold_count": 0,

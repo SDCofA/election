@@ -80,6 +80,7 @@ def test_walk_forward_is_strict_and_reports_both_challengers():
     assert {metric.model_family for metric in report.metrics} == {
         "gaussian_monte_carlo",
         "markov_momentum",
+        "baseline_ensemble",
         "polls_only",
         "fundamentals_only",
         "previous_election",
@@ -161,6 +162,17 @@ def test_gaussian_and_markov_predictive_distributions_are_distinct_and_reproduci
     assert (markov.share_low == replay.share_low).all()
     assert abs(markov.winner_probabilities.sum() - 1) < 1e-12
     assert not (gaussian.share_low == markov.share_low).all()
+
+
+def test_public_baseline_is_scored_and_wider_than_gaussian_challenger():
+    records = [_record(year, 0.0) for year in range(1990, 2002, 2)]
+    train, test = records[:-1], records[-1]
+    baseline = _predictive_distribution("baseline_ensemble", train, test, 5_000)
+    gaussian = _predictive_distribution("gaussian_monte_carlo", train, test, 5_000)
+    baseline_width = baseline.share_high - baseline.share_low
+    gaussian_width = gaussian.share_high - gaussian.share_low
+    assert (baseline_width > gaussian_width).all()
+    assert abs(baseline.winner_probabilities.sum() - 1) < 1e-12
 
 
 def test_backtest_rejects_future_vintage():

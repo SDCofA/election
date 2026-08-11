@@ -754,7 +754,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
             </article>
           </div>
           <article className="panel comparison-panel" aria-labelledby="model-comparison-heading">
-            <header><span id="model-comparison-heading">GAUSSIAN VS MARKOV</span><small>Strict walk-forward promotion gate</small></header>
+            <header><span id="model-comparison-heading">PUBLIC BASELINE VS CHALLENGERS</span><small>Strict walk-forward promotion gate</small></header>
             <div className="comparison-summary">
               <div><small>PUBLIC MODEL</small><b>{forecast.model_family.replaceAll("_", " ")}</b></div>
               <div><small>CHALLENGERS</small><b>Gaussian · Markov momentum</b></div>

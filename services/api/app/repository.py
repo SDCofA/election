@@ -301,7 +301,8 @@ class CatalogRepository:
                 status="insufficient_historical_vintages",
                 winner=None,
                 selection_rule=(
-                    "strict multi-origin source-vintage walk-forward; election-clustered "
+                    "public baseline plus challengers under strict multi-origin source-vintage "
+                    "walk-forward; election-clustered "
                     "paired-bootstrap Brier superiority; RMSE and empirical "
                     "interval-coverage gates"
                 ),
@@ -332,7 +333,8 @@ class CatalogRepository:
             winner=report.winner,
             historical_leader=historical_leader,
             selection_rule=(
-                "minimum eight strict forecast-origin folds across three held-out elections "
+                "public baseline and challengers; minimum eight strict forecast-origin folds "
+                "across three held-out elections "
                 "and twenty years of source-vintage history; verified source revisions; "
                 "election-clustered paired-bootstrap Brier superiority; RMSE and "
                 "interval-coverage gates"
