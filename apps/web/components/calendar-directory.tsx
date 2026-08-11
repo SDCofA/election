@@ -75,11 +75,12 @@ export function CalendarDirectory() {
         </nav>
         <span>G20 ELECTION DIRECTORY / SDCofA</span>
         <h1>G20 countries only.</h1>
-        <p>The 19 sovereign G20 countries appear alphabetically. Regional bodies are excluded. Every sourced election record carries a forecast; unresolved dates, mechanics, and ballots remain explicit D-grade scenarios.</p>
+        <p>The 19 sovereign G20 countries appear alphabetically. Regional bodies are excluded. Every country has a sourced national election-status record; forecasts publish only where an electoral event and defensible probability target exist.</p>
         <div>
           <b>{status?.total_jurisdictions ?? jurisdictions.length}</b><small>LISTED</small>
           <b>{status?.sourced_calendars ?? elections.length}</b><small>SOURCED RECORDS</small>
           <b>{status?.forecast_ready ?? 0}</b><small>FORECAST READY</small>
+          <b>{status?.calendar_only ?? 0}</b><small>CALENDAR ONLY</small>
         </div>
       </header>
       <label className="calendar-search">

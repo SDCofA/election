@@ -1,0 +1,30 @@
+{
+  "jurisdiction": {
+    "id": "sau", "name": "Saudi Arabia", "iso3": "SAU", "region": "Middle East, North Africa & Gulf",
+    "eligibility": "institutional-calendar:no-national-election", "is_exception": true,
+    "forecast_enabled": false, "coverage_status": "calendar_only", "flag": "SA",
+    "blocking_reasons": [
+      "Saudi Arabia is a monarchy and has no scheduled national popular election for executive or legislative control",
+      "The Consultative Council is appointed rather than elected nationally"
+    ]
+  },
+  "source_adapters": [
+    {"source_id":"saudi_basic_law","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"saudi_shura","status":"reference_only_no_ingestion","formats":["html"]}
+  ],
+  "rules": {
+    "engine": "institutional", "calendar_only": true,
+    "selection": "hereditary monarchy and appointed Consultative Council",
+    "national_popular_ballot": false
+  },
+  "election": {
+    "id": "sa-national-election-status", "jurisdiction_id": "sau", "name": "National Election Status",
+    "election_date": null, "date_confidence": "no national election scheduled",
+    "system": "institutional", "status": "calendar only; no national popular election exists to forecast",
+    "last_updated": "2026-08-11T12:00:00Z", "contestants": [], "potential_candidates": [],
+    "sources": [
+      {"source_id":"saudi_basic_law","label":"Basic Law of Governance","url":"https://www.shura.gov.sa/wps/wcm/connect/ShuraEn/internet/Laws+and+Regulations/The+Basic+Law+Of+Government/","authority":"official Consultative Council publication","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.shura.gov.sa/"},
+      {"source_id":"saudi_shura","label":"Consultative Council of Saudi Arabia","url":"https://www.shura.gov.sa/wps/wcm/connect/ShuraEn/internet/Home/","authority":"official","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.shura.gov.sa/"}
+    ]
+  }
+}

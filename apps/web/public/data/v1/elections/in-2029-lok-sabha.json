@@ -1,0 +1,360 @@
+{
+  "jurisdiction": {
+    "id": "ind",
+    "name": "India",
+    "iso3": "IND",
+    "region": "South Asia",
+    "eligibility": "configured-exception:exploratory-forecast",
+    "is_exception": true,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
+    "flag": "IN"
+  },
+  "election": {
+    "id": "in-2029-lok-sabha",
+    "jurisdiction_id": "ind",
+    "name": "2029 Lok Sabha Election",
+    "election_date": "2029-05-20",
+    "date_confidence": "five-year constitutional-cycle estimate; official schedule pending",
+    "system": "fptp",
+    "seats_total": 543,
+    "majority": 272,
+    "threshold": 0.0,
+    "status": "exploratory structural forecast; alliances and constituencies may change",
+    "last_updated": "2026-08-11T12:00:00Z",
+    "contestants": [
+      {
+        "id": "nda",
+        "name": "National Democratic Alliance",
+        "short_name": "NDA",
+        "color": "#f28c28",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "BJP-led governing alliance",
+        "ballot_status": "scenario",
+        "basis": "Current governing alliance; 2029 party and seat-sharing agreements are not final."
+      },
+      {
+        "id": "india-alliance",
+        "name": "INDIA opposition alliance",
+        "short_name": "INDIA",
+        "color": "#2f69bf",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition alliance",
+        "ballot_status": "scenario",
+        "basis": "2024 opposition alliance carried forward as a structural scenario; membership and seat-sharing may change."
+      },
+      {
+        "id": "other-parties",
+        "name": "Other and non-aligned parties",
+        "short_name": "OTH",
+        "color": "#6f756d",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "regional and non-aligned parties",
+        "ballot_status": "scenario",
+        "basis": "Regional and other parties outside the two modeled alliance blocs."
+      }
+    ],
+    "potential_candidates": [
+      {
+        "id": "nda",
+        "name": "NDA parties and nominees",
+        "short_name": "NDA",
+        "color": "#f28c28",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "BJP-led governing alliance",
+        "ballot_status": "possible",
+        "basis": "The prime minister is selected through Lok Sabha confidence; individual constituency nominations are not final."
+      },
+      {
+        "id": "india-alliance",
+        "name": "INDIA alliance parties and nominees",
+        "short_name": "INDIA",
+        "color": "#2f69bf",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition alliance",
+        "ballot_status": "possible",
+        "basis": "Alliance composition and constituency agreements remain open."
+      },
+      {
+        "id": "other-parties",
+        "name": "Regional and non-aligned parties",
+        "short_name": "OTH",
+        "color": "#6f756d",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "regional and non-aligned parties",
+        "ballot_status": "possible",
+        "basis": "Parties outside the two national alliance scenarios can be decisive in government formation."
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "india_eci_2024",
+        "label": "Election Commission of India — 2024 Lok Sabha results",
+        "url": "https://results.eci.gov.in/PcResultGenJune2024/index.htm",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.eci.gov.in/"
+      },
+      {
+        "source_id": "india_eci_terms",
+        "label": "Election Commission of India — terms of houses",
+        "url": "https://eci.gov.in/elections/term-of-houses/",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.eci.gov.in/"
+      },
+      {
+        "source_id": "india_lok_sabha",
+        "label": "Lok Sabha institutional overview",
+        "url": "https://sansad.in/ls/about/introduction",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://sansad.in/"
+      }
+    ]
+  },
+  "forecast": {
+    "id": "in-2029-lok-sabha-structural-ensemble-0.4.0-baseline_ensemble-20260811T120000Z-structural",
+    "election_id": "in-2029-lok-sabha",
+    "as_of": "2026-08-11T12:00:00Z",
+    "published_at": "2026-08-11T12:00:00Z",
+    "model_version": "structural-ensemble-0.4.0",
+    "model_family": "baseline_ensemble",
+    "selection_status": "baseline retained until reliable walk-forward promotion evidence",
+    "simulation_count": 1000000,
+    "seed": 3842922955,
+    "data_quality": "D",
+    "freshness": "structural-only; no source-vintage feature snapshot",
+    "missing_drivers": [
+      "Economic voting environment",
+      "Constituency-level translation",
+      "Source-vintage polling and fundamentals",
+      "Source-vintage polling",
+      "Validated historical release-vintage backtest",
+      "Subnational model"
+    ],
+    "regional_forecast_supported": false,
+    "headline": "The NDA begins ahead on the 2024 alliance baseline, but a long horizon, alliance changes and constituency geography keep government control highly uncertain.",
+    "majority_probability": 0.927785,
+    "turnout_median": 0.6599910259246826,
+    "forecast_horizon_days": 1013,
+    "uncertainty_scale": 1.546130147665206,
+    "effective_volatility": 0.16234366550484663,
+    "outcomes": [
+      {
+        "contestant_id": "nda",
+        "win_probability": 0.485179,
+        "projected_share": 0.4184718728065491,
+        "share_low": 0.1500164233148098,
+        "share_high": 0.6770139545202255,
+        "projected_seats": 251,
+        "seats_low": 8,
+        "seats_high": 515
+      },
+      {
+        "contestant_id": "india-alliance",
+        "win_probability": 0.432169,
+        "projected_share": 0.39924606680870056,
+        "share_low": 0.13322499245405198,
+        "share_high": 0.6556352376937863,
+        "projected_seats": 229,
+        "seats_low": 5,
+        "seats_high": 506
+      },
+      {
+        "contestant_id": "other-parties",
+        "win_probability": 0.082652,
+        "projected_share": 0.18228204548358917,
+        "share_low": 0.0027133314753882585,
+        "share_high": 0.43895914852619167,
+        "projected_seats": 63,
+        "seats_low": 0,
+        "seats_high": 307
+      }
+    ],
+    "scenario_outcomes": [],
+    "coalition_outcomes": [
+      {
+        "member_ids": [
+          "nda",
+          "india-alliance"
+        ],
+        "majority_probability": 0.934798,
+        "seats_median": 529,
+        "seats_low": 236,
+        "seats_high": 543
+      },
+      {
+        "member_ids": [
+          "nda",
+          "other-parties"
+        ],
+        "majority_probability": 0.594597,
+        "seats_median": 332,
+        "seats_low": 37,
+        "seats_high": 538
+      },
+      {
+        "member_ids": [
+          "india-alliance",
+          "other-parties"
+        ],
+        "majority_probability": 0.54282,
+        "seats_median": 299,
+        "seats_low": 28,
+        "seats_high": 535
+      }
+    ],
+    "drivers": [
+      {
+        "key": "incumbency",
+        "label": "NDA incumbency and organization",
+        "value": "Structural advantage",
+        "contribution": 0.28,
+        "direction": "government",
+        "confidence": 0.55
+      },
+      {
+        "key": "opposition_selection",
+        "label": "INDIA alliance coordination",
+        "value": "Seat-sharing unresolved",
+        "contribution": -0.12,
+        "direction": "government",
+        "confidence": 0.38
+      },
+      {
+        "key": "regional_parties",
+        "label": "Regional-party leverage",
+        "value": "Potentially decisive",
+        "contribution": -0.05,
+        "direction": "government",
+        "confidence": 0.42
+      },
+      {
+        "key": "economy",
+        "label": "Economic voting environment",
+        "value": "Source-vintage inputs pending",
+        "contribution": 0.02,
+        "direction": "government",
+        "confidence": 0.16
+      },
+      {
+        "key": "geography",
+        "label": "Constituency-level translation",
+        "value": "National proxy only",
+        "contribution": 0.0,
+        "direction": "neutral",
+        "confidence": 0.1
+      }
+    ],
+    "driver_sensitivity": [
+      {
+        "driver_key": "incumbency",
+        "label": "NDA incumbency and organization",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.28,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0042938,
+        "observed_incumbent_share_shift": 0.0006342000000000002,
+        "positive_incumbent_share_shift": 0.0034062000000000007,
+        "confidence": 0.55,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "opposition_selection",
+        "label": "INDIA alliance coordination",
+        "negative_scenario": -1.0,
+        "observed_scenario": -0.12,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0017066,
+        "observed_incumbent_share_shift": 0.0006342000000000002,
+        "positive_incumbent_share_shift": 0.0036134000000000006,
+        "confidence": 0.38,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "regional_parties",
+        "label": "Regional-party leverage",
+        "negative_scenario": -1.0,
+        "observed_scenario": -0.05,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0021587999999999998,
+        "observed_incumbent_share_shift": 0.0006342000000000002,
+        "positive_incumbent_share_shift": 0.0037212,
+        "confidence": 0.42,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "economy",
+        "label": "Economic voting environment",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.02,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -0.0005082,
+        "observed_incumbent_share_shift": 0.0006342000000000002,
+        "positive_incumbent_share_shift": 0.0017318000000000004,
+        "confidence": 0.16,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      },
+      {
+        "driver_key": "geography",
+        "label": "Constituency-level translation",
+        "negative_scenario": -1.0,
+        "observed_scenario": 0.0,
+        "positive_scenario": 1.0,
+        "negative_incumbent_share_shift": -6.579999999999986e-05,
+        "observed_incumbent_share_shift": 0.0006342000000000002,
+        "positive_incumbent_share_shift": 0.0013342000000000002,
+        "confidence": 0.1,
+        "clipped": false,
+        "method": "One-at-a-time structural perturbation; all other inputs held constant"
+      }
+    ],
+    "methodology_url": "/methodology",
+    "input_revision_ids": [],
+    "input_provenance": [],
+    "provenance": [
+      {
+        "source_id": "india_eci_2024",
+        "label": "Election Commission of India — 2024 Lok Sabha results",
+        "url": "https://results.eci.gov.in/PcResultGenJune2024/index.htm",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.eci.gov.in/"
+      },
+      {
+        "source_id": "india_eci_terms",
+        "label": "Election Commission of India — terms of houses",
+        "url": "https://eci.gov.in/elections/term-of-houses/",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.eci.gov.in/"
+      },
+      {
+        "source_id": "india_lok_sabha",
+        "label": "Lok Sabha institutional overview",
+        "url": "https://sansad.in/ls/about/introduction",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://sansad.in/"
+      }
+    ]
+  }
+}

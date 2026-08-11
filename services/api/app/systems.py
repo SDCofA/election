@@ -122,6 +122,11 @@ def validate_pack_rules(election: Election, rules: dict) -> None:
         threshold = rules.get("first_round_threshold")
         if rules.get("rounds") != 2 or threshold is None or not 0.5 <= threshold <= 1:
             raise ValueError(f"{election.id}: invalid presidential runoff rules")
+    if (
+        election.system == ElectionSystem.PRESIDENTIAL_PLURALITY
+        and rules.get("winner_rule") != "plurality"
+    ):
+        raise ValueError(f"{election.id}: presidential plurality requires a plurality rule")
     if election.system == ElectionSystem.INSTITUTIONAL and not (
         rules.get("calendar_only") or rules.get("exploratory_scenario")
     ):

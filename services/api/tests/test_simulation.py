@@ -36,9 +36,11 @@ def test_all_public_g20_forecasts_produce_normalized_outcomes():
     repo = get_repository()
     assert {item.system for item in repo.elections.values()} == {
         "presidential_runoff",
+        "presidential_plurality",
         "fptp",
         "mixed_member",
         "electoral_college",
+        "institutional",
         "unresolved",
     }
     for snapshot in repo.forecasts.values():

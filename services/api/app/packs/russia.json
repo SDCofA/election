@@ -1,0 +1,33 @@
+{
+  "jurisdiction": {
+    "id": "rus", "name": "Russian Federation", "iso3": "RUS", "region": "Europe & Central Asia",
+    "eligibility": "calendar-only:forecast-evidence-insufficient", "is_exception": true,
+    "forecast_enabled": false, "coverage_status": "calendar_only", "flag": "RU",
+    "blocking_reasons": [
+      "The 2030 election date and official candidate list have not been issued",
+      "No approved source-vintage polling dataset satisfies the forecast and backtest gates"
+    ]
+  },
+  "source_adapters": [
+    {"source_id":"russia_cik_2024","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"russia_cik","status":"reference_only_no_ingestion","formats":["html"]}
+  ],
+  "rules": {
+    "engine": "presidential_runoff", "rounds": 2, "first_round_threshold": 0.5,
+    "term_years": 6, "calendar_only": true
+  },
+  "election": {
+    "id": "ru-2030-president", "jurisdiction_id": "rus", "name": "2030 Presidential Election",
+    "election_date": "2030-03-17", "date_confidence": "six-year constitutional-cycle estimate; official date pending",
+    "system": "presidential_runoff", "status": "calendar only; official timetable and candidate registration pending",
+    "last_updated": "2026-08-11T12:00:00Z", "contestants": [],
+    "potential_candidates": [
+      {"id":"incumbent-path","name":"Incumbent / governing-system nominee","short_name":"GOV","color":"#9f3030","incumbent":true,"ideology":"governing-system path","ballot_status":"possible","basis":"Eligibility and participation do not constitute an official nomination."},
+      {"id":"other-registered","name":"Other registered candidates","short_name":"OTH","color":"#4f6f91","ideology":"other registered candidacies","ballot_status":"possible","basis":"Candidate registration has not begun."}
+    ],
+    "sources": [
+      {"source_id":"russia_cik_2024","label":"Central Election Commission — 2024 presidential election results","url":"https://www.cikrf.ru/analog/prezidentskiye-vybory-2024/itogi-golosovaniya/","authority":"official","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.cikrf.ru/"},
+      {"source_id":"russia_cik","label":"Central Election Commission of the Russian Federation","url":"https://www.cikrf.ru/","authority":"official","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.cikrf.ru/"}
+    ]
+  }
+}

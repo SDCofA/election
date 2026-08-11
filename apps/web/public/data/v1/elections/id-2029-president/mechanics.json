@@ -1,0 +1,52 @@
+{
+  "election_id": "id-2029-president",
+  "system": "presidential_runoff",
+  "rules": {
+    "engine": "presidential_runoff",
+    "rounds": 2,
+    "first_round_threshold": 0.5,
+    "regional_requirement": "more than 20 percent in more than half of provinces; not yet modeled"
+  },
+  "source_adapters": [
+    {
+      "source_id": "indonesia_kpu_2024",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "pdf"
+      ]
+    },
+    {
+      "source_id": "indonesia_constitution",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "pdf"
+      ]
+    }
+  ],
+  "forecast_enabled": true,
+  "as_of": "2026-08-11T12:00:00Z",
+  "published_at": "2026-08-11T12:00:00Z",
+  "model_version": "structural-ensemble-0.4.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "indonesia_kpu_2024",
+      "label": "KPU Decision 1043/2024 — official national 2024 election results",
+      "url": "https://jdih.kpu.go.id/data/data_kepkpu/2024kpt1043.pdf",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://jdih.kpu.go.id/"
+    },
+    {
+      "source_id": "indonesia_constitution",
+      "label": "Constitution of Indonesia — presidential term and election rules",
+      "url": "https://www.mkri.id/public/content/infoumum/regulation/pdf/uud45%20eng.pdf",
+      "authority": "official constitutional court publication",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.mkri.id/"
+    }
+  ]
+}

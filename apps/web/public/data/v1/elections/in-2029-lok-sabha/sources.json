@@ -1,0 +1,66 @@
+{
+  "election_id": "in-2029-lok-sabha",
+  "sources": [
+    {
+      "source_id": "india_eci_2024",
+      "label": "Election Commission of India — 2024 Lok Sabha results",
+      "url": "https://results.eci.gov.in/PcResultGenJune2024/index.htm",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.eci.gov.in/"
+    },
+    {
+      "source_id": "india_eci_terms",
+      "label": "Election Commission of India — terms of houses",
+      "url": "https://eci.gov.in/elections/term-of-houses/",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.eci.gov.in/"
+    },
+    {
+      "source_id": "india_lok_sabha",
+      "label": "Lok Sabha institutional overview",
+      "url": "https://sansad.in/ls/about/introduction",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://sansad.in/"
+    }
+  ],
+  "as_of": "2026-08-11T12:00:00Z",
+  "published_at": "2026-08-11T12:00:00Z",
+  "model_version": "structural-ensemble-0.4.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "india_eci_2024",
+      "label": "Election Commission of India — 2024 Lok Sabha results",
+      "url": "https://results.eci.gov.in/PcResultGenJune2024/index.htm",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.eci.gov.in/"
+    },
+    {
+      "source_id": "india_eci_terms",
+      "label": "Election Commission of India — terms of houses",
+      "url": "https://eci.gov.in/elections/term-of-houses/",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.eci.gov.in/"
+    },
+    {
+      "source_id": "india_lok_sabha",
+      "label": "Lok Sabha institutional overview",
+      "url": "https://sansad.in/ls/about/introduction",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://sansad.in/"
+    }
+  ]
+}

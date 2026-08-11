@@ -38,7 +38,7 @@ export default function MethodologyPage() {
 
       <section>
         <h2>Forecast availability policy</h2>
-        <p>Official nominations, final electoral mechanics, and machine-reuse permission affect certainty—not whether a forecast exists. Every sourced election record receives a one-million-run scenario. When the ballot is unsettled, the model uses explicitly labeled possible candidates, parties, regional paths, or governing-versus-opposition blocs. Reference-only sources are linked but never ingested. Unresolved records use a neutral 40/40/20 governing, opposition, and other prior, a wide 16-point volatility parameter, and a three-year planning horizon.</p>
+        <p>Official nominations, final electoral mechanics, and machine-reuse permission affect certainty. A one-million-run forecast publishes only when a defensible electoral probability target exists. When a genuine ballot is unsettled, the model uses explicitly labeled candidate, party, alliance, or governing-versus-opposition scenarios. Where there is no national popular election—or evidence cannot support a probability—the country remains a sourced calendar-only record. Reference-only sources are linked but never ingested.</p>
         <p>These proxy forecasts are grade D. They are not presented as validated candidate polls, and they cannot promote a challenger model. Names and mechanics replace proxies as reproducible source-vintage evidence arrives.</p>
       </section>
 
@@ -83,7 +83,7 @@ export default function MethodologyPage() {
 
       <section>
         <h2>G20 coverage states</h2>
-        <p>Public scope is limited to the 19 sovereign G20 countries. The European Union and African Union are excluded. Countries without a sourced election record remain listing-only. All sourced G20 election records carry an explicitly exploratory forecast even before official nominations; candidate, timing, legal, licensing, and mechanics uncertainty widen the model rather than erase the contest.</p>
+        <p>Public scope is limited to the 19 sovereign G20 countries. The European Union and African Union are excluded. All 19 now have sourced national election-status records. Sixteen carry forecasts; China and Saudi Arabia remain calendar-only because no national popular executive or legislative-control ballot exists, while Russia remains calendar-only until an official timetable, candidate field, and approved source-vintage evidence support a probability.</p>
         <div className="method-links"><Link href="/calendar">G20 election directory</Link></div>
       </section>
     </main>

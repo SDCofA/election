@@ -1,0 +1,53 @@
+{
+  "election_id": "mx-2030-president",
+  "system": "presidential_plurality",
+  "rules": {
+    "engine": "presidential_plurality",
+    "winner_rule": "plurality",
+    "rounds": 1,
+    "term_years": 6,
+    "reelection": false
+  },
+  "source_adapters": [
+    {
+      "source_id": "mexico_ine_2024",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html"
+      ]
+    },
+    {
+      "source_id": "mexico_constitution",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "pdf"
+      ]
+    }
+  ],
+  "forecast_enabled": true,
+  "as_of": "2026-08-11T12:00:00Z",
+  "published_at": "2026-08-11T12:00:00Z",
+  "model_version": "structural-ensemble-0.4.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "mexico_ine_2024",
+      "label": "INE — official 2024 presidential district counts",
+      "url": "https://computos2024.ine.mx/presidencia/nacional/candidatura",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ine.mx/"
+    },
+    {
+      "source_id": "mexico_constitution",
+      "label": "Political Constitution of the United Mexican States",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "authority": "official chamber of deputies publication",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.diputados.gob.mx/"
+    }
+  ]
+}

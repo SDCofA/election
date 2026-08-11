@@ -1,0 +1,50 @@
+{
+  "jurisdiction": {
+    "id": "ind", "name": "India", "iso3": "IND", "region": "South Asia",
+    "eligibility": "configured-exception:exploratory-forecast", "is_exception": true,
+    "forecast_enabled": true, "coverage_status": "forecast", "blocking_reasons": [], "flag": "IN"
+  },
+  "source_adapters": [
+    {"source_id":"india_eci_2024","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"india_eci_terms","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"india_lok_sabha","status":"reference_only_no_ingestion","formats":["html"]}
+  ],
+  "rules": {
+    "engine": "fptp", "seats": 543, "majority": 272,
+    "constituencies": 543, "forecast_translation": "national FPTP elasticity proxy"
+  },
+  "election": {
+    "id": "in-2029-lok-sabha", "jurisdiction_id": "ind", "name": "2029 Lok Sabha Election",
+    "election_date": "2029-05-20", "date_confidence": "five-year constitutional-cycle estimate; official schedule pending",
+    "system": "fptp", "status": "exploratory structural forecast; alliances and constituencies may change",
+    "last_updated": "2026-08-11T12:00:00Z", "seats_total": 543, "majority": 272,
+    "contestants": [
+      {"id":"nda","name":"National Democratic Alliance","short_name":"NDA","color":"#f28c28","incumbent":true,"ideology":"BJP-led governing alliance","ballot_status":"scenario","basis":"Current governing alliance; 2029 party and seat-sharing agreements are not final."},
+      {"id":"india-alliance","name":"INDIA opposition alliance","short_name":"INDIA","color":"#2f69bf","ideology":"opposition alliance","ballot_status":"scenario","basis":"2024 opposition alliance carried forward as a structural scenario; membership and seat-sharing may change."},
+      {"id":"other-parties","name":"Other and non-aligned parties","short_name":"OTH","color":"#6f756d","ideology":"regional and non-aligned parties","ballot_status":"scenario","basis":"Regional and other parties outside the two modeled alliance blocs."}
+    ],
+    "potential_candidates": [
+      {"id":"nda","name":"NDA parties and nominees","short_name":"NDA","color":"#f28c28","incumbent":true,"ideology":"BJP-led governing alliance","ballot_status":"possible","basis":"The prime minister is selected through Lok Sabha confidence; individual constituency nominations are not final."},
+      {"id":"india-alliance","name":"INDIA alliance parties and nominees","short_name":"INDIA","color":"#2f69bf","ideology":"opposition alliance","ballot_status":"possible","basis":"Alliance composition and constituency agreements remain open."},
+      {"id":"other-parties","name":"Regional and non-aligned parties","short_name":"OTH","color":"#6f756d","ideology":"regional and non-aligned parties","ballot_status":"possible","basis":"Parties outside the two national alliance scenarios can be decisive in government formation."}
+    ],
+    "sources": [
+      {"source_id":"india_eci_2024","label":"Election Commission of India — 2024 Lok Sabha results","url":"https://results.eci.gov.in/PcResultGenJune2024/index.htm","authority":"official","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.eci.gov.in/"},
+      {"source_id":"india_eci_terms","label":"Election Commission of India — terms of houses","url":"https://eci.gov.in/elections/term-of-houses/","authority":"official","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.eci.gov.in/"},
+      {"source_id":"india_lok_sabha","label":"Lok Sabha institutional overview","url":"https://sansad.in/ls/about/introduction","authority":"official","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://sansad.in/"}
+    ]
+  },
+  "model": {
+    "base_shares": [0.425, 0.406, 0.169], "volatility": 0.105, "volatility_reference_days": 90,
+    "turnout": 0.66, "data_quality": "D",
+    "freshness": "long-range alliance scenario anchored to official 2024 results; no source-vintage 2029 polling",
+    "headline": "The NDA begins ahead on the 2024 alliance baseline, but a long horizon, alliance changes and constituency geography keep government control highly uncertain."
+  },
+  "drivers": [
+    {"key":"incumbency","label":"NDA incumbency and organization","value":"Structural advantage","contribution":0.28,"direction":"government","confidence":0.55},
+    {"key":"opposition_selection","label":"INDIA alliance coordination","value":"Seat-sharing unresolved","contribution":-0.12,"direction":"government","confidence":0.38},
+    {"key":"regional_parties","label":"Regional-party leverage","value":"Potentially decisive","contribution":-0.05,"direction":"government","confidence":0.42},
+    {"key":"economy","label":"Economic voting environment","value":"Source-vintage inputs pending","contribution":0.02,"direction":"government","confidence":0.16},
+    {"key":"geography","label":"Constituency-level translation","value":"National proxy only","contribution":0.0,"direction":"neutral","confidence":0.1}
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "election_id": "ru-2030-president",
+  "system": "presidential_runoff",
+  "rules": {
+    "engine": "presidential_runoff",
+    "rounds": 2,
+    "first_round_threshold": 0.5,
+    "term_years": 6,
+    "calendar_only": true
+  },
+  "source_adapters": [
+    {
+      "source_id": "russia_cik_2024",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html"
+      ]
+    },
+    {
+      "source_id": "russia_cik",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html"
+      ]
+    }
+  ],
+  "forecast_enabled": false,
+  "as_of": "2026-08-11T12:00:00Z",
+  "published_at": "2026-08-11T12:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "calendar only; official timetable and candidate registration pending",
+  "provenance": [
+    {
+      "source_id": "russia_cik_2024",
+      "label": "Central Election Commission — 2024 presidential election results",
+      "url": "https://www.cikrf.ru/analog/prezidentskiye-vybory-2024/itogi-golosovaniya/",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.cikrf.ru/"
+    },
+    {
+      "source_id": "russia_cik",
+      "label": "Central Election Commission of the Russian Federation",
+      "url": "https://www.cikrf.ru/",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.cikrf.ru/"
+    }
+  ]
+}

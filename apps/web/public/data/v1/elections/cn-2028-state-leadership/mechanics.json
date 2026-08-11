@@ -1,0 +1,53 @@
+{
+  "election_id": "cn-2028-state-leadership",
+  "system": "institutional",
+  "rules": {
+    "engine": "institutional",
+    "calendar_only": true,
+    "selection": "President elected by the National People's Congress",
+    "npc_term_years": 5,
+    "national_popular_ballot": false
+  },
+  "source_adapters": [
+    {
+      "source_id": "china_constitution",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html"
+      ]
+    },
+    {
+      "source_id": "china_npc",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html"
+      ]
+    }
+  ],
+  "forecast_enabled": false,
+  "as_of": "2026-08-11T12:00:00Z",
+  "published_at": "2026-08-11T12:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "calendar only; indirect institutional selection, not a national popular election",
+  "provenance": [
+    {
+      "source_id": "china_constitution",
+      "label": "Constitution of the People's Republic of China",
+      "url": "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html",
+      "authority": "official government publication",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://english.www.gov.cn/"
+    },
+    {
+      "source_id": "china_npc",
+      "label": "National People's Congress",
+      "url": "https://www.npc.gov.cn/englishnpc/index.shtml",
+      "authority": "official legislature",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.npc.gov.cn/"
+    }
+  ]
+}

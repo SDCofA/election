@@ -1,0 +1,49 @@
+{
+  "election_id": "id-2029-president",
+  "status": "insufficient_historical_vintages",
+  "winner": null,
+  "historical_leader": null,
+  "selection_rule": "public baseline plus challengers under strict multi-origin source-vintage walk-forward; election-clustered paired-bootstrap Brier superiority; RMSE and empirical interval-coverage gates",
+  "metrics": [],
+  "leakage_check": true,
+  "fold_count": 0,
+  "held_out_election_count": 0,
+  "simulation_count_per_model_fold": 0,
+  "evaluated_horizon_min_days": null,
+  "evaluated_horizon_max_days": null,
+  "target_horizon_days": null,
+  "evaluation_period_start": null,
+  "evaluation_period_end": null,
+  "dataset_sha256": null,
+  "vintage_verified": false,
+  "historical_election_count": 0,
+  "historical_span_years": 0,
+  "maximum_held_out_elections": 0,
+  "validation_constraints": [],
+  "message": "No champion declared: no approved historical source-vintage dataset is attached to this jurisdiction pack.",
+  "as_of": "2026-08-11T12:00:00Z",
+  "published_at": "2026-08-11T12:00:00Z",
+  "model_version": "structural-ensemble-0.4.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "indonesia_kpu_2024",
+      "label": "KPU Decision 1043/2024 — official national 2024 election results",
+      "url": "https://jdih.kpu.go.id/data/data_kepkpu/2024kpt1043.pdf",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://jdih.kpu.go.id/"
+    },
+    {
+      "source_id": "indonesia_constitution",
+      "label": "Constitution of Indonesia — presidential term and election rules",
+      "url": "https://www.mkri.id/public/content/infoumum/regulation/pdf/uud45%20eng.pdf",
+      "authority": "official constitutional court publication",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.mkri.id/"
+    }
+  ]
+}

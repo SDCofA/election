@@ -89,12 +89,13 @@ test("parliament layout matches visual regression baseline", async ({ page }, te
 
 test("Brazil publishes an exploratory forecast and a possible candidate field", async ({ page }) => {
   await page.goto("/elections/br-2026-president");
+  await expect(page.getByRole("heading", { name: /Brazil/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
-  await expect(page.locator(".possible-field-grid strong").filter({ hasText: "Luiz Inácio Lula da Silva" })).toBeVisible();
+  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible({ timeout: 10_000 });
+  await expect(page.locator(".possible-field-grid strong").filter({ hasText: "Luiz Inácio Lula da Silva" })).toBeVisible({ timeout: 10_000 });
 });
 
-test("directory lists only G20 members and forecasts every sourced record", async ({ page }) => {
+test("directory lists sourced status records for only the 19 G20 countries", async ({ page }) => {
   await page.goto("/calendar");
   await expect(page.getByRole("heading", { name: "G20 countries only." })).toBeVisible();
   await expect(page.locator(".calendar-directory-grid > *")).toHaveCount(19);
@@ -105,8 +106,9 @@ test("directory lists only G20 members and forecasts every sourced record", asyn
   const argentina = page.getByRole("link", { name: /Argentina/ });
   await expect(argentina).toContainText("2029");
   await argentina.click();
+  await expect(page.getByRole("heading", { name: /Argentina/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
+  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible({ timeout: 10_000 });
   await expect(page.locator(".possible-field-grid strong").filter({ hasText: "Leading opposition camp / nominee" }).first()).toBeVisible();
   const violations = await new AxeBuilder({ page })
     .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
@@ -114,8 +116,27 @@ test("directory lists only G20 members and forecasts every sourced record", asyn
   expect(violations.violations).toEqual([]);
 });
 
+test("country-specific additions distinguish forecasts from calendar-only systems", async ({ page }) => {
+  await page.goto("/elections/in-2029-lok-sabha");
+  await expect(page.getByRole("heading", { name: /India/ })).toBeVisible({ timeout: 15_000 });
+  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
+  await expect(page.getByText("NDA MEDIAN")).toBeVisible();
+
+  await page.goto("/elections/mx-2030-president");
+  await expect(page.getByRole("heading", { name: /Mexico/ })).toBeVisible({ timeout: 15_000 });
+  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
+  await expect(page.getByText(/Morena-led governing nominee/)).toBeVisible();
+
+  await page.goto("/elections/sa-national-election-status");
+  await expect(page.getByRole("heading", { name: /Saudi Arabia/ })).toBeVisible({ timeout: 15_000 });
+  await expect(page.getByRole("heading", { name: "Forecast unavailable" })).toBeVisible();
+  await expect(page.getByText(/no scheduled national popular election/i)).toBeVisible();
+  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+});
+
 test("Türkiye exposes a million-run exploratory forecast and named possibilities", async ({ page }) => {
   await page.goto("/elections/tr-next-president");
+  await expect(page.getByRole("heading", { name: /Türkiye/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.locator(".breaking b")).toHaveText("1,000,000 RUNS");
   await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
   await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();

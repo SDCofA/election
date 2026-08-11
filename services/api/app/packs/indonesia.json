@@ -1,0 +1,48 @@
+{
+  "jurisdiction": {
+    "id": "idn", "name": "Indonesia", "iso3": "IDN", "region": "East Asia & Pacific",
+    "eligibility": "configured-exception:exploratory-forecast", "is_exception": true,
+    "forecast_enabled": true, "coverage_status": "forecast", "blocking_reasons": [], "flag": "ID"
+  },
+  "source_adapters": [
+    {"source_id":"indonesia_kpu_2024","status":"reference_only_no_ingestion","formats":["pdf"]},
+    {"source_id":"indonesia_constitution","status":"reference_only_no_ingestion","formats":["pdf"]}
+  ],
+  "rules": {
+    "engine": "presidential_runoff", "rounds": 2, "first_round_threshold": 0.5,
+    "regional_requirement": "more than 20 percent in more than half of provinces; not yet modeled"
+  },
+  "election": {
+    "id": "id-2029-president", "jurisdiction_id": "idn", "name": "2029 Presidential Election",
+    "election_date": "2029-02-14", "date_confidence": "five-year cycle estimate; official schedule pending",
+    "system": "presidential_runoff", "status": "exploratory structural forecast; candidate tickets unresolved",
+    "last_updated": "2026-08-11T12:00:00Z",
+    "contestants": [
+      {"id":"governing-ticket","name":"Prabowo / governing-coalition ticket","short_name":"GOV","color":"#b9342b","incumbent":true,"ideology":"governing coalition","ballot_status":"scenario","basis":"Prabowo is constitutionally eligible for a second term, but no 2029 ticket is official."},
+      {"id":"leading-opposition","name":"Leading opposition ticket","short_name":"OPP","color":"#2d6f9f","ideology":"opposition coalition","ballot_status":"scenario","basis":"Opposition parties and candidate pair are unresolved."},
+      {"id":"other-ticket","name":"Other ticket","short_name":"OTH","color":"#777267","ideology":"other coalition","ballot_status":"scenario","basis":"A third-ticket path remains structurally plausible under Indonesia's nomination system."}
+    ],
+    "potential_candidates": [
+      {"id":"prabowo","name":"Prabowo Subianto","short_name":"PS","color":"#b9342b","incumbent":true,"ideology":"governing coalition","ballot_status":"possible","basis":"Incumbent president and eligible for one further term; has not been nominated for 2029."},
+      {"id":"leading-opposition","name":"Leading opposition ticket","short_name":"OPP","color":"#2d6f9f","ideology":"opposition coalition","ballot_status":"possible","basis":"Party coalitions and candidate pair remain unresolved."},
+      {"id":"other-ticket","name":"Other coalition ticket","short_name":"OTH","color":"#777267","ideology":"other coalition","ballot_status":"possible","basis":"Nomination coalitions and legal thresholds may change before registration."}
+    ],
+    "sources": [
+      {"source_id":"indonesia_kpu_2024","label":"KPU Decision 1043/2024 — official national 2024 election results","url":"https://jdih.kpu.go.id/data/data_kepkpu/2024kpt1043.pdf","authority":"official","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://jdih.kpu.go.id/"},
+      {"source_id":"indonesia_constitution","label":"Constitution of Indonesia — presidential term and election rules","url":"https://www.mkri.id/public/content/infoumum/regulation/pdf/uud45%20eng.pdf","authority":"official constitutional court publication","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.mkri.id/"}
+    ]
+  },
+  "model": {
+    "base_shares": [0.5859, 0.2495, 0.1646], "volatility": 0.12, "volatility_reference_days": 90,
+    "turnout": 0.81, "data_quality": "D",
+    "freshness": "long-range ticket scenario anchored to official 2024 result; no source-vintage 2029 polling",
+    "headline": "A governing-coalition ticket starts from Prabowo's 2024 majority, but ticket formation, coalition switching and the long horizon make this an exploratory baseline only."
+  },
+  "drivers": [
+    {"key":"incumbency","label":"Presidential incumbency","value":"Second-term path available","contribution":0.36,"direction":"government","confidence":0.62},
+    {"key":"coalition","label":"Governing coalition breadth","value":"Broad but fluid","contribution":0.22,"direction":"government","confidence":0.48},
+    {"key":"opposition_selection","label":"Opposition ticket formation","value":"Unresolved","contribution":-0.04,"direction":"government","confidence":0.28},
+    {"key":"economy","label":"Economic voting environment","value":"Source-vintage inputs pending","contribution":0.02,"direction":"government","confidence":0.16},
+    {"key":"regional_requirement","label":"Provincial distribution threshold","value":"Not modeled subnationally","contribution":0.0,"direction":"neutral","confidence":0.12}
+  ]
+}

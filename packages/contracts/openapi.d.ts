@@ -645,7 +645,7 @@ export interface components {
          * ElectionSystem
          * @enum {string}
          */
-        ElectionSystem: "unresolved" | "presidential_runoff" | "fptp" | "proportional" | "mixed_member" | "electoral_college" | "institutional";
+        ElectionSystem: "unresolved" | "presidential_plurality" | "presidential_runoff" | "fptp" | "proportional" | "mixed_member" | "electoral_college" | "institutional";
         /** ForecastSnapshot */
         ForecastSnapshot: {
             /**

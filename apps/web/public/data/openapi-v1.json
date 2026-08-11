@@ -778,6 +778,7 @@
       "ElectionSystem": {
         "enum": [
           "unresolved",
+          "presidential_plurality",
           "presidential_runoff",
           "fptp",
           "proportional",

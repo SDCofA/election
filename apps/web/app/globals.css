@@ -443,7 +443,7 @@ h1 strong { font-weight: 400; color: #55514a; }
 .calendar-directory-header > span { margin-top: 35px; display: block; color: #5f5c57; font: 750 9px/1 var(--font-display); letter-spacing: .14em; }
 .calendar-directory-header h1 { margin: 10px 0; font: 600 clamp(44px, 7vw, 82px)/.92 Georgia, serif; letter-spacing: -.045em; }
 .calendar-directory-header p { max-width: 740px; color: #5f5c57; font-size: 14px; line-height: 1.6; }
-.calendar-directory-header > div { margin-top: 24px; display: grid; grid-template-columns: repeat(3, max-content); gap: 3px 25px; }
+.calendar-directory-header > div { margin-top: 24px; display: grid; grid-template-columns: repeat(4, max-content); gap: 3px 25px; }
 .calendar-directory-header b { color: var(--red); font: 750 25px/1 var(--font-display); }
 .calendar-directory-header small { align-self: center; color: #5e5b55; font: 750 8px/1 var(--font-display); letter-spacing: .08em; }
 .calendar-search { max-width: 560px; margin: 30px 0 20px; display: grid; gap: 8px; color: #57544f; font: 750 8px/1 var(--font-display); letter-spacing: .1em; }

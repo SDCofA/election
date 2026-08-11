@@ -1,0 +1,58 @@
+{
+  "election_id": "in-2029-lok-sabha",
+  "status": "insufficient_historical_vintages",
+  "winner": null,
+  "historical_leader": null,
+  "selection_rule": "public baseline plus challengers under strict multi-origin source-vintage walk-forward; election-clustered paired-bootstrap Brier superiority; RMSE and empirical interval-coverage gates",
+  "metrics": [],
+  "leakage_check": true,
+  "fold_count": 0,
+  "held_out_election_count": 0,
+  "simulation_count_per_model_fold": 0,
+  "evaluated_horizon_min_days": null,
+  "evaluated_horizon_max_days": null,
+  "target_horizon_days": null,
+  "evaluation_period_start": null,
+  "evaluation_period_end": null,
+  "dataset_sha256": null,
+  "vintage_verified": false,
+  "historical_election_count": 0,
+  "historical_span_years": 0,
+  "maximum_held_out_elections": 0,
+  "validation_constraints": [],
+  "message": "No champion declared: no approved historical source-vintage dataset is attached to this jurisdiction pack.",
+  "as_of": "2026-08-11T12:00:00Z",
+  "published_at": "2026-08-11T12:00:00Z",
+  "model_version": "structural-ensemble-0.4.0",
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "provenance": [
+    {
+      "source_id": "india_eci_2024",
+      "label": "Election Commission of India — 2024 Lok Sabha results",
+      "url": "https://results.eci.gov.in/PcResultGenJune2024/index.htm",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.eci.gov.in/"
+    },
+    {
+      "source_id": "india_eci_terms",
+      "label": "Election Commission of India — terms of houses",
+      "url": "https://eci.gov.in/elections/term-of-houses/",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.eci.gov.in/"
+    },
+    {
+      "source_id": "india_lok_sabha",
+      "label": "Lok Sabha institutional overview",
+      "url": "https://sansad.in/ls/about/introduction",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://sansad.in/"
+    }
+  ]
+}

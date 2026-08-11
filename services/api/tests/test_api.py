@@ -45,10 +45,10 @@ def test_health_and_catalog():
     assert status["eligible_jurisdictions"] == 12
     assert status["total_jurisdictions"] == 19
     assert status["eligibility_snapshot_sha256"]
-    assert status["forecast_ready"] == 13
-    assert status["calendar_only"] == 0
-    assert status["mechanics_blocked"] == 6
-    assert status["sourced_calendars"] == 13
+    assert status["forecast_ready"] == 16
+    assert status["calendar_only"] == 3
+    assert status["mechanics_blocked"] == 0
+    assert status["sourced_calendars"] == 19
     turkiye = next(item for item in jurisdictions if item["id"] == "tur")
     assert turkiye["name"] == "Türkiye"
     assert turkiye["flag"] == "TR"
@@ -59,14 +59,14 @@ def test_health_and_catalog():
     assert argentina["coverage_status"] == "forecast"
     assert argentina["blocking_reasons"] == []
     china = next(item for item in jurisdictions if item["id"] == "chn")
-    assert china["coverage_status"] == "mechanics_blocked"
+    assert china["coverage_status"] == "calendar_only"
 
 
 def test_every_public_election_has_a_catalog_jurisdiction_and_source():
     jurisdictions = client.get("/v1/jurisdictions").json()
     elections = client.get("/v1/elections").json()
     assert len(jurisdictions) == 19
-    assert len(elections) == 13
+    assert len(elections) == 19
     assert {item["jurisdiction_id"] for item in elections} <= {item["id"] for item in jurisdictions}
     assert all(item["sources"] for item in elections)
     exploratory = [item for item in elections if item["system"] == "unresolved"]
@@ -83,10 +83,16 @@ def test_every_public_election_has_a_catalog_jurisdiction_and_source():
     assert mechanics["forecast_enabled"] is True
 
     repository = get_repository()
-    assert all(
-        repository.detail(election["id"]).forecast.simulation_count == 1_000_000
-        for election in elections
-    )
+    for election in elections:
+        detail = repository.detail(election["id"])
+        jurisdiction = repository.jurisdictions[election["jurisdiction_id"]]
+        if jurisdiction.forecast_enabled:
+            assert detail.forecast.simulation_count == 1_000_000
+        else:
+            assert detail.forecast is None
+    assert repository.detail("cn-2028-state-leadership").forecast is None
+    assert repository.detail("ru-2030-president").forecast is None
+    assert repository.detail("sa-national-election-status").forecast is None
 
 
 def test_public_cache_and_security_headers():
@@ -154,6 +160,30 @@ def test_forecast_contract_and_exploratory_forecasts():
 
 def test_unknown_election_is_404():
     assert client.get("/v1/elections/not-real").status_code == 404
+
+
+def test_new_g20_country_forecasts_use_country_specific_mechanics():
+    india = client.get("/v1/elections/in-2029-lok-sabha").json()
+    assert india["election"]["system"] == "fptp"
+    assert india["election"]["seats_total"] == 543
+    assert india["election"]["majority"] == 272
+    assert {item["short_name"] for item in india["election"]["contestants"]} == {
+        "NDA",
+        "INDIA",
+        "OTH",
+    }
+
+    indonesia = client.get("/v1/elections/id-2029-president").json()
+    assert indonesia["election"]["system"] == "presidential_runoff"
+    assert indonesia["forecast"]["simulation_count"] == 1_000_000
+    indonesia_rules = client.get("/v1/elections/id-2029-president/mechanics").json()["rules"]
+    assert "more than 20 percent" in indonesia_rules["regional_requirement"]
+
+    mexico = client.get("/v1/elections/mx-2030-president").json()
+    assert mexico["election"]["system"] == "presidential_plurality"
+    mexico_rules = client.get("/v1/elections/mx-2030-president/mechanics").json()["rules"]
+    assert mexico_rules["winner_rule"] == "plurality"
+    assert mexico_rules["reelection"] is False
 
 
 def test_internal_candidate_boundary_is_fail_closed(monkeypatch):

@@ -103,6 +103,41 @@
     ]
   },
   {
+    "id": "cn-2028-state-leadership",
+    "jurisdiction_id": "chn",
+    "name": "2028 State Leadership Selection",
+    "election_date": "2028-03-10",
+    "date_confidence": "five-year NPC cycle estimate; session date pending",
+    "system": "institutional",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "calendar only; indirect institutional selection, not a national popular election",
+    "last_updated": "2026-08-11T12:00:00Z",
+    "contestants": [],
+    "potential_candidates": [],
+    "sources": [
+      {
+        "source_id": "china_constitution",
+        "label": "Constitution of the People's Republic of China",
+        "url": "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html",
+        "authority": "official government publication",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://english.www.gov.cn/"
+      },
+      {
+        "source_id": "china_npc",
+        "label": "National People's Congress",
+        "url": "https://www.npc.gov.cn/englishnpc/index.shtml",
+        "authority": "official legislature",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.npc.gov.cn/"
+      }
+    ]
+  },
+  {
     "id": "tr-next-president",
     "jurisdiction_id": "tur",
     "name": "Next Presidential Election",
@@ -358,6 +393,109 @@
     ]
   },
   {
+    "id": "id-2029-president",
+    "jurisdiction_id": "idn",
+    "name": "2029 Presidential Election",
+    "election_date": "2029-02-14",
+    "date_confidence": "five-year cycle estimate; official schedule pending",
+    "system": "presidential_runoff",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "exploratory structural forecast; candidate tickets unresolved",
+    "last_updated": "2026-08-11T12:00:00Z",
+    "contestants": [
+      {
+        "id": "governing-ticket",
+        "name": "Prabowo / governing-coalition ticket",
+        "short_name": "GOV",
+        "color": "#b9342b",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "governing coalition",
+        "ballot_status": "scenario",
+        "basis": "Prabowo is constitutionally eligible for a second term, but no 2029 ticket is official."
+      },
+      {
+        "id": "leading-opposition",
+        "name": "Leading opposition ticket",
+        "short_name": "OPP",
+        "color": "#2d6f9f",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition coalition",
+        "ballot_status": "scenario",
+        "basis": "Opposition parties and candidate pair are unresolved."
+      },
+      {
+        "id": "other-ticket",
+        "name": "Other ticket",
+        "short_name": "OTH",
+        "color": "#777267",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "other coalition",
+        "ballot_status": "scenario",
+        "basis": "A third-ticket path remains structurally plausible under Indonesia's nomination system."
+      }
+    ],
+    "potential_candidates": [
+      {
+        "id": "prabowo",
+        "name": "Prabowo Subianto",
+        "short_name": "PS",
+        "color": "#b9342b",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "governing coalition",
+        "ballot_status": "possible",
+        "basis": "Incumbent president and eligible for one further term; has not been nominated for 2029."
+      },
+      {
+        "id": "leading-opposition",
+        "name": "Leading opposition ticket",
+        "short_name": "OPP",
+        "color": "#2d6f9f",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition coalition",
+        "ballot_status": "possible",
+        "basis": "Party coalitions and candidate pair remain unresolved."
+      },
+      {
+        "id": "other-ticket",
+        "name": "Other coalition ticket",
+        "short_name": "OTH",
+        "color": "#777267",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "other coalition",
+        "ballot_status": "possible",
+        "basis": "Nomination coalitions and legal thresholds may change before registration."
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "indonesia_kpu_2024",
+        "label": "KPU Decision 1043/2024 — official national 2024 election results",
+        "url": "https://jdih.kpu.go.id/data/data_kepkpu/2024kpt1043.pdf",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://jdih.kpu.go.id/"
+      },
+      {
+        "source_id": "indonesia_constitution",
+        "label": "Constitution of Indonesia — presidential term and election rules",
+        "url": "https://www.mkri.id/public/content/infoumum/regulation/pdf/uud45%20eng.pdf",
+        "authority": "official constitutional court publication",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.mkri.id/"
+      }
+    ]
+  },
+  {
     "id": "de-next-bundestag",
     "jurisdiction_id": "deu",
     "name": "Next Bundestag Election",
@@ -501,6 +639,118 @@
         "retrieved_at": "2026-08-09T08:00:00Z",
         "license": "ODC-ODbL-1.0",
         "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+      }
+    ]
+  },
+  {
+    "id": "in-2029-lok-sabha",
+    "jurisdiction_id": "ind",
+    "name": "2029 Lok Sabha Election",
+    "election_date": "2029-05-20",
+    "date_confidence": "five-year constitutional-cycle estimate; official schedule pending",
+    "system": "fptp",
+    "seats_total": 543,
+    "majority": 272,
+    "threshold": 0.0,
+    "status": "exploratory structural forecast; alliances and constituencies may change",
+    "last_updated": "2026-08-11T12:00:00Z",
+    "contestants": [
+      {
+        "id": "nda",
+        "name": "National Democratic Alliance",
+        "short_name": "NDA",
+        "color": "#f28c28",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "BJP-led governing alliance",
+        "ballot_status": "scenario",
+        "basis": "Current governing alliance; 2029 party and seat-sharing agreements are not final."
+      },
+      {
+        "id": "india-alliance",
+        "name": "INDIA opposition alliance",
+        "short_name": "INDIA",
+        "color": "#2f69bf",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition alliance",
+        "ballot_status": "scenario",
+        "basis": "2024 opposition alliance carried forward as a structural scenario; membership and seat-sharing may change."
+      },
+      {
+        "id": "other-parties",
+        "name": "Other and non-aligned parties",
+        "short_name": "OTH",
+        "color": "#6f756d",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "regional and non-aligned parties",
+        "ballot_status": "scenario",
+        "basis": "Regional and other parties outside the two modeled alliance blocs."
+      }
+    ],
+    "potential_candidates": [
+      {
+        "id": "nda",
+        "name": "NDA parties and nominees",
+        "short_name": "NDA",
+        "color": "#f28c28",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "BJP-led governing alliance",
+        "ballot_status": "possible",
+        "basis": "The prime minister is selected through Lok Sabha confidence; individual constituency nominations are not final."
+      },
+      {
+        "id": "india-alliance",
+        "name": "INDIA alliance parties and nominees",
+        "short_name": "INDIA",
+        "color": "#2f69bf",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition alliance",
+        "ballot_status": "possible",
+        "basis": "Alliance composition and constituency agreements remain open."
+      },
+      {
+        "id": "other-parties",
+        "name": "Regional and non-aligned parties",
+        "short_name": "OTH",
+        "color": "#6f756d",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "regional and non-aligned parties",
+        "ballot_status": "possible",
+        "basis": "Parties outside the two national alliance scenarios can be decisive in government formation."
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "india_eci_2024",
+        "label": "Election Commission of India — 2024 Lok Sabha results",
+        "url": "https://results.eci.gov.in/PcResultGenJune2024/index.htm",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.eci.gov.in/"
+      },
+      {
+        "source_id": "india_eci_terms",
+        "label": "Election Commission of India — terms of houses",
+        "url": "https://eci.gov.in/elections/term-of-houses/",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.eci.gov.in/"
+      },
+      {
+        "source_id": "india_lok_sabha",
+        "label": "Lok Sabha institutional overview",
+        "url": "https://sansad.in/ls/about/introduction",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://sansad.in/"
       }
     ]
   },
@@ -1391,6 +1641,202 @@
         "retrieved_at": "2026-08-09T09:00:00Z",
         "license": "EC-OGL-TERMS",
         "license_url": "https://api.electoralcommission.org.uk/terms/"
+      }
+    ]
+  },
+  {
+    "id": "ru-2030-president",
+    "jurisdiction_id": "rus",
+    "name": "2030 Presidential Election",
+    "election_date": "2030-03-17",
+    "date_confidence": "six-year constitutional-cycle estimate; official date pending",
+    "system": "presidential_runoff",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "calendar only; official timetable and candidate registration pending",
+    "last_updated": "2026-08-11T12:00:00Z",
+    "contestants": [],
+    "potential_candidates": [
+      {
+        "id": "incumbent-path",
+        "name": "Incumbent / governing-system nominee",
+        "short_name": "GOV",
+        "color": "#9f3030",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "governing-system path",
+        "ballot_status": "possible",
+        "basis": "Eligibility and participation do not constitute an official nomination."
+      },
+      {
+        "id": "other-registered",
+        "name": "Other registered candidates",
+        "short_name": "OTH",
+        "color": "#4f6f91",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "other registered candidacies",
+        "ballot_status": "possible",
+        "basis": "Candidate registration has not begun."
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "russia_cik_2024",
+        "label": "Central Election Commission — 2024 presidential election results",
+        "url": "https://www.cikrf.ru/analog/prezidentskiye-vybory-2024/itogi-golosovaniya/",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.cikrf.ru/"
+      },
+      {
+        "source_id": "russia_cik",
+        "label": "Central Election Commission of the Russian Federation",
+        "url": "https://www.cikrf.ru/",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.cikrf.ru/"
+      }
+    ]
+  },
+  {
+    "id": "mx-2030-president",
+    "jurisdiction_id": "mex",
+    "name": "2030 Presidential Election",
+    "election_date": "2030-06-02",
+    "date_confidence": "constitutional-cycle estimate; official calendar pending",
+    "system": "presidential_plurality",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "exploratory structural forecast; nominees unresolved",
+    "last_updated": "2026-08-11T12:00:00Z",
+    "contestants": [
+      {
+        "id": "governing-nominee",
+        "name": "Morena-led governing nominee",
+        "short_name": "4T",
+        "color": "#8b1e2d",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "Morena-led governing coalition",
+        "ballot_status": "scenario",
+        "basis": "President Claudia Sheinbaum cannot seek immediate reelection; no 2030 successor is nominated."
+      },
+      {
+        "id": "opposition-nominee",
+        "name": "Leading opposition nominee",
+        "short_name": "OPP",
+        "color": "#2865a8",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition coalition",
+        "ballot_status": "scenario",
+        "basis": "Opposition coalition composition and nomination are unresolved."
+      },
+      {
+        "id": "other-nominee",
+        "name": "Other nominee",
+        "short_name": "OTH",
+        "color": "#e67f22",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "other party or independent",
+        "ballot_status": "scenario",
+        "basis": "Includes Movimiento Ciudadano and other candidacy paths."
+      }
+    ],
+    "potential_candidates": [
+      {
+        "id": "governing-nominee",
+        "name": "Morena-led successor nominee",
+        "short_name": "4T",
+        "color": "#8b1e2d",
+        "leader": null,
+        "incumbent": true,
+        "ideology": "Morena-led governing coalition",
+        "ballot_status": "possible",
+        "basis": "A successor, not the term-limited incumbent president, must be selected."
+      },
+      {
+        "id": "opposition-nominee",
+        "name": "Opposition coalition nominee",
+        "short_name": "OPP",
+        "color": "#2865a8",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "opposition coalition",
+        "ballot_status": "possible",
+        "basis": "Parties and nomination procedure remain unresolved."
+      },
+      {
+        "id": "other-nominee",
+        "name": "Movimiento Ciudadano / other nominee",
+        "short_name": "OTH",
+        "color": "#e67f22",
+        "leader": null,
+        "incumbent": false,
+        "ideology": "other party or independent",
+        "ballot_status": "possible",
+        "basis": "Separate-party and independent paths remain possible."
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "mexico_ine_2024",
+        "label": "INE — official 2024 presidential district counts",
+        "url": "https://computos2024.ine.mx/presidencia/nacional/candidatura",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.ine.mx/"
+      },
+      {
+        "source_id": "mexico_constitution",
+        "label": "Political Constitution of the United Mexican States",
+        "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+        "authority": "official chamber of deputies publication",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.diputados.gob.mx/"
+      }
+    ]
+  },
+  {
+    "id": "sa-national-election-status",
+    "jurisdiction_id": "sau",
+    "name": "National Election Status",
+    "election_date": null,
+    "date_confidence": "no national election scheduled",
+    "system": "institutional",
+    "seats_total": null,
+    "majority": null,
+    "threshold": 0.0,
+    "status": "calendar only; no national popular election exists to forecast",
+    "last_updated": "2026-08-11T12:00:00Z",
+    "contestants": [],
+    "potential_candidates": [],
+    "sources": [
+      {
+        "source_id": "saudi_basic_law",
+        "label": "Basic Law of Governance",
+        "url": "https://www.shura.gov.sa/wps/wcm/connect/ShuraEn/internet/Laws+and+Regulations/The+Basic+Law+Of+Government/",
+        "authority": "official Consultative Council publication",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.shura.gov.sa/"
+      },
+      {
+        "source_id": "saudi_shura",
+        "label": "Consultative Council of Saudi Arabia",
+        "url": "https://www.shura.gov.sa/wps/wcm/connect/ShuraEn/internet/Home/",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.shura.gov.sa/"
       }
     ]
   }

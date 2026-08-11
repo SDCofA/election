@@ -52,12 +52,13 @@
     "name": "China",
     "iso3": "CHN",
     "region": "East Asia & Pacific",
-    "eligibility": "catalog-only:outside-v-dem-forecast-rule",
-    "is_exception": false,
+    "eligibility": "institutional-calendar:no-national-popular-executive-election",
+    "is_exception": true,
     "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
+    "coverage_status": "calendar_only",
     "blocking_reasons": [
-      "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      "The president is selected by the National People's Congress, not through a national popular ballot",
+      "No competitive candidate field or source-vintage probability input is available"
     ],
     "flag": "CN"
   },
@@ -90,13 +91,11 @@
     "name": "India",
     "iso3": "IND",
     "region": "South Asia",
-    "eligibility": "catalog-only:outside-v-dem-forecast-rule",
-    "is_exception": false,
-    "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
-    "blocking_reasons": [
-      "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
-    ],
+    "eligibility": "configured-exception:exploratory-forecast",
+    "is_exception": true,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
     "flag": "IN"
   },
   {
@@ -104,13 +103,11 @@
     "name": "Indonesia",
     "iso3": "IDN",
     "region": "East Asia & Pacific",
-    "eligibility": "catalog-only:outside-v-dem-forecast-rule",
-    "is_exception": false,
-    "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
-    "blocking_reasons": [
-      "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
-    ],
+    "eligibility": "configured-exception:exploratory-forecast",
+    "is_exception": true,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
     "flag": "ID"
   },
   {
@@ -153,14 +150,12 @@
     "id": "mex",
     "name": "Mexico",
     "iso3": "MEX",
-    "region": "Latin America & Caribbean ",
-    "eligibility": "catalog-only:outside-v-dem-forecast-rule",
-    "is_exception": false,
-    "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
-    "blocking_reasons": [
-      "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
-    ],
+    "region": "Latin America & Caribbean",
+    "eligibility": "configured-exception:exploratory-forecast",
+    "is_exception": true,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [],
     "flag": "MX"
   },
   {
@@ -168,12 +163,13 @@
     "name": "Russian Federation",
     "iso3": "RUS",
     "region": "Europe & Central Asia",
-    "eligibility": "catalog-only:outside-v-dem-forecast-rule",
-    "is_exception": false,
+    "eligibility": "calendar-only:forecast-evidence-insufficient",
+    "is_exception": true,
     "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
+    "coverage_status": "calendar_only",
     "blocking_reasons": [
-      "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      "The 2030 election date and official candidate list have not been issued",
+      "No approved source-vintage polling dataset satisfies the forecast and backtest gates"
     ],
     "flag": "RU"
   },
@@ -181,13 +177,14 @@
     "id": "sau",
     "name": "Saudi Arabia",
     "iso3": "SAU",
-    "region": "Middle East, North Africa, Afghanistan & Pakistan",
-    "eligibility": "catalog-only:outside-v-dem-forecast-rule",
-    "is_exception": false,
+    "region": "Middle East, North Africa & Gulf",
+    "eligibility": "institutional-calendar:no-national-election",
+    "is_exception": true,
     "forecast_enabled": false,
-    "coverage_status": "mechanics_blocked",
+    "coverage_status": "calendar_only",
     "blocking_reasons": [
-      "Jurisdiction is listed globally but is outside the current V-Dem forecast-eligibility rule"
+      "Saudi Arabia is a monarchy and has no scheduled national popular election for executive or legislative control",
+      "The Consultative Council is appointed rather than elected nationally"
     ],
     "flag": "SA"
   },

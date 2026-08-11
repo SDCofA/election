@@ -20,7 +20,7 @@ Full local stack, including PostGIS, MinIO immutable source snapshots, Dagster w
 docker compose -f infra/compose.yaml up --build
 ```
 
-Dagster UI: `http://localhost:3001`. Licensed adapters fail closed; blocked sources cannot make network requests, but reference-only evidence may support an explicitly labeled D-grade scenario. Forecast publication compares Gaussian Monte Carlo and Markov-momentum challengers against strict walk-forward baselines. Every sourced election record publishes 1,000,000 deterministic simulations.
+Dagster UI: `http://localhost:3001`. Licensed adapters fail closed; blocked sources cannot make network requests, but reference-only evidence may support an explicitly labeled D-grade scenario. Forecast publication compares the public baseline, Gaussian Monte Carlo, and Markov-momentum challengers under strict walk-forward gates. Forecast-enabled records publish exactly 1,000,000 deterministic simulations; countries without a defensible national probability target remain sourced calendar-only records.
 
 Official calendar onboarding and immutable revision behavior: [docs/calendar-onboarding.md](docs/calendar-onboarding.md).
 

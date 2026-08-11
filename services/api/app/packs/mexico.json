@@ -1,0 +1,48 @@
+{
+  "jurisdiction": {
+    "id": "mex", "name": "Mexico", "iso3": "MEX", "region": "Latin America & Caribbean",
+    "eligibility": "configured-exception:exploratory-forecast", "is_exception": true,
+    "forecast_enabled": true, "coverage_status": "forecast", "blocking_reasons": [], "flag": "MX"
+  },
+  "source_adapters": [
+    {"source_id":"mexico_ine_2024","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"mexico_constitution","status":"reference_only_no_ingestion","formats":["pdf"]}
+  ],
+  "rules": {
+    "engine": "presidential_plurality", "winner_rule": "plurality", "rounds": 1,
+    "term_years": 6, "reelection": false
+  },
+  "election": {
+    "id": "mx-2030-president", "jurisdiction_id": "mex", "name": "2030 Presidential Election",
+    "election_date": "2030-06-02", "date_confidence": "constitutional-cycle estimate; official calendar pending",
+    "system": "presidential_plurality", "status": "exploratory structural forecast; nominees unresolved",
+    "last_updated": "2026-08-11T12:00:00Z",
+    "contestants": [
+      {"id":"governing-nominee","name":"Morena-led governing nominee","short_name":"4T","color":"#8b1e2d","incumbent":true,"ideology":"Morena-led governing coalition","ballot_status":"scenario","basis":"President Claudia Sheinbaum cannot seek immediate reelection; no 2030 successor is nominated."},
+      {"id":"opposition-nominee","name":"Leading opposition nominee","short_name":"OPP","color":"#2865a8","ideology":"opposition coalition","ballot_status":"scenario","basis":"Opposition coalition composition and nomination are unresolved."},
+      {"id":"other-nominee","name":"Other nominee","short_name":"OTH","color":"#e67f22","ideology":"other party or independent","ballot_status":"scenario","basis":"Includes Movimiento Ciudadano and other candidacy paths."}
+    ],
+    "potential_candidates": [
+      {"id":"governing-nominee","name":"Morena-led successor nominee","short_name":"4T","color":"#8b1e2d","incumbent":true,"ideology":"Morena-led governing coalition","ballot_status":"possible","basis":"A successor, not the term-limited incumbent president, must be selected."},
+      {"id":"opposition-nominee","name":"Opposition coalition nominee","short_name":"OPP","color":"#2865a8","ideology":"opposition coalition","ballot_status":"possible","basis":"Parties and nomination procedure remain unresolved."},
+      {"id":"other-nominee","name":"Movimiento Ciudadano / other nominee","short_name":"OTH","color":"#e67f22","ideology":"other party or independent","ballot_status":"possible","basis":"Separate-party and independent paths remain possible."}
+    ],
+    "sources": [
+      {"source_id":"mexico_ine_2024","label":"INE — official 2024 presidential district counts","url":"https://computos2024.ine.mx/presidencia/nacional/candidatura","authority":"official","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.ine.mx/"},
+      {"source_id":"mexico_constitution","label":"Political Constitution of the United Mexican States","url":"https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf","authority":"official chamber of deputies publication","retrieved_at":"2026-08-11T12:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.diputados.gob.mx/"}
+    ]
+  },
+  "model": {
+    "base_shares": [0.5976, 0.2745, 0.1279], "volatility": 0.13, "volatility_reference_days": 90,
+    "turnout": 0.61, "data_quality": "D",
+    "freshness": "long-range successor scenario anchored to official 2024 result; no source-vintage 2030 polling",
+    "headline": "Morena's eventual successor starts from a strong 2024 baseline, but presidential term limits and a four-year horizon make candidate succession the dominant uncertainty."
+  },
+  "drivers": [
+    {"key":"incumbency","label":"Morena governing-party advantage","value":"Strong 2024 baseline","contribution":0.42,"direction":"government","confidence":0.62},
+    {"key":"succession","label":"Term-limited succession","value":"Nominee unknown","contribution":-0.14,"direction":"government","confidence":0.45},
+    {"key":"opposition_selection","label":"Opposition coalition reconstruction","value":"Unresolved","contribution":0.08,"direction":"government","confidence":0.32},
+    {"key":"security","label":"Security environment","value":"High-impact uncertainty","contribution":-0.12,"direction":"government","confidence":0.28},
+    {"key":"economy","label":"Economic voting environment","value":"Source-vintage inputs pending","contribution":0.02,"direction":"government","confidence":0.16}
+  ]
+}

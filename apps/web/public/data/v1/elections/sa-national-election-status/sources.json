@@ -1,0 +1,48 @@
+{
+  "election_id": "sa-national-election-status",
+  "sources": [
+    {
+      "source_id": "saudi_basic_law",
+      "label": "Basic Law of Governance",
+      "url": "https://www.shura.gov.sa/wps/wcm/connect/ShuraEn/internet/Laws+and+Regulations/The+Basic+Law+Of+Government/",
+      "authority": "official Consultative Council publication",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.shura.gov.sa/"
+    },
+    {
+      "source_id": "saudi_shura",
+      "label": "Consultative Council of Saudi Arabia",
+      "url": "https://www.shura.gov.sa/wps/wcm/connect/ShuraEn/internet/Home/",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.shura.gov.sa/"
+    }
+  ],
+  "as_of": "2026-08-11T12:00:00Z",
+  "published_at": "2026-08-11T12:00:00Z",
+  "model_version": "calendar-0.1.0",
+  "data_quality": "D",
+  "freshness": "calendar only; no national popular election exists to forecast",
+  "provenance": [
+    {
+      "source_id": "saudi_basic_law",
+      "label": "Basic Law of Governance",
+      "url": "https://www.shura.gov.sa/wps/wcm/connect/ShuraEn/internet/Laws+and+Regulations/The+Basic+Law+Of+Government/",
+      "authority": "official Consultative Council publication",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.shura.gov.sa/"
+    },
+    {
+      "source_id": "saudi_shura",
+      "label": "Consultative Council of Saudi Arabia",
+      "url": "https://www.shura.gov.sa/wps/wcm/connect/ShuraEn/internet/Home/",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.shura.gov.sa/"
+    }
+  ]
+}

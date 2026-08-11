@@ -6,6 +6,7 @@ from pydantic import BaseModel, Field
 
 class ElectionSystem(StrEnum):
     UNRESOLVED = "unresolved"
+    PRESIDENTIAL_PLURALITY = "presidential_plurality"
     PRESIDENTIAL_RUNOFF = "presidential_runoff"
     FPTP = "fptp"
     PROPORTIONAL = "proportional"

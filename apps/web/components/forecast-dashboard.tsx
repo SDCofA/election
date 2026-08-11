@@ -298,8 +298,8 @@ function GlobalWatch({
       <div className="coverage">
         <span>CATALOG STATUS</span>
         <div><b>{catalog?.total_jurisdictions ?? 19}</b><small>G20 COUNTRIES</small></div>
-        <div><b>{catalog?.forecast_ready ?? 13}</b><small>FORECAST READY</small></div>
-        <p>{catalog?.sourced_calendars ?? watchlist.length} sourced election records; every one carries a forecast.</p>
+        <div><b>{catalog?.forecast_ready ?? 16}</b><small>FORECAST READY</small></div>
+        <p>{catalog?.sourced_calendars ?? watchlist.length} sourced country records · {catalog?.forecast_ready ?? 0} forecasts · {catalog?.calendar_only ?? 0} calendar-only.</p>
       </div>
     </aside>
   );
@@ -343,7 +343,7 @@ function CalendarOnlyView({
       </header>
       <div className="breaking" role="status">
         <span>{coverageLabel}</span>
-        <p>Forecast intentionally withheld until mechanics and contestant identities are resolved</p>
+        <p>Forecast withheld because no defensible national probability target currently exists</p>
         <b>FAIL CLOSED</b>
       </div>
       <main id="top">
