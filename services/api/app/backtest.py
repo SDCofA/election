@@ -75,6 +75,7 @@ class BacktestReport:
     evaluated_horizon_max_days: int | None
     target_horizon_days: int | None
     dataset_sha256: str | None = None
+    provenance_verified: bool = False
     markov_transition: tuple[tuple[float, ...], ...] = ()
     markov_step: float = 0.01
 
@@ -90,14 +91,15 @@ def load_backtest_dataset(path: Path) -> BacktestDataset:
     """Load source-vintage evidence; never silently accepts synthetic production data."""
     raw = path.read_bytes()
     payload = json.loads(raw)
-    if payload.get("schema_version") != 3:
-        raise ValueError("Backtest dataset schema_version must be 3")
+    if payload.get("schema_version") != 4:
+        raise ValueError("Backtest dataset schema_version must be 4")
     revisions = payload.get("source_revisions")
     if not isinstance(revisions, list) or not revisions:
         raise ValueError("Backtest dataset requires source_revisions")
     revision_ids: set[str] = set()
     revision_evidence: dict[str, dict[str, date]] = {}
     revision_roles: dict[str, str] = {}
+    revision_vintage_proofs: dict[str, str] = {}
     minimum_train_elections = int(payload.get("minimum_train_elections", 5))
     if not 2 <= minimum_train_elections <= 10:
         raise ValueError("minimum_train_elections must be between 2 and 10")
@@ -115,6 +117,7 @@ def load_backtest_dataset(path: Path) -> BacktestDataset:
             "retrieved_at",
             "sha256",
             "raw_path",
+            "vintage_proof",
         }
         missing = required - set(revision)
         if missing:
@@ -138,6 +141,13 @@ def load_backtest_dataset(path: Path) -> BacktestDataset:
             raise ValueError(f"Backtest raw snapshot hash mismatch: {revision['raw_path']}")
         if revision["role"] not in {"fundamentals", "poll", "result"}:
             raise ValueError("Backtest revision role must be fundamentals, poll, or result")
+        vintage_proof = str(revision["vintage_proof"])
+        if vintage_proof not in {
+            "contemporaneous_archive",
+            "official_release",
+            "retrospective_compilation",
+        }:
+            raise ValueError(f"Invalid source vintage proof: {vintage_proof!r}")
         revision_id = str(revision["id"])
         evidence = {
             field: _iso_date(str(revision[field])[:10], f"source {field}")
@@ -153,6 +163,7 @@ def load_backtest_dataset(path: Path) -> BacktestDataset:
         revision_ids.add(revision_id)
         revision_evidence[revision_id] = evidence
         revision_roles[revision_id] = str(revision["role"])
+        revision_vintage_proofs[revision_id] = vintage_proof
     if len(revision_ids) != len(revisions):
         raise ValueError("Source revision IDs must be unique")
 
@@ -207,6 +218,16 @@ def load_backtest_dataset(path: Path) -> BacktestDataset:
             raise ValueError(f"{election_id}: result revision role mismatch")
         if result_revision["available_at"] != result_available_at:
             raise ValueError(f"{election_id}: result revision availability mismatch")
+        record_provenance_verified = (
+            revision_vintage_proofs[fundamentals_revision_id]
+            in {"official_release", "contemporaneous_archive"}
+            and revision_vintage_proofs[result_revision_id]
+            in {"official_release", "contemporaneous_archive"}
+            and all(
+                revision_vintage_proofs[revision_id] == "contemporaneous_archive"
+                for revision_id in polling_revision_ids
+            )
+        )
         records.append(
             HistoricalElection(
                 election_id=election_id,
@@ -221,7 +242,7 @@ def load_backtest_dataset(path: Path) -> BacktestDataset:
                 fundamentals_revision_id=str(item["fundamentals_revision_id"]),
                 polling_revision_ids=polling_revision_ids,
                 result_revision_id=str(item["result_revision_id"]),
-                provenance_verified=True,
+                provenance_verified=record_provenance_verified,
             )
         )
     if not records:
@@ -234,7 +255,7 @@ def load_backtest_dataset(path: Path) -> BacktestDataset:
         records=tuple(records),
         dataset_sha256=hashlib.sha256(raw).hexdigest(),
         source_revision_ids=tuple(sorted(revision_ids)),
-        provenance_verified=True,
+        provenance_verified=all(item.provenance_verified for item in records),
         minimum_train_elections=minimum_train_elections,
     )
 
@@ -312,6 +333,7 @@ def load_backtest_report(
         evaluated_horizon_max_days=payload["evaluated_horizon_max_days"],
         target_horizon_days=payload["target_horizon_days"],
         dataset_sha256=payload["dataset_sha256"],
+        provenance_verified=bool(payload["provenance_verified"]),
         markov_transition=tuple(
             tuple(float(value) for value in row) for row in payload["markov_transition"]
         ),
@@ -851,8 +873,11 @@ def walk_forward_backtest(
         (current - previous).days / 365.2425 > 8 for previous, current in pairwise(election_dates)
     ):
         reliability_reasons.append("Election history contains a gap longer than eight years")
-    if not ordered or not all(item.provenance_verified for item in ordered):
-        reliability_reasons.append("Every fold requires verified source-revision provenance")
+    provenance_verified = bool(ordered) and all(item.provenance_verified for item in ordered)
+    if not provenance_verified:
+        reliability_reasons.append(
+            "Every fold requires contemporaneous archived poll and source-revision provenance"
+        )
     if dataset_sha256 is None or len(dataset_sha256) != 64:
         reliability_reasons.append("A content-addressed production dataset is required")
     if (
@@ -887,6 +912,7 @@ def walk_forward_backtest(
         evaluated_horizon_max_days=evaluated_horizon_max_days,
         target_horizon_days=target_horizon_days,
         dataset_sha256=dataset_sha256,
+        provenance_verified=provenance_verified,
         markov_transition=markov_transition,
         markov_step=markov_step,
     )

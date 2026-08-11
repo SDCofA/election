@@ -221,6 +221,8 @@ def test_model_comparison_reports_short_horizon_leader_without_promoting_it():
     assert comparison["target_horizon_days"] == 821
     assert "baseline_ensemble" in {metric["model_family"] for metric in comparison["metrics"]}
     assert "outside the evaluated" in comparison["message"]
+    assert "contemporaneous archived poll" in comparison["message"]
+    assert comparison["vintage_verified"] is False
     assert len(comparison["dataset_sha256"]) == 64
     assert comparison["provenance"]
 

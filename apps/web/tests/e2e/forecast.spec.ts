@@ -157,6 +157,14 @@ test("Türkiye exposes a million-run exploratory forecast and named possibilitie
   await expect(page.locator(".candidate").filter({ hasText: "Erdoğan" })).toContainText("UNDERDOG · REAL PATH");
 });
 
+test("U.S. backtest labels retrospective poll vintages honestly", async ({ page }) => {
+  await page.goto("/elections/us-2028-president");
+  await expect(page.getByRole("heading", { name: /United States/ })).toBeVisible({ timeout: 15_000 });
+  await expect(page.getByText(/12 historical walk-forward folds/)).toBeVisible({ timeout: 15_000 });
+  await expect(page.getByText(/poll vintages are retrospective, not contemporaneously archived/)).toBeVisible();
+  await expect(page.getByText("WALK-FORWARD FOLDS", { exact: true })).toBeVisible();
+});
+
 test("route-specific API outage never substitutes another election", async ({ page }) => {
   await page.route("**/v1/**", (route) => route.abort());
   await page.goto("/elections/de-next-bundestag");

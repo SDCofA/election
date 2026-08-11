@@ -214,7 +214,7 @@ def test_unverified_provenance_cannot_promote_model():
     report = walk_forward_backtest(records, simulation_count=5_000)
     assert report.reliable is False
     assert report.winner is None
-    assert "verified source-revision provenance" in " ".join(report.promotion_reasons)
+    assert "contemporaneous archived poll" in " ".join(report.promotion_reasons)
 
 
 def test_source_revision_dataset_loader(tmp_path):
@@ -251,11 +251,14 @@ def test_source_revision_dataset_loader(tmp_path):
             "retrieved_at": dates[1],
             "sha256": digests[revision_id],
             "raw_path": f"raw/{revision_id}.json",
+            "vintage_proof": (
+                "contemporaneous_archive" if revision_id.startswith("poll-") else "official_release"
+            ),
         }
         for revision_id, dates in availability.items()
     ]
     payload = {
-        "schema_version": 3,
+        "schema_version": 4,
         "source_revisions": revisions,
         "records": [
             {
@@ -281,6 +284,14 @@ def test_source_revision_dataset_loader(tmp_path):
     assert len(dataset.dataset_sha256) == 64
     assert dataset.records[0].provenance_verified is True
 
+    for revision in payload["source_revisions"]:
+        if revision["role"] == "poll":
+            revision["vintage_proof"] = "retrospective_compilation"
+    path.write_text(json.dumps(payload), encoding="utf-8")
+    retrospective = load_backtest_dataset(path)
+    assert retrospective.provenance_verified is False
+    assert retrospective.records[0].provenance_verified is False
+
 
 def test_source_revision_loader_rejects_tampered_raw_snapshot(tmp_path):
     raw_dir = tmp_path / "raw"
@@ -301,8 +312,9 @@ def test_source_revision_loader_rejects_tampered_raw_snapshot(tmp_path):
         "retrieved_at": "2000-10-01",
         "sha256": hashlib.sha256(raw).hexdigest(),
         "raw_path": "raw/source.json",
+        "vintage_proof": "contemporaneous_archive",
     }
-    payload = {"schema_version": 3, "source_revisions": [revision], "records": []}
+    payload = {"schema_version": 4, "source_revisions": [revision], "records": []}
     path = tmp_path / "tampered.json"
     path.write_text(json.dumps(payload), encoding="utf-8")
     snapshot.write_bytes(b"tampered")
@@ -346,6 +358,9 @@ def test_packaged_million_draw_report_is_bound_to_dataset_engine_and_target():
     assert len(report.folds) == 12
     assert report.held_out_election_count == 3
     assert report.winner is None
+    assert dataset.provenance_verified is False
+    assert report.provenance_verified is False
+    assert "contemporaneous archived poll" in " ".join(report.promotion_reasons)
 
 
 def test_cached_report_rejects_wrong_target_horizon():
@@ -399,11 +414,14 @@ def test_source_revision_loader_rejects_cutoff_mismatch(tmp_path):
             "retrieved_at": dates[1],
             "sha256": digests[revision_id],
             "raw_path": f"raw/{revision_id}.json",
+            "vintage_proof": (
+                "contemporaneous_archive" if revision_id.startswith("poll-") else "official_release"
+            ),
         }
         for revision_id, dates in availability.items()
     ]
     payload = {
-        "schema_version": 3,
+        "schema_version": 4,
         "source_revisions": revisions,
         "records": [
             {

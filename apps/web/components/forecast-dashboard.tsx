@@ -610,7 +610,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
             <span className="grade">{forecast.data_quality}</span>
             <div><b>{detail.election.status.toUpperCase()}</b><small>{forecast.freshness} · {detail.election.date_confidence}</small></div>
             <p>{comparison?.fold_count
-              ? `Backtest evidence: ${comparison.fold_count} verified out-of-sample folds.`
+              ? `Backtest evidence: ${comparison.fold_count} historical walk-forward folds; ${comparison.vintage_verified ? "forecast-origin vintages verified." : "poll vintages are retrospective, not contemporaneously archived."}`
               : "UNVALIDATED SCENARIO: 0 jurisdiction-specific out-of-sample folds. This is not a backtested call."}</p>
           </div>
 
@@ -785,7 +785,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
                 ))}
               </div>
             ) : (
-              <div className="comparison-evidence-empty">0 VERIFIED OUT-OF-SAMPLE FOLDS · NO WINNER DECLARED</div>
+              <div className="comparison-evidence-empty">0 WALK-FORWARD FOLDS · NO WINNER DECLARED</div>
             )}
             {!!comparison?.validation_constraints?.length && (
               <div className="validation-constraints">
@@ -808,7 +808,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
               <span><small>FORECAST HORIZON</small><b>{forecast.forecast_horizon_days ?? daysAway} days</b><em>Measured from model as-of date</em></span>
               <span><small>HORIZON MULTIPLIER</small><b>×{(forecast.uncertainty_scale ?? 1).toFixed(2)}</b><em>Applied to structural volatility</em></span>
               <span><small>EFFECTIVE VOLATILITY</small><b>{pct(forecast.effective_volatility ?? 0)}</b><em>After horizon and evidence adjustments</em></span>
-              <span><small>VERIFIED FOLDS</small><b>{comparison?.fold_count ?? 0}</b><em>Strict walk-forward only</em></span>
+              <span><small>WALK-FORWARD FOLDS</small><b>{comparison?.fold_count ?? 0}</b><em>Vintage proof shown above</em></span>
             </div>
           </article>
           {figures.length > 0 && (

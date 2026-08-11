@@ -30,6 +30,7 @@ def build() -> tuple[Path, str]:
         "schema_version": 1,
         "engine_sha256": backtest_engine_sha256(),
         "dataset_sha256": report.dataset_sha256,
+        "provenance_verified": report.provenance_verified,
         "target_horizon_days": report.target_horizon_days,
         "simulation_count": report.simulation_count,
         "winner": report.winner,

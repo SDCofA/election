@@ -184,6 +184,7 @@ def revision(
     available_at: str,
     digest: str,
     raw_path: str,
+    vintage_proof: str,
 ) -> dict[str, str]:
     return {
         "id": revision_id,
@@ -198,6 +199,7 @@ def revision(
         "retrieved_at": RETRIEVED_AT,
         "sha256": digest,
         "raw_path": raw_path,
+        "vintage_proof": vintage_proof,
     }
 
 
@@ -233,6 +235,7 @@ def build() -> Path:
                     str(item["available"]),
                     digest,
                     result_path,
+                    "official_release",
                 )
             )
             result_revision_ids[year] = result_id
@@ -257,6 +260,7 @@ def build() -> Path:
                     str(item["available"]),
                     digest,
                     fundamentals_path,
+                    "official_release",
                 )
             )
             fundamentals_revision_ids[year] = fundamentals_id
@@ -300,6 +304,7 @@ def build() -> Path:
                         snapshot_date.isoformat(),
                         digest,
                         raw_path,
+                        "retrospective_compilation",
                     )
                 )
                 snapshots.append(aggregate)
@@ -324,7 +329,7 @@ def build() -> Path:
             )
 
     payload = {
-        "schema_version": 3,
+        "schema_version": 4,
         "description": (
             "Strict U.S. presidential national-popular-vote walk-forward benchmark using "
             "pinned FiveThirtyEight poll records and FEC official results."

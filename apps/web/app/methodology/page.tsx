@@ -22,14 +22,14 @@ export default function MethodologyPage() {
 
       <section>
         <h2>Current publication state</h2>
-        <p>The public forecast uses a widened baseline ensemble. Version 0.4 scores that public baseline alongside Gaussian Monte Carlo, Markov momentum, polls-only, fundamentals-only, and previous-election benchmarks. Every production model-fold uses 1,000,000 predictive draws for winner probabilities and 90% intervals. No challenger is promoted because 2–14-day U.S. evidence cannot validate the current early-cycle horizon. Forecasts without source-vintage feature snapshots are forced to grade D and list zero model-input sources.</p>
+        <p>The public forecast uses a widened baseline ensemble. Version 0.4 scores that public baseline alongside Gaussian Monte Carlo, Markov momentum, polls-only, fundamentals-only, and previous-election benchmarks. Every production model-fold uses 1,000,000 predictive draws for winner probabilities and 90% intervals. No challenger is promoted because 2–14-day U.S. evidence cannot validate the current early-cycle horizon. The 12 U.S. folds use a pinned retrospective poll compilation, not forecast-origin archived vintages, so they also fail the vintage-proof gate. Forecasts without source-vintage feature snapshots are forced to grade D and list zero model-input sources.</p>
         <p>Türkiye currently has zero verified out-of-sample folds. Its headline is a mixture of three separately simulated May 2026 matchups—Erdoğan against İmamoğlu, Yavaş, and Özel—not a Türkiye-backtested verdict. Equal matchup weights are structural placeholders, not nomination probabilities. Conditional rows expose how the answer changes with the opponent.</p>
       </section>
 
       <section>
         <h2>Time and candidate uncertainty</h2>
         <p>Model volatility is calibrated at a 90-day reference horizon. Version 0.4 applies a transparent time multiplier: (days to election ÷ 90)<sup>0.18</sup>, bounded from 0.75× to 1.60×. Long-range forecasts therefore widen automatically instead of behaving like twelve-week calls. For unsettled ballots, one million draws sample a candidate scenario first and electoral uncertainty second; the public headline is the resulting mixture, while every conditional distribution remains visible.</p>
-        <p>One million runs reduce numerical simulation noise. They do not erase polling error, candidate uncertainty, model misspecification, or missing historical validation; those remain visible through intervals, scenario splits, quality grades, and verified-fold counts.</p>
+        <p>One million runs reduce numerical simulation noise. They do not erase polling error, candidate uncertainty, model misspecification, or missing historical validation; those remain visible through intervals, scenario splits, quality grades, fold counts, and vintage-proof status.</p>
         <div className="method-links">
           <a href="https://www.cambridge.org/core/journals/political-analysis/article/forecasting-elections-in-multiparty-systems-a-bayesian-approach-combining-polls-and-fundamentals/CA929544F672A09A0E34C5529EBFA482">Polls + fundamentals research</a>
           <a href="https://arxiv.org/abs/2206.14570">Hidden-state polling error research</a>

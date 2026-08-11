@@ -345,7 +345,8 @@ class CatalogRepository:
             selection_rule=(
                 "public baseline and challengers; minimum eight strict forecast-origin folds "
                 "across three held-out elections "
-                "and twenty years of source-vintage history; verified source revisions; "
+                "and twenty years of source-vintage history; contemporaneously archived "
+                "poll vintages and verified source revisions; "
                 "election-clustered paired-bootstrap Brier superiority; RMSE and "
                 "interval-coverage gates"
             ),
@@ -360,7 +361,7 @@ class CatalogRepository:
             evaluation_period_start=report.evaluation_period_start,
             evaluation_period_end=report.evaluation_period_end,
             dataset_sha256=report.dataset_sha256,
-            vintage_verified=report.reliable,
+            vintage_verified=report.provenance_verified,
             message="; ".join(report.promotion_reasons),
             **CatalogRepository._snapshot_metadata(snapshot),
         )
