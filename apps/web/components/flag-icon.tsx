@@ -2,11 +2,11 @@ import Image from "next/image";
 
 import { publicAsset } from "@/lib/public-data";
 
-const LOCAL_FLAGS = new Set(["au", "de", "eg", "eu", "gb", "us"]);
+const LOCAL_FLAGS = new Set(["de", "eg", "gb", "us"]);
 
 export function FlagIcon({ code, label }: { code: string; label?: string }) {
   const normalized = code.toLowerCase();
-  const useLocalAsset = LOCAL_FLAGS.has(normalized) && !(normalized === "au" && label === "Australia");
+  const useLocalAsset = LOCAL_FLAGS.has(normalized);
   if (!useLocalAsset) {
     const flag = /^[a-z]{2}$/.test(normalized)
       ? String.fromCodePoint(...[...normalized.toUpperCase()].map((letter) => 127397 + letter.charCodeAt(0)))
