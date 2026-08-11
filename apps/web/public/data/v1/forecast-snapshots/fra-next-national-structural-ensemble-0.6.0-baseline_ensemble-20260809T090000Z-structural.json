@@ -1,13 +1,13 @@
 {
-  "id": "jpn-next-national-structural-ensemble-0.5.0-baseline_ensemble-20260809T090000Z-structural",
-  "election_id": "jpn-next-national",
+  "id": "fra-next-national-structural-ensemble-0.6.0-baseline_ensemble-20260809T090000Z-structural",
+  "election_id": "fra-next-national",
   "as_of": "2026-08-09T09:00:00Z",
   "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "structural-ensemble-0.5.0",
+  "model_version": "structural-ensemble-0.6.0",
   "model_family": "baseline_ensemble",
   "selection_status": "baseline retained until reliable walk-forward promotion evidence",
   "simulation_count": 1000000,
-  "seed": 1846008155,
+  "seed": 1913349482,
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "missing_drivers": [
@@ -21,38 +21,39 @@
   ],
   "regional_forecast_supported": false,
   "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
-  "majority_probability": 0.603136,
-  "turnout_median": 0.6200306415557861,
+  "majority_probability": 0.602328,
+  "turnout_median": 0.6200274229049683,
   "forecast_horizon_days": 1096,
   "uncertainty_scale": 1.5682028834163937,
   "effective_volatility": 0.18,
+  "poll_weight_used": null,
   "outcomes": [
     {
       "contestant_id": "government-camp",
-      "win_probability": 0.435561,
-      "projected_share": 0.3936153054237366,
-      "share_low": 0.09432661980390551,
-      "share_high": 0.6802006989717484,
+      "win_probability": 0.435804,
+      "projected_share": 0.39378994703292847,
+      "share_low": 0.09525462575256827,
+      "share_high": 0.679920110106468,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "opposition-camp",
-      "win_probability": 0.434193,
-      "projected_share": 0.3936673700809479,
-      "share_low": 0.09873163625597954,
-      "share_high": 0.6768664360046386,
+      "win_probability": 0.43441,
+      "projected_share": 0.39387673139572144,
+      "share_low": 0.0986861277371645,
+      "share_high": 0.6771789908409118,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "other-field",
-      "win_probability": 0.130246,
-      "projected_share": 0.21271730959415436,
-      "share_low": 0.0027157781063579024,
-      "share_high": 0.49737108945846553,
+      "win_probability": 0.129786,
+      "projected_share": 0.21233336627483368,
+      "share_low": 0.002715643320698291,
+      "share_high": 0.4967520222067833,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
@@ -100,13 +101,13 @@
   "input_provenance": [],
   "provenance": [
     {
-      "source_id": "jpn_electoral_authority_reference",
-      "label": "Ministry of Internal Affairs and Communications Elections",
-      "url": "https://www.soumu.go.jp/senkyo/",
+      "source_id": "fra_electoral_authority_reference",
+      "label": "French Ministry of the Interior Elections",
+      "url": "https://www.interieur.gouv.fr/Elections",
       "authority": "official reference",
       "retrieved_at": "2026-08-09T09:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
-      "license_url": "https://www.soumu.go.jp/senkyo/"
+      "license_url": "https://www.interieur.gouv.fr/Elections"
     }
   ]
 }

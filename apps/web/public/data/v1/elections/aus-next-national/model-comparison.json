@@ -2,38 +2,38 @@
   "election_id": "aus-next-national",
   "status": "insufficient_evidence",
   "winner": null,
-  "historical_leader": "markov_momentum",
+  "historical_leader": "gaussian_monte_carlo",
   "selection_rule": "public baseline and challengers; minimum eight strict forecast-origin folds across three held-out elections and twenty years of source-vintage history; contemporaneously archived poll vintages and verified source revisions; election-clustered paired-bootstrap Brier superiority; RMSE and interval-coverage gates",
   "metrics": [
     {
       "model_family": "gaussian_monte_carlo",
       "folds": 9,
-      "brier_score": 0.3731245736171111,
-      "brier_ci_low": 0.24566800907044442,
-      "brier_ci_high": 0.5005811381637778,
-      "vote_share_rmse": 0.02405610796612298,
+      "brier_score": 0.39269740435066663,
+      "brier_ci_low": 0.21688117655755557,
+      "brier_ci_high": 0.5685136321437777,
+      "vote_share_rmse": 0.02803322889676424,
       "interval_coverage": 0.6666666666666666,
-      "calibration_error": 0.17421300000000003
+      "calibration_error": 0.4005180000000001
     },
     {
       "model_family": "markov_momentum",
       "folds": 9,
-      "brier_score": 0.3328404138948889,
-      "brier_ci_low": 0.1617583057988889,
-      "brier_ci_high": 0.5039225219908889,
-      "vote_share_rmse": 0.024008785361576048,
-      "interval_coverage": 0.6666666666666666,
-      "calibration_error": 0.24435544444444446
+      "brier_score": 0.40153252103244447,
+      "brier_ci_low": 0.1589715090311111,
+      "brier_ci_high": 0.6440935330337777,
+      "vote_share_rmse": 0.02797666243241632,
+      "interval_coverage": 0.3333333333333333,
+      "calibration_error": 0.3826104444444444
     },
     {
       "model_family": "baseline_ensemble",
       "folds": 9,
-      "brier_score": 0.3376759687693333,
-      "brier_ci_low": 0.09319700217088887,
-      "brier_ci_high": 0.5821549353677777,
-      "vote_share_rmse": 0.024743896533098164,
+      "brier_score": 0.4048984375595556,
+      "brier_ci_low": 0.0636138399111111,
+      "brier_ci_high": 0.7461830352080002,
+      "vote_share_rmse": 0.02921389156678531,
       "interval_coverage": 1.0,
-      "calibration_error": 0.3601708888888889
+      "calibration_error": 0.3597862222222222
     },
     {
       "model_family": "polls_only",
@@ -77,6 +77,7 @@
   "evaluation_period_end": "2025-05-03",
   "dataset_sha256": "0b206f284ac5ad7d5229d0d5dd66633678fb7093f606d3c5b1942c6baf04cacc",
   "vintage_verified": true,
+  "fitted_poll_weight": 0.5762180589779206,
   "historical_election_count": 6,
   "historical_span_years": 15,
   "maximum_held_out_elections": 3,
@@ -89,7 +90,7 @@
   "message": "Source-vintage election history must span at least twenty years; Production forecast horizon is outside the evaluated historical horizon neighborhoods",
   "as_of": "2026-08-11T09:00:00Z",
   "published_at": "2026-08-11T09:00:00Z",
-  "model_version": "structural-ensemble-0.5.0",
+  "model_version": "structural-ensemble-0.6.0",
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [

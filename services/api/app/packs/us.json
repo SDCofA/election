@@ -3,7 +3,7 @@
   "source_adapters":[{"source_id":"us_fec_calendar","status":"approved","formats":["html","pdf"]}],
   "backtest_dataset":"us-presidential-2000-2020-v3.json",
   "backtest_report":"us-presidential-2000-2020-v3-report.json",
-  "backtest_report_sha256":"d061771564d0df0e1468225415150af55df8d82898ccd06ae30687b21a9d4ad1",
+  "backtest_report_sha256":"649af739048e4ec94118adb9b9b764618701ae8f799d71a35b8feb5ed96b0f86",
   "rules":{"engine":"electoral_college","electoral_votes":538,"majority":270,"state_level_required_for_grade_above_C":true},
   "election": {
     "id":"us-2028-president","jurisdiction_id":"usa","name":"2028 Presidential Election","election_date":"2028-11-07","date_confidence":"constitutional","system":"electoral_college","seats_total":538,"majority":270,"threshold":0.0,"status":"structural forecast","last_updated":"2026-08-09T09:00:00Z",

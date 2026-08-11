@@ -694,6 +694,8 @@ export interface components {
             model_version: string;
             /** Outcomes */
             outcomes: components["schemas"]["ContestantForecast"][];
+            /** Poll Weight Used */
+            poll_weight_used?: number | null;
             /** Provenance */
             provenance: components["schemas"]["SourceRef"][];
             /**
@@ -819,6 +821,8 @@ export interface components {
             evaluation_period_end?: string | null;
             /** Evaluation Period Start */
             evaluation_period_start?: string | null;
+            /** Fitted Poll Weight */
+            fitted_poll_weight?: number | null;
             /**
              * Fold Count
              * @default 0

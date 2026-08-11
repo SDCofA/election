@@ -10,6 +10,7 @@ from app.backtest import (
     HistoricalElection,
     _predictive_distribution,
     _promotion_decision,
+    fit_poll_weight,
     load_backtest_dataset,
     load_backtest_report,
     walk_forward_backtest,
@@ -97,11 +98,59 @@ def test_walk_forward_is_strict_and_reports_both_challengers():
     assert report.evaluation_period_start == date(2000, 11, 1)
     assert report.evaluation_period_end == date(2026, 11, 1)
     assert BACKTEST_SIMULATION_COUNT == 1_000_000
+    assert 0 <= report.poll_weight <= 1
+    assert all(0 <= fold.poll_weight <= 1 for fold in report.folds)
     assert all(
         abs(sum(probabilities) - 1) < 1e-9
         for fold in report.folds
         for probabilities in fold.winner_probabilities.values()
     )
+
+
+def test_poll_weight_is_fitted_from_training_accuracy_not_hard_coded():
+    records = []
+    for year in range(2000, 2005):
+        record = _record(year, 0.0)
+        records.append(
+            HistoricalElection(
+                **{
+                    **record.__dict__,
+                    "actual_shares": (0.60, 0.40),
+                    "fundamentals_shares": (0.45, 0.55),
+                    "polling_snapshots": (*record.polling_snapshots[:-1], (0.60, 0.40)),
+                }
+            )
+        )
+    assert fit_poll_weight(records) == 1.0
+
+    fundamentals_win = [
+        HistoricalElection(
+            **{
+                **record.__dict__,
+                "actual_shares": (0.45, 0.55),
+                "fundamentals_shares": (0.45, 0.55),
+                "polling_snapshots": (*record.polling_snapshots[:-1], (0.60, 0.40)),
+            }
+        )
+        for record in records
+    ]
+    assert fit_poll_weight(fundamentals_win) == 0.0
+
+
+def test_fold_poll_weight_uses_only_prior_elections():
+    records = [_record(year, 0.0) for year in range(2000, 2008)]
+    report = walk_forward_backtest(records, minimum_train=5, simulation_count=5_000)
+    first_fold = report.folds[0]
+    expected = fit_poll_weight(records[:5])
+    assert first_fold.poll_weight == expected
+
+    changed_test = HistoricalElection(**{**records[5].__dict__, "actual_shares": (0.99, 0.01)})
+    changed = walk_forward_backtest(
+        [*records[:5], changed_test, *records[6:]],
+        minimum_train=5,
+        simulation_count=5_000,
+    )
+    assert changed.folds[0].poll_weight == first_fold.poll_weight
 
 
 def test_backtest_refuses_to_select_with_too_few_folds():
@@ -387,6 +436,7 @@ def test_packaged_million_draw_report_is_bound_to_dataset_engine_and_target():
         expected_sha256=digest,
     )
     assert report.simulation_count == 1_000_000
+    assert 0 <= report.poll_weight <= 1
     assert len(report.folds) == 12
     assert report.held_out_election_count == 3
     assert report.winner is None
@@ -408,6 +458,7 @@ def test_packaged_turkiye_report_uses_archived_origins_without_overclaiming():
     assert len(dataset.records) == 9
     assert dataset.provenance_verified is True
     assert report.provenance_verified is True
+    assert 0 <= report.poll_weight <= 1
     assert report.simulation_count == 1_000_000
     assert len(report.folds) == 3
     assert report.held_out_election_count == 1
@@ -444,6 +495,7 @@ def test_packaged_australia_report_has_three_archive_verified_holdouts():
     assert len(dataset.records) == 18
     assert dataset.provenance_verified is True
     assert report.provenance_verified is True
+    assert 0 <= report.poll_weight <= 1
     assert report.simulation_count == 1_000_000
     assert len(report.folds) == 9
     assert report.held_out_election_count == 3

@@ -135,6 +135,7 @@ type ElectionDetail = {
     forecast_horizon_days?: number;
     uncertainty_scale?: number;
     effective_volatility?: number;
+    poll_weight_used?: number | null;
     outcomes: Outcome[];
     scenario_outcomes?: Array<{
       scenario_id: string;
@@ -776,6 +777,9 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
             {comparison?.evaluated_horizon_min_days != null && comparison.evaluated_horizon_max_days != null && comparison.target_horizon_days != null && (
               <p>Evaluated horizon: {comparison.evaluated_horizon_min_days}–{comparison.evaluated_horizon_max_days} days. Current target: {comparison.target_horizon_days} days.</p>
             )}
+            {comparison?.fitted_poll_weight != null && (
+              <p>Training-fit diagnostic blend: {pct(comparison.fitted_poll_weight)} polls · {pct(1 - comparison.fitted_poll_weight)} fundamentals. Activated only after all reliability gates pass.</p>
+            )}
             <p>{comparison?.message ?? "Eight or more strict source-vintage folds required before either challenger can replace baseline."}</p>
             {comparison && comparison.fold_count > 0 ? (
               <div className="comparison-metrics" role="table" aria-label="Walk-forward model metrics">
@@ -817,6 +821,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
               <span><small>FORECAST HORIZON</small><b>{forecast.forecast_horizon_days ?? daysAway} days</b><em>Measured from model as-of date</em></span>
               <span><small>HORIZON MULTIPLIER</small><b>×{(forecast.uncertainty_scale ?? 1).toFixed(2)}</b><em>Applied to structural volatility</em></span>
               <span><small>EFFECTIVE VOLATILITY</small><b>{pct(forecast.effective_volatility ?? 0)}</b><em>After horizon and evidence adjustments</em></span>
+              <span><small>LIVE POLL WEIGHT</small><b>{forecast.poll_weight_used == null ? "N/A" : pct(forecast.poll_weight_used)}</b><em>{forecast.poll_weight_used == null ? "No source-vintage poll aggregate" : "Fitted only after validation; otherwise polls-only"}</em></span>
               <span><small>WALK-FORWARD FOLDS</small><b>{comparison?.fold_count ?? 0}</b><em>Vintage proof shown above</em></span>
             </div>
           </article>

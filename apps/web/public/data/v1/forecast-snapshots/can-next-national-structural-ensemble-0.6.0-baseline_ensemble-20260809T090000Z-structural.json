@@ -1,13 +1,13 @@
 {
-  "id": "ita-next-national-structural-ensemble-0.5.0-baseline_ensemble-20260809T090000Z-structural",
-  "election_id": "ita-next-national",
+  "id": "can-next-national-structural-ensemble-0.6.0-baseline_ensemble-20260809T090000Z-structural",
+  "election_id": "can-next-national",
   "as_of": "2026-08-09T09:00:00Z",
   "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "structural-ensemble-0.5.0",
+  "model_version": "structural-ensemble-0.6.0",
   "model_family": "baseline_ensemble",
   "selection_status": "baseline retained until reliable walk-forward promotion evidence",
   "simulation_count": 1000000,
-  "seed": 2120094837,
+  "seed": 3060977181,
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "missing_drivers": [
@@ -21,38 +21,39 @@
   ],
   "regional_forecast_supported": false,
   "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
-  "majority_probability": 0.603168,
-  "turnout_median": 0.6199641227722168,
+  "majority_probability": 0.603635,
+  "turnout_median": 0.6199793219566345,
   "forecast_horizon_days": 1096,
   "uncertainty_scale": 1.5682028834163937,
   "effective_volatility": 0.18,
+  "poll_weight_used": null,
   "outcomes": [
     {
       "contestant_id": "government-camp",
-      "win_probability": 0.43619,
-      "projected_share": 0.3939369320869446,
-      "share_low": 0.09475241899490357,
-      "share_high": 0.6802078068256378,
+      "win_probability": 0.436502,
+      "projected_share": 0.39394181966781616,
+      "share_low": 0.09405729286372662,
+      "share_high": 0.6805090636014937,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "opposition-camp",
-      "win_probability": 0.433751,
-      "projected_share": 0.3937084376811981,
-      "share_low": 0.09865362159907819,
-      "share_high": 0.6763663709163663,
+      "win_probability": 0.433818,
+      "projected_share": 0.39370161294937134,
+      "share_low": 0.09785985797643663,
+      "share_high": 0.6768281519412991,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "other-field",
-      "win_probability": 0.130059,
-      "projected_share": 0.2123546451330185,
-      "share_low": 0.0027156732394360006,
-      "share_high": 0.4974771335721015,
+      "win_probability": 0.12968,
+      "projected_share": 0.2123565524816513,
+      "share_low": 0.002715088124386966,
+      "share_high": 0.4979311555624004,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
@@ -100,13 +101,13 @@
   "input_provenance": [],
   "provenance": [
     {
-      "source_id": "ita_electoral_authority_reference",
-      "label": "Italian Ministry of Interior Elections",
-      "url": "https://elezioni.interno.gov.it/",
+      "source_id": "can_electoral_authority_reference",
+      "label": "Elections Canada",
+      "url": "https://www.elections.ca/",
       "authority": "official reference",
       "retrieved_at": "2026-08-09T09:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
-      "license_url": "https://elezioni.interno.gov.it/"
+      "license_url": "https://www.elections.ca/"
     }
   ]
 }

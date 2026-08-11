@@ -15,21 +15,22 @@ export default function MethodologyPage() {
     <main className="method-page">
       <Link className="method-back" href="/">← SDCOFA ELECTION DESK</Link>
       <header>
-        <span>MODEL GOVERNANCE / VERSION 0.5</span>
+        <span>MODEL GOVERNANCE / VERSION 0.6</span>
         <h1>Forecast methodology</h1>
         <p>Evidence gates choose the public model. No challenger is promoted because it looks more sophisticated.</p>
       </header>
 
       <section>
         <h2>Current publication state</h2>
-        <p>The public forecast uses a widened baseline ensemble. Version 0.5 scores that public baseline alongside Gaussian Monte Carlo, Markov momentum, polls-only, fundamentals-only, and previous-election benchmarks. Every production model-fold uses 1,000,000 predictive draws for winner probabilities and 90% intervals. Training origins must fall within 10% of the held-out horizon, bounded to a two-to-thirty-day tolerance. Production horizons must be near an evaluated fold—not merely between the shortest and longest tests. No challenger is promoted because 2–14-day U.S. evidence cannot validate the current early-cycle horizon. The 12 U.S. folds use a pinned retrospective poll compilation, not forecast-origin archived vintages, so they also fail the vintage-proof gate. Forecasts without source-vintage feature snapshots are forced to grade D and list zero model-input sources.</p>
+        <p>The public forecast uses a widened baseline ensemble. Version 0.6 scores that public baseline alongside Gaussian Monte Carlo, Markov momentum, polls-only, fundamentals-only, and previous-election benchmarks. Every production model-fold uses 1,000,000 predictive draws for winner probabilities and 90% intervals. Training origins must fall within 10% of the held-out horizon, bounded to a two-to-thirty-day tolerance. Production horizons must be near an evaluated fold—not merely between the shortest and longest tests. No challenger is promoted because 2–14-day U.S. evidence cannot validate the current early-cycle horizon. The 12 U.S. folds use a pinned retrospective poll compilation, not forecast-origin archived vintages, so they also fail the vintage-proof gate. Forecasts without source-vintage feature snapshots are forced to grade D and list zero model-input sources.</p>
         <p>Türkiye now has three archive-verified forecast-origin folds, each using 1,000,000 draws after training on 2014 and 2018. All three hold out the same 2023 election, cover only 2–14-day horizons, and span nine years, so they remain diagnostic and cannot validate or promote a model. The current headline is a separate mixture of three May 2026 matchups—Erdoğan against İmamoğlu, Yavaş, and Özel. Equal matchup weights are structural placeholders, not nomination probabilities.</p>
-        <p>Australia has nine archive-verified folds across three held-out elections. Markov momentum leads narrowly in the 7–28-day tests, but the 2010–2025 history is too short and the current election is far outside the tested horizon. It is therefore not promoted.</p>
+        <p>Australia has nine archive-verified folds across three held-out elections. After fitting the poll/fundamentals blend inside each training fold, Gaussian Monte Carlo leads the challengers in the 7–28-day tests. The 2010–2025 history is still too short and the current election remains far outside the tested horizon, so no model is promoted.</p>
       </section>
 
       <section>
         <h2>Research doctrine: context without guesswork</h2>
-        <p>Version 0.5 disables every hand-written economy, security, conflict, crime, and incumbency coefficient. Context rows remain reporting signals, but contribute exactly zero to published probabilities. A driver activates only after its value was observable at each historical cutoff, its direction is fitted from training elections, and the complete country-specific model beats simpler alternatives on unseen elections.</p>
+        <p>Version 0.6 disables every hand-written economy, security, conflict, crime, and incumbency coefficient. Context rows remain reporting signals, but contribute exactly zero to published probabilities. A driver activates only after its value was observable at each historical cutoff, its direction is fitted from training elections, and the complete country-specific model beats simpler alternatives on unseen elections.</p>
+        <p>The polls-versus-fundamentals weight is no longer fixed at 72/28. Every historical fold fits a constrained zero-to-one weight using prior elections only, with each election receiving equal weight regardless of archive density. The held-out election cannot influence that coefficient. A current forecast may use the fitted blend only when its country report passes every reliability and horizon gate; otherwise an available poll aggregate remains polls-only.</p>
         <p>There is no universal “war moves voters right” rule. Research finds conditional, time-varying, and sometimes null security effects. The intended model uses issue salience together with local party ownership, incumbent responsibility, shock timing and decay—and estimates their interactions separately by political system. Economic variables are relative to peer-country performance and moderated by clarity of government responsibility.</p>
         <div className="method-links">
           <a href="https://www.cambridge.org/core/journals/political-analysis/article/forecasting-elections-in-multiparty-systems-a-bayesian-approach-combining-polls-and-fundamentals/CA929544F672A09A0E34C5529EBFA482">Bayesian polls + fundamentals</a>
@@ -42,7 +43,7 @@ export default function MethodologyPage() {
 
       <section>
         <h2>Time and candidate uncertainty</h2>
-        <p>Model volatility is calibrated at a 90-day reference horizon. Version 0.5 applies a transparent time multiplier: (days to election ÷ 90)<sup>0.18</sup>, bounded from 0.75× to 1.60×. Long-range forecasts therefore widen automatically instead of behaving like twelve-week calls. For unsettled ballots, one million draws sample a candidate scenario first and electoral uncertainty second; the public headline is the resulting mixture, while every conditional distribution remains visible.</p>
+        <p>Model volatility is calibrated at a 90-day reference horizon. Version 0.6 applies a transparent time multiplier: (days to election ÷ 90)<sup>0.18</sup>, bounded from 0.75× to 1.60×. Long-range forecasts therefore widen automatically instead of behaving like twelve-week calls. For unsettled ballots, one million draws sample a candidate scenario first and electoral uncertainty second; the public headline is the resulting mixture, while every conditional distribution remains visible.</p>
         <p>One million runs reduce numerical simulation noise. They do not erase polling error, candidate uncertainty, model misspecification, or missing historical validation; those remain visible through intervals, scenario splits, quality grades, fold counts, and vintage-proof status.</p>
         <div className="method-links">
           <a href="https://www.cambridge.org/core/journals/political-analysis/article/forecasting-elections-in-multiparty-systems-a-bayesian-approach-combining-polls-and-fundamentals/CA929544F672A09A0E34C5529EBFA482">Polls + fundamentals research</a>
@@ -72,7 +73,7 @@ export default function MethodologyPage() {
       <section>
         <h2>Promotion gates</h2>
         <ol>{gates.map((gate) => <li key={gate}>{gate}</li>)}</ol>
-        <p>Challengers are compared with polls-only, fundamentals-only, and previous-election baselines. Failure of any gate retains the validated baseline.</p>
+        <p>Challengers are compared with a training-fitted poll/fundamentals ensemble, polls-only, fundamentals-only, and previous-election baselines. Failure of any gate retains the simpler public fallback.</p>
       </section>
 
       <section>

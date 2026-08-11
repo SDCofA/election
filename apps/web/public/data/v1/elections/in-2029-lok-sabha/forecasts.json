@@ -1,14 +1,14 @@
 [
   {
-    "id": "in-2029-lok-sabha-structural-ensemble-0.5.0-baseline_ensemble-20260811T120000Z-structural",
+    "id": "in-2029-lok-sabha-structural-ensemble-0.6.0-baseline_ensemble-20260811T120000Z-structural",
     "election_id": "in-2029-lok-sabha",
     "as_of": "2026-08-11T12:00:00Z",
     "published_at": "2026-08-11T12:00:00Z",
-    "model_version": "structural-ensemble-0.5.0",
+    "model_version": "structural-ensemble-0.6.0",
     "model_family": "baseline_ensemble",
     "selection_status": "baseline retained until reliable walk-forward promotion evidence",
     "simulation_count": 1000000,
-    "seed": 1091289912,
+    "seed": 680554780,
     "data_quality": "D",
     "freshness": "structural-only; no source-vintage feature snapshot",
     "missing_drivers": [
@@ -21,41 +21,42 @@
     ],
     "regional_forecast_supported": false,
     "headline": "The NDA begins ahead on the 2024 alliance baseline, but a long horizon, alliance changes and constituency geography keep government control highly uncertain.",
-    "majority_probability": 0.927958,
-    "turnout_median": 0.6599705815315247,
+    "majority_probability": 0.928464,
+    "turnout_median": 0.6600023508071899,
     "forecast_horizon_days": 1013,
     "uncertainty_scale": 1.546130147665206,
     "effective_volatility": 0.16234366550484663,
+    "poll_weight_used": null,
     "outcomes": [
       {
         "contestant_id": "nda",
-        "win_probability": 0.483781,
-        "projected_share": 0.4179432988166809,
-        "share_low": 0.14883043840527535,
-        "share_high": 0.676822856068611,
+        "win_probability": 0.485041,
+        "projected_share": 0.41826412081718445,
+        "share_low": 0.14894668161869049,
+        "share_high": 0.6770505219697952,
         "projected_seats": 250,
         "seats_low": 7,
         "seats_high": 515
       },
       {
         "contestant_id": "india-alliance",
-        "win_probability": 0.433037,
-        "projected_share": 0.3997206389904022,
-        "share_low": 0.1339820832014084,
-        "share_high": 0.6557357430458068,
+        "win_probability": 0.432417,
+        "projected_share": 0.3996999263763428,
+        "share_low": 0.1345950923860073,
+        "share_high": 0.6557006925344465,
         "projected_seats": 230,
         "seats_low": 5,
         "seats_high": 506
       },
       {
         "contestant_id": "other-parties",
-        "win_probability": 0.083182,
-        "projected_share": 0.18233603239059448,
-        "share_low": 0.002714145858772099,
-        "share_high": 0.4395671203732489,
+        "win_probability": 0.082542,
+        "projected_share": 0.18203593790531158,
+        "share_low": 0.00271245565963909,
+        "share_high": 0.4387796580791473,
         "projected_seats": 63,
         "seats_low": 0,
-        "seats_high": 308
+        "seats_high": 306
       }
     ],
     "scenario_outcomes": [],
@@ -65,9 +66,9 @@
           "nda",
           "india-alliance"
         ],
-        "majority_probability": 0.934006,
-        "seats_median": 529,
-        "seats_low": 235,
+        "majority_probability": 0.934676,
+        "seats_median": 530,
+        "seats_low": 237,
         "seats_high": 543
       },
       {
@@ -75,8 +76,8 @@
           "nda",
           "other-parties"
         ],
-        "majority_probability": 0.593772,
-        "seats_median": 331,
+        "majority_probability": 0.594267,
+        "seats_median": 332,
         "seats_low": 37,
         "seats_high": 538
       },
@@ -85,8 +86,8 @@
           "india-alliance",
           "other-parties"
         ],
-        "majority_probability": 0.544264,
-        "seats_median": 300,
+        "majority_probability": 0.542593,
+        "seats_median": 299,
         "seats_low": 28,
         "seats_high": 536
       }

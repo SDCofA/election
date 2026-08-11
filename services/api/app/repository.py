@@ -44,7 +44,7 @@ from .systems import validate_pack_rules
 PACKS_DIR = Path(__file__).parent / "packs"
 BACKTESTS_DIR = Path(__file__).parent / "backtests"
 CATALOG_PATH = Path(__file__).parent / "catalog" / "vdem-v16.json"
-MODEL_VERSION = "structural-ensemble-0.5.0"
+MODEL_VERSION = "structural-ensemble-0.6.0"
 G20_COUNTRY_IDS = frozenset(
     {
         "arg",
@@ -362,6 +362,7 @@ class CatalogRepository:
             evaluation_period_end=report.evaluation_period_end,
             dataset_sha256=report.dataset_sha256,
             vintage_verified=report.provenance_verified,
+            fitted_poll_weight=report.poll_weight,
             historical_election_count=int(
                 data.get("backtest_feasibility", {}).get("historical_election_count", 0)
             ),
@@ -399,6 +400,7 @@ class CatalogRepository:
         volatility = float(data["model"]["volatility"])
         poll_count = 0
         poll_age_days: int | None = None
+        poll_weight_used: float | None = None
         forecast_as_of = (
             evidence.as_of.date() if evidence is not None else election.last_updated.date()
         )
@@ -413,11 +415,12 @@ class CatalogRepository:
                 0,
                 (evidence.as_of.date() - evidence.poll_aggregate.latest_available_at.date()).days,
             )
-            horizon_weight = max(
-                0.25,
-                min(0.72, 0.72 * math.exp(-max(0, horizon_days - 60) / 730)),
+            poll_weight = (
+                backtest_report.poll_weight
+                if backtest_report is not None and backtest_report.reliable
+                else 1.0
             )
-            poll_weight = horizon_weight * math.exp(-poll_age_days / 90)
+            poll_weight_used = poll_weight
             blended = [
                 (1 - poll_weight) * prior + poll_weight * poll
                 for prior, poll in zip(base_shares, evidence.poll_aggregate.shares, strict=True)
@@ -554,6 +557,7 @@ class CatalogRepository:
             forecast_horizon_days=horizon_days,
             uncertainty_scale=uncertainty_scale,
             effective_volatility=volatility,
+            poll_weight_used=poll_weight_used,
             outcomes=simulation.outcomes,
             scenario_outcomes=simulation.scenario_outcomes,
             coalition_outcomes=simulation.coalition_outcomes,

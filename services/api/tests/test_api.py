@@ -124,6 +124,7 @@ def test_forecast_contract_and_exploratory_forecasts():
     assert detail["forecast"]["model_family"] == "baseline_ensemble"
     assert detail["forecast"]["data_quality"] == "D"
     assert detail["forecast"]["input_provenance"] == []
+    assert detail["forecast"]["poll_weight_used"] is None
     assert detail["forecast"]["provenance"]
     assert detail["forecast"]["regional_forecast_supported"] is False
     assert detail["forecast"]["missing_drivers"]
@@ -158,6 +159,7 @@ def test_forecast_contract_and_exploratory_forecasts():
     assert comparison["simulation_count_per_model_fold"] == 1_000_000
     assert comparison["evaluated_horizon_min_days"] == 2
     assert comparison["evaluated_horizon_max_days"] == 14
+    assert 0 <= comparison["fitted_poll_weight"] <= 1
 
     australia = client.get("/v1/elections/aus-next-national").json()
     assert australia["election"]["election_date"] == "2028-05-20"
@@ -170,8 +172,9 @@ def test_forecast_contract_and_exploratory_forecasts():
     australia_comparison = client.get("/v1/elections/aus-next-national/model-comparison").json()
     assert australia_comparison["fold_count"] == 9
     assert australia_comparison["held_out_election_count"] == 3
-    assert australia_comparison["historical_leader"] == "markov_momentum"
+    assert australia_comparison["historical_leader"] == "gaussian_monte_carlo"
     assert australia_comparison["vintage_verified"] is True
+    assert 0 <= australia_comparison["fitted_poll_weight"] <= 1
     assert australia_comparison["status"] == "insufficient_evidence"
     assert comparison["target_horizon_days"] == 637
     assert comparison["vintage_verified"] is True

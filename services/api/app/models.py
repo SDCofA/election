@@ -155,6 +155,7 @@ class ForecastSnapshot(BaseModel):
     forecast_horizon_days: int = Field(default=0, ge=0)
     uncertainty_scale: float = Field(default=1, gt=0)
     effective_volatility: float = Field(default=0, ge=0)
+    poll_weight_used: float | None = Field(default=None, ge=0, le=1)
     outcomes: list[ContestantForecast]
     scenario_outcomes: list[ScenarioForecast] = Field(default_factory=list)
     coalition_outcomes: list[CoalitionForecast]
@@ -195,6 +196,7 @@ class ModelComparison(BaseModel):
     evaluation_period_end: date | None = None
     dataset_sha256: str | None = None
     vintage_verified: bool = False
+    fitted_poll_weight: float | None = Field(default=None, ge=0, le=1)
     historical_election_count: int = Field(default=0, ge=0)
     historical_span_years: int = Field(default=0, ge=0)
     maximum_held_out_elections: int = Field(default=0, ge=0)

@@ -24,7 +24,7 @@
   ],
   "backtest_dataset": "au-federal-tpp-2010-2025-v1.json",
   "backtest_report": "au-federal-tpp-2010-2025-v1-report.json",
-  "backtest_report_sha256": "c861f6594b55b5a788849799b26b3b2852757a564a461c8482096de448c359d2",
+  "backtest_report_sha256": "f6737e1954dcfbb66083b55cc30b1c1c26b293e56be2a250b235df0b57bbcd23",
   "rules": {
     "engine": "unresolved",
     "forecast_mode": "national_control_scenario",

@@ -1,13 +1,13 @@
 {
-  "id": "arg-next-national-structural-ensemble-0.5.0-baseline_ensemble-20260809T090000Z-structural",
-  "election_id": "arg-next-national",
+  "id": "kor-next-national-structural-ensemble-0.6.0-baseline_ensemble-20260809T090000Z-structural",
+  "election_id": "kor-next-national",
   "as_of": "2026-08-09T09:00:00Z",
   "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "structural-ensemble-0.5.0",
+  "model_version": "structural-ensemble-0.6.0",
   "model_family": "baseline_ensemble",
   "selection_status": "baseline retained until reliable walk-forward promotion evidence",
   "simulation_count": 1000000,
-  "seed": 303733402,
+  "seed": 1912572278,
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "missing_drivers": [
@@ -21,38 +21,39 @@
   ],
   "regional_forecast_supported": false,
   "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
-  "majority_probability": 0.604007,
-  "turnout_median": 0.6199746131896973,
+  "majority_probability": 0.603143,
+  "turnout_median": 0.6199816465377808,
   "forecast_horizon_days": 1096,
   "uncertainty_scale": 1.5682028834163937,
   "effective_volatility": 0.18,
+  "poll_weight_used": null,
   "outcomes": [
     {
       "contestant_id": "government-camp",
-      "win_probability": 0.43591,
-      "projected_share": 0.3936999440193176,
-      "share_low": 0.09380039833486081,
-      "share_high": 0.6806129544973373,
+      "win_probability": 0.435552,
+      "projected_share": 0.39353814721107483,
+      "share_low": 0.09400029554963113,
+      "share_high": 0.6804693460464476,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "opposition-camp",
-      "win_probability": 0.434296,
-      "projected_share": 0.39393526315689087,
-      "share_low": 0.09918445833027366,
-      "share_high": 0.6774047613143919,
+      "win_probability": 0.435212,
+      "projected_share": 0.3940437138080597,
+      "share_low": 0.09870561435818673,
+      "share_high": 0.6769705772399902,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "other-field",
-      "win_probability": 0.129794,
-      "projected_share": 0.21236483752727509,
-      "share_low": 0.0027151818154379725,
-      "share_high": 0.4976562082767485,
+      "win_probability": 0.129236,
+      "projected_share": 0.21241812407970428,
+      "share_low": 0.002714987832587212,
+      "share_high": 0.4968226939439773,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
@@ -100,13 +101,13 @@
   "input_provenance": [],
   "provenance": [
     {
-      "source_id": "arg_electoral_authority_reference",
-      "label": "Cámara Nacional Electoral",
-      "url": "https://www.electoral.gob.ar/",
+      "source_id": "kor_electoral_authority_reference",
+      "label": "National Election Commission Republic of Korea",
+      "url": "https://www.nec.go.kr/",
       "authority": "official reference",
       "retrieved_at": "2026-08-09T09:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
-      "license_url": "https://www.electoral.gob.ar/"
+      "license_url": "https://www.nec.go.kr/"
     }
   ]
 }

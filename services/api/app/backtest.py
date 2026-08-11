@@ -57,6 +57,7 @@ class BacktestFold:
     train_end: date
     test_date: date
     test_forecast_as_of: date
+    poll_weight: float
     predictions: dict[str, tuple[float, ...]]
     winner_probabilities: dict[str, tuple[float, ...]]
     share_intervals: dict[str, tuple[tuple[float, float], ...]]
@@ -79,6 +80,7 @@ class BacktestReport:
     target_horizon_days: int | None
     dataset_sha256: str | None = None
     provenance_verified: bool = False
+    poll_weight: float = 0.5
     markov_transition: tuple[tuple[float, ...], ...] = ()
     markov_step: float = 0.01
 
@@ -298,6 +300,7 @@ def load_backtest_report(
             train_end=_iso_date(item["train_end"], "train_end"),
             test_date=_iso_date(item["test_date"], "test_date"),
             test_forecast_as_of=_iso_date(item["test_forecast_as_of"], "test_forecast_as_of"),
+            poll_weight=float(item["poll_weight"]),
             predictions={
                 key: tuple(float(value) for value in values)
                 for key, values in item["predictions"].items()
@@ -337,6 +340,7 @@ def load_backtest_report(
         target_horizon_days=payload["target_horizon_days"],
         dataset_sha256=payload["dataset_sha256"],
         provenance_verified=bool(payload["provenance_verified"]),
+        poll_weight=float(payload["poll_weight"]),
         markov_transition=tuple(
             tuple(float(value) for value in row) for row in payload["markov_transition"]
         ),
@@ -349,10 +353,37 @@ def _normalize(values: np.ndarray) -> np.ndarray:
     return clipped / clipped.sum()
 
 
-def _base_prediction(record: HistoricalElection) -> np.ndarray:
+def fit_poll_weight(records: list[HistoricalElection]) -> float:
+    """Fit a convex polls/fundamentals blend on training elections only.
+
+    Origins from the same election share one unit of weight so elections with
+    denser archives cannot dominate the estimate.
+    """
+    if not records:
+        return 0.5
+    grouped: dict[str, list[HistoricalElection]] = {}
+    for record in records:
+        grouped.setdefault(record.election_id, []).append(record)
+    numerator = 0.0
+    denominator = 0.0
+    for origins in grouped.values():
+        origin_weight = 1.0 / len(origins)
+        for record in origins:
+            poll = np.asarray(record.polling_snapshots[-1], dtype=np.float64)
+            fundamentals = np.asarray(record.fundamentals_shares, dtype=np.float64)
+            actual = np.asarray(record.actual_shares, dtype=np.float64)
+            direction = poll - fundamentals
+            numerator += origin_weight * float(direction @ (actual - fundamentals))
+            denominator += origin_weight * float(direction @ direction)
+    if denominator <= 1e-12:
+        return 0.5
+    return float(np.clip(numerator / denominator, 0.0, 1.0))
+
+
+def _base_prediction(record: HistoricalElection, poll_weight: float) -> np.ndarray:
     latest_poll = np.asarray(record.polling_snapshots[-1], dtype=np.float64)
     fundamentals = np.asarray(record.fundamentals_shares, dtype=np.float64)
-    return _normalize(latest_poll * 0.72 + fundamentals * 0.28)
+    return _normalize(latest_poll * poll_weight + fundamentals * (1 - poll_weight))
 
 
 def _movement_state(previous: np.ndarray, current: np.ndarray, contestant_index: int) -> int:
@@ -435,9 +466,10 @@ def _predict(
     train: list[HistoricalElection],
     test: HistoricalElection,
 ) -> np.ndarray:
-    base = _base_prediction(test)
+    poll_weight = fit_poll_weight(train)
+    base = _base_prediction(test, poll_weight)
     residuals = np.asarray(
-        [np.asarray(item.actual_shares) - _base_prediction(item) for item in train]
+        [np.asarray(item.actual_shares) - _base_prediction(item, poll_weight) for item in train]
     )
     bias = residuals.mean(axis=0) if len(residuals) else np.zeros_like(base)
 
@@ -827,6 +859,7 @@ def walk_forward_backtest(
                 train_end=train[-1].election_date,
                 test_date=test.election_date,
                 test_forecast_as_of=test.forecast_as_of,
+                poll_weight=fit_poll_weight(train),
                 predictions={
                     key: tuple(float(x) for x in value.mean_shares)
                     for key, value in distributions.items()
@@ -903,6 +936,7 @@ def walk_forward_backtest(
             "Production forecast horizon is outside the evaluated historical horizon neighborhoods"
         )
     reliable = not reliability_reasons
+    poll_weight = fit_poll_weight(ordered)
     markov_transition, markov_step = fit_markov_parameters(ordered)
     winner, promotion_status, reasons = _promotion_decision(
         metric_tuple,
@@ -926,6 +960,7 @@ def walk_forward_backtest(
         target_horizon_days=target_horizon_days,
         dataset_sha256=dataset_sha256,
         provenance_verified=provenance_verified,
+        poll_weight=poll_weight,
         markov_transition=markov_transition,
         markov_step=markov_step,
     )
