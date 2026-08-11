@@ -1,0 +1,1721 @@
+{{Use dmy dates|date=July 2016}} 
+{{Infobox election
+| election_name   = Australian federal election, 2016
+| country         = Australia
+| type            = parliamentary
+| ongoing         = no
+| previous_election = Australian federal election, 2013
+| previous_year   = 2013
+| outgoing_members = Members of the Australian House of Representatives, 2013–2016
+| election_date   = 2 July 2016
+| elected_members = Members of the Australian House of Representatives, 2016–2019
+| next_election   = <!--Next Australian federal election-->
+| next_year       = ''Next''
+| seats_for_election = All 150 seats in the [[Australian House of Representatives]]<br /><small>76 seats were needed for a majority</small> <br />All 76 seats in the [[Australian Senate]]
+| opinion_polls  =
+
+<!-- Liberal/ National Coalition -->
+| image1          = [[File:Malcolm Turnbull at the Pentagon 2016 cropped.jpg|175x175px|Malcolm Turnbull]]
+| leader1         = [[Malcolm Turnbull]]
+| party1          = Liberal/National coalition
+| leader_since1   = [[Liberal Party of Australia leadership spill, September 2015|{{start date|df=yes|2015|9|14}}]]
+| leaders_seat1   = [[Division of Wentworth|Wentworth]]
+| last_election1  = 90 seats, 53.49%
+| seats1          = '''77'''
+| seat_change1    = {{decrease}}13
+| popular_vote1   = 
+| percentage1     = 
+| swing1          = 
+
+<!-- Labor -->
+| 1blank          = [[Two-party-preferred vote|TPP]]
+| 1data1          = '''50.34%'''
+| title = [[Prime Minister of Australia|Prime Minister]]
+| before_election = [[Malcolm Turnbull]]
+| before_party = [[Coalition (Australia)|Coalition]]
+| posttitle = Subsequent Prime Minister
+| after_election = [[Malcolm Turnbull]]
+| after_party = [[Coalition (Australia)|Coalition]]
+| image2          = [[File:Bill Shorten-crop.jpg|175x175px|Bill Shorten]]
+| leader2         = [[Bill Shorten]]
+| leader_since2   = [[Australian Labor Party leadership spill, October 2013|{{start date|df=yes|2013|10|13}}]]
+| party2          = Australian Labor Party
+| leaders_seat2   = [[Division of Maribyrnong|Maribyrnong]]
+| popular_vote2   = 
+| percentage2     = 
+| swing2          = {{increase}}1.97
+| last_election2  = 55 seats, 46.51%
+| seats2          = 68
+| seat_change2    = {{increase}}13
+
+<!-- The Greens -->
+| image4          = [[File:Richard Di Natale infobox Crop.png|175x175px|Richard Di Natale]]
+| colour4         = 10C25B
+| leader4         = [[Richard Di Natale]]
+| leader_since4   = {{start date|df=yes|2015|05|06}}
+| party4          = Australian Greens
+| leaders_seat4   = [[Australian Senate|Senator]] for [[Victoria (Australia)|Victoria]]
+| popular_vote4   = 
+| percentage4     = 
+| swing4          = 
+| last_election4  = [[Division of Melbourne|1 seat]], 8.65%
+| seats4          = [[Division of Melbourne|1 seat]]
+| seat_change4    = {{steady}}
+
+<!-- NXT -->
+| image5         = [[File:2009 07 24 Nick Xenophon speaking cropped.jpg|175x175px|Nick Xenophon]]
+| colour5 = FF7400
+| leader5         = [[Nick Xenophon]]
+| leader_since5  = {{start date|df=yes|2013|06|01}}
+| party5         = Nick Xenophon Team
+| leaders_seat5   = [[Australian Senate|Senator]] for [[South Australia]]
+| popular_vote5   = 
+| percentage5    = 
+| swing5          = 
+| last_election5 = ''new party''
+| seats5         = [[Division of Mayo|1 seat]]
+| seat_change5    = {{increase}}1
+
+<!-- Katter's Australian Party -->
+| image7         = [[File:Bob Katter.jpg|175x175px|Bob Katter]]
+| colour7        = FE6F5E
+| leader7        = [[Bob Katter]]
+| leader_since7  = {{start date|df=yes|2011|06|03}}
+| party7         = Katter's Australian Party
+| leaders_seat7  = [[Division of Kennedy|Kennedy]]
+| popular_vote7  = 
+| percentage7    = 
+| swing7         = 
+| last_election7 = [[Division of Kennedy|1 seat]], 1.04%
+| seats7         = [[Division of Kennedy|1 seat]]
+| seat_change7   = {{steady}}
+
+<!-- 2PP -->
+<!-- rating -->
+| 1data2          = 49.66%
+| 2blank          = [[Two-party-preferred vote|TPP]] swing
+| 2data1          = {{decrease}}3.15
+| 2data2          = {{increase}}3.15
+
+}}
+{{Australian federal election, 2016 sidebar}}
+
+A '''federal election''' was held on Saturday 2 July 2016 to elect all 226 members of the 45th [[Parliament of Australia]], after an extended eight-week official campaign period. It was the first [[double dissolution]] election since the [[Australian federal election, 1987|1987 election]]. On 10 July, eight days after the election took place, Opposition Leader [[Bill Shorten]] conceded defeat, acknowledging that the incumbent [[Liberal Party of Australia|Liberal]]–[[National Party of Australia|National]] [[Coalition (Australia)|Coalition]] would certainly be able to form a government, either in a [[Majority government|majority]] or [[Minority government|minority]] status.<ref>{{cite news|url=http://www.abc.net.au/news/2016-07-10/election-2016-result-bill-shorten-concedes-defeat/7584400|title=Election 2016: Malcolm Turnbull claims victory after Bill Shorten concedes defeat|date=10 July 2016|accessdate=10 July 2016|author=Monique Ross|publisher=Australian Broadcasting Corporation}}</ref> On 11 July, the [[Australian Broadcasting Corporation|ABC]] declared that the Coalition had won enough seats to form a majority government.<ref>{{cite news|url=http://mobile.abc.net.au/news/2016-07-11/lnp-retains-capricornia-has-76-seats/7587578|title=Election 2016: LNP retains Capricornia, gives Coalition 76-seat majority government|date=11 July 2016|accessdate=11 July 2016|publisher=Australian Broadcasting Corporation}}</ref>
+
+In the first week of vote counting after the election, no party had won enough seats in the [[Australian House of Representatives|House of Representatives]] to form a government.<ref name="abc month">{{cite web |url=http://www.abc.net.au/news/2016-07-03/election-2016-ballot-count-could-take-a-month-finalise,-aec-says/7565158|title=Election 2016: Ballot count could take a month to finalise, AEC says |author= |publisher=Australian Broadcasting Corporation |date=4 July 2016|accessdate=4 July 2016}}</ref><ref name="smh tuesday">{{cite web |url=http://www.smh.com.au/federal-politics/federal-election-2016/australian-federal-election-2016-no-results-until-at-least--tuesday-20160702-gpx9qz.html|title=Australian federal election 2016: No results until at least ... Tuesday|author=Deborah Gough |publisher=Sydney Morning Herald |date=3 July 2016|accessdate=4 July 2016 }}</ref><ref name="daily mail">{{cite web |url=http://www.dailymail.co.uk/news/article-3671086/Federal-election-2016-exit-poll-shows-result-close-call-3-4-cent-swing-Labor-62-cent-believe-Malcolm-Turnbull-win.html|title='I can form a majority government': Malcolm Turnbull's confident he'll win the election and avoid a hung parliament as Bill Shorten praises Labor's 'magnificent campaign'... but there may not be a result until TUESDAY|author=Jennifer Smith |publisher=Daily Mail Australia |date=3 July 2016|accessdate=4 July 2016 }}</ref> Following initial results, neither [[Malcolm Turnbull]] of the [[Coalition (Australia)|Coalition]], nor Shorten of the [[Australian Labor Party|Labor Party]], made a [[concession (politics)|concession]],<ref name="sky liberal majority">{{cite web |url=http://www.skynews.com.au/news/top-stories/2016/07/04/federal-election-outcome-still-unknown.html|title=Liberals 'cautiously optimistic' on majority|author=|publisher=Sky News Australia |date=4 July 2016|accessdate=4 July 2016 }}</ref><ref name="smh shorten">{{cite web |url=http://www.smh.com.au/federal-politics/federal-election-2016/australian-federal-election-2016-bill-shorten-says-malcolm-turnbull-should-quit-20160704-gpy3ec.html|title=Australian federal election 2016: Bill Shorten says Malcolm Turnbull 'should quit'|author=Fergus Hunter|publisher=Sydney Morning Herald|date=4 July 2016|accessdate=4 July 2016 }}</ref> while many predicted a [[hung parliament]].<ref name="daily mail" /><ref name="australian hung">{{cite web |url=http://www.theaustralian.com.au/federal-election-2016/federal-election-2016-heres-the-sequel-hung-parliament-ii/news-story/acbf4787b8b2aaf16f3e0c9e37e2ff36|title=Federal election 2016: here's the sequel, Hung Parliament II|author=Sid Maher|publisher=The Australian |date=4 July 2016|accessdate=4 July 2016 }}</ref><ref name="guardian hung">{{cite web |url=https://www.theguardian.com/australia-news/2016/jul/03/turnbull-and-shorten-court-independents-with-hung-parliament-in-play|title=Turnbull and Shorten court independents with hung parliament in play|author=Lenore Taylor|publisher=The Guardian Australia |date=3 July 2016|accessdate=4 July 2016 }}</ref> 
+
+The [[Australian Electoral Commission]] (AEC) has identified two seats that [[#Divisions in doubt|remain in doubt]], and reported that 76 seats have been won by the Liberal–National Coalition, while Labor has won 67 seats,<ref>http://www.abc.net.au/news/2016-07-10/election-2016-malcolm-turnbull-claims-election-victory/7584400, at 2016-07-10 14:09</ref> which left one seat each to the [[Australian Greens]], [[Nick Xenophon Team]], [[Katter's Australian Party]], and [[Independent (politician)|independents]] [[Andrew Wilkie]] and [[Cathy McGowan (politician)|Cathy McGowan]].<ref name="abc results">{{cite web|url=http://www.abc.net.au/news/federal-election-2016/results/ |title=Federal Election 2016 Results |date=3 July 2016 |accessdate=3 July 2016 |work=Australia Votes |publisher=ABC}}</ref>
+
+The results in the [[Australian Senate]] were not all known by 11 July, and may remain unconfirmed for weeks. The voting system changed from full-preference [[single transferable vote]] with [[group voting ticket]]s to an [[Optional preferential voting|optional-preferential]] system in 2016.<ref name="smh senate">{{cite web |url=http://www.smh.com.au/federal-politics/federal-election-2016/election-2016-results-senate-count-throws-up-a-wild-mix-as-one-nation-fred-nile-liberal-democrats-vie-for-seats-20160703-gpxc8r.html|title=Election 2016 results: Senate count throws up a wild mix as One Nation, Fred Nile, Liberal Democrats vie for seats |author=Nicole Hasham |publisher=news.com.au |date=3 July 2016|accessdate=3 July 2016 }}</ref> The ABC's [[Antony Green]] has shown that the Coalition and Labor have won a minimum of 29 and 27 Senate seats respectively, and predicted that the [[Australian Greens|Greens]], [[Nick Xenophon Team]], [[Pauline Hanson's One Nation]], the [[Jacqui Lambie Network]], and [[Derryn Hinch's Justice Party]] were all likely to win one or more Senate seats each.<ref name="abc senate results">{{cite web|url=http://www.abc.net.au/news/federal-election-2016/results/senate/ |title=Federal Election 2016: Senate Results |date=3 July 2016 |accessdate=4 July 2016 |work=Australia Votes |publisher=ABC}}</ref>
+
+==Results==
+
+===House of Representatives===
+{| class="wikitable" style="text-align:right;  margin-bottom:0"
+|+House of Representatives ([[Instant-runoff voting|IRV]]) – Counted 87.3% ([[Compulsory voting|CV]]) – [[Spoiled vote|Informal]] 5.0%<ref name="pvparty">{{cite web |url=http://vtr.aec.gov.au/HouseStateFirstPrefsByParty-20499-NAT.htm |title=First preferences by party |work=Virtual Tally Room: 2016 election |publisher=[[Australian Electoral Commission]] (AEC) |date=2 July 2016|accessdate=13 July 2016 }}</ref>
+! style="width:215px" colspan=2 | Party
+! style="width:70px;"| Votes
+! style="width:40px;"| %
+! style="width:45px;"| Swing (pp)
+! style="width:41px;"| Seats
+! style="width:55px;"| Change (seats)
+|-
+|}
+{| class="wikitable collapsible collapsed" style="text-align:right; border:0px; margin-top:-1px; margin-bottom:0;"
+|-
+| style="width:1px" bgcolor="{{Liberal/National coalition/meta/color}}"|&nbsp;
+! style="text-align:left; font-weight:normal; background:#F9F9F9; width:200px;" colspan="2" align=left| [[Coalition (Australia)|Coalition]]
+| style="width:70px;"| &nbsp;
+| style="width:40px;"| 42.13
+| style="width:45px;"| −3.43
+| style="width:40px;"| 77
+| style="width:55px;"| −13
+|- style="background:#EFEFEF;"
+| style="background:white;" rowspan="4"| &nbsp;
+| {{Australian politics/party colours/Liberal}} | &nbsp;
+| align=left| [[Liberal Party of Australia]]
+| 
+| 28.61
+| −3.41
+| 45
+| −13
+|- style="background:#EFEFEF;"
+| {{Australian politics/party colours/LNP}} | &nbsp;
+| align=left| [[Liberal National Party of Queensland|Liberal National Party (QLD)]]
+| 
+| 8.60
+| −0.32
+| 22
+| ±0
+|- style="background:#EFEFEF;"
+| {{Australian politics/party colours/Nationals}} | &nbsp;
+| align=left| [[National Party of Australia]]
+| align=right|
+| 4.68
+| +0.39
+| 10
+| +1
+|- style="background:#EFEFEF;"
+| {{Australian politics/party colours/CLP}} | &nbsp;
+| align=left| [[Country Liberal Party (Northern Territory)|Country Liberal Party (NT)]]
+| 
+| 0.25
+| −0.07
+| 0
+| −1
+|-
+|}
+{| class="wikitable" style="text-align:right; border:0px; margin-top:-1px; margin-bottom:0;"
+|-
+| style="width:1px" {{Australian politics/party colours/Labor}} | &nbsp;
+| style="width:200px" align=left| [[Australian Labor Party]]
+| style="width:70px;"|  
+| style="width:40px;"| 34.78
+| style="width:45px;"| +1.40
+| style="width:40px;"| 68
+| style="width:55px;"| +13
+|-
+| {{Australian politics/party colours/Greens}} | &nbsp;
+| align=left| [[Australian Greens]]
+| 
+| 10.07
+| +1.42
+| 1
+| ±0
+|-
+| {{Australian politics/party colours/Nick Xenophon Team}} | &nbsp;
+| align=left| [[Nick Xenophon Team]]
+| 
+| 1.85
+| +1.85
+| 1
+| +1
+|-
+| {{Australian politics/party colours/Katter's Australian Party}} | &nbsp;
+| align=left| [[Katter's Australian Party]]
+| 
+| 0.55
+| −0.49
+| 1
+| ±0
+|-
+| {{Australian politics/party colours/Palmer United Party}} | &nbsp;
+| align=left| [[Palmer United Party]]
+| 
+| 0.00
+| −5.49
+| 0
+| −1
+|-
+| {{Australian politics/party colours/Independent}}| &nbsp;
+| align=left| [[Independent (politician)|Independents]]
+| 
+| 2.85
+| +1.48
+| 2
+| ±0
+|-
+| style="background:gray;"| &nbsp;
+| align=left| Other
+| 
+| 7.77
+| +3.25
+| 0
+| ±0
+|-
+| align=left colspan=2| Total
+| 
+| 
+| —
+| 150
+| align=right|—
+|-
+! colspan="8"| [[Two-party-preferred vote]]<ref group=note>The current two-party-preferred vote figures are calculated using only the 136 divisions with a two-party contest, excluding the 14 non-classic divisions.</ref>
+|-
+| {{Australian politics/party colours/Liberal}} | &nbsp;
+| align=left| [[Coalition (Australia)|Liberal/National Coalition]]
+| 
+| 50.35
+| −3.14
+| 77
+| −12
+|-
+| {{Australian politics/party colours/Labor}} | &nbsp;
+| align=left| [[Australian Labor Party]]
+| 
+| 49.65
+| +3.14
+| 68
+| +12
+|}
+
+[[Independent (politician)|Independents]]: [[Andrew Wilkie]] ([[Division of Denison|Denison]]), [[Cathy McGowan (politician)|Cathy McGowan]] ([[Division of Indi|Indi]])
+<!-- Commented out graphs while counting is underway and figures are so variable, can be restored when figures are more stable
+{{bar box
+|title=Popular vote|titlebar=#ddd|width=600px|barwidth=410px|bars={{bar percent|Labor|{{Australian Labor Party/meta/color}}|35.20}}
+{{bar percent|Liberal|{{Liberal Party of Australia/meta/color}}|28.52}}
+{{bar percent|Greens|{{Australian Greens/meta/color}}|9.82}}
+{{bar percent|LNP (QLD)|{{Liberal National Party of Queensland/meta/color}}|8.36}}
+{{bar percent|National|{{National Party of Australia/meta/color}}|4.94}}
+{{bar percent|NXT|{{Nick Xenophon Team/meta/color}}|1.86}}
+{{bar percent|Katter's|{{Katter's Australian Party/meta/color}}|0.53}}
+{{bar percent|CLP (NT)|{{Country Liberal Party/meta/color}}|0.26}}
+{{bar percent|Independents|{{Independent (politician)/meta/color}}|2.87}}
+{{bar percent|Other|#777777|7.64}}}}
+
+{{bar box
+| title=Two-party-preferred vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|Coalition|{{Coalition (Australia)/meta/color}}|50.00}}
+{{bar percent|Labor|{{Australian Labor Party/meta/color}}|50.00}}
+}}
+
+{{bar box
+|title=Seats|titlebar=#ddd|width=600px|barwidth=410px|bars={{bar percent|Coalition|{{Coalition (Australia)/meta/color}}|49.33}}
+{{bar percent|Labor|{{Australian Labor Party/meta/color}}|47.33}}
+{{bar percent|Greens|{{Australian Greens/meta/color}}|0.67}}
+{{bar percent|NXT|{{Nick Xenophon Team/meta/color}}|0.67}}
+{{bar percent|Katter's|{{Katter's Australian Party/meta/color}}|0.67}}
+{{bar percent|Independents|{{Independent (politician)/meta/color}}|1.33}}}}
+-->
+
+'''Notes'''
+{{reflist|group=note}}
+
+====Divisions changing hands====
+Members in italics did not re-contest their House of Representatives seats at this election.
+
+{|class="wikitable"
+|-style="text-align:center"
+! rowspan="2" | Seat
+! colspan="4" | Pre-2016
+! rowspan="2" | Swing
+! colspan="4" | Post-2016
+|-style="text-align:center"
+! colspan="2" | Party
+! Member
+! Margin
+! Margin
+! Member
+! colspan="2" | Party
+|-
+| [[Division of Barton|Barton, NSW]] {{ref label|notional|1|1}}
+| {{Australian politics/party colours/Liberal}}|
+| [[Liberal Party of Australia|Liberal]]
+| [[Nickolas Varvaris]]
+| style="text-align:right;"| −4.39
+| style="text-align:right;"| 3.93
+| style="text-align:right;"| 8.32
+| [[Linda Burney]]
+| [[Australian Labor Party|Labor]]
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Bass|Bass, TAS]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| [[Andrew Nikolic]]
+| style="text-align:right;"| 4.04
+| style="text-align:right;"| 10.11
+| style="text-align:right;"| 6.07
+| [[Ross Hart (politician)|Ross Hart]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Braddon|Braddon, TAS]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| [[Brett Whiteley (politician)|Brett Whiteley]]
+| style="text-align:right;"| 2.56
+| style="text-align:right;"| 4.80
+| style="text-align:right;"| 2.24
+| [[Justine Keay]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Burt|Burt, WA]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| ''Seat created''
+| style="text-align:right;"| 6.09
+| style="text-align:right;"| 13.40
+| style="text-align:right;"| 7.31
+| [[Matt Keogh]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Chisholm|Chisholm, VIC]]
+| {{Australian politics/party colours/Labor}}|
+| Labor
+| ''[[Anna Burke]]''
+| style="text-align:right;"| 1.60
+| style="text-align:right;"| 2.86
+| style="text-align:right;"| 1.26
+| [[Julia Banks]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|
+|-
+| [[Division of Cowan|Cowan, WA]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| [[Luke Simpkins]]
+| style="text-align:right;"| 4.52
+| style="text-align:right;"| 5.26
+| style="text-align:right;"| 0.74
+| [[Anne Aly]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Dobell|Dobell, NSW]] {{ref label|notional|1|1}}
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| [[Karen McNamara]]
+| style="text-align:right;"| −0.18
+| style="text-align:right;"| 4.67
+| style="text-align:right;"| 4.85
+| [[Emma McBride]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Eden-Monaro|Eden-Monaro, NSW]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| [[Peter Hendy (politician)|Peter Hendy]]
+| style="text-align:right;"| 2.91
+| style="text-align:right;"| 5.86
+| style="text-align:right;"| 2.95
+| [[Mike Kelly (Australian politician)|Mike Kelly]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Fairfax|Fairfax, QLD]]
+| {{Australian politics/party colours/Palmer United Party}}|
+| [[Palmer United Party|Palmer United]]
+| ''[[Clive Palmer]]''
+| style="text-align:right;"| 0.03
+| style="text-align:right;"| N/A
+| style="text-align:right;"| 10.86
+| [[Ted O'Brien (Australian politician)|Ted O'Brien]]
+| Liberal National
+| {{Australian politics/party colours/Liberal National}}|
+|-
+| [[Division of Lindsay|Lindsay, NSW]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| [[Fiona Scott]]
+| style="text-align:right;"| 2.99
+| style="text-align:right;"| 3.98
+| style="text-align:right;"| 0.99
+| [[Emma Husar]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Longman|Longman, QLD]]
+| {{Australian politics/party colours/LNP}}|&nbsp;
+| Liberal National
+| [[Wyatt Roy]]
+| style="text-align:right;"| 6.92
+| style="text-align:right;"| 7.75
+| style="text-align:right;"| 0.83
+| [[Susan Lamb]]
+| Labor
+| {{Australian politics/party colours/Labor}}|&nbsp;
+|-
+| [[Division of Lyons|Lyons, TAS]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| [[Eric Hutchinson (politician)|Eric Hutchinson]]
+| style="text-align:right;"| 1.22
+| style="text-align:right;"| 3.45
+| style="text-align:right;"| 2.23
+| [[Brian Mitchell (politician)|Brian Mitchell]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Macarthur|Macarthur, NSW]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| [[Russell Matheson]]
+| style="text-align:right;"| 3.39
+| style="text-align:right;"| 11.74
+| style="text-align:right;"| 8.35
+| [[Mike Freelander]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Macquarie|Macquarie, NSW]]
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+| Liberal
+| [[Louise Markus]]
+| style="text-align:right;"| 4.48
+| style="text-align:right;"| 7.03
+| style="text-align:right;"| 2.55
+| [[Susan Templeman]]
+| Labor
+| {{Australian politics/party colours/Labor}}|&nbsp;
+|-
+| [[Division of Mayo|Mayo, SA]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| [[Jamie Briggs]]
+| style="text-align:right;"| 12.51
+| style="text-align:right;"| N/A
+| style="text-align:right;"| 4.96
+| [[Rebekha Sharkie]]
+| [[Nick Xenophon Team]]
+| {{Australian politics/party colours/Nick Xenophon Team}}|
+|-
+| [[Division of Murray|Murray, VIC]]
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| ''[[Sharman Stone]]''
+| style="text-align:right;"| 20.87
+| style="text-align:right;"| N/A
+| style="text-align:right;"| 5.14
+| [[Damian Drum]]
+| [[National Party of Australia|National]]
+| {{Australian politics/party colours/National}}|
+|-
+| [[Division of Paterson|Paterson, NSW]] {{ref label|notional|1|1}}
+| {{Australian politics/party colours/Liberal}}|
+| Liberal
+| ''[[Bob Baldwin]]''
+| style="text-align:right;"| −0.27
+| style="text-align:right;"| 10.53
+| style="text-align:right;"| 10.80
+| [[Meryl Swanson]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Solomon|Solomon, NT]]
+| {{Australian politics/party colours/CLP}}|
+| [[Country Liberal Party|Country Liberal]]
+| [[Natasha Griggs]]
+| style="text-align:right;"| 1.40
+| style="text-align:right;"| 7.39
+| style="text-align:right;" | 5.99
+| [[Luke Gosling]]
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|}
+
+'''Notes'''
+
+{{note label|notional|1|1}} The New South Wales divisions of [[Division of Barton|Barton]], [[Division of Dobell|Dobell]] and [[Division of Paterson|Paterson]] were considered notionally Labor-held after a 2015 boundary redistribution.
+
+====Divisions in doubt====
+
+{|class="wikitable"
+! rowspan="2"  | Seat
+! colspan="4"  | Incumbent
+! rowspan="2"  | Swing
+! colspan="4"  | Challenger
+|-
+! colspan="2" | Party
+! Member
+! Margin
+! Margin
+! Candidate
+! colspan="2"  | Party
+|-
+| [[Division of Herbert|Herbert, QLD]]
+| {{Australian politics/party colours/Liberal National}}|
+| Liberal National
+| [[Ewen Jones]]
+| style="text-align:right;"| 6.2
+| style="text-align:right;"| −6.1
+| style="text-align:right;"| LNP ahead 0.0
+| Cathy O'Toole
+| Labor
+| {{Australian politics/party colours/Labor}}|
+|-
+| [[Division of Hindmarsh|Hindmarsh, SA]]
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+| Liberal
+| [[Matt Williams (Australian politician)|Matt Williams]]
+| style="text-align:right;"| 1.9
+| style="text-align:right;"| 2.2
+| style="text-align:right;"| ALP ahead 0.3
+| [[Steve Georganas]]
+| Labor
+| {{Australian politics/party colours/Labor}}|&nbsp;
+|}
+
+=== Senate ===
+{| class="wikitable" style="text-align:right; margin-bottom:0"
+|+Senate ([[Single Transferable Vote|STV]] [[Optional preferential voting|OPV]]) – Counted 56.48% ([[Compulsory voting|CV]]) – [[Spoiled vote|Informal]] 6.09%<ref>{{Cite web|url=http://vtr.aec.gov.au/SenateStateFirstPrefsByGroup-20499-NAT.htm|title=First preferences by party|website=Australian Electoral Commission|language=en-AU|access-date=2016-07-04}}</ref><ref>{{cite web|title=Senate Results - Australia Votes {{!}} Federal Election 2016 (Australian Broadcasting Corporation)|url=http://www.abc.net.au/news/federal-election-2016/results/senate/|website=ABC News|accessdate=8 July 2016}}</ref>
+|-
+! colspan="2" style="width:259px" | Party
+! style="width:70px; text-align:center;" | Votes
+! style="width:40px; text-align:center;" | %
+! style="width:45px; text-align:center;" | Swing
+! style="width:40px; text-align:center;" | Seats won
+! style="width:40px; text-align:center;" | Likely seats
+! style="width:55px; text-align:center;" | Change
+|-
+|}
+{| class="wikitable collapsible collapsed" style="text-align:right; border:0px; margin-top:-1px; margin-bottom:0;"
+|-
+| style="width:1px" bgcolor="{{Liberal/National coalition/meta/color}}"|&nbsp;
+! style="text-align:left; font-weight:normal; background:#F9F9F9; width:244px;" colspan="2" align=left| [[Coalition (Australia)|Coalition]]
+| style="width:70px;"| 
+| style="width:40px;"| 34.80
+| style="width:45px;"| +2.90
+| style="width:40px;"| 26
+| style="width:40px;"| +2
+| style="width:55px;"| 
+|- style="background:#EFEFEF;"
+| style="background:white;" rowspan="5"|
+| bgcolor="{{Liberal/National coalition/meta/color}}"|&nbsp;
+| align=left| [[Liberal Party of Australia|Liberal]]/[[National Party of Australia|Nationals]]
+| 
+| 19.77
+| −1.56
+| 
+| 
+|- style="background:#EFEFEF;"
+| {{Australian politics/party colours/Liberal}} | &nbsp;
+| align=left| [[Liberal Party of Australia]]
+|
+| 8.57
+| +1.63
+|
+|
+|- style="background:#EFEFEF;"
+| {{Australian politics/party colours/LNP}} | &nbsp;
+| align=left| [[Liberal National Party of Queensland|Liberal National Party (QLD)]]
+|
+| 5.95
+| −2.15
+|
+|
+|- style="background:#EFEFEF;"
+| {{Australian politics/party colours/Nationals}} | &nbsp;
+| align=left| [[National Party of Australia]]
+| 
+| 0.27
+| −0.04
+| 
+| 
+|- style="background:#EFEFEF;"
+| width="1" {{Australian politics/party colours/CLP}} | &nbsp;
+| align=left| [[Country Liberal Party (Northern Territory)|Country Liberal Party (NT)]]
+| 
+| 0.24
+| −0.08
+| 
+| 
+|-
+|}
+{| class="wikitable" style="text-align:right; border:0px; margin-top:-1px; margin-bottom:0;"
+|-
+| {{Australian politics/party colours/Labor}} | &nbsp;
+| style="width:244px;" align=left| [[Australian Labor Party]]
+| style="width:70px;"|
+| style="width:40px;"| 30.61
+| style="width:45px;"| +0.98
+| style="width:40px;"| 23
+| style="width:40px;"| +2
+| style="width:55px;"|
+|-
+| {{Australian politics/party colours/Greens}} | &nbsp;
+| align=left| [[Australian Greens]]
+|
+| 8.86
+| −0.37
+| 3 
+| +3
+|
+|-
+| {{Australian politics/party colours/One Nation}} | &nbsp;
+| align=left| [[Pauline Hanson's One Nation]]
+|
+| 4.10
+| +3.57
+| 1
+| 0
+|
+|-
+| style="background:{{Nick Xenophon Team/meta/color}};" | &nbsp;
+| align=left| [[Nick Xenophon Team]]
+|
+| 3.43
+| +1.49
+| 2
+| +1
+|
+|-
+| {{Australian politics/party colours/Liberty and Democracy}} | &nbsp;
+| align=left| [[Liberal Democratic Party (Australia)|Liberal Democratic Party]]
+|
+| 1.87
+| −1.88
+| 0
+| 0
+|
+|-
+| {{Australian politics/party colours/Derryn Hinch's Justice Party}} | &nbsp;
+| align=left| [[Derryn Hinch's Justice Party]]
+|
+| 1.76
+| +1.76
+| 0
+| 0
+|
+|-
+| {{Australian politics/party colours/Family First}} | &nbsp;
+| align=left| [[Family First Party]]
+|
+| 1.38
+| +0.26
+| 0
+| 0
+|
+|-
+| {{Australian politics/party colours/Democratic Labor}} | &nbsp;
+| align=left| [[Democratic Labour Party (Australia)|Democratic Labour Party]]
+|
+| 0.69
+| −0.71
+| 0
+| 0
+|
+|-
+| {{Australian politics/party colours/Jacqui Lambie Network}} | &nbsp;
+| align=left| [[Jacqui Lambie Network]]
+|
+| 0.55
+| +0.55
+| 1
+| 0
+|
+|-
+| {{Australian politics/party colours/Motoring Enthusiasts}} | &nbsp;
+| align=left| [[Australian Motoring Enthusiast Party]]
+|
+| 0.39
+| −0.11
+| 0
+| 0
+|
+|-
+| {{Australian politics/party colours/Palmer United Party}} | &nbsp;
+| align=left| [[Palmer United Party]]
+|
+| 0.19
+| −5.42
+| 0
+| 0
+|
+|-
+| style="background:gray;" | &nbsp;
+| align=left| Other
+|
+|
+| 
+| 0
+| 0
+|
+|-
+| &nbsp;
+| align=left| Seats in doubt
+|
+|
+| 
+| 12
+| 
+|
+|-
+| align=left colspan=2| Total
+|
+| 
+| —
+| 76
+| —
+|
+|}
+
+{| class="wikitable" style="text-align:right;"
+|+ States and Territories
+! colspan=2|Party             
+! style="width:30px;"| NSW
+! style="width:30px;"| Vic
+! style="width:30px;"| Qld
+! style="width:30px;"| WA
+! style="width:30px;"| SA
+! style="width:30px;"| Tas
+! style="width:30px;"| ACT
+! style="width:30px;"| NT
+! style="width:30px;"| Total
+|-
+| {{Australian politics/party colours/Liberal}} | &nbsp;
+| align=left| [[Coalition (Australia)|Coalition]]
+|    5 ||  5 ||    5 ||  5–6 ||  4 ||  4 ||  1 ||  1 || 30–31
+|- 
+| {{Australian politics/party colours/Labor}} | &nbsp;
+| align=left| [[Australian Labor Party]]
+|    4 ||  4 ||    4 ||    4 ||  3-4 ||  5 ||  1 ||  1 || 26-27
+|-
+| {{Australian politics/party colours/Greens}} | &nbsp;
+| align=left| [[Australian Greens]]  
+|    1 ||  2 ||    1 ||  1–2 ||  1 ||  2 ||    ||    || 8–9
+|-
+| {{Australian politics/party colours/Nick Xenophon Team}} | &nbsp;
+| align=left| [[Nick Xenophon Team]]
+|  0–1 ||    ||  0–1 ||      ||  3 ||    ||    ||    || 3–5
+|-
+| {{Australian politics/party colours/One Nation}} | &nbsp;
+| align=left| [[Pauline Hanson's One Nation]]
+|    0-1 ||    ||    1 ||    0-1 || 0-1 ||    ||    ||    || 1-4
+|- 
+|{{Australian politics/party colours/Derryn Hinch's Justice Party}} | &nbsp;
+| align=left| [[Derryn Hinch's Justice Party]]
+|      ||  1 ||      ||      ||    ||    ||    ||    || 1
+|-
+| {{Australian politics/party colours/Jacqui Lambie Network}} | &nbsp;
+| align=left| [[Jacqui Lambie Network]]   
+|      ||    ||      ||      ||    ||  1 ||    ||    || 1
+|-
+| {{Australian politics/party colours/Liberal Democratic Party}} | &nbsp;
+| align=left| [[Liberal Democratic Party (Australia)|Liberal Democratic Party]]   
+|  0–1 ||    ||  0–1 ||      ||    ||    ||    ||    || 0–2
+|-
+| {{Australian politics/party colours/Family First}} | &nbsp;
+| align=left| [[Family First Party]]   
+|      ||    ||  0–1 ||      || 0-1 ||    ||    ||    || 0–2
+|-
+| {{Australian politics/party colours/Katter's Australian Party}} | &nbsp;
+| align=left| [[Katter's Australian Party]]   
+|      ||    ||  0–1 ||      ||    ||    ||    ||    || 0–1
+|-
+| {{Australian politics/party colours/Christian Democrats}} | &nbsp;
+| align=left| [[Christian Democratic Party (Australia)|Christian Democratic Party]]   
+|  0–1 ||    ||      ||      ||    ||    ||    ||    || 0–1
+|-
+| {{Australian politics/party colours/Shooters}} | &nbsp;
+| align=left| [[Shooters, Fishers and Farmers Party]]   
+|  0–1 ||    ||      ||      ||    ||    ||    ||    || 0–1
+|-
+| bgcolor="#802144" | &nbsp;
+| align=left| [[Glenn Lazarus|Glenn Lazarus Team]]   
+|      ||    ||  0–1 ||      ||    ||    ||    ||    || 0–1
+|-
+|
+| align=left| Seats in doubt       
+|    1 ||    ||    1 ||    1 ||  1 ||    ||    ||    || 4
+|-
+| align=left colspan=2| Total
+| 12 || 12 || 12 || 12 || 12 || 12 || 2 || 2 || 76 |
+|}
+
+==Electoral system==
+[[Elections in Australia]] use a [[Full-preferential voting|full-preferential]] system in [[one vote, one value]] [[Single-winner voting system|single-member seats]] for the 150-member [[Australian House of Representatives|House of Representatives]] ([[lower house]]) and is changing from full-preferential [[group voting ticket]]s to an [[Optional preferential voting|optional-preferential]] [[single transferable vote]] system of [[proportional representation]] in the 76-member [[Australian Senate|Senate]] ([[upper house]]). Voting is [[compulsory voting|compulsory]], by [[Westminster system|Westminster]] convention, but subject to [[Constitution of Australia|constitutional]] constraints. The decision as to the type of election and its date is for the [[Prime Minister of Australia|prime minister]], who advises the [[Governor-General of Australia|governor-general]] to set the process in motion by dissolving the lower or both houses and issuing [[Writ of election|writs for election]].
+
+==Election date==
+Section 13 of the [[Constitution of Australia|constitution]] requires that in half-Senate elections the election of state senators must take place within one year before the places become vacant. Since the normal terms of half the senators would have ended on 30 June 2017, the writs for a half-Senate election could not be issued earlier than 1 July 2016, and the earliest possible date for a simultaneous House/half-Senate election would have been 6 August 2016.<ref name=GreenTimetable>{{cite news|last=Green|first=Antony|authorlink=Antony Green|title=Timetable for the Next Federal Election|url=http://blogs.abc.net.au/antonygreen/2013/11/timetable-for-next-federal-election.html|accessdate=13 November 2013|newspaper=[[ABC News (Australia)|ABC News]]|location=Australia|date=12 November 2013}}</ref> There is no constitutional requirement for simultaneous elections for the Senate and the House of Representatives, and there are precedents for separate elections; however, governments and the electorate have long preferred that elections for the two Houses take place simultaneously.
+
+A House-only election can be called at any time during a parliamentary term. Whether held simultaneously with a Senate election or separately, an election for the House of Representatives was required to have been held on or before 14 January 2017,<ref name=GreenTimetable /> which is calculated under provisions of the constitution and the [[Commonwealth Electoral Act 1918]] (CEA). [[Section 28 of the Constitution of Australia]] provides that the term of a House expires three years from the first sitting of the House, unless it is dissolved earlier. The [[Australian federal election, 2013|previous federal election]] was held on 7 September 2013. The 44th Parliament of Australia opened on 12 November 2013<ref>{{cite web |url=http://www.aph.gov.au/About_Parliament/Sitting_Calendar/2013_Sitting_Calendar |title=2013 Parliamentary Sittings |publisher=[[Parliament of Australia]] |date= |accessdate= }}</ref> and its term would have expired on 11 November 2016.<ref>See [http://blogs.abc.net.au/antonygreen/2013/07/election-dates-and-extended-three-year-terms.html Antony Green's Election Blog]</ref> Writs for an election can be issued up to ten days after a dissolution or expiry of the House.<ref>[http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s32.html Commonwealth Electoral Act, s. 32]</ref> Up to 27 days can be allowed for nominations,<ref name="Commonwealth Electoral Act, s. 156">[http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s156.html Commonwealth Electoral Act, s. 156]</ref> and the actual election can be set for a maximum of 31 days after close of nominations,<ref name="Commonwealth Electoral Act, s. 157">[http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s157.html Commonwealth Electoral Act, s. 157]</ref> resulting in the latest possible House of Representatives election date of Saturday, 14 January 2017.
+
+A [[double dissolution]] cannot take place within six months before the date of the expiry of the House of Representatives.{{efn|Section 57 of the Constitution}} That meant that a double dissolution could not be granted after 11 May 2016. Allowing for the same stages indicated above, the last possible date for a double dissolution election was 16 July 2016.<ref name=GreenTimetable />
+
+On 2 November 2015, Prime Minister [[Malcolm Turnbull]] stated: "I would say around September–October [2016] is when you should expect the next election to be."<ref>{{cite web|url=http://www.theage.com.au/federal-politics/political-news/malcolm-turnbulls-year-of-living-courageously-20151102-gkozge.html|title=Malcolm Turnbull's year of living courageously|work=[[The Age]] |date=2 November 2015 |first=Mark|last=Kenny}}</ref> However, in December 2015, the [[Australian Broadcasting Corporation|ABC]] reported that some "senior Liberal MPs" had been seeking an election as early as March 2016.<ref>{{cite web|title=What are the implications for Briggs, Brough and Turnbull?|url=http://www.abc.net.au/news/2015-12-30/barnes-two-resignations-and-a-political-funeral/7059148|website=[[ABC News (Australia)|ABC]] The Drum|accessdate=4 January 2016}}</ref> An election held at this time would have required a separate half-Senate election to be held in late 2016 or early 2017.<ref>{{cite web|last1=Green|first1=Antony|title=The Turnbull Government's Options for a 2016 Election|url=http://blogs.abc.net.au/antonygreen/2015/12/the-turnbull-governments-options-for-a-2016-election.html#more|website=[[ABC News (Australia)|ABC News]] |location=Australia |accessdate=4 January 2016}}</ref>
+
+On 21 March 2016, Turnbull announced that the parliament would be recalled for both houses to sit on 18 April to consider for a third time the bills to reinstate the [[Office of the Australian Building and Construction Commissioner|Australian Building and Construction Commission]] (ABCC). Turnbull also said that if the Senate failed to pass the bill, then there would be a double dissolution of parliament and an election would be held on 2 July. The delivery of the [[Australian federal budget, 2016|federal budget]] was also brought forward from 10 May to 3 May.<ref name="aprilrecall">{{cite news|title=Malcolm Turnbull recalls Parliament for April 18 sitting ahead of early election|url=http://www.smh.com.au/federal-politics/political-news/malcolm-turnbull-recalls-parliament-for-april-18-sitting-ahead-of-early-election-20160320-gnmy2v.html|accessdate=21 March 2016|work=[[The Sydney Morning Herald]]|date=21 March 2016}}</ref> On 18 April, the Senate once again rejected the bills to reinstate the ABCC. On 8 May Malcolm Turnbull attended [[Government House, Canberra|Government House]] to advise the [[Governor-General of Australia|Governor-General]] to issue the writs for a double dissolution on 9 May. This confirmed the date of the election; 2 July 2016.<ref>{{cite web|url=http://www.9news.com.au/National/2016/05/08/08/46/Prime-Minister-Malcolm-Turnbull-set-to-seek-double-dissolution-election|title=It's official: Malcolm Turnbull confirms Australia will go to the polls on July 2|work=Ninemsn|date=8 May 2016}}</ref>
+
+The [[Northern Territory general election, 2016|2016 Northern Territory election]] will occur in the following month.
+
+===Double dissolution triggers===
+By 18 April 2016 there were four bills that met the requirements of [[Section 57 of the Constitution of Australia|Section 57 of the constitution]] for a [[double dissolution]].<ref>[http://www.aph.gov.au/Parliamentary_Business/Statistics/Senate_StatsNet/legislation/triggers44 Bills laid aside or negatived, their history and status as possibly meeting the requirements of section 57 of the Constitution (44th Parliament – 1st and 2nd sessions)]. Retrieved 20 April 2016</ref> 
+{| class="wikitable"
+|-
+! Second rejection by <br/> the Senate 
+! Bill
+|-
+| style="text-align:center;"| 18 June 2014 || ''[[Clean Energy Finance Corporation|Clean Energy Finance Corporation (Abolition) Bill 2013 [No. 2]]]''
+|-
+| style="text-align:center;"| 17 August 2015 ||''[[Fair Work Act 2009|Fair Work (Registered Organisations) Amendment Bill 2014 [No. 2]]]''
+|-
+| style="text-align:center;"| 18 April 2016 || ''Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013 (No. 2)''
+|-
+| style="text-align:center;"| 18 April 2016 || ''Building and Construction Industry (Improving Productivity) Bill 2013 [No. 2]''
+|}
+
+On 19 April the Prime Minister confirmed that, following the 2016 federal budget set for 3 May, he would advise the Governor-General to call a double dissolution election on Saturday 2 July. Any or all of these four bills could have been cited in his advice. On Sunday 8 May 2016, Turnbull visited [[Government House, Canberra|Government House]] and formally advised the Governor-General to dissolve both Houses of Parliament and [[Writ of election|issue the writs]] for a double dissolution election to be held on 2 July 2016. The advice was based on Parliament's inability to pass the following three bills:<ref name="timing101">{{cite web|url=https://www.gg.gov.au/sites/default/files/files/IPS/Documents%20relating%20to%20calling%20of%20the%20double%20dissolution%20election.pdf|title=DOCUMENTS RELATING TO THE CALLING OF THE DOUBLE DISSOLUTION ELECTION FOR 2 JULY 2016|work=Governor-General of the Commonwealth of Australia|date=8 May 2016|archiveurl=http://web.archive.org/web/20160508072551/https://www.gg.gov.au/sites/default/files/files/IPS/Documents%20relating%20to%20calling%20of%20the%20double%20dissolution%20election.pdf|archivedate=8 May 2016}}</ref>
+* ''Building and Construction Industry (Consequential and Transitional Provisions) Bill 2013''
+* ''Building and Construction Industry (Improving Productivity) Bill 2013''
+* ''Fair Work (Registered Organisations) Amendment Bill 2014''.
+
+The Governor-General accepted the advice and dissolved the Parliament the following day, 9 May 2016.
+
+===Constitutional and legal provisions===
+The constitutional and legal provisions which impacted on the choice of election dates include:<ref>{{cite web |author=Lundie, Rob |url=http://www.aph.gov.au/library/pubs/BN/2008-09/aust_elections.htm |title=Australian elections timetable |publisher=[[Parliament of Australia]] |date= |accessdate= }}</ref>
+
+*[[Section 12 of the Constitution of Australia|Section 12 of the Constitution]] provides that: "The Governor of any State may cause writs to be issued for the election of Senators for the State."
+*[[Section 13 of the Constitution of Australia|Section 13 of the Constitution]] provides that the election of Senators shall be held in the period of twelve months before the places become vacant.
+*Section 28 of the Constitution provides that: "Every House of Representatives shall continue for three years from the first sitting of the House, and no longer, but may be sooner dissolved by the Governor-General."<ref name="section28">[http://www.austlii.edu.au/au/legis/cth/consol_act/coaca430/s28.html Commonwealth Of Australia Constitution Act – Section 28]</ref> Since the 44th Parliament opened on 12 November 2013, it will expire on 11 November 2016.{{efn|The reason it does not expire on 12 November 2016 is because 12 November 2013 was "Day 1" of the current House, not "Day 0". Therefore 12 November 2016 would be "Year 3, Day 1"; if the House sat on this day, it would be serving for longer than its 3-year mandate. Therefore its term would expire on the previous day. See Antony Green's Election Blog}}
+*[[Section 32 of the Constitution of Australia|Section 32 of the Constitution]] provides that: "The writs shall be issued within ten days from the expiry of a House of Representatives or from the proclamation of a dissolution thereof." Ten days after 11 November 2016 is 21 November 2016.
+*Section 156 (1) of the [[Commonwealth Electoral Act 1918]] (CEA) provides that: "The date fixed for the nomination of the candidates shall not be less than 10 days nor more than 27 days after the date of the writ".<ref name="Commonwealth Electoral Act, s. 156"/> Twenty-seven days after 21 November 2016 is 18 December 2016.
+*Section 157 of the CEA provides that: "The date fixed for the polling shall not be less than 23 days nor more than 31 days after the date of nomination".<ref name="Commonwealth Electoral Act, s. 157"/> Thirty-one days after 18 December 2016 is 18 January 2017, a Wednesday.
+*Section 158 of the CEA provides that: "The day fixed for the polling shall be a Saturday".<ref>[http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s158.html Commonwealth Electoral Act, s. 158]</ref> The Saturday before 18 January 2017 is 14 January 2017. This was therefore the latest possible date for the election.  However, it was unlikely that an election would have been called for this date, as schools would be closed for summer holidays at this time.  Governments tend to avoid holding elections during school holidays, since schools are often used as polling places.<ref>{{cite web |url=http://blogs.abc.net.au/antonygreen/2010/07/possible-federal-election-date.html |title=Possible federal election dates |work=[[ABC News (Australia)|ABC News]] |location=Australia |author=Green, Antony |authorlink=Antony Green |date=July 2010 |accessdate= }}</ref>
+
+==Election timeline==
+On 8 May 2016, the office of the Governor-General released documents relating to the calling of the election. The documents set out a timeline of key dates for the election.<ref name="timing101"/>
+* 9 May – Dissolution of both houses of the Parliament of Australia<ref name="timing101"/>
+* 16 May – Issue of writs<ref name="timing101"/>
+* 23 May – Close of electoral rolls<ref name="timing101"/>
+* 9 June – Close of candidate nominations<ref name="timing101"/>
+* 2 July – Polling day<ref name="timing101"/>
+* 8 August – Return of writs<ref name="timing101"/> (last day)
+
+==Background==
+<!--{{see also|Mackerras pendulum for the next Australian federal election}} please update NSW and WA before restoring link -->
+The [[Coalition (Australia)|Coalition]] won the [[Australian federal election, 2013|2013 federal election]] with 90 of the 150 seats in the House of Representatives, on a swing of 17 seats or 3.6 points on a [[Two-party-preferred vote|two-party]] basis, defeating the six-year [[Australian Labor Party|Labor]] government. Labor held 55 seats, and [[crossbenchers]] held the remaining five.<ref name="2pp">{{cite web |url=http://results.aec.gov.au/17496/Website/HouseStateFirstPrefsByParty-17496-NAT.htm |title=First house preference by party |work=Virtual Tally Room: 2013 election |publisher=[[Australian Electoral Commission]] (AEC) |date=4 November 2013|accessdate=28 November 2013 }}</ref> The [[Abbott government]] was sworn in to office on 18 September 2013.<ref>{{cite news|title=Abbott's team to be sworn in next week|url=http://news.theage.com.au/breaking-news-national/abbotts-team-to-be-sworn-in-next-week-20130909-2tepy.html|accessdate=13 September 2013|newspaper=[[The Age]]|date=9 September 2013}}</ref>
+
+[[Kevin Rudd]] resigned as Labor's leader following the defeat of the party. [[Chris Bowen]] became the interim leader in the approach to a [[Australian Labor Party leadership spill, October 2013|leadership election]]. Two candidates, [[Anthony Albanese]] and [[Bill Shorten]], declared their candidacy; Shorten was declared the winner on 13 October 2013.<ref>{{cite news|title=Bill Shorten elected Labor leader|url=http://www.smh.com.au/federal-politics/political-news/bill-shorten-elected-labor-leader-20131013-2vfzy.html|accessdate=13 October 2013|newspaper=Sydney Morning Herald|author=Harrison, Dan}}</ref><ref>{{cite news|url=http://www.abc.net.au/news/2013-10-13/bill-shorten-elected-labor-leader/5019116|author=Griffiths, Emma|title=Bill Shorten elected Labor leader over Anthony Albanese after month-long campaign|work=[[ABC News (Australia)|ABC News]]|location=Australia|date=13 October 2013|accessdate=15 October 2013}}</ref>
+
+As a result of lost ballot papers, on 18 February 2014 the [[High Court of Australia]], sitting as the [[Court of Disputed Returns (Australia)|Court of Disputed Returns]], ordered a [[Australian Senate special election in Western Australia, 2014|new half-Senate election]] for Western Australia, which was held on 5 April 2014.<ref name=SBS>{{cite news|url=http://www.sbs.com.au/news/article/2014/02/20/fresh-wa-poll-throws-canberra-spin|title=Fresh WA poll throws Canberra into spin |agency=AAP |work=SBS Online |date=20 February 2014 |accessdate=22 February 2014}}</ref><ref name=decision>{{cite AustLII|litigants=Australian Electoral Commission v Johnston|source=HCA |num=5 |year=2014 |date=18 February 2014 |courtname=H.C.}}</ref>
+
+Senator [[John Madigan (Australian politician)|John Madigan]] resigned from the [[Democratic Labour Party (Australia)|Democratic Labour Party]] and became an [[Independent (politics)|independent]] Senator in September 2014, citing long-term internal party tensions.<ref>{{cite news |url=http://www.abc.net.au/news/2014-09-04/senator-madigan-cuts-ties-with-democratic-labour-party/5718776 |title=Senator Madigan cuts ties with Democratic Labour Party, will serve out term as independent |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=4 September 2014 |accessdate= |author= }}</ref>
+
+On 24 November 2014, Tasmanian Senator [[Jacqui Lambie]] resigned from the [[Palmer United Party]] and on 13 March 2015, Queensland Senator [[Glenn Lazarus]] also announced his resignation from the Palmer United Party; both continue to sit as independents.{{citation needed|date=July 2016}}
+
+On 14 September 2015, the incumbent Prime Minister, [[Tony Abbott]], was [[Liberal Party of Australia leadership spill, September 2015|challenged for the leadership]] of the [[Liberal Party of Australia|Liberal Party]] and thus the prime ministership by Malcolm Turnbull, the Minister for Communications. Turnbull won the vote 54–44 and on 15 September was sworn in as prime minister, starting the [[Turnbull government]]. On 11 February 2016 [[Warren Truss]], the [[Deputy Prime Minister of Australia|Deputy Prime Minister]], announced his decision to retire from politics at the 2016 federal election and immediately stood aside as Leader of the [[National Party of Australia|Nationals]]. [[Barnaby Joyce]] was elected as Leader and was sworn as the Deputy Prime Minister, and [[Fiona Nash]] was elected as Deputy Leader of the Nationals.<ref name="theguardian1">{{cite news |url=http://www.theguardian.com/australia-news/live/2016/feb/11/warren-truss-to-reveal-his-retirement-plans-politics-live?page=with:block-56bc5be2e4b072fd3ded30f5#block-56bc5be2e4b072fd3ded30f5 |title=Barnaby Joyce wins Nationals leadership, Fiona Nash named deputy |work=[[The Guardian]] |location=Australia |author=Murphy, Katharine |date=11 February 2016 |accessdate=11 February 2016 }}</ref><ref name="autogenerated1">{{cite news |url=http://www.smh.com.au/federal-politics/political-news/parliament-pays-tribute-to-retiring-deputy-pm-warren-truss-ahead-of-barnaby-joyce-elevation-20160210-gmr3ca.html |title=Parliament pays tribute to retiring deputy PM Warren Truss ahead of Barnaby Joyce elevation |work=[[The Sydney Morning Herald]] |author=Gartrell, Adam |date=11 February 2016 |accessdate=11 February 2016 }}</ref><ref name="autogenerated2">{{cite news |url=http://www.abc.net.au/news/2016-02-11/barnaby-joyce-named-as-new-nationals-leader/7161584 |title=Barnaby Joyce elected unopposed as new Nationals leader |work=[[ABC News (Australia)|ABC News]] |location=Australia |author=Keany, Francis |date=11 February 2016 |accessdate= 11 February 2016 }}</ref> Truss also resigned from the Turnbull Ministry.<ref name=Age130216>{{cite news |url=http://www.theage.com.au/federal-politics/political-news/cabinet-reshuffle-malcolm-turnbull-announces-new-frontbench-as-mal-brough-resigns-20160213-gmta7z.html |title=Cabinet reshuffle: Malcolm Turnbull announces new frontbench as Mal Brough resigns |work=[[The Age]] |date=13 February 2016 |accessdate=13 February 2016 |author=Massola, James}}</ref>
+
+[[Ian Macfarlane (politician)|Ian Macfarlane]] attempted to defect from the Liberal to the National party room with accompanying demands for additional Nationals cabinet representation, and the [[Mal Brough]]–James Ashby diary controversy deepened in the last week of the campaign.<ref name=ianmc>{{cite news |url=http://www.smh.com.au/federal-politics/political-news/liberal-mp-ian-macfarlane-defects-to-nationals-in-shock-move-against-malcolm-turnbull-20151203-gle6rd.html |title=Liberal MP Ian Macfarlane defects to Nationals in shock move against Malcolm Turnbull |author=Massola, James |work=[[The Sydney Morning Herald]] |date=3 December 2015 |accessdate= }}</ref><ref>{{cite news |url=http://www.businessinsider.com.au/why-taking-an-overseas-trip-spells-trouble-for-malcolm-turnbull-2015-12  |title=Malcolm Turnbull suddenly has a lot of problems |work=Business Insider |date=3 December 2015 |accessdate= }}</ref> Along with the unexpected by-election swing and Turnbull's significantly lessened personal ratings in the concurrent December Newspoll, some [[News Limited]] journalists claimed that Turnbull's honeymoon was over.<ref>{{cite news |url=http://www.switzer.com.au/the-experts/david-speers/the-honeymoon-is-over/ |title=The honeymoon is over |author=Speers, David |work=Switzer |date=3 December 2015 |accessdate= }}</ref><ref>{{cite news |url=http://www.couriermail.com.au/news/opinion/party-games-turnbulls-honeymoon-coming-to-an-end/news-story/74e526f974eb2be4f52f085aa311106e |title=Turnbull's 'honeymoon' coming to an end |work=[[Courier-Mail]] |date=3 December 2015 |accessdate= }}</ref><ref>{{cite news |url=http://www.heraldsun.com.au/news/opinion/honeymoon-over-for-malcolm-turnbull/news-story/10644e38e9a90f497296696ae4248f47 |title=Honeymoon over for Malcolm Turnbull |work=[[Herald Sun]] |date=6 December 2015 |accessdate= }}</ref><ref>{{cite news |url=http://www.couriermail.com.au/news/opinion/opinion-is-a-13-per-cent-swing-against-government-in-north-sydney-a-warning-for-malcolm-turnbull/news-story/fb4ca4201b4e0bcf7dab36f87f8f1aaa |title=Is the Turnbull honeymoon over? |work=[[Courier-Mail]] |date=7 December 2015 |accessdate= }}</ref><ref name=brough>{{cite news |url=http://www.adelaidenow.com.au/business/breaking-news/turnbull-ducks-talk-on-broughs-future/story-fnn9c0gw-1227637192122 |title=Turnbull ducks talk on Brough's future |work=[[The Advertiser (Adelaide)|The Advertiser]] |date=8 December 2015 |accessdate= }}</ref>
+
+The [[Nick Xenophon Team]] (NXT) listed many [[Candidates of the Australian federal election, 2016|candidates throughout Australia]],<ref>{{cite web |url=https://nxt.org.au/candidates/ |title=2016 NXT candidates |publisher=[[Nick Xenophon Team]] |date= |accessdate= }}</ref> with [[Australian Broadcasting Corporation|ABC]] [[psephologist]] [[Antony Green]] indicating NXT has a "strong chance of winning lower house seats and three or four Senate seats".<ref name=sa2016abcpreview>{{cite news |url=http://www.abc.net.au/news/federal-election-2016/guide/preview-sa/ |title=Election Guide (SA) |work=2016 federal election guide |author=Green, Antony |authorlink=Antony Green |publisher=[[Australian Broadcasting Commission|ABC]] |date=2016 |accessdate= }}</ref>
+
+Liberal Senator [[Michael Ronaldson]] announced on 18 December 2015 that he would leave parliament before the next election, after moving from the outer ministry in the [[Abbott government]] to the backbench in the Turnbull government. He resigned on 28 February 2016, and the [[Casual vacancies in the Australian Parliament|casual vacancy]] was filled by [[James Paterson (Australian politician)|James Paterson]] on 9 March 2016.<ref name="paterson">{{cite web|title=Mr James Paterson was appointed to the @ausenate seat vacated by the Hon Michael Ronaldson|url=https://twitter.com/VicParliament/status/707475106587615232|website=Twitter|publisher=@VicParliament|accessdate=9 March 2016}}</ref>
+
+Labor Senator [[Joe Bullock]] announced on 1 March 2016 that he would be resigning from the Senate after the autumn sittings of parliament, citing—among other reasons—his opposition to [[same-sex marriage]] being at odds with the Labor Party's platform to bind its members in a supporting vote after 2019.<ref name="bullock">{{cite news|title=Joe Bullock, Labor senator, announces retirement from politics over party position on same-sex marriage|url=http://www.abc.net.au/news/2016-03-01/labor-senator-joe-bullock-quits/7212324|accessdate=1 March 2016|work=[[ABC News (Australia)|ABC News]]|location=Australia |date=1 March 2016 |author1=Borrello, Eliza |author2=Doran, Matthew }}</ref> Bullock tendered his resignation to Senate President Stephen Parry on 13 April 2016.<ref>{{cite news|title=Bullock sends a history lesson|url=https://au.news.yahoo.com/thewest/a/31358325/retiring-labor-joe-bullock-sends-a-history-lesson|accessdate=16 April 2016|date=15 April 2016 |work=[[Yahoo7]] |location=Australia }}</ref><ref>{{cite web |url=http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=243237 |title=Former Senator Joe Bullock |work=Senators and Members |publisher=[[Parliament of Australia]] |date= |accessdate= }}</ref> The casual vacancy was filled by [[Pat Dodson]] on 28 April 2016.<ref name="dodson">{{cite news|title=Pat Dodson elected WA's newest senator|url=http://www.abc.net.au/news/2016-04-28/pat-dodson-endorsed-as-wa-senate-candidate/7366640|accessdate=29 April 2016|work=[[ABC News (Australia)|ABC News]]|location=Australia|date=28 April 2016|author=Perpitch, Nicolas}}</ref>
+
+Palmer United Party leader [[Clive Palmer]] announced on 4 May 2016 that he would not recontest his seat of [[Division of Fairfax|Fairfax]] at the election.<ref>{{cite news|url=http://www.abc.net.au/news/2016-05-04/clive-palmer-will-not-see-reelection-of-house-of-representative/7382498|title=Clive Palmer will not seek re-election in House of Representatives|work=ABC News|date=4 May 2016}}</ref> On 23 May he also ruled out running for a Senate seat.<ref>{{cite web|url=http://www.9news.com.au/National/2016/05/23/11/27/Clive-Palmer-rules-out-Senate-seat-run|title='Everyone was out to get me': Palmer|date=23 May 2016|work=Ninemsn}}</ref>
+
+In the lower house seat of [[Division of Brisbane|Brisbane]], both Liberal-National and Labor candidates were [[openly gay]]; a first in Australian federal political history.<ref>{{cite news |url=http://www.smh.com.au/federal-politics/political-news/trevor-evans-wins-brisbane-lnp-preselection-setting-up-historic-election-20160414-go6pzh.html |title=Brisbane – 2016 election |author=Green, Antony |authorlink=Antony Green |work=[[ABC News (Australia)|ABC News]] |location=Australia |date= |accessdate= }}</ref>
+
+==By-elections==
+Rudd resigned from parliament on 22 November 2013, triggering the [[Griffith by-election, 2014|2014 Griffith by-election]], which was held on 8 February, with [[Terri Butler]] retaining the seat for Labor.<ref>{{cite web|url=http://results.aec.gov.au/17552/Website/HouseDivisionFirstPrefs-17552-163.htm|title=The official election results|website=Griffith by-election 2014|publisher=[[Australian Electoral Commission]]|date=27 February 2014|accessdate=30 March 2016}}</ref>
+
+On 21 July 2015, Liberal [[Don Randall]] died, triggering the [[Canning by-election, 2015|2015 Canning by-election]], which was held on 19 September. [[Andrew Hastie (politician)|Andrew Hastie]] retained the seat for the Liberals, having to rely on preferences after suffering a substantial [[Swing (Australian politics)|swing]] to the Labor candidate.<ref>{{cite news |url=http://www.abc.net.au/news/2015-09-20/canning-by-election-both-major-parties-hail-result/6789540 |title=Liberal and Labor parties hail success of campaigns |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=20 September 2015 |accessdate= |author= }}</ref>
+
+[[Joe Hockey]] was not retained as Treasurer in Turnbull's cabinet, and announced his resignation from parliament shortly afterwards, triggering the [[North Sydney by-election, 2015|2015 North Sydney by-election]] which was held on 5 December. The seat was retained for the Liberal Party by [[Trent Zimmerman]]. Zimmerman won with 48.2% of the primary vote after a larger-than-predicted 12.8-point swing against the Turnbull Coalition government.  This was only the second time in North Sydney since federation that the successful Liberal candidate failed to obtain a majority of the primary vote and had to rely on preferences. Zimmerman faced a double-digit primary vote swing − more than triple that of the [[Canning by-election, 2015|2015 Canning by-election]] − despite the absence of a Labor candidate. Labor has never been successful in the safe Liberal seat. The Liberal [[Two-party-preferred vote|two-candidate]] vote of 60.2% against [[Independent politician|independent]] Stephen Ruff compares with the previous election vote of 65.9% against Labor.<ref>[http://www.abc.net.au/news/elections/north-sydney-by-election-2015/ 2015 North Sydney by-election: Antony Green ABC]</ref> The reduction of 5.7 points cannot be considered a "two-party/candidate preferred [[Swing (Australian politics)|swing]]" − when a major party is absent, preference flows to both major parties do not take place, resulting in asymmetric preference flows.<ref name=asymmetric1>{{cite web|url=http://blogs.abc.net.au/antonygreen/2012/02/a-comment-on-the-size-of-the-port-adelaide-swing.html |title=A Comment on the Size of the Port Adelaide Swing |author=Green, Antony |authorlink=Antony Green |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=13 February 2012 |accessdate=26 July 2012}}</ref><ref name=asymmetric2>{{cite web |url=http://blogs.abc.net.au/antonygreen/2011/05/an-example-of-non-monotonicity-and-opportunites-for-tactical-voting-at-an-australian-election.html |title=An Example of Non-Monotonicity and Opportunites for Tactical Voting at an Australian Election |author=Green, Antony |authorlink=Antony Green |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=4 May 2011 |accessdate= }}</ref>
+
+==Redistributions and name changes==
+In November 2014 the [[Australian Electoral Commission]] announced that a redistribution of electoral boundaries in New South Wales and Western Australia would be undertaken before the next election. A determination of the states' membership entitlements under the Commonwealth Electoral Act 1918 means that Western Australia's entitlement would increase from 15 to 16 seats, and New South Wales' would decrease from 48 to 47 seats. A redistribution also occurred in the Australian Capital Territory, as seven years elapsed since the last time the ACT's boundaries were reviewed.<ref name=nswwa>{{cite news|title=Determination of membership entitlement to the House of Representatives|url=http://www.aec.gov.au/media/media-releases/2014/11-13.htm|accessdate=14 November 2014|publisher=[[Australian Electoral Commission]]|date=13 November 2014}}</ref> On 16 November 2015, the AEC announced that a redistribution of electoral boundaries in Tasmania would be deferred until after the next election, as the Electoral Act provides that a redistribution shall not commence where there is less than a year until the expiry of the House of Representatives (i.e., 11 November 2016).<ref name=aectasredis>{{cite web|title=Deferral of the redistribution of federal electoral boundaries in Tasmania|url=http://www.aec.gov.au/media/media-releases/2015/11-16.htm|publisher=[[Australian Electoral Commission]]|accessdate=16 November 2015}}</ref>
+
+In October 2015 the AEC announced plans to abolish the [[Division of Hunter|seat of Hunter]]. Electors in the north of Hunter would have joined [[Division of New England|New England]], while the roughly 40% remainder would have become part of [[Division of Paterson|Paterson]], where the Liberal margin would have been reduced from a fairly safe 9.8 points to an extremely marginal 0.5 point as a result. Hunter was first contested at the [[Australian federal election, 1901|inaugural 1901 federal election]]; the AEC's naming guidelines require it to make "every effort" to preserve the names of the original federal divisions.<ref>{{cite web |url=http://www.aec.gov.au/Electorates/Redistributions/guidelines.htm |publisher=[[Australian Electoral Commission]] |title=Guidelines for Naming Federal Electoral Divisions |date= |accessdate=16 November 2015 }}</ref> The commission proposed renaming [[Division of Charlton|Charlton]] to Hunter, and in honour of deceased Prime Minister [[Gough Whitlam]], renaming [[Division of Throsby|Throsby]] to [[Division of Whitlam|Whitlam]].<ref>{{cite news |url=http://www.abc.net.au/news/2015-10-16/electoral-commission-to-abolish-federal-nsw-seat-of-hunter/6860172 |title=Australian Electoral Commission to abolish Federal NSW seat of Hunter |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=16 October 2015 |accessdate= |author= }}</ref><ref>{{cite news |url=http://blogs.crikey.com.au/pollbludger/2015/10/16/draft-federal-redistribution-of-new-south-wales/ |title=Draft federal redistribution of New South Wales |work=[[Crikey]]: Poll Bludger |date=16 October 2015 |accessdate= }}</ref>
+
+The final proposal, however, saw Charlton abolished, with Hunter moving slightly eastward to take in much of Charlton's territory.<ref>{{cite web|url=http://www.abc.net.au/news/federal-election-2016/guide/hunt/ |title=Hunter – Australia Votes &#124; Federal Election 2016 (Australian Broadcasting Corporation) |publisher=Abc.net.au |date= |accessdate=2016-06-15}}</ref> Additionally, Paterson was made more compact and pushed well to the south, taking in some heavily Labor territory that had previously been in Hunter and [[Division of Newcastle|Newcastle]]. This had the effect of erasing the Liberals' majority in Paterson; Labor now has a notional majority of 0.5 percent.<ref>{{cite web|url=http://www.abc.net.au/news/federal-election-2016/guide/pate/ |title=Paterson – Australia Votes &#124; Federal Election 2016  |publisher=[[Australian Broadcasting Corporation]] |date= |accessdate=15 June 2016}}</ref>
+
+The new seat created in Western Australia was the [[Division of Burt]], named after the Burt family, and centred on the south-east areas of metropolitan Perth.<ref name="aecburt">{{cite web|title=Profile of the electoral division of Burt (WA)|url=http://www.aec.gov.au/profiles/wa/burt.htm|publisher=Australian Electoral Commission|accessdate=9 May 2016}}</ref>
+
+The [[Division of Fraser]] in the ACT was renamed [[Division of Fenner]], to honour the late scientist Professor [[Frank Fenner]]. The AEC announced that the name Fraser will be used for a future division in Victoria, named in honour of [[Malcolm Fraser]], a former Prime Minister.<ref>{{cite web |url=http://www.aec.gov.au/profiles/act/fenner.htm |publisher=[[Australian Electoral Commission]] |title=Division of Fenner |accessdate=21 April 2016 }}</ref>
+
+==Senate voting changes==
+Following the previous election, the [[Abbott Government]] announced it would investigate changing the electoral system for the [[Australian Senate|Senate]]. On 22 February 2016, the [[Turnbull Government]] announced several proposed changes.<ref name="reforms">{{cite news |url=http://www.abc.net.au/news/2016-02-22/senate-election-reforms-announced-including-preferential-voting/7188792 |title=Senate election reforms announced, including preferential voting above the line |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=22 February 2016 |accessdate= |author=Borrello, Eliza }}</ref> In the Senate, the changes had the support of the [[Coalition (Australia)|Liberal/National Coalition]], the [[Australian Greens]], and [[Nick Xenophon]] − a three-vote majority.<ref>{{cite news |url=http://theconversation.com/explainer-what-changes-to-the-senate-voting-system-are-being-proposed-55128 |title=Explainer: what changes to the Senate voting system are being proposed? |author=Morey, Stephen |work=[[The Conversation (website)|The Conversation]] |date=23 February 2016 |accessdate= }}</ref> The legislation passed both houses of the [[Parliament of Australia]] on 18 March 2016 after the Senate sat all night debating the bill.<ref>{{cite news |url=http://www.abc.net.au/news/2016-03-18/senate-electoral-reform-laws-passed/7258212 |title=Electoral laws passed after marathon Parliament sitting |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=18 March 2016 |author=Borrello, Eliza }}</ref>
+
+The changes abolished [[group voting ticket]]s (GVTs) and introduced ''optional'' preferential voting, along with party logos on the ballot paper. The ballot paper continues to have a box for each party above a heavy line, with each party's candidates in a column below that party's box below the solid line. Previously, a voter could either mark a single box ''above the line'', which triggered the party's group voting ticket (a pre-assigned sequence of preferences), or place a number in every box ''below the line'' to assign their own preferences. As a result of the changes, voters may assign their preferences for parties above the line (numbering as many boxes as they wish), or individual candidates below the line, and are not required to fill all of the boxes. Both above and below the line voting are now [[optional preferential voting]]. For above the line, voters will be instructed to write at least their first six preferences; however, a "savings provision" will still count the ballot if less than six were given. As a result, fewer votes are expected to be classed as informal; however, more ballots will "exhaust" as a result (i.e. some votes are not counted towards electing any candidate). For below the line, voters will be required to write at least their first 12 preferences. Voters will be free to continue numbering as many preferences as they like beyond the minimum number specified. Another savings provision will allow ballot papers with at least 6 below the line preferences to be formal, catering for people who confuse the above and below the line instructions.
+
+[[Antony Green]], a [[psephology|psephologist]] for the [[Australian Broadcasting Corporation]], wrote several publications on various aspects of the proposed Senate changes.<ref>{{cite news |url=http://blogs.abc.net.au/antonygreen/2016/03/senate-reform-below-the-line-optional-preferential-voting.html |title=Senate Reform – Below the Line Optional Preferential Voting Included in Government's Legislation |author=Green, Antony |authorlink=Antony Green |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=2 March 2016 |accessdate= }}</ref><ref>{{cite news |url=http://blogs.abc.net.au/antonygreen/2016/02/would-electoral-reform-deliver-the-coalition-a-senate-majority-at-a-double-dissolution.html |title=Would Electoral Reform Deliver the Coalition a Senate Majority at a Double Dissolution? |author=Green, Antony |authorlink=Antony Green |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=17 February 2016 }}</ref><ref>{{cite news |url=http://blogs.abc.net.au/antonygreen/2015/09/the-orogins-of-senate-group-ticket-voting-and-it-wasnt-the-major-parties.html |title=The Origin of Senate Group Ticket Voting, and it didn't come from the Major Parties |author=Green, Antony |authorlink=Antony Green |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=23 September 2015 }}</ref><ref>{{cite news |url=http://blogs.abc.net.au/antonygreen/2015/06/the-likely-political-consequences-of-changing-the-senates-electoral-system.html |title=The Likely Political Consequences of Proposed Changes to the Senate's Electoral System |author=Green, Antony |authorlink=Antony Green |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=24 June 2015 }}</ref><ref>{{cite news |url=http://blogs.abc.net.au/antonygreen/2015/06/by-accident-rather-than-design-a-brief-history-fo-the-senates-electoral-system.html |title=By Accident Rather than Design – a Brief History of the Senate's Electoral System |author=Green, Antony |authorlink=Antony Green |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=10 June 2015 }}</ref><ref>{{cite news |url=http://blogs.abc.net.au/antonygreen/senate-elections/ |title=Senate Elections|author=Green, Antony |authorlink=Antony Green |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=25 April 2016 }}</ref> As with every double-dissolution election the entire Senate is re-elected (12 seats per state rather than the usual half Senate election of six seats per state). Consequently, the number of votes required to earn a seat (the "quota") is halved. Due to the abolition of GVTs, it is no longer possible to create "calculators" that assess, with reasonable accuracy, the eventual senate election outcome. Therefore, according to Antony Green, "my working guide is that if a party has more than 0.5 of a quota, it will be in the race for one of the final seats." His calculation of the percentage of primary-vote required for the first six full- and half-quotas at this election is as follows:<ref>{{cite web|url=http://blogs.abc.net.au/antonygreen/2016/06/2016-senate-calculators.html|title=2016 Senate Calculator Plus Tips on the New Senate Voting System|website=Antony Green's Election Blog|access-date=2016-06-09}}</ref>
+{| class="wikitable"
+|-
+!Quotas
+!% Vote
+!Quotas
+!% Vote
+|-
+|0.5
+|3.8
+|1
+|7.7
+|-
+|1.5
+|11.5
+|2
+|15.4
+|-
+|2.5
+|19.2
+|3
+|23.1
+|-
+|3.5
+|26.9
+|4
+|30.8
+|-
+|4.5
+|34.6
+|5
+|38.5
+|-
+|5.5
+|42.3
+|6
+|46.2
+|}
+
+== Newspaper endorsements ==
+In its pre-election editorial endorsements, the press overwhelmingly backed the Coalition over Labor – only the Sunday edition of the Melbourne ''[[The Age|Age]]'' plumped for the Opposition.
+
+=== Sunday editions ===
+{| class="wikitable floatright"
+|-
+! style="width:150px;"| Newspaper
+! colspan=2| Endorsement
+|-
+|''[[The Sun-Herald]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=sunherald-ed/>
+|-
+|''[[The Daily Telegraph (Australia)|Sunday Telegraph]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=suntele-ed />
+|-
+|''[[Herald Sun|Sunday Herald Sun]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=sunhun-ed/>
+|-
+|''[[The Sunday Mail (Brisbane)|Sunday Mail]]'' (Brisbane)
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=sunmailb-ed/>
+|-
+|''[[Sunday Mail (Adelaide)|Sunday Mail]]'' (Adelaide)
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=sunmaila-ed/>
+|-
+|''[[The Sunday Times (Western Australia)|Sunday Times]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=suntimes-ed/>
+|-
+|''[[The Age|Sunday Age]]''
+|style="background-color: {{Australian Labor Party/meta/color}}" |
+| [[Australian Labor Party|Labor]]<ref name=sunage-ed/>
+|}
+Among the Sunday papers, Turnbull was preferred by Sydney's [[The Sun-Herald|''Sun-Herald'']] and [[The Daily Telegraph (Australia)|''Sunday Telegraph'']], Melbourne's [[Herald Sun|''Sunday Herald Sun'']], the [[The Sunday Mail (Brisbane)|''Sunday Mail'']] in Brisbane, the [[The Sunday Times (Western Australia)|''Sunday Times'']] in Perth and the [[Sunday Mail (Adelaide)|''Sunday Mail'']] in Adelaide. Labor won the endorsement of only the [[The Age|''Sunday Age'']] in Melbourne. The [[The Mercury (Hobart)|''Sunday Tasmanian'']] and [[Northern Territory News|''Sunday Territorian'']] did not publish endorsements prior to this election.
+
+Labor's close ties to the union movement were of concern to many papers, even to the supportive ''Sunday Age'', which described the issue as "vexed" and unresolved.<ref name=sunage-ed>{{cite news|title=Education is the key to future wealth|date=26 June 2016|newspaper=Sunday Age|page=38}}</ref> Others went further, fearful that Shorten would not "free Labor from the union shackles that too often oppose sensible reforms," in the words of the ''Sun-Herald''.<ref name=sunherald-ed>{{cite news|title=Why Malcolm Turnbull deserves his own mandate|date=26 June 2016|newspaper=Sun-Herald|page=29}}</ref> "Mr Shorten still remains more union boss than potential prime minister," concluded the ''Sunday Telegraph''.<ref name=suntele-ed>{{cite news|title=PM's chance to deliver on promise|date=26 June 2016|newspaper=Sunday Telegraph|page=34}}</ref> Shorten, the ''Sunday Herald Sun'' concurred, "is not a man to stand up to militant unions."<ref name=sunhun-ed>{{cite news|title=Why the Coalition deserves our trust|date=26 June 2016|newspaper=Sunday Herald Sun|page=69}}</ref>
+
+On the economy, there was general concern about the sustainability of Labor's approach to public spending. "Even an economic illiterate could see [Shorten's] 10-year economic "plan" was forged in fantasy land," opined the ''Sunday Times'', "On this dangerous policy alone, Labor should not be given the opportunity to govern."<ref name=suntimes-ed>{{cite news|title=Vote to build nation|date=26 June 2016|newspaper=Sunday Times|page=48}}</ref> The ''Sunday Age'', however, took the view that increased taxation, and with it increased spending on education, should take priority: "a smarter society will be more productive."<ref name=sunage-ed /> Though the ''Sun-Herald'' was supportive of some Labor policies, it said Shorten had failed to make "a compelling case that Australia needs a new government." Invoking the instability of Australian politics since 2010, the paper was unenthusiastic about electing "our sixth prime minister in six years." Turnbull, the ''Sun-Herald'' concluded, deserved "a chance to establish his own mandate."<ref name=sunherald-ed />
+
+The need for political stability was emphasised by the Perth ''Sunday Times'' and Adelaide ''Sunday Mail'': at that time both states faced an uncertain future due to recent downturns in mining, steelmaking and shipbuilding. The expectation that any Labor government would govern in minority gave the ''Mail'' pause. Australia, it wrote, "needs stability ... this country has suffered enough through balance-of-power ... politicians". Both backed the Coalition as the best alternative to, in the ''Times''' words, "steer us through these turbulent times."<ref name=suntimes-ed /><ref name=sunmaila-ed>{{cite news|title=Stability – name of the game|date=26 June 2016|newspaper=Sunday Mail (Adelaide)|page=59}}</ref>
+
+The Brisbane ''Sunday Mail'' summed up the general view among the papers of Turnbull: "yet to fulfil his promise as Prime Minister."<ref name=sunmailb-ed>{{cite news|title=Why Turnbull deserves a second chance|date=26 June 2016|newspaper=Sunday Mail (Brisbane)|page=68}}</ref> Though the ''Sunday Telegraph'' agreed his government had been "timid", it concluded "We are fortunate to have as Prime Minister a man of integrity, decency and undoubted intellect."<ref name=suntele-ed />
+
+=== National dailies ===
+The ''[[Australian Financial Review]]'' endorsed the Coalition two days before polling day, in particular its plans to balance the federal budget, and boost economic growth by cutting company tax. Although the editorial viewed Turnbull's performance in office as "too timid", it concluded that "there is no alternative" but to support his re-election. The newspaper acknowledged Shorten's effectiveness as a campaigner, but it was scathing of the Opposition Leader's platform and tactics. His "resort to crass populism and the outdated politics of class comes from a once-reforming centre-left party which has refused to free itself from ... trade union and factional control," the editorial ran. "Mr Shorten's populist pitch echoes some of the global political phenomenon represented by Brexit and Donald Trump by exciting a squabble over shares of a declining income pie."<ref name=afr-ed>{{cite news|title=Turnbull the only leader with a genuine agenda to secure Australia's prosperity|newspaper=Australian Financial Review|date=30 June 2016|page=46|url=http://www.afr.com/opinion/editorials/election-2016-malcolm-turnbull-is-the-only-leader-with-a-genuine-growth-agenda-20160629-gpuoln}}</ref>
+
+''[[The Australian]]'' endorsed the Coalition the following day, highlighting the Government's budget discipline. Turnbull's "stolid pitch on frugality ... provided the contrast against which the Labor opposition could be judged," the editorial ran. Though it rated the Coalition's economic plan as "adequate at best," ''The Australian'' contrasted this with "an unthinkable Labor alternative that, even after the overblown [[Great Recession|GFC]] stimulus of the [[First Rudd Ministry|Rudd]]–[[Gillard Ministry|Gillard]]–[[Second Rudd Ministry|Rudd]] years, would respond to current challenges by spending more, taxing more and taking the nation deeper into debt."<ref name=oz-ed>{{cite news
+| newspaper=The Australian
+| title=Coalition offers a path to national economic success – Labor's tax-and-spend alternative would send us backwards
+| date=1 July 2016
+| page=17
+}}</ref>
+
+=== Metropolitan dailies ===
+
+{| class="wikitable floatright collapsible expanded"
+|-
+! style="width:150px;"| Newspaper
+! colspan=2| Endorsement
+|-
+|''[[Adelaide Advertiser]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements>{{cite news |url=http://www.theaustralian.com.au/federal-election-2016/federal-election-2016-who-the-papers-are-backing/news-story/24bab7dbd2509a08cb84988a99dcefbc |title=Federal Election 2016: Who the papers are backing|work=The Australian |date=1 July 2016 |accessdate=1 July 2016 }}</ref>
+|-
+|''[[Australian Financial Review]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=afr-ed/>
+|-
+|''[[The Canberra Times|Canberra Times]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|-
+|''[[The Courier-Mail|Courier Mail]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|-
+|''[[The Daily Telegraph (Australia)|Daily Telegraph]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|-
+|''[[Geelong Advertiser]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|-
+|''[[Herald Sun]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|-
+|''[[Northern Territory News|NT News]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|-
+|''[[Sydney Morning Herald]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|-
+|''[[The Age]]'' 
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|-
+|''[[The Australian]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|-
+|''[[The West Australian]]''
+|style="background-color: {{Coalition (Australia)/meta/color}}" |
+| [[Coalition (Australia)|Coalition]]<ref name=NewspaperEndorsements/>
+|}
+
+The metropolitan dailies backed the Coalition without exception. Turnbull's personal qualities and platform appealed more to the editors than his short record in office. ''[[The Age]]'' spoke for many in concluding that "Mr Turnbull deserves the chance to deliver".<ref name=age-ed>{{cite news
+| newspaper=The Age
+| title=Turnbull needs more time to make his mark
+| date=1 July 2016
+| page=16
+}}</ref> ''[[The Daily Telegraph (Australia)|The Daily Telegraph]]'' praised the Prime Minister's "consistency ... He has stuck fast on addressing Australia's debt and deficit problems."<ref name=tele-ed>{{cite news
+| newspaper=The Daily Telegraph
+| title=Nation needs steady course
+| date=1 July 2016
+| page=38
+}}</ref> Newspapers particularly highlighted, in the words of the ''[[The West Australian|West Australian]]'', the Coalition's "better understanding of what is needed to run the economy and rein in debt."<ref name=west-ed>{{cite news
+| newspaper=The West Australian
+| title=Voting Liberal in both Houses best choice for stable future
+| date=1 July 2016
+| page=58
+}}</ref> The ''[[Sydney Morning Herald]]'' welcomed the Coalition's curbs on superannuation tax breaks and offered qualified support for company tax cuts ("Businesses, small and large, create jobs.")<ref name=smh-ed>{{cite news
+| newspaper=Sydney Morning Herald
+| title=Turnbull Coalition offers economic, social reform
+| date=1 July 2016
+| page=16
+}}</ref> ''The Age'' endorsed the super changes and company tax cut, but was critical of the Coalition's "shamefully harsh" border protection policies and planned same-sex marriage plebiscite.<ref name=age-ed /> The ''[[Canberra Times]]'' gave the Coalition "credit for recognising the necessity for cuts in public-sector spending" and reforming super.<ref name=ct-ed>{{cite news
+| newspaper=Canberra Times
+| title=Stronger, more effective government
+| date=1 July 2016
+| page=2
+}}</ref> The ''[[The Courier-Mail|Courier-Mail]]'' backed Turnbull's 'jobs and growth' agenda as "a more coherent prescription in an era that demands experience, stability and certainty."<ref name=courier-ed>{{cite news
+| newspaper=Courier-Mail
+| title=Turnbull best bet to lead
+| date=1 July 2016
+| page=30
+}}</ref>
+
+Indeed, several editorials cited the need for political stability in an uncertain world: declining growth, the end of the mining boom, terrorism and external economic shocks. The Coalition was judged best-placed to provide that stability, either because of its incumbency, focus on growth, parliamentary numbers or comparative party unity.{{citation needed|date=July 2016}}
+
+The ''Courier-Mail'', ''Canberra Times'', ''Age'' and Adelaide ''[[The Advertiser (Adelaide)|Advertiser]]'' acknowledged Shorten's strengths on the campaign trail. The ''Advertiser'' spoke of a "revitalised performance from Bill Shorten ... The Opposition is now in with a fighting chance."<ref name=tiser-ed>{{cite news
+| newspaper=The Advertiser
+| title=Turnbull the clear choice for these turbulent times
+| date=1 July 2016
+| page=20
+}}</ref> The ''Age'' welcomed its plans on negative gearing and capital gains tax; the ''Herald'' backed the case for Labor's higher increases in education funding.
+
+However, for almost every paper, this was outweighed by the party's service of union interests and its unsustainable profligacy. "There is no sign at all that Mr Shorten will force Labor to remove the disproportionate influence of unions and their money on his party," the ''Herald'' wrote, regretting that despite the reforming instincts of Shadow Treasurer [[Chris Bowen]], as a whole "Labor baulks at progress that affects the public service and unions." For the ''NT News'', "the party's policy positions are incoherent. The sheer breadth of spending promises show Labor is not ready for government." The ''[[Herald Sun]]'' agreed that in Labor's "[[DNA]] is an inclination to spend ... That Australia must learn to live within its means is a lesson Labor still fails to grasp."<ref name=hun-ed>{{cite news
+| newspaper=Herald Sun
+| title=Australia deserves a vote for stability
+| date=1 July 2016
+| page=34
+}}</ref> The ''Herald'' chided Shorten for the dishonesty of his Medicare scare campaign ("his judgement was found wanting") as did the ''Courier-Mail'' ("hysteria"). The ''Daily Telegraph'' also highlighted Labor's record on border protection – 50,000 illegal maritime arrivals and perhaps 1,000 deaths at sea – and noted the widespread desire of many Labor candidates and the Greens to "attempt this deadly experiment again."
+
+Local issues and candidates also played a role in the endorsements. Expecting a Coalition victory, the ''[[Northern Territory News|NT News]]'' argued that [[Division of Solomon|Solomon]] [[Country Liberal Party|Country Liberal]] MP [[Natasha Griggs]] should be returned on the grounds that Darwin was better off having a Government member as its representative.<ref name=nt-ed>{{cite news
+| newspaper=NT News
+| title=Why you must vote Coalition
+| date=1 July 2016
+| page=40
+}}</ref> Victoria's ''Herald Sun'' highlighted the [[Country Fire Authority]] dispute – "a window into the relationship between Labor and the union movement" and "a game changer in how many Victorians will vote."<ref name=hun-ed /> The Hobart ''Mercury'' concluded that although the nation would be "best served" by a Coalition government, [[Division of Denison|Denison]] independent MP [[Andrew Wilkie]] and [[Division of Franklin|Franklin]] Labor MP [[Julie Collins]] deserved to be re-elected as well.<ref name=merc-ed>{{cite news
+| newspaper=Mercury
+| title=Our vote for stability
+| date=1 July 2016
+| page=46
+}}</ref> The ''Advertiser'' welcomed Turnbull's decision to build 12 new submarines in South Australia.<ref name=tiser-ed /> The ''West Australian'' reminded voters to separate their judgement of Turnbull from their judgment of the less popular [[Barnett Ministry|Liberal state government]].<ref name=west-ed />
+
+==Retiring MPs and senators==
+{| class="wikitable" style="text-align:right;"
+|+ MPs and Senators retiring (by party)
+|-
+! colspan="2"|Party !!MPs !!Senators
+|-
+| {{Australian politics/party colours/Labor}} | &nbsp;
+| style="text-align:left;"|[[Australian Labor Party|Labor]]
+|9
+|3
+|-
+| {{Australian politics/party colours/Liberal}} | &nbsp;
+| style="text-align:left;"| [[Liberal Party of Australia|Liberal]]
+|7
+|1
+|-
+| {{Australian politics/party colours/LNP}} | &nbsp;
+| style="text-align:left;"| [[Liberal National Party of Queensland|Liberal National]]
+|5
+|–
+|-
+| {{Australian politics/party colours/Nationals}} | &nbsp;
+| style="text-align:left;"| [[National Party of Australia|National]]
+|1
+|–
+|-
+| {{Australian politics/party colours/Palmer United Party}} | &nbsp;
+| style="text-align:left;"| [[Palmer United Party|Palmer United]]
+|1
+|–
+|-
+| style="text-align:left;" colspan="2"|Total
+|23
+|4
+|}
+
+===Senators===
+{| Class="wikitable"
+|-
+!State !!colspan="2"|Senator !!Retirement announced
+|-
+| {{flag|New South Wales}}
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+| [[Bill Heffernan]]
+| 19 February 2016<ref>{{cite news |url=http://www.abc.net.au/news/2016-02-19/bronwyn-bishop-nominates-to-contest-mackellar-seat-at-election/7185486 |title=Bronwyn Bishop nominates to recontest Mackellar seat at next election; Bill Heffernan to quit politics |work=[[ABC News (Australia)|ABC News]] |location=Australia |author=Dziedzic, Stephen |date=20 February 2016 |accessdate=20 February 2016 }}</ref>
+|-
+| {{flag|Northern Territory}}
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Nova Peris]]
+| 24 May 2016<ref name="peris-retire">{{cite news|title=Nova Peris will not stand for re-election|url=http://www.sbs.com.au/news/article/2016/05/23/nova-peris-will-not-stand-re-election|accessdate=24 May 2016|work=SBS News|date=24 May 2016}}</ref>
+|-
+| rowspan="2"|{{flag|Queensland}}
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Joe Ludwig]]
+| 9 March 2015<ref>{{cite news|url=http://www.abc.net.au/news/2015-03-10/queensland-senator-joe-ludwig-to-resign-at-next-election/6292718|title=Queensland senator Joe Ludwig to resign at next election |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=10 March 2015}}</ref>
+|-
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Jan McLucas]]
+| 5 April 2015<ref>{{cite news|url=http://www.abc.net.au/news/2015-04-05/jan-mclucas-loses-preselection-battle-to-contest-next-election/6371932|title=Queensland Labor senator Jan McLucas loses preselection battle to contest next Federal election |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=5 April 2015}}</ref>
+|}
+
+===MPs===
+{| Class="wikitable"
+|-
+!State !!colspan="2"|MP !!Division!!Retirement announced
+|-
+|rowspan="6"|{{flag|New South Wales}}
+|{{Australian politics/party colours/Liberal}}|&nbsp;
+| [[Bob Baldwin]]
+| [[Division of Paterson|Paterson]]
+| 16 April 2016<ref name=baldwin>{{cite news|title=Baldwin decides to exit federal politics|url=http://www.news.com.au/national/breaking-news/baldwin-to-retire-at-next-election/news-story/4a3381c3122f74497ced57396902f628|accessdate=16 April 2016|work=news.com.au|publisher=News Corp Australia|date=16 April 2016}}</ref>
+|-
+|{{Australian politics/party colours/Liberal}}|&nbsp;
+| [[Bronwyn Bishop]]
+| [[Division of Mackellar|Mackellar]]
+| 4 May 2016<ref>{{cite news|title="It's not the end": Bronwyn Bishop farewells Parliament and drops Tony Abbott bombshell|url=http://www.smh.com.au/federal-politics/federal-election-2016/its-not-the-end-bronwyn-bishop-farewells-parliament-and-fires-warning-shot-at-tony-abbott-20160504-gomem6.html|work=The Sydney Morning Herald|date=5 May 2016}}</ref>
+|-
+|{{Australian politics/party colours/National}}|&nbsp;
+| [[John Cobb (Australian politician)|John Cobb]]
+| [[Division of Calare|Calare]]
+| 27 February 2016<ref>{{cite news |url=http://www.westernadvocate.com.au/story/3755809/breaking-news-calare-mp-john-cobb-to-retire-at-federal-election/|title=BREAKING NEWS: Calare MP John Cobb to retire at federal election|date=27 February 2016|author=Nicholls, Murray |work=Sky News|accessdate=27 February 2016}}</ref>
+|-
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Laurie Ferguson]]
+| [[Division of Werriwa|Werriwa]]
+| 12 August 2014<ref>{{cite news|url=http://www.southwestvoice.com.au/true-blue-labor-party-soldier-laurie-ferguson-eyes-retirement/|title=A true blue Labor Party soldier, Laurie Ferguson eyes retirement|date=12 August 2014|author=Kontos, Eric |work=Southwest Voice }}</ref>
+|-
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Jill Hall]]
+| [[Division of Shortland|Shortland]]
+| 28 February 2016<ref name="Federal Election: Shortland MP Jill Hall stands aside">{{cite news|last1=Carr|first1=Matt|title=Federal election: Shortland MP Jill Hall stands aside|url=http://www.theherald.com.au/story/3756427/jill-hall-steps-aside/|accessdate=28 February 2015|work=[[The Newcastle Herald|The Herald]] |location=[[Newcastle, New South Wales|Newcastle]] |date=28 February 2016}}</ref>
+|-
+|{{Australian politics/party colours/Liberal}}|&nbsp;
+| [[Philip Ruddock]]
+| [[Division of Berowra|Berowra]]
+| 8 February 2016<ref name=ruddock>{{cite news|title=Philip Ruddock to retire from politics|url=http://www.theaustralian.com.au/national-affairs/phillip-ruddock-to-retire-from-politics/news-story/59c1934063975ba07953309e4940aa93|accessdate=8 February 2016|work=[[The Australian]]|date=8 February 2016}}</ref>
+|-
+|rowspan="7"|{{flag|Queensland}}
+|{{Australian politics/party colours/LNP}}|&nbsp;
+| [[Mal Brough]]
+| [[Division of Fisher|Fisher]]
+| 26 February 2016<ref>{{cite news|title=Mal Brough says he will not contest next election as AFP inquiry continues|url=http://www.theguardian.com/australia-news/2016/feb/26/mal-brough-announces-he-will-quit-parliament-in-wake-of-afp-investigation|accessdate=26 February 2016|work=[[The Guardian]]|location=Australia|date=26 February 2016|author=Medhora, Shalailah }}</ref>
+|-
+|{{Australian politics/party colours/LNP}}|&nbsp;
+| [[Teresa Gambaro]]
+| [[Division of Brisbane|Brisbane]]
+| 9 March 2016<ref name="gambaro">{{cite news|title=Teresa Gambaro won't recontest election|url=http://www.sbs.com.au/news/article/2016/03/09/teresa-gambaro-wont-recontest-election|accessdate=9 March 2016|work=SBS News|date=9 March 2016 |agency=[[Australian Associated Press|AAP]]}}</ref>
+|-
+|{{Australian politics/party colours/LNP}}|&nbsp;
+| [[Ian Macfarlane (politician)|Ian Macfarlane]]
+| [[Division of Groom|Groom]]
+| 15 February 2016<ref>{{cite news|title=Ian Macfarlane won't contest 2016 election|url=http://www.skynews.com.au/news/top-stories/2016/02/15/ian-macfarlane-won-t-contest-2016-election.html|accessdate=15 February 2016|work=Sky News|date=15 February 2016  |agency=[[Australian Associated Press|AAP]]}}</ref>
+|-
+|{{Australian politics/party colours/Palmer United Party}}|&nbsp;
+|[[Clive Palmer]]
+|[[Division of Fairfax|Fairfax]]
+| 23 May 2016<ref name="abc-clivepalmer-retire">{{cite web|last1=Beech|first1=Alexandra|title=Election 2016: Clive Palmer rules out standing for Senate seat|url=http://www.abc.net.au/news/2016-05-23/clive-palmer-rules-out-running-in-senate/7437220|website=[[ABC News (Australia)|ABC News]]|publisher=[[Australian Broadcasting Corporation]]|accessdate=23 May 2016|date=23 May 2016}}</ref>
+|-
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Bernie Ripoll]]
+| [[Division of Oxley|Oxley]]
+| 14 April 2015<ref>{{cite news|url=http://www.abc.net.au/news/2015-04-14/bernie-ripoll-retirement-opens-door-for-milton-dick/6392358|title=Federal ALP MP Bernie Ripoll's retirement opens door for Brisbane City Councillor Milton Dick|accessdate=14 April 2015 |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=14 April 2015}}</ref>
+|-
+|{{Australian politics/party colours/LNP}}|&nbsp;
+| [[Bruce Scott (Australian politician)|Bruce Scott]]
+| [[Division of Maranoa|Maranoa]]
+| 3 August 2015<ref name="Bruce Scott to quit federal parliament">{{cite news|last1=Arthur|first1=Penelope|title=Bruce Scott to quit federal parliament|url=http://www.smh.com.au/federal-politics/political-news/bruce-scott-to-quit-federal-parliament-20150802-gipzrr.html|accessdate=3 August 2015|work=[[The Sydney Morning Herald]]|date=3 August 2015}}</ref>
+|-
+|{{Australian politics/party colours/LNP}}|&nbsp;
+| [[Warren Truss]]
+| [[Division of Wide Bay|Wide Bay]]
+| 11 February 2016<ref name="theguardian1"/><ref name="autogenerated1"/><ref name="autogenerated2"/>
+|-
+|{{flag|South Australia}}
+|{{Australian politics/party colours/Liberal}}|&nbsp;
+| [[Andrew Southcott]]
+| [[Division of Boothby|Boothby]]
+| 4 September 2015<ref name=southcott>{{cite news|title=Liberal MP Andrew Southcott to stand down at next election|url=http://www.theguardian.com/australia-news/2015/sep/04/liberal-mp-andrew-southcott-to-stand-down-at-nextt-election|accessdate=4 September 2015|work=[[The Guardian]]|location=Australia|date=4 September 2015|agency=[[Australian Associated Press]]}}</ref>
+|-
+|rowspan="6"|{{flag|Victoria}}
+|{{Australian politics/party colours/Liberal}}|&nbsp;
+| [[Bruce Billson]]
+| [[Division of Dunkley|Dunkley]]
+| 24 November 2015<ref name=billson>{{cite news|title=Former small business minister Bruce Billson to retire at next federal election|url=http://www.9news.com.au/national/2015/11/24/10/31/former-small-business-minister-bruce-billson-to-retire-at-next-election|accessdate=24 November 2015|work=Nine News|publisher=Nine Network|date=24 November 2015}}</ref>
+|-
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Anna Burke]]
+| [[Division of Chisholm|Chisholm]]
+| 16 December 2015<ref>{{cite news |url=http://www.abc.net.au/news/2015-12-16/former-speaker-anna-burke-will-not-contest-her-seat-at-the-next/7033568|title=Former speaker Anna Burke calls it quits, will not recontest seat at next election|date=16 December 2015|author=Anderson, Stephanie |work=[[ABC News (Australia)|ABC News]] |location=Australia}}</ref>
+|-
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Alan Griffin]]
+| [[Division of Bruce|Bruce]]
+| 10 February 2015<ref name="Alan Griffin to leave politics">{{cite news|last1=Willingham|first1=Richard|title=Former minister Alan Griffin to leave politics |url=http://www.theage.com.au/victoria/former-minister-alan-griffin-to-leave-politics-20150210-13azt3.html|accessdate=10 February 2015|work=[[The Age]]|date=10 February 2015}}</ref>
+|-
+|{{Australian politics/party colours/Liberal}}|&nbsp;
+| [[Andrew Robb]]
+| [[Division of Goldstein|Goldstein]]
+| 10 February 2016<ref name=robbandtruss>{{cite news|title=Andrew Robb and Warren Truss to quit politics|url=http://www.afr.com/news/politics/andrew-robb-and-warren-truss-to-quit-politics-20160209-gmq1pc|accessdate=10 February 2016|work=[[Financial Review]]|date=10 February 2016}}</ref>
+|-
+|{{Australian politics/party colours/Liberal}}|&nbsp;
+| [[Sharman Stone]]
+| [[Division of Murray|Murray]]
+| 26 March 2016<ref name="stone">{{cite news|title=Sharman Stone: Liberal MP for Murray retires from politics after 20 years|url=http://www.abc.net.au/news/2016-03-26/sharman-stone-murray-victoria-standing-down-from-politics/7277610|accessdate=26 March 2016 |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=26 March 2016}}</ref>
+|-
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Kelvin Thomson]]
+| [[Division of Wills|Wills]]
+| 10 November 2015<ref>{{cite news|url=http://www.smh.com.au/federal-politics/the-pulse-live/politics-live-november-10-2015-20151109-gkuu66.html |title=Politics Live: November 10, 2015 |work=[[The Sydney Morning Herald]] |date=10 November 2015}}</ref>
+|-
+|rowspan="3"|{{flag|Western Australia}}
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Gary Gray (politician)|Gary Gray]]
+| [[Division of Brand|Brand]]
+| 16 February 2016<ref>{{cite news |url=http://www.abc.net.au/news/2016-02-16/federal-labor-mp-gary-gray-will-not-contest-election/7174998 |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=16 February 2016 |title=Federal Labor MP Gary Gray will not contest election |accessdate= |author= }}</ref>
+|-
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Alannah MacTiernan]]
+| [[Division of Perth|Perth]]
+| 12 February 2016<ref name="mactiernan">{{cite news|title=Alannah MacTiernan to quit federal politics at next election|url=http://www.abc.net.au/news/2016-02-12/alannah-mactiernan-to-quit-federal-politics/7165164|accessdate=15 February 2016 |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=12 February 2016}}</ref>
+|-
+|{{Australian politics/party colours/Labor}}|&nbsp;
+| [[Melissa Parke]]
+| [[Division of Fremantle|Fremantle]]
+| 22 January 2016<ref name=parke>{{cite news|last1=Wright|first1=Shane|title=Fremantle MP in surprise retirement|url=https://au.news.yahoo.com/thewest/wa/a/30636552/fremantle-mp-in-surprise-retirement/|accessdate=22 January 2016|work=[[The West Australian]]|date=22 January 2016}}</ref>
+|}
+
+==Candidates==
+{{main article|Candidates of the Australian federal election, 2016}}
+At the close of nominations on 9 June 2016, there were 1,625 candidates in total – 994 for the House of Representatives and 631 for the Senate. The number of Senate candidates was the highest ever at an Australian election, increased from 529 in 2013.<ref name="candidate-summary">{{cite news|last1=Green|first1=Antony|title=Summary of Candidates and Parties for the 2016 Federal election|url=http://blogs.abc.net.au/antonygreen/2016/06/close-of-nominations-2016-federal-election.html|accessdate=12 June 2016|date=10 June 2016}}</ref>
+
+==Opinion polls==
+{{main article|Opinion polling for the Australian federal election, 2016}}
+{{multiple images|align=left
+|image1=Australian election polling - two party preferred.png
+|width1=310
+|caption1=[[Two-party-preferred vote]].
+|image2=Australian election polling - primary vote.png
+|width2=310
+|caption2=[[First-preference votes|Primary vote]].
+|footer=[[Aggregate data]] of voting intention from all opinion polling since the last election. A [[Exponential moving average|moving average]] is shown in a solid line.}}{{Clear}}
+
+==Marginal seat pendulum==
+{{main article|Mackerras pendulum for the Australian federal election, 2016}}
+Based on the [[Post-election pendulum for the Australian federal election, 2013|2013 post-election pendulum for the Australian federal election]], this [[Mackerras pendulum]] has been updated to include new notional margin estimates due to redistributions in New South Wales, Western Australia and the Australian Capital Territory. The net effect of the redistributions reduced the [[Liberal Party of Australia|Liberal]]/[[National Party of Australia|National]] [[Coalition (Australia)|Coalition]] from 90 to a notional 88 seats and increased [[Australian Labor Party|Labor]] from 55 to a notional 57 seats.<ref name=pendulum>[http://blogs.abc.net.au/antonygreen/2016/03/2016-federal-election-pendulum-update.html 2016 Federal Election Pendulum (Update): Antony Green ABC 13 March 2016]</ref><ref>[http://www.abc.net.au/news/federal-election-2016/guide/pendulum/ 2016 election pendulum: Antony Green ABC]</ref>
+
+While every federal election after [[Australian federal election, 1961|1961]] has been won by those that also won the majority of federal seats in New South Wales, unusually nearly half of all marginal government seats are in New South Wales at this election, of which nearly half are in [[Western Sydney]] and the other half in rural and regional areas, and with no more than a few seats each in every other state.
+
+Assuming a theoretical uniform [[Swing (Australian politics)|swing]], for the Labor opposition to get to 76 seats and [[majority government]] would require Labor with 50.5 percent of the two-party vote from a 4.0-point two-party swing or greater, while for the incumbent Coalition to lose majority government would require the Coalition with 50.2 percent of the two-party vote from a 3.3-point two-party swing or greater.<ref>[[Mackerras pendulum for the Australian federal election, 2016]] based on [http://www.abc.net.au/news/federal-election-2016/guide/pendulum/ 2016 election pendulum: Antony Green ABC] – O'Connor and Durack in WA not included for Labor majority calculation but are included for Coalition loss of majority calculation. Fairfax in QLD is considered a Coalition seat for Coalition loss of majority calculation.</ref>
+
+:''Members in italic retired at the election''
+
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+! colspan="4"  style="text-align:center; background:blue;"|<span style="color:white;">Marginal Coalition seats</span>
+|- style="background:#a6e7ff;"
+| [[Division of Petrie|Petrie (Qld)]]
+| [[Luke Howarth]]
+| LNP
+| style="text-align:center;"| 0.5
+|- style="background:#cfc;"
+| [[Division of Capricornia|Capricornia (Qld)]]
+| [[Michelle Landry]]
+| LNP
+| style="text-align:center;"| 0.8
+|- style="background:#a6e7ff;"
+| [[Division of O'Connor|O'Connor (WA)]]
+| [[Rick Wilson (Australian politician)|Rick Wilson]]
+| LIB
+| style="text-align:center;"| 0.9 {{ref label|a|a|a}}
+|- style="background:#a6e7ff;"
+| [[Division of Lyons|Lyons (Tas)]]
+| [[Eric Hutchinson (politician)|Eric Hutchinson]]
+| LIB
+| style="text-align:center;"| 1.2
+|- style="background:#a6e7ff;"
+| [[Division of Solomon|Solomon (NT)]]
+| [[Natasha Griggs]]
+| CLP
+| style="text-align:center;"| 1.4
+|- style="background:#a6e7ff;"
+| [[Division of Hindmarsh|Hindmarsh (SA)]]
+| [[Matt Williams (Australian politician)|Matt Williams]]
+| LIB
+| style="text-align:center;"| 1.9
+|- style="background:#a6e7ff;"
+| [[Division of Braddon|Braddon (Tas)]]
+| [[Brett Whiteley (politician)|Brett Whiteley]]
+| LIB
+| style="text-align:center;"| 2.6
+|- style="background:#a6e7ff;"
+| [[Division of Banks|Banks (NSW)]]
+| [[David Coleman (Australian politician)|David Coleman]]
+| LIB
+| style="text-align:center;"| 2.8
+|- style="background:#a6e7ff;"
+| [[Division of Eden-Monaro|Eden-Monaro (NSW)]]
+| [[Peter Hendy (politician)|Peter Hendy]]
+| LIB
+| style="text-align:center;"| 2.9
+|- style="background:#a6e7ff;"
+| [[Division of Lindsay|Lindsay (NSW)]]
+| [[Fiona Scott]]
+| LIB
+| style="text-align:center;"| 3.0
+|- style="background:#cfc;"
+| [[Division of Page|Page (NSW)]]
+| [[Kevin Hogan (politician)|Kevin Hogan]]
+| NAT
+| style="text-align:center;"| 3.1
+|- style="background:#a6e7ff;"
+| [[Division of Robertson|Robertson (NSW)]]
+| [[Lucy Wicks (politician)|Lucy Wicks]]
+| LIB
+| style="text-align:center;"| 3.1
+|- style="background:#a6e7ff;"
+| [[Division of Deakin|Deakin (Vic)]]
+| [[Michael Sukkar]]
+| LIB
+| style="text-align:center;"| 3.2
+|- style="background:#a6e7ff;"
+| [[Division of Macarthur|Macarthur (NSW)]]
+| [[Russell Matheson]]
+| LIB
+| style="text-align:center;"| 3.3
+|-
+! colspan="4" style="text-align:center;" | ^^^ Government loses majority on a uniform swing ^^^
+|- style="background:#a6e7ff;"
+| [[Division of Reid|Reid (NSW)]]
+| [[Craig Laundy]]
+| LIB
+| style="text-align:center;"| 3.3
+|- style="background:#a6e7ff;"
+| [[Division of Bonner|Bonner (Qld)]]
+| [[Ross Vasta]]
+| LNP
+| style="text-align:center;"| 3.7
+|- style="background:#a6e7ff;"
+| [[Division of Gilmore|Gilmore (NSW)]]
+| [[Ann Sudmalis]]
+| LIB
+| style="text-align:center;"| 3.8
+|- style="background:#a6e7ff;"
+| [[Division of Corangamite|Corangamite (Vic)]]
+| [[Sarah Henderson]]
+| LIB
+| style="text-align:center;"| 3.9
+|- style="background:#a6e7ff;"
+| [[Division of Durack|Durack (WA)]]
+| [[Melissa Price (politician)|Melissa Price]]
+| LIB
+| style="text-align:center;"| 3.9 {{ref label|a|a|a}}
+|- style="background:#a6e7ff;"
+| [[Division of La Trobe|La Trobe (Vic)]]
+| [[Jason Wood (politician)|Jason Wood]]
+| LIB
+| style="text-align:center;"| 4.0
+|- style="background:#a6e7ff;"
+| [[Division of Bass|Bass (Tas)]]
+| [[Andrew Nikolic]]
+| LIB
+| style="text-align:center;"| 4.0
+|-
+! colspan="4" style="text-align:center;" | ^^^ Opposition wins majority on a uniform swing ^^^
+|- style="background:#a6e7ff;"
+| [[Division of Brisbane|Brisbane (Qld)]]
+| ''[[Teresa Gambaro]]''
+| LNP
+| style="text-align:center;"| 4.3
+|- style="background:#a6e7ff;"
+| [[Division of Forde|Forde (Qld)]]
+| [[Bert van Manen]]
+| LNP
+| style="text-align:center;"| 4.4
+|- style="background:#a6e7ff;"
+| [[Division of Cowan|Cowan (WA)]]
+| [[Luke Simpkins]]
+| LIB
+| style="text-align:center;"| 4.5
+|- style="background:#a6e7ff;"
+| [[Division of Macquarie|Macquarie (NSW)]]
+| [[Louise Markus]]
+| LIB
+| style="text-align:center;"| 4.5
+|- style="background:#a6e7ff;"
+| [[Division of Dunkley|Dunkley (Vic)]]
+| ''[[Bruce Billson]]''
+| LIB
+| style="text-align:center;"| 5.6
+|- style="background:#a6e7ff;"
+| [[Division of Leichhardt|Leichhardt (Qld)]]
+| [[Warren Entsch]]
+| LNP
+| style="text-align:center;"| 5.7
+|}
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+! colspan="4"  style="text-align:center; background:red;"|<span style="color:white;">Marginal Labor seats</span>
+|- 
+|  style="text-align:left; background:#fdd;"| [[Division of Dobell|Dobell (NSW)]]
+|  style="text-align:left; background:#a6e7ff;"| [[Karen McNamara]] {{ref label|b|b|b}}
+|  style="text-align:left; background:#fdd;"| ALP
+|  style="text-align:center; background:#fdd;"| 0.2
+|- style="background:#fdd;"
+| [[Division of McEwen|McEwen (Vic)]]
+| [[Rob Mitchell (Victorian politician)|Rob Mitchell]]
+| ALP
+| style="text-align:center;"| 0.2
+|- 
+|  style="text-align:left; background:#fdd;"| [[Division of Paterson|Paterson (NSW)]]
+|  style="text-align:left; background:#a6e7ff;"| ''[[Bob Baldwin]]'' {{ref label|b|b|b}}
+|  style="text-align:left; background:#fdd;"| ALP
+|  style="text-align:center; background:#fdd;"| 0.3
+|- style="background:#fdd;"
+| [[Division of Lingiari|Lingiari (NT)]]
+| [[Warren Snowdon]]
+| ALP
+| style="text-align:center;"| 0.9
+|- style="background:#fdd;"
+| [[Division of Bendigo|Bendigo (Vic)]]
+| [[Lisa Chesters]]
+| ALP
+| style="text-align:center;"| 1.3
+|- style="background:#fdd;"
+| [[Division of Lilley|Lilley (Qld)]]
+| [[Wayne Swan]]
+| ALP
+| style="text-align:center;"| 1.3
+|- style="background:#fdd;"
+| [[Division of Parramatta|Parramatta (NSW)]]
+| [[Julie Owens]]
+| ALP
+| style="text-align:center;"| 1.3
+|- style="background:#fdd;"
+| [[Division of Chisholm|Chisholm (Vic)]]
+| ''[[Anna Burke]]''
+| ALP
+| style="text-align:center;"| 1.6
+|- style="background:#fdd;"
+| [[Division of Moreton|Moreton (Qld)]]
+| [[Graham Perrett]]
+| ALP
+| style="text-align:center;"| 1.6
+|- style="background:#fdd;"
+| [[Division of Richmond|Richmond (NSW)]]
+| [[Justine Elliot]]
+| ALP
+| style="text-align:center;"| 1.6
+|- style="background:#fdd;"
+| [[Division of Bruce|Bruce (Vic)]]
+| ''[[Alan Griffin]]''
+| ALP
+| style="text-align:center;"| 1.8
+|- style="background:#fdd;"
+| [[Division of Perth|Perth (WA)]]
+| ''[[Alannah MacTiernan]]''
+| ALP
+| style="text-align:center;"| 2.2
+|- style="background:#fdd;"
+| [[Division of Kingsford Smith|Kingsford Smith (NSW)]]
+| [[Matt Thistlethwaite]]
+| ALP
+| style="text-align:center;"| 2.7
+|- style="background:#fdd;"
+| [[Division of Greenway|Greenway (NSW)]]
+| [[Michelle Rowland]]
+| ALP
+| style="text-align:center;"| 3.0
+|- style="background:#fdd;"
+| [[Division of Griffith|Griffith (Qld)]]
+| [[Terri Butler]]
+| ALP
+| style="text-align:center;"| 3.0
+|- style="background:#fdd;"
+| [[Division of Jagajaga|Jagajaga (Vic)]]
+| [[Jenny Macklin]]
+| ALP
+| style="text-align:center;"| 3.1
+|- style="background:#fdd;"
+| [[Division of Wakefield|Wakefield (SA)]]
+| [[Nick Champion]]
+| ALP
+| style="text-align:center;"| 3.4
+|- style="background:#fdd;"
+| [[Division of Melbourne Ports|Melbourne Ports (Vic)]]
+| [[Michael Danby]]
+| ALP
+| style="text-align:center;"| 3.6
+|- style="background:#fdd;"
+| [[Division of Brand|Brand (WA)]]
+| ''[[Gary Gray (Australian politician)|Gary Gray]]''
+| ALP
+| style="text-align:center;"| 3.7
+|- style="background:#fdd;"
+| [[Division of Oxley|Oxley (Qld)]]
+| ''[[Bernie Ripoll]]''
+| ALP
+| style="text-align:center;"| 3.8
+|- style="background:#fdd;"
+| [[Division of Adelaide|Adelaide (SA)]]
+| [[Kate Ellis]]
+| ALP
+| style="text-align:center;"| 3.9
+|- style="background:#fdd;"
+| [[Division of Isaacs|Isaacs (Vic)]]
+| [[Mark Dreyfus]]
+| ALP
+| style="text-align:center;"| 3.9
+|- 
+|  style="text-align:left; background:#fdd;"| [[Division of Barton|Barton (NSW)]]
+|  style="text-align:left; background:#a6e7ff;"| [[Nickolas Varvaris]] {{ref label|b|b|b}}
+|  style="text-align:left; background:#fdd;"| ALP
+|  style="text-align:center; background:#fdd;"| 4.4
+|- style="background:#fdd;"
+| [[Division of McMahon|McMahon (NSW)]]
+| [[Chris Bowen]]
+| ALP
+| style="text-align:center;"| 4.6
+|- style="background:#fdd;"
+| [[Division of Rankin|Rankin (Qld)]]
+| [[Jim Chalmers (Queensland politician)|Jim Chalmers]]
+| ALP
+| style="text-align:center;"| 4.8
+|- style="background:#fdd;"
+| [[Division of Ballarat|Ballarat (Vic)]]
+| [[Catherine King (politician)|Catherine King]]
+| ALP
+| style="text-align:center;"| 4.9
+|- style="background:#fdd;"
+| [[Division of Franklin|Franklin (Tas)]]
+| [[Julie Collins]]
+| ALP
+| style="text-align:center;"| 5.1
+|- style="background:#fdd;"
+| [[Division of Makin|Makin (SA)]]
+| [[Tony Zappia]]
+| ALP
+| style="text-align:center;"| 5.1
+|- style="background:#fdd;"
+| [[Division of Blair|Blair (Qld)]]
+| [[Shayne Neumann]]
+| ALP
+| style="text-align:center;"| 5.3
+|- style="background:#fdd;"
+| [[Division of Fremantle|Fremantle (WA)]]
+| ''[[Melissa Parke]]''
+| ALP
+| style="text-align:center;"| 5.4
+|- style="background:#fdd;"
+| [[Division of Hunter|Hunter (NSW)]] {{ref label|c|c|c}}
+| [[Joel Fitzgibbon]] 
+| ALP
+| style="text-align:center;"| 5.7
+|}{{Clear}}
+{{note label|a|a|a}} Though the seats of O'Connor and Durack are marginal Liberal seats, margins are based on the [[two-candidate preferred]] result against the [[National Party of Western Australia]] rather than the [[Two-party-preferred vote|two-party preferred]] result against Labor, on which all other marginal seats are based. O'Connor and Durack are not included for Labor majority calculation but are included for Coalition loss of majority calculation.
+
+{{note label|b|b|b}} Though the seats of Dobell, Paterson and Barton were Liberal wins at the previous election, redistributions changed them to notionally marginal Labor seats.<ref name=pendulum/>
+
+{{note label|c|c|c}} [[Pat Conroy (politician)|Pat Conroy]] is the current MP for the [[Division of Charlton]] which is being renamed the [[Division of Hunter]] at the next election.
+
+==Campaign events==
+{{see also|Debates of the Australian federal election, 2016}}
+* 9 May – The House of Representatives and Senate are dissolved and the government enters [[Caretaker government of Australia|caretaker mode]].<ref>{{cite news|title=Fact check: is the Government not yet in caretaker mode|url=http://www.abc.net.au/news/2016-05-12/fact-check-is-the-government-not-yet-in-caretaker-mode/7409042|accessdate=12 May 2016|work=[[ABC News (Australia)|ABC News]]|location=Australia|date=12 May 2016}}</ref>
+* 11 May – The Labor Party announces it will disendorse its candidate for [[Division of Fremantle|Fremantle]], Chris Brown, after it is revealed that he did not disclose two convictions dating back to the 1980s.<ref name="fremantle">{{cite news|title=Election 2016: Labor Fremantle candidate Chris Brown to be disendorsed by party|url=http://www.abc.net.au/news/2016-05-11/labor-candidate-chris-brown-to-be-disendorsed-by-alp/7406100|accessdate=11 May 2016|work=[[ABC News (Australia)|ABC News]]|location=Australia|date=11 May 2016}}</ref>
+* 13 May – The [[Australian federal election debates, 2016|first televised people's forum]] involving Turnbull and Shorten is held in the Sydney suburb of [[South Windsor, New South Wales|South Windsor]].<ref>{{cite web|url=http://www.tvtonight.com.au/2016/05/airdate-the-peoples-forum-with-malcolm-turnbull-bill-shorten.html|title=Airdate: The People’s Forum with Malcolm Turnbull & Bill Shorten|date=11 May 2016|accessdate=11 May 2016|first=David|last=Knox|work=[[TV Tonight]]}}</ref>
+* 17 May – 
+** Immigration minister [[Peter Dutton]] makes controversial comments about refugees during an interview on Sky News, stating that "many... won't be numerate or literate in their own language let alone English", that they "would be taking Australian jobs" and that "they would languish in unemployment queues and on Medicare".<ref name="refugees">{{cite news|title=Election 2016: Malcolm Turnbull backs 'outstanding' Peter Dutton after refugee comments|url=http://www.abc.net.au/news/2016-05-18/dutton-warns-illiterate-refugees-will-take-aussie-jobs/7424198|accessdate=19 May 2016|work=ABC News|date=18 May 2016}}</ref>
+
+[[File:172 Clarke Street, Northcote, Victoria (2016-06-27) 02.jpg|thumb|David Feeney's $2.3&nbsp;million house in Northcote not declared on his parliamentary register of interests]]
+
+** Labor MP for [[Division of Batman|Batman]], [[David Feeney]], admits that he had not declared his ownership of a $2.3&nbsp;million house in [[Northcote, Victoria|Northcote]], and that the house was [[Negative gearing|negatively-geared]]—a scheme that the Labor Party had promised to wind back if elected.
+* 19 May – 
+** Labor candidate for [[Division of Moore|Moore]] David Leith steps down after social media posts from 2015 are revealed in which he called Australia's immigration detention centres "gulags".<ref name="leith">{{cite news|title=Labor candidate for WA seat of Moore withdraws after 'gulag' comment about detention centres|url=http://www.abc.net.au/news/2016-05-19/labor-candidate-for-moore-withdraws/7429242|accessdate=25 May 2016|date=19 May 2016}}</ref>
+**The [[Australian Federal Police]] conducts raids on the Melbourne offices of Labor senator [[Stephen Conroy]] and the home of a Labor advisor, over the alleged leak of documents regarding the status of the [[National Broadband Network]].<ref name="afpraids">{{cite news|title=AFP raids Labor party offices, home in Melbourne over leaked NBN documents|url=http://www.abc.net.au/news/2016-05-19/afp-raids-labor-party-offices-in-melbourne/7430346|accessdate=19 May 2016|work=ABC News|date=19 May 2016}}</ref>
+* 20 May – 
+**Treasury and the Department of Finance release the Pre-election Economic and Fiscal Outlook (PEFO).<ref name="pefo">{{cite news|title=PEFO budget numbers unchanged, Treasury stands by forecasts|url=http://www.abc.net.au/news/2016-05-20/pefo-forecasts-unchanged-from-budget/7432388|accessdate=20 May 2016|work=ABC News|date=20 May 2016}}</ref>
+**Liberal candidate for Fremantle, Sherry Sufi, withdraws from nomination following controversy over his past comments on same-sex marriage and indigenous constitutional recognition, as well as a video of him mocking WA Speaker [[Michael Sutherland]].<ref name="sufi">{{cite news|title=Election 2016: Sherry Sufi quits as Liberal candidate for Fremantle|url=http://www.abc.net.au/news/2016-05-20/liberal-candidate-for-fremantle-sherry-sufi-resigns/7432644|accessdate=25 May 2016|work=ABC News|date=20 May 2016}}</ref>
+* 24 May – 
+**Treasurer [[Scott Morrison (politician)|Scott Morrison]] and finance minister [[Mathias Cormann]] hold a press conference in which they announce that their costing of Labor's policies has revealed a $67&nbsp;billion "black hole". Under media questioning, Morrison replies that while they had made some assumptions to arrive at the figure, it is up to Labor to clarify its policies. The Opposition responds, calling the announcement a "ridiculous scare campaign" that was "riddled with a litany of errors".<ref name="blackhole">{{cite news|title=Election 2016: Scott Morrison stands by claim of $67b black hole in Labor costings|url=http://www.abc.net.au/news/2016-05-24/labor-budget-has-$67-billion-black-hole-scott-morrison-says/7441804|accessdate=25 May 2016|work=ABC News|date=25 May 2016}}</ref>
+**Labor Senator [[Nova Peris]] announces she will not nominate to contest her Northern Territory Senate seat at the election.<ref name="peris">{{cite news|title=Federal election 2016: Labor senator Nova Peris quits politics|url=http://www.smh.com.au/federal-politics/federal-election-2016/election-2016-labor-senator-nova-peris-quits-politics-20160524-gp2bk6.html|accessdate=26 May 2016|work=The Sydney Morning Herald|date=24 May 2016}}</ref>
+*25 May – 
+** Liberal candidate for [[Division of Whitlam|Whitlam]], Dr Carolyn Currie, withdraws from nomination citing a lack of support from the party's branch and factional leaders.<ref name="currie">{{cite news|title=Liberal candidate for Whitlam, Carolyn Currie, resigns citing lack of support|url=http://www.abc.net.au/news/2016-05-25/liberal-candidate-caroline-currie-seat-of-whitlam-resigns/7444334|accessdate=25 May 2016|work=ABC News|date=25 May 2016}}</ref>
+** A regional leaders' debate between Nationals leader and Deputy Prime Minister [[Barnaby Joyce]], Labor MP [[Joel Fitzgibbon]], and Greens leader [[Richard Di Natale]] is held in [[Goulburn, New South Wales]]. The debate is moderated by [[Chris Uhlmann]] and broadcast on the ABC.<ref name="regleaders">{{cite news|title=Election 2016: Live exports and milk prices on agenda in Regional Leaders' Debate|url=http://www.abc.net.au/news/2016-05-25/election-live-blog-may-25/7442778|accessdate=25 May 2016|work=ABC News|date=25 May 2016}}</ref> During the debate, Joyce makes comments apparently linking a ban on live cattle exports to Indonesia with an increase in asylum seeker boats under the Gillard government.<ref name="cattle">{{cite news|title=Election 2016: Turnbull in damage control after Barnaby Joyce links asylum seekers to live exports|url=http://www.abc.net.au/news/2016-05-26/barnaby-joyce-downplays-asylum-seeker-live-cattle-comments/7447076|accessdate=27 May 2016|work=ABC News|date=26 May 2016}}</ref>
+* 29 May – A leaders debate between Malcolm Turnbull and Bill Shorten is held at the National Press Club in Canberra.
+* 9 June – Candidate nominations close.
+* 11 June – Liberal candidate for [[Division of Calwell|Calwell]], John Hsu, resigns and is disendorsed. The deadline for nominations having closed results in the Liberals not running a candidate in that seat.<ref>{{Cite news|url=http://www.news.com.au/finance/small-business/lib-brothelowner-quits-party/news-story/0c13c1798b6f551083a39031a8840138|title=Lib brothel-owner quits party|last=|first=|date=11 June 2016|work=|publisher=News Limited|access-date=13 June 2016|via=}}</ref> However, Hsu's name continues to be on the ballot paper and he continues to run as an independent.<ref>[http://www.news.com.au/national/federal-election/brothel-scandal-election-calwell-candidate-runs-as-independent/news-story/2baee321283bac212e9c2ffab0d48fa6 Brothel scandal election Calwell candidate runs as independent]</ref>
+* 14 June – Pre-poll voting opens.
+* 17 June – A third leaders debate between Malcolm Turnbull and Bill Shorten.<ref>[http://www.theage.com.au/federal-politics/federal-election-2016-opinion/federal-election-2016-the-third-election-debate-was-the-best-of-the-bunch-20160617-gpm2wk.html Federal election 2016: The third election debate was the best of the bunch]</ref>
+* 19 June – Official launch of the ALP campaign.<ref>[http://www.theaustralian.com.au/federal-election-2016/federal-election-campaign-day-43-labors-campaign-launch-turnbull-in-sydney/news-story/264f376b98984db6f279fd4121868f43 Federal election campaign: Day 43, Labor’s campaign launch, Turnbull in Sydney]</ref>
+* 20 June – Labor candidate for [[Division of Farrer|Farrer]], Christian Kunde, resigns and is disendorsed.<ref name="kunde">{{cite news|title=Election 2016: Labor candidate Christian Kunde steps down over Hizb ut-Tahrir reports|url=http://www.abc.net.au/news/2016-06-20/labor-candidate-quits-after-islamic-extremism-links-criticism/7524718|accessdate=20 June 2016|work=ABC News|date=20 June 2016}}</ref>
+
+== Campaign advertising ==
+
+Labor, campaign advertising began in February, with the Government airing taxpayer-funded commercials for its Innovation and Science Agenda that echoed Turnbull's catchphrase "exciting time". The ads were criticised by the Opposition, which referred the matter to the Auditor-General for investigation.<ref>{{cite news|url=http://www.abc.net.au/news/2016-03-16/government's-'exciting-time'-catchcry-'should-be-investigated'/7249684|title=Labor calls for use of Government's 'exciting time' catchcry in ideas boom ad to be investigated|first=Dan|last=Conifer|date=16 March 2016}}</ref>
+
+The first negative shots in the campaign's television advertising war were fired in April, as the Government worked to obtain its second trigger for a double dissolution.
+
+* "If Malcolm Turnbull gets his way" was created by the [[Construction, Forestry, Mining and Energy Union|Construction, Forestry, Mining & Energy Union]]. The ad depicted a drug dealer and a construction worker in police interview rooms, and claimed that if the ABCC was re-established as the Coalition intended, "a worker will have less rights than an [[Methamphetamine|ice]] dealer." <ref>{{cite web|url=http://www.abc.net.au/news/2016-04-27/will-building-workers-have-less-rights-than-ice-dealers-abcc/7340868|date=27 April 2016|title=Will building workers have less rights than ice dealers?|author=Australian Broadcasting Corporation}}</ref>
+* "Bob Hawke speaks out for Medicare" (Labor). This attack ad, released on 11 June, featured former Prime Minister [[Bob Hawke]] claiming that Turnbull would "privatise" Medicare. Hawke, making his first appearance in a campaign ad since [[Australian federal election, 1990|1990]], referred to a "Medicare privatisation taskforce" established by the Coalition. Hawke's claims were rejected by the Government, the Australian Medical Association and the Royal Australian College of General Practitioners. Turnbull called it the "biggest lie" of the campaign. Nonetheless, the ad was highly effective, forcing the Coalition to scrap a plan to outsource management of the Medicare electronic payments system.<ref>{{cite news|url=http://www.theaustralian.com.au/opinion/columnists/peter-van-onselen/labor-plays-fast-and-loose-with-bob-hawkes-medicare-legacy/news-story/f12a7e1330c61bcc4a2e34ae8f378a69|first=Peter|last=van Onselen|newspaper=The Australian|title=Labor plays loose with Medicare legacy|date=25 June 2016}}</ref><ref name=amahead>{{cite news|url=http://www.theaustralian.com.au/federal-election-2016/federal-election-2016-ama-head-calls-out-shortens-medicare-scare/news-story/d2cb0137d08e38ec02f5c66a144f65f5|newspaper=The Australian|date=22 June 2016|title=AMA head calls out Shorten's Medicare scare|first=David|last=Crowe}}</ref>
+* "Labor's war on the economy" (Liberal). This attack ad, released on 19 June, featured a supposed tradesman warning of what he characterised as Labor's desire to "go to war" with banks, mining companies and people with investment properties. Labor, union officials and many on social media initially dismissed the tradesman as "Fake Tradie"—although media outlets confirmed the actor was in fact a tradesman.<ref>{{cite news|url=http://www.smh.com.au/federal-politics/federal-election-2016/federal-election-2016-fake-tradie-andrew-macrae-says-hes-the-real-deal-20160621-gpo7tz.html|newspaper=Sydney Morning Herald|first=Georgina|last=Mitchell|date=21 June 2016|title='Fake tradie' Andrew MacRae reveals how he got the gig}}</ref>
+* "Not this time, Tony" (The Nationals). [[National Party of Australia|The Nationals]] faced a strong challenge in their leader's seat of [[Division of New England|New England]] from independent former MP [[Tony Windsor]]. The party released an attack ad on 25 June that the previously conservative Windsor had supported the minority Labor government from 2010–13. The ad used the metaphor of an unfaithful ex-boyfriend asking for a second chance—with the woman replying by text message 'Not this time, Tony'. Windsor claimed the ad accused him of sexual infidelity, a suggestion rejected by the Nationals.<ref>{{cite news|url=https://www.theguardian.com/australia-news/2016/jun/27/tony-windsor-demands-nationals-apologise-to-wife-over-gutter-attack-ad|newspaper=The Guardian Australia|date=27 June 2016|first=Gabrielle|last=Chan|title=Tony Windsor demands Nationals apologise to wife over 'gutter' attack ad}}</ref>
+* Member for [[Division of Kennedy|Kennedy]] [[Bob Katter]] posted a video to YouTube on 14&nbsp;June showing people labelled 'Labor' and 'Liberal' putting up a 'For Sale' sign on Australia before cutting to a shot of the two lying on the ground while Katter himself held a gun facing the camera. Although Katter claimed the video was humorous, it attracted controversy as it was aired a few days after the [[2016 Orlando nightclub shooting]]. The ad was created with the help of the writers of satirical newspaper website ''[[The Betoota Advocate]]''.<ref>{{cite news|url=http://www.smh.com.au/federal-politics/federal-election-2016/bob-katter-ad-barry-osullivan-calls-for-resignation-20160615-gpk3j8.html|title=Bob Katter ad: Barry O'Sullivan calls for resignation|first=Amy|last=Mitchell-Wittington|newspaper=Brisbane Times|date=15 June 2016}}</ref>
+
+In addition to the major political parties, other organisations aired their own issue ads. These included the [[Australian Council of Trade Unions]], the [[Royal Australian College of General Practitioners]], Master Builders Australia and the [[Australia Institute]].<ref>{{cite news|newspaper=The Australian|title=Federal election campaign, day 33|url=http://www.theaustralian.com.au/federal-election-2016/federal-election-campaign-2016-day-33/news-story/04cf9933f83858eae05bde97910500d6|date=10 June 2016}}</ref><ref name=amahead />
+
+In Australian federal elections, a "blackout" of campaign ads on radio and television applies from midnight on the Wednesday before polling day. On the eve of the blackout in 2016, commercial television stations, media analysts and some politicians called for this rule to be reviewed in the light of declining audience share for traditional broadcasters, and the growing role of the internet in campaigning.<ref>{{cite news|url=http://www.abc.net.au/news/2016-06-29/election-2016-blackout-broadcasting-political-advertising/7551190|first=Nathan|last=Stitt|newspaper=ABC News|title= Blackout on broadcast ads 'pointless' in internet age|date=29 June 2016}}</ref>
+
+==See also==
+{{stack|{{portal|Australia|Politics}}}}
+* [[Elections in Australia]]
+* [[Political parties in Australia]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.aec.gov.au/election/ Australian Electoral Commission: 2016 federal election]
+*[http://www.abc.net.au/news/federal-election-2016/guide/ ABC Elections: 2016 Federal Election Guide]
+
+{{Australian federal election, 2016}}
+{{Australian elections}}
+{{Politics of Australia}}
+
+[[Category:Australian federal election, 2016| ]]
+[[Category:2016 elections in Australia]]
+[[Category:Federal elections in Australia]]

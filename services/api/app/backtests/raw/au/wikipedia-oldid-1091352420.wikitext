@@ -1,0 +1,1100 @@
+{{short description|Election for the 47th Parliament of Australia}}
+{{EngvarB|date=May 2022}}
+{{Use dmy dates|date=May 2022}}
+<section begin=infobox/>{{Infobox election
+| election_name = 2022 Australian federal election
+| country = Australia
+| type = Parliamentary
+| ongoing = no
+| votes_counted = 85.19
+| last_update = 2 June 2022, 9:51pm<ref>{{cite web|date=21 May 2022|title=2022 Federal Election|url=https://tallyroom.aec.gov.au/HouseDefault-27966.htm |access-date=1 June 2022 |publisher=[[Australian Electoral Commission]]}}</ref>
+| time_zone = [[Australian Eastern Standard Time|AEST]]
+| previous_election = 2019 Australian federal election
+| previous_year = 2019
+| election_date = 21 May 2022
+| next_election = Next Australian federal election
+| next_year = Next
+| registered = 17,228,900 {{increase}}4.90%<ref>{{cite web |url=https://www.aec.gov.au/enrolling_to_vote/enrolment_stats/ |title=Enrolment statistics |publisher=Australian Electoral Commission |access-date=25 May 2022 |archive-url=https://web.archive.org/web/20220504232646/https://www.aec.gov.au/enrolling_to_vote/enrolment_stats/ |archive-date=4 May 2022 |url-status=live}}</ref>
+| turnout = TBA
+| seats_for_election = All 151 seats in the [[Australian House of Representatives|House of Representatives]]<br />76 seats are needed for a majority <br />40 (of the 76) seats in the [[Australian Senate|Senate]]
+| opinion_polls = Opinion polling for the 2022 Australian federal election
+| vote_type = [[Instant-runoff voting#Australia|First preference]]
+<!-- Labor -->| image1 = {{CSS image crop|Image = Anthony Albanese portrait (cropped).jpg|bSize = 140|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 10}}
+| leader1 = [[Anthony Albanese]]
+| leader_since1 = [[2019 Australian Labor Party leadership election|{{start date|df=yes|2019|5|30}}]]
+| party1 = Australian Labor Party
+| leaders_seat1 = [[Division of Grayndler|Grayndler]] (NSW)
+| popular_vote1 = 4,545,067
+| percentage1 = 32.7%
+| swing1 = {{decrease}} 0.6 [[percentage point|pp]]
+| last_election1 = 68 seats, 33.34%
+| seats1 = '''77'''
+| seat_change1 = {{Increase}} 9
+| image2 = {{CSS image crop|Image = Prime Minister of Australia Scott Morrison.jpg| bSize = 140|cWidth = 120|cHeight = 160|oTop = 0|oLeft = 10}}
+| leader2 = [[Scott Morrison]]
+| party2 = [[Coalition (Australia)|Liberal/National Coalition]]
+| leader_since2 = [[2018 Liberal Party of Australia leadership spills|{{start date|df=yes|2018|8|24}}]]
+| leaders_seat2 = [[Division of Cook|Cook]] (NSW)
+| popular_vote2 = '''5,005,664'''
+| percentage2 = '''36.0%'''
+| swing2 = {{decrease}} 5.5 [[percentage point|pp]]
+| last_election2 = 77 seats, 41.44%
+| seats2 = 58
+| seat_change2 = {{decrease}} 19
+<!-- 2PP -->
+<!-- rating -->| 1blank = [[Two-party-preferred vote|TPP]]
+| 1data1 = '''51.7%'''
+| 1data2 = 48.3%
+| 2blank = [[Two-party-preferred vote|TPP]] swing
+| 2data1 = {{increase}} 3.3 [[percentage point|pp]]
+| 2data2 = {{decrease}} 3.3 [[percentage point|pp]]
+| image3 = {{CSS image crop|Image =Adam-Bandt-profile-2021 (Cropped).png|bSize = 130|cWidth = 120|cHeight = 160|oTop = 5|oLeft = 2}}
+| colour3 = 10C25B
+| leader3 = [[Adam Bandt]]
+| leader_since3 = [[Australian Greens leadership elections#2020|{{start date|df=yes|2020|2|4}}]]
+| party3 = Australian Greens
+| leaders_seat3 = [[Division of Melbourne|Melbourne]] (Vic.)
+| popular_vote3 = 1,674,967
+| percentage3 = 12.0%
+| swing3 = {{increase}} 1.5 [[percentage point|pp]]
+| last_election3 = 1 seat, 10.40%
+| seats3 = 4
+| seat_change3 = {{increase}} 3
+<!-- Map -->| map = [[File:Australia General Election, 2022 -- Results by Division.svg|420px]]
+| map_caption = Results by winning party by division for the House of Representatives. 
+
+<!-- Before/after PM -->| title = [[Prime Minister of Australia|Prime Minister]]
+| before_election = [[Scott Morrison]]
+| before_party = [[Coalition (Australia)|Liberal/National coalition]]
+| posttitle = Subsequent Prime Minister
+| after_election = [[Anthony Albanese]]
+| after_party = [[Australian Labor Party|Labor]]
+| outgoing_members = [[Members of the Australian House of Representatives, 2019–2022|outgoing members]]
+| elected_members = [[Members of the Australian House of Representatives, 2022–2025|elected members]]
+}}<section end=infobox/>
+{{2022 Australian federal election sidebar}}
+The '''2022 Australian federal election''' was held on 21 May 2022 to elect members of the [[47th Parliament of Australia]]. The incumbent [[Coalition (Australia)|Liberal/National coalition]] [[Morrison government|government]] led by [[Prime Minister of Australia|Prime Minister]] [[Scott Morrison]] sought to win a fourth consecutive term in office but was defeated by the [[Opposition (Australia)|opposition]], the [[Australian Labor Party|Labor Party]] led by [[Anthony Albanese]]. The [[Australian Greens|Greens]], [[United Australia Party (2013)|United Australia Party]], [[Pauline Hanson's One Nation|One Nation]], other minor parties, and [[Independent politician|independents]] also contested the election. Up for election were all 151 seats in the lower house, the [[Australian House of Representatives|House of Representatives]], and 40 of the 76 seats in the upper house, the [[Australian Senate|Senate]].
+
+The election resulted in severe losses for the Coalition, which won its lowest share of seats in the House of Representatives since [[1946 Australian federal election|1946]], the first election contested by the Liberals as the Coalition's senior partner.<ref>{{cite news |last=Curtis |first=Katina |title=Liberals at lowest proportion of seats since party's first poll in 1946 |url=https://www.smh.com.au/politics/federal/liberals-at-lowest-proportion-of-seats-since-party-s-first-poll-in-1946-20220524-p5ao00.html |access-date=25 May 2022 |newspaper=The Sydney Morning Herald |date=24 May 2022}}</ref> At 10:00 pm [[Time in Australia|AEST]] ([[UTC+10]]) on election night, [[ABC News (Australia)|ABC News]] projected that only the Labor Party could realistically form a government,<ref name="ABC20220521Worthington">{{cite news |last1=Worthington |first1=Brett |title=Labor takes election victory, incoming PM Anthony Albanese wants Australians to 'reach for the stars' |url=https://www.abc.net.au/news/2022-05-21/labor-anthony-albanese-projected-to-win-2022-federal-election/101084660 |access-date=22 May 2022 |work=ABC News |date=21 May 2022}}</ref> and nine days later projected Labor had secured an outright [[Majority government|majority]] of seats in the House of Representatives.<ref name=76seatscalledABC>{{cite news|last1=Worthington|first1=Brett|title=Anthony Albanese and Labor to form majority government with projected win in Macnamara|url=https://www.abc.net.au/news/2022-05-30/anthony-albanese-and-labor-to-form-majority-government/101084236|access-date=30 May 2022|date=30 May 2022|work=ABC News}}</ref> All states and territories except [[Tasmania]] showed a swing in two-party-preferred vote from the Coalition to Labor, with the largest two-party-preferred swing being in [[Western Australia]] (10%). 
+
+While the Coalition was soundly defeated, the results did not translate into a [[landslide victory]] for Labor due to electoral successes by the Greens and independent candidates. Several formerly safe Coalition seats in urban and suburban areas, including many that had been in non-Labor hands for decades, were won by [[teal independents]]. Several of these independents unseated Liberal incumbents, including Treasurer and Deputy Liberal Leader [[Josh Frydenberg]]. The Greens also won more than one lower house seat for the first time in their history due to increased support nationwide, with three seat gains in inner-city [[Brisbane]]. The combined major party vote for Labor and the Coalition was the lowest on record with 68.5%, while the minor party and independent vote was at its highest at 31.5%.<ref>{{cite news |url=https://www.theguardian.com/news/datablog/2022/may/28/votes-for-labor-and-the-coalition-plummet-to-all-time-low-as-australia-swings-away-from-major-parties |title=Votes for Labor and the Coalition plummet to all-time low as Australia swings away from major parties |newspaper=[[The Guardian]] |location=London |issn=0261-3077 |date=28 May 2022 |access-date=2022-06-01}}</ref> 
+
+Late on election night, Morrison conceded that the Coalition was no longer able to form even a [[minority government]], and announced his forthcoming resignation as Liberal leader.<ref>{{cite news |date=21 May 2022 |title=Live: Morrison calls Albanese to concede electoral defeat as Labor, independents unseat Coalition |publisher=ABC News |url=https://www.abc.net.au/news/2022-05-21/federal-election-live-blog-scott-morrison-anthony-albanese/101085640 |access-date=21 May 2022}}</ref> Albanese was sworn in as Prime Minister on 23 May 2022.<ref>{{cite news|url=https://www.skynews.com.au/australia-news/politics/watch-live-anthony-albanese-sworn-in-as-australias-31st-prime-minister-in-canberra/news-story/cd751190142d42580ad141f77b123001|title=Anthony Albanese sworn in as Australia's 31st Prime Minister in Canberra following historic Labor election victory|first=Tyrone|last=Clarke|publisher=Sky News|date=23 May 2022|accessdate=23 May 2022}}</ref><ref>{{cite news|url=https://www.abc.net.au/news/2022-05-23/anthony-albanese-sworn-in-as-31st-prime-minister/13894004|title=Video: Anthony Albanese sworn in as 31st Prime Minister of Australia|publisher=Australia Broadcasting Corporation|date=23 May 2022|accessdate=23 May 2022}}</ref><ref>{{cite news|url=https://www.abc.net.au/news/2022-05-21/labor-anthony-albanese-projected-to-win-2022-federal-election/101084660|title=With Anthony Albanese at the helm, Labor is projected to win 2022 federal election|last=Worthington|first=Brett|date=22 May 2022|newspaper=The Guardian|access-date=22 May 2022}}</ref> With projections reached in all divisions, Labor won 77 seats, enough for a three seat majority, which would be reduced to two if they elect their own [[Speaker of the Australian House of Representatives|speaker]]. The Coalition fell to 58 seats, the Greens claimed their highest amount of lower house seats with four, and the 12 other seats on the [[Crossbencher|crossbench]] were won by independents and minor party MPs. The result meant Labor achieved their first parliamentary majority since 2007.<ref>{{cite news |last1=Fuller |first1=Kelly |last2=Fernandez |first2=Tim |title=Labor wins marginal NSW seat of Gilmore, no more lower house seats in doubt |url=https://www.abc.net.au/news/2022-05-31/labor-projected-win-gilmore-fiona-phillips/101113882 |website=ABC News |date=31 May 2022 |publisher=Australian Broadcasting Corporation |access-date=1 June 2022}}</ref>
+
+In the upper house [[Australian Senate|Senate]], Labor is on track to win 15 seats and retain its 26 seat-share in the chamber. The Coalition is currently on 31 seats, a five-seat drop from the previous parliament, while the Greens are expected to win a seat in every state and finish with 12 members, which would be the biggest number of Greens Senators in Australian history. One Nation is on track to retain two seats, the [[Jacqui Lambie Network]] is likely to win an additional seat in Tasmania and thus have two Senators, whilst independent candidate [[David Pocock]] is expected to win the second of two seats in the [[Australian Capital Territory]] (the first time an ACT senator elected was not a Labor or Liberal party member). There are currently two seats listed as in doubt by ABC News in Victoria and South Australia with the Liberals ahead. If the Coalition gets the two seats in doubt, Labor will need 13 votes from a crossbench of 17 (including 12 Greens) to pass legislation the Coalition would not support.<ref>{{cite web|url=https://www.abc.net.au/news/elections/federal/2022/results/senate|title=Senate Results|work=ABC News|date=21 May 2022|access-date=2 June 2022}}</ref>
+
+Albanese is the fourth Labor leader to lead the party into government from opposition since [[World War II]], after [[Gough Whitlam]] in [[1972 Australian federal election|1972]], [[Bob Hawke]] in [[1983 Australian federal election|1983]], and [[Kevin Rudd]] in [[2007 Australian federal election|2007]].
+
+==Background==
+===Previous election===
+{{main|2019 Australian federal election}}
+{{see also|Results of the 2019 Australian federal election (House of Representatives)}}
+{{see also|Results of the 2019 Australian federal election (Senate)}}
+At the previous election in May 2019, the [[Liberal Party of Australia|Liberal]]/[[National Party of Australia|National]] [[Coalition (Australia)|Coalition]], led by [[Scott Morrison]], formed government winning 77 seats in the House of Representatives, enough for a three-seat majority,<ref name="greenblog">{{cite web |last=Green |first=Antony |title=Exposing a Rubbish Statistic – there were more Labor than Liberal voters at the 2019 Federal election |url=https://antonygreen.com.au/exposing-a-rubbish-statistic-there-were-more-labor-than-liberal-voters-in-2019/ |website=Antony Green's Election Blog |access-date=11 April 2022 |archive-date=18 March 2022 |archive-url=https://web.archive.org/web/20220318214954/https://antonygreen.com.au/exposing-a-rubbish-statistic-there-were-more-labor-than-liberal-voters-in-2019/ |url-status=live}}</ref> whilst Labor claimed 68 seats and remained in [[Opposition (Australia)|opposition]].<ref name="greenblog"/> A further six seats were won by other parties and [[Independent politician|independents]], one each to the [[Australian Greens|Greens]], [[Centre Alliance]], and [[Katter's Australian Party]], and the remaining three by independents forming the [[Crossbencher|crossbench]].<ref name="greenblog"/> In the Senate, the Coalition made modest gains in most states and increased their share of seats to 35 overall, whilst Labor remained steady on 26, the Greens likewise on 9, [[Pauline Hanson's One Nation|One Nation]] and Centre Alliance down to 2 each, and [[Jacqui Lambie]] and [[Cory Bernardi]]'s minor parties with 1 seat each.<ref name="apl2019"/> This meant the Coalition required four additional votes to pass legislation.<ref name="apl2019">{{cite web |last=Muller |first=Damon |title=The 2019 federal election |url=https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/2019FederalElection |publisher=Australian Parliamentary Library |access-date=10 April 2022 |archive-date=10 April 2022 |archive-url=https://web.archive.org/web/20220410221507/https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/2019FederalElection |url-status=live}}</ref>
+
+===Composition of parliament===
+{{see also|46th Parliament of Australia#Membership changes}}
+The [[46th Parliament of Australia|46th Parliament]] was inaugurated on 2 July 2019. By this time the Labor Party had elected a new leader, replacing the outgoing [[Bill Shorten]] with [[Anthony Albanese]].<ref>{{cite news |last=Yosufzai |first=Rashida |title=Bill Shorten will step down as Labor leader after election defeat |url=https://www.sbs.com.au/news/bill-shorten-will-step-down-as-labor-leader-after-election-defeat |date=1 May 2019 |website=SBS News}} {{verify source |date=September 2019 |reason=This ref was deleted Special:Diff/898247597 by a bug in VisualEditor and later restored by a bot from the original cite located at Special:Permalink/898239040 cite #3 – verify the cite is accurate and delete this template. [[User:GreenC_bot/Job_18]]}}</ref><ref>{{cite news|url=https://www.abc.net.au/news/2019-05-27/anthony-albanese-the-new-labor-leader-following-election-loss/11152036?section=politics|title=Anthony Albanese to become Labor's new leader unopposed following shock federal election loss|date=27 May 2019|publisher=ABC News}}</ref> 
+
+In the Senate, [[Cory Bernardi]]'s resignation in January 2020 allowed the Coalition to replace him with a Liberal member, increasing their share of seats in the Senate to 36.<ref>{{cite news |last=Bonyhady |first=Nick |title=Conservative senator Cory Bernardi resigns from Parliament |url=https://www.smh.com.au/politics/federal/conservative-senator-cory-bernardi-resigns-from-parliament-20200120-p53t08.html |access-date=21 April 2022 |work=The Sydney Morning Herald |date=20 January 2020 |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421221929/https://www.smh.com.au/politics/federal/conservative-senator-cory-bernardi-resigns-from-parliament-20200120-p53t08.html |url-status=live}}</ref> They retained this figure until [[Northern Territory]] senator [[Sam McMahon]] resigned from the [[Country Liberal Party]] in January 2022, four months before the election. She joined the [[Liberal Democratic Party (Australia)|Liberal Democratic Party]] on 8 April 2022.<ref>{{cite news |date=8 April 2022 |title=NT politician Sam McMahon joins ex-Queensland premier's party to run for re-election |publisher=ABC News |url=https://www.abc.net.au/news/2022-04-08/sam-mcmahon-announces-federal-senate-election-bid-nt/100975390 |access-date=8 April 2022 |archive-date=11 April 2022 |archive-url=https://web.archive.org/web/20220411113907/https://www.abc.net.au/news/2022-04-08/sam-mcmahon-announces-federal-senate-election-bid-nt/100975390 |url-status=live|author=Garrick, Matt}}</ref>
+
+In the House of Representatives, two Coalition MPs ([[Llew O'Brien]] and [[Darren Chester]]) departed their respective party-room caucuses, though retained their membership of the Morrison Government.<ref>{{cite web|url=https://www.smh.com.au/politics/federal/chester-s-departure-might-be-least-of-joyce-s-troubles-right-now-20210926-p58uvg.html|title=Chester's departure might be least of Joyce's troubles right now|date=26 September 2021 |publisher=Sydney Morning Herald|accessdate=22 May 2022}}</ref> The government's share of seats in the House dropped when [[Craig Kelly]], the member for [[Division of Hughes|Hughes]], left the Liberal Party in August 2021 to become an independent and sit on the crossbench.<ref>{{cite web|url=https://www.theguardian.com/australia-news/2021/feb/23/craig-kelly-quits-liberal-party-to-move-to-the-crossbench|title=Craig Kelly quits Liberal party to move to the crossbench|work=The Guardian|date=23 February 2021 |accessdate=22 May 2022}}</ref> This left the government with a one-seat majority (76 out of 151), though considering the position of the [[Speaker of the Australian House of Representatives|Speaker]], who is obliged not to vote to create a majority where none is present, the government functioned from this point to the election in technical-minority status. On 7 April 2022, three days prior to the election being called, [[Liberal National Party of Queensland|Liberal National Party]] MP [[George Christensen]] announced his resignation from the party and became an independent, dropping the government to 75 seats at the end of the parliamentary term.<ref>{{cite news|url=https://www.abc.net.au/news/2022-01-19/george-christensen-resigns-chair-committee-covid-vaccine-comment/100767918|title=George Christensen steps down as chair of parliamentary committee after controversial COVID-19 vaccine comments|newspaper=ABC News |date=19 January 2022 |publisher=ABC|accessdate=22 May 2022}}</ref>
+
+There were two [[by-elections]] in the 46th parliament, both in 2020 in the seats of [[2020 Eden-Monaro by-election|Eden-Monaro]] and [[2020 Groom by-election|Groom]]; in both instances, the by-elections were won by the incumbent party.<ref>{{cite news |last1=Wheaton |first1=Claire |title=Eden-Monaro MP Mike Kelly resigns, prompting by-election |url=https://www.abc.net.au/news/2020-04-30/mike-kelly-eden-monaro-mp-resigns-triggering-by-election/12196936 |accessdate=30 April 2020 |work=ABC News |date=30 April 2020}}</ref><ref>{{cite news |last1=Chen |first1=David |last2=Robinson |first2=Lucy |title=Federal LNP MP John McVeigh resigns from Groom electorate in Toowoomba |url=https://www.abc.net.au/news/2020-09-18/federal-member-for-groom-john-mcveigh-resigns-toowoomba/12676980 |access-date=18 September 2020 |work=ABC Southern Queensland |publisher=Australian Broadcasting Corporation |date=18 September 2020}}</ref> [[Nick Champion]] resigned from the House of Representatives in February 2022 to contest the [[2022 South Australian state election|South Australian state election]].<ref>{{cite web|url=https://7news.com.au/politics/federal-labor-mp-nick-champion-resigns-c-5809219|title=Federal Labor MP Nick Champion resigns|date=23 February 2022 |publisher=7News|accessdate=22 May 2022}}</ref> A by-election was not held for his seat of [[Division of Spence|Spence]] as it would be too close to the federal election.<ref name=hor_29mar2022/>
+
+===Events of the 46th Parliament===
+Throughout the duration of the 46th Parliament, [[Scott Morrison]] remained Prime Minister and leader of the Liberal Party, and in so doing he became the first prime minister to serve a full term without facing a [[leadership spill]] since [[John Howard]] (1996–2007).<ref>{{cite web|url=https://www.smh.com.au/politics/federal/careful-they-might-hear-you-why-scott-morrison-s-ministry-is-so-quiet-20211007-p58y75.html|title=Careful, they might hear you: Why Scott Morrison's ministry is so quiet|last=Crowe|first=David|date=7 October 2021|work=The Sydney Morning Herald|access-date=14 January 2022|archive-date=14 January 2022|archive-url=https://web.archive.org/web/20220114064620/https://www.smh.com.au/politics/federal/careful-they-might-hear-you-why-scott-morrison-s-ministry-is-so-quiet-20211007-p58y75.html|url-status=live}}</ref> Deputy Prime Minister and National Party leader [[Michael McCormack (Australian politician)|Michael McCormack]] was challenged twice by his predecessor [[Barnaby Joyce]], unsuccessfully in [[2020 National Party of Australia leadership spill|February 2020]] and successfully in [[2021 National Party of Australia leadership spill|June 2021]].<ref>{{cite web|url=https://www.theguardian.com/australia-news/2021/jun/21/barnaby-joyce-to-return-as-deputy-pm-after-deposing-michael-mccormack-as-nationals-leader|title=New Nationals leader Barnaby Joyce says he's a 'better person' and offers 'best chance of winning'|work=The Guardian|date=21 June 2021 |accessdate=22 May 2022}}</ref>
+
+Key events during the [[Second Morrison Ministry|second term]] and first full term of the [[Morrison Government]] included the [[Black Summer bushfires]], the ongoing [[COVID-19 pandemic in Australia|COVID-19 pandemic]], the [[2021 Australian Parliament House sexual misconduct allegations|Parliament House sexual misconduct allegations]], and the formation of the [[AUKUS]] security pact.<ref>{{cite news|url=https://www.bloomberg.com/opinion/articles/2021-03-25/lurid-sex-scandals-cost-australia-s-scott-morrison-his-covid-dividend|title=Lurid Sex Scandals Cost Australia's Scott Morrison His COVID Dividend|newspaper=Bloomberg.com |date=25 March 2021 |publisher=Bloomberg|accessdate=22 May 2022}}</ref><ref>{{cite web|url=https://www.cfr.org/blog/could-aukus-deal-strengthen-deterrence-against-china-and-yet-come-real-cost-australia|title=Could the AUKUS Deal Strengthen Deterrence Against China—And Yet Come at a Real Cost to Australia?|publisher=CFR|accessdate=21 May 2022}}</ref> Morrison won praise for his response to the COVID-19 pandemic in 2020, including launching the [[National Cabinet (Australia)|National Cabinet]] and [[JobKeeper]] programs, but he struggled to manage the [[COVID-19 vaccination in Australia|vaccination roll out]] and [[COVID-19 testing|testing regime]] as new [[variants of SARS-CoV-2]] emerged.<ref>{{cite web|url=https://www.theguardian.com/australia-news/2021/jul/22/im-sorry-scott-morrison-apologises-for-slow-pace-of-australias-vaccine-rollout|title='I'm sorry': Scott Morrison apologises for slow pace of Australia's vaccine rollout|work=The Guardian|date=22 July 2021 |accessdate=22 May 2022}}</ref> He faced further criticism for holidaying in Hawaii during the Black Summer bush fires, being accused of lying by French President [[Emmanuel Macron]] in the aftermath of the AUKUS agreement, and lacking ambition on climate change during [[2021 United Nations Climate Change Conference|COP26]].<ref>{{cite web|url=https://www.theguardian.com/australia-news/2019/dec/21/scott-morrison-hawaii-horror-show-pr-disaster-unfolded|title=Scott Morrison's Hawaii horror show: how a PR disaster unfolded|work=The Guardian|date=20 December 2019 |accessdate=22 May 2022}}</ref><ref>{{cite news|url=https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html|title=Australia's climate pledges fall short, again, critics say.|work=[[The New York Times]]|date=3 November 2021 |accessdate=22 May 2022|last1=Victor |first1=Daniel |last2=Cave |first2=Damien }}</ref><ref>{{cite news|url=https://www.abc.net.au/news/2021-11-02/why-macron-is-calling-scott-morrison-a-liar-over-submarines/100587732|title=Prime Minister Scott Morrison has been accused of lying to the French over the submarine deal. Here's what got us to this point|newspaper=ABC News |date=2 November 2021 |publisher=ABC|accessdate=22 May 2022}}</ref>
+
+The opposition Labor Party elected [[Anthony Albanese]] as party leader unopposed, 12 days after [[Bill Shorten]] lost the May 2019 election. The [[Shadow Ministry of Anthony Albanese|Albanese-led Opposition]] struggled to make an impact in the early days of the COVID-19 pandemic.<ref>{{cite web|url=https://theconversation.com/with-the-government-on-the-ropes-anthony-albanese-has-a-fighting-chance-158129|title=With the government on the ropes, Anthony Albanese has a fighting chance|last=Bongiorno|first=Frank|date=7 April 2021|work=The Conservation|access-date=14 January 2022|archive-date=14 January 2022|archive-url=https://web.archive.org/web/20220114064615/https://theconversation.com/with-the-government-on-the-ropes-anthony-albanese-has-a-fighting-chance-158129|url-status=live}}</ref> His "most significant policy announcement" before 2022 was a commitment to reduce [[Greenhouse gas emissions by Australia|emissions]] by 43% by 2030 under a Labor government.<ref>{{cite web|url=https://www.theguardian.com/australia-news/2021/dec/03/anthony-albanese-commits-labor-to-emissions-reduction-target-of-43-by-2030|title=Anthony Albanese commits Labor to emissions reduction target of 43% by 2030|last=Murphy|first=Katharine|website=[[The Guardian]]|date=3 December 2021|access-date=14 January 2022|archive-date=14 January 2022|archive-url=https://web.archive.org/web/20220114064619/https://www.theguardian.com/australia-news/2021/dec/03/anthony-albanese-commits-labor-to-emissions-reduction-target-of-43-by-2030|url-status=live}}</ref>
+
+[[Australian Greens]] leader [[Richard Di Natale]] resigned in February 2020, replaced by the party's only lower house MP [[Adam Bandt]], who was [[Australian Greens leadership elections#2020|elected unopposed]].<ref>{{cite news|url=https://www.abc.net.au/news/2020-02-04/adam-bandt-elected-federal-greens-leader/11924970|title=Adam Bandt elected unopposed as federal Greens leader; Larissa Waters and Nick McKim as deputies|newspaper=ABC News |date=3 February 2020 |publisher=ABC|accessdate=22 May 2022}}</ref> Among minor parties, controversial figure [[Craig Kelly]] resigned from the Liberal Party and became the leader of [[Clive Palmer]]'s [[United Australia Party (2013)|United Australia Party]] in 2021.<ref>{{cite web|url=https://www.theguardian.com/australia-news/2021/sep/08/clive-palmer-and-craig-kelly-using-spam-text-messages-to-capture-rightwing-vote-ahead-of-election-expert-says|title=Clive Palmer and Craig Kelly using spam text messages to capture rightwing vote ahead of election, expert says|work=The Guardian|date=8 September 2021 |accessdate=22 May 2022}}</ref>
+
+===Change in party registration rules===
+{{see also|Commonwealth Electoral Act 1918#2021 amendments}}
+In September 2021, legislation was passed to amend the ''[[Commonwealth Electoral Act 1918]]'' and tighten rules surrounding the registration of political parties. Changes to party registration rules were reportedly the effect of an increase of parties on the Senate ballot, which resulted in the requirement of magnifying sheets for some voters to read the ballot, and a perception that voters would be misled by names of some minor parties.<ref name="partyregchange"/>
+
+The first change was the increase of membership requirements for a party from 500 to 1,500.<ref name="partyregchange">{{cite news |title=Changes to federal election rules including party sizes and names pass Parliament |url=https://www.abc.net.au/news/2021-08-26/federal-election-rule-change-party-size-name-pass-parliament/100410134 |last=Lowrey |first=Tom |access-date=5 January 2022 |work=ABC News |date=26 August 2021 |archive-date=5 January 2022 |archive-url=https://web.archive.org/web/20220105101844/https://www.abc.net.au/news/2021-08-26/federal-election-rule-change-party-size-name-pass-parliament/100410134 |url-status=live }}</ref><ref name="partyregchange2">{{cite web|url=https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/guide/index.htm|title=Electoral Legislation Amendment (Party Registration Integrity) Act 2021 (Party Registration Act)|website=Australian Electoral Commission|access-date=22 March 2022|archive-date=28 March 2022|archive-url=https://web.archive.org/web/20220328170346/https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/guide/index.htm|url-status=live}}</ref> This resulted in the federal registration of non-parliamentary minor parties who could not prove they had at least 1,500 members, including the [[Christian Democratic Party (Australia)|Christian Democratic Party]] and [[Democratic Labour Party (Australia)|Democratic Labour Party]] in March 2022.<ref>{{cite web|url=https://www.aec.gov.au/parties_and_representatives/Party_Registration/Deregistered_parties/index.htm|title=Deregistered political parties|website=Australian Electoral Commission|access-date=22 March 2022|archive-date=22 March 2022|archive-url=https://web.archive.org/web/20220322031621/https://www.aec.gov.au/parties_and_representatives/Party_Registration/Deregistered_parties/index.htm|url-status=live}}</ref>
+
+The second change was that parties cannot have names that were too similar to political parties registered before them. This meant that new parties are prevented from registering a party name and/or logo "too similar to an existing party's".<ref name="partyregchange"/><ref name="partyregchange2"/> As for existing registered parties, a party may also object to a similar name and/or logo used by another party, if the latter party was registered later than the former party. If the [[Australian Electoral Commission]] (AEC) is satisfied with the objection, it can uphold the objection, and the later-registered party will be registered within a month of the upholding, if an application to change the name and/or logo is not made or has been denied.<ref>{{cite web|url=https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6755_aspassed/toc_pdf/21101b01.pdf;fileType=application%2Fpdf|title=Electoral Legislation Amendment (Party Registration Integrity) Bill 2021 – As passed by both Houses|website=Parliament of Australia|access-date=22 March 2022|archive-date=28 August 2021|archive-url=https://web.archive.org/web/20210828094922/https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6755_aspassed/toc_pdf/21101b01.pdf;fileType=application%2Fpdf|url-status=live}}</ref>
+
+This "similar name" rule was used by the [[Liberal Party of Australia|Liberal Party]] against the [[Liberal Democratic Party (Australia)|Liberal Democratic Party]] (LDP) and [[The New Liberals]], with both objections upheld by the AEC. This forced The New Liberals to change its name to TNL to be registered and forced the LDP to apply to change its name to the Liberty and Democracy Party.<ref>{{cite web |title=Notice under s 133(1A)(a) of the Commonwealth Electoral Act 1918 |url=https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/Registration_Decisions/2022/registration-approved-notice-tnl.pdf |website=Australian Electoral Commission |access-date=18 March 2022 |archive-date=25 March 2022 |archive-url=https://web.archive.org/web/20220325202947/https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/Registration_Decisions/2022/registration-approved-notice-tnl.pdf |url-status=live }}</ref> The LDP then withdrew its name change application on 22 March 2022.<ref>{{cite web|url=https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/applications/files/2022/advertisement-change-of-name-liberal-democratic-party.pdf|title=Register of Political Parties – Liberal Democratic Party|website=Australian Electoral Commission|access-date=22 March 2022|archive-date=27 March 2022|archive-url=https://web.archive.org/web/20220327223340/https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/applications/files/2022/advertisement-change-of-name-liberal-democratic-party.pdf|url-status=live}}</ref><ref>{{cite web|url=https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/Registration_Decisions/2022/liberal-democratic-party-statement-of-reasons.pdf|title=Notice of Party Registration Decision – Application to Change the Register of Political Parties – Liberal Democratic Party|website=Australian Electoral Commission|date=1 April 2022|access-date=11 April 2022|archive-date=7 April 2022|archive-url=https://web.archive.org/web/20220407122804/https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/Registration_Decisions/2022/liberal-democratic-party-statement-of-reasons.pdf|url-status=live}}</ref> As a result, on 1 April 2022, the AEC gave notice to the party that it would consider registering the latter, giving one month for the party to appeal the notice.<ref>{{cite web|url=https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/applications/files/2022/web-notice-of-intention-to-deregister-liberal-democratic-party.pdf|title=Notice of intention to deregister – Liberal Democratic Party|website=Australian Electoral Commission|date=1 April 2022|access-date=11 April 2022|archive-date=8 April 2022|archive-url=https://web.archive.org/web/20220408023739/https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/applications/files/2022/web-notice-of-intention-to-deregister-liberal-democratic-party.pdf|url-status=live}}</ref> However, as the writs for the election were issued the following week on 11 April, the party register then would be "frozen" and this meant the party was allowed to contest the election with its current name.<ref>{{cite web|url=https://antonygreen.com.au/loophole-allows-liberal-democrats-to-retain-party-name/|title=Loophole allows Liberal Democrats to Retain their Party Name|publisher=Antony Green's Election Blog|date=5 April 2022|access-date=12 April 2022|archive-date=11 April 2022|archive-url=https://web.archive.org/web/20220411234329/https://antonygreen.com.au/loophole-allows-liberal-democrats-to-retain-party-name/|url-status=live}}</ref>
+
+The [[Australian Labor Party|Labor Party]] also used the "similar name" rule against the Democratic Labour Party and the objection was upheld by the AEC, but the latter party was eventually deregistered for not meeting the membership number requirement.<ref>{{cite web|url=https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/Registration_Decisions/2021/aec-web-notice-democratic-labour-party.pdf|title=Notice Of Party Registration Decision Objection To Continued Use Of A Name And Abbreviation Australian Labor Party (ALP)'S Objection To Democratic Labour Party|website=Australian Electoral Commission|date=19 November 2021|access-date=22 March 2022|archive-date=20 March 2022|archive-url=https://web.archive.org/web/20220320030156/https://aec.gov.au/Parties_and_Representatives/Party_Registration/Registration_Decisions/2021/aec-web-notice-democratic-labour-party.pdf|url-status=live}}</ref><ref>{{cite web|url=https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/Deregistered_parties/files/web-notice-to-deregister-democratic-labour-party.pdf|title=Notice of deregistration Democratic Labour Party|website=Australian Electoral Commission|date=4 March 2022|access-date=22 March 2022|archive-date=23 March 2022|archive-url=https://web.archive.org/web/20220323161033/https://www.aec.gov.au/Parties_and_Representatives/Party_Registration/Deregistered_parties/files/web-notice-to-deregister-democratic-labour-party.pdf|url-status=live}}</ref>
+
+===Party preselection issues===
+{{see also|Australian Labor Party (Victorian Branch)|Liberal Party of Australia (New South Wales Division)}}
+Both the Labor Party and Liberal Party experienced preselection issues, where they were unable to finalise candidates for many of the seats or the Senate as late as early April 2022, less than two weeks before the election was called. This resulted in the intervention by the parties' national executives or nominated committees to select the candidates and bypassing local voting by rank-and-file members. The New South Wales state division of the Liberal Party was unable to finalise candidates for many seats by March 2022 due to the alleged failure of Morrison's representative [[Alex Hawke]] to attend internal Liberal Party nomination review committee meetings and COVID-19 complications resulting in the inability to elect the state executive in November 2020.<ref>{{cite news|url=https://www.abc.net.au/news/2022-02-24/nsw-liberal-party-pre-selection-court-stoush/100857000|title=Court asked to rule in long-running Liberal Party power struggle over who gets to choose candidates in NSW seats|publisher=ABC News|date=24 February 2022|access-date=29 March 2022|archive-date=30 March 2022|archive-url=https://web.archive.org/web/20220330023355/https://www.abc.net.au/news/2022-02-24/nsw-liberal-party-pre-selection-court-stoush/100857000|url-status=live}}</ref> This had forced the federal executive of the party to temporarily dissolve the state executive on two occasions (4 to 8 March, and 27 March to 2 April) under the party constitution, and set up a committee to intervene in preselection processes. The committee was made up of Morrison, [[Premier of New South Wales|New South Wales Premier]] and state party leader [[Dominic Perrottet]], and former party president [[Chris McDiven]].<ref>{{cite web|url=https://7news.com.au/politics/federal-liberals-weigh-up-nsw-candidates-c-5923144|title=Federal Liberals step in over NSW stoush|publisher=7News|date=4 March 2022|access-date=29 March 2022|archive-date=28 March 2022|archive-url=https://web.archive.org/web/20220328080347/https://7news.com.au/politics/federal-liberals-weigh-up-nsw-candidates-c-5923144|url-status=live}}</ref><ref>{{cite web|url=https://www.canberratimes.com.au/story/7645072/pm-takes-joint-control-of-nsw-liberals-can-choose-candidates/?cs=14264|title=Federal arm of Liberal Party takes over NSW branch for not complying with preselection rules|newspaper=The Canberra Times|date=4 March 2022|access-date=29 March 2022|archive-date=28 March 2022|archive-url=https://web.archive.org/web/20220328080336/https://www.canberratimes.com.au/story/7645072/pm-takes-joint-control-of-nsw-liberals-can-choose-candidates/?cs=14264|url-status=live}}</ref><ref>{{cite web|url=https://www.canberratimes.com.au/story/7674988/federal-liberals-take-over-nsw-branch-again/|title=Scott Morrison, Dominic Perrottet and Christine McDiven take over NSW Liberals branch for second time in a month|newspaper=The Canberra Times|date=27 March 2022|access-date=29 March 2022|archive-date=28 March 2022|archive-url=https://web.archive.org/web/20220328081857/https://www.canberratimes.com.au/story/7674988/federal-liberals-take-over-nsw-branch-again/|url-status=live}}</ref>
+
+While the Liberal state executive was dissolved, the committee was allowed to "hand-pick" party candidates for the election and bypass local pre-selection ballots. It endorsed the preselection of Hawke, minister [[Sussan Ley]] and backbencher [[Trent Zimmerman]] in their seats on 6 March, and endorsed candidates on 2 April for nine key seats that the party was trying to win, including [[Division of Warringah|Warringah]], [[Division of Hughes|Hughes]], [[Division of Eden-Monaro|Eden-Monaro]], and [[Division of Parramatta|Parramatta]].<ref>{{cite web|url=https://7news.com.au/politics/pm-avoids-minister-pre-selection-stoush-c-5980042|title=PM avoids minister pre-selection stoush|publisher=7News|date=8 March 2022|access-date=30 March 2022|archive-date=26 April 2022|archive-url=https://web.archive.org/web/20220426084950/https://7news.com.au/politics/pm-avoids-minister-pre-selection-stoush-c-5980042|url-status=live}}</ref><ref>{{cite news|url=https://www.abc.net.au/news/2022-04-02/federal-liberals-intervene-to-make-nsw-preselections/100961474|title=Liberal federal executive intervenes to select candidates for nine NSW seats|publisher=ABC News|date=2 April 2022|access-date=4 April 2022|archive-date=3 April 2022|archive-url=https://web.archive.org/web/20220403231646/https://www.abc.net.au/news/2022-04-02/federal-liberals-intervene-to-make-nsw-preselections/100961474|url-status=live}}</ref> Some party members sought to challenge the legitimacy of the committee's preselection in court, which would overturn the preselection of Hawke, Ley, Zimmerman and the other nine candidates.<ref name=30mar22>{{cite news|url=https://www.theguardian.com/australia-news/2022/mar/30/nsw-liberal-preselection-crisis-why-morrison-and-perrottet-want-to-rush-case-to-high-court|title=NSW Liberal preselection crisis: why Morrison and Perrottet want to rush case to high court|newspaper=The Guardian|date=30 March 2022|access-date=31 March 2022|archive-date=30 March 2022|archive-url=https://web.archive.org/web/20220330231010/https://www.theguardian.com/australia-news/2022/mar/30/nsw-liberal-preselection-crisis-why-morrison-and-perrottet-want-to-rush-case-to-high-court|url-status=live}}</ref> On 5 April, the [[New South Wales Court of Appeal]] ruled that the court had no jurisdiction to make decisions relating to the constitutions of political parties, thereby ruling the preselection of the 12 candidates valid.<ref>{{cite news|url=https://www.abc.net.au/news/2022-04-05/nsw-liberal-party-pre-selection-court-appeal-dismissed/100966516|title=Scott Morrison's court win as appeal against NSW Liberal pre-selections dismissed|publisher=ABC News|date=5 April 2022|access-date=5 April 2022|archive-date=5 April 2022|archive-url=https://web.archive.org/web/20220405050852/https://www.abc.net.au/news/2022-04-05/nsw-liberal-party-pre-selection-court-appeal-dismissed/100966516|url-status=live}}</ref> The legal challenge was further brought into [[High Court of Australia]] for appeal but was dismissed on 8 April, two days before the election was called.<ref>{{cite news|url=https://www.abc.net.au/news/2022-04-08/high-court-throws-out-liberal-preselection-matthew-camenzuli/100978564|title=High Court throws out challenge to NSW Liberal preselections, clearing way for Prime Minister to call federal election|publisher=ABC News|date=8 April 2022|access-date=11 April 2022|archive-date=11 April 2022|archive-url=https://web.archive.org/web/20220411015711/https://www.abc.net.au/news/2022-04-08/high-court-throws-out-liberal-preselection-matthew-camenzuli/100978564|url-status=live}}</ref>
+
+The preselection process in the Victorian branch of the Labor Party had been taken over by the [[Australian Labor Party National Executive|Labor Party National Executive]] in June 2020 until 2023 as a result of [[branch-stacking]] allegations within the party. Voting rights of all members were suspended and candidates would be chosen by the National Executive.<ref>{{cite news|url=https://www.abc.net.au/news/2020-06-17/labor-party-alp-pledges-to-clean-up-victorian-branch/12362744|title=Labor Party's national executive pledges to clean up troubled Victoria branch|website=ABC News|date=17 June 2020|access-date=17 June 2020|archive-date=17 June 2020|archive-url=https://web.archive.org/web/20200617024720/https://www.abc.net.au/news/2020-06-17/labor-party-alp-pledges-to-clean-up-victorian-branch/12362744|url-status=live}}</ref> In early March 2022, the Labor Senate ticket for Victoria for the May federal election had still not yet been decided. It was reported that Senators [[Kimberley Kitching]] and [[Kim Carr]] might face preselection challenges and could lose preselection for the Senate ticket in the election.<ref>{{cite web|url=https://www.theguardian.com/australia-news/2022/mar/03/long-serving-labor-senator-kim-carr-set-to-lose-seat-in-preselection-challenge|title=Long-serving Labor senator Kim Carr set to lose seat in preselection challenge|work=The Guardian|date=3 March 2022|access-date=30 March 2022|archive-date=28 March 2022|archive-url=https://web.archive.org/web/20220328072248/https://www.theguardian.com/australia-news/2022/mar/03/long-serving-labor-senator-kim-carr-set-to-lose-seat-in-preselection-challenge|url-status=live|last=Martin|first=Sarah}}</ref> Kitching died from a heart attack a week later, and Carr later decided to retire from the election. On 28 March 2022, the National Executive was able to finalise two new candidates to replace Kitching and Carr, and another candidate for the [[Division of Holt]].<ref>{{cite web|url=https://7news.com.au/politics/scramble-to-finalise-election-candidates-c-6228318|title=Labor finalise crucial election candidates|publisher=7News|date=28 March 2022|access-date=30 March 2022|archive-date=28 March 2022|archive-url=https://web.archive.org/web/20220328070309/https://7news.com.au/politics/scramble-to-finalise-election-candidates-c-6228318|url-status=live}}</ref>
+
+Preselection issues in the Labor Party were not limited to the Victorian branch. On the same day as the replacements for Kitching and Carr were finalised, the National Executive "[[Parachute candidate|parachuted]]" [[Andrew Charlton (politician)|Andrew Charlton]] into the [[Division of Parramatta]] in New South Wales, bypassing a local preselection with three candidates from diverse ethnic backgrounds. This prompted a backlash from local party members and the incumbent retiring Labor member for Parramatta [[Julie Owens]].<ref>{{cite news|url=https://www.theguardian.com/australia-news/2022/mar/29/disillusionment-grows-within-labor-about-the-partys-commitment-to-cultural-diversity|title=Disillusionment grows within Labor about the party's commitment to cultural diversity|newspaper=The Guardian|date=29 March 2022|access-date=30 March 2022|archive-date=30 March 2022|archive-url=https://web.archive.org/web/20220330004515/https://www.theguardian.com/australia-news/2022/mar/29/disillusionment-grows-within-labor-about-the-partys-commitment-to-cultural-diversity|url-status=live}}</ref>
+
+===Independents===
+In the [[2013 Australian federal election|2013 federal election]], the [[Voices for Indi]] organisation successfully backed independent candidate [[Cathy McGowan (politician)|Cathy McGowan]] to defeat the incumbent Liberal member of parliament [[Sophie Mirabella]] in the [[Division of Indi]]. McGowan was reelected in 2016, retiring after two terms to be succeeded by fellow independent [[Helen Haines]]. McGowan's victory inspired the campaign of independent [[Zali Steggall]] in [[2019 Australian federal election|2019]], who defeated the Liberal former Prime Minister [[Tony Abbott]] in the seat of [[Division of Warringah|Warringah]]. In addition to Haines and Steggall's campaigns for reelection, the 2022 election saw the candidacy of several challengers who were in turn inspired by Steggall.<ref>{{cite news|url=https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html|title=How a Group of Female Independents Aims to Revive Australian Democracy|work=The New York Times|date=19 May 2022 |accessdate=22 May 2022|last1=Cave |first1=Damien }}</ref> Termed "[[teal independents]]" (denoting a mix of [[classical liberal]] blue and [[environmentalist]] green), these candidates contested in Liberal heartlands notably including [[Division of Goldstein|Goldstein]], [[Division of Kooyong|Kooyong]], [[Division of Mackellar|Mackellar]], and [[Division of Wentworth|Wentworth]]. Each received funds from the political fundraising group [[Climate 200]].<ref>{{cite news |last1=Millar |first1=Royce |title=A secret party? Immoral? Explaining who the 'teal' independents really are |url=https://www.smh.com.au/politics/federal/a-secret-party-immoral-explaining-who-the-teal-independents-really-are-20220505-p5aio4.html |access-date=6 May 2022 |work=The Sydney Morning Herald |date=6 May 2022}}</ref>
+
+== State of electorates ==
+
+===Redistribution===
+{{see also|Divisions of the Australian House of Representatives|Redistribution (Australia)}}
+The [[Australian Electoral Commission]] is required, one year after the first sitting day for a new House of Representatives, to determine the number of members to which each State and Territory is entitled. If the number in any state changes, a redistribution will be required in those states. A redistribution will be postponed if it would begin within one year of the expiration of the House of Representatives. Demographic statistics for December 2019 released by the [[Australian Bureau of Statistics]] on 18 June 2020 were used to calculate the determination. The population counts confirmed that the number of seats in the House of Representatives was to return to 150, with Victoria gaining a seat (39), and Western Australia (15) and the Northern Territory (1) losing a seat each.<ref name="repent">{{cite web|last = Green|first = Antony|author-link = Antony Green|title = ABS Population Statistics Confirm Changes in House Representation|url = https://antonygreen.com.au/abs-population-statistics-confirm-changes-in-house-representation/|website = Antony Green's Election Blog|access-date = 18 June 2020|date = 18 June 2020|archive-date = 19 June 2020|archive-url = https://web.archive.org/web/20200619203059/https://antonygreen.com.au/abs-population-statistics-confirm-changes-in-house-representation/|url-status = live}}</ref><ref>{{cite web|publisher = [[Australian Electoral Commission]]|url = https://www.aec.gov.au/media/2020/07-03.htm|date = 3 July 2020|access-date = 2 April 2021|title = Determination of membership entitlement to the House of Representatives|type = Media Release|archive-date = 29 March 2021|archive-url = https://web.archive.org/web/20210329090727/https://www.aec.gov.au/media/2020/07-03.htm|url-status = live}}</ref>
+
+The abolition of the Northern Territory's second seat in the determination was controversial.<ref>{{cite news|title = Calls for Federal Government to save second NT lower house seat axed in redistribution|first = Jacqueline|last = Breen|date = 3 July 2020|access-date = 2 April 2021|work = [[ABC News (Australia)|ABC News]]|url = https://www.abc.net.au/news/2020-07-03/nt-calls-to-save-second-lower-house-seat-axed/12420032|archive-date = 30 September 2021|archive-url = https://web.archive.org/web/20210930225259/https://www.abc.net.au/news/2020-07-03/nt-calls-to-save-second-lower-house-seat-axed/12420032|url-status = live}}</ref> Labor Party senators [[Malarndirri McCarthy]] and [[Don Farrell]] put forward a [[private senator's bill]] which would guarantee the Northern Territory a minimum two seats in the House of Representatives, with the bill referred to the Joint Standing Committee on Electoral Matters.<ref name = ParlL-Muller/> In July 2020, election analyst [[Antony Green]] proposed to the Joint Standing Committee on Electoral Matters that the "[[harmonic mean]] method" be used to calculate the electoral representation entitlements for the territories.<ref>{{cite web|url = https://www.aph.gov.au/DocumentStore.ashx?id=1b4cbf9e-6763-437b-bf78-78626b6ad8de&subId=686254|last = Green|first = Antony|author-link = Antony Green|title = Fair Representation for the Territories – A Submission to the Joint Standing Committee of Electoral Matters|website = [[Parliament of Australia]]|date = July 2020|access-date = 11 December 2020|archive-date = 5 March 2021|archive-url = https://web.archive.org/web/20210305141615/https://www.aph.gov.au/DocumentStore.ashx?id=1b4cbf9e-6763-437b-bf78-78626b6ad8de&subId=686254|url-status = live}}</ref> Green also blogged on the history of representation and its applications to states and territories in light of the 2020 redistribution<ref>{{cite web|last = Green|first = Antony|author-link = Antony Green|url = https://antonygreen.com.au/2020-apportionment-of-seats-part-1-allocating-to-the-states/|title = 2020 Apportionment of Seats: Part 1 – Allocating to the States|website = Antony Green's Election Blog|date = 8 June 2020|access-date = 2 April 2021|archive-date = 18 March 2021|archive-url = https://web.archive.org/web/20210318045600/https://antonygreen.com.au/2020-apportionment-of-seats-part-1-allocating-to-the-states/|url-status = live}}</ref><ref>{{cite web|last = Green|author-link = Antony Green|first = Antony|url = https://antonygreen.com.au/2020-apportionment-of-seats-part-2-allocating-to-the-territories/|title = 2020 Apportionment of Seats: Part 2 – Allocating to the Territories|website = Antony Green's Election Blog|date = 9 June 2020|access-date = 11 December 2020|archive-date = 7 December 2020|archive-url = https://web.archive.org/web/20201207150350/https://antonygreen.com.au/2020-apportionment-of-seats-part-2-allocating-to-the-territories/|url-status = live}}</ref><ref>{{cite web|last = Green|first = Antony|author-link = Antony Green|url = https://antonygreen.com.au/2020-apportionment-of-seats-part-3-changing-the-formula-for-states/|title = 2020 Apportionment of Seats: Part 3 – Changing the Formula for States|website = Antony Green's Election Blog|date = 17 June 2020|access-date = 2 April 2021|archive-date = 18 March 2021|archive-url = https://web.archive.org/web/20210318045726/https://antonygreen.com.au/2020-apportionment-of-seats-part-3-changing-the-formula-for-states/|url-status = live}}</ref> and his advocacy proved persuasive.<ref name=ParlL-Muller/> In October 2020, deputy prime minister [[Michael McCormack (Australian politician)|Michael McCormack]] gave an assurance that the government and opposition would combine to overrule the AEC and maintain the Northern Territory's level of representation. The mechanism by which this would be used to achieved was unclear,<ref name="ntseats">{{cite news|title = Second Lower House NT seat saved as Labor, Coalition unite to overturn AEC change|first = Cameron|last = Gooley|url = https://www.abc.net.au/news/2020-10-08/nt-coalition-support-second-northern-territory-political-seat/12743626|access-date = 2 April 2021|work = [[ABC News (Australia)|ABC News]]|date = 8 October 2020|archive-date = 1 April 2021|archive-url = https://web.archive.org/web/20210401081230/https://www.abc.net.au/news/2020-10-08/nt-coalition-support-second-northern-territory-political-seat/12743626|url-status = live}}</ref> however, with Senator [[Mathias Cormann]] stating that a two-seat minimum for the territories would be legislated.<ref>{{cite news|first = Doug|last = Dingwall|work = [[The Canberra Times]]|title = Support for ACT, NT to have two-seat guarantee in lower house|url = https://www.canberratimes.com.au/story/6972488/support-for-act-nt-to-have-two-seat-guarantee-in-lower-house/|date = 17 October 2020|access-date = 2 April 2021|archive-date = 24 October 2020|archive-url = https://web.archive.org/web/20201024115742/https://www.canberratimes.com.au/story/6972488/support-for-act-nt-to-have-two-seat-guarantee-in-lower-house/|url-status = live}}</ref> Mandating a minimum number of seats for the Northern Territory but not the Australian Capital Territory was seen as potentially inequitable, though the ACT's level of representation was not under threat.<ref name = ParlL-Muller /> A 2003 report had also recommended against adopting mandatory minimum entitlements to seats in the House of Representatives for either of the territories.<ref>{{cite book|date = November 2003|title = Report of the Inquiry into increasing the minimum representation of the Australian Capital Territory and the Northern Territory in the House of Representatives|publisher = [[Parliament of Australia]]|url = https://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees?url=em/territories/report/fullreport.pdf|author = Joint Standing Committee on Electoral Matters|access-date = 2 April 2021|archive-date = 27 August 2021|archive-url = https://web.archive.org/web/20210827070303/https://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees?url=em%2Fterritories%2Freport%2Ffullreport.pdf|url-status = live}}</ref>
+
+Ultimately, the Joint Standing Committee recommended "enacting a harmonic mean for allocating seats between states and territories, with appropriate public explanation to build understanding for the reform".<ref name = ParlL-Muller/> The Parliament passed the ''Electoral Amendment (Territory Representation) Act'' on 9 December 2020, amending the ''[[Commonwealth Electoral Act 1918]]'' to use the harmonic mean method for determining representative entitlements for territories relative to states.<ref name=ntseatsfinal>{{cite web|url = https://www.abc.net.au/news/2020-12-10/nt-keeps-two-federal-seats-after-electoral-amendment-bill-passes/12969366|title = NT to keep two federal House of Representative seats at next election after legislation passes Parliament|work = [[ABC News (Australia)|ABC News]]|date = 9 December 2020|access-date = 2 April 2021|archive-date = 30 March 2021|archive-url = https://web.archive.org/web/20210330224133/https://www.abc.net.au/news/2020-12-10/nt-keeps-two-federal-seats-after-electoral-amendment-bill-passes/12969366|url-status = live}}</ref><ref name="billsenate">{{cite news|title = 'A shame job': Bill to safeguard two federal members for the NT a step closer to reality|url = https://www.abc.net.au/news/2020-12-03/bill-to-secure-two-nt-federal-members-passes-senate/12941366|access-date = 9 December 2020|work = [[ABC News (Australia)|ABC News]]|date = 3 December 2020|archive-date = 8 December 2020|archive-url = https://web.archive.org/web/20201208120749/https://www.abc.net.au/news/2020-12-03/bill-to-secure-two-nt-federal-members-passes-senate/12941366|url-status = live|author=Gooley, Cameron}}</ref> Consequently, the Northern Territory will retain two seats in the House of Representatives at the next election,<ref name=ntseatsfinal/> an outcome achieved without legislating any mandatory minimum level of representation.<ref name = ParlL-Muller>{{cite web|last = Muller|first = Damon|date = 2 December 2020|access-date = 11 December 2020|title = Electoral Amendment (Territory Representation) Bill 2020|publisher = [[Parliamentary Library of Australia]], [[Parliament of Australia]]|url = https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/December/Electoral_Amendment_Territory_Representation_Bill_2020|archive-date = 10 December 2020|archive-url = https://web.archive.org/web/20201210034653/https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/FlagPost/2020/December/Electoral_Amendment_Territory_Representation_Bill_2020|url-status = live}}</ref>
+
+{| class="wikitable" style="align=center;"
+|-
+!colspan=3|December 2020 determination
+|-
+!State
+!Seats
+!Change
+|-
+|New South Wales
+|align=center|47
+|align=center|{{steady}}
+|-
+|Victoria
+|align=center|39
+|align=center|{{increase}} 1
+|-
+|Queensland
+|align=center|30
+|align=center|{{steady}}
+|-
+|Western Australia
+|align=center|15
+|align=center|{{decrease}} 1
+|-
+|South Australia
+|align=center|10
+|align=center|{{steady}}
+|-
+|Tasmania
+|align=center|5
+|align=center|{{steady}}
+|-
+|Australian Capital Territory
+|align=center|3
+|align=center|{{steady}}
+|-
+|Northern Territory
+|align=center|2
+|align=center|{{steady}}
+|-
+!Total
+!151
+!{{steady}}
+|}
+
+In March 2021, the AEC published its proposal for this redistribution, involving the abolition of the [[Division of Stirling]] in Western Australia,<ref>{{cite web|url = https://www.aec.gov.au/Electorates/Redistributions/2021/wa/proposed-redistribution/files/Proposed-redistribution-of-WA-March-2021.pdf|title = Proposed redistribution of Western Australia into electoral divisions|date = March 2021|publisher = [[Australian Electoral Commission]]|author = Redistribution Committee for Western Australia|access-date = 2 April 2021|archive-date = 8 April 2021|archive-url = https://web.archive.org/web/20210408163608/https://aec.gov.au/Electorates/Redistributions/2021/wa/proposed-redistribution/files/Proposed-redistribution-of-WA-March-2021.pdf|url-status = live}}</ref> the creation of the new [[Division of Hawke]] in Victoria (named for former Prime Minister [[Bob Hawke]]), and the renaming of the existing [[Division of Corangamite]] to the Division of Tucker (in honour of [[Margaret Tucker]], "a [[Yorta Yorta people|Yorta Yorta woman]], for her significant work to create a more equal and understanding society for Aboriginal people").<ref>{{cite web|url = https://www.aec.gov.au/Electorates/Redistributions/2021/vic/proposed-redistribution/files/Proposed-redistribution-of-Victoria-March-2021.pdf|title = Proposed redistribution of Victoria into electoral divisions|date = March 2021|publisher = [[Australian Electoral Commission]]|author = Redistribution Committee for Victoria|access-date = 2 April 2021|archive-date = 4 April 2021|archive-url = https://web.archive.org/web/20210404104906/https://aec.gov.au/Electorates/Redistributions/2021/vic/proposed-redistribution/files/Proposed-redistribution-of-Victoria-March-2021.pdf|url-status = live}}</ref><ref>{{cite web|title = Proposed federal electoral divisions for Victoria released|type = Media Release|publisher = [[Australian Electoral Commission]]|url = https://www.aec.gov.au/media/2021/03-19.htm|date = 19 March 2021|access-date = 2 April 2021|archive-date = 26 November 2021|archive-url = https://web.archive.org/web/20211126030639/https://www.aec.gov.au/media/2021/03-19.htm|url-status = live}}</ref> When the AEC published its final determinations in June 2021, the abolition of Stirling<ref name="waredist">{{cite web |title=Announcement of names and boundaries of federal electoral divisions in Western Australia |url=https://www.aec.gov.au/Electorates/Redistributions/2021/wa/announce-names-boundaries.htm |publisher=Australian Electoral Commission |access-date=29 June 2021 |archive-date=13 June 2021 |archive-url=https://web.archive.org/web/20210613141029/https://www.aec.gov.au/Electorates/Redistributions/2021/wa/announce-names-boundaries.htm |url-status=live}}</ref> and creation of Hawke were confirmed,<ref name="vicredist">{{cite web |title=Announcement of final boundaries – Victorian federal redistribution |url=https://www.aec.gov.au/Electorates/Redistributions/2021/vic/announce-names-boundaries.htm |publisher=Australian Electoral Commission |access-date=29 June 2021 |archive-date=29 June 2021 |archive-url=https://web.archive.org/web/20210629053314/https://www.aec.gov.au/Electorates/Redistributions/2021/vic/announce-names-boundaries.htm |url-status=live}}</ref> but Corangamite would not be renamed to Tucker over concerns that it would be vandalised as "Fucker".<ref name="tucker">{{cite news |last1=Harris |first1=Rob |title=Graffiti fears rule out renaming electorate 'Tucker' |url=https://www.theage.com.au/politics/federal/graffiti-fears-rule-out-renaming-electorate-tucker-20210629-p585cq.html |access-date=29 June 2021 |work=The Age |date=29 June 2021 |archive-date=29 June 2021 |archive-url=https://web.archive.org/web/20210629093119/https://www.theage.com.au/politics/federal/graffiti-fears-rule-out-renaming-electorate-tucker-20210629-p585cq.html |url-status=live}}</ref>
+
+===Election pendulum (House of Representatives)===
+{{main|Pre-election pendulum for the 2022 Australian federal election}}
+
+==Voter registration==
+Enrollment of eligible voters is compulsory. Voters must notify the AEC within 8 weeks of a change of address or after turning 18. The electoral rolls are closed for new enrollments or update of details about a week after the issue of [[Writ of election#Australia|writs for election]].<ref name=CEAs155>{{cite web|url = http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s155.html|work = [[Commonwealth Electoral Act 1918]]|title = Section 155: Date for close of Rolls|publisher = [[Australasian Legal Information Institute]] (AustLII)|access-date = 2 April 2021|archive-date = 31 July 2017|archive-url = https://web.archive.org/web/20170731082910/http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s155.html|url-status = live}}</ref> Enrollment is optional for 16- or 17-year-olds, but they cannot vote until they turn 18,<ref>{{cite web|url=https://www.aec.gov.au/enrol/|title=Enrol to vote|website=Australian Electoral Commission|access-date=23 April 2021|archive-date=1 October 2019|archive-url=https://web.archive.org/web/20191001230634/https://www.aec.gov.au/enrol/|url-status=live}}</ref> and persons who have applied for Australian citizenship may also apply for provisional enrollment which takes effect on the granting of citizenship.<ref>Commonwealth Electoral Act 1918, s. 99A.</ref> A total of 17,228,900 people were enrolled to vote in the election, which meant that 96.8% of all eligible Australians were enrolled on the electoral roll.<ref>{{cite web|url=https://www.aec.gov.au/media/2022/04-21.htm|title=Final enrolment numbers now available|work=aec.gov.au|date=21 April 2022|access-date=21 April 2022|archive-date=21 April 2022|archive-url=https://web.archive.org/web/20220421080303/https://www.aec.gov.au/media/2022/04-21.htm|url-status=live}}</ref>
+
+==Election date==
+{{see also|Electoral system of Australia#Election day}}
+The constitutional and legal provisions which impact on the choice of election dates include:<ref>{{cite web|last = Lundie|first = Rob|date = 25 June 2009|url = http://www.aph.gov.au/library/pubs/BN/2008-09/aust_elections.htm|title = Australian elections timetable|publisher = [[Parliamentary Library of Australia]], [[Parliament of Australia]]|archive-url = https://web.archive.org/web/20110108212031/http://www.aph.gov.au/library/pubs/bn/2008-09/Aust_elections.htm|archive-date = 8 January 2011|url-status = dead}}</ref><ref name=green_date>{{cite web|last1=Riga|first1=Jessica|url=https://www.abc.net.au/news/2022-04-10/federal-election-live-may-21-scott-morrison/100960362/|title=Prime Minister Scott Morrison announces May 21 election|publisher=ABC|date=10 April 2022|access-date=9 April 2022|archive-date=9 April 2022|archive-url=https://web.archive.org/web/20220409231541/https://www.abc.net.au/news/2022-04-10/federal-election-live-may-21-scott-morrison/100960362|url-status=live}}</ref>
+* [[Section 12 of the Constitution of Australia|Section 12 of the Constitution]] says: "The Governor of any State may cause writs to be issued for the election of Senators for that State."<ref name = CoAs12>{{cite web|url = http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/s12.html|title = Section 12: Issue of writs|work = [[Commonwealth of Australia Constitution Act]] 1900|publisher = [[Australasian Legal Information Institute]] (AustLII)|access-date = 2 April 2021|archive-date = 29 February 2020|archive-url = https://web.archive.org/web/20200229071616/http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/s12.html|url-status = live}}</ref>
+* [[Section 13 of the Constitution of Australia|Section 13 of the Constitution]] provides that the election of senators shall be held in the period of twelve months before the places become vacant.<ref name = CoAs13>{{cite web|work = [[Commonwealth of Australia Constitution Act]] 1900|url = http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/s13.html|title = Section 13: Rotation of Senators|publisher = [[Australasian Legal Information Institute]] (AustLII)|access-date = 2 April 2021|archive-date = 17 April 2021|archive-url = https://web.archive.org/web/20210417235003/http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/s13.html|url-status = live}}</ref>
+* [[Section 28 of the Constitution of Australia|Section 28 of the Constitution]] says: "Every House of Representatives shall continue for three years from the first sitting of the House, and no longer, but may be sooner dissolved by the Governor-General."<ref name=CoAs28>{{cite web|url = http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/s28.html|work = [[Commonwealth of Australia Constitution Act]] 1900|title = Section 28: Duration of House of Representatives|publisher = [[Australasian Legal Information Institute]] (AustLII)|access-date = 2 April 2021|archive-date = 18 August 2021|archive-url = https://web.archive.org/web/20210818032731/http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/s28.html|url-status = live}}</ref> Since the 46th Parliament of Australia opened on 2 July 2019, it will expire on 1 July 2022.
+* [[Section 32 of the Constitution of Australia|Section 32 of the Constitution]] says: "The writs shall be issued within ten days from the expiry of a House of Representatives or from the proclamation of a dissolution thereof."<ref name=CoAs32>{{cite web|url = http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/s32.html|work = [[Commonwealth of Australia Constitution Act]] 1900|title = Section 32: Writs for general election|publisher = [[Australasian Legal Information Institute]] (AustLII)|access-date = 2 April 2021|archive-date = 18 August 2021|archive-url = https://web.archive.org/web/20210818042758/http://classic.austlii.edu.au/au/legis/cth/consol_act/coaca430/s32.html|url-status = live}}</ref> Ten days after 1 July 2022 is 11 July 2022.
+* Section 156(1) of the CEA says: "The date fixed for the nomination of the candidates shall not be less than 10 days nor more than 27 days after the date of the writ."<ref name=CEAs156>{{cite web|url = http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s156.html|work = [[Commonwealth Electoral Act 1918]]|title = Section 156: Date of nomination|publisher = [[Australasian Legal Information Institute]] (AustLII)|access-date = 2 April 2021|archive-date = 4 March 2016|archive-url = https://web.archive.org/web/20160304095625/http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s156.html|url-status = live}}</ref> Twenty-seven days after 11 July 2022 is 7 August 2022.
+* Section 157 of the CEA says: "The date fixed for the polling shall not be less than 23 days nor more than 31 days after the date of nomination."<ref name=CEAs157>{{cite web|work = [[Commonwealth Electoral Act 1918]]|title = Section 157: Date of polling|url = http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s157.html|publisher = [[Australasian Legal Information Institute]] (AustLII)|access-date = 2 April 2021|archive-date = 31 July 2016|archive-url = https://web.archive.org/web/20160731042725/http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s157.html|url-status = live}}</ref> Thirty-one days after 7 August 2022 is 7 September 2022, a Wednesday.
+* Section 158 of the CEA says: "The day fixed for the polling shall be a Saturday."<ref name=CEAs158>{{cite web|work = [[Commonwealth Electoral Act 1918]]|title = Section 158: Polling to be on a Saturday|url = http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s158.html|publisher = [[Australasian Legal Information Institute]] (AustLII)|access-date = 2 April 2021|archive-date = 4 March 2016|archive-url = https://web.archive.org/web/20160304045328/http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s158.html|url-status = live}}</ref> The Saturday before 7 September 2022 is 3 September 2022, which was the latest possible date for the lower house election.<ref>{{cite web|last=Green|first=Antony|date=6 March 2022|url=https://antonygreen.com.au/why-the-2022-house-and-senate-elections-will-be-held-on-the-same-day/|title=Why the 2022 House and Senate Elections will be held on the same day|website=Antony Green's Election Blog|access-date=25 May 2022}}</ref>
+
+===Dissolution of parliament===
+The election was called by Morrison on 10 April 2022, when he visited the [[Governor-General of Australia|Governor-General]] advising the latter to prorogue Parliament and dissolve the House of Representatives. The Governor-General accepted Morrison's recommendations, as is the custom in Australia's Westminster system of government.<ref name="timing101">{{cite web|url=https://www.gg.gov.au/sites/default/files/2022-04/20220410%20Documents%20relating%20to%20the%20calling%20of%20the%202022%20Federal%20Election.pdf|title=Documents relating to the calling of the 2022 Federal Election|work=Governor-General of Australia|date=10 April 2022|access-date=11 April 2022|archive-date=11 April 2022|archive-url=https://web.archive.org/web/20220411003642/https://www.gg.gov.au/sites/default/files/2022-04/20220410%20Documents%20relating%20to%20the%20calling%20of%20the%202022%20Federal%20Election.pdf|url-status=live}}</ref><ref>{{cite web|url=https://www.legislation.gov.au/Details/C2022G00298|title=Proclamation – Prorogue the Parliament and dissolve the House of Representatives – 11 April 2022|work=Federal Register of Legislation|publisher=Australian Government|date=11 April 2022|access-date=12 April 2022|archive-date=26 April 2022|archive-url=https://web.archive.org/web/20220426084950/https://www.legislation.gov.au/Details/C2022G00298|url-status=live}}</ref> The Parliament was then prorogued and the House of Representatives dissolved the next morning.<ref>{{cite web|url=https://www.aph.gov.au/About_Parliament/House_of_Representatives/About_the_House_News/News/The_Parliament_has_been_prorogued_and_dissolved_but_what_does_this_mean|title=The Parliament has been prorogued and dissolved, but what does this mean?|publisher=Parliament of Australia|date=11 April 2022|access-date=25 May 2022}}</ref><ref>{{cite web|url=https://www.timebase.com.au/news/2022/AT05327-article.html|title=What happens to Bills being considered in Commonwealth Parliament when an election is called?|website=TimeBase|date=6 May 2022|access-date=25 May 2022}}</ref>
+
+==Election timeline==
+On 10 April 2022, the office of the Governor-General released documents relating to the calling of the election. The documents set out a timeline of key dates for the election.<ref name=timing101/><ref>{{cite web|url=https://aec.gov.au/election/|title=2022 federal election Saturday 21 May 2022|website=Australian Electoral Commission|access-date=14 April 2022|archive-date=12 April 2022|archive-url=https://web.archive.org/web/20220412105534/https://aec.gov.au/election/|url-status=live}}</ref>
+* 11 April – 9:29&nbsp;am: Prorogation of the 46th Parliament
+* 11 April – 9:30&nbsp;am: Dissolution of the House of Representatives
+* 11 April – Issue of writs
+* 18 April – Close of electoral rolls
+* 21 April – Close of candidate nominations
+* 22 April – Declaration of nominations
+* 9 May – Early voting commences
+* 18 May – Close of postal vote applications
+* 21 May – Polling day; commencement of terms for territory senators
+* 13 June – Last day for receipt of declaration votes
+* 28 June – Return of writs (last day)
+* 1 July – Commencement of terms for state senators
+
+The election period included three national [[public holidays in Australia|public holidays]]: [[Good Friday]] (15 April), [[Easter Monday]] (18 April), and [[Anzac Day]] (25 April), as well as [[International Workers' Day|May Day]] and [[International Workers' Day|Labour Day]] in [[Northern Territory]] and [[Queensland]], respectively, both falling on 2 May.
+
+==Campaign events==
+===Leaders' debates===
+
+{| class="wikitable" style="text-align:center;"
+! colspan="6" style="background:#b0c4de;"| 2022 Australian federal election debates
+|-
+!| {{abbr|No.|Number}}
+!| Date and time
+!| Organiser
+!| Location
+!| Moderator
+!| Source
+|-
+! 1
+| 20 April 2022<br />7:00{{nbsp}}pm{{nbsp}}[[AEST]]
+| [[Sky News Australia]], <br />''[[The Courier-Mail]]''
+| [[Brisbane Cricket Ground]], [[Brisbane]]
+| [[Kieran Gilbert]]
+|<ref>{{Cite news |date=20 April 2022 |title=Watch Live: Sky News Australia unpacks heated first debate between Morrison and Albanese |work=[[Sky News Australia]] |url=https://www.skynews.com.au/australia-news/federal-election/watch-live-scott-morrison-and-anthony-albanese-face-questions-from-undecided-voters-in-the-peoples-forum-debate/news-story/c7a42b2c3f40497643aa28f1b2124171 |access-date=20 April 2022 |archive-date=20 April 2022 |archive-url=https://web.archive.org/web/20220420080227/https://www.skynews.com.au/australia-news/federal-election/watch-live-scott-morrison-and-anthony-albanese-face-questions-from-undecided-voters-in-the-peoples-forum-debate/news-story/c7a42b2c3f40497643aa28f1b2124171 |url-status=live }}</ref><ref>{{cite web |date=20 April 2022 |title=No magic moments: 3 Australian politics experts on Morrison and Albanese's first election debate |url=https://theconversation.com/no-magic-moments-3-australian-politics-experts-on-morrison-and-albaneses-first-election-debate-181475 |url-status=live |archive-url=https://web.archive.org/web/20220422025356/https://theconversation.com/no-magic-moments-3-australian-politics-experts-on-morrison-and-albaneses-first-election-debate-181475 |archive-date=22 April 2022 |access-date=22 April 2022 |website=[[The Conversation (website)|The Conversation]]}}</ref>
+|-
+! 2
+| 8 May 2022<br />8:30{{nbsp}}pm{{nbsp}}[[AEST]]
+| [[Nine Network]] <br />
+| [[TCN|Channel 9 Studios]], [[Sydney]]
+| Sarah Abo
+|<ref name="auto">{{cite web|url=https://www.smh.com.au/politics/federal/nothing-is-off-the-table-morrison-albanese-agree-to-election-debate-on-may-8-20220430-p5ahev.html|title='Nothing is off the table': Morrison, Albanese agree to election debate on May 8|first=James Massola, Anthony|last=Galloway|date=30 April 2022|website=The Sydney Morning Herald}}</ref>
+|-
+! 3
+| 11 May 2022<br />9:10{{nbsp}}pm{{nbsp}}[[AEST]]
+| [[Seven Network]], <br />''[[The West Australian]]''
+| [[ATN|Channel Seven Studio]], [[Sydney]]
+| [[Mark Riley (journalist)|Mark Riley]]
+|<ref>{{cite web|url=https://tvblackbox.com.au/page/2022/05/02/seven-to-host-final-leaders-debate-between-scott-morrison-and-anthony-albanese/|title=Seven to host final Leaders Debate between Scott Morrison and Anthony Albanese|first=Matthew|last=Simmonds|date=2 May 2022|website=TV Blackbox}}</ref>
+|}
+
+The first leaders' debate was held in Brisbane in front of 100 undecided voters. Moderated by Sky News reporter Kieran Gilbert, Albanese was declared the winner, with 40 votes to Morrison's 35 and 25 still undecided.<ref>{{cite news|url=https://www.news.com.au/national/federal-election/who-won-the-leaders-debate-scott-morrison-or-anthony-albanese/news-story/12a8071c14ed43d4526945194a928210|title=Who won the leaders debate? Scott Morrison or Anthony Albanese|date=20 April 2022|publisher=news.com.au|access-date=23 April 2022|archive-date=26 April 2022|archive-url=https://web.archive.org/web/20220426084950/https://www.news.com.au/national/federal-election/who-won-the-leaders-debate-scott-morrison-or-anthony-albanese/news-story/12a8071c14ed43d4526945194a928210|url-status=live}}</ref> The first debate had 415,000 viewers.<ref name="auto"/>
+
+The second leaders' debate was held at the Nine Studios in Sydney on 8 May. The debate was moderated by ''[[60 Minutes (Australian TV program)|60 Minutes]]'' journalist, Sarah Abo, with [[Nine Network|Channel 9]] political editor [[Chris Uhlmann]], [[The Sydney Morning Herald|Sydney Morning Herald]] chief political correspondent David Crowe and radio host Deb Knight asking questions of the leaders. The debate was broadcast nationwide on the [[Nine Network]]'s main [[free-to-air]] channel, the network's streaming service 9Now, and the websites of the newspapers owned by the network: ''[[The Age]]'' and ''[[The Sydney Morning Herald]]''.<ref name="auto"/> The winner of the debate was to be decided through a viewer poll hosted on Channel 9's website. Although 49% of viewers preferred Albanese to be the better prime minister compared to 45% preferring Morrison, the debate was a 50–50 draw.<ref>{{cite web|url=https://www.abc.net.au/news/2022-05-08/scott-morrison-anthony-albanese-second-leaders-debate/101048046#live-blog-post-1211130143|title=Federal election: Scott Morrison and Anthony Albanese face off in second leaders' debate — as it happened|work=ABC News|first1=Jessica|last1=Riga|first2=Georgia|last2=Hitch|date=8 May 2022|accessdate=8 May 2022}}</ref> Channel 9's moderation of the debate was subject to widespread criticism, with both Morrison and Albanese shouting over the top of one another and the moderator, and for the technical issues experienced by a web page run by Channel 9 to gather audience opinion. It was a ratings success, drawing in 641,000 viewers.<ref>{{cite web|url=https://www.theguardian.com/australia-news/2022/may/09/second-leaders-debate-a-ratings-winner-for-nine-despite-employees-criticising-it-as-a-shambles|title=Second leaders' debate a ratings winner for Nine despite employees criticising it as a 'shambles'=The Guardian|first1=Elias|last1=Visontay|first2=Amanda|last2=Meade| website=[[TheGuardian.com]] |date=9 May 2022|accessdate=9 May 2022}}</ref>
+
+The third and final leaders' debate was held on 11 May on [[Seven Network|Channel Seven]], whose political editor [[Mark Riley (journalist)|Mark Riley]] moderated the debate. To determine the winner of the debate, 150 undecided voters were surveyed in key electorates around the country. Albanese was victorious with 50% of the vote, with Morrison getting 34% of the vote, and 16% remaining undecided.<ref>{{cite web|url=https://www.theguardian.com/australia-news/2022/may/11/albanese-wins-final-election-debate-over-morrison-according-to-sevens-undecided-voters|title=Albanese wins final election debate over Morrison, according to Seven's undecided voters|work=[[The Guardian]]|first=Sarah|last=Martin|date=11 May 2022|accessdate=17 May 2022}}</ref> Seven's debate was viewed by 811,000 people, the highest viewership of all three debates.<ref>{{cite web|url=https://tvblackbox.com.au/page/2022/05/12/sevens-the-great-debate-wins-its-timeslot-all-people-and-in-all-key-demos/|title=Final GREAT DEBATE delivers strong late night audience figures for Channel 7|work=TV Blackbox|first=Kevin|last=Perry|date=12 May 2022|accessdate=13 May 2022}}</ref>
+
+The [[Australian Broadcasting Corporation]] (ABC) pushed for a debate on their free-to-air channel, radio, and websites in the lead-up to polling day, which Morrison refused, as well as Liberal Party federal director Andrew Hirst, who gave no explanation. Morrison and Albanese accepted a debate on Channel Seven rather than on the ABC.<ref>{{cite news|last=Meade|first=Amanda|date=3 May 2022|url=https://www.theguardian.com/australia-news/2022/may/04/sevens-election-debate-to-air-after-big-brother-as-prime-minister-snubs-national-broadcaster|title=Seven's election debate to air after Big Brother as prime minister snubs ABC|newspaper=The Guardian|access-date=24 May 2022}}</ref>
+
+===Campaign===
+*'''11 April''': Labor Opposition Leader [[Anthony Albanese]] was unable to state the cash or unemployment rates.<ref>{{cite web|url=https://www.abc.net.au/news/2022-04-11/albanese-cash-unemployment-rate-federal-election/100981834|title='When I make a mistake, I'll 'fess up to it': Albanese apologises after early economic stumble|date=11 April 2022|publisher=Australian Broadcasting Corporation|access-date=16 April 2022|archive-date=16 April 2022|archive-url=https://web.archive.org/web/20220416032258/https://www.abc.net.au/news/2022-04-11/albanese-cash-unemployment-rate-federal-election/100981834|url-status=live}}</ref><ref>{{cite web|url=https://www.smh.com.au/politics/federal/i-m-not-sure-what-it-is-anthony-albanese-stumbles-on-unemployment-rate-and-cash-rate-20220411-p5aci2.html|title='I made a mistake': Albanese stumbles on unemployment rate and cash rate|first=Lisa Visentin, Shane Wright, Katina|last=Curtis|date=11 April 2022|website=The Sydney Morning Herald|access-date=16 April 2022|archive-date=16 April 2022|archive-url=https://web.archive.org/web/20220416032259/https://www.smh.com.au/politics/federal/i-m-not-sure-what-it-is-anthony-albanese-stumbles-on-unemployment-rate-and-cash-rate-20220411-p5aci2.html|url-status=live}}</ref>
+*'''13 April''': Labor said they would not commit to an increase in JobSeeker Payment after the election if they win.<ref>{{cite web|url=https://www.abc.net.au/news/2022-04-13/labor-no-commitment-jobseeker-rate-rise-federal-election/100987112|title=JobSeeker rate to remain untouched after election after Labor ditches plans to review it|date=12 April 2022|publisher=Australian Broadcasting Corporation|access-date=16 April 2022|archive-date=16 April 2022|archive-url=https://web.archive.org/web/20220416032850/https://www.abc.net.au/news/2022-04-13/labor-no-commitment-jobseeker-rate-rise-federal-election/100987112|url-status=live}}</ref><ref>{{cite web|url=https://www.afr.com/politics/federal/albanese-says-1t-debt-makes-jobseeker-rise-untenable-20220413-p5ad53|title=Albanese says $1trn debt makes JobSeeker rise untenable|date=13 April 2022|website=Australian Financial Review|access-date=16 April 2022|archive-date=13 April 2022|archive-url=https://web.archive.org/web/20220413045048/https://www.afr.com/politics/federal/albanese-says-1t-debt-makes-jobseeker-rise-untenable-20220413-p5ad53|url-status=live}}</ref>
+*'''16 April''': 
+** Albanese said he would commit to an anti-corruption watchdog should Labor win the election.<ref>{{cite news|url=https://www.theguardian.com/australia-news/2022/apr/16/anthony-albanese-commits-to-anti-corruption-watchdog-by-end-of-2022-if-labor-wins-election|title=Anthony Albanese commits to anti-corruption watchdog by end of 2022, if Labor wins election|last1=Murphy|first1=Katharine|last2=Butler|first2=Josh|date=15 April 2022|work=The Guardian|access-date=16 April 2022|archive-date=16 April 2022|archive-url=https://web.archive.org/web/20220416045346/https://www.theguardian.com/australia-news/2022/apr/16/anthony-albanese-commits-to-anti-corruption-watchdog-by-end-of-2022-if-labor-wins-election|url-status=live}}</ref>
+** The [[United Australia Party (2013)|United Australia Party]] election campaign launch was held.<ref>{{cite web|url=https://www.abc.net.au/news/2022-04-16/qld-federal-election-palmer-uap-campaign-launch/100980436|title=United Australia Party campaign launch turns into marathon event|date=16 April 2022|publisher=Australian Broadcasting Corporation|access-date=16 April 2022|archive-date=16 April 2022|archive-url=https://web.archive.org/web/20220416103651/https://www.abc.net.au/news/2022-04-16/qld-federal-election-palmer-uap-campaign-launch/100980436|url-status=live}}</ref>
+*'''19 April:''' A debate was held at the [[National Press Club (Australia)|National Press Club]] in [[Canberra]] between [[Minister for Agriculture and Northern Australia]] [[David Littleproud]] and Shadow Minister [[Julie Collins]].<ref>{{Cite news |last=Hare |first=Julie |date=19 April 2022 |title=Coalition stumps up $75m to keep the farm in the family |work=[[Australian Financial Review]] |url=https://www.afr.com/politics/federal/coalition-stumps-up-75m-to-keep-the-farm-in-the-family-20220419-p5aei3 |access-date=4 May 2022}}</ref>
+*'''20 April:''' 
+** Morrison continued to support his "captain's pick" to contest the seat of [[Division of Warringah|Warringah]], Katherine Deves, despite her comments about [[transgender|transgender people]] and [[surrogacy]].<ref>{{cite web |last=Maiden |first=Samantha |date=20 April 2022 |title=Liberal candidate Katherine Deves claimed link between cross-dressing and serial killers |url=https://www.news.com.au/national/federal-election/liberal-candidate-katherine-deves-claimed-link-between-crossdressing-and-serial-killers/news-story/b29c85d8df1e874ebc703ae5d2fb8dd1 |access-date=22 April 2022 |website=news.com.au |archive-date=22 April 2022 |archive-url=https://web.archive.org/web/20220422041421/https://www.news.com.au/national/federal-election/liberal-candidate-katherine-deves-claimed-link-between-crossdressing-and-serial-killers/news-story/b29c85d8df1e874ebc703ae5d2fb8dd1 |url-status=live }}</ref>
+** First leaders' debate in Brisbane took place in front of 100 undecided voters, with Albanese declared the winner, with 40 votes to Morrison's 35 and 25 still undecided.<ref>{{cite web|url=https://amp.theguardian.com/australia-news/live/2022/apr/20/australian-politics-live-scott-morrison-anthony-albanese-first-leaders-debate-election-2022-nsw-qld-victoria-coaltion-labor|title=Albanese voted winner of election forum with 40% of votes to Morrison's 35% – as it happened &#124; Australian election 2022 &#124; The Guardian|website=The Guardian|access-date=23 April 2022|archive-date=22 April 2022|archive-url=https://web.archive.org/web/20220422125034/https://amp.theguardian.com/australia-news/live/2022/apr/20/australian-politics-live-scott-morrison-anthony-albanese-first-leaders-debate-election-2022-nsw-qld-victoria-coaltion-labor|url-status=live}}</ref>
+*'''21 April''': Albanese tested positive for COVID-19 and was unable to campaign in person for seven days.<ref>{{cite web |date=21 April 2022 |title=Election chaos as Albanese contracts COVID |url=https://thewest.com.au/politics/anthony-albanese/federal-election-2022-anthony-albaneses-campaign-in-chaos-after-covid-diagnosis-c-6528093 |access-date=22 April 2022 |website=The West Australian |archive-date=22 April 2022 |archive-url=https://web.archive.org/web/20220422075456/https://thewest.com.au/politics/anthony-albanese/federal-election-2022-anthony-albaneses-campaign-in-chaos-after-covid-diagnosis-c-6528093 |url-status=live }}</ref>
+*'''22 April''': Former Liberal foreign minister [[Julie Bishop]] and former defence chief [[Chris Barrie (admiral)|Chris Barrie]] criticised the Morrison government for not doing enough to stop the [[China–Solomon Islands relations|Solomon Islands' security pact with China]].<ref>{{cite web |last=McLeod |first=Katie |date=22 April 2022 |title=Anthony Albanese's understudy laughs off awkward question |url=https://www.heraldsun.com.au/news/national/federal-election/anthony-albaneses-understudy-blasts-scott-morrison-over-china-deal/news-story/cdf01ca3c9c28ddcb7571ac4c3c891d8 |website=Herald Sun |access-date=24 April 2022 |archive-date=26 April 2022 |archive-url=https://web.archive.org/web/20220426084951/https://www.heraldsun.com.au/news/national/federal-election/anthony-albaneses-understudy-blasts-scott-morrison-over-china-deal/news-story/cdf01ca3c9c28ddcb7571ac4c3c891d8?nk=db207bfc28cb59c414639eca188eef96-1650962991 |url-status=live }}</ref>
+*'''29 April''': Albanese came out of COVID-19 isolation.
+*'''30 April''': Shadow minister [[Bill Shorten]] said Labor would hold a royal commission into [[Robodebt scheme|Robodebt]] if elected.<ref>{{cite web|url=https://www.abc.net.au/news/2022-04-30/labor-promises-robodebt-royal-commission-if-it-wins-election/101027946|title=Labor promises royal commission into Robodebt scheme if elected. Scott Morrison says issue has been addressed|date=30 April 2022|publisher=Australian Broadcasting Corporation|author=McElroy, Nicholas}}</ref>
+*'''1 May''': The Labor election campaign launch was held in Perth.
+*'''4 May''': A debate was held at the National Press Club in Canberra between [[Treasurer of Australia|Treasurer]] [[Josh Frydenberg]] and Shadow Treasurer [[Jim Chalmers]].<ref>{{Cite news |date=4 May 2022 |title=Josh Frydenberg calls Labor's stance on skilled migrants 'cheap political opportunism' in treasurers' debate |work=[[Special Broadcasting Service|SBS News]] |agency=[[Australian Associated Press]] |url=https://www.sbs.com.au/news/article/josh-frydenberg-calls-labors-stance-on-skilled-migrants-cheap-political-opportunism-in-treasurers-debate/7vj6c1xc4 |access-date=4 May 2022}}</ref>
+*'''5 May''': 
+**Pauline Hanson's One Nation party was criticised for running "ghost candidates" in several electorates, who are neither campaigning in the lead-up to the election nor have an online presence. Additionally, many do not live in the electorates they are contesting. One Nation committed to run candidates in all seats.<ref>{{cite news |title=How Pauline Hanson's One Nation Party established a network of 'ghost' candidates |url=https://www.abc.net.au/news/2022-05-05/pauline-hanson-one-nation-asked-to-explain-invisible-candidates/101039240 |access-date=5 May 2022 |work=ABC News |date=4 May 2022}}</ref>
+**A debate was held at the National Press Club in Canberra between [[Minister for Defence (Australia)|Minister for Defence]] [[Peter Dutton]] and Shadow Minister [[Brendan O'Connor (politician)|Brendan O'Connor]].<ref>{{cite news |title=Government's legacy 'a toxic miasma of division', Ryan says – as it happened |url=https://www.theguardian.com/australia-news/live/2022/may/05/australia-politics-live-updates-federal-election-2022-labor-liberal-scott-morrison-anthony-albanese-weather-covid-coronavirus?page=with:block-62734e808f08a298acd03ab7&filterKeyEvents=false |access-date=5 May 2022 |work=The Guardian |date=5 May 2022}}</ref>
+*'''8 May''': Second leaders' debate took place in Sydney.
+*'''11 May''':
+**Albanese said that he supported an increase of 5.1% to the [[minimum wage]] or an additional $1 an hour, tied to the inflation rate, with criticism from Morrison claiming that it would result in increasing interest rates.<ref>{{Cite news |last=Hall |first=Amy |date=11 May 2022 |title=Anthony Albanese 'surprised' wage rises not a 'bipartisan issue' ahead of final leaders' debate |work=[[SBS (Australian TV channel)|SBS News]] |url=https://www.sbs.com.au/news/article/anthony-albanese-surprised-wage-rises-not-a-bipartisan-issue-ahead-of-final-leaders-debate/m2dz3j35n |url-status=live |access-date=12 May 2022 |archive-url=https://web.archive.org/web/20220511144416/https://www.sbs.com.au/news/article/anthony-albanese-surprised-wage-rises-not-a-bipartisan-issue-ahead-of-final-leaders-debate/m2dz3j35n |archive-date=11 May 2022}}</ref>
+**Third leaders' debate took place in Sydney.
+*'''13 May''': A debate was held at the National Press Club in Canberra between [[Minister for Foreign Affairs (Australia)|Minister for Foreign Affairs]] [[Marise Payne]] and Shadow Minister [[Penny Wong]].<ref>{{Cite news |last=Gleeson |first=Ashleigh |date=13 May 2022 |title=Election 2022: Marise Payne and Penny Wong on Australia's future with China |work=[[news.com.au]] |url=https://www.news.com.au/world/asia/election-2022-marise-payne-and-penny-wong-on-australias-future-with-china/news-story/0d80be45e5f5157fa6c4edbf9e55e570 |url-status=live |access-date=13 May 2022 |archive-url=https://archive.today/2022.05.13-113257/https://www.news.com.au/world/asia/election-2022-marise-payne-and-penny-wong-on-australias-future-with-china/news-story/0d80be45e5f5157fa6c4edbf9e55e570 |archive-date=13 May 2022}}</ref>
+*'''15 May''': The Liberal election campaign launch was held in Brisbane, six days before the election, where Morrison promised to allow people to purchase their first home using funds from their [[Superannuation in Australia|superannuation]].<ref>{{cite web |date=15 May 2022 |title=Scott Morrison uses Liberal party campaign launch to set up housing battle with Labor |url=https://www.theguardian.com/australia-news/2022/may/15/scott-morrison-uses-liberal-party-campaign-launch-to-set-up-housing-battle-with-labor |access-date=15 May 2022 |website=The Guardian}}</ref>
+*'''18 May''':
+**Albanese addressed the National Press Club.<ref>{{citation |title=IN FULL: Anthony Albanese announces plan to cut spending on two grant programs {{!}} ABC News |url=https://www.youtube.com/watch?v=TMVZR610tZ8 |access-date=2022-05-18}}</ref> Morrison is the first prime minister since 1969 not to address the National Press Club in the final week of an election campaign.<ref>{{cite web |last=Brook |first=Samantha Hutchinson, Stephen |date=15 May 2022 |title=Morrison gives the shrug to the National Press Club |url=https://www.smh.com.au/national/morrison-gives-the-shrug-to-the-national-press-club-20220515-p5alij.html |access-date=2022-05-18 |website=The Sydney Morning Herald}}</ref>
+**The [[Australian Bureau of Statistics]] released the March 2022 Quarter Wage Price Index of 0.7%, or 2.4% annually.<ref>{{cite web |date=18 May 2022 |title=Wage Price Index, Australia, March 2022 {{!}} Australian Bureau of Statistics |url=https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/latest-release |access-date=2022-05-18 |website=www.abs.gov.au}}</ref>
+*'''20 May''': Telephone voting rules changed to allow Australians who have tested postive to COVID-19 after 6 pm on 13 May to vote by telephone.<ref>{{cite news |title=Telephone voting rules changed to allow Australians with Covid to vote in federal election |url=https://www.theguardian.com/australia-news/2022/may/20/telephone-voting-rules-changed-to-allow-australians-with-covid-to-vote-in-federal-election |work=Guardian Australia |date=20 May 2022}}</ref>
+*'''21 May''': Morrison advised in a press conference that a boat with refugees from Sri Lanka had been intercepted and turned back by the [[Australian Border Force]]. Hours before polling stations close, voters across the country received a text message about the boat turnback, urging them to vote Liberal for border security.<ref>{{cite news |title=Liberals accused of resorting to last-minute scare with text alert about illegal boat interception |url=https://www.abc.net.au/news/2022-05-21/liberal-text-alert-warns-of-illegal-boat-interception/101087650 |access-date=24 May 2022 |work=ABC News |date=21 May 2022}}</ref> The ABC later revealed on 27 May that the act followed a direct request from the Prime Minister's Office to the Border Force in revealing the operation before it was completed.<ref>{{cite news |last1=Greene |first1=Andrew |title=Scott Morrison instructed Border Force to reveal election day asylum boat arrival |url=https://www.abc.net.au/news/2022-05-27/scott-morrison-instructed-border-force-election-day-boat/101101464 |access-date=27 May 2022 |work=ABC News |date=27 May 2022 |language=en-AU}}</ref>
+
+===Preferences===
+
+Although ballot preferences are free for voters to decide, political parties usually make agreements as to how they would instruct their voters to rank candidates from other political parties—candidates or political parties that are ranked earlier numerically are said to be "preferenced"—through a "how-to-vote card" distributed by campaign volunteers.<ref>{{Cite news |last=Motherwell |first=Sarah |date=22 April 2022 |title=How does preferential voting work in Australia? |work=[[ABC News (Australia)|ABC News]] |url=https://www.abc.net.au/news/2022-04-21/how-to-preference-voting-australia-federal-election/100991154 |access-date=29 April 2022}}</ref><ref>{{Cite news |last=Rushforth |first=Charles |date=29 April 2022 |title=Confused About Preferences In Voting? Here's What You Need To Know |work=[[Junkee]] |url=https://junkee.com/preferential-voting-explainer/328886 |access-date=29 April 2022}}</ref> [[Pauline Hanson's One Nation]] said it would recommend that voters direct their preferences to Labor in five seats—[[Division of North Sydney|North Sydney]], [[Division of Goldstein|Goldstein]], [[Division of Sturt|Sturt]], [[Division of Longman|Longman]], and [[Division of Bass|Bass]]—all held by moderate Liberals.<ref>{{cite web|url=https://www.theguardian.com/australia-news/2022/apr/28/one-nation-directs-preferences-to-labor-in-five-seats-targeting-left-leaning-liberals|title=One Nation directs preferences to Labor in five seats targeting 'left-leaning Liberals'|date=28 April 2022|access-date=3 May 2022|website=The Guardian}}</ref> 
+
+The United Australia Party recommended its voters direct their preferences to the Coalition ahead of Labor in marginal electorates, such as [[Division of Bass|Bass]], [[Division of Chisholm|Chisholm]], [[Division of Dobell|Dobell]], [[Division of Gilmore|Gilmore]], [[Division of Hunter|Hunter]] and [[Division of Macquarie|Macquarie]], as well as all but four seats in Queensland, in addition to preferencing Liberal incumbents ahead of independent challengers in [[Division of Mackellar|Mackellar]], [[Division of Wentworth|Wentworth]], and [[Division of Wannon|Wannon]]. They also recommended its voters put incumbents last in their vote in Western Australia.<ref>{{Cite news |last1=Martin |first1=Sarah |last2=Murphy |first2=Katharine |date=9 May 2022 |title=United Australia party directs preferences to Coalition in key marginal seats |work=[[Guardian Australia]] |url=https://www.theguardian.com/australia-news/2022/may/09/united-australia-party-directs-preferences-to-coalition-in-key-marginal-seats |url-status=live |access-date=10 May 2022 |archive-url=https://web.archive.org/web/20220510015418/https://www.theguardian.com/australia-news/2022/may/09/united-australia-party-directs-preferences-to-coalition-in-key-marginal-seats |archive-date=10 May 2022}}</ref>
+
+The [[Liberal National Party of Queensland]] recommended that those who vote for its candidates direct their preferences to One Nation in the Senate and key Queensland seats.<ref>{{cite web|url=https://www.theguardian.com/australia-news/2022/apr/29/election-preference-deals-and-strategies-that-could-benefit-pauline-hanson-and-one-nation|title=Election preference deals and strategies that could benefit Pauline Hanson and One Nation|date=29 April 2022|website=The Guardian|author=Smee, Ben}}</ref><ref>{{cite web|url=https://www.brisbanetimes.com.au/politics/queensland/just-politics-lnp-urges-queensland-voters-to-preference-one-nation-20220428-p5agxr.html|title='Just politics': LNP urges Queensland voters to preference One Nation|first=Matt|last=Dennien|date=28 April 2022|website=Brisbane Times}}</ref> The [[Australian Greens|Greens]] recommended its voters direct their preferences to Labor ahead of both the [[Coalition (Australia)|Coalition]] and minor right-wing parties such as the United Australia Party and One Nation for the House of Representatives and Senate, with preferences also recommended to be directed to independents endorsed by the various [[Voices groups in Australia|Voices groups]] in Liberal-held seats such as [[Division of Goldstein|Goldstein]], [[Division of Mackellar|Mackellar]], [[Division of North Sydney|North Sydney]], and [[Division of Wentworth|Wentworth]].<ref>{{Cite news |last=McIlroy |first=Tom |date=30 April 2022 |title=Greens to preference Labor ahead of Liberals around the country |work=[[Australian Financial Review]] |url=https://www.afr.com/politics/federal/greens-to-preference-labor-ahead-of-liberals-around-the-country-20220429-p5ah3m |url-status=live |access-date=30 April 2022 |archive-url=https://web.archive.org/web/20220430095538/https://www.afr.com/politics/federal/greens-to-preference-labor-ahead-of-liberals-around-the-country-20220429-p5ah3m |archive-date=30 April 2022}}</ref>
+
+==Candidates==
+{{Main|Candidates of the 2022 Australian federal election}}
+[[File:Candidates at ECLC Chisholm federal election candidates forum (2) — May 2022.jpg|thumb|Some of the candidates for the [[Division of Chisholm]] at a candidates' forum]]
+[[File:Corflutes for candidates at a polling station in Wanniassa - May 2022.jpg|thumb|Corflutes and banners for candidates at a polling station in Canberra]]
+Candidates for either house must have been formally nominated with the Electoral Commission. The nomination for a party-endorsed candidate must be signed by the Registered Officer of a party registered under the Electoral Act; fifty signatures of eligible voters are required for an independent candidate. A candidate can nominate for only one electorate, and must pass a number of qualifications. ''The Electoral Legislation Amendment (Modernisation and Other Measures) Act 2019'' came into effect on 1 March 2019. A deposit of $2,000 was required for a candidate for the House of Representatives or the Senate, which is refunded if the candidate is elected or gains at least 4% of the first preference vote.<ref>{{cite book|publisher = [[Australian Electoral Commission]]|isbn = 9781921427367|title = Candidates Handbook – Federal elections and by-elections (Version 8)|date = 2 October 2020|url = https://www.aec.gov.au/elections/candidates/files/candidates-handbook.pdf|page = 6|access-date = 2 April 2021|archive-date = 29 March 2021|archive-url = https://web.archive.org/web/20210329071820/https://aec.gov.au/elections/candidates/files/candidates-handbook.pdf|url-status = live}}</ref> Between 10 and 27 days must be allowed after the issue of writs before the close of nominations.<ref name="CEAs156"/> At the close of nominations a total of 1,624 candidates had stood for election, of which 1,203 were House of Representatives candidates and 421 were Senate candidates.<ref>{{cite web|url=https://www.aec.gov.au/media/2022/04-22a.htm|title=1,624 candidates announced as election operation ramps up|work=aec.gov.au|date=22 April 2022|access-date=22 April 2022|archive-date=22 April 2022|archive-url=https://web.archive.org/web/20220422112603/https://www.aec.gov.au/media/2022/04-22a.htm|url-status=live}}</ref>
+
+The 2022 election featured the largest number of [[Aboriginal Australians|Indigenous]] candidates in Australian history, with four running for the Coalition, eleven for Labor, and seventeen for the Greens.<ref>{{cite web |last=Collard |first=Sarah |date=5 May 2022 |title=Meet the Indigenous candidates vying for your vote |url=https://www.sbs.com.au/nitv/article/2022/05/05/meet-indigenous-candidates-vying-your-vote |access-date=7 May 2022 |publisher=NITV}}</ref>
+
+===Parties ===
+{{See also|List of political parties in Australia}}
+The table below lists party representation in the [[46th Parliament of Australia|46th Parliament]] when it was prorogued on 11 April 2022.
+
+{| class="wikitable"
+|-
+! colspan="3"| Name
+! Ideology
+! Party leader
+! House seats
+! Senate seats
+|-
+| rowspan="2" style="background:{{party color|Coalition (Australia)}};"|
+| rowspan="2"| [[Coalition (Australia)|Coalition]]{{efn|The Coalition formally comprises the Liberal Party and National Party. Federal parliamentary members of the [[Liberal National Party of Queensland]] and [[Country Liberal Party]] (Northern Territory) sit in the party room of either the Liberal or National parties according to the individual members' preference or internal party arrangements.}}
+| [[Liberal Party of Australia|Liberal Party]]
+| [[Liberal conservatism]]
+| [[Scott Morrison]]
+| rowspan="2"| {{Composition bar|75|151|width=153|{{party color|Coalition (Australia)}}}}{{efn|[[Craig Kelly]] resigned from the Liberal Party in February 2021 and [[George Christensen]] resigned from the Liberal National Party in April 2022.}}
+| rowspan="2"| {{Composition bar|35|76|width=153|{{party color|Coalition (Australia)}}}}
+|- 
+| [[National Party of Australia|National Party]]
+| [[Conservatism]]
+| [[Barnaby Joyce]]
+|-
+| style="background:{{party color|Australian Labor Party}};"|
+| colspan="2"| [[Australian Labor Party]]
+| [[Social democracy]]
+| [[Anthony Albanese]]
+| {{Composition bar|67|151|width=153|{{party color|Australian Labor Party}}}}{{efn|name=spence|Excludes the seat of [[Division of Spence|Spence]], held by Labor until MP [[Nick Champion]]'s resignation in February 2022. A by-election was not held before the election.<ref name=hor_29mar2022>{{cite web|url=https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber/hansardr/25719/&sid=0007|title=House of Representatives Hansard – Tuesday, 29 March 2022 – Parliamentary Representation – Member for Spence – Resignation|website=Parliament of Australia|date=29 March 2022|access-date=26 April 2022|archive-date=13 April 2022|archive-url=https://web.archive.org/web/20220413191628/https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansardr%2F25719%2F&sid=0007|url-status=live}}</ref>}}
+| {{Composition bar|26|76|width=153|{{party color|Australian Labor Party}}}}
+|-
+| style="background:{{party color|Australian Greens}};"|
+| colspan="2"| [[Australian Greens]]
+| [[Green politics]]
+| [[Adam Bandt]]
+| {{Composition bar|1|151|width=153|{{party color|Australian Greens}}}}
+| {{Composition bar|9|76|width=153|{{party color|Australian Greens}}}}
+|-
+| style="background:{{party color|One Nation}};"|
+| colspan="2" |[[Pauline Hanson's One Nation]]
+|[[Right-wing populism]]
+|[[Pauline Hanson]]
+| {{Composition bar|0|151|width=153|{{party color|Pauline Hanson's One Nation}}}}
+| {{Composition bar|2|76|width=153|{{party color|Pauline Hanson's One Nation}}}}
+|-
+| style="background:{{party color|Centre Alliance}};"|
+| colspan="2"| [[Centre Alliance]]
+| [[Social liberalism]]
+| ''None''
+| {{Composition bar|1|151|width=153|{{party color|Centre Alliance}}}}
+| {{Composition bar|1|76|width=153|{{party color|Centre Alliance}}}}
+|-
+| style="background:{{party color|Katter's Australian Party}};"|
+| colspan="2"| [[Katter's Australian Party]]
+| [[Agrarianism]]
+| ''None''{{efn|[[Robbie Katter]] is party leader but is not contesting the federal election.}}
+| {{Composition bar|1|151|width=153|{{party color|Katter's Australian Party}}}}
+| {{Composition bar|0|76|width=153|{{party color|Katter's Australian Party}}}}
+|-
+| style="background:{{party color|Palmer United Party}};"|
+| colspan="2" |[[Clive Palmer's United Australia Party|United Australia Party]]
+|[[Right-wing populism]]
+|[[Craig Kelly]]
+| {{Composition bar|1|151|width=153|{{party color|Palmer United Party}}}}
+| {{Composition bar|0|76|width=153|{{party color|Palmer United Party}}}}
+|-
+| style="background:{{party color|Jacqui Lambie Network}};"|
+| colspan="2" |[[Jacqui Lambie Network]]
+|[[Populism]]
+|[[Jacqui Lambie]]
+| {{Composition bar|0|151|width=153|{{party color|Jacqui Lambie Network}}}}
+| {{Composition bar|1|76|width=153|{{party color|Jacqui Lambie Network}}}}
+|-
+| style="background:{{party color|Rex Patrick Team}};"|
+| colspan="2" |[[Rex Patrick Team]]
+| [[Regionalism (politics)|Regionalism]]
+|[[Rex Patrick]]
+| {{Composition bar|0|151|width=153|{{party color|Rex Patrick Team}}}}
+| {{Composition bar|1|76|width=153|{{party color|Rex Patrick Team}}}}
+|-
+| style="background:{{party color|Liberal Democratic Party (Australia)}};"|
+| colspan="2" |[[Liberal Democratic Party (Australia)|Liberal Democratic Party]]
+| [[Classical liberalism]]
+|''None''
+| {{Composition bar|0|151|width=153|{{party color|Liberal Democratic Party (Australia)}}}}
+| {{Composition bar|1|76|width=153|{{party color|Liberal Democratic Party (Australia)}}}}
+|-
+| style="background:{{party color|Independent}};"|
+| colspan="2"| [[Independent politician|Independents]]{{efn|Independents who sat in the House of Representatives as of the end of the parliamentary term were [[Andrew Wilkie]], [[Helen Haines]], [[Zali Steggall]], and [[George Christensen]].}}
+| –
+| –
+| {{Composition bar|4|151|width=153|{{party color|Independent}}}}
+| {{Composition bar|0|76|width=153|{{party color|Independent}}}}
+|}
+
+== Retiring members ==
+<!-- This list is transcluded in [[Candidates of the next Australian federal election]]. Any mis-edits will disrupt the syntax of the tables in the latter. -->
+<section begin="retiringmembers"/>
+The seat of [[Division of Spence|Spence]] (SA) was vacant following the resignation of [[Nick Champion]] (Labor) on 22 February 2022 to contest the [[2022 South Australian state election|South Australian state election]]. A Senate seat in New South Wales was vacant following the resignation of [[Kristina Keneally]] (Labor) on 11 April 2022 to contest the lower house seat of [[Division of Fowler|Fowler]] in the election. A second Senate seat in Western Australia was initially vacant at the close of nominations following the resignation on 15 April 2022 of [[Ben Small (politician)|Ben Small]] (Liberal), who had discovered that he was ineligible on the grounds of dual citizenship. Having renounced his New Zealand citizenship, Small was re-appointed on 18 May 2022 and contested the election.<ref>{{cite web|url=https://www.parliament.wa.gov.au/Hansard/hansard.nsf/0/8961F86102ECD56F4825884B001347DC/$File/J41%20S1%2020220518%20All.pdf|title=Parliamentary Debates (Hansard) – Forty-First Parliament First Session 2022 – Joint Sitting Of The Legislative Council And Legislative Assembly – Wednesday, 18 May 2022|publisher=Parliament of Western Australia|date=18 May 2022|access-date=27 May 2022}}</ref> [[George Christensen]], previously a Nationals member, did not re-contest the seat of [[Division of Dawson|Dawson]] but ran instead for the Senate for One Nation.
+
+The following Members of Parliament (MPs) and Senators did not contest the election.
+<!--Retiring members to be arranged by party, chamber, last name-->
+
+=== Labor ===
+* [[Sharon Bird]] MP ([[Division of Cunningham|Cunningham]], NSW) – announced retirement on 19 November 2021<ref>{{Cite news|last = Harris|first = Rob|date = 19 November 2021|title = Labor MP Sharon Bird to quit after two decades in Parliament|url = https://www.smh.com.au/politics/federal/labor-mp-sharon-bird-to-quit-after-two-decades-in-parliament-20211119-p59aby.html|access-date = 19 November 2021|work = [[The Sydney Morning Herald]]|archive-date = 18 November 2021|archive-url = https://web.archive.org/web/20211118235807/https://www.smh.com.au/politics/federal/labor-mp-sharon-bird-to-quit-after-two-decades-in-parliament-20211119-p59aby.html|url-status = live}}</ref>
+* [[Anthony Byrne (politician)|Anthony Byrne]] MP ([[Division of Holt|Holt]], Vic) – announced retirement on 3 March 2022<ref>{{Cite news|last = McKenzie|first = Nick|date = 3 March 2022|title = Labor MP who blew whistle on Somyurek won't recontest federal seat|url = https://www.theage.com.au/politics/federal/labor-mp-who-blew-whistle-on-somyurek-won-t-recontest-federal-seat-20220303-p5a1d2.html|access-date = 3 March 2022|work = [[The Age]]|archive-date = 3 March 2022|archive-url = https://web.archive.org/web/20220303010721/https://www.theage.com.au/politics/federal/labor-mp-who-blew-whistle-on-somyurek-won-t-recontest-federal-seat-20220303-p5a1d2.html|url-status = live}}</ref>
+* [[Joel Fitzgibbon]] MP ([[Division of Hunter|Hunter]], NSW) – announced retirement on 12 September 2021<ref>{{cite news|url = https://www.theaustralian.com.au/nation/joel-fitzgibbon-to-quit-parliament-reopening-divisions-over-labor-policy-focus/news-story/8560aeda2de1f64c92354d07f1e64e19|title = I quit: Fitzgibbon to reignite ALP tensions|date = 12 September 2020|work = [[The Australian]]|access-date = 12 September 2021|archive-date = 24 February 2022|archive-url = https://web.archive.org/web/20220224090200/https://www.theaustralian.com.au/nation/joel-fitzgibbon-to-quit-parliament-reopening-divisions-over-labor-policy-focus/news-story/8560aeda2de1f64c92354d07f1e64e19|url-status = live}}</ref>
+* [[Chris Hayes (politician)|Chris Hayes]] MP ([[Division of Fowler|Fowler]], NSW) – announced retirement on 24 March 2021<ref>{{cite news|first = Nour|last = Haydar|url = https://www.abc.net.au/news/2021-03-24/chris-hayes-fowler-retires-tu-le-labor/100025066|title = Veteran Labor MP Chris Hayes to leave safe seat, backs local lawyer to take his place|publisher = [[ABC News (Australia)|ABC News]]|date = 24 March 2021|access-date = 24 March 2021|archive-date = 24 March 2021|archive-url = https://web.archive.org/web/20210324014607/https://www.abc.net.au/news/2021-03-24/chris-hayes-fowler-retires-tu-le-labor/100025066|url-status = live}}</ref>
+* [[Julie Owens]] MP ([[Division of Parramatta|Parramatta]], NSW) – announced retirement on 28 October 2021<ref name="owens">{{cite news |title=Federal Labor MP Julie Owens won't re-contest seat of Parramatta at next election |url=https://www.skynews.com.au/australia-news/politics/federal-labor-mp-julie-owens-wont-recontest-seat-of-parramatta-at-next-election/video/5e4229940cfd17aea810f3265570f9db |access-date=28 October 2021 |publisher=Sky News |date=28 October 2021 |archive-date=28 October 2021 |archive-url=https://web.archive.org/web/20211028051421/https://www.skynews.com.au/australia-news/politics/federal-labor-mp-julie-owens-wont-recontest-seat-of-parramatta-at-next-election/video/5e4229940cfd17aea810f3265570f9db |url-status=live}}</ref>
+* [[Warren Snowdon]] MP ([[Division of Lingiari|Lingiari]], NT) – announced retirement on 10 December 2020<ref>{{cite news|url = https://www.perthnow.com.au/politics/nt-mp-snowdon-to-depart-at-next-election-ng-s-2041521|title = NT MP Snowdon to depart at next election|date = 10 December 2020|last = Coughlan|first = Matt|work = [[Perth Now]]|access-date = 10 December 2020|archive-date = 10 December 2020|archive-url = https://web.archive.org/web/20201210044334/https://www.perthnow.com.au/politics/nt-mp-snowdon-to-depart-at-next-election-ng-s-2041521|url-status = live}}</ref>
+* Senator [[Kim Carr]] (Vic) – announced retirement on 27 March 2022<ref>{{cite news|url=https://www.theguardian.com/australia-news/2022/mar/27/kim-carr-bows-out-after-three-decades-as-labor-senator-for-victoria|title=Kim Carr bows out after three decades as Labor senator for Victoria|first=Sarah|last=Martin|date=27 March 2022|access-date=27 March 2022|work=The Guardian|archive-date=27 March 2022|archive-url=https://web.archive.org/web/20220327024615/https://www.theguardian.com/australia-news/2022/mar/27/kim-carr-bows-out-after-three-decades-as-labor-senator-for-victoria|url-status=live}}</ref>
+
+=== Liberal ===
+* [[John Alexander (Australian politician)|John Alexander]] MP ([[Division of Bennelong|Bennelong]], NSW) – announced retirement on 12 November 2021<ref>{{Cite news|last = Crowe|first = David|date = 12 November 2021|title = Bennelong race thrown open after John Alexander decides to leave politics|url = https://www.smh.com.au/politics/federal/bennelong-race-thrown-open-after-john-alexander-decides-to-leave-politics-20211112-p598id.html|access-date = 12 November 2021|work = [[The Sydney Morning Herald]]|archive-date = 12 November 2021|archive-url = https://web.archive.org/web/20211112052959/https://www.smh.com.au/politics/federal/bennelong-race-thrown-open-after-john-alexander-decides-to-leave-politics-20211112-p598id.html|url-status = live}}</ref>
+* [[Kevin Andrews (politician)|Kevin Andrews]] MP ([[Division of Menzies|Menzies]], Vic) – lost preselection on 31 January 2021<ref>{{cite news|last1=Willingham|first1=Richard|last2=Wong|first2=Leanne|last3=Walden|first3=Max|date=31 January 2021|title=Victorian Liberal MP Kevin Andrews loses preselection for seat of Menzies|publisher=[[ABC News (Australia)|ABC News]]|url=https://www.abc.net.au/news/2021-01-31/victorian-liberal-mp-kevin-andrews-loses-preselection-for-seat/13107342|access-date=1 February 2021|archive-date=31 January 2021|archive-url=https://web.archive.org/web/20210131233050/https://www.abc.net.au/news/2021-01-31/victorian-liberal-mp-kevin-andrews-loses-preselection-for-seat/13107342|url-status=live}}</ref>
+* [[Nicolle Flint]] MP ([[Division of Boothby|Boothby]], SA) – announced retirement on 26 February 2021<ref>{{Cite news|last = Bourke|first = Latika|date = 26 February 2021|title = Liberal MP Nicolle Flint announces she's quitting federal politics|url = https://www.smh.com.au/national/liberal-mp-nicolle-flint-announces-she-s-quitting-federal-politics-20210226-p576bb.html|access-date = 26 February 2021|work = [[The Sydney Morning Herald]]|archive-date = 26 February 2021|archive-url = https://web.archive.org/web/20210226110729/https://www.smh.com.au/national/liberal-mp-nicolle-flint-announces-she-s-quitting-federal-politics-20210226-p576bb.html|url-status = live}}</ref>
+*[[Greg Hunt]] MP ([[Division of Flinders|Flinders]], Vic) – announced retirement on 2 December 2021<ref>{{cite web|url=https://www.abc.net.au/news/2021-12-02/health-minister-greg-hunt-to-retire-at-2022-federal-election/100624148|title=Health Minister Greg Hunt to retire from politics at 2022 federal election|publisher=ABC News|date=2 December 2021|access-date=2 December 2021|archive-date=2 December 2021|archive-url=https://web.archive.org/web/20211202044059/https://www.abc.net.au/news/2021-12-02/health-minister-greg-hunt-to-retire-at-2022-federal-election/100624148|url-status=live|author=Hitch, Georgia}}</ref>
+* [[Steve Irons]] MP ([[Division of Swan|Swan]], WA) – announced retirement on 24 September 2021<ref>{{Cite news|last = Garvey|first = Paul|date = 24 September 2021|title = Swan up for grabs as Irons to retire|url=https://www.theaustralian.com.au/nation/politics/wa-seat-of-swan-up-for-grabs-as-steve-irons-to-retire/news-story/3d131ecb7cd8203eb49e917975b68875|access-date = 24 September 2021|work = [[The Australian]]}}</ref>
+* [[Andrew Laming]] MP ([[Division of Bowman|Bowman]], Qld) – announced retirement on 28 March 2021,<ref>{{cite news|last1=Gooley|first1=Cameron|date=28 March 2021|title=Liberal MP Andrew Laming to quit politics at next election, Josh Frydenberg says|work=[[ABC News (Australia)|ABC News]]|url=https://www.abc.net.au/news/2021-03-28/andrew-laming-wont-contest-his-seat-next-election/100033900|access-date=28 March 2021|archive-date=28 March 2021|archive-url=https://web.archive.org/web/20210328003406/https://www.abc.net.au/news/2021-03-28/andrew-laming-wont-contest-his-seat-next-election/100033900|url-status=live}}</ref> disendorsed on 12 April 2021 after refusal to withdraw preselection nomination<ref>{{cite web|date=12 April 2021|title=Queensland's Liberal National Party blocks Andrew Laming from recontesting seat|url=https://www.abc.net.au/news/2021-04-12/qld-liberal-mp-andrew-laming-pre-selection-update/100064200|publisher=ABC News|author1=McKenna, Kate|author2=Riga, Rachel|access-date=22 April 2021|archive-date=23 April 2021|archive-url=https://web.archive.org/web/20210423004720/https://www.abc.net.au/news/2021-04-12/qld-liberal-mp-andrew-laming-pre-selection-update/100064200|url-status=live}}</ref>
+*[[Christian Porter]] MP ([[Division of Pearce|Pearce]], WA) – announced retirement on 1 December 2021<ref>{{cite web|last=Karp|first=Paul|date=1 December 2021|title=Christian Porter bemoans 'harshness of politics' as he announces he'll quit parliament|url=https://www.theguardian.com/australia-news/2021/dec/01/christian-porter-bemoans-harshness-of-politics-as-he-announces-hell-quit-parliament|website=[[Guardian Australia]] |access-date=1 December 2021|archive-date=1 December 2021|archive-url=https://web.archive.org/web/20211201081021/https://www.theguardian.com/australia-news/2021/dec/01/christian-porter-bemoans-harshness-of-politics-as-he-announces-hell-quit-parliament|url-status=live}}</ref>
+*[[Tony Smith (Victorian politician)|Tony Smith]] MP ([[Division of Casey|Casey]], Vic) – announced retirement on 14 July 2021<ref>{{cite web|last=Crowe|first=David|date=14 July 2021|title=Speaker Tony Smith to quit Parliament at next election|url=https://www.smh.com.au/politics/federal/speaker-tony-smith-to-quit-parliament-at-next-election-20210714-p589pb.html|access-date=14 July 2021|website=The Sydney Morning Herald |archive-date=14 July 2021|archive-url=https://web.archive.org/web/20210714064902/https://www.smh.com.au/politics/federal/speaker-tony-smith-to-quit-parliament-at-next-election-20210714-p589pb.html|url-status=live}}</ref>
+*Senator [[Concetta Fierravanti-Wells]] (NSW) – lost preselection 26 March 2022,<ref>{{cite news|url=https://www.theguardian.com/australia-news/2022/mar/26/concetta-fierravanti-wells-dumped-from-coalitions-nsw-senate-ticket|title=Concetta Fierravanti-Wells dumped from Coalition's NSW Senate ticket|agency=Australian Associated Press|date=26 March 2022|newspaper=[[Guardian Australia]]|access-date=2 April 2022|archive-date=29 March 2022|archive-url=https://web.archive.org/web/20220329044540/https://www.theguardian.com/australia-news/2022/mar/26/concetta-fierravanti-wells-dumped-from-coalitions-nsw-senate-ticket|url-status=live}}</ref> announced retirement 2 April 2022<ref>{{Cite tweet |author= Concetta Fierravanti-Wells |user= Senator_CFW |number= 1510152762222252038 |date=2 April 2022 |title= Have no issue losing a fair contest. This was a "dodgy" preselection. Given I lost by a handful of votes, was advised process open to legal challenge. Have no intent/inclination to pursue at this stage. See email to NSW Liberal members (29/3/22) outlining irregularities #auspol}}
+</ref>
+
+=== Nationals ===
+* [[Damian Drum]] MP ([[Division of Nicholls|Nicholls]], Vic) – announced retirement on 3 December 2021<ref>{{Cite tweet|title=After much consideration, I have made the decision to not contest next year’s federal election. #regionsmatter #improud|number=1466519108900450306|user=damiandrummp|author=Damien Drum MP|date=3 December 2021}}</ref><ref>{{cite web|url=https://www.canberratimes.com.au/story/7536302/nationals-mp-damian-drum-to-retire-at-poll/|title=Nationals MP Damian Drum to retire at poll|last1=Moore|first1=Georgie|last2=Giannini|first2=Dominic|work=The Canberra Times|date=3 December 2021|access-date=2 December 2021|archive-date=3 December 2021|archive-url=https://web.archive.org/web/20211203000001/https://www.canberratimes.com.au/story/7536302/nationals-mp-damian-drum-to-retire-at-poll/|url-status=live}}</ref>
+*[[Ken O'Dowd]] MP ([[Division of Flynn|Flynn]], Qld) – announced retirement on 5 January 2021<ref>{{cite news|url = https://www.pollbludger.net/2021/01/16/kellys-zeroes/|title = Kelly's zeroes|date = 16 January 2021|last = Bowe|first = William|newspaper = [[Poll Bludger]]|access-date = 17 January 2021|archive-date = 22 January 2021|archive-url = https://web.archive.org/web/20210122013716/https://www.pollbludger.net/2021/01/16/kellys-zeroes/|url-status = live}}</ref><section end="retiringmembers"/>
+
+==Opinion polling==
+{{excerpt|Opinion polling for the 2022 Australian federal election|Graphical summary|subsections=yes}}
+{{clear}}
+
+==Newspaper endorsements==
+Most major Australian newspapers publish editorial endorsements in the week leading up to election day.<ref name=":7">{{cite web |last=Geraets |first=Nell |date=20 May 2022 |title=Which party deserves to govern? Newspapers publish their election editorials |url=https://www.smh.com.au/politics/federal/which-party-deserves-to-govern-newspapers-publish-their-election-editorials-20220519-p5amvr.html |access-date=2022-05-20 |website=The Sydney Morning Herald}}</ref> As was the case at each of the past three elections, the majority of such editorials favoured the Coalition, with no papers having switched their endorsement from one party to another [[2019 Australian federal election#Newspaper endorsements|since 2019]]. Among the editorials supporting the Coalition were those of the two major national mastheads, ''[[The Australian]]'' and ''[[Australian Financial Review]]'' (''AFR''), and all but one of [[News Corp Australia|News Corp]]'s capital city dailies and Sunday editions. [[Nine Entertainment]] Company's metropolitan dailies, such as ''[[The Sydney Morning Herald]]'' and the Melbourne-based ''[[The Age]]'', both supported Labor, replicating their 2019 stance. Outside of the major media companies, editorials published by ''[[The Canberra Times]]'', ''[[The Saturday Paper]]'', and the ''[[Guardian Australia]]'' website opposed the Coalition; all three endorsed Labor,<ref name=":1">{{cite web|url=https://www.thesaturdaypaper.com.au/2022/05/14/its-time/165245040013887|title=It's time|date=14 May 2022|website=The Saturday Paper}}</ref><ref name=":8"/> with the latter also supporting the Greens and [[teal independents]].<ref name=":0"/>
+
+Editors generally professed "despondency" at a perceived lack of "broad vision" on both sides,<ref name=":2">{{cite news |date=20 May 2022 |title=Why the Morrison government does not deserve another term |work=[[The Sydney Morning Herald]] |url=https://www.smh.com.au/politics/federal/why-the-morrison-government-does-not-deserve-another-term-20220516-p5alsi.html |access-date=20 May 2022}}</ref><ref name=":3">{{cite news|date=20 May 2022|title=Choosing a leader for the challenges of tomorrow|work=[[The Australian]]|url=https://www.theaustralian.com.au/commentary/editorials/choosing-a-leader-for-the-challenges-of-tomorrow/news-story/0cd4fb4dc8b3c7c8dddeba212851f5fc|access-date=20 May 2022}}</ref>  as well as a lack of attention to long-term issues like tax reform,<ref name=":4">{{cite news |date=20 May 2022 |title=For integrity's sake, Australia needs a change of government |work=[[The Age]] |url=https://www.theage.com.au/politics/federal/for-integrity-s-sake-australia-needs-a-change-of-government-20220519-p5amqx.html |access-date=20 May 2022}}</ref> housing affordability,<ref name=":4"/> stagnant productivity,<ref name=":5"/> and high public debt.<ref name=":2"/><ref name=":5">{{cite web |date=19 May 2022 |title=Labor has failed to make a case against Morrison, or for itself |url=https://www.afr.com/politics/federal/labor-has-failed-to-make-a-case-against-morrison-or-for-itself-20220518-p5ami3 |access-date=2022-05-19 |website=Australian Financial Review}}</ref> Those endorsing the Coalition focused on Morrison's record rather than his platform. While chiding his propensity to "bulldoze his way through situations, clumsily handling issues that required a deft touch, a soft word or a steadier hand", ''The Australian'' credited Morrison's having "steered a government and his country through the most extraordinary, almost indescribably difficult period of our lifetimes", referring to low numbers of COVID-19 deaths and a strong economic recovery.<ref name=":3"/> The ''AFR'' contrasted this performance with a Labor "pitch dominated by talking points and unburdened by any substantial policy".<ref name=":5"/> Editors endorsing Labor focused on the issues of climate change and the establishment of a federal anti-corruption commission, judging the Coalition's efforts on both insufficient. For ''The Age'', "a change of government is needed to begin restoring integrity to federal politics and ... face up to the challenge of climate change."<ref name=":4"/>
+
+===Weekend editions===
+{| class="wikitable sortable right"
+|-
+! style="width:150px;"| Newspaper
+!City
+!Owner
+! colspan=2| Endorsement
+|-
+|''[[The Saturday Paper]]''
+| National
+|[[Schwartz Publishing]]
+| {{Australian party style|Labor}}" " |
+|Labor<ref name=":1"/>
+|-
+|''[[Sunday Mail (Adelaide)|Sunday Mail]]''
+|Adelaide
+|[[News Corp Australia|News Corp]]
+| {{Australian party style|Coalition}}" " |
+|Coalition<ref>{{Cite journal |date=15 May 2022 |title=Now is not the time to gamble on a new PM |journal=Sunday Mail |page=67}}</ref>
+|-
+|''[[The Sunday Mail (Brisbane)|Sunday Mail]]''
+|Brisbane
+|News Corp
+| {{Australian party style|Coalition}}" " |
+|Coalition<ref>{{Cite news |last=Jones |first=Chris |date=15 May 2022 |title=Editorial: Too much is at stake to bet on Albanese |work=The Courier Mail |url=https://www.couriermail.com.au/news/opinion/editorial-too-much-is-at-stake-to-bet-on-albanese/news-story/61b423e38425218c24ad19965958016e |access-date=16 May 2022 |url-access=subscription |url-status=live |archive-url=https://archive.today/2022.05.16-040218/https://www.couriermail.com.au/news/opinion/editorial-too-much-is-at-stake-to-bet-on-albanese/news-story/61b423e38425218c24ad19965958016e?amp&nk=a047c76d8032bad48ded8e8da5925e1f-1652673758 |archive-date=16 May 2022}}</ref>
+|-
+|''[[Herald Sun|Sunday Herald-Sun]]''
+|Melbourne
+|News Corp
+| {{Australian party style|Coalition}}" " |
+|Coalition<ref>{{Cite news |date=15 May 2022 |title=Editorial: Change too risky |page=56 |work=Sunday Herald-Sun}}</ref>
+|-
+|''[[The Sunday Telegraph (Sydney)|Sunday Telegraph]]''
+|Sydney
+|News Corp
+| {{Australian party style|Coalition}}" " |
+|Coalition<ref>{{Cite journal |date=15 May 2022 |title=Switching CEOs a risky business |journal=The Sunday Telegraph |page=96}}</ref>
+|}
+
+===Metropolitan dailies===
+{| class="wikitable sortable right"
+|-
+! style="width:150px;"| Newspaper
+!State
+!City
+!Owner
+! colspan=2| Endorsement
+|-
+|''[[The Advertiser (Adelaide)|The Advertiser]]''
+|SA
+|Adelaide
+|News Corp
+|{{Australian party style|Coalition}}" " |
+|Coalition<ref>{{Cite news |last=Deighton |first=Matt |date=20 May 2022 |title=In tough times bulldozer tops journeyman |work=The Advertiser}}</ref>
+|-
+|''[[The Age]]''
+|Vic
+|Melbourne
+|[[Nine Entertainment]]
+| {{Australian party style|Labor}}" " |
+|Labor<ref>{{Cite news |date=20 May 2022 |title=For integrity's sake, Australia needs a change of government |work=[[The Age]] |url=https://www.theage.com.au/politics/federal/for-integrity-s-sake-australia-needs-a-change-of-government-20220519-p5amqx.html |access-date=20 May 2022}}</ref>
+|-
+|''[[The Australian]]''
+|Aus
+|National
+|News Corp
+| {{Australian party style|Coalition}}" " |
+|Coalition<ref name=":3"/>
+|-
+|''[[Australian Financial Review]]''
+|Aus
+|National 
+|Nine Entertainment 
+|{{Australian party style|Coalition}}" " |
+|Coalition<ref name=":5"/>
+|-
+|''[[The Canberra Times]]''
+|ACT
+|Canberra
+|[[Australian Community Media]]
+| {{Australian party style|Labor}}" " |
+|Labor<ref name=":8">{{cite web|url=https://www.canberratimes.com.au/story/7744869/a-change-would-serve-the-national-interest/?cs=14245|title=Our say: Anthony Albanese, Labor deserve chance to form government|work=[[The Canberra Times]]|date=20 May 2022|accessdate=20 May 2022}}</ref>
+|-
+|''[[The Courier-Mail]]''
+|Qld
+|Brisbane
+|News Corp
+| {{Australian party style|Coalition}}" " |
+|Coalition<ref>{{Cite news |last=Jones |first=Chris |date=20 May 2022 |title=Editorial: Don't vote for a good bloke, vote for a proven leader |work=The Courier Mail |url=https://www.couriermail.com.au/news/opinion/editorial-dont-vote-for-a-good-bloke-vote-for-a-proven-leader/news-story/d3196c429df38a2e000c5192bb5795e8 |access-date=}}</ref>
+|-
+|''[[The Daily Telegraph (Sydney)|The Daily Telegraph]]''
+|NSW
+|Sydney
+|News Corp
+|{{Australian party style|Coalition}}" " |
+|Coalition<ref>{{Cite news |last=English |first=Ben |date=20 May 2022 |title=Bungler vs Dozer: Vote for the 'dozer this election |work=The Daily Telegraph}}</ref>
+|-
+|''[[Herald Sun]]''
+|Vic
+|Melbourne
+|News Corp
+|{{Australian party style|Coalition}}" " |
+|Coalition<ref>{{Cite news |last=Weir |first=Sam |date=20 May 2022 |title=Too much at stake |work=Herald Sun}}</ref>
+|-
+|''[[The Mercury (Hobart)|The Mercury]]''
+|Tas
+|Hobart
+|News Corp
+|
+|No endorsement<ref name=":7" />
+|-
+|''[[Northern Territory News]]''
+|NT
+|Darwin
+|News Corp
+|{{Australian party style|Labor}}" " |
+|Labor<ref>{{Cite news |last=Cahill |first=Denise |date=20 May 2022 |title=Voting Labor on Saturday will mean a better future for the Territory |work=NT News |url=https://www.ntnews.com.au/news/opinion/voting-labor-on-saturday-will-mean-a-better-future-for-the-territory/news-story/a290301b4a13b22d63e9223f8fab110b}}</ref>
+|-
+|''[[The Sydney Morning Herald]]''
+|NSW
+|Sydney
+|Nine Entertainment
+| {{Australian party style|Labor}}" "|
+|Labor<ref>{{Cite news |date=20 May 2022 |title=Why the Morrison government does not deserve another term |work=[[The Sydney Morning Herald]] |url=https://www.smh.com.au/politics/federal/why-the-morrison-government-does-not-deserve-another-term-20220516-p5alsi.html |access-date=20 May 2022}}</ref>
+|-
+|''[[The West Australian]]''
+|WA
+|Perth
+|[[Seven West Media]]
+|{{Australian party style|Coalition}}" "|
+|Coalition<ref>{{cite web |last1=De Ceglie |first1=Anthony |title=Editorial: It's Morrison, but with some crucial caveats |url=https://thewest.com.au/opinion/editorials/editorial-why-we-believe-the-morrison-government-should-be-returned-c-6871684 |website=The West Australian |access-date=20 May 2022 |date=21 May 2022 |url-access=subscription}}</ref>
+|}
+
+=== Online publications ===
+{| class="wikitable sortable right"
+|-
+! style="width:150px;"| Newspaper
+!City
+!Owner
+! colspan=2| Endorsement
+|-
+| rowspan="3" |''[[Guardian Australia]]''
+| rowspan="3" |National
+| rowspan="3" |[[Guardian Media Group]]
+| {{Australian party style|Labor}}" " |
+|Labor<ref name=":0">{{cite web |date=18 May 2022 |title=The Guardian view on the Australian federal election: say no to spin and inaction |url=https://www.theguardian.com/australia-news/2022/may/19/the-guardian-view-on-the-australian-federal-election-say-no-to-spin-and-inaction |access-date=2022-05-18 |website=The Guardian}}</ref>
+|-
+| {{Australian party style|Greens}}" " |
+|Greens<ref name=":0" />
+|-
+| {{Australian party style|Teal independent}}" " |
+|[[Teal independents]]<ref name=":0" />
+|}
+
+==Results==
+{{Import-blanktable}}
+
+===House of Representatives===
+{{see also|Results of the 2022 Australian federal election (House of Representatives)}}
+
+[[File:Aus House of Reps June 2022.svg|right|thumb|250px|'''[[Albanese government|Government]] (77)'''<br />
+{{Color box|{{Australian politics/party colours|Labor}}|border=darkgray}} [[Australian Labor Party|Labor]] (77)<br />
+<br />
+'''[[Opposition (Australia)|Opposition]] (58)'''<br />
+[[Coalition (Australia)|Coalition]]<br />
+{{Color box|{{Australian politics/party colours|Liberal}}|border=darkgray}} [[Liberal Party of Australia|Liberal]] (27)<br />
+{{Color box|{{Australian politics/party colours|LNP}}|border=darkgray}} [[Liberal National Party of Queensland|LNP]] (21){{efn|15 LNP MPs sit in the Liberal party room and 6 in the National party room}}<br />
+{{Color box|{{Australian politics/party colours|National}}|border=darkgray}} [[National Party of Australia|National]] (10)<br />
+<br />
+'''[[Crossbencher|Crossbench]] (16)'''<br />
+{{Color box|{{Australian politics/party colours|Greens}}|border=darkgray}} [[Australian Greens|Greens]] (4)<br />
+{{Color box|{{Australian politics/party colours|Nick Xenophon Team}}|border=darkgray}} [[Centre Alliance|Centre]] ([[Rebekha Sharkie|1]])<br />
+{{Color box|{{Australian politics/party colours|Katter's Australian Party}}|border=darkgray}} [[Katter's Australian Party|Katter]] ([[Bob Katter|1]])<br />
+{{Color box|{{Australian politics/party colours|Independent}}|border=darkgray}} [[Independent politician|Independent]] (10)
+]]
+
+{{Results of the 2022 Australian federal election (House of Representatives)}}
+
+===Senate===
+{{See also|Results of the 2022 Australian federal election (Senate)}}
+{| class="wikitable sortable tpl-blanktable" style="text-align:right;"
+|+ Senate ([[Single transferable vote|STV]] – [[Compulsory voting|CV]])
+! colspan="3" rowspan="2" | Party
+! colspan="3" | Primary vote
+! colspan="4" | Seats
+|-
+! Votes
+! %
+! ±
+! Seats<br />won
+! Not<br />up
+! New<br />total
+! Seat<br />change{{ref|a|[a]}}
+|-
+| rowspan="6" | &nbsp;
+| {{Australian party style|Liberal}} | &nbsp;
+| align=left | [[Liberal Party of Australia|Liberal]]/[[National Party of Australia|National]] joint ticket {{small|([[New South Wales|NSW]], [[Victoria (Australia)|Vic]])}}
+| 2,698,000
+| 20.15
+| −1.34
+| 5
+| 6
+| 11
+| {{steady}}
+|-
+| {{Australian party style|Liberal}} | &nbsp;
+| align=left | [[Liberal Party of Australia|Liberal]] {{small|([[Australian Capital Territory|ACT]], [[South Australia|SA]], [[Tasmania|Tas]], [[Western Australia|WA]])}}
+| 907,473
+| 6.81
+| −1.43
+| 6
+| 8
+| 14
+| {{decrease}} 2
+|-
+| {{Australian party style|LNP}} | &nbsp;
+| align=left | [[Liberal National Party of Queensland|Liberal National]] {{small|([[Queensland|Qld]])}}
+| 989,123
+| 7.43
+| −0.30
+| 2
+| 3
+| 5
+| {{decrease}} 1
+|-
+| {{Australian party style|CLP}} | &nbsp;
+| align=left | [[Country Liberal Party|Country Liberal]] {{small|([[Northern Territory|NT]])}}
+| 28,170
+| 0.21
+| −0.05
+| 1
+| 0
+| 1
+| {{steady}}
+|-
+| {{Australian party style|National}} | &nbsp;
+| align=left | [[National Party of Australia|National]] {{small|([[South Australia|SA]])}}
+| 3,478
+| 0.03
+| −0.14
+| 0
+| 0
+| 0
+| {{steady}}
+|-
+! colspan="2" style="text-align:left;" | [[Coalition (Australia)|Liberal/National Coalition]]
+!style="text-align:right;" | 4,626,244
+!style="text-align:right;" | 34.73
+!style="text-align:right;" | –3.02
+!style="text-align:right;" | 14
+!style="text-align:right;" | 17
+!style="text-align:right;" | 31
+!style="text-align:right;" | {{decrease}} 3
+|-
+| {{Australian party style|Labor|width:1px}} | &nbsp;
+| style="text-align:left;" colspan="2" | [[Australian Labor Party|Labor]]
+| 4,036,895
+| 30.30
+| +1.51
+| 15
+| 11
+| 26
+| {{steady}}
+|-
+| {{Australian party style|Greens}} | &nbsp;
+| style="text-align:left;" colspan="2" | [[Australian Greens|Greens]]
+| 1,650,930
+| 12.39
+| +2.20
+| 6
+| 6
+| 12
+| {{increase}} 3
+|-
+| {{Australian party style|One Nation}} | &nbsp;
+| style="text-align:left;" colspan="2" | [[Pauline Hanson's One Nation|One Nation]]
+| 567,658
+| 4.26
+| −1.14
+| 1
+| 1
+| 2
+| {{steady}}
+|-
+| {{Australian party style|Jacqui Lambie Network}} | &nbsp;
+| style="text-align:left;" colspan="2" | [[Jacqui Lambie Network|Lambie Network]] {{small|([[Tasmania|Tas]])}}
+| 29,020
+| 0.22
+| +0.01
+| 1
+| 1
+| 2
+| {{increase}} 1
+|-
+| {{Australian party style|Rex Patrick Team}} | &nbsp;
+| style="text-align:left;" colspan="2" | [[Rex Patrick Team]] {{small|([[South Australia|SA]])}}
+| 21,107
+| 0.16
+| +0.16
+| 0
+| 0
+| 0
+| {{decrease}} 1
+|-
+| {{Australian party style|Independent}} | &nbsp;
+| style="text-align:left;" colspan="2" |Independents {{ref|b|[b]}}
+| 113,070
+| 0.85
+| +0.44
+| 1
+| 0
+| 1
+| {{steady}}
+|-
+| style="background:gray;" | &nbsp;
+| style="text-align:left;" colspan="2" | Other
+| 12,276,186
+| 17.07
+| +2.43
+| 0
+| 0
+| 0
+| {{steady}}
+|-
+| &nbsp;
+| style="text-align:left;" colspan="2" | In doubt
+| 
+| 
+| 
+| 2{{ref|a|[a]}}
+| 
+| 
+| 
+|-
+| style="text-align:left;" colspan="3" |'''Total valid''' || '''13,321,610''' || '''100.00''' || – || '''40''' || '''36''' || '''76''' || –
+|-
+! colspan="10" |
+|-
+| style="text-align:left;" colspan="3" |Invalid/blank votes|| 650,613 || 4.66 || +0.85 || – || – || – || –
+|-
+| style="text-align:left;" colspan="3" |Turnout || 13,972,223 || 81.10 || –11.38 || – || – || – || –
+|-
+| style="text-align:left;" colspan="3" |Registered voters || 17,228,900 || – || – || –|| –|| –|| –
+|-
+| style="text-align:left; background:#eaecf0;" colspan="10"|'''Source:'''  [[Australian Electoral Commission|AEC]] for [https://tallyroom.aec.gov.au/SenateStateFirstPrefsByGroup-27966-NAT.htm#senPanel votes], ABC for [https://www.abc.net.au/news/elections/federal/2022/results/senate seats].
+|}
+<small>Results are not final and are updated regularly, with not all votes being updated at once. Last updated on 3 June 2022 9:14 AM AEST.
+:1 {{note|a}}Two seats whose winners have yet to be projected by analysts have been factored out of seat change figures until declared.
+:2 {{note|b}}Includes [[Centre Alliance]]-affiliated candidates [[Stirling Griff]] and [[Nick Xenophon]] who appeared on the ballot as Unendorsed Group "O".</small>
+
+==Seats changing hands==
+{{update|date=May 2022}}
+Members in italics did not re-contest their House of Representatives seats at this election.<ref>{{cite web|url=https://abc.net.au/news/elections/federal/2022/results|title=Australian Federal Election 2022 Live Results|website=abc.net.au}}</ref>
+{|class="wikitable"
+|- style="text-align:center"
+! rowspan="2" | Seat
+! colspan="4" | Pre-election
+! rowspan="2" | Swing
+! colspan="4" | Post-election
+|- style="text-align:center"
+! colspan="2" | Party
+! Member
+! Margin
+! Margin
+! Member
+! colspan="2" | Party
+|-
+| [[Division of Bennelong|Bennelong, NSW]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| ''[[John Alexander (Australian politician)|John Alexander]]''
+| style="text-align:right;" | 6.9
+| style="text-align:right;" | 7.9
+| style="text-align:right;" | 1.0
+| [[Jerome Laxale]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Boothby|Boothby, SA]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| ''[[Nicolle Flint]]''
+| style="text-align:right;" | 1.4
+| style="text-align:right;" | 4.4
+| style="text-align:right;" | 3.1
+| [[Louise Miller-Frost]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Brisbane|Brisbane, QLD]]
+| {{Australian party style|Liberal National}}|
+| {{Australian politics/name|Liberal National}}
+| [[Trevor Evans (politician)|Trevor Evans]]
+| style="text-align:right;" | 4.9
+| style="text-align:right;" | 8.6
+| style="text-align:right;" | 3.7
+| [[Stephen Bates]]
+| {{Australian politics/name|Greens}}
+| {{Australian party style|Greens}}|
+|-
+| [[Division of Chisholm|Chisholm, Vic]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Gladys Liu]]
+| style="text-align:right;" | 0.5
+| style="text-align:right;" | 6.8
+| style="text-align:right;" | 6.3
+| [[Carina Garland]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Curtin|Curtin, WA]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Celia Hammond (politician)|Celia Hammond]]
+| style="text-align:right;" | 14.0
+| style="text-align:right;" | 15.5
+| style="text-align:right;" | 1.2
+| [[Kate Chaney]]
+| {{Australian politics/name|Independent}}
+| {{Australian party style|Independent}}|
+|-
+| [[Division of Fowler|Fowler, NSW]]
+| {{Australian party style|Labor}}|
+| {{Australian politics/name|Labor}}
+| ''[[Chris Hayes (politician)|Chris Hayes]]''
+| style="text-align:right;" | 14.0
+| style="text-align:right;" | 16.1
+| style="text-align:right;" | 2.1
+| [[Dai Le]]
+| {{Australian politics/name|Independent}}
+| {{Australian party style|Independent}}|
+|-
+| [[Division of Goldstein|Goldstein, Vic]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Tim Wilson (Australian politician)|Tim Wilson]]
+| style="text-align:right;" | 7.8
+| style="text-align:right;" | 10.5
+| style="text-align:right;" | 2.7
+| [[Zoe Daniel]]
+| {{Australian politics/name|Independent}}
+| {{Australian party style|Independent}}|
+|-
+| [[Division of Griffith|Griffith, Qld]]
+| {{Australian party style|Labor}}|
+| {{Australian politics/name|Labor}}
+| [[Terri Butler]]
+| style="text-align:right;" | 2.9
+| style="text-align:right;" | 7.4
+| style="text-align:right;" | 10.3
+| [[Max Chandler-Mather]]
+| {{Australian politics/name|Greens}}
+| {{Australian party style|Greens}}|
+|-
+| [[Division of Hasluck|Hasluck, WA]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Ken Wyatt]]
+| style="text-align:right;" | 5.8
+| style="text-align:right;" | 11.7
+| style="text-align:right;" | 5.8
+| [[Tania Lawrence]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Higgins|Higgins, Vic]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Katie Allen (politician)|Katie Allen]]
+| style="text-align:right;" | 3.7
+| style="text-align:right;" | 4.7
+| style="text-align:right;" | 2.1
+| [[Michelle Ananda-Rajah]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Kooyong|Kooyong, Vic]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Josh Frydenberg]]
+| style="text-align:right;" | 5.6
+| style="text-align:right;" | 9.3
+| style="text-align:right;" | 2.9
+| [[Monique Ryan]]
+| {{Australian politics/name|Independent}}
+| {{Australian party style|Independent}}|
+|-
+| [[Division of Mackellar|Mackellar, NSW]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Jason Falinski]]
+| style="text-align:right;" | 13.2
+| style="text-align:right;" | 15.4
+| style="text-align:right;" | 2.2
+| [[Sophie Scamps]]
+| {{Australian politics/name|Independent}}
+| {{Australian party style|Independent}}|
+|-
+| [[Division of North Sydney|North Sydney, NSW]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Trent Zimmerman]]
+| style="text-align:right;" | 9.3
+| style="text-align:right;" | 12.2
+| style="text-align:right;" | 2.9
+| [[Kylea Tink]]
+| {{Australian politics/name|Independent}}
+| {{Australian party style|Independent}}|
+|-
+| [[Division of Pearce|Pearce, WA]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| ''[[Christian Porter]]''
+| style="text-align:right;" | 5.2
+| style="text-align:right;" | 14.1
+| style="text-align:right;" | 8.9
+| [[Tracey Roberts (politician)|Tracey Roberts]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Reid|Reid, NSW]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Fiona Martin]]
+| style="text-align:right;" | 3.2
+| style="text-align:right;" | 8.4
+| style="text-align:right;" | 5.2
+| [[Sally Sitou]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Robertson|Robertson, NSW]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Lucy Wicks (politician)|Lucy Wicks]]
+| style="text-align:right;" | 4.2
+| style="text-align:right;" | 6.4
+| style="text-align:right;" | 2.1
+| [[Gordon Reid (politician)|Gordon Reid]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Ryan|Ryan, Qld]]
+| {{Australian party style|Liberal National}}|
+| {{Australian politics/name|Liberal National}}
+| [[Julian Simmonds]]
+| style="text-align:right;" | 6.0
+| style="text-align:right;" | 8.8
+| style="text-align:right;" | 2.8
+| [[Elizabeth Watson-Brown]]
+| {{Australian politics/name|Greens}}
+| {{Australian party style|Greens}}|
+|-
+| [[Division of Swan|Swan, WA]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| ''[[Steve Irons]]''
+| style="text-align:right;" | 3.3
+| style="text-align:right;" | 12.2
+| style="text-align:right;" | 9.0
+| [[Zaneta Mascarenhas]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Tangney|Tangney, WA]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Ben Morton (politician)|Ben Morton]]
+| style="text-align:right;" | 9.5
+| style="text-align:right;" | 11.6
+| style="text-align:right;" | 2.1
+| [[Sam Lim]]
+| {{Australian politics/name|Labor}}
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Wentworth|Wentworth, NSW]]
+| {{Australian party style|Liberal}}|
+| {{Australian politics/name|Liberal}}
+| [[Dave Sharma]]
+| style="text-align:right;" | 1.3
+| style="text-align:right;" | 5.3
+| style="text-align:right;" | 4.0
+| [[Allegra Spender]]
+| {{Australian politics/name|Independent}}
+| {{Australian party style|Independent}}|
+|}
+
+==Maps==
+{{Col-begin}}
+{{Col-break|width=50%}}
+[[File:Australia General Election 2022 -- First-Preference Votes.svg|thumb|center|350px|First preference vote results]]
+{{Col-break|width=50%}}
+[[File:Australia General Election 2022 -- Two-Party-Preferred Votes.svg|thumb|center|350px|[[Two-party-preferred vote|Two-party-preferred]] (final) results]]
+{{Col-end}}
+
+==Aftermath and reactions==
+===Domestic reactions===
+Morrison conceded defeat and resigned as leader of the [[Liberal Party of Australia|Liberal Party]]; his successor will be decided at the next Liberal party room meeting.<ref name=resign>{{cite web|last1=Hitch|first1=Georgia|url=https://www.abc.net.au/news/2022-05-21/federal-election-live-blog-scott-morrison-anthony-albanese/101085640|title=Morrison says he will resign as leader of Liberal Party|publisher=ABC|date=21 April 2022|access-date=21 April 2022|archive-date=21 April 2022}}</ref> Albanese claimed victory and acknowledged Morrison's concession. He thanked his supporters, his colleagues, and his team for the win. He pledged to fulfill the promise of the [[Uluru Statement from the Heart]], not to leave anyone behind, and to unite Australia for a better future. He promised to end the climate wars and to commit to the pledges he has made during the election campaign.<ref>{{cite web |date=2022-05-21 |title=Australian election 2022: Anthony Albanese claims victory for Labor as Scott Morrison stands down as Liberal leader – live updates |url=https://www.theguardian.com/australia-news/live/2022/may/21/australian-election-2022-live-news-today-australia-federal-anthony-albanese-scott-morrison-who-won-winning-opinion-polls-polling-vote-labor-coalition-liberals-greens-independents-candidates-seats-odds-results-politics-latest-updates |access-date=2022-05-21 |website=the Guardian}}</ref> [[Australian Greens]] leader [[Adam Bandt]] celebrated his party's historic two seat gains in [[Queensland]], one each from the [[Liberal National Party of Queensland|Liberals]] and [[Australian Labor Party|Labor]], with a prospect of gaining another seat from the Liberals. He called this a historic "greenslide" as he thanked a record number of people in Queensland who voted Greens for the first time in this election.<ref>{{cite news |date=2022-05-22 |title='A microcosm of progressivism': Queensland Greens celebrate historic 'greenslide' in Brisbane as rivals go to ground |work=ABC News |url=https://www.abc.net.au/news/2022-05-22/qld-federal-election-lnp-regroup-as-greens-celebrate-major-win/101083852 |access-date=2022-05-22}}</ref>
+
+Two days after the election, Governor-General [[David Hurley]] swore in Albanese, deputy leader [[Richard Marles]], [[Jim Chalmers]], and Senators [[Penny Wong]] and [[Katy Gallagher]] as an interim five-person government. Although counting was still underway, the swearing in was expedited due to an upcoming meeting of the [[Quadrilateral Security Dialogue]]. The five ministers will divide all portfolios between them until the full ministry is sworn in. According to [[ABC News (Australia)|ABC News]], Hurley would not have sworn in Albanese without assurances that Labor could provide stable government, as well as legal advice that this was the proper course of action.<ref name="swornin-abc">{{cite news |url=https://www.abc.net.au/news/2022-05-23/anthony-albanese-sworn-in-australian-prime-minister/101089902 |title=Anthony Albanese and four senior frontbenchers sworn in ahead of Quad trip |last=Worthington |first=Brett |date=23 May 2022 |work=ABC News |access-date=23 May 2022}}</ref> At his first press conference after being sworn in, Albanese announced that he received assurances that crossbenchers [[Rebekha Sharkie]], [[Bob Katter]], [[Andrew Wilkie]], [[Helen Haines]], and [[Zali Steggall]] would provide supply and would not support a [[no-confidence motion]] against the government.<ref>{{cite news |url=https://www.skynews.com.au/australia-news/politics/prime-minister-anthony-albanese-confirms-deal-with-existing-crossbenchers-to-secure-confidence-amid-election-victory/news-story/0c515548eaa95a1278ba4878aabbf6c5 |title=Prime Minister Anthony Albanese confirms deal with existing crossbenchers to secure confidence amid election victory |last=Clarke|first=Tyrone|date=23 May 2022 |publisher=Sky News Australia|access-date=25 May 2022}}</ref>
+
+===International reactions===
+{{Update section|date=May 2022}}
+Several world leaders issued statements congratulating Albanese on his victory.
+* {{flag|Canada}}: Prime Minister [[Justin Trudeau]] released an official statement congratulating Albanese on his victory.<ref>{{cite web|url=https://pm.gc.ca/en/news/statements/2022/05/21/statement-prime-minister-results-general-election-australia|title=Statement by the Prime Minister on the results of the general election in Australia|work=Canada.ca|date=21 May 2022|accessdate=22 May 2022}}</ref>
+* {{flag|China}}: Premier [[Li Keqiang]] sent a message congratulating Albanese on his election win, ending two years of diplomatic freeze on a ministerial level between the two countries. He stated that China is ready to work with the new government and it is in the interests of both countries to have "sound and stable relations".<ref>{{cite news|url=https://www.smh.com.au/politics/federal/chinese-premier-congratulates-anthony-albanese-on-victory-hopes-for-sound-and-stable-relations-20220524-p5anzj.html|title=Chinese premier congratulates Anthony Albanese on victory, hopes for 'sound and stable' relations|newspaper=The Sydney Morning Herald |date=24 May 2022|access-date=24 May 2022|author=Galloway, Anthony}}</ref>
+* {{flag|Fiji}}: Prime Minister [[Frank Bainimarama]] congratulated Albanese and "welcomed" his plan for the Pacific "to put climate first".<ref>{{cite web |last=Singh |first=Shanil|title=Bainimarama sends well wishes to new Australian PM |url=https://www.fijivillage.com/news/Bainimarama-sends-well-wishes-to-new-Australian-PM-8fxr54/ |access-date=2022-05-23 |website=Fiji Village|date=May 22, 2022}}</ref><ref>{{cite web |last=Manager |first=Ritika Pratap Deputy News |title=Albanese ready to work with Pacific countries |url=https://www.fbcnews.com.fj/news/albanese-ready-to-work-with-pacific-countries/ |access-date=2022-05-23 |website=Fiji Broadcasting Corporation}}</ref>
+* {{flag|France}}: At a May 21 press conference, the then-outgoing foreign affairs minister [[Jean-Yves Le Drian]] said: "I can't stop myself from saying that the defeat of Morrison suits me very well." He was referencing Australia's cancellation of [[Attack-class submarine|a French–Australian submarine deal]] under the Morrison government.<ref>{{cite news |last=Torsoli |first=Albertina |date=2022-05-21 |title=France's Le Drian Says He's Happy Scott Morrison Lost Election |work=[[Bloomberg.com]] |url=https://www.bloomberg.com/news/articles/2022-05-21/france-s-le-drian-says-he-s-happy-australia-prime-minister-lost |access-date=2022-05-22}}</ref><ref>{{cite web |date=2022-05-21 |title=France's outgoing foreign minister welcomes defeat of Scott Morrison |url=https://www.theguardian.com/world/2022/may/21/frances-outgoing-foreign-minister-welcomes-defeat-of-scott-morrison |access-date=2022-05-25 |website=the Guardian |language=en|author=Badshah, Nadeem}}</ref> President [[Emmanuel Macron]] also hinted at the deal when he called Albanese on 26 May, both vowing to "rebuild a bilateral relationship founded on trust and respect".<ref>{{Cite news |date=27 May 2022 |title=Emmanuel Macron agrees to 'rebuild' France-Australia ties during phone call with Anthony Albanese |work=[[ABC News (Australia)]] |url=https://www.abc.net.au/news/2022-05-27/emmanuel-macron-agrees-to-rebuild-france-australia-ties-albanese/101107132 |access-date=28 May 2022 |archive-url=https://web.archive.org/web/20220527102420/https://www.abc.net.au/news/2022-05-27/emmanuel-macron-agrees-to-rebuild-france-australia-ties-albanese/101107132 |archive-date=27 May 2022}}</ref>
+* {{flag|India}}: Prime Minister [[Narendra Modi]] sent his congratulations to Albanese, highlighting his commitment to the [[Australia–India Comprehensive Strategic Partnership]].<ref name="india-response">{{cite web |title=PM Modi congratulates new Australian counterpart Anthony Albanese |url=https://www.business-standard.com/article/current-affairs/pm-modi-congratulates-new-australian-counterpart-anthony-albanese-122052100917_1.html |website=Business Standard India |access-date=21 May 2022 |date=21 May 2022}}</ref>
+* {{flag|New Zealand}}: Prime Minister [[Jacinda Ardern]] congratulated Albanese, stating that she was looking forward "to working with him on a range of issues including supporting New Zealanders living in Australia, making trans-Tasman business even easier, deepening our partnership with our close friends in the Pacific, and advancing our interests on the world stage."<ref>{{cite web|url=https://www.rnz.co.nz/news/political/467618/jacinda-ardern-congratulates-incoming-australian-prime-minister-anthony-albanese|title=Jacinda Ardern congratulates incoming Australian Prime Minister Anthony Albanese|work=RNZ|date=22 May 2022|accessdate=22 May 2022}}</ref> 
+* {{flag|Singapore}}: Prime Minister [[Lee Hsien Loong]] sent a letter to Albanese congratulating his election win, citing their shared longstanding ties and expressed his desire to work with him to continue advancing [[Australia–Singapore relations]].<ref>{{cite news |author1=Tiffany Ang |title=PM Lee congratulates Australia's Prime Minister-elect Anthony Albanese on election win |url=https://www.channelnewsasia.com/singapore/pm-lee-hsien-loong-congratulates-australia-antony-albanese-2699201 |access-date=22 May 2022 |work=[[CNA (TV network)|CNA]] |publisher=[[Mediacorp]] |date=22 May 2022 |archive-url=https://web.archive.org/web/20220522153357/https://www.channelnewsasia.com/singapore/pm-lee-hsien-loong-congratulates-australia-antony-albanese-2699201 |archive-date=22 May 2022 |url-status=live}}</ref><ref>{{cite news |last1=Auto |first1=Hermes |title=PM Lee sends letter of congratulations to Australian PM-elect Anthony Albanese |url=https://www.straitstimes.com/asia/se-asia/pm-lee-sends-letter-of-congratulations-to-australian-pm-elect-anthony-albanese |access-date=22 May 2022 |work=[[The Straits Times]] |publisher=[[SPH Media Trust]] |date=22 May 2022 |archive-url=https://web.archive.org/web/20220522153843/https://www.straitstimes.com/asia/se-asia/pm-lee-sends-letter-of-congratulations-to-australian-pm-elect-anthony-albanese |archive-date=22 May 2022 |url-status=live}}</ref>
+* {{flag|United Kingdom}}: Prime Minister [[Boris Johnson]] congratulated Albanese on [[Twitter]], saying that he looks forward to working with him on strengthening [[Australia–United Kingdom relations]] on trade and [[AUKUS]] partnership.<ref name="uk-reaction">{{cite web |title=Live: Albanese promises to bring Australians together, fully commits to Uluru Statement from the Heart |url=https://www.abc.net.au/news/2022-05-21/federal-election-live-blog-scott-morrison-anthony-albanese/101085640#live-blog-post-1211502315 |website=[[ABC News (Australia)|ABC News]] |access-date=21 May 2022 |date=20 May 2022}}</ref> The leader of the UK [[Labour Party (UK)|Labour Party]] and [[Leader of the Opposition (United Kingdom)|opposition leader]], [[Keir Starmer]], congratulated Albanese for ending "almost a decade of stale conservative rule".<ref>{{cite tweet|number=1528012688453935105 |title= A positive campaign by @AustralianLabor ends almost a decade of stale Conservative rule. You showed that Australia deserves better. Huge congratulations to @AlboMP and our sister party Australian Labor! | date= 2022-05-21 |access-date=2022-05-21 |website=Twitter |user=keir_starmer |first=Keir |last=Starmer |author-link=Keir Starmer}}</ref> 
+* {{flag|United States}}: President [[Joe Biden]] called Albanese on 22 May, congratulating him and reaffirming the US' commitment towards their bilateral relationship with Australia. Ahead of the Quad summit taking place two days later, Biden appreciated Albanese's commitment towards the security alliance and his decision to participate in the summit.<ref>{{Cite news |date=22 May 2022 |title=Joe Biden calls Anthony Albanese to congratulate him on election victory |website=[[Special Broadcasting Service|SBS News]] |publisher=[[Agence France-Presse]]/[[Australian Associated Press]] |url=https://www.sbs.com.au/news/article/joe-biden-calls-anthony-albanese-to-congratulate-him-on-election-victory/epovurjs8 |url-status=live |access-date=22 May 2022 |archive-url=https://web.archive.org/web/20220522132958/https://www.sbs.com.au/news/article/joe-biden-calls-anthony-albanese-to-congratulate-him-on-election-victory/epovurjs8 |archive-date=22 May 2022}}</ref>
+
+Albanese also received messages of congratulations from the leaders of [[Bangladesh]].<ref>{{cite news |url=https://www.thedailystar.net/news/bangladesh/diplomacy/news/sheikh-hasina-greets-australian-labor-leader-anthony-albanese-election-victory-3029051 |title=Sheikh Hasina greets Australian Labor leader Anthony Albanese on election victory |date=May 22, 2022 |newspaper=[[The Daily Star (Bangladesh)|The Daily Star]] |place=Dhaka}}}</ref> [[Indonesia]],<ref>{{cite tweet |user=jokowi |number=1528569773188976641 |date=May 23, 2022 |title=Congratulations Anthony Albanese @AlboMP  on your election as Prime Minister of Australia! Look forward to working closely with you in advancing our Comprehensive Strategic Partnership, including the concrete implementation of IA-CEPA |first=Joko |last=Widodo |author-link=Joko Widodo}}</ref> [[Israel]],<ref>{{cite web|url=https://www.timesofisrael.com/liveblog_entry/bennett-congratulates-new-australian-prime-minister/|title=Bennett congratulates new Australian prime minister|website=www.timesofisrael.com}}</ref> [[Italy]],<ref>{{cite web|url=https://www.afr.com/politics/federal/from-biden-to-bin-night-albanese-s-big-week-out-20220526-p5aon4|title=From Biden to bin night: Albanese's big week out|date=26 May 2022|website=Australian Financial Review}}</ref> [[Japan]],<ref>{{cite web|url=https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/24/remarks-by-president-biden-prime-minister-kishida-fumio-of-japan-prime-minister-narendra-modi-of-india-and-prime-minister-anthony-albanese-of-australia-at-the-second-in-person-quad-leaders/|title=Remarks by President Biden, Prime Minister Kishida Fumio of Japan, Prime Minister Narendra Modi of India, and Prime Minister Anthony Albanese of Australia at the Second In-Person Quad Leaders' Summit|date=24 May 2022|website=The White House}}</ref> the [[Netherlands]],<ref>{{cite web|url=https://www.newshub.co.nz/home/world/2022/05/australian-election-labor-s-anthony-albanese-wins-scott-morrison-quits-as-liberal-party-leader.html|title=Australian election: Labor's Anthony Albanese wins, Scott Morrison quits as Liberal party leader|via=www.newshub.co.nz}}</ref> [[Pakistan]],<ref>{{cite web|url=https://www.radio.gov.pk/22-05-2022/pm-shehbaz-felicitates-anthony-albanese-on-his-election-as-next-prime-minister-of-australia|title=PM felicitates Albanese on his election as Australian PM|website=www.radio.gov.pk}}</ref> [[Papua New Guinea]],<ref>{{cite web |url=https://www.looppng.com/node/112624|title=PM Congratulates Albanese, Thanks Morrison |date=24 May 2022|website=Loop PNG}}</ref> [[Samoa]],<ref>{{cite web|url=https://www.samoaobserver.ws/category/samoa/98409|title=Fiame welcomes new Australian Prime Minister|website=Samoa Observer}}</ref> [[Saudi Arabia]],<ref>{{cite web|url=https://arab.news/8eguk|title=Saudi leaders congratulate new Australian PM on being sworn in|date=24 May 2022|website=Arab News}}</ref> the [[Solomon Islands]],<ref>{{cite web|url=https://www.solomontimes.com/news/sogavare-congratulates-albanese-on-his-election-win/11869|title=Sogavare Congratulates Albanese on His Election Win – Solomon Times Online|website=SolomonTimes.com|date=May 24, 2022}}</ref> [[Sri Lanka]],<ref>{{cite news |url=http://www.adaderana.lk/news/82594/president-rajapaksa-congratulates-australian-prime-minister-elect |title=President Rajapaksa congratulates Australian prime minister-elect |date=May 22, 2022 |work=Ada Derana}}</ref> and [[Vietnam]].<ref>{{cite web |url=https://nhandan.vn/tin-tuc-su-kien/thu-chuc-mung-ong-anthony-albanese-duoc-bau-lam-thu-tuong-australia-698848/ |title=Thư chúc mừng ông Anthony Albanese được bầu làm Thủ tướng Australia |lang=Vietnamese |trans-title=Letter of congratulation to Mr. Anthony Albanese on being elected Prime Minister of Australia |date=26 May 2022 |website=Báo Nhân Dân}}</ref>
+
+==See also==
+* [[2022 Liberal Party of Australia leadership election]]
+* [[2022 National Party of Australia leadership spill]]
+* [[Albanese government]]
+* [[Albanese ministry]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* {{Commons category-inline}}
+
+{{Australian elections}}
+{{Politics of Australia}}
+{{Parliament of Australia}}
+{{Authority control}}
+
+[[Category:2022 Australian federal election| ]]
+[[Category:2022 elections in Australia]]
+[[Category:Federal elections in Australia]]
+[[Category:May 2022 events in Australia]]

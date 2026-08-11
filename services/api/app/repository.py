@@ -44,7 +44,7 @@ from .systems import validate_pack_rules
 PACKS_DIR = Path(__file__).parent / "packs"
 BACKTESTS_DIR = Path(__file__).parent / "backtests"
 CATALOG_PATH = Path(__file__).parent / "catalog" / "vdem-v16.json"
-MODEL_VERSION = "structural-ensemble-0.4.0"
+MODEL_VERSION = "structural-ensemble-0.5.0"
 G20_COUNTRY_IDS = frozenset(
     {
         "arg",
@@ -390,14 +390,6 @@ class CatalogRepository:
         incumbent_index = next(
             (index for index, item in enumerate(election.contestants) if item.incumbent), None
         )
-        driver_balance = sum(
-            item["contribution"] * item["confidence"] for item in data["drivers"]
-        ) / max(len(data["drivers"]), 1)
-        security_pressure = sum(
-            abs(item["contribution"]) * item["confidence"]
-            for item in data["drivers"]
-            if item["key"] in {"security", "conflict", "crime"}
-        )
         candidate_count = len(election.contestants)
         default_turnout_sensitivity = tuple(
             0.12 if index == incumbent_index else -0.12 / max(candidate_count - 1, 1)
@@ -438,41 +430,12 @@ class CatalogRepository:
                 for index, row in enumerate(evidence.poll_aggregate.covariance)
             )
             volatility = max(volatility, poll_dispersion)
-        macro_shift = 0.0
-        if evidence is not None:
-            values = evidence.macro_features
-            growth = float(values.get("real_gdp_growth", {}).get("value", 0))
-            inflation = float(values.get("inflation", {}).get("value", 0))
-            unemployment = float(values.get("unemployment", {}).get("value", 0))
-            macro_shift = max(
-                -0.01,
-                min(0.01, (growth - 0.5 * inflation - 0.25 * unemployment) / 100),
-            )
-            volatility += 0.002 * len(evidence.missing_macro_features)
         volatility = min(0.18, volatility)
-        base_fundamental_shift = max(-0.025, min(0.025, driver_balance * 0.035 + macro_shift))
-        driver_sensitivity = []
-        driver_count = max(len(data["drivers"]), 1)
-        for item in data["drivers"]:
-            coefficient = item["confidence"] / driver_count * 0.035
-            negative_raw = (
-                driver_balance * 0.035 + macro_shift + (-1 - item["contribution"]) * coefficient
-            )
-            positive_raw = (
-                driver_balance * 0.035 + macro_shift + (1 - item["contribution"]) * coefficient
-            )
-            driver_sensitivity.append(
-                DriverSensitivity(
-                    driver_key=item["key"],
-                    label=item["label"],
-                    observed_scenario=item["contribution"],
-                    negative_incumbent_share_shift=max(-0.025, min(0.025, negative_raw)),
-                    observed_incumbent_share_shift=base_fundamental_shift,
-                    positive_incumbent_share_shift=max(-0.025, min(0.025, positive_raw)),
-                    confidence=item["confidence"],
-                    clipped=abs(negative_raw) > 0.025 or abs(positive_raw) > 0.025,
-                )
-            )
+        # Qualitative pack drivers are reporting context, not fitted causal effects.
+        # They cannot move a forecast until a source-vintage coefficient model passes
+        # the same country-specific walk-forward promotion gates as every challenger.
+        base_fundamental_shift = 0.0
+        driver_sensitivity: list[DriverSensitivity] = []
         simulation = run_simulation(
             SimulationInput(
                 election=election,
@@ -483,7 +446,7 @@ class CatalogRepository:
                 campaign_steps=max(1, min(24, math.ceil(horizon_days / 7))),
                 incumbent_index=incumbent_index,
                 fundamental_shift=base_fundamental_shift,
-                security_volatility=volatility * security_pressure * 0.35,
+                security_volatility=0.0,
                 house_effects=tuple(data["model"].get("house_effects", [0] * candidate_count)),
                 turnout_sensitivity=tuple(
                     data["model"].get("turnout_sensitivity", default_turnout_sensitivity)

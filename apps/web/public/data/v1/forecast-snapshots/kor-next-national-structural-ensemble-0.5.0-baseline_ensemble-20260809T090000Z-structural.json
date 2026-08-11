@@ -1,0 +1,112 @@
+{
+  "id": "kor-next-national-structural-ensemble-0.5.0-baseline_ensemble-20260809T090000Z-structural",
+  "election_id": "kor-next-national",
+  "as_of": "2026-08-09T09:00:00Z",
+  "published_at": "2026-08-09T09:00:00Z",
+  "model_version": "structural-ensemble-0.5.0",
+  "model_family": "baseline_ensemble",
+  "selection_status": "baseline retained until reliable walk-forward promotion evidence",
+  "simulation_count": 1000000,
+  "seed": 4171740656,
+  "data_quality": "D",
+  "freshness": "structural-only; no source-vintage feature snapshot",
+  "missing_drivers": [
+    "Economic voting environment",
+    "Opposition coordination",
+    "Election timing",
+    "Source-vintage polling and fundamentals",
+    "Source-vintage polling",
+    "Validated historical release-vintage backtest",
+    "Subnational model"
+  ],
+  "regional_forecast_supported": false,
+  "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
+  "majority_probability": 0.603565,
+  "turnout_median": 0.6199753880500793,
+  "forecast_horizon_days": 1096,
+  "uncertainty_scale": 1.5682028834163937,
+  "effective_volatility": 0.18,
+  "outcomes": [
+    {
+      "contestant_id": "government-camp",
+      "win_probability": 0.436611,
+      "projected_share": 0.39404624700546265,
+      "share_low": 0.09400096200406553,
+      "share_high": 0.6806569188833236,
+      "projected_seats": null,
+      "seats_low": null,
+      "seats_high": null
+    },
+    {
+      "contestant_id": "opposition-camp",
+      "win_probability": 0.433535,
+      "projected_share": 0.39358773827552795,
+      "share_low": 0.09894710704684258,
+      "share_high": 0.677108708024025,
+      "projected_seats": null,
+      "seats_low": null,
+      "seats_high": null
+    },
+    {
+      "contestant_id": "other-field",
+      "win_probability": 0.129854,
+      "projected_share": 0.2123659998178482,
+      "share_low": 0.0027158695738762617,
+      "share_high": 0.4975854590535163,
+      "projected_seats": null,
+      "seats_low": null,
+      "seats_high": null
+    }
+  ],
+  "scenario_outcomes": [],
+  "coalition_outcomes": [],
+  "drivers": [
+    {
+      "key": "incumbency",
+      "label": "Governing-camp incumbency",
+      "value": "Structural prior only",
+      "contribution": 0.0,
+      "direction": "government",
+      "confidence": 0.2
+    },
+    {
+      "key": "economy",
+      "label": "Economic voting environment",
+      "value": "Source-vintage inputs pending",
+      "contribution": 0.0,
+      "direction": "government",
+      "confidence": 0.1
+    },
+    {
+      "key": "opposition_selection",
+      "label": "Opposition coordination",
+      "value": "Candidate field unresolved",
+      "contribution": 0.0,
+      "direction": "opposition",
+      "confidence": 0.1
+    },
+    {
+      "key": "timing",
+      "label": "Election timing",
+      "value": "Three-year planning horizon",
+      "contribution": 0.0,
+      "direction": "neutral",
+      "confidence": 0.1
+    }
+  ],
+  "driver_sensitivity": [],
+  "methodology_url": "/methodology",
+  "input_revision_ids": [],
+  "input_provenance": [],
+  "provenance": [
+    {
+      "source_id": "kor_electoral_authority_reference",
+      "label": "National Election Commission Republic of Korea",
+      "url": "https://www.nec.go.kr/",
+      "authority": "official reference",
+      "retrieved_at": "2026-08-09T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.nec.go.kr/"
+    }
+  ]
+}

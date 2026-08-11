@@ -124,15 +124,15 @@
     ]
   },
   "forecast": {
-    "id": "in-2029-lok-sabha-structural-ensemble-0.4.0-baseline_ensemble-20260811T120000Z-structural",
+    "id": "in-2029-lok-sabha-structural-ensemble-0.5.0-baseline_ensemble-20260811T120000Z-structural",
     "election_id": "in-2029-lok-sabha",
     "as_of": "2026-08-11T12:00:00Z",
     "published_at": "2026-08-11T12:00:00Z",
-    "model_version": "structural-ensemble-0.4.0",
+    "model_version": "structural-ensemble-0.5.0",
     "model_family": "baseline_ensemble",
     "selection_status": "baseline retained until reliable walk-forward promotion evidence",
     "simulation_count": 1000000,
-    "seed": 3842922955,
+    "seed": 1091289912,
     "data_quality": "D",
     "freshness": "structural-only; no source-vintage feature snapshot",
     "missing_drivers": [
@@ -145,41 +145,41 @@
     ],
     "regional_forecast_supported": false,
     "headline": "The NDA begins ahead on the 2024 alliance baseline, but a long horizon, alliance changes and constituency geography keep government control highly uncertain.",
-    "majority_probability": 0.927785,
-    "turnout_median": 0.6599910259246826,
+    "majority_probability": 0.927958,
+    "turnout_median": 0.6599705815315247,
     "forecast_horizon_days": 1013,
     "uncertainty_scale": 1.546130147665206,
     "effective_volatility": 0.16234366550484663,
     "outcomes": [
       {
         "contestant_id": "nda",
-        "win_probability": 0.485179,
-        "projected_share": 0.4184718728065491,
-        "share_low": 0.1500164233148098,
-        "share_high": 0.6770139545202255,
-        "projected_seats": 251,
-        "seats_low": 8,
+        "win_probability": 0.483781,
+        "projected_share": 0.4179432988166809,
+        "share_low": 0.14883043840527535,
+        "share_high": 0.676822856068611,
+        "projected_seats": 250,
+        "seats_low": 7,
         "seats_high": 515
       },
       {
         "contestant_id": "india-alliance",
-        "win_probability": 0.432169,
-        "projected_share": 0.39924606680870056,
-        "share_low": 0.13322499245405198,
-        "share_high": 0.6556352376937863,
-        "projected_seats": 229,
+        "win_probability": 0.433037,
+        "projected_share": 0.3997206389904022,
+        "share_low": 0.1339820832014084,
+        "share_high": 0.6557357430458068,
+        "projected_seats": 230,
         "seats_low": 5,
         "seats_high": 506
       },
       {
         "contestant_id": "other-parties",
-        "win_probability": 0.082652,
-        "projected_share": 0.18228204548358917,
-        "share_low": 0.0027133314753882585,
-        "share_high": 0.43895914852619167,
+        "win_probability": 0.083182,
+        "projected_share": 0.18233603239059448,
+        "share_low": 0.002714145858772099,
+        "share_high": 0.4395671203732489,
         "projected_seats": 63,
         "seats_low": 0,
-        "seats_high": 307
+        "seats_high": 308
       }
     ],
     "scenario_outcomes": [],
@@ -189,9 +189,9 @@
           "nda",
           "india-alliance"
         ],
-        "majority_probability": 0.934798,
+        "majority_probability": 0.934006,
         "seats_median": 529,
-        "seats_low": 236,
+        "seats_low": 235,
         "seats_high": 543
       },
       {
@@ -199,8 +199,8 @@
           "nda",
           "other-parties"
         ],
-        "majority_probability": 0.594597,
-        "seats_median": 332,
+        "majority_probability": 0.593772,
+        "seats_median": 331,
         "seats_low": 37,
         "seats_high": 538
       },
@@ -209,10 +209,10 @@
           "india-alliance",
           "other-parties"
         ],
-        "majority_probability": 0.54282,
-        "seats_median": 299,
+        "majority_probability": 0.544264,
+        "seats_median": 300,
         "seats_low": 28,
-        "seats_high": 535
+        "seats_high": 536
       }
     ],
     "drivers": [
@@ -257,73 +257,7 @@
         "confidence": 0.1
       }
     ],
-    "driver_sensitivity": [
-      {
-        "driver_key": "incumbency",
-        "label": "NDA incumbency and organization",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.28,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.0042938,
-        "observed_incumbent_share_shift": 0.0006342000000000002,
-        "positive_incumbent_share_shift": 0.0034062000000000007,
-        "confidence": 0.55,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "opposition_selection",
-        "label": "INDIA alliance coordination",
-        "negative_scenario": -1.0,
-        "observed_scenario": -0.12,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.0017066,
-        "observed_incumbent_share_shift": 0.0006342000000000002,
-        "positive_incumbent_share_shift": 0.0036134000000000006,
-        "confidence": 0.38,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "regional_parties",
-        "label": "Regional-party leverage",
-        "negative_scenario": -1.0,
-        "observed_scenario": -0.05,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.0021587999999999998,
-        "observed_incumbent_share_shift": 0.0006342000000000002,
-        "positive_incumbent_share_shift": 0.0037212,
-        "confidence": 0.42,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "economy",
-        "label": "Economic voting environment",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.02,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.0005082,
-        "observed_incumbent_share_shift": 0.0006342000000000002,
-        "positive_incumbent_share_shift": 0.0017318000000000004,
-        "confidence": 0.16,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "geography",
-        "label": "Constituency-level translation",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.0,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -6.579999999999986e-05,
-        "observed_incumbent_share_shift": 0.0006342000000000002,
-        "positive_incumbent_share_shift": 0.0013342000000000002,
-        "confidence": 0.1,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      }
-    ],
+    "driver_sensitivity": [],
     "methodology_url": "/methodology",
     "input_revision_ids": [],
     "input_provenance": [],

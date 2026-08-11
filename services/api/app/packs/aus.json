@@ -1,0 +1,95 @@
+{
+  "jurisdiction": {
+    "id": "aus",
+    "name": "Australia",
+    "iso3": "AUS",
+    "region": "East Asia & Pacific",
+    "eligibility": "v-dem:liberal-democracy",
+    "is_exception": false,
+    "forecast_enabled": true,
+    "coverage_status": "forecast",
+    "blocking_reasons": [
+      "Polling day is not fixed; 20 May 2028 is the latest practical simultaneous House and half-Senate date",
+      "No source-vintage current polling feed or division-level swing model is yet approved"
+    ],
+    "flag": "AU"
+  },
+  "source_adapters": [
+    {"source_id":"australia_aec","status":"approved","formats":["html","csv"]},
+    {"source_id":"australia_parliament","status":"reference_only_no_ingestion","formats":["html","pdf"]},
+    {"source_id":"australia_wikipedia_revision_archive","status":"approved","formats":["wikitext"]}
+  ],
+  "backtest_dataset": "au-federal-tpp-2010-2025-v1.json",
+  "backtest_report": "au-federal-tpp-2010-2025-v1-report.json",
+  "backtest_report_sha256": "c861f6594b55b5a788849799b26b3b2852757a564a461c8482096de448c359d2",
+  "rules": {
+    "engine": "unresolved",
+    "forecast_mode": "national_control_scenario",
+    "validation_status": "exploratory_proxy",
+    "office": "Australian House of Representatives",
+    "seats": 150,
+    "majority": 76,
+    "earliest_simultaneous_date": "2027-08-07",
+    "latest_simultaneous_date": "2028-05-20",
+    "timing_basis": "Parliamentary Library constitutional and statutory timetable"
+  },
+  "election": {
+    "id": "aus-next-national",
+    "jurisdiction_id": "aus",
+    "name": "Next Australian Federal Election",
+    "election_date": "2028-05-20",
+    "date_confidence": "latest practical simultaneous House and half-Senate date; election may be held from 7 August 2027",
+    "system": "unresolved",
+    "status": "exploratory government-control forecast; exact date and candidate lists pending",
+    "last_updated": "2026-08-11T09:00:00Z",
+    "contestants": [
+      {"id":"labor-majority","name":"Labor majority government","short_name":"ALP MAJ","color":"#e31b23","incumbent":true,"ideology":"Australian Labor Party","ballot_status":"scenario","basis":"Government-control outcome, not a ballot option or primary-vote estimate."},
+      {"id":"coalition-majority","name":"Coalition majority government","short_name":"L/NP MAJ","color":"#0057a8","ideology":"Liberal–National Coalition","ballot_status":"scenario","basis":"Government-control outcome, not a ballot option or primary-vote estimate."},
+      {"id":"hung-parliament","name":"Hung parliament / crossbench balance","short_name":"HUNG","color":"#c89b2b","ideology":"Crossbench balance of power","ballot_status":"scenario","basis":"No bloc reaches 76 seats; confidence-and-supply negotiations determine government."}
+    ],
+    "potential_candidates": [
+      {"id":"anthony-albanese","name":"Anthony Albanese","short_name":"ALBANESE","color":"#e31b23","incumbent":true,"ideology":"Australian Labor Party","ballot_status":"possible","basis":"Prime Minister and federal parliamentary Labor leader as of the model review."},
+      {"id":"angus-taylor","name":"Angus Taylor","short_name":"TAYLOR","color":"#0057a8","ideology":"Liberal–National Coalition","ballot_status":"possible","basis":"Leader of the Opposition as documented by Parliament in 2026."},
+      {"id":"crossbench","name":"Independent and minor-party candidates","short_name":"XBNCH","color":"#c89b2b","ideology":"Independent and minor-party field","ballot_status":"possible","basis":"Division-specific nominations remain open until the election timetable is issued."}
+    ],
+    "sources": [
+      {"source_id":"australia_aec_window","label":"Australian Electoral Commission — next election due August 2027 to May 2028","url":"https://www.aec.gov.au/media/2026/07-23.htm","authority":"official","retrieved_at":"2026-08-11T09:00:00Z","license":"CC-BY-4.0","license_url":"https://www.aec.gov.au/footer/copyright.htm"},
+      {"source_id":"australia_parliament_timing","label":"Parliamentary Library — earliest and latest federal election dates","url":"https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/FlagPost/2025/August/When_is_the_next_federal_election","authority":"official parliamentary research","retrieved_at":"2026-08-11T09:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.aph.gov.au/Help/Disclaimer_Privacy_Copyright"},
+      {"source_id":"australia_aec_2025_tpp","label":"Australian Electoral Commission — final 2025 national two-party-preferred result","url":"https://results.aec.gov.au/31496/Website/HouseTppByState-31496.htm","authority":"official final result","retrieved_at":"2026-08-11T09:00:00Z","license":"CC-BY-4.0","license_url":"https://www.aec.gov.au/footer/copyright.htm"},
+      {"source_id":"australia_parliament_shadow_ministry","label":"Parliament of Australia — Taylor Shadow Ministry","url":"https://www.aph.gov.au/-/media/03_Senators_and_Members/31_Senators/Shadow_Ministry.pdf","authority":"official parliamentary record","retrieved_at":"2026-08-11T09:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.aph.gov.au/Help/Disclaimer_Privacy_Copyright"},
+      {"source_id":"australia_alp_leadership","label":"Australian Labor Party — federal parliamentary leader","url":"https://www.alp.org.au/about/national-executive/","authority":"party primary source","retrieved_at":"2026-08-11T09:00:00Z","license":"LINK-ONLY-NO-INGESTION","license_url":"https://www.alp.org.au/privacy/"}
+    ]
+  },
+  "backtest_feasibility": {
+    "historical_election_count": 6,
+    "historical_span_years": 15,
+    "maximum_held_out_elections": 3,
+    "message": "Nine archive-verified folds hold out the 2019, 2022, and 2025 elections. Markov leads narrowly, but the archive spans only fifteen years and tests 7–28-day forecasts, so no model is promoted for the current long horizon.",
+    "validation_constraints": [
+      "The source-vintage polling archive begins in 2010 and spans fifteen years; promotion requires twenty.",
+      "All nine held-out folds evaluate 7-, 14-, or 28-day forecasts, not the current early-cycle horizon.",
+      "National TPP is diagnostic for major-party direction but does not replace a division-level seat and crossbench model.",
+      "Model-family confidence intervals overlap; the narrow Markov lead is not decisive."
+    ],
+    "source_ids": ["australia_aec", "australia_wikipedia_revision_archive"]
+  },
+  "model": {
+    "base_shares": [0.52, 0.25, 0.23],
+    "volatility": 0.11,
+    "volatility_reference_days": 90,
+    "turnout": 0.907,
+    "data_quality": "D",
+    "freshness": "official 2025 result and 2026 timing/leadership baseline; current source-vintage polling pending",
+    "headline": "Labor starts ahead on its 2025 majority, but the long and unfixed election window leaves substantial Coalition and hung-parliament paths."
+  },
+  "drivers": [
+    {"key":"seat_baseline","label":"2025 House baseline","value":"Labor won a large majority","contribution":0.42,"direction":"government","confidence":0.92},
+    {"key":"timing","label":"Election timing","value":"7 August 2027–20 May 2028 window","contribution":0.0,"direction":"neutral","confidence":0.90},
+    {"key":"leadership","label":"Leadership configuration","value":"Albanese government; Taylor opposition","contribution":0.08,"direction":"government","confidence":0.72},
+    {"key":"polling","label":"Current source-vintage polling","value":"Not yet ingested into a reproducible snapshot","contribution":0.0,"direction":"neutral","confidence":0.10},
+    {"key":"geography","label":"Division and crossbench translation","value":"National-control proxy only","contribution":0.0,"direction":"neutral","confidence":0.12}
+  ],
+  "feature_priors": {"status":"official-result structural baseline"},
+  "coalition_constraints": [],
+  "map": {"level":"national","geometry_status":"suppressed_until_validated"}
+}

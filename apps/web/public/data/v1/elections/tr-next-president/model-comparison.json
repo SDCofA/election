@@ -89,7 +89,7 @@
   "message": "At least eight out-of-sample folds are required; At least three distinct held-out elections are required; Source-vintage election history must span at least twenty years; Production forecast horizon is outside the evaluated historical horizon neighborhoods",
   "as_of": "2026-08-09T18:00:00Z",
   "published_at": "2026-08-09T18:00:00Z",
-  "model_version": "structural-ensemble-0.4.0",
+  "model_version": "structural-ensemble-0.5.0",
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [

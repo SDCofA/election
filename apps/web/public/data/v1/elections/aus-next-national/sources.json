@@ -2,29 +2,101 @@
   "election_id": "aus-next-national",
   "sources": [
     {
-      "source_id": "aus_electoral_authority_reference",
-      "label": "Australian Electoral Commission",
-      "url": "https://www.aec.gov.au/",
-      "authority": "official reference",
-      "retrieved_at": "2026-08-09T09:00:00Z",
+      "source_id": "australia_aec_window",
+      "label": "Australian Electoral Commission — next election due August 2027 to May 2028",
+      "url": "https://www.aec.gov.au/media/2026/07-23.htm",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T09:00:00Z",
+      "license": "CC-BY-4.0",
+      "license_url": "https://www.aec.gov.au/footer/copyright.htm"
+    },
+    {
+      "source_id": "australia_parliament_timing",
+      "label": "Parliamentary Library — earliest and latest federal election dates",
+      "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/FlagPost/2025/August/When_is_the_next_federal_election",
+      "authority": "official parliamentary research",
+      "retrieved_at": "2026-08-11T09:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
-      "license_url": "https://www.aec.gov.au/"
+      "license_url": "https://www.aph.gov.au/Help/Disclaimer_Privacy_Copyright"
+    },
+    {
+      "source_id": "australia_aec_2025_tpp",
+      "label": "Australian Electoral Commission — final 2025 national two-party-preferred result",
+      "url": "https://results.aec.gov.au/31496/Website/HouseTppByState-31496.htm",
+      "authority": "official final result",
+      "retrieved_at": "2026-08-11T09:00:00Z",
+      "license": "CC-BY-4.0",
+      "license_url": "https://www.aec.gov.au/footer/copyright.htm"
+    },
+    {
+      "source_id": "australia_parliament_shadow_ministry",
+      "label": "Parliament of Australia — Taylor Shadow Ministry",
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/31_Senators/Shadow_Ministry.pdf",
+      "authority": "official parliamentary record",
+      "retrieved_at": "2026-08-11T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.aph.gov.au/Help/Disclaimer_Privacy_Copyright"
+    },
+    {
+      "source_id": "australia_alp_leadership",
+      "label": "Australian Labor Party — federal parliamentary leader",
+      "url": "https://www.alp.org.au/about/national-executive/",
+      "authority": "party primary source",
+      "retrieved_at": "2026-08-11T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.alp.org.au/privacy/"
     }
   ],
-  "as_of": "2026-08-09T09:00:00Z",
-  "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "structural-ensemble-0.4.0",
+  "as_of": "2026-08-11T09:00:00Z",
+  "published_at": "2026-08-11T09:00:00Z",
+  "model_version": "structural-ensemble-0.5.0",
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [
     {
-      "source_id": "aus_electoral_authority_reference",
-      "label": "Australian Electoral Commission",
-      "url": "https://www.aec.gov.au/",
-      "authority": "official reference",
-      "retrieved_at": "2026-08-09T09:00:00Z",
+      "source_id": "australia_aec_window",
+      "label": "Australian Electoral Commission — next election due August 2027 to May 2028",
+      "url": "https://www.aec.gov.au/media/2026/07-23.htm",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T09:00:00Z",
+      "license": "CC-BY-4.0",
+      "license_url": "https://www.aec.gov.au/footer/copyright.htm"
+    },
+    {
+      "source_id": "australia_parliament_timing",
+      "label": "Parliamentary Library — earliest and latest federal election dates",
+      "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/FlagPost/2025/August/When_is_the_next_federal_election",
+      "authority": "official parliamentary research",
+      "retrieved_at": "2026-08-11T09:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
-      "license_url": "https://www.aec.gov.au/"
+      "license_url": "https://www.aph.gov.au/Help/Disclaimer_Privacy_Copyright"
+    },
+    {
+      "source_id": "australia_aec_2025_tpp",
+      "label": "Australian Electoral Commission — final 2025 national two-party-preferred result",
+      "url": "https://results.aec.gov.au/31496/Website/HouseTppByState-31496.htm",
+      "authority": "official final result",
+      "retrieved_at": "2026-08-11T09:00:00Z",
+      "license": "CC-BY-4.0",
+      "license_url": "https://www.aec.gov.au/footer/copyright.htm"
+    },
+    {
+      "source_id": "australia_parliament_shadow_ministry",
+      "label": "Parliament of Australia — Taylor Shadow Ministry",
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/31_Senators/Shadow_Ministry.pdf",
+      "authority": "official parliamentary record",
+      "retrieved_at": "2026-08-11T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.aph.gov.au/Help/Disclaimer_Privacy_Copyright"
+    },
+    {
+      "source_id": "australia_alp_leadership",
+      "label": "Australian Labor Party — federal parliamentary leader",
+      "url": "https://www.alp.org.au/about/national-executive/",
+      "authority": "party primary source",
+      "retrieved_at": "2026-08-11T09:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.alp.org.au/privacy/"
     }
   ]
 }

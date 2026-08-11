@@ -1,0 +1,901 @@
+{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{{Infobox election
+| election_name   = Australian federal election, 2013
+| country         = Australia
+| type            = parliamentary
+| ongoing         = no
+| previous_election = Australian federal election, 2010
+| previous_year   = 2010
+| next_election   = Next Australian federal election
+| next_year       = Next
+| seats_for_election = All 150 seats in the [[Australian House of Representatives]]<br />and 40 (of the 76) seats in the [[Australian Senate]]
+| election_date   = 7 September 2013
+| opinion_polls  =
+<!-- Liberal/ National Coalition -->
+| image1          = [[File:Tony Abbott - 2010 crop.jpg|126px|Tony Abbott]]
+| leader1         = [[Tony Abbott]]
+| leader_since1   = {{start date|df=yes|2009|12|1}}
+| party1          = Liberal/National coalition
+| leaders_seat1   = [[Division of Warringah|Warringah]]
+| popular_vote1   =
+| percentage1     =
+| swing1          =
+| last_election1  = 72 seats
+| seats_needed1   = 0
+| seats1          = 91 seats
+| seat_change1    = {{increase}}19
+
+<!-- Labor -->
+| image2          = [[File:Kevin Rudd DOS cropped.jpg|139px|Kevin Rudd]]
+| leader2         = [[Kevin Rudd]]
+| leader_since2   = {{start date|df=yes|2013|6|26}}
+| party2          = Australian Labor Party
+| leaders_seat2   = [[Division of Griffith|Griffith]]
+| popular_vote2   =
+| percentage2     =
+| swing2          =
+| last_election2  = 72 seats
+| seats_needed2   = 0
+| seats2          = 55 seats
+| seat_change2    = {{decrease}}17
+
+<!-- last/next PM -->
+| title           = [[Prime Minister of Australia|Prime Minister]]
+| before_election = [[Kevin Rudd]]
+| before_party    = Australian Labor Party
+| after_election  = [[Tony Abbott]]
+| after_party     = Liberal/National coalition
+| map_image       =
+| map_size        =
+| map_caption     =
+}}
+A federal election to determine the members of the 44th [[Parliament of Australia]] on 7 September 2013 is under way, although regular polling has finished. The [[Australian Labor Party|Labor Party]] was defeated by the [[Coalition (Australia)|Liberal/National Coalition]] on a current 14-seat 3.3 percent [[Two-party-preferred vote|two-party]] swing. The proclamation dissolving parliament and formally beginning the election period, was issued by the [[Governor-General of Australia|Governor-General]], [[Quentin Bryce]], on 5 August 2013. The [[Writ of election|writs of election]] were subsequently issued by Bryce and the state governors.
+
+Voting in Australia's federal elections has been [[compulsory voting|compulsory]] since [[Australian federal election, 1925|1925]]. For the [[Australian House of Representatives|House of Representatives]], a [[instant-runoff voting|preferential ballot]] system has been in use since [[Australian federal election, 1919|1919]], in [[Single-winner voting system|single-member seats]]. For the [[Australian Senate|Senate]] – the [[proportional representation|proportionally representative]] upper house – a [[single transferable vote]] system has been in use since [[Australian federal election, 1949|1949]], with optional [[group voting ticket]]s since [[Australian federal election, 1984|1984]]. The election is conducted by the [[Australian Electoral Commission]] (AEC).
+
+On 30 January 2013, Prime Minister [[Julia Gillard]] announced the election would be held on 14 September. However, following a [[Australian Labor Party leadership spill, June 2013|leadership ballot in June 2013]], she was replaced as leader by Rudd, who then abandoned the originally planned date. A [[Australian constitutional referendum, 2013|referendum]] on amending the [[Constitution of Australia|constitution]] to allow the [[Government of Australia|federal government]] to directly fund local councils that was initially planned to be held on the same day as the federal election could not go ahead on the date announced by Rudd.<ref>[http://news.ninemsn.com.au/national/2013/08/04/18/22/local-council-referendum-put-on-ice Local council referendum put on ice] [[Nine Network|Channel 9]] News, 4 August 2013</ref> This is because Section 128 of the [[Constitution of Australia]] requires that a referendum must be submitted to electors between two and six months after its passage through Parliament. As early voting started on 20 August it could not be submitted then.
+
+==Results==
+===House of Representatives===
+{{see|Members of the Australian House of Representatives, 2013–2016}}
+{| class="wikitable"
+|+'''House of Representatives ([[Instant-runoff voting|IRV]]) — Turnout 77.26% ([[Compulsory voting|CV]]) — [[Spoiled vote|Informal]] 5.90%'''
+! style="width:200px" colspan=3 | Party
+! style="width:70px;"| Votes
+! style="width:40px;"| %
+! style="width:40px;"| Swing
+! style="width:40px;"| Seats
+! style="width:40px;"| Change
+|-
+| {{Australian politics/party colours/Labor}} | &nbsp;
+| colspan=2 | [[Australian Labor Party]]
+| align=right|
+| align=right| 33.41
+| align=right| −4.58
+| align=right| 55<ref name=aec/>
+| align=right| −17
+|-
+| rowspan=5 | &nbsp;
+| colspan=2 | [[Coalition (Australia)|Coalition]]
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+| {{Australian politics/party colours/Liberal}} | &nbsp;
+| [[Liberal Party of Australia]]
+| align=right|
+| align=right| 31.97
+| align=right| +1.51
+| align=right| 58<ref name=aec/>
+| align=right| +14
+|-
+| {{Australian politics/party colours/LNP}} | &nbsp;
+| [[Liberal National Party of Queensland|Liberal National Party (QLD)]]
+| align=right|
+| align=right| 9.01
+| align=right| −0.11
+| align=right| 22
+| align=right| +1
+|-
+| {{Australian politics/party colours/Nationals}} | &nbsp;
+| [[National Party of Australia]]
+| align=right|
+| align=right| 4.36
+| align=right| +0.63
+| align=right| 9
+| align=right| +2
+|-
+| {{Australian politics/party colours/CLP}} | &nbsp;
+| [[Country Liberal Party (Northern Territory)|Country Liberal Party (NT)]]
+| align=right|
+| align=right| 0.33
+| align=right| +0.02
+| align=right| 1
+| align=right| 0
+|-
+| {{Australian politics/party colours/Greens}} | &nbsp;
+| colspan=2 | [[Australian Greens]]
+| align=right|
+| align=right| 8.50
+| align=right| −3.26
+| align=right| 1
+| align=right| 0
+|-
+|bgcolor=#D4A017| &nbsp;
+| colspan=2 | [[Palmer United Party]]
+| align=right|
+| align=right| 5.52
+| align=right| +5.52
+| align=right| 1
+| align=right| +1
+|-
+| {{Australian politics/party colours/Katter's Australian Party}} | &nbsp;
+| colspan=2 | [[Katter's Australian Party]]
+| align=right|
+| align=right| 1.04
+| align=right| +0.73
+| align=right| 1
+| align=right| +1
+|-
+| style="background:gray;"| &nbsp;
+| colspan=2 | Independents
+| align=right|
+| align=right| 1.38
+| align=right| −0.83
+| align=right| 2
+| align=right| −2
+|-
+| style="background:gray;"| &nbsp;
+| colspan=2 | Other
+| align=right|
+| align=right| 4.41
+| align=right|
+| align=right| 0
+| align=right| 0
+|-
+| &nbsp;
+| colspan=2 | Total
+| align=right|
+| align=right| &nbsp;
+| align=right| &nbsp;
+| align=right| '''150'''
+| align=right|
+|-
+! colspan="9"| [[Two-party-preferred vote]]
+|-
+| {{Australian politics/party colours/Liberal}} | &nbsp;
+| colspan=2 | [[Coalition (Australia)|Liberal/National Coalition]]
+| align=right|
+| align=right| '''53.47'''
+| align=right| +3.67
+| align=right| '''90'''
+| align=right| +17
+|-
+| {{Australian politics/party colours/Labor}} | &nbsp;
+| colspan=2 | [[Australian Labor Party]]
+| align=right|
+| align=right| 46.53
+| align=right| −3.67
+| align=right| 55
+| align=right| −15
+|}
+
+===Senate===
+
+{| class="wikitable"
+|+'''Senate ([[Single Transferable Vote|STV]] [[Group voting ticket|GV]]) — Turnout 67.47% ([[Compulsory voting|CV]]) — [[Spoiled vote|Informal]] 3.86%'''
+|-
+! colspan=2 style="width:190px" | '''Party'''
+! style="width:70px; text-align:center;"| '''Votes'''
+! style="width:40px; text-align:center;"| '''%'''<ref name=VTRsenate>[http://vtr.aec.gov.au/SenateStateFirstPrefsByGroup-17496-NAT.htm First Preferences by Group] Vitrual Tally Room</ref>
+! style="width:40px; text-align:center;"| '''Swing'''
+! style="width:40px; text-align:center;"| '''Seats won'''
+! style="width:40px; text-align:center;"| '''Total seats'''
+! style="width:40px; text-align:center;"| '''Change'''
+|-
+| {{Australian politics/party colours/Liberal}}| &nbsp;
+| [[Coalition (Australia)|Liberal/National Coalition]]
+| align=right|
+| align=right| 37.57
+| align=right| –0.73
+| align=right| 17
+| align=right| 33
+| align=right| –1
+|-
+| {{Australian politics/party colours/Labor}}| &nbsp;
+| [[Australian Labor Party]]
+| align=right|
+| align=right| 30.38
+| align=right| –4.75
+| align=right| 12
+| align=right| 25
+| align=right| –6
+|-
+| {{Australian politics/party colours/Greens}}| &nbsp;
+| [[Australian Greens]]
+| align=right|
+| align=right| 8.56
+| align=right| –4.55
+| align=right| 4
+| align=right| 10
+| align=right| +1
+|-
+| {{Australian politics/party colours/Palmer United Party}} | &nbsp;
+| [[Palmer United Party]]
+| align=right|
+| align=right| 4.98
+| align=right| +4.98
+| align="right" | 1
+| align="right" | 1 
+| align="right" | +1
+|-
+| {{Australian politics/party colours/Liberty and Democracy}} | &nbsp;
+| [[Liberal Democratic Party (Australia)|Liberal Democratic Party]]
+| align=right|
+| align=right| 3.84
+| align=right| +2.03
+| align=right| 1
+| align=right| 1
+| align=right| +1
+|-
+| style="background:#E87600;"| &nbsp;
+| [[Nick Xenophon|Xenophon Group]]
+| align=right|
+| align=right| 2.10
+| align=right| +2.10
+| align=right| 1
+| align=right| 1
+| align=right| 0
+|-
+| {{Australian politics/party colours/Sex Party}}| &nbsp;
+| [[Australian Sex Party]]
+| align=right|
+| align=right| 1.36
+| align=right| -0.68
+| align="right" | 1
+| align="right" | 1
+| align="right" | +1
+|-
+| {{Australian politics/party colours/Family First}} | &nbsp;
+| [[Family First Party]]
+| align=right|
+| align=right| 1.11
+| align=right| –0.99
+| align=right| 1
+| align=right| 1
+| align=right| +1
+|-
+| {{Australian politics/party colours/Democratic Labor}} | &nbsp;
+| [[Democratic Labor Party]]
+| align=right|
+| align=right| 0.84
+| align=right| –0.22
+| align=right| 0
+| align=right| 1
+| align=right| 0
+|-
+| {{Australian politics/party colours/Motoring Enthusiasts}} | &nbsp;
+| [[Australian Motoring Enthusiast Party]]
+| align=right|
+| align=right| 0.49
+| align=right| +0.49
+| align=right| 1
+| align=right| 1
+| align=right| +1
+|-
+| {{Australian politics/party colours/Sports Party}} | &nbsp;
+| [[Australian Sports Party]]
+| align=right|
+| align=right| 0.02
+| align=right| +0.02
+| align=right| 1
+| align=right| 1
+| align=right| +1
+|-
+| style="background:gray;"| &nbsp;
+| Other
+| align=right|
+| align=right| 9.49
+| align=right|
+| align=right| 0
+| align=right| 0
+| align=right| 0
+|-
+| &nbsp;
+| Total
+| align=right|
+| align=right| &nbsp;
+| align=right| &nbsp;
+| align=right| 40
+| align=right| 76
+|}
+
+The Senate has 76 seats. Forty seats were up for election; six in each of the six states, two for the ACT and two for the Northern Territory. The terms of the four senators from the territories commenced on election day, all other terms take effect on 1 July 2014.<ref>Commonwealth of Australia Constitution Act, [http://www.austlii.edu.au/au/legis/cth/consol_act/coaca430/s13.html Section 13]. Retrieved 6 September 2010.</ref><ref>''Senate (Representation of Territories) Act'' 1973, [http://www.austlii.edu.au/au/legis/cth/num_act/sota1973408/s6.html Section 6. Retrieved August 2010.]</ref>
+
+Senate results are provisional<ref>[http://www.abc.net.au/news/2013-09-09/senate-balance-of-power---who27s-who/4945390 Senate balance of power – Who's who: ABC 9 September 2013]</ref> with preference flows based on group voting tickets. The final result will not be known until a few weeks after the election. Provisional results indicate the [[Coalition (Australia)|Coalition]] government on 33 seats with the [[Australian Labor Party|Labor]] opposition on 25 seats. The [[Australian Greens|Greens]] are on 10 seats, and minor parties and independents on 8 seats – a total of 18 [[crossbencher]]s. The Coalition government would require the support of at least six non-coalition Senators to pass legislation.
+
+The Motoring Enthusiast and Sports parties are on course to win a senate seat each, despite getting record-low primary votes of 0.50 percent in Victoria and 0.22 percent<ref name=VTRsenate/> in Western Australia respectively. The balance of their 14.3 percent quotas came from preference flows after cross-transfer agreements between multiple small parties. The larger parties, including the incoming government, are looking at changing the Senate voting system to prevent this.<ref>[http://www.businessspectator.com.au/news/2013/9/8/election/election-coalition-shy-senate-majority Coalition shy of Senate majority: Business Spectator 9 September 2013]</ref><ref>[http://www.watoday.com.au/federal-politics/federal-election-2013/tony-abbott-fires-a-warning-shot-at-micro-parties-in-the-senate-20130909-2tf5b.html Tony Abbott fires a warning shot at micro parties in the Senate: WA Today 9 September 2013]</ref><ref>[http://news.ninemsn.com.au/national/2013/09/09/08/50/xenophon-wants-voting-reform Xenophon wants voting reform: NineMSN 9 September 2013]</ref>
+
+===Divisions in doubt===
+Members listed in italics did not re-contest their House of Representatives seats at this election. [[Division of McEwen|McEwen]] is also in doubt, but with the incumbent MP ahead.
+
+{|class="wikitable"
+! rowspan="2"  | Seat
+! colspan="4"  | Incumbent
+! rowspan="2"  | Swing
+! colspan="4"  | Challenger<ref>[http://www.abc.net.au/news/federal-election-2013/results/electorates/#seats-in-doubt Seats in doubt, 2013 election: ABC]</ref>
+|-
+! colspan="2" | Party
+! Member
+! Margin
+! Margin
+! Member
+! colspan="2"  | Party
+|-
+| [[Division of Fairfax|Fairfax, QLD]]
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+| Liberal National
+| ''[[Alex Somlyay]]''
+| style="text-align:right;"| N/A
+| style="text-align:right;"|
+| style="text-align:right;"| PUP ahead
+| [[Clive Palmer (businessman)|Clive Palmer]]
+| Palmer
+|bgcolor=#D4A017| &nbsp;
+|-
+|}
+
+===Divisions changing hands===
+Members in ''italics'' did not re-contest their House of Representatives seats at this election.
+
+{|class="wikitable"
+|-
+| rowspan="2" style="text-align:center"| '''Seat'''
+| colspan="4" style="text-align:center"| '''Pre-2013'''
+| rowspan="2" style="text-align:center"| '''Swing'''
+| colspan="4" style="text-align:center"| '''Post-2013'''<ref>[http://www.abc.net.au/news/federal-election-2013/results/electorates/#changing-seats Changing seats, 2013 election: ABC]</ref>
+|-
+| colspan="2" style="text-align:center"| '''Party'''
+| style="text-align:center"| '''Member'''
+| style="text-align:center"| '''Margin'''
+| style="text-align:center"| '''Margin'''
+| style="text-align:center"| '''Member'''
+| colspan="2" style="text-align:center"| '''Party'''
+|-
+| [[Division of Banks|Banks, NSW]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Daryl Melham]]
+| style="text-align:right;"| 1.45
+| style="text-align:right;"|3.35
+| style="text-align:right;"|1.90
+| [[David Coleman (Australian politician)|David Coleman]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Barton|Barton, NSW]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| ''[[Robert McClelland (Australian politician)|Robert McClelland]]''
+| style="text-align:right;"| 6.86
+| style="text-align:right;"| 
+| style="text-align:right;" | 
+| [[Nickolas Varvaris]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Bass|Bass, TAS]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Geoff Lyons]]
+| style="text-align:right;"| 6.74
+| style="text-align:right;"| 10.91
+| style="text-align:right;"| 4.17
+| [[Andrew Nikolić]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Braddon|Braddon, TAS]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Sid Sidebottom]]
+| style="text-align:right;"| 7.48
+| style="text-align:right;"|10.07
+| style="text-align:right;"|2.59
+| [[Brett Whiteley (politician)|Brett Whiteley]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Capricornia|Capricornia, QLD]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| ''[[Kirsten Livermore]]''
+| style="text-align:right;"| 3.68
+| style="text-align:right;"|4.48
+| style="text-align:right;"| 0.80
+| [[Michelle Landry]]
+| Liberal National
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Corangamite|Corangamite, VIC]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Darren Cheeseman]]
+| style="text-align:right;"| 0.28
+| style="text-align:right;"|4.20
+| style="text-align:right;"|3.92
+| [[Sarah Henderson]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Deakin|Deakin, VIC]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Mike Symon]]
+| style="text-align:right;"| 0.60
+| style="text-align:right;"|4.00
+| style="text-align:right;"|3.40
+| [[Michael Sukkar]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Dobell|Dobell, NSW]]
+| {{Australian politics/party colours/Independent}}|&nbsp;
+| Independent
+| [[Craig Thomson (politician)|Craig Thomson]]
+| style="text-align:right;"| 5.07
+| style="text-align:right;"|N/A
+| style="text-align:right;" | 0.80
+| [[Karen McNamara]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Eden-Monaro|Eden-Monaro, NSW]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Mike Kelly (Australian politician)|Mike Kelly]]
+| style="text-align:right;"| 4.24
+| style="text-align:right;"|4.86
+| style="text-align:right;"| 0.62
+| [[Peter Hendy (businessman)|Peter Hendy]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Fisher|Fisher, QLD]]
+| {{Australian politics/party colours/Independent}}|&nbsp;
+| Independent
+| [[Peter Slipper]]
+| style="text-align:right;"| 4.13
+| style="text-align:right;"|N/A
+| style="text-align:right;"|4.57
+| [[Mal Brough]]
+| Liberal National
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Hindmarsh|Hindmarsh, SA]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Steve Georganas]]
+| style="text-align:right;"| 6.08
+| style="text-align:right;"|8.17
+| style="text-align:right;"|2.09
+| [[Matt Williams (politician)|Matt Williams]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Indi|Indi, VIC]]
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+| Liberal
+| [[Sophie Mirabella]]
+| style="text-align:right;"|9.0
+| style="text-align:right;"|9.20
+| style="text-align:right;"|0.20
+| [[Cathy McGowan (consultant)|Cathy McGowan]]
+| Independent
+| {{Australian politics/party colours/Independent}}|&nbsp;
+|-
+| [[Division of La Trobe|La Trobe, VIC]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Laura Smyth]]
+| style="text-align:right;"| 1.66
+| style="text-align:right;"|5.73
+| style="text-align:right;"|4.07
+| [[Jason Wood (politician)|Jason Wood]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Lindsay|Lindsay, NSW]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[David Bradbury]]
+| style="text-align:right;"| 1.12
+| style="text-align:right;"|3.99
+| style="text-align:right;"|2.87
+| [[Fiona Scott]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Lyne|Lyne, NSW]]
+| {{Australian politics/party colours/Independent}}|&nbsp;
+| Independent
+| ''[[Rob Oakeshott]]''
+| style="text-align:right;"| 12.73
+| style="text-align:right;"|N/A
+| style="text-align:right;"|14.89
+| [[David Gillespie (politician)|David Gillespie]]
+| National
+| {{Australian politics/party colours/Nationals}}|&nbsp;
+|-
+| [[Division of Lyons|Lyons, TAS]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Dick Adams (politician)|Dick Adams]]
+| style="text-align:right;"| 12.29
+| style="text-align:right;"|13.57
+| style="text-align:right;"|1.28
+| [[Eric Hutchinson (Australian politician)|Eric Hutchinson]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+
+|-
+| [[Division of New England|New England, NSW]]
+| {{Australian politics/party colours/Independent}}|&nbsp;
+| Independent
+| ''[[Tony Windsor]]''
+| style="text-align:right;"| 21.52
+| style="text-align:right;"|N/A
+| style="text-align:right;"|20.93
+| [[Barnaby Joyce]]
+| National
+| {{Australian politics/party colours/Nationals}}|&nbsp;
+|-
+| [[Division of O'Connor|O'Connor, WA]]
+| {{Australian politics/party colours/Nationals}}|&nbsp;
+| [[National Party of Western Australia|National WA]]
+| ''[[Tony Crook]]''
+| style="text-align:right;"| 3.56
+| style="text-align:right;"|4.50
+| style="text-align:right;"|0.94
+| [[Rick Wilson (Australian politician)|Rick Wilson]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Page|Page, NSW]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Janelle Saffin]]
+| style="text-align:right;"| 4.19
+| style="text-align:right;"|6.87
+| style="text-align:right;"|2.68
+| [[Kevin Hogan (politician)|Kevin Hogan]]
+| National
+| {{Australian politics/party colours/National}}|&nbsp;
+|-
+| [[Division of Petrie|Petrie, QLD]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Yvette D'Ath]]
+| style="text-align:right;"| 2.51
+| style="text-align:right;"|3.17
+| style="text-align:right;"| 0.66
+| [[Luke Howarth]]
+| Liberal National
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Reid|Reid, NSW]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[John Murphy (Australian politician)|John Murphy]]
+| style="text-align:right;"| 2.68
+| style="text-align:right;"|3.60
+| style="text-align:right;" | 0.92
+| [[Craig Laundy]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Robertson|Robertson, NSW]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Deborah O'Neill]]
+| style="text-align:right;"| 1.00
+| style="text-align:right;"|4.07
+| style="text-align:right;"|3.07
+| [[Lucy Wicks (politician)|Lucy Wicks]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|}
+
+==Key dates==
+*[[Governor-General of Australia|Governor-General]] accepted [[Kevin Rudd]]'s advice to dissolve Parliament and hold a general election  – 4 August 2013
+*Prorogation of 43rd Parliament – 5.29 pm Monday 5 August 2013<ref>[http://www.comlaw.gov.au/Details/C2013G01196 Proclamation – Prorogue of the Parliament and dissolution of the House of Representatives; Gazette C2013G01196] at ComLaw, Australian Government, 5 August 2013</ref>
+*Dissolution of House of Representatives – 5.30 pm Monday 5 August 2013
+*Issue of writs – Monday 5 August 2013<ref>[http://www.comlaw.gov.au/Details/C2013G01199 Issue of Writs for Election of Members of the House of Representatives and of Senators to Represent the Australian Capital Territory and the Northern Territory; Gazette C2013G01199] at ComLaw, Australian Government, 6 August 2013</ref>
+*Close of rolls – 8 pm Monday 12 August 2013
+*Close of candidate nominations – 12 noon Thursday 15 August 2013
+*Declaration of candidate nominations – 12 noon Friday 16 August 2013
+*Election day or Polling day – Saturday 7 September 2013
+*Last day for the return of writs – Monday 13 November 2013
+*Deadline for first meeting of the 44th Parliament – Wednesday 13 December 2013
+
+==43rd Parliament==
+
+===House of Representatives===
+[[Image:Australian House of Reps April 2012 Rect.svg|right|thumb|250px|'''[[Australian House of Representatives|House of Representatives]] seat numbers prior to the 2013 election'''<br /><br />'''Government (71)'''<br />{{color box|{{Australian Labor Party/meta/color}}}} [[Australian Labor Party|Labor]] (71)<br /><br />'''Opposition<br />Coalition (72)'''<br />{{color box|#080cab}} [[Liberal Party of Australia|Liberal]] (44)<br />{{color box|#1456f1}} [[Liberal National Party of Queensland|LNP]] (20)<br />{{color box|#008000}} [[National Party of Australia|Nationals]] (6)<br />{{color box|#508050}} [[National Party of Western Australia|Nat. WA]] (1)<br />{{color box|#000090}} [[Country Liberal Party (Northern Territory)|CLP]] (1)<br /><br />'''Crossbench (7)'''<br />{{color box|#b3b3b3}} [[Independent (politics)|Ind.]] (5)<br />{{color box|#10c25b}} [[Australian Greens|Greens]] (1)<br />{{color box|#FE6F5E}} [[Katter's Australian Party|KAP]] (1)]]
+{{see also|House of Representatives results for the Australian federal election, 2010}}
+
+At the [[Australian federal election, 2010|2010 federal election]], [[Australian Labor Party|Labor]] and the [[Coalition (Australia)|Liberal/National Coalition]] each won 72 seats in the 150-seat [[Australian House of Representatives|House of Representatives]], four short of the requirement for [[majority government]], resulting in the first [[hung parliament]] since the [[Australian federal election, 1940|1940 federal election]]. On the [[Crossbencher|crossbench]], one member of the [[Australian Greens]], one member of the [[National Party of Western Australia]], and four [[Independent (politics)|independent]] members held the [[Balance of power (parliament)|balance of power]]. After gaining the support of the Greens and three independents on [[confidence and supply]] votes, Labor was able to form a [[minority government]] with a 76–74 margin.<ref>{{cite web|author=By online political correspondent Emma Rodgers |url=http://www.abc.net.au/news/stories/2010/09/07/3005028.htm?section=justin |publisher=ABC News |title=Labor clings to power |date=7 September 2010 |accessdate=8 September 2010}}</ref>
+
+====Changes in House numbers====
+On 24 November 2011, [[Harry Jenkins]] resigned as [[Speaker of the Australian House of Representatives|Speaker of the House of Representatives]] and returned to the Labor backbench. Later, that day, Deputy Speaker [[Peter Slipper]] was elected Speaker and quit the [[Liberal National Party of Queensland|Liberal National Party]] to become an [[Independent (politics)|independent]]. This changed nominal [[confidence and supply]] numbers on the floor of the house from 75–74 to 76–73.<ref>{{cite web|url=http://news.smh.com.au/breaking-news-national/slipper-long-plotted-against-us-lnp-20111124-1nwov.html |title=Slipper long plotted against us: LNP |work=The Sydney Morning Herald |date=24 November 2011 |accessdate=17 March 2012}}</ref><ref>{{cite web|last=Renee |first=By |url=http://www.news.com.au/national/how-alp-lured-slipper-to-speakers-chair/story-e6frfkvr-1226207163831 |title=How Labor lured Peter Slipper to Speaker's chair in Federal Parliament |publisher=News.com.au |date=27 November 2011 |accessdate=17 March 2012}}</ref> In January 2012, [[Andrew Wilkie]] withdrew his guarantee of confidence to the incumbent government, changing numbers to 75–73 in the event of his abstention, or 75–74 in the event of his support for a [[vote of no confidence]] in the government. In April 2012, Labor's [[Craig Thomson (politician)|Craig Thomson]] moved to the crossbenches as an independent MP, and in May, WA National [[Tony Crook (politician)|Tony Crook]] moved from the crossbenches to the Nationals, but did not join the Coalition. Changes brought the government to 71 seats, the Coalition 72 seats, and seven crossbenchers. On 9 October 2012, after an unsuccessful vote of no confidence in the speakership, Slipper resigned as Speaker and was replaced by Labor Deputy Speaker [[Anna Burke]]. Slipper remained an independent MP.
+
+====Pendulum====
+{{see also|Post-election pendulum for the Australian federal election, 2010|Pre-election pendulum for the Australian federal election, 2013}}
+
+===Senate===
+[[Image:Australian Senate July 2011 Rect.svg|right|thumb|250px|'''[[Australian Senate|Senate]] seat numbers prior to the 2013 election'''<br /><br />'''Government (31)'''<br />{{color box|{{Australian Labor Party/meta/color}}}} [[Australian Labor Party|Labor]] (31)<br /><br />'''Opposition<br />Coalition (34)'''<br />{{color box|#080cab}} [[Liberal Party of Australia|Liberal]] (24)<br />{{color box|#1456f1}} [[Liberal National Party of Queensland|LNP]] (6)<br />{{color box|#008000}} [[National Party of Australia|Nationals]] (3)<br />{{color box|#000080}} [[Country Liberal Party (Northern Territory)|CLP]] (1)<br /><br />'''Crossbench (11)'''<br />{{color box|#10c25b}} [[Australian Greens|Greens]] (9)<br />{{color box|#008080}} [[Democratic Labor Party|DLP]] (1)<br />{{color box|#b3b3b3}} [[Independent (politics)|Ind.]] (1)]]
+{{see also|Senate results for the Australian federal election, 2010}}
+Before the election, the 76-seat [[Australian Senate|Senate]] was made up of senators from the Coalition (34), Australian Labor Party (31), Australian Greens (9), [[Democratic Labor Party]] (1), and one independent senator, [[Nick Xenophon]]. The Greens held the sole [[Balance of power (parliament)|balance of power]]. Previously the Greens had held a shared balance of power with the [[Family First Party]] and Xenophon.
+
+Of the 76 Senate seats, 40 are contested. This corresponds to half of each state's allocation as well as both senators from the two major [[States and territories of Australia|territories]]. Newly elected state senators will commence their terms on 1 July 2014 and the senators of the territories will begin their terms immediately after their elections.<ref>''The election of territory senators coincides with general elections for the House of Representatives, and their term expires and the new term begins on the day of the election (Commonwealth Electoral Act, s. 42).'' [http://www.aph.gov.au/binaries/senate/pubs/odgers/pdf/odgers.pdf Odgers' Australian Senate Practice] 12th edn (2008), p. 17, at aph.gov.au</ref>
+
+{| border="1" cellspacing="0" cellpadding="5" style="font-size:95%; border-collapse:collapse;"
+|-
+||State/Territory||Seats||[[Australian Labor Party|ALP]]||[[Coalition (Australia)|Coalition]]||[[Australian Greens|Greens]]||Other
+|-
+||NSW||6||3||3||  ||
+|-
+||VIC||6||3||3|| ||
+|-
+||QLD||6||3||3|| ||
+|-
+||WA||6||2||3||1||
+|-
+||SA||6||2||2||1||1 ([[Independent (politics)|Ind.]], Xenophon)
+|-
+||TAS||6||3||2||1||
+|-
+||ACT||2||1||1|| ||
+|-
+||NT              ||    2   ||    1   ||    1   ||       ||
+|-
+||'''To be contested'''     ||'''40'''||'''18'''||'''18'''||'''3'''||'''1'''
+|-
+||Elected in 2010||   36   ||   13   ||   16   ||   6   ||   1 (DLP)
+|-
+||'''Total'''||'''76'''||'''31'''||'''34'''||'''9'''||'''2'''
+|}
+
+===Election period===
+On 30 January 2013, at a speech at the [[National Press Club (Australia)|National Press Club]], Prime Minister [[Julia Gillard]] announced the election would be held on Saturday 14 September 2013, although the Governor-General was not formally advised and no [[writ of election]] was issued.<ref name="DateAnnounced">{{cite web |url=http://www.news.com.au/national/julia-gillard-announces-federal-election-date/story-fncynjr2-1226565011494 |title=Julia Gillard announces federal election date |author=Malcolm Farr and Simon Benson |publisher=News.com.au |date=30 January 2013 |accessdate=3 February 2013}}</ref> [[Kevin Rudd]] succeeded Julia Gillard as Prime Minister on 27 June 2013.
+
+The ''[[Broadcasting Services Act 1992]]'' was checked by various commercial broadcasting media outlets and media councils as a result of Gillard's announcement.<ref name="media">{{cite web |url=http://www.theaustralian.com.au/national-affairs/equal-political-broadcast-time-starts-now/story-fn59niix-1226567128123 |title=Equal political broadcast time 'starts now' |author=David Crowe |work=[[The Australian]] |date=2 February 2013 |accessdate=3 February 2013}}</ref> The Act says, in part,
+{{quote|"Election period" means:<br />(a) in relation to any other election to a Parliament – the period that starts on:<br />– (i) the day on which the proposed polling day for the election is publicly announced; or<br />- (ii) the day on which the writs for the election are issued;<br />whichever happens first, and ends at the close of the poll on the polling day for the election;|source=[http://www.austlii.edu.au/au/legis/cth/consol_act/bsa1992214/ ''Broadcasting Services Act 1992''], Schedule 2, Section 1}}
+and
+{{quote|text=PART 2<br />b. (i) If, during an election period, a broadcaster broadcasts election matter, the broadcaster must give reasonable opportunities for the broadcasting of election matter to all political parties contesting the election, being parties which were represented in either House of the Parliament for which the election is to be held at the time of its last meeting before the election period.|source=[http://www.austlii.edu.au/au/legis/cth/consol_act/bsa1992214/ ''Broadcasting Services Act 1992''], Schedule 2, Section 3(2)}}
+
+This is interpreted as "equal time, over time" rather than equal time in the same broadcast, and that this requirement began with the announcement on 30 January 2013.<ref name="media" />
+
+==Retiring MPs and senators==
+The terms of Members of the House of Representatives who did not renominate ended at the dissolution of the parliament (5 August 2013).
+
+The terms of Senators who did not renominate will end on 30 June 2014, unless they represent the Australian Capital Territory or the Northern Territory, in which case their term will end on the day before polling day (6 September 2013). That date also applies to territory senators who contest the election but are defeated.
+
+Members and senators who have chosen not to renominate are as follows:
+
+===Independent===
+* [[Rob Oakeshott]] MP ([[Division of Lyne|Lyne]], NSW) – announced retirement 26 June 2013<ref name="OakeshottWindsor">{{cite news |url=http://www.abc.net.au/news/2013-06-26/tony-windsor-and-rob-oakeshott-are-quitting-politics/4780492 |title=Tony Windsor and Rob Oakeshott announce they are quitting politics |publisher=[[ABC News (Australia)|ABC News]] |location=Australia |date=26 June 2013 |author=Griffiths, Emma |accessdate=26 June 2013 }}</ref>
+* [[Tony Windsor]] MP ([[Division of New England|New England]], NSW) – announced retirement 26 June 2013<ref name=OakeshottWindsor/>
+
+===Labor===
+*[[Greg Combet]] MP ([[Division of Charlton|Charlton]], NSW) – announced retirement 29 June 2013<ref>{{cite news |url=http://www.news.com.au/national-news/nsw-act/combet-to-quit-politics-at-election/story-fnii5qqu-1226671840801 |title=Combet to quit politics at election |date=29 June 2013 |accessdate=29 June 2013 |work=[[Daily Telegraph (Australia)|The Daily Telegraph]] |author=Maiden, Smanatha }}</ref>
+*[[Simon Crean]] MP ([[Division of Hotham|Hotham]], VIC) – announced retirement 1 July 2013<ref>{{cite news|url=http://www.abc.net.au/news/2013-07-01/rudd-unveils-new-ministry/4790720 |title=Prime Minister Kevin Rudd's new-look ministry sworn into office at Government House – Rudd Returns |publisher=ABC News |date=1 July 2013 |accessdate=11 August 2013}}</ref>
+* [[Craig Emerson]] MP ([[Division of Rankin|Rankin]], Qld) – announced retirement 26 June 2013<ref>{{cite news |url=http://news.ninemsn.com.au/national/2013/06/26/21/16/craig-emerson-resigns-as-mp-minister |title=Craig Emerson resigns as MP, minister |work=[[Nine News]] |date=26 June 2013 |accessdate=26 June 2013 |agency=Australian Associated Press }}</ref>
+* [[Martin Ferguson]] MP ([[Division of Batman|Batman]], Vic) – announced retirement 29 May 2013<ref name="mferguson">{{cite news|title=Labor MP Martin Ferguson announces he will retire at election|url=http://www.abc.net.au/news/2013-05-29/labor-mp-martin-ferguson-announces-he-will-retire-at-election/4720860|accessdate=29 May 2013|publisher=ABC News|date=29 May 2013}}</ref>
+* [[Peter Garrett]] MP ([[Division of Kingsford Smith|Kingsford Smith]], NSW) – announced retirement 26 June 2013<ref>{{Cite news |url=http://news.ninemsn.com.au/national/2013/06/26/21/36/garrett-quits-as-rudd-returns |work=[[Nine News]] |title=Garrett quits as Rudd returns |date=26 June 2013 |accessdate=26 June 2013 |agency=Australian Associated Press}}</ref>
+* [[Steve Gibbons]] MP ([[Division of Bendigo|Bendigo]], Vic) – announced retirement 29 August 2011<ref>{{cite web|author=Thompson, Jeremy |url=http://www.abc.net.au/news/2011-08-29/labor-mp-to-stand-down/2860190 |title=Labor MP to stand down |publisher=ABC News |date=29 August 2011 |accessdate=17 March 2012}}</ref>
+* [[Julia Gillard]] MP ([[Division of Lalor|Lalor]], Vic) – announced retirement 26 June 2013<ref>{{cite news |url=http://www.abc.net.au/news/2013-06-26/rudd-prevails-over-gillard-in-leadership-ballot/4783422 |title=Kevin Rudd defeats Julia Gillard 57-45 in Labor leadership ballot, paving way for a return to PM |author=Griffith, Emma |publisher=[[ABC News (Australia)|ABC News]] |location=Australia |date=26 June 2013 |accessdate=26 June 2013 }}</ref>
+* [[Sharon Grierson]] MP ([[Division of Newcastle|Newcastle]], NSW) – announced retirement 18 July 2012<ref>{{cite news |url=http://www.theherald.com.au/news/local/news/politics/federal-mp-sharon-grierson-announces-retirement/2628014.aspx|title=Federal MP Sharon Grierson announces retirement |work=Newcastle Herald |date=18 July 2012 |accessdate=18 July 2012}}</ref>
+* [[Harry Jenkins]] MP ([[Division of Scullin|Scullin]], Vic) – announced retirement 26 July 2012<ref>{{cite web|url=http://www.abc.net.au/news/2012-07-26/harry-jenkins-to-retire/4156470|title=Jenkins announces retirement from politics |publisher=ABC News |location=Australia |date=26 July 2012|accessdate=26 July 2012}}</ref>
+* [[Kirsten Livermore]] MP ([[Division of Capricornia|Capricornia]], Qld) – announced retirement 27 November 2012<ref name="Kirsten Livermore announces she will not contest">{{cite news |last=Scott |first=Steven |title=Federal Labor Capricornia MP Kirsten Livermore announces she will not contest the next election |url=http://www.news.com.au/national/federal-labor-capricornia-mp-kirsten-livermore-announces-she-will-not-contest-the-next-election/story-fndo4ckr-1226525155667 |accessdate=27 November 2012 |newspaper=[[The Courier Mail]] |date=27 November 2012}}</ref>
+* [[Robert McClelland (Australian politician)|Robert McClelland]] MP ([[Division of Barton|Barton]], NSW) – announced retirement 29 January 2013<ref>{{cite news |url=http://www.abc.net.au/news/2013-01-29/mcclelland-to-quit-politics/4489534 |title=McClelland to quit politics |publisher=ABC News |location=Australia |date=29 January 2013}}</ref>
+* [[Nicola Roxon]] MP ([[Division of Gellibrand|Gellibrand]], VIC) – announced retirement 2 February 2013<ref>{{cite news |url=http://news.theage.com.au/breaking-news-national/nicola-roxon-to-quit-politics-reports-20130202-2dqq9.html |title=Nicola Roxon to quit politics: reports |work=The Age |date=2 February 2013}}</ref>
+* [[Stephen Smith (Australian politician)|Stephen Smith]] MP ([[Division of Perth|Perth]], WA) – announced retirement 27 June 2013<ref name="ABC-2013-06-27">{{cite news |url=http://www.abc.net.au/news/2013-06-27/stephen-smith-to-retire-from-politics/4785742?section=wa |title=Defence Minister Stephen Smith to retire from politics |author=Griffiths, Emma |publisher=[[ABC News (Australia)|ABC News]] |location=Australia |date=27 June 2013 |accessdate=27 June 2013 }}</ref>
+* Senator [[Mark Bishop]] (WA) – announced retirement 15 April 2013<ref>{{cite web|author=Swan, Jonathan |url=http://www.theage.com.au/opinion/political-news/wa-labor-senator-bishop-to-retire-20130415-2hv87.html |title=WA Labor senator Bishop to retire |work=[[The Age]] |date=15 April 2013 |accessdate=26 June 2013 }}</ref>
+* Senator [[Trish Crossin]] (NT) – lost preselection 28 January 2013<ref name="crossin">{{cite news|last=Kenny|first=Mark|title=Crossin calls for NT stolen generation payout|url=http://www.smh.com.au/opinion/political-news/crossin-calls-for-nt-stolen-generation-payout-20130129-2diwq.html|accessdate=30 January 2013|newspaper=The Sydney Morning Herald|date=28 January 2013}}</ref>
+* Senator [[John Hogg]] (Qld) – announced retirement 10 August 2012<ref name="hoggretire">{{cite news|title=Senate President Hogg announces retirement|url=http://www.abc.net.au/news/2012-08-10/senate-president-hogg-announces-retirement/4191126|accessdate=10 August 2012|publisher=ABC News |location=Australia |date=10 August 2012}}</ref>
+
+===Liberal===
+* [[Joanna Gash]] MP ([[Division of Gilmore|Gilmore]], NSW) – announced retirement 25 January 2012<ref>{{cite news|title=Lib MP to quit federal politics|url=http://news.ninemsn.com.au/article.aspx?id=8408499|accessdate=25 January 2012|newspaper=ninemsn|date=25 January 2012}}{{dead link|date=September 2013}}</ref>
+* [[Barry Haase]] MP ([[Division of Durack|Durack]], WA) – announced retirement 15 June 2013<ref>{{cite web|url=http://www.kimberleypage.com.au/2013/06/barry-haase-mhr-retires/ |title=News and Information from Western Australia's Kimberley Region, Kunnunurra news, Fitzroy Crossing News, Broome News, Derby News, Halls Creek News |publisher=Kimberley Page |date=15 June 2013 |accessdate=26 June 2013}}</ref>
+* [[Judi Moylan]] MP ([[Division of Pearce|Pearce]], WA) – announced retirement 28 July 2011<ref name=moywash/>
+* [[Alby Schultz]] MP ([[Division of Hume|Hume]], NSW) – announced retirement 17 April 2012<ref>{{cite news|title=Alby Schulz to retire|url=http://www.smh.com.au/opinion/political-news/alby-schulz-to-retire-20120417-1x54z.html|accessdate=9 January 2013|newspaper=[[The Sydney Morning Herald]]|date=17 April 2012}}</ref>
+* [[Patrick Secker]] MP ([[Division of Barker|Barker]], SA) – announced retirement on 25 June 2013<ref>[http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;db=CHAMBER;id=chamber%2Fhansardr%2F2664e920-4f1e-4c71-99c4-5a88ac43e482%2F0081;query=Id%3A%22chamber%2Fhansardr%2F2664e920-4f1e-4c71-99c4-5a88ac43e482%2F0000%22 House of Reopresentatives Hansard, 25 June 2013]. Retrieved 14 August 2013</ref>
+* [[Mal Washer]] MP ([[Division of Moore|Moore]], WA) – announced retirement 28 July 2011<ref name="moywash">{{cite web |url=https://bodypoliticaus.wordpress.com/2011/07/28/mal-washer-and-judi-moylan-true-liberals-in-a-conservative-heartland/ |work=The Body Politic |title=Mal Washer and Judi Moylan – True liberals in a conservative heartland |date=28 July 2011 |accessdate=17 March 2012}}</ref><ref>{{cite web|url=http://www.abc.net.au/worldtoday/content/2011/s3293311.htm |title=The World Today |publisher=Australian Broadcasting Corporation |date=15 August 2011 |accessdate=17 March 2012}}</ref>
+* Senator [[Alan Eggleston]] (WA) – announced retirement 9 April 2012<ref>{{cite news|url=http://au.news.yahoo.com/thewest/a/-/breaking/13377924/libs-search-for-new-senators/|title=Libs search for new senators|work=[[The West Australian]]|date=10 April 2012}}</ref>
+* Senator [[Gary Humphries]] (ACT) – lost preselection 23 February 2013<ref>[http://www.abc.net.au/news/2013-06-26/humphries-farewells-senate-after-40-years-in-politics/4783398?section=act Humphries farewells Senate after 40 years in politics, ABC News, 26 June 2013]. Retrieved 26 June 2013</ref>
+
+===LNP===
+* [[Paul Neville (politician)|Paul Neville]] MP ([[Division of Hinkler|Hinkler]], Qld) − announced retirement 10 October 2012<ref>{{cite news|url=http://www.abc.net.au/news/2012-10-10/bundaberg-mp-paul-neville-to-quit/4305108|last=Adcock|first=Frances|title=Bundaberg MP Paul Neville to quit|date=10 October 2012|accessdate=11 October 2012}}</ref>
+* [[Alex Somlyay]] MP ([[Division of Fairfax|Fairfax]], Qld) – announced retirement 25 September 2010<ref>{{cite news |url=http://www.canberratimes.com.au/news/local/news/general/lib-speaks-for-himselfdefies-gag-by-abbott/1951905.aspx |title=Lib speaks for himself, defies gag by Abbott |work=[[The Canberra Times]] |date=25 September 2010}}{{dead link|date=September 2013}}</ref>
+* Senator [[Ron Boswell]] (Qld) – announced retirement 21 September 2012<ref>{{cite news|url=http://www.brisbanetimes.com.au/queensland/veteran-ron-boswell-wont-renominate-for-senate-20120921-26bt2.html|title=Veteran Boswell won't renominate for Senate|work=[[The Brisbane Times]]|date=21 September 2012}}</ref>
+* Senator [[Sue Boyce]] (Qld) – announced retirement 8 October 2012<ref>{{cite news|url=http://www.news.com.au/breaking-news/national/another-lnp-senator-to-retire/story-e6frfku9-1226490420644|title=Another LNP senator to retire|publisher=news.com.au|date=8 October 2012}}</ref>
+
+===National===
+* [[John Forrest (Victorian politician)|John Forrest]] MP ([[Division of Mallee|Mallee]], Vic) – announced retirement 6 March 2013<ref>{{cite news|title=Veteran Nationals MP John Forrest retires|url=http://www.abc.net.au/news/2013-03-06/veteran-nationals-mp-retires-after-20-years27-service/4556684?section=vic|accessdate=6 March 2013|publisher=ABC News|date=6 March 2013}}</ref>
+
+===WA Nationals===
+* [[Tony Crook (politician)|Tony Crook]] MP ([[Division of O'Connor|O'Connor]]) – announced retirement 9 April 2013<ref>{{cite news |url=http://www.theaustralian.com.au/national-affairs/wa-national-tony-crook-to-quit-federal-politics/story-fn59niix-1226616999255 |title=WA National Tony Crook to quit federal politics |work=The Australian |date=9 April 2013 |accessdate=13 April 2013 |agency=Australian Associated Press}}</ref>
+
+==Electoral events timeline==
+* 30 January – Julia Gillard announces planned election date of 14 September 2013.<ref name=DateAnnounced />
+* 2 February – Attorney-General [[Nicola Roxon]] announces she will be retiring at the election. Higher Education Minister Senator [[Chris Evans (Australian politician)|Chris Evans]], whose term was not due to finish until 2017, announces he will be resigning in the near future.<ref name="resignations">{{cite news|title=Roxon, Evans shock resignations prompt cabinet reshuffle|url=http://www.smh.com.au/opinion/political-news/roxon-evans-shock-resignations-prompt-cabinet-reshuffle-20130202-2dquv.html|accessdate=20 February 2013|newspaper=The Sydney Morning Herald|date=2 February 2013|author=Kenny, Mark |author2=Wright, Jessica}}</ref>
+* 19 February – Greens leader [[Christine Milne]] announces that the alliance agreement with the ALP is over, but her party will not vote against confidence or supply.<ref name="GreensSplit">{{cite news|title=Christine Milne says Labor has walked away from its agreement with Greens|url=http://www.news.com.au/national/christine-milne-says-labor-has-walked-away-from-agreement-with-greens/story-fncynjr2-1226581081454|accessdate=20 February 2013|newspaper=news.com.au|date=19 February 2013|author=Lion, Patrick|author2=Farr, Malcolm}}</ref>
+* 26 February – Gillard announces she will "campaign" in western Sydney for the following week, from Sunday night until Friday.<ref>{{cite news |url=http://www.theaustralian.com.au/national-affairs/julia-gillard-campaigning-not-governing-in-western-sydney/story-fn59niix-1226586410041 |title=Julia Gillard 'campaigning', not governing, in western Sydney |author1=Maher, Sid |author2=Shanahan, Dennis |authorlink2=Dennis Shanahan |work=[[The Australian]] |date=27 February 2013 }}</ref>
+* 19 March – [[Richard Torbay]] is forced to resign from [[National Party of Australia|The Nationals]], forfeiting his candidature for the [[Division of New England]].<ref name="Torbay">{{cite news|last=Salusinszky|first=Imre|title=Richard Torbay quits NSW parliament after being dumped from Nationals federal preselection|url=http://www.theaustralian.com.au/national-affairs/richard-torbay-quits-nsw-parliament-after-being-dumped-from-nationals-federal-preselection/story-fn59niix-1226601367354|accessdate=20 March 2013|newspaper=The Australian|date=20 March 2013}}</ref> [[Barnaby Joyce]] puts his name forward as a possible replacement candidate, hoping to move from the Senate to the House of Representatives.<ref name="JoyceNewEngland">{{cite news|last=Packham|first=Ben|title=Barnaby Joyce ready to take on Tony Windsor in New England after Richard Torbay is dumped|url=http://www.theaustralian.com.au/national-affairs/barnaby-joyce-ready-to-take-on-tony-windsor-in-new-england-after-richard-torbay-is-dumped/story-fn59niix-1226601236408|accessdate=20 March 2013|newspaper=The Australian|date=20 March 2013}}</ref>
+* 21 March – Minister [[Simon Crean]] asks Gillard for a party leadership vote, and publicly declares his support for Kevin Rudd. In parliament, the Opposition attempts to suspend standing orders for a [[no confidence vote]] and although gaining 73 votes to the government's 71 votes, fails to gain the absolute majority of 76 votes required. Crean is sacked from the ministry. At the [[Australian Labor Party leadership spill, March 2013|leadership ballot]] no alternative candidate nominates, and Gillard is re-elected as ALP leader unopposed.<ref>{{cite news|title=Julia Gillard wins leadership unopposed|url=http://au.news.yahoo.com/world/a/-/world/16416013/australia-pm-gillard-calls-for-leadership-vote/|accessdate=21 March 2013|newspaper=Yahoo7|date=21 March 2013}}</ref> Rudd supporters [[Joel Fitzgibbon]], [[Ed Husic]], [[Janelle Saffin]], and [[Richard Marles]] quit their positions in the executive government.<ref name="BodyCount">{{cite news|last=Robertson|first=James|title=Body count: Rudd supporters quit their posts|url=http://www.smh.com.au/opinion/political-news/body-count-rudd-supporters-quit-their-posts-20130321-2giy3.html|accessdate=21 March 2013|newspaper=The Sydney Morning Herald|date=21 March 2013}}</ref>
+* 22 March – Rudd issues a statement that he will never again return to the ALP leadership.<ref name="RuddWithATripleBypass">{{cite news|last=Packham|first=Ben|title=I'm giving up on leadership: Kevin Rudd|url=http://www.theaustralian.com.au/national-affairs/in-depth/chris-bowen-quits-after-failed-leadership-tilt/story-fnhqeu0x-1226603128743|accessdate=22 March 2013|newspaper=The Australian|date=22 March 2013}}</ref> [[Kim Carr]], [[Martin Ferguson]], and [[Chris Bowen]] quit their ministries.<ref name="BowenQuits">{{cite news|last=Packham|first=Ben|title=Chris Bowen quits after failed leadership coup, Julia Gillard says more may go|url=http://www.theaustralian.com.au/national-affairs/in-depth/chris-bowen-quits-after-failed-leadership-tilt/story-fnhqeu0x-1226603128743|accessdate=22 March 2013|newspaper=The Australian|date=22 March 2013}}</ref><ref name="KimCarrQuits">{{cite news|last=AAP|title=Kim Carr resigns human services portfolio|url=http://www.heraldsun.com.au/news/breaking-news/carr-still-in-gillard-camp/story-e6frf7kf-1226603247244|accessdate=22 March 2013|newspaper=Herald Sun|date=22 March 2013}}</ref><ref name="FergusonQuits">{{cite news|last=AAP|title=Martin Ferguson resigns from cabinet|url=http://news.ninemsn.com.au/national/2013/03/22/14/48/martin-ferguson-resigns-from-cabinet|accessdate=22 March 2013|newspaper=ninemsn.com.au|date=22 March 2013}}</ref>
+* 23 March – Key independent MP [[Andrew Wilkie]] warns that ongoing instability within the ALP means the government will have difficulty surviving a [[vote of confidence]] when parliament resumes in May.<ref>{{cite news |url=http://www.gladstoneobserver.com.au/news/wilkie-warns-labor-over-vote-no-confidence/1803817/ |title=Wilkie warns Labor over vote of no confidence |work=Gladstone Observer |date=25 March 2013 |accessdate=26 June 2013 }}</ref>
+* 2 May – The opposition indicates it will support the Government's [[National Disability Insurance Scheme]] policy, including an increase in the [[Medicare levy]] from 1.5% to 2%.<ref>{{cite web|last=Cullen|first=Simon|title=Abbott supports NDIS levy, with conditions|url=http://www.abc.net.au/pm/content/2013/s3750494.htm|publisher=Australian Broadcasting Corporation|accessdate=13 May 2013}}</ref><ref>{{cite news|last=AAP|title=Gillard welcomes Abbott support for NDIS|url=http://www.theaustralian.com.au/news/breaking-news/gillard-welcomes-abbott-support-for-ndis/story-fn3dxiwe-1226633816992|accessdate=13 May 2013|newspaper=The Australian|date=2 May 2013}}</ref>
+* 26 June – Independents [[Rob Oakeshott]] and [[Tony Windsor]] both announce they won't recontest their seats at the election. [[Kevin Rudd]] defeats [[Julia Gillard]] in [[Australian Labor Party leadership spill, June 2013|another Labor leadership spill]] by a 57–45 margin. After the spill, Gillard along with ministers [[Craig Emerson]] and [[Peter Garrett]] announce their retirement at the coming election.
+* 22 July - The ALP caucus approves changes to the way the federal parliamentary leader is chosen. The new rules make it more difficult to change leaders and require a ballot of the party membership on contested leadership spills.<ref name=Rowdy>{{cite news|last=Scarr|first=Lanai|title=Kevin Rudd gets caucus support for changes to electing Labor leadership after rowdy protesters greet him |url=http://www.news.com.au/national-news/federal-election/kevin-rudd-gets-caucus-support-for-changes-to-electing-labor-leadership-after-rowdy-protesters-greet-him/story-fnho52ip-1226683003485|accessdate=10 September 2013|newspaper=news.com.au|date=22 July 2013}}</ref><ref name=balmain>{{cite news|title=Kevin Rudd wins Caucus support for Labor party reform at special meeting in Balmain|url=http://www.abc.net.au/news/2013-07-22/rudd-wins-caucus-support-for-party-reform/4835506|accessdate=10 September 2013|newspaper=abc.net.au|date=22 July 2013}}</ref> 
+* 27 June – Rudd is sworn in as Prime Minister by [[Governor-General of Australia|Governor-General]] [[Quentin Bryce]], with [[Anthony Albanese]] and [[Chris Bowen]] sworn in as Deputy Prime Minister and Treasurer respectively. Defence Minister [[Stephen Smith (Australian politician)|Stephen Smith]] MP announces his retirement at the coming election.
+* 29 June – [[Greg Combet]] MP announces his retirement at the coming election.
+* 1 July – The [[Second Rudd Ministry]] is sworn in. [[Simon Crean]] MP announces his retirement at the coming election.<ref name=SecondRuddMinistry>{{cite news|last=Griffiths|first=Emma|title=Prime Minister Kevin Rudd's new-look ministry sworn into office at Government House|url=http://www.abc.net.au/news/2013-07-01/rudd-unveils-new-ministry/4790720|accessdate=29 August 2013|publisher=Australian Broadcasting Corporation|date=1 July 2013}}</ref>
+* 1 July – [[The Wikileaks Party|Wikileaks]] party receives formal registration as a political party.<ref>Laughland, Oliver: [http://www.guardian.co.uk/world/2013/jul/02/wikileaks-party-registered-australian-election WikiLeaks party registered for Australian election] at ''[[The Guardian]]'', 2 July 2013</ref>
+* 4 August – [[Kevin Rudd]] announces the election date as 7 September 2013.<ref>{{cite news|last=Lanai Scarr, Samantha Maiden, Steve Lewis |title=Kevin Rudd calls a general election for September 7|url=http://www.news.com.au/national-news/federal-election/kevin-rudd-calls-a-general-election-for-september-7/story-fnho52ip-1226690860663|accessdate=4 August 2013|newspaper=news.com.au|date=4 August 2013}}</ref>
+* 5 August – [[Quentin Bryce]], the [[Governor-General of Australia|Governor-General]], issues the [[writ of election|election writ]].
+* 11 August – The first of three televised leaders debates between Rudd and Abbott is held in Canberra.<ref>{{cite news|url=http://www.bbc.co.uk/news/world-asia-23654148 |publisher=BBC News |title=Australian election rivals Rudd and Abbott hold first debate  |date=11 August 2013 |accessdate=11 August 2013}}</ref><ref>{{cite web |url=http://www.theguardian.com/world/2013/aug/11/rudd-v-abbott-the-debate-in-full-transcript |title=Rudd v Abbott: the debate in full – transcript| work=The Guardian |date=11 August 2013 |accessdate=13 August 2013}}</ref>
+* 21 August – The second televised leaders debate between Rudd and Abbott is held in Brisbane.<ref>{{citenews|last=Clarke|first=Melissa|title=Debate Round 2 breathes life into leaders' dialogue|url=http://www.abc.net.au/news/2013-08-22/clarke-leaders-debate-round-2/4904104|accessdate=22 August 2013|newspaper=ABC|date=21 August 2013}}</ref><ref>{{citenews|last=Kenny|first=Mark|title=Kevin Rudd breathes fire and brimstone into campaign|url=http://www.canberratimes.com.au/federal-politics/federal-election-2013/kevin-rudd-breathes-fire-and-brimstone-into-campaign-20130821-2sbsz.html|accessdate=22 August 2013|newspaper=[[The Canberra Times]]|date=22 August 2013}}</ref>
+* 25 August – The Coalition's formal campaign launch is held in Brisbane.<ref name=coalitionlaunch>[http://www.sbs.com.au/news/article/2013/08/25/abbott-pledges-trustworthy-government Abbott pledges trustworthy government], ''SBS News'', 25 August 2013.</ref>
+* 27 August – Treasurer Chris Bowen and shadow treasurer Joe Hockey debate at the National Press Club. Later that evening, the third and final televised leaders debate between Rudd and Abbott is held at the Rooty Hill RSL in Sydney.<ref name=debate3>{{cite news|last=Griffiths|first=Emma|title=Abbott promises not to shut down Labor's Medicare Locals during Rooty Hill debate with Rudd|url=http://www.abc.net.au/news/2013-08-28/abbott-promises-not-to-shut-down-labors-healthcare-hubs/4919576|accessdate=29 August 2013|publisher=ABC News|date=28 August 2013}}</ref>
+* 28 August – The Coalition releases a document outlining $31.6 billion of proposed budget savings.<ref name=lnpsavings1>[http://www.news.com.au/national-news/federal-election/shadow-treasurer-joe-hockey-reveals-316bn-in-coalition-savings/story-fnho52ip-1226705682824 Shadow Treasurer Joe Hockey reveals $31.6bn in Coalition savings], news.com.au, 28 August 2013.</ref>
+* 29 August – The Rudd Government releases several costings estimates which it claims show a $10 billion shortfall in the Coalition's claimed savings released the previous day.<ref name=smhhall>Hall, Bianca: [http://www.smh.com.au/federal-politics/federal-election-2013/labor-campaign-in-tatters-says-coalition-as-government-defends-costings-claim-20130830-2subr.html Labor campaign in 'tatters', says Coalition, as government defends costings claim], ''The Sydney Morning Herald'', 30 August 2013.</ref> In a strongly-worded statement, the secretaries of the Department of Treasury and Department of Finance criticise the use of these confidential costings prepared for the government, re-iterating that the assumptions used differ from the costings prepared for the Coalition.<ref name=trefin>[http://www.treasury.gov.au/PublicationsAndMedia/MediaReleases/2013/Costings-Statement Statement on Costings by the Department of the Treasury and the Department of Finance and Deregulation], Department of the Treasury, 29 August 2013.</ref>
+* 1 September – Labor's formal campaign launch is held in Brisbane.<ref name=alplaunch>Griffiths, Emma: [http://www.abc.net.au/news/2013-09-01/labor-party-campaign-launch-to-focus-on-jobs2c-small-businesse/4927242 Labor Party campaign launch to focus on jobs, small businesses and skills], ''ABC News'', 1 September 2013.</ref>
+* 5 September – The Coalition releases its remaining policy costings, claiming a further $9 billion worth of savings, including a $4.5 billion reduction in Australia's foreign aid budget.<ref name=lnpcostings2>[http://www.abc.net.au/news/2013-09-05/election-live3a-september-5/4936476 As it happened: Coalition releases costings, Kevin Rudd speaks at Press Club], ''ABC News'', 5 September 2013.</ref> Later in the day, the Coalition releases a policy document announcing the implementation of an opt-out [[Content-control software|Internet filter]]. That evening, Shadow Communications Minister [[Malcolm Turnbull]] states that the document was "poorly worded" and released by mistake, and that the Coalition had no such policy.<ref name=internetfilter>Grimson, Matthew: [http://www.abc.net.au/news/2013-09-05/no-internet-filter-says-turnbull/4939156 Malcolm Turnbull says Coalition will not introduce opt-out internet filter after earlier supporting it], ''ABC News'', 6 September 2013.</ref>
+* 7 September (Election Day) - the Liberal-National coalition defeats the Australian Labor Party with the Coalition expected to win about 90 seats in the House of Representatives. Kevin Rudd conceded defeat and announced that he would not renominate for the ALP's leadership.
+
+==Campaign==
+{{see|Candidates of the Australian federal election, 2013}}
+The incumbent Labor-led government argued for a need for a "safe pair of hands" to manage an economic shift from mining-oriented growth to something else; while the opposition said that it would prevent a recession that could be caused by a budget deficit. The ''[[Sydney Morning Herald]]'' suggested both arguments hedged on the mining boom going bust.<ref>{{cite news|url=http://www.smh.com.au/money/planning/vote-of-confidence-as-signs-improve-20130817-2s3p2.html#ixzz2cPMz9Ijs|title=Vote of confidence as signs improve|work=The Sydney Morning Herald|author=David Potts|date=18 August 2013|accessdate=19 August 2013}}</ref> Rudd officially began the campaign season on 1 September in his hometown of Brisbane. At the rally, he promised tax breaks for small businesses and more work for local contractors on infrastructure projects. He said: "In this election, we are now engaged in the fight of our lives. It is a fight about the values that underpin Australia's future, a fight about our vision for Australia's future. It's a fight about how we go about building Australia's future, a future for the many, not just for the few." He also dismissed the opinion polls that showed him trailing to Abbott in gaining a parliamentary plurality.<ref>{{cite web|url=http://www.aljazeera.com/news/asia-pacific/2013/09/2013915719897168.html |title=Australian PM makes final campaign pitch |publisher=Al Jazeera |accessdate=2013-09-03}}</ref>
+
+==Opinion polls==
+{{main|Opinion polling for the Australian federal election, 2013}}
+{| class="wikitable"
+|-
+| [[File:Combined primary polling Aus fed 2013.png|450px]]
+| [[File:TPP polling by firm Aus fed 2013.png|450px]]
+|-
+| [[File:Combined BPM polling Aus fed 2013.png|450px]]
+| [[File:Combined net satisfaction polling Aus fed 2013.png|450px]]
+|}
+{{-}}
+
+==Newspaper endorsements==
+{| class="wikitable"
+|-
+! colspan="3" | Dailies
+| rowspan="14" style="background: none; border: none inherit;" | &nbsp;
+! colspan="3" | Sundays
+|-
+! Newspaper
+! colspan="2" | Endorsement
+! Newspaper
+! colspan="2" | Endorsement
+|-
+| ''[[The Advertiser (Adelaide)|The Advertiser]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]] *
+|
+|
+|
+|-
+| ''[[The Age]]''
+{{party name with colour|Australian Labor Party}}<ref name="theage1">{{cite web|url=http://www.theage.com.au/comment/the-age-editorial/labors-policies-best-reflect-our-values-20130905-2t828.html |title=Labor's policies best reflect our values |work=The Age |accessdate=2013-09-06}}</ref>
+| ''[[The Age|The Sunday Age]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref name="theage2">{{cite web|url=http://www.theage.com.au/comment/the-age-editorial/no-vision-or-inspiration-so-who-do-you-trust-to-govern-20130831-2sxoq.html |title=No vision or inspiration, so who do you trust to govern? |work=The Age |accessdate=2013-09-06}}</ref>
+|-
+| ''[[The Australian]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref name="theaustralian1">[http://www.theaustralian.com.au/opinion/editorials/leader-who-will-govern-in-the-national-interest/story-e6frg71x-1226712357716 Cookies must be enabled. | The Australian]</ref>
+| ''[[The Weekend Australian]]
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref name="theaustralian1"/>
+|-
+| ''[[The Australian Financial Review]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref>{{cite web|url=http://www.afr.com/p/opinion/two_cheers_for_tony_abbott_6kx7ZloasDzDafCNza4O9N |title=Two cheers for Tony Abbott |publisher=Afr.com |date=6 September 2013 |accessdate=2013-09-06}}</ref>
+|
+|
+|
+|-
+| ''[[The Canberra Times]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref>{{cite web |url=http://www.canberratimes.com.au/comment/ct-editorial/abbotts-time-but-canberra-will-need-to-fight-to-be-heard-20130905-2t7pf.html |title=Abbott's time, but Canberra will need to fight to be heard|author=<!--Staff writer(s); no by-line.--> |date=6 September 2013 |work=[[The Canberra Times]] |accessdate=6 September 2013}}</ref> *
+|
+|
+|
+|-
+| ''[[The Courier-Mail]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref name="autogenerated1">{{cite web|author=Bianca Hall |url=http://www.smh.com.au/federal-politics/federal-election-2013/sunday-papers-unite-behind-coalition-20130901-2sye9.html |title=Sunday papers unite behind Coalition |work=The Sydney Morning Herald |date=21 March 2012 |accessdate=2013-09-03}}</ref>
+| ''[[The Sunday Mail (Brisbane)|The Sunday Mail]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref name="autogenerated1"/>
+|-
+| ''[[The Daily Telegraph (Australia)|The Daily Telegraph]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref>[http://www.dailytelegraph.com.au/news/opinion/tony-abbott-should-become-australia8217s-prime-minister/story-fni0cwl5-1226708324343 No Cookies | thetelegraph.com.au]</ref>
+| ''[[The Daily Telegraph (Australia)|The Sunday Telegraph]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref name="autogenerated1"/> *
+|-
+| ''[[The Herald Sun]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref>[http://www.heraldsun.com.au/news/opinion/time-voters-took-a-new-direction/story-fni0ffsx-1226708216456 No Cookies | Herald Sun]</ref>
+| ''[[Sunday Herald Sun]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref name="autogenerated1"/> *
+|-
+| ''[[The Mercury (Hobart)|The Mercury]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]] *
+|
+|
+|
+|-
+| ''[[Northern Territory News]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]] *
+|
+|
+|
+|-
+| ''[[The Sydney Morning Herald]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]<ref>{{cite web|url=http://www.smh.com.au/comment/smh-editorial/times-up-for-rudd-but-jury-is-still-out-on-abbott-20130831-2sx7w.html |title=Time's up for Rudd but jury is still out on Abbott |work=The Sydney Morning Herald |accessdate=2013-09-03}}</ref> *
+|
+|
+|
+|-
+| ''[[The West Australian]]''
+| {{Australian politics/party colours/Liberal}}|&nbsp;|| [[Coalition (Australia)|Coalition]]
+|
+|
+|
+|}
+
+{| class="wikitable"
+|-
+! colspan="3" | International press
+|-
+! Newspaper
+! colspan="2" | Endorsement
+|-
+| ''[[The Economist]]''
+{{party name with colour|Australian Labor Party}}<ref>{{cite news|url=http://www.economist.com/news/leaders/21584343-kevin-rudd-just-about-deserves-second-turn-lucky-no-more |title=Australia's election: Lucky no more |work=The Economist |accessdate=2013-09-03}}</ref>
+|}
+(*) an [[asterisk]] denotes a change from the [[Australian federal election, 2010#Newspaper endorsements|2010 endorsements]]
+
+==Result commentary==
+The Labor Party's overall two-party preferred vote was its lowest since the [[Australian federal election, 2004|2004 election]],<ref>{{cite news|url=http://www.theglobeandmail.com/news/world/australias-labor-leader-concedes-election-defeat/article14176600/|title=Australia's Labor leader concedes election defeat|first1=Rob|last1=Taylor|first2=James|last2=Grubel|newspaper=The Globe and Mail|date=7 September 2013|accessdate=8 September 2013}}</ref> while their 33% primary vote was the worst in a hundred years.<ref>{{cite news|url=http://www.theaustralian.com.au/news/breaking-news/palmer-says-he-can-win-over-the-nation/story-fn3dxiwe-1226714547252|title=Labor fears of Qld wipe-out averted|first=Stephen|last=Johnson|newspaper=The Australian|agency=Australian Associated Press|date=8 September 2013|accessdate=8 September 2013}}</ref> Kevin Rudd announced his resignation as party leader and confirmed he would not run again in the subsequent leadership election.<ref name=BBC1>{{cite news|title=Australia election: Tony Abbott defeats Kevin Rudd|url=http://www.bbc.co.uk/news/world-asia-24000133|date=7 September 2013|accessdate=8 September 2013|publisher=BBC News}}</ref>
+
+With [[Nova Peris]]'s victory in the [[Australian Senate|Senate]] election in the [[Northern Territory]], she became the first [[Aboriginal Australians|aboriginal]] woman to be elected to parliament.<ref>{{cite news|url=http://www.ctvnews.ca/politics/first-aboriginal-woman-wins-australian-parliament-seat-campaign-brought-racism-1.1445284|title=First aboriginal woman wins Australian parliament seat; campaign brought racism|first=Rod|last=McGuirk|publisher=CTV News|agency=Associated Press|date=8 September 2013|accessdate=8 September 2013}}</ref> [[WikiLeaks]] founder [[Julian Assange]] failed to be elected to the Senate after running in [[Victoria (Australia)|Victoria]], with his [[The Wikileaks Party|Wikileaks Party]] garnering 0.62% of the popular vote.<ref>{{cite news|url=http://www.theguardian.com/world/2013/sep/08/election-2013-assange-wikileaks-party|title=Julian Assange: WikiLeaks party will continue|newspaper=The Guardian|agency=Australian Associated Press|date=8 September 2013|accessdate=9 September 2013}}</ref>
+
+Final results are not yet published.<ref>[http://www.abc.net.au/news/federal-election-2013/results/ 2013 election results: ABC]</ref><ref name=aec>[http://vtr.aec.gov.au/Default.htm 2013 election results: AEC]</ref> Seat numbers are based on leading candidates.<ref>[http://vtr.aec.gov.au/HouseCloseSeats-17496-NAT.htm 2013 election close seats: AEC]</ref>
+
+===Reactions===
+The Coalition had campaigned on a tough stance on asylum seekers who came to Australia by boat (as had the Labor Party in the final weeks leading up to the election). Immediately after the election, Abbott reiterated his party's promise and announced that his new government would begin [[Operation Sovereign Borders]] — which would turn back any vessels carrying asylum seekers — as soon as possible. He also confirmed he would abolish the [[Carbon pricing in Australia|carbon tax]] that was introduced by the [[Gillard Government]],<ref>{{cite news|title=Australia's PM-elect Abbott vows quick action on asylum|url=http://www.bbc.co.uk/news/world-asia-24005687|date=8 September 2013|accessdate=9 September 2013|publisher=BBC News}}</ref> as well as lower foreign aid by [[Australian dollar|A$]]4.5 billion.<ref>{{cite news|url=http://www.independent.co.uk/news/world/australasia/australian-election-victorious-tony-abbott-vows-to-cut-foreign-aid-and-tackle-immigration-8803642.html|title=Australian election: Victorious Tony Abbott vows to cut foreign aid and tackle immigration|first=Rob|last=Williams|newspaper=The Independent|date=8 September 2013|accessdate=9 September 2013}}</ref>
+
+Abbott was congratulated by various world leaders, including American President [[Barack Obama]],<ref>http://www.smh.com.au/federal-politics/barack-obama-calls-to-congratulate-tony-abbott-and-discuss-syria-20130913-2to7o.html </ref> British Prime Minister [[David Cameron]],<ref name=BBC1/> New Zealand Prime Minister [[John Key]]<ref>http://www.stuff.co.nz/world/australia/9140853/Key-expects-strong-ties-with-Abbott</ref> and South African President [[Jacob Zuma]].<ref>[http://www.timeslive.co.za/politics/2013/09/10/zuma-congratulates-australia-s-abbott-on-pm-election]</ref>
+
+==See also==
+{{Portal|Australia|Politics}}
+*[[Sport and the Australian federal election, 2013]]
+{{clear}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://blogs.abc.net.au/antonygreen/2012/12/2013-federal-election-calender.html Antony Green's 2013 Federal election calendar]
+* [http://www.abc.net.au/news/elections/federal/2013/calculator/ Antony Green's 2013 Federal election calculator]
+* [http://www.aec.gov.au/Parties_and_Representatives/Party_Registration/Registered_parties/2013.htm Political parties registered for the 2013 federal election] at the Australian Electoral Commission
+* [http://www.aec.gov.au/election/downloads.htm Election downloads], including Senate group voting tickets, electorates, parties, etc. at the Australian Electoral Commission
+* [http://news.yahoo.com/australias-rudd-concedes-election-defeat-conservative-leader-abbott-115802876--business.html Australia's Rudd concedes election defeat to conservative leader Abbott] – article describing the situation after 80% counted (yahoo)
+
+{{Australian elections}}
+{{Politics of Australia}}
+{{Parliament of Australia}}
+
+[[Category:Federal elections in Australia]]
+[[Category:2013 elections in Australia]]

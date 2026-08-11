@@ -1,0 +1,2470 @@
+{{2019 Australian federal election sidebar}}
+In the leadup to the [[2019 Australian federal election|2019 federal election]], a number of polling companies have conducted regular [[Opinion poll|opinion polls]] for various news organisations. These polls collect data on party's primary vote, and contain an estimation of the [[two-party-preferred vote]]. They also ask questions about views of the electorate about the major party leaders.
+
+==Graphical summary==
+{{multiple images|align=left
+|image1=Australian federal election polling - 46th parliament - two party preferred.svg
+|width1=310
+|caption1=[[Two-party-preferred vote]].
+|image2=Australian federal election polling - 46th parliament - primary.svg
+|width2=310
+|caption2=[[First-preference votes|Primary vote]].
+|footer=[[Aggregate data]] of voting intention from all opinion polling since the last election. [[Local regression]] trends for each party are shown as solid lines.}}{{clear}}
+
+{{Use dmy dates|date=May 2017}}
+
+{{Use dmy dates|date=May 2018}}
+
+==Voting intention==
+{| class="toccolours" cellpadding="5" cellspacing="0" style="text-align:center; float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+|+'''House of Representatives (lower house) polling'''
+|-
+!
+!
+!
+|-
+! Date
+! Firm
+! style="background:#ccc" colspan=5| Primary vote
+! style="background:#ebbce3" colspan="2"| [[Two-party-preferred vote|TPP vote]]
+|-
+! colspan=2 | 
+! style="background:#00bfff" | [[Coalition (Australia)|L/NP]]
+! style="background:#f66" | [[Australian Labor Party|ALP]]
+! style="background:#90ee90" | [[Australian Greens|GRN]]
+! style="background:yellow | [[Pauline Hanson's One Nation|ONP]]
+! style="background:gray;"| OTH
+! style="background:#00bfff" | L/NP
+! style="background:#f66" | ALP
+|- style="background:#DADADA;"
+|| '''8 May 2019'''
+| colspan="11"| '''Third leaders' debate '''
+|-
+!2–6 May 2019
+|style="text-align:left;" |Essential<ref name="Essential6May2019">{{cite news |last1= Martin |first1=Sarah |title=Labor continues to lead Coalition 52-48 in latest Guardian Essential poll |url=https://www.theguardian.com/australia-news/2019/may/07/labor-continues-to-lead-coalition-52-48-in-latest-guardian-essential-poll |work=The Guardian |date=6 May 2019}}</ref>
+|38%
+|34%
+|12%
+|7%
+|9%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!4–5 May 2019
+|style="text-align:left;" |Roy Morgan<ref name="RoyMorgan5May2019">{{cite web |title=Three weeks locked at ALP 51% cf. L-NP 49% - Palmer “jumps” 1.5% |url=http://www.roymorgan.com/findings/7968-federal-voting-may-2019-201905060721 |website=Roy Morgan |accessdate=6 May 2019 |language=en}}</ref>
+|38.5%
+|34%
+|11%
+|4%
+|12.5%{{efn|3.5% [[United Australia Party (2013)|UAP]], 9% Other}}
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!2–5 May 2019
+|style="text-align:left;" |Newspoll<ref>{{cite news |last1=Benson |first1=Simon |title=Newspoll: Promises fail to prevent Bill Shorten’s slide in popularity |url=https://www.theaustralian.com.au/nation/politics/newspoll-promises-fail-to-prevent-bill-shortens-slide-in-popularity/news-story/51ca4e3f1405aaa275022e0e2a2b6ef0 |accessdate=5 May 2019 |work=The Australian |date=5 May 2019 |language=en}}</ref>
+|38%
+|36%
+|9%
+|5%
+|12%{{efn|4% [[United Australia Party (2013)|UAP]], 8% Other}}
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!1–4 May 2019
+|style="text-align:left;" |Ipsos<ref name="Ipsos4May2019">{{cite news |last1=Crowe |first1=David |title=Ipsos poll: Labor keeps election-winning lead over Coalition as preferred PM contest narrows |url=https://www.smh.com.au/politics/federal/ipsos-poll-labor-keeps-election-winning-lead-over-coalition-as-preferred-pm-contest-narrows-20190505-p51k71.html |accessdate=5 May 2019 |work=The Sydney Morning Herald |date=5 May 2019 |language=en}}</ref>
+|36%
+|33%
+|14%
+|5%
+|12%{{efn|3% [[United Australia Party (2013)|UAP]], 7% Other}}
+|48%
+|style="background:#f66;" | '''52%'''
+|- style="background:#DADADA;"
+|| '''3 May 2019'''
+| colspan="11"| '''Second leaders' debate '''
+|- style="background:#DADADA;"
+||'''29 Apr 2019'''
+| colspan="11"| '''First leaders' debate '''
+|-
+!25–29 Apr 2019
+|style="text-align:left;" |Essential<ref>{{cite web |last1=Murphy |first1=Katharine |title=Labor remains in front of Coalition 51-49 in Guardian Essential poll|url=https://www.theguardian.com/australia-news/2019/apr/30/labor-remains-in-front-of-coalition-51-49-in-guardian-essential-poll|website=The Guardian |accessdate=30 April 2019}}</ref>
+|39%
+|37%
+|9%
+|6%
+|9%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!27–28 Apr 2019
+|style="text-align:left;" |Roy Morgan<ref>{{cite web |title=Parties locked in class contest for second week: ALP 51% cf. L-NP 49% on a two-party preferred basis: ALP 51.0% cf. L-NP 49.0% |url=http://www.roymorgan.com/findings/7961-parties-locked-in-close-contest-for-second-week-201905030002 |website=Roy Morgan |accessdate=05 May 2019 |language=en}}</ref>
+|39.5%
+|36%
+|9.5%
+|2.5%
+|10.5%{{efn|2.0% [[United Australia Party (2013)|UAP]], 9.5% Other}}
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!26–28 Apr 2019
+|style="text-align:left;" |Newspoll<ref>{{cite web |last1=Benson |first1=Simon |title=Coalition narrows gap on Labor as poll approaches |url=https://www.theaustralian.com.au/nation/politics/coalition-narrows-gap-on-labor-as-poll-approaches/news-story/ac86e995e85f02695df961e2c50cf1b8 |website=The Australian |accessdate=28 April 2019}}</ref>
+|38%
+|37%
+|9%
+|4%
+|12%{{efn|5% [[United Australia Party (2013)|UAP]], 7% Other}}
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!23–25 Apr 2019
+|style="text-align:left;" |Galaxy<ref>{{cite web |title=#Galaxy Poll Federal Primary Votes: L/NP 37 (+2) ALP 37 (0) GRN 9 (-1) ON 4 (-4) UAP 4 (0) Others 9 (+3) #auspol |url=https://twitter.com/GhostWhoVotes/status/1122113803477340160 |website=@GhostWhoVotes |accessdate=27 April 2019 |language=en |date=27 April 2019}}</ref>
+|37%
+|37%
+|9%
+|4%
+|13%{{efn|4% [[United Australia Party (2013)|UAP]], 9% Other}}
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!20–21 Apr 2019
+|style="text-align:left;" |Roy Morgan<ref>{{cite web |title=Game On: Easter Roy Morgan Poll shows election race tightening: ALP 51% cf. L-NP 49% on a two-party preferred basis: ALP 51.0% cf. L-NP 49.0% |url=https://www.roymorgan.com/findings/7952-game-on-easter-roy-morgan-poll-shows-election-race-tightening-201904240005 |website=Roy Morgan |accessdate=14 April 2019 |language=en}}</ref>
+|39%
+|35.5%
+|9.5%
+|4.5%
+|11.5%{{efn|2.0% [[United Australia Party (2013)|UAP]], 9.5% Other}}
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!11–14 Apr 2019
+|style="text-align:left;" |Newspoll<ref>{{cite web |last1=Benson |first1=Simon |title=One Nation’s voter slip gives a lift to both major parties |url=https://www.theaustralian.com.au/nation/politics/one-nations-voter-slip-gives-a-lift-to-both-major-parties/news-story/779ae6396110521a51d200b6d6f428cb |website=The Australian |accessdate=14 April 2019}}</ref>
+|39%
+|39%
+|9%
+|4%
+|9%
+|48%
+|style="background:#f66;" | '''52%'''
+|- style="background:#DADADA;"
+||'''11 Apr 2019'''
+| colspan="11"| '''2019 federal election campaign begins'''
+|-
+
+!4–8 Apr 2019
+|style="text-align:left;" |Essential<ref name="essential8april">{{cite web |last1=Murphy |first1=Katharine |title=Essential poll: Coalition still trails Labor 52-48 despite approval for budget |url=https://www.theguardian.com/australia-news/2019/apr/09/essential-poll-coalition-still-trails-labor-52-48-despite-approval-for-budget |website=The Guardian |accessdate=9 April 2019}}</ref>
+|38%
+|35%
+|11%
+|5%
+|10%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!6–7 Apr 2019
+|style="text-align:left;" |Roy Morgan<ref>{{cite web |title=Budget delivers 2.5% swing to the L-NP but ALP still lead on a two party preferred basis: ALP 52.5% cf. L-NP 47.5% |url=https://www.roymorgan.com/findings/7940-budget-delivers-swing-to-the-l-np-april-2019-201904090428 |website=Roy Morgan |accessdate=14 April 2019 |language=en}}</ref>
+|37%
+|35%
+|13.5%
+|4%
+|10.5%{{efn|1.5% [[United Australia Party (2013)|UAP]], 1% [[Australian Conservatives|CON]], 0.5% [[Katter's Australian Party|KAP]], 7.5%, Other}}
+|47.5%
+|style="background:#f66;" | '''52.5%'''
+|-
+!4–7 Apr 2019
+|style="text-align:left;" |Newspoll<ref name="newspoll7april">{{cite web |last1=Benson |first1=Simon |title=Newspoll: Coalition within striking distance |url=https://www.theaustralian.com.au/nation/newspoll |website=The Australian |accessdate=7 April 2019}}</ref>
+|38%
+|37%
+|9%
+|6%
+|10%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!3–6 Apr 2019
+|style="text-align:left;" |Ipsos<ref name="ipsos6apr">{{cite web |last1=Crowe |first1=David |title=Ipsos poll: 53-47 result puts Morrison government on course for major election defeat |url=https://www.smh.com.au/politics/federal/ipsos-poll-53-47-result-puts-morrison-government-on-course-for-major-election-defeat-20190407-p51bpq.html |website=The Sydney Morning Herald |accessdate=7 April 2019 |language=en |date=7 April 2019}}</ref>
+|37%
+|34%
+|13%
+|5%
+|11%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!25–28 Mar 2019
+|style="text-align:left;" |Galaxy<ref>{{cite web |title=#Galaxy Poll Federal Primary Votes: L/NP 33 ALP 34 GRN 9 ON 8 UAP 3 CON 2 Other 3 Don't Know 8 #auspol |url=https://twitter.com/GhostWhoVotes/status/1114283544069562369 |website=@GhostWhoVotes |accessdate=5 April 2019 |language=en |date=5 April 2019}}</ref>
+|35%
+|37%
+|10%
+|8%
+|10%{{efn|3% [[United Australia Party (2013)|UAP]], 2% [[Australian Conservatives|CON]], 3% Other}}
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!20–25 Mar 2019
+|style="text-align:left;" |Essential<ref name="essential25mar">{{cite news |last1=Murphy |first1=Katharine |title=Coalition trails but Labor's vote softens slightly in NSW – Guardian Essential poll |url=https://www.theguardian.com/australia-news/2019/mar/26/coalition-trails-but-labors-vote-softens-slightly-in-nsw-guardian-essential-poll |accessdate=26 March 2019 |work=The Guardian |date=25 March 2019}}</ref>
+|39%
+|36%
+|10%
+|7%
+|8%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!6–11 Mar 2019
+|style="text-align:left;" |Essential<ref>https://www.theguardian.com/australia-news/2019/mar/12/labor-comfortably-ahead-of-coalition-in-guardian-essential-poll</ref>
+|37%
+|38%
+|8%
+|7%
+|10%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!7–10 Mar 2019
+|style="text-align:left;" |Newspoll<ref name="newspoll10march">{{cite web |last1=Benson |first1=Simon |title=Newspoll: Coalition notches up 50th consecutive loss |url=https://www.theaustralian.com.au/national-affairs/newspoll-coalition-notches-up-50th-consecutive-loss/news-story/8f6a779bb1f5fa5939caf7bda8106a8b |website=The Australian |accessdate=10 March 2019}}</ref>
+|36%
+|39%
+|9%
+|7%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!20–24 Feb 2019
+|style="text-align:left;" |Essential<ref name="Essential26feb19">{{cite web|title=The Essential Report|url=https://www.essentialvision.com.au/wp-content/uploads/2019/02/Essential-Report-250219-D1.pdf|date=26 February  2019}}</ref>
+|38%
+|37%
+|9%
+|6%
+|10%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!21–24 Feb 2019
+|style="text-align:left;" |Newspoll<ref name="Newspoll24feb19">{{cite web |last1=Benson |first1=Simon |title=Newspoll: Boat battle fails to lift polls for Coalition |url=https://www.theaustralian.com.au/national-affairs/newspoll-boat-battle-fails-to-lift-polls-for-coalition/news-story/581288bd3a5c12eabdddcd66fcef52c8 |website=The Australian |accessdate=24 February 2019}}</ref>
+|37%
+|39%
+|9%
+|5%
+|10%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!12–15 Feb 2019
+|style="text-align:left;" |Ipsos<ref name="Ipsos15feb19">{{cite web |last1=Crowe |first1=David |title=Ipsos poll: Support for Labor falls after clash over refugees and border security |url=https://www.smh.com.au/politics/federal/ipsos-poll-support-for-labor-falls-after-clash-over-refugees-and-border-security-20190217-p50ycu.html |website=The Sydney Morning Herald |accessdate=20 February 2019 |language=en |date=17 February 2019}}</ref>
+|38%
+|33%
+|13%
+|5%
+|11%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!6–11 Feb 2019
+|style="text-align:left;" |Essential<ref name="Essential1feb19">{{cite web|title=The Essential Report|url=https://www.essentialvision.com.au/wp-content/uploads/2019/02/Essential-Report-110219-D1.pdf|date=4 February  2019}}</ref>
+|34%
+|38%
+|10%
+|7%
+|11%
+|45%
+|style="background:#f66;" | '''55%'''
+|-
+!7–10 Feb 2019
+|style="text-align:left;" |Newspoll<ref name="Newspoll10Feb2019">{{cite web|title=Newspoll: Coalition steadies but loss looms|url=https://www.theaustralian.com.au/national-affairs/newspoll-coalition-staring-at-bruising-poll-defeat/news-story/be027b742362f8cd3705f91c336b3718|date=11 February 2019}}</ref>
+|37%
+|39%
+|9%
+|5%
+|10%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!23–30 Jan 2019
+|style="text-align:left;" |Essential<ref name="Essential4Feb2019">{{cite web|title=The Essential Report|url=https://www.essentialvision.com.au/wp-content/uploads/2019/02/Essential-Report-290119-D1.pdf|date=4 February  2019}}</ref>
+|38%
+|36%
+|10%
+|7%
+|9%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!24–27 Jan 2019
+|style="text-align:left;" |Newspoll<ref name=Newspoll29Jan2019>{{cite web |title=Newspoll: Coalition ends year with poll slump|url=https://www.theaustralian.com.au/national-affairs/newspoll-coalition-ends-year-with-poll-slump/news-story/b7ea62ddbfd298bbfeb05ea8daa8c308|website=the Australian|language=en}}</ref>
+|37%
+|38%
+|9%
+|6%
+|10%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!9–13 Jan 2019
+|style="text-align:left;" |Essential<ref name="Essential14Jan2019">{{cite web|title=The Essential Report|url=https://www.essentialvision.com.au/wp-content/uploads/2019/01/Essential-Report-140119.pdf|date=14 January 2019}}</ref>
+|38%
+|38%
+|10%
+|7%
+|7%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!13–16 Dec 2018
+|style="text-align:left;" |Essential<ref name="Essential18Dec2018">{{cite web|title=The Essential Report|url=https://www.essentialvision.com.au/wp-content/uploads/2018/12/Essential-Report-181218.pdf|date=18 December 2018}}</ref>
+|37%
+|36%
+|11%
+|7%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!13–15 Dec 2018
+|style="text-align:left;" |Ipsos<ref name=Ipsos15Dec2018>{{cite web |title=Ipsos poll: Australians not convinced by Labor's flagship negative gearing reforms|url=https://www.smh.com.au/politics/federal/ipsos-poll-australians-not-convinced-by-labor-s-flagship-negative-gearing-reforms-20181216-p50mjn.html|website=The Sydney Morning Herald|language=en}}</ref>
+|36%
+|37%
+|13%
+|6%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!6–9 Dec 2018
+|style="text-align:left;" |Newspoll<ref name=Newspoll09Dec2018>{{cite web |title=Newspoll: Coalition ends year with poll slump|url=https://www.theaustralian.com.au/national-affairs/newspoll-coalition-ends-year-with-poll-slump/news-story/b7ea62ddbfd298bbfeb05ea8daa8c308|website=the Australian|language=en}}</ref>
+|35%
+|41%
+|9%
+|7%
+|8%
+|45%
+|style="background:#f66;" | '''55%'''
+|-
+!29 Nov – 2 Dec 2018
+|style="text-align:left;" |Essential<ref name="Essential4Dec2018">{{cite web|title=The Essential Report|url=https://www.essentialvision.com.au/wp-content/uploads/2018/12/Essential-Report-041218.pdf|date=4 December 2018}}</ref>
+|38%
+|39%
+|10%
+|6%
+|7%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!23–25 Nov 2018
+|style="text-align:left;" |Newspoll<ref name=Newspoll25Nov2018>{{cite web |title=Newspoll: Coalition slides but Scott Morrison gains popularity|url=https://www.theaustralian.com.au/national-affairs/newspoll-coalition-slides-but-scott-morrison-gains-popularity/news-story/1972b14dd892a090650e94f93d38fc02|website=the Australian|accessdate=25 November 2018 |language=en}}</ref>
+|34%
+|40%
+|9%
+|8%
+|9%
+|45%
+|style="background:#f66;" | '''55%'''
+|-
+!15–18 Nov 2018
+|style="text-align:left;" |Essential<ref name="Essential20Nov2018">{{cite web|title=The Essential Report|url=https://www.essentialvision.com.au/wp-content/uploads/2018/11/Essential-Report-201118.pdf|date=20 November 2018}}</ref>
+|37%
+|35%
+|11%
+|7%
+|10%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!15–17 Nov 2018
+|style="text-align:left;" |Ipsos<ref name="Ipsos17Nov2018">{{cite web |title=Fairfax-Ipsos poll: Voters want cuts to power prices and carbon emissions |url=https://www.afr.com/news/voters-put-price-before-emissions-but-not-by-a-lot-20181118-h180uh |website=Financial Review |accessdate=18 November 2018 |date=18 November 2018}}</ref>
+|37%
+|34%
+|13%
+|5%
+|11%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!8–11 Nov 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll11Nov2018">{{cite web |last1=Benson |first1=Simon |title=Coalition and PM continue to slide down slippery poll |url=https://www.theaustralian.com.au/news/nation/coalition-and-pm-continue-to-slide-down-slippery-poll/news-story/9e6e3c8cd42f6f1a8db2ee227301e828 |website=The Australian |accessdate=11 November 2018 |date= |language=en}}</ref>
+|35%
+|40%
+|9%
+|6%
+|10%
+|45%
+|style="background:#f66;" | '''55%'''
+|-
+!1–4 Nov 2018
+|style="text-align:left;" |Essential<ref name="Essential6Nov2018">{{cite web|title=The Essential Report|url=https://www.essentialvision.com.au/wp-content/uploads/2018/11/Essential-Report-061118.pdf|date=6 November 2018}}</ref>
+|36%
+|39%
+|10%
+|6%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!25–28 Oct 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll28Oct2018">{{cite web |last1=Benson |first1=Simon |title=Newspoll: Scott Morrison takes significant personal hit in wake of Wentworth by-election |url=https://www.theaustralian.com.au/national-affairs/newspoll-scott-morrison-takes-significant-personal-hit-in-wake-of-wentworth-byelection/news-story/bb4ba993cebe589c497a49003b384d54?nk=8cda7c7c17126dd58856ca055576a5f7-1540722859 |website=The Australian |accessdate=28 October 2018}}</ref>
+|36%
+|39%
+|9%
+|6%
+|10%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!19–21 Oct 2018
+|style="text-align:left;" |Essential<ref name="Essential23Oct2018">{{cite web|title=The Guardian Essential Report, 23 October results|url=https://www.theguardian.com/australia-news/ng-interactive/2018/oct/23/the-guardian-essential-report-23-october-results|date=23 October 2018}}</ref>
+|38%
+|37%
+|10%
+|7%
+|8%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!10–13 Oct 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll13Oct2018">{{cite web |title=Scott Morrison takes fight to Bill Shorten |url=https://www.theaustralian.com.au/national-affairs/newspoll-scott-morrison-takes-fight-to-bill-shorten/news-story/6dfa1063c4a1c070178de4147d980210 |website=The Australian |date=14 October 2018}}</ref>
+|37%
+|38%
+|11%
+|6%
+|8%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!10–13 Oct 2018
+|style="text-align:left;" |Ipsos<ref>{{cite web |title=Latest Fairfax-Ipsos polls puts Labor ahead of Coalition 55:45 |url=https://www.afr.com/news/fairfaxipsos-labor-leads-coalition-5545-20181013-h16ly6 |website=Financial Review |date=14 October 2018}}</ref>
+|35%
+|35%
+|15%
+|5%
+|10%
+|45%
+|style="background:#f66;" | '''55%'''
+|-
+!5–7 Oct 2018
+|style="text-align:left;" |Essential<ref name="Essential8Oct2018">{{cite web|title=The Guardian Essential Report, 8 October results|url=https://www.theguardian.com/australia-news/ng-interactive/2018/oct/09/the-guardian-essential-report-8-october-results|date=8 October 2018}}</ref>
+|37%
+|36%
+|12%
+|5%
+|10%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!22–24 Sep 2018
+|style="text-align:left;" |Essential<ref name="Essential24Sep2018">{{cite web|title=The Guardian Essential Report, 25 September results|url=https://www.theguardian.com/australia-news/ng-interactive/2018/sep/25/the-guardian-essential-report-25-september-results|date=25 September 2018}}</ref>
+|37%
+|36%
+|12%
+|5%
+|10%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!20–23 Sep 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll24Sep2018">{{cite web|title=First sign of electoral recovery as Scott Morrison cements lead|url=https://www.theaustralian.com.au/national-affairs/first-sign-of-electoral-recovery-as-scott-morrison-cements-lead/news-story/19caffb178b7d38d7482e8f6d98b679c|date=24 September 2018}}</ref>
+|36%
+|39%
+|10%
+|6%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!12–15 Sep 2018
+|style="text-align:left;" |Ipsos<ref name="Ipsos16Sep2018">{{cite web|title=Fairfax-Ipsos poll: Scott Morrison ahead of Bill Shorten on leadership qualities but lags behind Malcolm Turnbull|url=https://www.theage.com.au/politics/federal/fairfax-ipsos-poll-scott-morrison-ahead-of-bill-shorten-on-leadership-qualities-but-lags-behind-malcolm-turnbull-20180916-p5044t.html|date=16 September 2018}}</ref>
+|34%
+|31%
+|15%
+|7%
+|13%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!8–10 Sep 2018
+|style="text-align:left;" |Essential<ref name="Essential10Sep2018">{{cite web|title=Federal voting intention|url=http://www.essentialvision.com.au/federal-voting-intention-114|date=11 September 2018}}</ref>
+|36%
+|37%
+|10%
+|8%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!6–9 Sep 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll9Sep2018">{{cite web|title=Coalition faces election wipeout with 40th straight loss|url=https://www.theaustralian.com.au/national-affairs/newspoll-coalition-faces-election-wipeout-with-40th-straight-loss/news-story/6af0bb063357212982062540914ac9ab|date=9 September 2018}}</ref>
+|34%
+|42%
+|10%
+|6%
+|8%
+|44%
+|style="background:#f66;" | '''56%'''
+|-
+!25–26 Aug 2018
+|style="text-align:left;" |Roy Morgan<ref name="RoyMorgan26Aug2018">{{cite web|title=Liberal leadership fight boosts ALP support|url=http://www.roymorgan.com/findings/7716-federal-voting-intention-august-28-2018-201808272259|date=27 Aug 2018}}</ref>
+|36.5%
+|36%
+|13%
+|2.5%
+|12%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!24–26 Aug 2018
+|style="text-align:left;" |Essential<ref name="Essential28Aug2018">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/08/Essential-Report-280818.pdf|date=28 Aug 2018}}</ref>
+|35%
+|39%
+|10%
+|7%
+|9%
+|45%
+|style="background:#f66;" | '''55%'''
+|-
+!24–25 Aug 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll26Aug2018">{{cite web|title=Newspoll: Popular support for Coalition at lowest level in a decade
+|url=https://www.theaustralian.com.au/national-affairs/newspoll/newspoll-popular-support-for-coalition-at-lowest-level-in-a-decade/news-story/cf52dcfdfdd80c5f0e28c27a9e9557b0|date=26 August 2018}}</ref>
+|33%
+|41%
+|10%
+|7%
+|9%
+|44%
+|style="background:#f66;" | '''56%'''
+|- style="background:#DADADA;"
+||'''24 Aug 2018'''
+| colspan="11"| '''Scott Morrison replaces Malcolm Turnbull as Liberal leader and Prime Minister'''
+|-
+!15–18 Aug 2018
+|style="text-align:left;" |Ipsos<ref name="Ipsos18Aug2018">{{cite web|title=Fairfax-Ipsos poll: Coalition support crumbles to 45pc |url=https://www.afr.com/news/fairfaxipsos-poll-coalition-support-crumbles-to-45pc-20180819-h14695|date=19 August 2018}}</ref>
+|33%
+|35%
+|13%
+|8%
+|11%
+|45%
+|style="background:#f66;" | '''55%'''
+|-
+!12 Aug 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll12Aug2018">{{cite web|title=Newspoll: Turnbull’s popularity plunges in wake of Super Saturday|url=https://www.theaustralian.com.au/national-affairs/newspoll/newspoll-turnbulls-popularity-plunges-in-wake-of-super-saturday/news-story/173bc47190e6c539412be241b15047c2|date=29 July 2018}}</ref>
+|37%
+|35%
+|10%
+|9%
+|9%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!6 Aug 2018
+|style="text-align:left;" |ReachTEL<ref name="ReachTEL6Aug2018">{{cite web|title=ReachTEL|url=https://twitter.com/GhostWhoVotes/status/1026244769674977281|date=6 August 2018}}</ref>
+|37%
+|34%
+|12%
+|8%
+|8%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!29 Jul 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll29Jul2018">{{cite web|title=Newspoll|url=https://www.theaustralian.com.au/national-affairs/newspoll-malcolm-turnbull-leaves-bill-shorten-in-the-dust/news-story/7a3b6110427fa43d00597bf7f04bd49c&usg=AOvVaw3WvIDyy7MGceAavdeYonN9|date=29 July 2018}}</ref>
+|39%
+|36%
+|10%
+|7%
+|8%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!17 Jul 2018
+|style="text-align:left;" |Essential<ref name="Essential17July2018">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/07/Essential-Report-190618.pdf|date=2 July 2018}}</ref>
+|40%
+|36%
+|10%
+|6%
+|8%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!16 Jul 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll6Jul2018">{{cite web|title=Newspoll|url=https://www.theaustralian.com.au/national-affairs/newspoll-malcolm-turnbull-leaves-bill-shorten-in-the-dust/news-story/7a3b6110427fa43d00597bf7f04bd49c&usg=AOvVaw3WvIDyy7MGceAavdeYonN9|date=16 July 2018|url-access=subscription}}</ref>
+|38%
+|36%
+|10%
+|7%
+|9%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!3 Jul 2018
+|style="text-align:left;" |Essential<ref name="Essential2Jul2018">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/07/Essential-Report-190618.pdf|date=2 July 2018}}</ref>
+|40%
+|37%
+|11%
+|6%
+|6%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!2 Jul 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll2Jul2018">{{cite web|title=Newspoll: 51-49 to Labor|url=https://www.theaustralian.com.au/national-affairs/newspoll|date=2 July 2018}}</ref>
+|39%
+|37%
+|9%
+|6%
+|9%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!21–24 Jun 2018
+|style="text-align:left;" |Ipsos<ref name="IpsosJun2018">{{cite web|title=Age editorial: Voters’ choice would be to mix and match|url=https://www.theage.com.au/national/age-editorial-voters-choice-would-be-to-mix-and-match-20180624-p4zngg.html|date=24 June 2018}}</ref>
+|35%
+|35%
+|12%
+|6%
+|12%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!14–17 Jun 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll20Jun2018">{{cite web|title=Newspoll: 52-48 to Labor|url=https://www.theaustralian.com.au/national-affairs/newspoll|date=20 June 2018}}</ref>
+|38%
+|38%
+|10%
+|6%
+|8%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!14–17 Jun 2018
+|style="text-align:left;" |Essential<ref name="Essential19Jun2018">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/06/Essential-Report-190618.pdf|date=19 June 2018}}</ref>
+|38%
+|35%
+|11%
+|7%
+|9%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!2 Jun 2018
+|style="text-align:left;" |ReachTEL<ref name="ReachTEL2Jun2018">{{cite web|title=ReachTEL: 52-48 to Labor; 54-46 to Liberal in Braddon; 52-48 to LNP in Longman|url=https://www.pollbludger.net/2018/06/03/reachtel-52-48-labor-54-46-liberal-braddon-52-48-lnp-longman/|date=3 June 2018}}</ref>
+|35%
+|34%
+|11%
+|9%
+|11%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!31 May – 3 Jun 2018
+|style="text-align:left;" |Essential<ref name="Essential5Jun2018">{{cite web|title=Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/06/Essential-Report-050618-1.pdf|date=5 June 2018}}</ref>
+|36%
+|37%
+|10%
+|8%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!24–27 May 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll28May2018">{{cite web|title=Newspoll: Voters snub Bill Shorten’s tax attack|url=https://www.theaustralian.com.au/national-affairs/newspoll-malcolm-turnbull-builds-lead-over-bill-shorten-as-preferred-pm/news-story/e90556c1a93e8d12543e56dcd5f30d6b|date=28 May 2018}}</ref>
+|38%
+|38%
+|9%
+|8%
+|7%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!17–20 May 2018
+|style="text-align:left;" |Essential<ref name="Essential17May2018">{{cite web|title=The Essential Report 22 May 2018|url=http://www.essentialvision.com.au/wp-content/uploads/2018/05/Essential-Report-220518.pdf|date=22 May 2018}}</ref>
+|40%
+|36%
+|10%
+|8%
+|7%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!10–13 May 2018
+|style="text-align:left;" |Essential<ref name="Essential13May2018">{{cite web|title=The Essential Report 15 May 2018|url=http://www.essentialvision.com.au/wp-content/uploads/2018/05/Essential-Report-150518.pdf|date=15 May 2018}}</ref>
+|38%
+|36%
+|10%
+|7%
+|8%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!10–13 May 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll13May2018">{{cite web|title=Newspoll results|url=https://theaustralianatnewscorpau.files.wordpress.com/2018/05/web-news-newspoll-14-05-2018.pdf|date=14 May 2018}}</ref>
+|39%
+|38%
+|9%
+|6%
+|8%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!10–12 May 2018
+|style="text-align:left;" |Ipsos<ref name="Ipsos12May2018">{{cite web|title=Fairfax-Ipsos poll: Budget passes fairness test but Labor's support surges|url=http://www.afr.com/news/fairfaxipsos-poll-budget-passes-fairness-test-but-labors-support-surges-20180513-h0zzt3|date=13 May 2018}}</ref>
+|36%
+|37%
+|11%
+|5%
+|11%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!3–6 May 2018
+|style="text-align:left;" |Essential<ref name="Essential8May2018">{{cite web|title=Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/05/Essential-Report-080518.pdf|date=8 May 2018}}</ref>
+|38%
+|37%
+|10%
+|6%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!30 Apr 2018
+|style="text-align:left;" |ReachTEL<ref name="ReachTEL30Apr2018">{{cite web|title=Coalition gains two points as preferred party but continues to trail Labor|url=https://www.skynews.com.au/details/_5779136902001|date=2 May 2018}}</ref>
+|36%
+|35%
+|11%
+|6%
+|12%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!19–22 Apr 2018
+|style="text-align:left;" |Essential<ref name="Essential24Apr2018">{{cite web|title=Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/04/Essential-Report_240418.pdf|date=24 April 2018}}</ref>
+|37%
+|36%
+|11%
+|8%
+|8%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!22 Apr 2018
+|style="text-align:left;"|Newspoll<ref>{{cite web|url=https://www.theaustralian.com.au/national-affairs/newspoll/prime-minister-malcolm-turnbull-hits-31-straight-newspoll-losses/news-story/386d5f79a71c6de3184bc60f6b225399|title=Subscribe to The Australian {{!}} Newspaper home delivery, website, iPad, iPhone & Android apps|website=www.theaustralian.com.au|language=en|access-date=2018-04-08}}</ref>
+|38%
+|37%
+|9%
+|7%
+|9%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!5–8 Apr 2018
+|style="text-align:left;" |Essential<ref name="Essential10Apr2018">{{cite web|title=Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/04/Essential-Report_100418.pdf|date=10 April 2018}}</ref>
+|38%
+|37%
+|10%
+|7%
+|8%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!5–8 Apr 2018
+|style="text-align:left;"|Newspoll<ref>{{cite web|url=https://www.theaustralian.com.au/national-affairs/newspoll/prime-minister-malcolm-turnbull-hits-30-straight-newspoll-losses/news-story/386d5f79a71c6de3184bc60f6b225399|title=Subscribe to The Australian {{!}} Newspaper home delivery, website, iPad, iPhone & Android apps|website=www.theaustralian.com.au|language=en|access-date=2018-04-08}}</ref>
+|38%
+|37%
+|10%
+|7%
+|8%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!3–5 Apr 2018
+|style="text-align:left;" |Ipsos<ref name="Ipsos20180407">{{cite web|title=Fairfax-Ipsos poll: Malcolm Turnbull is back in the game|url=http://www.afr.com/news/politics/fairfaxipsos-poll-malcolm-turnbull-is-back-in-the-game-20180405-h0yesx|date=7 April 2018}}</ref><ref>{{cite news|url=https://theconversation.com/poll-wrap-newspoll-not-all-bad-news-for-turnbull-as-coalitions-position-improves-94636|title=Poll wrap: Newspoll not all bad news for Turnbull as Coalition’s position improves |date=11 April 2018|author=Adrian Beaumont}}</ref>
+|36%
+|34%
+|12%
+|8%
+|10%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!24 Mar – 1 Apr 2018
+|style="text-align:left;" |Roy Morgan<ref name="RoyMorgan20180406">{{cite web|title=Federal Election still too close to call: ALP 51% cf. L-NP 49%|url=http://www.roymorgan.com/findings/7559-federal-voting-intention-april-6-2018-201804060750|date=6 April 2018}}</ref>
+|38.5%
+|37.5%
+|11%
+|3%
+|10%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!28 Mar 2018
+|style="text-align:left;" |ReachTEL<ref name="ReachTEL20180328">{{cite web|title=Exclusive: Labor holds onto election winning lead|url=https://www.skynews.com.au/details/_5760147570001|date=29 March 2018}}</ref>
+|34%
+|36%
+|10%
+|7%
+|13%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!22–25 Mar 2018
+|style="text-align:left;" |Essential<ref name="Essential20180325">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/03/Essential-Report_270318.pdf|date=27 March 2018}}</ref>
+|38%
+|36%
+|9%
+|8%
+|9%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!22–25 Mar 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll2018v4">{{cite web|title=Newspoll: Malcolm Turnbull loses 29th straight Newspoll as Labor vote climbs|url=https://www.theaustralian.com.au/national-affairs/newspoll/malcolm-turnbull-loses-29th-straight-newspoll-as-labor-vote-climbs/news-story/ecb44e5793b061aa481db2f195358151|date=26 March 2018}}</ref>
+|37%
+|39%
+|9%
+|7%
+|8%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!17–25 Mar 2018
+|style="text-align:left;" |Roy Morgan<ref name="RoyMorgan20180325">{{cite web|title=Roy Morgan: Federal Election too close to call as L-NP holds big lead in Queensland|url=https://www.roymorgan.com/findings/7543-morgan-poll-federal-voting-intention-march-28-2018-201803270904|date=27 March 2018}}</ref>
+|40%
+|35%
+|12%
+|3.5%
+|9.5%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!8–11 Mar 2018
+|style="text-align:left;" |Essential<ref name="Essential13Mar2018">{{cite web|title=Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/03/Essential-Report_130318.pdf|date=13 March 2018}}</ref>
+|36%
+|38%
+|9%
+|8%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!3–11 Mar 2018
+|style="text-align:left;" |Roy Morgan<ref name="RoyMorgan20180311">{{cite web|title=Roy Morgan|url=https://www.roymorgan.com/findings/7543-morgan-poll-federal-voting-intention-march-28-2018-201803270904|date=27 March 2018}}</ref>
+|36%
+|36%
+|13.5%
+|3%
+|11.5%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!1–4 Mar 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll2018v3">{{cite web|title=Newspoll: Malcolm Turnbull suffers drop as preferred PM in the wake of Barnaby Joyce’s baby scandal|url=https://www.theaustralian.com.au/national-affairs/newspoll/malcolm-turnbull-suffers-drop-as-preferred-pm-in-the-wake-of-barnaby-joyces-baby-scandal/news-story/ddf2a53d711942a642ecaf783123d758?nk=38198ed6f0f2c0bf7577f618b55ea48d-1520168066|date=4 March 2018}}</ref>
+|37%
+|38%
+|9%
+|7%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!22–25 Feb 2018
+|style="text-align:left;" |Essential<ref name="Essential127Feb2018">{{cite web|title=Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/02/Essential-Report_270218-1.pdf|date=27 February 2018}}</ref>
+|35%
+|35%
+|10%
+|8%
+|12%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!24 Feb 2018
+|style="text-align:left;" |ReachTEL<ref name="ReachTELFeb2018">{{cite web|title=Barnaby Joyce affair saga was a distraction: Bishop
+|url=https://www.sbs.com.au/news/barnaby-joyce-affair-saga-was-a-distraction-bishop|date=25 February 2018}}</ref>
+|33%
+|37%
+|11%
+|7%
+|12%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!15–18 Feb 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll2018v2">{{cite web|title=Newspoll: Joyce should quit as voters punish government|url=https://www.theaustralian.com.au/national-affairs/newspoll-joyce-should-quit-as-voters-punish-government/news-story/a534bcf71efa99571bb359dd54772c04|date=19 February 2018}}</ref>
+|36%
+|37%
+|10%
+|8%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!8–11 Feb 2018
+|style="text-align:left;" |Essential<ref name="Essential113Feb2018">{{cite web|title=Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/02/Essential-Report_130218-1.pdf|date=13 February 2018}}</ref>
+|36%
+|37%
+|10%
+|6%
+|11%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!1–3 Feb 2018
+|style="text-align:left;" |Newspoll<ref name="Newspoll2018v1">{{cite web|title=Encouragement for Turnbull in Newspoll as parliamentary year starts|url=http://theconversation.com/encouragement-for-turnbull-in-newspoll-as-parliamentary-year-starts-91216|date=4 February 2018}}</ref>
+|38%
+|37%
+|10%
+|5%
+|10%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!26–28 Jan 2018
+|style="text-align:left;" |Essential<ref name="Essential129Jan2018">{{cite web|title=Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/01/Essential-Report_300118.pdf|date=30 January 2018}}</ref>
+|35%
+|36%
+|10%
+|8%
+|11%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!25 Jan 2018
+|style="text-align:left;" |ReachTEL<ref name="ReachTELJan2018">{{cite web|title=Tasmanian election likely to be close, while Labor continues to lead federally|url=https://theconversation.com/tasmanian-election-likely-to-be-close-while-labor-continues-to-lead-federally-90827|date=30 January 2018}}</ref>
+|34%
+|36%
+|10%
+|8%
+|12%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!11–15 Jan 2018
+|style="text-align:left;" |Essential<ref name="Essential16Jan2018">{{cite web|title=Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2018/01/Essential-Report_160118.pdf|date=16 January 2018}}</ref>
+|37%
+|38%
+|9%
+|6%
+|10%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!19 Dec 2017
+|style="text-align:left;" |Essential<ref name="Essential19Dec17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/12/Essential-Report_191217.pdf|date=19 December 2017}}</ref>
+|37%
+|38%
+|9%
+|7%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!14–17 Dec 2017
+|style="text-align:left;" |Newspoll<ref name="Newspoll17Dec17">{{cite web|title=Coalition still trails Labor but Turnbull extends as preferred PM|url=http://www.theaustralian.com.au/national-affairs/newspoll/coalition-trails-labor-but-turnbull-extends-lead-as-preferred-pm/news-story/|date=17 December 2017}}</ref>
+|36%
+|37%
+|10%
+|7%
+|10%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!12 Dec 2017
+|style="text-align:left;" |Essential<ref name="Essential12Dec17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/12/Essential-Report_121217.pdf|date=12 December 2017}}</ref>
+|35%
+|38%
+|10%
+|7%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!7–10 Dec 2017
+|style="text-align:left;" |YouGov<ref name="YouGov20171210">{{cite web|title=YouGov / Fifty Acres Survey Results|url=https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/7f35zond0m/50AcresResults_171211_Wave17_w.pdf|date=12 December 2017}}</ref>
+|34%
+|35%
+|11%
+|8%
+|13%
+|'''50%'''
+|'''50%'''
+|-
+!5 Dec 2017
+|style="text-align:left;" |Essential<ref name="Essential05Dec17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/12/Essential-Report_051217.pdf|date=5 December 2017}}</ref>
+|35%
+|38%
+|9%
+|8%
+|10%
+|45%
+|style="background:#f66;" | '''55%'''
+|-
+!30 Nov − 3 Dec 2017
+|style="text-align:left;" |Newspoll<ref name="Newspoll3Dec17">{{cite web|title=Newspoll and Ipsos: 53-47 to Labor|url=https://www.pollbludger.net/2017/12/03/ipsos-53-47-labor-3/|date=3 December 2017}}</ref>
+|36%
+|37%
+|10%
+|8%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!29 Nov 2017
+|style="text-align:left;" |ReachTEL<ref>{{cite news|title=More bad news for government in latest poll|url=http://www.skynews.com.au/news/top-stories/2017/11/29/more-bad-news-for-government-in-latest-poll.html|date=29 November 2017|publisher=Sky News}}</ref>
+|33%
+|36%
+|10%
+|9%
+|12%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!28 Nov 2017
+|style="text-align:left;" |Essential<ref name="Essential28Nov17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/11/Essential-Report_281117.pdf|date=28 November 2017}}</ref>
+|36%
+|38%
+|9%
+|8%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!23–27 Nov 2017
+|style="text-align:left;" |YouGov<ref name="YouGov20171127">{{cite web|title=YouGov / Fifty Acres Survey Results|url=https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/pfzr5cxrg2/50AcresResults_171127_Wave16.pdf|date=28 November 2017}}</ref>
+|32%
+|32%
+|10%
+|11%
+|16%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!21 Nov 2017
+|style="text-align:left;" |Essential<ref name="Essential21Nov17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/11/Essential-Report_211117.pdf|date=21 November 2017}}</ref>
+|35%
+|38%
+|9%
+|8%
+|10%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!14 Nov 2017
+|style="text-align:left;" |YouGov<ref>https://au.yougov.com/news/2017/11/14/same-sex-marriage-results/</ref>
+|31%
+|34%
+|11%
+|11%
+|14%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!14 Nov 2017
+|style="text-align:left;" |Essential<ref name="Essential14Nov17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/11/Essential-Report_141117.pdf|date=14 November 2017}}</ref>
+|36%
+|38%
+|9%
+|8%
+|10%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!13 Nov 2017
+|style="text-align:left;" |Newspoll<ref name="Newspoll13Nov17">{{cite web|title=Misery for Malcolm Turnbull in horror poll slump|url=http://www.theaustralian.com.au/national-affairs/newspoll-misery-for-malcolm-turnbull-in-horror-poll-slump/news-story/3abf4f7975381d5c9707ec23fc666e6c|date=13 November 2017|publisher=[[The Australian]]|subscription=yes}}</ref>
+|34%
+|38%
+|9%
+|10%
+|9%
+|45%
+|style="background:#f66;" | '''55%'''
+|-
+!30 Oct 2017
+|style="text-align:left;" |Essential<ref name="Essental31Oct17">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/10/Essential-Report_311017.pdf|date=31 October 2017}}</ref>
+|36%
+|37%
+|10%
+|7%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!26–29 Oct 2017
+|style="text-align:left;" |Newspoll
+|35%
+|37%
+|10%
+|9%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!24 Oct 2017
+|style="text-align:left;" |Essential<ref name="Essental24Oct17">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/10/Essential-Report_241017.pdf|date=24 October 2017}}</ref>
+|37%
+|36%
+|9%
+|8%
+|10%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!12–15 Oct 2017
+|style="text-align:left;" |Newspoll
+|36%
+|37%
+|10%
+|9%
+|8%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!4 Oct 2017
+|style="text-align:left;" |Essential<ref name="Essental4Oct17">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/10/Essential-Report_031017.pdf|date=4 October 2017}}</ref>
+|36%
+|38%
+|10%
+|7%
+|10%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!1 Oct 2017
+|style="text-align:left;" |ReachTEL<ref name="ReachTEL01oct17">{{cite web|title=ReachTEL: 53-47 to Labor|url=http://www.skynews.com.au/news/top-stories/2017/10/02/poll-shows-marriage-survey-heading-for--yes-.html|date=1 October 2017}}</ref>
+|36%
+|38%
+|9%
+|8%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!26 Sep 2017
+| style="text-align:left;" |Essential<ref name="essential26Sep2017">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/category/essentialreport|date=26 September 2017}}</ref>
+|37%
+|37%
+|10%
+|7%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!21–24 Sep 2017
+|style="text-align:left;" |Newspoll<ref name="newspoll25sep17">{{cite web|title=Newspoll: 54-46 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/09/24/newspoll-54-46-labor-2/|date=24 September 2017}}</ref>
+|36%
+|38%
+|9%
+|8%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!19 Sep 2017
+| style="text-align:left;" |Essential<ref name="essential19Sep2017">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/category/essentialreport|date=19 September 2017}}</ref>
+|38%
+|36%
+|10%
+|8%
+|8%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!14–18 Sep 2017
+| style="text-align:left;" |YouGov<ref name="YouGov20Sep2017">{{cite web|title=YouGov-Fifty Acres: Labor 35, Coalition 34, Greens 11, One Nation 9|url=https://blogs.crikey.com.au/pollbludger/2017/09/20/yougov-fifty-acres-labor-35-coalition-34-greens-11-one-nation-9/|date=20 September 2017}}</ref>
+|34%
+|35%
+|11%
+|9%
+|11%
+|'''50%'''
+|'''50%'''
+|-
+!12 Sep 2017
+| style="text-align:left;" |Essential<ref name="essential5Sep2017">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/category/essentialreport|date=5 September 2017}}</ref>
+|36%
+|37%
+|10%
+|9%
+|8%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!6–9 Sep 2017
+| style="text-align:left;" |Ipsos<ref name="Ipsos9Sep2017">{{cite web|title=Ipsos: 53-47 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/09/10/ipsos-53-47-labor-2/|date=10 September 2017}}</ref><ref>{{cite web |url= https://www.ipsos.com/en-au/labor-maintain-their-lead-fairfax-ipsos-poll |title= Labor maintain their lead – Fairfax Ipsos Poll}}</ref>
+|35%
+|34%
+|14%
+|1%
+|15%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!5 Sep 2017
+| style="text-align:left;" |Essential<ref name="essential5Sep2017"/>
+|36%
+|37%
+|10%
+|8%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!31 Aug – 4 Sep 2017
+| style="text-align:left;" |YouGov<ref name="YouGov6Sep2017">{{cite web|title=YouGov-Forty Acres: Coalition 34, Labor 32, Greens 12, One Nation 9|url=https://blogs.crikey.com.au/pollbludger/2017/09/06/yougov-forty-acres-coalition-34-labor-32-greens-12-one-nation-9/|date=6 September 2017}}</ref>
+|34%
+|32%
+|12%
+|9%
+|13%
+|'''50%'''
+|'''50%'''
+|-
+!28 Aug – 2 Sep 2017
+|style="text-align:left;" |Newspoll<ref name="newspoll3sep17">{{cite web|title=Newspoll: 53-47 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/09/03/newspoll-53-47-labor-9/|date=3 September 2017}}</ref>
+|37%
+|38%
+|9%
+|8%
+|8%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!29 Aug 2017
+| style="text-align:left;" |Essential<ref name="essential29Aug2017">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/category/essentialreport|date=29 August 2017}}</ref>
+|37%
+|36%
+|10%
+|8%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!23 Aug 2017
+| style="text-align:left;" |ReachTEL<ref name="ReachTEL24Aug2017">{{cite web|title=ReachTEL: 52-48 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/08/24/reachtel-52-48-labor-2/|date=24 August 2017}}</ref>
+|34.5%
+|36.7%
+|10.3%
+|10.4%
+|8.2%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!22 Aug 2017
+| style="text-align:left;" |Essential<ref name="essential22Aug2017">{{cite web|title=Essential Research: 53-47 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/08/22/essential-research-53-47-labor-14/|date=22 August 2017}}</ref>
+|37%
+|37%
+|9%
+|8%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!17–21 Aug 2017
+|style="text-align:left;" |YouGov<ref name="yougov23aug17">{{cite web|title=YouGov-Fifty Acres: Coalition 34, Labor 33, Greens 10, One Nation 10|url=https://blogs.crikey.com.au/pollbludger/2017/08/23/yougov-fifty-acres-coalition-34-labor-33-greens-10-one-nation-10/|date=23 August 2017}}</ref>
+|34%
+|33%
+|10%
+|10%
+|13%
+|style="background:#00bfff" |'''51%'''
+|49%
+|-
+!17–20 Aug 2017
+|style="text-align:left;" |Newspoll<ref name="newspoll20aug17">{{cite web|title=Newspoll: 54-46 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/08/20/newspoll-54-46-labor/|date=20 August 2017}}</ref>
+|35%
+|38%
+|9%
+|9%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!15 Aug 2017
+| style="text-align:left;" |Essential<ref name="essential15Aug2017">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/category/essentialreport|date=15 August 2017}}</ref>
+|37%
+|39%
+|9%
+|8%
+|7%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!8 Aug 2017
+| style="text-align:left;" |Essential<ref name="essential8Aug2017">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/category/essentialreport|date=8 August 2017}}</ref>
+|37%
+|39%
+|9%
+|8%
+|7%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+!3–6 Aug 2017
+|style="text-align:left;" |Newspoll<ref name="newspoll7aug17">{{cite web|title=Newspoll: 53-47 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/08/06/newspoll-53-47-labor-8/|date=7 August 2017}}</ref>
+|36%
+|36%
+|11%
+|8%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!1 Aug 2017
+| style="text-align:left;" |Essential<ref name="essential1Aug2017">{{cite web|title=Essential: Essential Report|url=http://www.essentialvision.com.au/category/essentialreport|date=1 August 2017}}</ref>
+|38%
+|36%
+|10%
+|8%
+|8%
+|48%
+|style="background:#f66;" | '''52%'''
+|-
+!25 Jul 2017
+| style="text-align:left;" |Essential<ref name="essential25Jul2017">{{cite web|title=Essential Research: 53-47 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/07/25/essential-research-53-47-labor-13/|date=25 July 2017}}</ref>
+|38%
+|37%
+|10%
+|7%
+|8%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!20–24 Jul 2017
+|style="text-align:left;" |YouGov<ref name="yougov26Jul17">{{cite web|title=YouGov-Fifty Acres: 50-50|url=https://blogs.crikey.com.au/pollbludger/2017/07/26/yougov-fifty-acres-50-50/|date=26 July 2017}}</ref>
+|36%
+|33%
+|10%
+|8%
+|13%
+|'''50%'''
+|'''50%'''
+|-
+!20–23 Jul 2017
+|style="text-align:left;" |Newspoll<ref name="newspoll24july17">{{cite web|title=Newspoll: Majors turn tide on Greens, One Nation|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-labor-keeps-winning-edge-against-coalition/news-story/86a5f504c3da68693341aee351c8f940?nk=439e2891a87ef1dda742a6f626faa9c3-1500945259|date=24 July 2017}}</ref>
+|36%
+|37%
+|9%
+|9%
+|9%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+!19 Jul 2017
+|style="text-align:left;" |ReachTEL<ref name="reachtel19Jul2017">{{cite news|title=ReachTEL federal opinion poll 19 Jul 2017|url=https://ghostwhovotes.files.wordpress.com/2017/08/reachtel-170823-federal.pdf|date=20 July 2017}}</ref>
+|37.2%
+|35.1%
+|8.8%
+|11.7%
+|7.2%
+|49%
+|style="background:#f66;" | '''51%'''
+|-
+!18 Jul 2017
+|style="text-align:left;" |Essential<ref name="essentialjuly17">{{cite web|title=Essential: 54-46 to Labor|url=http://www.essentialvision.com.au/wp-content/uploads/2017/07/Essential-Report_180711.pdf|accessdate=18 July 2017}}</ref>
+|36%
+|38%
+|10%
+|7%
+|9%
+|46%
+|style="background:#f66;" | '''54%'''
+|-
+! 6–11 Jul 2017
+| style="text-align:left;" |YouGov<ref name="yougov13July">{{cite web|title=YouGov-Fifty Acres: L-NP 36, ALP 33, Greens 12, One Nation 7|url=https://blogs.crikey.com.au/pollbludger/2017/07/13/yougov-fifty-acres-l-np-36-alp-33-greens-12-one-nation-7/|date=13 July 2017}}</ref>
+|36%
+|33%
+|12%
+|7%
+|12%
+|style="background:#00bfff" |'''52%'''
+|48%
+|-
+!6–9 Jul 2017
+|style="text-align:left;" |Newspoll<ref name="newspoll29july17">{{cite web|title=Newspoll: 53-47 to Labor|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-shorten-closes-in-on-turnbull-as-libs-brawl/news-story/b03de494626db99fecb10a1cb8f7a153|accessdate=10 July 2017}}</ref>
+|35%
+|36%
+|10%
+|11%
+|8%
+|47%
+|style="background:#f66;" | '''53%'''
+|-
+! 29 June 2017
+| style="text-align:left;" |ReachTEL<ref name="reachtel30jun2017">{{cite web|title=ReachTEL opinion poll 29 Jun 2017|url=https://ghostwhovotes.files.wordpress.com/2017/08/reachtel-170823-federal.pdf|date=30 June 2017}}</ref>
+|36.4%
+|35.4%
+|10.2%
+|9.6%
+|8.3%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 22–27 Jun 2017
+| style="text-align:left;" |YouGov<ref name="yougov27Jun2017">{{cite web|title=YouGov-Fifty Acres: 51-49 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/06/28/yougov-fifty-acres-51-49-labor/|date=28 June 2017}}</ref>
+|33%
+|34%
+|12%
+|7%
+|14%
+|49%
+| style="background:#f66;" | '''51%'''
+|-
+! 15–18 Jun 2017
+| style="text-align:left;" |Newspoll<ref name="newspoll18Jun2017">{{cite web|title=Newspoll|url=https://theaustralianatnewscorpau.files.wordpress.com/2017/06/web_newspoll_leaders.pdf?cn=bWVzc2FnZQ%3D%3D}}</ref>
+|36%
+|37%
+|9%
+|11%
+|7%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 14 June 2017
+| style="text-align:left;" |Essential<ref name="Essential14june">{{cite web|title=Essential:52-48 to Labor|url=http://www.essentialvision.com.au/wp-content/uploads/2017/06/Essential-Report_170613.pdf/}}</ref>
+|38%
+|36%
+|10%
+|8%
+|8%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 26–29 May 2017
+| style="text-align:left;" |Newspoll<ref name="newspoll29may17">{{cite web|title=Newspoll: 53-47 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/05/29/newspoll-53-47-labor-4/|accessdate=18 June 2017}}</ref>
+|36%
+|36%
+|10%
+|9%
+|9%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 23 May 2017
+| style="text-align:left;" |Essential<ref name="Essential23may">{{cite web|title=Essential:54-46 to Labor|url=https://www.theguardian.com/australia-news/ng-interactive/2017/may/23/the-guardian-essential-report-23-may-results/}}</ref>
+|37%
+|38%
+|10%
+|6%
+|9%
+|46%
+| style="background:#f66;" | '''54%'''
+|-
+! 12–15 May 2017
+| style="text-align:left;" |Newspoll<ref name="newspoll15may17">{{cite web|title=Newspoll: 53-47 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/05/15/newspoll-53-47-labor-6/|accessdate=16 May 2017}}</ref>
+|36%
+|36%
+|10%
+|9%
+|9%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 11 May 2017
+| style="text-align:left;" |ReachTEL<ref name="newspoll12may17">{{cite web|title=ReachTEL: 53-47 and 54-46 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/05/12/reachtel-53-47-labor/}}</ref>
+|38%
+|34.1%
+|10.9%
+|11%
+|6%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 10–11 May 2017
+| style="text-align:left;" |Ipsos<ref>{{cite web|title=Lift for Coalition following second Turnbull/Morrison budget|url=http://ipsos.com.au/fairfax/lift-for-coalition-following-second-turnbullmorrison-budget/ |accessdate=26 May 2017}}</ref>
+|37%
+|35%
+|13%
+|2%
+|13%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 26–30 Apr 2017
+| style="text-align:left;" |Essential<ref name="essential2may17">{{cite web|title=Essential report: 2 May 2017|url=http://www.essentialvision.com.au/wp-content/uploads/2017/05/Essential-Report_170502-1.pdf|accessdate=4 May 2017}}</ref>
+|38%
+|37%
+|9%
+|7%
+|9%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 20–23 Apr 2017
+| style="text-align:left;" |Newspoll<ref name="newspoll23april17">{{cite web|title=Newspoll: 52-48 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/04/24/newspoll-52-48-labor-6/|accessdate=24 April 2017}}</ref>
+|36%
+|35%
+|9%
+|10%
+|10%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 13–16 Apr 2017
+| style="text-align:left;" |Essential<ref name="essential18april17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/04/Essential-Report_170418.pdf|accessdate=21 April 2017}}</ref>
+|36%
+|37%
+|10%
+|8%
+|10%
+|46%
+| style="background:#f66;" | '''54%'''
+|-
+! 6–9 Apr 2017
+| style="text-align:left;" |Essential<ref name="essential11april17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/federal-voting-intention-59|accessdate=21 April 2017}}</ref>
+|37%
+|36%
+|10%
+|8%
+|9%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 1–4 Apr 2017
+| style="text-align:left;" |Essential<ref name="essential4april17">{{cite web|title=The Guardian Essential Poll: Majority of voters back emissions trading scheme, poll finds|url=https://www.theguardian.com/australia-news/2017/apr/04/majority-of-voters-back-emissions-trading-scheme-guardian-essential-poll-finds|accessdate=4 April 2017}}</ref>
+|37%
+|36%
+|10%
+|8%
+|9%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 30 Mar – 2 Apr 2017
+| style="text-align:left;" |Newspoll<ref name="newspoll2april17">{{cite web|title=Newspoll: 53-47 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/04/02/newspoll-53-47-labor-3/|accessdate=24 April 2017}}</ref>
+|36%
+|36%
+|10%
+|10%
+|8%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 24–27 Mar 2017
+| style="text-align:left;" |Essential<ref name="essential28mar17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/03/Essential-Report_170328.pdf|website=Essential Report|publisher=Essential Media|accessdate=2 April 2017}}</ref>
+|35%
+|37%
+|10%
+|8%
+|11%
+|46%
+| style="background:#f66;" | '''54%'''
+|-
+! 22–25 Mar 2017
+| style="text-align:left;" |Ipsos<ref name="ipsos25mar17">{{cite web|last1=Massola|first1=James|title=Fairfax-Ipsos poll: Support for Turnbull government crashes as Labor takes thumping lead|url=http://www.smh.com.au/federal-politics/political-news/fairfaxipsos-poll-support-for-turnbull-government-crashes-as-labor-takes-thumping-lead-20170326-gv6lpo.html|website=The Sydney Morning Herald|publisher=Fairfax Media|accessdate=26 March 2017}}</ref><ref>{{cite web|url=http://ipsos.com.au/fairfax/labor-benefits-from-lacklustre-turnbull-government/|title=Labor benefits from lacklustre Turnbull government|publisher=Ipsos Australia}}</ref>
+|33%
+|34%
+|16%
+|2%
+|15%
+|45%
+| style="background:#f66;" | '''55%'''
+|-
+! 17–20 Mar 2017
+| style="text-align:left;" |Essential<ref name="essential16mar21">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/03/Essential-Report_170321.pdf|website=Essential Report|publisher=Essential Media|accessdate=21 March 2017}}</ref>
+|34%
+|37%
+|9%
+|10%
+|9%
+|45%
+| style="background:#f66;" | '''55%'''
+|-
+! 16–19 Mar 2017
+| style="text-align:left;" |Newspoll<ref name="newspoll20march">{{cite web|title=Newspoll: 52-48 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/03/19/newspoll-52-48-labor-5/|accessdate=24 April 2017}}</ref>
+|37%
+|35%
+|9%
+|10%
+|9%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 10–13 Mar 2017
+| style="text-align:left;" |Essential<ref name="essential16mar17">{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/03/Essential-Report_170314.pdf|website=Essential Report|publisher=Essential Media|accessdate=16 March 2017}}</ref>
+|35%
+|36%
+|9%
+|11%
+|9%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 3–6 Mar 2017
+| style="text-align:left;" |Essential<ref name="essential8mar17">{{cite web|title=Federal voting intention|url=http://www.essentialvision.com.au/federal-voting-intention-54|website=Essential Report|publisher=Essential Research|accessdate=8 March 2017}}</ref>
+|37%
+|37%
+|9%
+|9%
+|8%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 23–26 Feb 2017
+| style="text-align:left;" |Newspoll<ref>{{cite web|last1=Crowe|first1=David|title=Coalition tumbles as voters turn to Hanson|url=http://www.theaustralian.com.au/national-affairs/newspoll-coalition-loses-more-ground-amid-tensions-between-pm-and-tony-abbott/news-story/b663ad837c3a47bac74dde409b21ee3a|website=The Australian|publisher=The Australian|accessdate=26 February 2017|date=26 February 2017}}</ref>
+|34%
+|37%
+|10%
+|10%
+|9%
+|45%
+| style="background:#f66;" | '''55%'''
+|-
+! 16–19 Feb 2017
+| style="text-align:left;" |Essential<ref>{{cite web|title=The Essential Report|url=http://www.essentialvision.com.au/wp-content/uploads/2017/02/Essential-Report_170221.pdf|website=essentialmedia.com.au|publisher=Essential Research|accessdate=25 February 2017}}</ref>
+|36%
+|34%
+|10%
+|10%
+|10%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 9–12 Feb 2017
+| style="text-align:left;" |Essential<ref>{{cite web|url=http://www.essentialvision.com.au/category/essentialreport|title=The Essential Report|website=Essential Vision| format=PDF|date=14 February 2017|accessdate=14 February 2017}}</ref>
+|36%
+|35%
+|9%
+|10%
+|9%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 2–5 Feb 2017
+| style="text-align:left;" |Newspoll<ref name="newspoll2-5Feb">{{cite news |title=Newspoll: Hanson on the rise as Coalition support dives |url=http://www.theaustralian.com.au/national-affairs/newspoll-hanson-on-the-rise-as-coalition-support-dives/news-story/7e0b701bfa1fcd912a3ef44dd1fa1b37|publisher=The Australian|date=6 February 2017 |accessdate=6 February 2017}}</ref>
+|35%
+|36%
+|10%
+|8%
+|11%
+|46%
+| style="background:#f66;" | '''54%'''
+|-
+! 20–23 Jan 2017
+| style="text-align:left;" |Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2017/01/Essential-Report_170124.pdf|title=The Essential Report|website=Essential Vision| format=PDF|date=24 January 2017|accessdate=24 January 2017}}</ref>
+|35%
+|37%
+|10%
+|9%
+|8%
+|46%
+| style="background:#f66;" | '''54%'''
+|-
+! 13–16 Jan 2017
+| style="text-align:left;" |Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2017/01/Essential-Report_170117.pdf|title=The Essential Report|website=Essential Vision| format=PDF|date=17 January 2017|accessdate=17 January 2017}}</ref>
+|38%
+|37%
+|9%
+|8%
+|8%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 12 Jan 2017
+| style="text-align:left;" |ReachTEL<ref>{{cite news|url=http://www.news.com.au/national/politics/centrelink-and-sussan-ley-controversy-hit-turnbull-in-polls/news-story/824de9a4531a681782dfccb8ae8f4cef|title=Centrelink and Sussan Ley controversy hit Turnbull in polls|date=16 January 2017 |agency=AAP}}</ref>
+|37.1%
+|35.0%
+|9.8%
+|10.6%
+|7.5%
+|46%
+| style="background:#f66;" | '''54%'''
+|-
+! 9–12 Dec 2016
+| style="text-align:left;" |Essential<ref>{{cite report|url=http://www.essentialvision.com.au/wp-content/uploads/2016/12/Essential-Report_161213.pdf|title=Essential Report|date=13 December 2016 |accessdate=14 December 2016}}</ref>
+|37%
+|37%
+|9%
+|7%
+|9%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 1–4 Dec 2016
+| style="text-align:left;" |Newspoll<ref name="newspoll5Dec">{{cite news |title=Newspoll: fix economy say voters as PM support falls to lowest level |url=http://www.theaustralian.com.au/national-affairs/newspoll-fix-economy-say-voters-as-pm-support-falls-to-lowest-level/news-story/12f2659c283aff92940fff5525b8f04d|publisher=The Australian|date=5 December 2016 |accessdate=6 December 2016}}</ref>
+|39%
+|36%
+|10%
+|5%
+|10%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 25–28 Nov 2016
+| style="text-align:left;" |Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/11/Essential-Report_161129.pdf|title=The Essential Report|website=Essential Vision| format=PDF|date=29 November 2016|accessdate=29 November 2016}}</ref>
+| 39%
+| 36%
+| 9%
+| 7%
+| 9%
+| 49%
+| style="background:#f66" | '''51%'''
+|-
+! 24–26 Nov 2016
+| style="text-align:left;" |Ipsos<ref name="ipsos27Nov16">{{cite news |title=Crashing to zero: Malcolm Turnbull's support evaporates in Fairfax-Ipsos poll |url=http://www.theage.com.au/federal-politics/political-news/crashing-to-zero-malcolm-turnbulls-support-evaporates-in-fairfaxipsos-poll-20161127-gsykvw.html|publisher=The Age|date=27 November 2016|author=Mark Kenny}}</ref>
+|36%
+|30%
+|16%
+|7%
+|9%
+|49%
+| style="background:#f66;" | '''51%'''
+|-
+
+! 17–20 Nov 2016
+| style="text-align:left;" |Newspoll<ref name="newspoll21Nov">{{cite news |title=Newspoll: Another Labor win as Turnbull loses his economic touch |url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-another-labor-win-as-turnbull-loses-his-economic-touch/news-story/c587b4df4a3f655feb96eeecffa3a0a2|publisher=The Australian|date=21 November 2016 |accessdate=22 November 2016}}</ref>
+|38%
+|38%
+|10%
+|4%
+|10%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 11–14 Nov 2016
+| style="text-align:left;" |Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/11/Essential-Report_161115.pdf|title=The Essential Report|website=Essential Vision| format=PDF|date=15 November 2016|accessdate=21 November 2016}}</ref>
+| 37%
+| 37%
+| 11%
+| 6%
+| 9%
+| 47%
+| style="background:#f66" | '''53%'''
+|-
+! 3–6 Nov 2016
+| style="text-align:left;" |Newspoll<ref name="newspoll8Nov">{{cite news |title=Newspoll: Labor vote highest since Turnbull became PM |url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-labor-vote-highest-since-turnbull-became-pm/news-story/06bad63df71b3b54043b8c5a21f7e6a1|publisher=The Australian|date=8 November 2016 |accessdate=8 November 2016}}</ref>
+|39%
+|38%
+|10%
+| –
+|13%
+|47%
+| style="background:#f66;" | '''53%'''
+|-
+! 20–23 Oct 2016
+| style="text-align:left;" |Newspoll<ref name="newspoll24Oct">{{cite news |title=Turnbull hits lowest rating as Labor maintains lead, says Newspoll |url=http://www.theaustralian.com.au/national-affairs/newspoll/turnbull-hits-lowest-rating-as-labor-maintains-lead-says-newspoll/news-story/597f0c5e467b37f7f81269ac11f1e6cf|publisher=The Australian|date=24 October 2016 |accessdate=25 October 2016}}</ref>
+|39%
+|37%
+|10%
+|5%
+|9%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 14–17 Oct 2016
+| style="text-align:left;" |Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/10/Essential-Report_161018_FINAL.pdf|title=The Essential Report|website=Essential Vision| format=PDF|date=18 October 2016|accessdate=18 October 2016}}</ref>
+| 37%
+| 37%
+| 11%
+| 5%
+| 9%
+| 47%
+| style="background:#f66" | '''53%'''
+|-
+! 7–10 Oct 2016
+| style="text-align:left;" |Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/10/Essential-Report_161018_FINAL.pdf|title=The Essential Report|website=Essential Vision| format=PDF|date=11 October 2016|accessdate=11 October 2016}}</ref>
+| 38%
+| 36%
+| 10%
+| 6%
+| 10%
+| 48%
+| style="background:#f66" | '''52%'''
+|-
+! 6–9 Oct 2016
+| style="text-align:left;" |Newspoll<ref name="newspoll10Oct">{{cite news |title=Newspoll: Labor still leading, 100 days since election |url=http://www.theaustralian.com.au/national-affairs/newspoll-labor-still-leading-100-days-since-election/news-story/4e5bfd043153de2dfbfb877c822909d2|publisher=The Australian|date=9 October 2016 |accessdate=10 October 2016}}</ref>
+|39%
+|36%
+|10%
+|6%
+|9%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 22–25 Sep 2016
+| style="text-align:left;" |Newspoll<ref name="newspoll27Sep">{{cite news |title=Newspoll: biggest lead for Labor in Malcolm Turnbull era |url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-biggest-lead-for-labor-in-malcolm-turnbull-era/news-story/f5db2c0c9a4f3362e9060f035fdaac22|publisher=The Australian|date=27 September 2016 |accessdate=26 September 2016}}</ref>
+|38%
+|37%
+|10%
+| –
+|15%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 9–12 Sep 2016
+| style="text-align:left;" |Essential<ref name="essential14sep">{{cite web|title=The Essential Report 13 September 2016|url=http://www.essentialvision.com.au/wp-content/uploads/2016/09/Essential-Report_160913.pdf|website=Essential Vision|publisher=Essential Research|accessdate=14 September 2016}}</ref>
+|38%
+|37%
+|10%
+|5%
+|11%
+|48%
+| style="background:#f66;" | '''52%'''
+|-
+! 8–11 Sep 2016
+| style="text-align:left;" |Newspoll<ref name=Newspoll12sep16>{{cite web|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-turnbull-trails-shorten-with-coalition-and-alp-in-tie/news-story/30cf1b393b8511a89152e71a718235f9 |title=Newspoll: Turnbull trails Shorten with Coalition and ALP in tie |publisher=The Australian |date=12 September 2016 |accessdate=2016-09-13}}</ref>
+|41%
+|36%
+|9%
+| –
+|14%
+|'''50%'''
+|'''50%'''
+|-
+! 26–29 Aug 2016
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/08/Essential-Report_160830.pdf |title=The Essential Report |format=PDF |date=30 August 2016 |accessdate=2016-08-31}}</ref>
+| 40%
+| 37%
+| 10%
+| –
+| 13%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 25–28 Aug 2016
+| style="text-align:left;" |Newspoll<ref name=Newspoll30aug16>{{cite web|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-malcolm-turnbull-in-plunge-to-new-low/news-story/69066af7603eeaad7442a7383bd34fa8 |title=Newspoll: Malcolm Turnbull in plunge to new low |publisher=The Australian |date=30 August 2016 |accessdate=2016-08-30}}</ref>
+|41%
+|36%
+|9%
+| –
+|14%
+|'''50%'''
+|'''50%'''
+|-
+! 19–22 Aug 2016
+| style="text-align:left;" | Essential<ref>{{cite web|url=https://crikey-uploads.s3.amazonaws.com/blogs.dir/6/files/2016/08/Essential-Report_160823.pdf |title=The Essential Report |format=PDF |date=23 August 2016 |accessdate=2016-08-31}}</ref>
+| 39%
+| 36%
+| 10%
+| –
+| 15%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 12–15 Aug 2016
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/08/Essential-Report_160816.pdf |title=The Essential Report |format=PDF |date=16 August 2016 |accessdate=2016-08-18}}</ref>
+| 39%
+| 37%
+| 10%
+| –
+| 14%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 5–8 Aug 2016
+| style="text-align:left;" | Essential<ref name=Essential9aug16>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/08/Essential-Report_160809.pdf |title=The Essential Report |format=PDF |date=9 August 2016 |accessdate=2016-08-11}}</ref>
+| 40%
+| 37%
+| 10%
+| –
+| 13%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 27 Jul – 1 Aug 2016
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/08/Essential-Report_160802.pdf |title=Essential: 2 August 2016 |format=PDF |date=2 August 2016 |accessdate=2016-08-11}}</ref>
+| 39%
+| 37%
+| 10%
+| –
+| 14%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 20–24 Jul 2016
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/07/Essential-Report_160726.pdf |title=The Essential Report |format=PDF |date= |accessdate=2016-08-11}}</ref>
+| 39%
+| 37%
+| 10%
+| –
+| 14%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 13–17 Jul 2016
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/07/Essential-Report_160719.pdf |title=The Essential Report |format=PDF |date= |accessdate=2016-08-11}}</ref>
+| 39%
+| 36%
+| 10%
+| –
+| 15%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 6–10 Jul 2016
+| style="text-align:left;" | Essential<ref name=Essential12jul16>{{cite web|url=https://crikey-uploads.s3.amazonaws.com/blogs.dir/6/files/2016/07/Essential-Report_160712.pdf |title=The Essential Report |format=PDF |date= |accessdate=2016-08-11}}</ref>
+| 41%
+| 36%
+| 10%
+| –
+| 13%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 30 Jun – 3 Jul 2016
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/07/Essential-Report_160705.pdf |title=The Essential Report |format=PDF |date= |accessdate=2016-08-11}}</ref>
+| 41%
+| 37%
+| 10%
+| –
+| 12%
+| '''50%'''
+| '''50%'''
+|-
+! style="background:#b0e9db;"|[[Australian federal election, 2016|2 July 2016 election]]
+| style="background:#b0e9db;"|
+| style="background:#b0e9db;"|42.0%
+| style="background:#b0e9db;"|34.7%
+| style="background:#b0e9db;"|10.2%
+| style="background:#b0e9db;"|1.3%
+| style="background:#b0e9db;"|11.8%
+| style="background:#b0e9db;"|'''50.4%'''
+| style="background:#b0e9db;"|49.6%
+|-
+!28 Jun – 1 Jul 2016
+| style="text-align:left;" |Newspoll<ref name=Newspoll2jul16>{{cite web|url=http://www.theaustralian.com.au/federal-election-2016/federal-election-2016-turnbull-clings-to-narrow-lead/news-story/ec670a4d0b0e5643bfeb868266061734 |title=Turnbull clings to narrow lead |publisher=The Australian |date=2 July 2016 |accessdate=2016-08-11}}</ref>
+|42%
+|35%
+|10%
+| –
+|13%
+|style="background:#00bfff" | '''50.5%'''
+|49.5%
+|-
+!30 Jun 2016
+| style="text-align:left;" |ReachTEL<ref name=reachtel1jul2016>{{cite web|url=https://www.reachtel.com.au/blog/7-news-national-poll-30june16 |title=1 July 2016 ReachTEL |publisher=Reachtel.com.au |date=1 July 2016 |accessdate=2016-08-11}}</ref>
+|42.8%
+|34.6%
+|10.7%
+| –
+|12%
+|style="background:#00bfff" |'''51%'''
+|49%
+|-
+!27–30 Jun 2016
+| style="text-align:left;" | Essential<ref name=essential1jul16>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/07/Essential-Report_160701.pdf |title=The Essential Report |format=PDF |date=1 July 2016 |accessdate=2016-08-11}}</ref>
+|42.5%
+|34.5%
+|11.5%
+| –
+|12%
+|style="background:#00bfff" |'''50.5%'''
+|49.5%
+|-
+!28–29 Jun 2016
+|style="text-align:left;" | Galaxy<ref>{{cite web|url=https://blogs.crikey.com.au/pollbludger/2016/06/30/fairfax-ipsos-50-50-3/|title=Fairfax-Ipsos: 50-50; Galaxy: 51-49 to Coalition – The Poll Bludger|date=30 June 2016|language=en-US|access-date=2016-06-30}}</ref>
+|43%
+|36%
+|10%
+| –
+|11%
+|style="background:#00bfff" |'''51%'''
+|49%
+|-
+!26–29 Jun 2016
+|style="text-align:left;" | Ipsos<ref name=finalipsos>{{cite web|url=http://www.theage.com.au/federal-politics/federal-election-2016/fairfaxipsos-poll-dead-heat-on-election-eve-20160630-gpvmom.html|title=Fairfax-Ipsos poll: Dead heat on election eve as final poll points to cliffhanger|date=30 June 2016|website=theage.com.au|access-date=2016-06-30}}</ref>
+|40%
+|33%
+|13%
+| –
+|14%
+|'''50%'''
+|'''50%'''
+|}
+{{-}}
+{{reflist|group=lower-alpha}}
+
+==Preferred prime minister, and satisfaction==
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; text-align:center; margin-right:.4em; margin-top:.4em; font-size:90%;"
+|-
+|+ '''Leadership polling'''
+|-
+! Date
+! Firm
+! colspan="2" |Preferred prime minister
+!
+! colspan="2" |Morrison
+! colspan="2" |Shorten
+|-
+!
+!
+! Morrison
+! Shorten
+!
+! Satisfied
+! Dissatisfied
+! Satisfied
+! Dissatisfied
+|-
+! 1–4 Apr 2019
+| style="text-align:left;" | Ipsos<ref name="Ipsos4May2019" />
+| style="background:#00bfff;"|'''46%'''
+| 35%
+|
+| style="background:#00bfff;"|47%
+| style="background:#00bfff;"|44%
+| style="background:#f66;"|40%
+| style="background:#f66;"|51%
+|-
+! 3–6 Apr 2019
+| style="text-align:left;" | Ipsos<ref name="Ipsos6Apr2019">[https://www.ipsos.com/en-au/budget-well-received-no-bounce-morrison Budget well received, but no bounce for Morrison]</ref>
+| style="background:#00bfff;"|'''46%'''
+| 35%
+|
+| style="background:#00bfff;"|48%
+| style="background:#00bfff;"|39%
+| style="background:#f66;"|36%
+| style="background:#f66;"|51%
+|-
+! 17 Feb 2019
+| style="text-align:left;" | Ipsos<ref name="Ipsos17Feb2019" />
+| style="background:#00bfff;"|'''48%'''
+| 38%
+|
+| style="background:#00bfff;"|49%
+| style="background:#00bfff;"|40%
+| style="background:#f66;"|40%
+| style="background:#f66;"|52%
+|-
+! 7–10 Feb 2019
+| style="text-align:left;" | Newspoll<ref name="NEWSPOLL11FEB2018" />
+| style="background:#00bfff;"|'''44%'''
+| 35%
+|
+| style="background:#00bfff;"|43%
+| style="background:#00bfff;"|45%
+| style="background:#f66;"|36%
+| style="background:#f66;"|51%
+|-
+! 13–15 Dec 2018
+| style="text-align:left;" | Ipsos<ref name="Ipsos15Dec2018" />
+| style="background:#00bfff;"|'''46%'''
+| 37%
+|
+| style="background:#00bfff;"|47%
+| style="background:#00bfff;"|39%
+| style="background:#f66;"|41%
+| style="background:#f66;"|50%
+|-
+! 8–11 Nov 2018
+| style="text-align:left;" | Newspoll<ref name="Newspoll11Nov2018" />
+| style="background:#00bfff;"|'''42%'''
+| 36%
+|
+| style="background:#00bfff;"|39%
+| style="background:#00bfff;"|47%
+| style="background:#f66;"|35%
+| style="background:#f66;"|50%
+|-
+! 25–28 Oct 2018
+| style="text-align:left;" | Newspoll<ref name="Newspoll28Oct2018" />
+| style="background:#00bfff;"|'''43%'''
+| 35%
+|
+| style="background:#00bfff;"|41%
+| style="background:#00bfff;"|44%
+| style="background:#f66;"|37%
+| style="background:#f66;"|50%
+|-
+! 19–21 Oct 2018
+| style="text-align:left;" | Essential<ref name="Essential23Oct2018" />
+| style="background:#00bfff;"|'''42%'''
+| 27%
+|
+| style="background:#00bfff;"|43%
+| style="background:#00bfff;"|28%
+| style="background:#f66;"|33%
+| style="background:#f66;"|28%
+|-
+! 22–24 Sep 2018
+| style="text-align:left;" | Essential<ref name="Essential24Sep2018" />
+| style="background:#00bfff;"|'''39%'''
+| 27%
+|
+| style="background:#00bfff;"|37%
+| style="background:#00bfff;"|31%
+| style="background:#f66;"|35%
+| style="background:#f66;"|31%
+|-
+! 20–23 Sep 2018
+| style="text-align:left;" | Newspoll<ref name="Newspoll24Sep2018" />
+| style="background:#00bfff;"|'''45%'''
+| 32%
+|
+| style="background:#00bfff;"|44%
+| style="background:#00bfff;"|39%
+| style="background:#f66;"|32%
+| style="background:#f66;"|54%
+|-
+! 8–10 Sep 2018
+| style="text-align:left;" | Essential<ref name="Essential10Sep2018" />
+| style="background:#00bfff;"|'''39%'''
+| 27%
+|
+| style="background:#00bfff;"|37%
+| style="background:#00bfff;"|31%
+| style="background:#f66;"|35%
+| style="background:#f66;"|43%
+|-
+! 6–9 Sep 2018
+| style="text-align:left;" | Newspoll<ref name="Newspoll9Sep2018" />
+| style="background:#00bfff;"|'''42%'''
+| 36%
+|
+| style="background:#00bfff;"|41%
+| style="background:#00bfff;"|39%
+| style="background:#f66;"|37%
+| style="background:#f66;"|51%
+|-
+! 24–25 Aug 2018
+| style="text-align:left;" | Newspoll<ref name="Newspoll26Aug2018" />
+| 33%
+| style="background:#f66;"|'''39%'''
+|
+| style="background:#00bfff;"|–
+| style="background:#00bfff;"|–
+| style="background:#f66;"|–
+| style="background:#f66;"|–
+|- style="background:#DADADA;" 
+||'''24 Aug 2018'''
+| colspan="11"| '''Scott Morrison replaces Malcolm Turnbull as Liberal leader'''
+|-
+!
+!
+! Turnbull
+! Shorten
+! colspan="3" |Turnbull
+! colspan="3" |Shorten
+|-
+! 9–12 Aug 2018
+| style="text-align:left;" | Newspoll<ref name="Newspoll12Aug2018" />
+| style="background:#00bfff;"|'''44%'''
+| 32%
+|
+| style="background:#00bfff;"|36%
+| style="background:#00bfff;"|55%
+| style="background:#f66;"|32%
+| style="background:#f66;"|56%
+|-
+! 26–29 Jul 2018
+| style="text-align:left;" | Newspoll<ref name="Newspoll29Jul2018" />
+| style="background:#00bfff;"|'''48%'''
+| 29%
+|
+| style="background:#00bfff;"|42%
+| style="background:#00bfff;"|48%
+| style="background:#f66;"|32%
+| style="background:#f66;"|57%
+|-
+! 18–21 Jul 2018
+| style="text-align:left;" | Ipsos<ref name="IpsosJul2018">{{cite web|title=Rise in support for both Turnbull and Coalition |url=https://www.ipsos.com/en-au/rise-support-both-turnbull-and-coalition|date=25 July 2018}}</ref>
+| style="background:#00bfff;"|'''57%'''
+| 30%
+|
+| style="background:#00bfff;"|55%
+| style="background:#00bfff;"|38%
+| style="background:#f66;"|38%
+| style="background:#f66;"|54%
+|-
+! 16 July 2018
+| style="text-align:left;" | Newspoll<ref name="Newspoll16Jul2018">{{cite web|title=Newspoll|url=https://www.theaustralian.com.au/national-affairs/newspoll-malcolm-turnbull-leaves-bill-shorten-in-the-dust/news-story/7a3b6110427fa43d00597bf7f04bd49c|date=16 July 2018}}</ref>
+| style="background:#00bfff;"|'''48%'''
+| 29%
+|
+| style="background:#00bfff;"|39%
+| style="background:#00bfff;"|50%
+| style="background:#f66;"|33%
+| style="background:#f66;"|55%
+|-
+! 10–13 May 2018
+| style="text-align:left;" | Newspoll<ref name="Newspoll13May2018"/>
+| style="background:#00bfff;"|'''46%'''
+| 32%
+|
+| style="background:#00bfff;"|41%
+| style="background:#00bfff;"|49%
+| style="background:#f66;"|32%
+| style="background:#f66;"|56%
+|-
+! 3–6 May 2018
+| style="text-align:left;" | Essential<ref>{{cite web|title=The Guardian Essential Report|url=https://www.theguardian.com/australia-news/ng-interactive/2018/may/08/the-guardian-essential-report-8-may-results|work=The Guardian|accessdate=10 May 2018}}</ref>
+| style="background:#00bfff;"|'''40%'''
+| 26%
+|
+| style="background:#00bfff;"|40%
+| style="background:#00bfff;"|42%
+| style="background:#f66;"|37%
+| style="background:#f66;"|41%
+|-
+! 4–6 Mar 2018
+| style="text-align:left;" | Essential<ref name="essential2may17"/>
+| style="background:#00bfff;"|'''37%'''
+| 35%
+|
+| style="background:#00bfff;"|-
+| style="background:#00bfff;"|-
+| style="background:#f66;"|-
+| style="background:#f66;"|-
+|-
+! 26–30 Apr 2017
+| style="text-align:left;" | Essential<ref name="essential2may17"/>
+| style="background:#00bfff;"|'''45%'''
+| 31%
+|
+| style="background:#00bfff;"|35%
+| style="background:#00bfff;"|47%
+| style="background:#f66;"|33%
+| style="background:#f66;"|47%
+|-
+! 20–23 Apr 2017
+| style="text-align:left;" | Newspoll<ref name="newspoll23april17"/>
+| style="background:#00bfff;"|'''42%'''
+| 33%
+|
+| style="background:#00bfff;"|32%
+| style="background:#00bfff;"|57%
+| style="background:#f66;"|33%
+| style="background:#f66;"|53%
+|-
+! 30 Mar – 2 April 2017
+| style="text-align:left;" | Newspoll<ref name="newspoll2april17"/>
+| style="background:#00bfff;"|'''41%'''
+| 32%
+|
+| style="background:#00bfff;"|30%
+| style="background:#00bfff;"|59%
+| style="background:#f66;"|32%
+| style="background:#f66;"|54%
+|-
+! 22–25 Mar 2017
+| style="text-align:left;" | Ipsos<ref name="ipsos25mar17" />
+| style="background:#00bfff;"|'''45%'''
+| 33%
+|
+| style="background:#00bfff;"|-
+| style="background:#00bfff;"|-
+| style="background:#f66;"|-
+| style="background:#f66;"|-
+|-
+! 17–20 Mar 2017
+| style="text-align:left;" | Essential<ref name="essential16mar21"/>
+| style="background:#00bfff;"|'''43%'''
+| 29%
+|
+| style="background:#00bfff;"|-
+| style="background:#00bfff;"|-
+| style="background:#f66;"|-
+| style="background:#f66;"|-
+|-
+! 16–19 Mar 2017
+| style="text-align:left;" | Newspoll<ref name="newspoll20march"/>
+| style="background:#00bfff;"|'''43%'''
+| 29%
+|
+| style="background:#00bfff;"|30%
+| style="background:#00bfff;"|57%
+| style="background:#f66;"|29%
+| style="background:#f66;"|57%
+|-
+! 10–13 Mar 2017
+| style="text-align:left;" | Essential<ref name="essential16mar17"/>
+| style="background:#00bfff;"|'''38%'''
+| 26%
+|
+| style="background:#00bfff;"|33%
+| style="background:#00bfff;"|50%
+| style="background:#f66;"|30%
+| style="background:#f66;"|49%
+|-
+! 23–26 Feb 2017
+| style="text-align:left;" | Newspoll<ref>{{cite web|last1=Bowe|first1=William|title=Newspoll: 55-45 to Labor|url=https://blogs.crikey.com.au/pollbludger/2017/02/26/newspoll-55-45-to-labor-4/|website=Crikey|publisher=Crikey|accessdate=26 February 2017}}</ref>
+| style="background:#00bfff;"|'''40%'''
+| 33%
+|
+| style="background:#00bfff;"|29%
+| style="background:#00bfff;"|59%
+| style="background:#f66;"|30%
+| style="background:#f66;"|56%
+|-
+! 2–5 Feb 2017
+| style="text-align:left;" | Newspoll<ref name="newspoll2-5Feb"/>
+| style="background:#00bfff;"|'''42%'''
+| 30%
+|
+| style="background:#00bfff;"|35%
+| style="background:#00bfff;"|54%
+| style="background:#f66;"|32%
+| style="background:#f66;"|54%
+|-
+! 1–4 Dec 2016
+| style="text-align:left;" | Newspoll<ref name="newspoll5Dec" />
+| style="background:#00bfff;"|'''41%'''
+| 32%
+|
+| style="background:#00bfff;"|32%
+| style="background:#00bfff;"|55%
+| style="background:#f66;"|34%
+| style="background:#f66;"|51%
+|-
+! 24–26 Nov 2016
+| style="text-align:left;" | Ipsos<ref name="ipsos27Nov16" />
+| style="background:#00bfff;"|'''51%'''
+| 30%
+|
+| style="background:#00bfff;"|45%
+| style="background:#00bfff;"|45%
+| style="background:#f66;"|37%
+| style="background:#f66;"|53%
+|-
+! 17–20 Nov 2016
+| style="text-align:left;" | Newspoll<ref name="newspoll21Nov" />
+| style="background:#00bfff;"|'''43%'''
+| 33%
+|
+| style="background:#00bfff;"|34%
+| style="background:#00bfff;"|54%
+| style="background:#f66;"|36%
+| style="background:#f66;"|51%
+|-
+! 3–6 Nov 2016
+| style="text-align:left;" | Newspoll<ref name="newspoll8Nov" />
+| style="background:#00bfff;"|'''42%'''
+| 32%
+|
+| style="background:#00bfff;"|30%
+| style="background:#00bfff;"|58%
+| style="background:#f66;"|36%
+| style="background:#f66;"|51%
+|-
+! 20–23 Oct 2016
+| style="text-align:left;" | Newspoll<ref name="newspoll24Oct" />
+| style="background:#00bfff;"|'''42%'''
+| 32%
+|
+| style="background:#00bfff;"|29%
+| style="background:#00bfff;"|57%
+| style="background:#f66;"|36%
+| style="background:#f66;"|51%
+|-
+! 6–9 Oct 2016
+| style="text-align:left;" | Newspoll<ref name="newspoll10Oct" />
+| style="background:#00bfff;"|'''45%'''
+| 30%
+|
+| style="background:#00bfff;"|31%
+| style="background:#00bfff;"|56%
+| style="background:#f66;"|35%
+| style="background:#f66;"|51%
+|-
+! 9–12 Sep 2016
+| style="text-align:left;" | Essential<ref name="essential14sep" />
+| style="background:#00bfff;"|'''41%'''
+| 26%
+|
+| style="background:#00bfff;"|35%
+| style="background:#00bfff;"|43%
+| style="background:#f66;"|36%
+| style="background:#f66;"|41%
+|-
+! 8–11 Sep 2016
+| style="text-align:left;" | Newspoll<ref name=Newspoll12sep16/>
+| style="background:#00bfff;"|'''43%'''
+| 31%
+|
+| style="background:#00bfff;"|34%
+| style="background:#00bfff;"|53%
+| style="background:#f66;"|35%
+| style="background:#f66;"|52%
+|-
+! 25–28 Aug 2016
+| style="text-align:left;" | Newspoll<ref name=Newspoll30aug16/>
+| style="background:#00bfff;"|'''43%'''
+| 32%
+|
+| style="background:#00bfff;"|34%
+| style="background:#00bfff;"|52%
+| style="background:#f66;"|36%
+| style="background:#f66;"|50%
+|-
+! 5–8 Aug 2016
+| style="text-align:left;" | Essential<ref name=Essential9aug16/>
+| style="background:#00bfff;"|'''40%'''
+| 30%
+|
+| style="background:#00bfff;"|38%
+| style="background:#00bfff;"|43%
+| style="background:#f66;"|37%
+| style="background:#f66;"|41%
+|-
+! 6–10 Jul 2016
+| style="text-align:left;" | Essential<ref name=Essential12jul16/>
+| style="background:#00bfff;"|'''39%'''
+| 31%
+|
+| style="background:#00bfff;"|37%
+| style="background:#00bfff;"|48%
+| style="background:#f66;"|39%
+| style="background:#f66;"|41%
+|-
+! style="background:#b0e9db;"|[[Australian federal election, 2016|2 July 2016 election]]
+| style="background:#b0e9db;"|
+| style="background:#b0e9db;"|
+| style="background:#b0e9db;"|
+| style="background:#b0e9db;"|
+| style="background:#b0e9db;"|
+| style="background:#b0e9db;"|
+| style="background:#b0e9db;"|
+| style="background:#b0e9db;"|
+|-
+! 28 Jun – 1 July 2016
+| style="text-align:left;" | Newspoll<ref name=Newspoll2jul16/>
+| style="background:#00bfff;" |'''48%'''
+| 31%
+|
+| style="background:#00bfff;"|40%
+| style="background:#00bfff;"|47%
+| style="background:#f66;"|36%
+| style="background:#f66;"|51%
+|-
+! 30 June 2016
+| style="text-align:left;" | ReachTEL<ref name=reachtel1jul2016/>
+| style="background:#00bfff;" |'''52.9%'''
+| 47.1%
+|
+| style="background:#00bfff;"|-
+| style="background:#00bfff;"|-
+| style="background:#f66;"|-
+| style="background:#f66;"|-
+|-
+! 26–29 Jun 2016
+| style="text-align:left;" | Ipsos<ref name=finalipsos/>
+| style="background:#00bfff;" |'''49%'''
+| 35%
+|
+| style="background:#00bfff;"|49%
+| style="background:#00bfff;"|41%
+| style="background:#f66;"|42%
+| style="background:#f66;"|50%
+|-
+! 23–26 Jun 2016
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/06/Essential-Report_160628.pdf |title=Essential: 28 June 2016 |format=PDF |date=28 June 2016 |accessdate=11 August 2016}}</ref>
+| style="background:#00bfff;" |'''40%'''
+| 29%
+|
+| style="background:#00bfff;"|40%
+| style="background:#00bfff;"|40%
+| style="background:#f66;"|37%
+| style="background:#f66;"|39%
+|-
+| colspan="9" style="font-size:80%; background:#cef; text-align:center;"|^ Remainder were "uncommitted" to either leader.<br />
+|}
+{{-}}
+
+==See also==
+*[[2019 Australian federal election]]
+*[[Electorate opinion polling for the Australian federal election, 2019]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{2019 Australian federal election}}
+
+[[Category:2019 Australian federal election|Opinion polling, national]]
+[[Category:Opinion polling in Australia|2019]]
+[[Category:Opinion polling for future elections|Australia]]

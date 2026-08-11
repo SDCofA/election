@@ -1,0 +1,3261 @@
+{{seealso|Mackerras pendulum for the Australian federal election, 2016}}
+
+Several research and polling firms conduct polls in relation to voting intentions during the parliamentary term and in the lead-up to the [[Australian federal election, 2016|2016 Australian federal election]] on 2 July. Some of the firms also ask voters whether they are satisfied or dissatisfied with the performance of the leaders of the two main parties, as well as who would be the preferred prime minister. Most firms use the flow of preferences at the previous election to determine the [[two-party-preferred vote]]; others ask respondents to nominate their second preference before applying the preference flows at the previous election.
+
+Assuming a uniform swing, for the Labor opposition to get to 76 seats and [[majority government]] would require at least 50.5 percent of the two-party vote (a 4.0-point two-party swing or greater), while for the incumbent Coalition to lose majority government would require 50.2 percent of the two-party vote (a 3.3-point two-party swing or greater).<ref>[[Mackerras pendulum for the Australian federal election, 2016]] based on [http://blogs.abc.net.au/antonygreen/2016/03/2016-federal-election-pendulum-update.html 2016 Federal Election Pendulum (Update): Antony Green ABC 13 March 2016] – O'Connor and Durack not included for Labor majority calculation but are included for Coalition loss of majority calculation.</ref>
+
+==Graphical aggregate of voting intention==
+{{multiple images|align=center
+|image1=Australian election polling - two party preferred.png
+|width1=450
+|caption1=[[Two-party-preferred]] vote.
+|image2=Australian election polling - primary vote.png
+|width2=450
+|caption2=Primary vote.
+|footer=Graphs are a compilation of [[aggregate data]] from voting intention in the below list of all opinion polling for the [[Australian federal election, 2016|2016 federal election]]. A [[Exponential moving average|moving average]] is shown in a solid line.}}
+
+==Two-party-preferred polling average by state==
+{|class="wikitable"
+|+ '''Two-party-preferred % polling average by state'''
+!State (seats)!!LNP 2PP!!ALP 2PP!!LNP Swing
+|-
+|style="text-align:center"|NSW (47)||style="text-align:center"| 51.1 ||style="text-align:center"| 48.9 ||style="text-align:center"| –3.2
+|-
+|style="text-align:center"|Vic (37)||style="text-align:center"| 46.1 ||style="text-align:center"| 53.9 ||style="text-align:center"| –3.7
+|-
+|style="text-align:center"|Qld (30)||style="text-align:center"| 53.2 ||style="text-align:center"| 46.8 ||style="text-align:center"| –3.8
+|-
+|style="text-align:center"|WA (16)||style="text-align:center"| 48.2 ||style="text-align:center"| 51.8 ||style="text-align:center"| –10.1
+|-
+|style="text-align:center"|SA (11)||style="text-align:center"| 53.0 ||style="text-align:center"| 47.0 ||style="text-align:center"| +0.6
+|-
+|style="text-align:center"|Tas (5)||style="text-align:center"| 49.0 ||style="text-align:center"| 51.0 ||style="text-align:center"| +0.2
+|-
+|style="text-align:center"|ACT/NT (4)||style="text-align:center"| 44.6 ||style="text-align:center"| 55.4 ||style="text-align:center"| +1.5
+|-
+|style="text-align:center"|'''Australia (150)'''||style="text-align:center"| '''49.9''' ||style="text-align:center"| '''50.1''' ||style="text-align:center"| '''–3.6'''
+|}
+<small>Source: [https://crikey-uploads.s3.amazonaws.com/blogs.dir/6/files/2016/05/bludgertrack-2016-05-21.png BludgerTrack 21/05/2016 – Poll Bludger]</small>
+
+==Voting intention polling==
+{| class="toccolours" cellpadding="5" cellspacing="0" style="text-align:center; margin:.4em; font-size:90%;"
+|-
+|+
+|-
+!
+!
+!
+|-
+! Date
+! Firm
+! style="background:#ccc" colspan=4| Primary vote
+! style="background:#ebbce3" colspan="2"| [[Two-party-preferred vote|TPP vote]]
+|-
+! colspan=2 |
+! style="background:#00bfff" | L/NP
+! style="background:#f66" | ALP
+! style="background:#90ee90" | Green
+! style="background:#ff0" | Other 
+! style="background:#00bfff" | L/NP
+! style="background:#f66" | ALP
+|-
+! 19 May 2016
+| style="text-align:left;" | ReachTEL<ref name=reachtel19may2016>[https://www.reachtel.com.au/blog/7-news-national-poll-19may2016]</ref>
+| 42.6%
+| 36.6%
+| 9.9%
+| 10.9%
+| '''50%'''
+| '''50%'''
+|-
+! 17–19 May 2016
+| style="text-align:left;" | Ipsos<ref name=IpsosMay2016>{{cite news|url=http://www.smh.com.au/federal-politics/federal-election-2016/fairfaxipsos-poll-malcolm-turnbulls-approval-slides-as-election-campaign-drags-20160520-goztv0.html|title=Fairfax-Ipsos poll: Malcolm Turnbull's approval slides as election campaign drags|author=Mark Kenny|date=21 May 2016|publisher=SMH}}</ref>
+| 43%
+| 34%
+| 14%
+| 9%
+| style="background:#00bfff" | '''51%'''
+| 49%
+|-
+! 14–15 May 2016
+| style="text-align:left;" | Morgan<ref> http://www.roymorgan.com/findings/6808-morgan-poll-federal-voting-intention-may-16-2016-201605160748 </ref>
+| 36.5%
+| 33%
+| 15.5%
+| 15%
+| 47.5%
+| style="background:#f66" | '''52.5%'''
+|-
+! 12–15 May 2016
+| style="text-align:left;" | Essential<ref name=essential17may16>[https://crikey-uploads.s3.amazonaws.com/blogs.dir/6/files/2016/05/Essential-Report_160517.pdf 17 May 2016 Essential]</ref>
+| 42%
+| 38%
+| 9%
+| 11%
+| 49%
+| style="background:#f66" | '''51%'''
+|-
+! 6–8 May 2016
+| style="text-align:left;" | Lonergan<ref name=lonergan10may2016>{{cite web|url=http://www.theguardian.com/australia-news/2016/may/10/malcolm-turnbulls-budget-turns-younger-voters-off-coalition-poll-shows|date=10 May 2016|publisher=The Guardian}}</ref>
+| 42%
+| 35%
+| 12%
+| 10%
+| '''50%'''
+| '''50%'''
+|-
+! 5–8 May 2016
+| style="text-align:left;" | Essential<ref name=essential10may16>[http://www.essentialvision.com.au/wp-content/uploads/2016/05/Essential-Report_160510-1.pdf 10 May 2016 Essential]</ref>
+| 42%
+| 38%
+| 10%
+| 10%
+| 49%
+| style="background:#f66" | '''51%'''
+|-
+! 5–8 May 2016
+| style="text-align:left;" | Newspoll<ref name=bludger8may16>{{cite web|url=http://blogs.crikey.com.au/pollbludger/2016/05/08/newspoll-ipsos-galaxy/|title=It's on: Newspoll, Ipsos, Galaxy|last=Bowe|first=William|date=8 May 2016|publisher=Crikey}}</ref>
+| 41%
+| 37%
+| 11%
+| 11%
+| 49%
+| style="background:#f66" | '''51%'''
+|-
+! 5–7 May 2016
+| style="text-align:left;" | Ipsos<ref name=bludger8may16/>
+| 44%
+| 33%
+| 14%
+| 9%
+| style="background:#00bfff" | '''51%'''
+| 49%
+|-
+! 4–6 May 2016
+| style="text-align:left;" | Galaxy<ref name=galaxy6may2016>[http://www.dailytelegraph.com.au/news/national/federal-election/federal-election-2016-poll-shows-coalition-has-50-per-cent-chance-of-hanging-on-to-power/news-story/a6ab54f1ff329e50388029817cab4078]</ref>
+| 42%
+| 36%
+| 11%
+| 11%
+| '''50%'''
+| '''50%'''
+|-
+! 5 May 2016
+| style="text-align:left;" | ReachTEL<ref name=reachtel5may2016>[https://www.reachtel.com.au/blog/7-news-national-poll-5may2016]</ref>
+| 43.2%
+| 35.1%
+| 9.5%
+| 12.2%
+| '''50%'''
+| '''50%'''
+|-
+! 27 Apr – 1 May 2016
+| style="text-align:left;" | Essential<ref name=essential3may16>[https://crikey-uploads.s3.amazonaws.com/blogs.dir/6/files/2016/05/Essential-Report_160503.pdf 3 May 2016 Essential]</ref>
+| 40%
+| 38%
+| 10%
+| 11%
+| 48%
+| style="background:#f66" | '''52%'''
+|-
+! 23–24, 30 Apr – 1 May 2016
+| style="text-align:left;" | Morgan<ref name=morg2May2016>{{cite news|url=http://www.roymorgan.com/morganpoll|accessdate=3 May 2016|publisher=Roy Morgan Research}}</ref>
+| 40%
+| 32.5%
+| 13.5%
+| 14%
+| 49%
+| style="background:#f66" | '''51%'''
+|-
+! 20–24 Apr 2016
+| style="text-align:left;" | Essential<ref name=essential27apr16>[http://www.essentialvision.com.au/wp-content/uploads/2016/04/Essential-Report_160426.pdf 27 Apr 2016 Essential]</ref>
+| 40%
+| 39%
+| 10%
+| 12%
+| 48%
+| style="background:#f66" | '''52%'''
+|-
+! 14–17 Apr 2016
+| style="text-align:left;" | Newspoll<ref name=np18apr16>[http://www.theaustralian.com.au/national-affairs/newspoll 18 Apr 2016 Newspoll]</ref>
+| 41%
+| 36%
+| 11%
+| 12%
+| 49%
+| style="background:#f66" | '''51%'''
+|-
+! 13–17 Apr 2016
+| style="text-align:left;" | Essential<ref name=essential19apr16>[http://www.essentialvision.com.au/wp-content/uploads/2016/04/Essential-Report_160419.pdf 19 Apr 2016 Essential]</ref>
+| 42%
+| 36%
+| 11%
+| 11%
+| '''50%'''
+| '''50%'''
+|-
+! 9–10, 16–17 Apr 2016
+| style="text-align:left;" | Morgan<ref name=morg18April2016>{{cite news|url=http://www.roymorgan.com/morganpoll|accessdate=18 April 2016|publisher=Roy Morgan Research}}</ref>
+| 40.5%
+| 32%
+| 14%
+| 13.5%
+| '''50%'''
+| '''50%'''
+|-
+! 14–16 Apr 2016
+| style="text-align:left;" | Ipsos<ref name=IpsosApril2016>{{cite news|url=http://www.smh.com.au/federal-politics/political-news/voters-expected-more-poll-20160417-go8b73.html|title=Fairfax-Ipsos poll points to knife-edge election between Malcolm Turnbull and Bill Shorten|author=Mark Kenny|date=17 April 2016|publisher=SMH}}</ref>
+| 42%
+| 33%
+| 14%
+| 11%
+| '''50%'''
+| '''50%'''
+|-
+! 14 Apr 2016
+| style="text-align:left;" | ReachTEL<ref name=reachtel14apr16>{{cite web|url=https://www.reachtel.com.au/blog/7-news-national-poll-14April2016|title=7 News - National Poll|date=15 April 2016|publisher=ReachTEL}}</ref>
+| 43.5%
+| 35.8%
+| 9.8%
+| 10.9%
+| '''50%'''
+| '''50%'''
+|-
+! 6–10 Apr 2016
+| style="text-align:left;" | Essential<ref name=essential12apr16>[http://www.essentialvision.com.au/wp-content/uploads/2016/04/Essential-Report_160412.pdf 12 Apr 2016 Essential]</ref>
+| 42%
+| 35%
+| 11%
+| 12%
+| '''50%'''
+| '''50%'''
+|-
+! 31 Mar – 3 Apr 2016
+| style="text-align:left;" | Newspoll<ref name=np4apr16>[http://www.theaustralian.com.au/national-affairs/newspoll 4 Apr 2016 Newspoll]</ref>
+| 41%
+| 36%
+| 11%
+| 12%
+| 49%
+| style="background:#f66" | '''51%'''
+|-
+! 26–27 Mar, 2–3 Apr 2016
+| style="text-align:left;" | Morgan<ref>{{cite web|title=L-NP in front again as Turnbull shows leadership|url=http://www.roymorgan.com/findings/6746-morgan-poll-federal-voting-intention-april-4-2016-201604040745|website=Roy Morgan Research|publisher=Roy Morgan|accessdate=5 April 2016}}</ref>
+| 42%
+| 31%
+| 13%
+| 14%
+| style="background:#00bfff" | '''52.5%'''
+|47.5%
+|-
+! 21 Mar 2016
+| style="text-align:left;" | ReachTEL<ref name=reachtel21march>[https://www.reachtel.com.au/blog/7-news-national-poll-21march2016 Mar 2016 ReachTEL]</ref>
+| 46.6%
+| 34.4%
+| 10.5%
+| 8.6%
+| style="background:#00bfff" | '''52%'''
+| 48%
+|-
+! 17–20 Mar 2016
+| style="text-align:left;" | Newspoll<ref name=np21mar16>[http://www.theaustralian.com.au/national-affairs/newspoll 21 Mar 2016 Newspoll]</ref>
+| 43%
+| 34%
+| 12%
+| 11%
+| style="background:#00bfff" | '''51%'''
+| 49%
+|-
+! 16–20 Mar 2016
+| style="text-align:left;" | Essential<ref name=essential122mar16>{{cite web|title=Essential Report 22 March|url=http://www.essentialvision.com.au/wp-content/uploads/2016/03/Essential-Report_160322.pdf|website=Essential Research|publisher=Essential Research|accessdate=23 March 2016}}</ref>
+| 43%
+| 38%
+| 10%
+| 9%
+| '''50%'''
+| '''50%'''
+|-
+! 12–13, 19–20 Mar 2016
+| style="text-align:left;" | Morgan<ref>{{cite web|title=ALP & L-NP now too close to call as electors react to Government forcing Senate voting changes last week as Turnbull today recalls Parliament in April for Double Dissolution Election showdown|url=http://www.roymorgan.com/findings/6723-morgan-poll-federal-voting-intention-march-21-2016-201603210505?utm_medium=email&utm_campaign=Morgan%20Poll%2020160321&utm_content=Morgan%20Poll%2020160321+CID_a2a42ad15afecb5d3a811883868d3fe9&utm_source=Market%20Research%20Update&utm_term=Turnbull%20today%20recalls%20Parliament%20in%20April%20for%20Double%20Dissolution%20Election%20showdown|website=Roy Morgan Research|publisher=Roy Morgan Research|accessdate=21 March 2016}}</ref>
+| 40%
+| 33%
+| 14%
+| 13%
+| 49.5%
+| style="background:#f66" | '''50.5%'''
+|-
+! 10–12 Mar 2016
+| style="text-align:left;" | Ipsos<ref name=Ipsos12March>[http://ipsos.com.au/fairfax/turnbulls-approval-rating-continues-to-fall/ Mar 2016 Ipsos]</ref>
+| 45%
+| 31%
+| 14%
+| 10%
+| style="background:#00bfff" | '''53%'''
+| 47%
+|-
+! 3–6 Mar 2016
+| style="text-align:left;" | Newspoll<ref name=np6mar16>[http://cdn.newsapi.com.au//image/v1/746062c147406e7bd8fc14074187fe4d?width=650 3–6 Mar 2016 Newspoll]</ref>
+| 43%
+| 35%
+| 12%
+| 10%
+| '''50%'''
+| '''50%'''
+|-
+! 2–6 Mar 2016
+|style="text-align:left;" |Essential<ref>{{cite web|title=The Essential Report – 8 March 2016|url=http://www.essentialvision.com.au/wp-content/uploads/2016/03/Essential-Report_160308.pdf|website=Essential|publisher=Essential|accessdate=8 March 2016}}</ref>
+| 43%
+| 37%
+| 10%
+| 10%
+| '''50%'''
+| '''50%'''
+|-
+! 27–28 Feb, 5–6 Mar 2016
+|style="text-align:left;" |Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6711-morgan-poll-federal-voting-intention-march-7-2016-201603070410|title=Federal Voting Intention virtually unchanged: L-NP 53% maintain clear 2PP lead over ALP 47% as Parliament debates Senate reform|date=7 March 2016|publisher=Roy Morgan Research}}</ref>
+| 43%
+| 29.5%
+| 13%
+| 14.5%
+| style="background:#00bfff" | '''53%'''
+| 47%
+|-
+! 24–28 Feb 2016
+|style="text-align:left;" |Essential<ref>{{cite web|title=The Essential Report – 1 March 2016|url=http://www.essentialvision.com.au/wp-content/uploads/2016/03/Essential_Report_160301.pdf|website=Essential|publisher=Essential|accessdate=1 March 2016}}</ref>
+| 43%
+| 38%
+| 10%
+| 9%
+| '''50%'''
+| '''50%'''
+|-
+! 18–21 Feb 2016
+| style="text-align:left;" | Newspoll<ref name=np1821feb16>{{cite web|title=NEWSPOLL|url=http://www.theaustralian.com.au/national-affairs/newspoll|website=The Australian|publisher=Newspoll Limited|accessdate=21 February 2016}}</ref>
+| 43%
+| 35%
+| 12%
+| 10%
+| '''50%'''
+| '''50%'''
+|-
+! 17–21 Feb 2016
+|style="text-align:left;" |Essential<ref>{{cite web|title=The Essential Report – 23 February 2016|url=http://www.essentialvision.com.au/wp-content/uploads/2016/02/essential_report_160223.pdf|website=Essential|publisher=Essential|accessdate=29 February 2016}}</ref>
+| 44%
+| 35%
+| 10%
+| 11%
+| style="background:#00bfff" |'''52%'''
+| 48%
+|-
+! 13–14, 20–21 Feb 2016
+|style="text-align:left;" |Morgan<ref>{{cite web|title=Federal Voting Intention unchanged: L-NP 52.5% maintain clear 2PP lead over ALP 47.5%|url=http://www.roymorgan.com/findings/6691-morgan-poll-federal-voting-intention-february-22-2016-201602220504?utm_medium=email&utm_campaign=Morgan%20Poll%2020160222&utm_content=Morgan%20Poll%2020160222+CID_ba68ae7a3a423aa5a83b94334057c51f&utm_source=Market%20Research%20Update&utm_term=Read%20full%20article|website=Roy Morgan Research|publisher=Roy Morgan|accessdate=22 February 2016}}</ref>
+| 43.5%
+| 29.5%
+| 15%
+| 12%
+| style="background:#00bfff" |'''52.5%'''
+| 47.5%
+|-
+! 11–13 Feb 2016
+| style="text-align:left;" | Ipsos<ref name=ipsos15feb16>{{cite news|url=http://www.smh.com.au/federal-politics/political-news/fairfaxipsos-poll-voters-cool-on-malcolm-turnbull-as-coalition-support-drops-below-2013-election-levels-20160214-gmtnd1.html|title=Fairfax-Ipsos poll: voters cool on Malcolm Turnbull as Coalition support drops below 2013 election levels|last=Kenny|first=Mark|date=15 February 2016|publisher=SMH}}</ref>
+| 44%
+| 32%
+| 15%
+| 10%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 11 Feb 2016
+| style="text-align:left;" | ReachTEL<ref name=ReachTel11Feb16>{{cite web|url=https://www.reachtel.com.au/blog/7-news-national-poll-11february2016|title=7 News – National Poll – 11 February 2016|date=11 February 2016}}</ref>
+| 48.1%
+| 32.8%
+| 10.1%
+| 9%
+| style="background:#00bfff;" | '''54%'''
+| 46%
+|-
+! 3–7 Feb 2016
+| style="text-align:left;" | Essential<ref name=Essential7Feb16>{{cite web|title=The Essential report – 9 February 2016|url=http://www.essentialvision.com.au/wp-content/uploads/2016/02/essential_report_160209.pdf|website=Essential Research|publisher=Essential Research|accessdate=14 February 2016}}</ref>
+| 44%
+| 35%
+| 10%
+| 10%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 30–31 Jan, 6–7 Feb 2016
+| style="text-align:left;" | Morgan<ref>{{cite web|title=ALP narrows gap following GST discussions – ALP up 2.5% to 47.5% cf. L-NP down 2.5% to 52.5%|url=http://www.roymorgan.com/findings/6665-morgan-poll-on-federal-voting-intention-february-9-2016-201602090452?utm_medium=email&utm_campaign=Morgan%20Poll%2020160209&utm_content=Morgan%20Poll%2020160209+CID_30afbcd8ba862d9c9e78498d8904d70c&utm_source=Market%20Research%20Update&utm_term=Read%20full%20article|website=Roy Morgan Research|publisher=Roy Morgan Research|accessdate=9 February 2016}}</ref>
+| 43.5%
+| 29%
+| 16%
+| 11.5%
+| style="background:#00bfff;" | '''52.5%'''
+| 47.5%
+|-
+! 28–31 Jan 2016
+| style="text-align:left;" | Newspoll<ref name=newspoll010216>[http://blogs.crikey.com.au/pollbludger/2016/01/31/newspoll-53-47-to-coalition-10/ Newspoll: 53-47 to Coalition – The Poll Bludger 31 January 2016]</ref>
+| 46%
+| 34%
+| 11%
+| 9%
+| style="background:#00bfff;" | '''53%'''
+| 47%
+|-
+! 16–17, 23–24 Jan 2016
+| style="text-align:left;" | Morgan<ref>{{Cite web|title = L-NP lead over ALP narrows – now 55% (down 1%) cf. 45% (up 1%). Nick Xenophon outpolls Labor in South Australia – again.|url = http://www.roymorgan.com/findings/6649-morgan-poll-federal-voting-january-25-2016-201601250551?utm_medium=email&utm_campaign=Morgan%2520Poll%252020160125&utm_content=Morgan%2520Poll%252020160125+CID_52b17ed05e1bb70fb71f1ac5950dd033&utm_source=Market%2520Research%2520Update&utm_term=Read%2520full%2520article|website = Roy Morgan|access-date = 2016-01-25}}</ref>
+| 43.5%
+| 28%
+| 15%
+| 13.5%
+| style="background:#00bfff;" | '''55%'''
+| 45%
+|-
+! 21 Jan 2016
+| style="text-align:left;" | ReachTEL<ref>{{cite web|url=https://www.reachtel.com.au/blog/7-news-national-poll-21january2016|title=7 News – National Poll – 21 January 2016|date=21 January 2016}}</ref>
+| 48.5%
+| 31.8%
+| 10.8%
+| 9.1%
+| style="background:#00bfff;" | '''55%'''
+| 45%
+|-
+! 15–18 Jan 2016
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/wp-content/uploads/2016/01/essential_report_160119.pdf|title=Essential Report|date=19 January 2016}}</ref>
+| 44%
+| 35%
+| 10%
+| 12%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 2–3, 9–10 Jan 2016
+| style="text-align:left;" | Morgan<ref>{{Cite web|title = L-NP lead down over ALP – now 56% (down 1.5%) cf. 44% (up 1.5%) although L-NP would still win Federal Election easily|url = http://www.roymorgan.com/findings/6629-morgan-poll-federal-voting-intention-january-11-2015-201601110431?utm_medium=email&utm_campaign=Morgan%2520Poll%252020160111&utm_content=Morgan%2520Poll%252020160111+CID_bdec8d7abff14e2708bd5fe3e02915f0&utm_source=Market%2520Research%2520Update&utm_term=L-NP%2520lead%2520down%2520over%2520ALP%2520%2520now%252056%2520down%252015%2520cf%252044%2520up%252015%2520although%2520L-NP%2520would%2520still%2520win%2520Federal%2520Election%2520easily|website = Roy Morgan|accessdate = 2016-01-11}}</ref>
+| 47%
+| 29%
+| 13%
+| 11%
+| style="background:#00bfff;" | '''56%'''
+| 44%
+|-
+! 15 Dec 2015
+| style="text-align:left;" | Essential<ref>[name=http://www.essentialvision.com.au/wp-content/uploads/2015/12/essential_report_151215.pdf]</ref>
+| 45%
+| 35%
+| 10%
+| 10%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 5–6, 12–13 Dec 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|title=L-NP increases lead over ALP – now 57.5% cf. 42.5%; biggest lead for Coalition since being elected in 2013|url=http://www.roymorgan.com/findings/6609-morgan-poll-federal-voting-intention-december-15-2015-201512150606|website=Roy Morgan Research|publisher=Roy Morgan Research|accessdate=15 December 2015}}</ref>
+| 48%
+| 27%
+| 14.5%
+| 10.5%
+| style="background:#00bfff;" | '''57.5%'''
+| 42.5%
+|-
+! 8 Dec 2015
+| style="text-align:left;" | Essential<ref name=essential8dec2015>[http://www.essentialvision.com.au/wp-content/uploads/2015/12/essential_report_151208.pdf]</ref>
+| 44%
+| 36%
+| 11%
+| 10%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 4–6 Dec 2015
+| style="text-align:left;" | Newspoll<ref name=newspoll4dec15>[http://blogs.crikey.com.au/pollbludger/2015/12/07/newspoll-53-47-to-coalition-9/ Newspoll: 53-47 to Coalition – The Poll Bludger 7 December 2015]</ref>
+| 45%
+| 33%
+| 12%
+| 10%
+| style="background:#00bfff;" | '''53%'''
+| 47%
+|-
+! 1 Dec 2015
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/federal-politics-voting-intention-111|title=Federal politics – voting intention|date=1 December 2015|publisher=Essential Media Communications}}</ref>
+| 44%
+| 35%
+| 11%
+| 10%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 21–22, 28–29 Nov 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6579-morgan-poll-federal-voting-intention-november-30-2015-201511300420|title=Federal Voting Intention unchanged. L-NP (56%) cf. ALP (44%); Confidence in Turnbull Government up again – highest since March 2011|date=30 November 2015|publisher=Roy Morgan Research}}</ref>
+| 46.5%
+| 28.5%
+| 14%
+| 11%
+| style="background:#00bfff;" | '''56%'''
+| 44%
+|-
+! 26 Nov 2015
+| style="text-align:left;" | ReachTEL<ref name=ReachTEL20151126>{{cite web|url=https://www.reachtel.com.au/blog/7-news-national-poll-26november2015|date=27 November 2015|publisher=ReachTEL|title=7 News – National Poll – 26 November 2015|access-date=27 November 2015}}</ref>
+| 48.8%
+| 31.1%
+| 11.2%
+| 8.9%
+| style="background:#00bfff;" | '''55%'''
+| 45%
+|-
+! 24 Nov 2015
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/federal-politics-voting-intention-110|title=Federal politics – voting intention|date=24 December 2015|publisher=Essential Media Communications}}</ref>
+| 45%
+| 35%
+| 10%
+| 10%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 19–22 Nov 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll22Nov15>{{cite web|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-bill-shorten-now-mr-15pc-with-voters/story-fnc6vkbc-1227620261638?sv=ef6da23d671509b1d2b894b2a7eeb09e|date=23 November 2015|publisher=The Australian|author=Phillip Hudson|title=Newspoll: Bill Shorten now Mr 15pc with voters}}</ref>
+| 46%
+| 33%
+| 11%
+| 10%
+| style="background:#00bfff;" | '''53%'''
+| 47%
+|-
+! 7–8, 14–15 Nov 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6559-morgan-poll-federal-voting-intention-november-16-2015-201511160453 |title=Federal Voting Intention virtually unchanged. L-NP (56%) cf. ALP (44%); Confidence in Turnbull Government jumps – highest since March 2011  |date=16 November 2015|publisher=Roy Morgan Research}}</ref>
+| 46%
+| 28%
+| 14.5%
+| 11.5%
+| style="background:#00bfff;" | '''56%'''
+| 44%
+|-
+! 12–14 Nov 2015
+| style="text-align:left;" | Ipsos<ref name="ReferenceC">{{cite web|url=http://www.smh.com.au/federal-politics/political-news/gst-rise-backed-by-voters-if-other-taxes-cut-fairfaxipsos-poll-20151115-gkzmpf.html|title=GST rise backed by voters if other taxes cut: Fairfax-Ipsos poll|publisher=''The Sydney Morning Herald''|date=16 November 2015|access-date=16 November 2015}}</ref>{{refn|group=note|name=prefs|Ipsos asked respondents to nominate their own second preferences. Based only on 2013 preference flows, TPP is LNP 56% to ALP 44%.}}
+| 48%
+| 29%
+| 13%
+| 10%
+| style="background:#00bfff;" | '''57%'''
+| 43%
+|-
+! 10 Nov 2015
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://essentialvision.com.au/documents/essential_report_151110.pdf |date=10 November 2015 |title=The Essential Report, 10 November 2015 |publisher=Essential}}</ref>
+| 45%
+| 35%
+| 10%
+| 11%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 6–8 Nov 2015
+| style="text-align:left;" | Newspoll<ref name="The Australian">{{cite web|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-coalition-support-up-again-shorten-now-mr-18-per-cent/story-fnc6vkbc-1227602388814|date=9 November 2015|publisher=The Australian}}</ref>
+| 46%
+| 34%
+| 10%
+| 10%
+| style="background:#00bfff;" | '''53%'''
+| 47%
+|-
+! 3 Nov 2015
+| style="text-align:left;" | Essential
+| 45%
+| 34%
+| 11%
+| 10%
+| style="background:#00bfff;" | '''53%'''
+| 47%
+|-
+! 24–25 Oct, 1 Nov 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6536-morgan-poll-federal-voting-intention-november-2-2015-201511020458 |title=Federal Voting Intention virtually unchanged – L-NP (56.5%) leads ALP (43.5%) – biggest lead for L-NP since April 2013 |date=2 November 2015|publisher=Roy Morgan Research}}</ref>
+| 47%
+| 28.5%
+| 14.5%
+| 10%
+| style="background:#00bfff;" | '''56.5%'''
+| 43.5%
+|-
+! 27 Oct 2015
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://essentialvision.com.au/documents/essential_report_151027.pdf|title=The	Essential	Report 27 October 2015|publisher=Essential}}</ref>
+| 45%
+| 35%
+| 11%
+| 9%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 23–25 Oct 2015
+| style="text-align:left;" | Newspoll<ref>{{cite web|url=http://www.theaustralian.com.au/archive/national-affairs/newspoll-true-measure-of-labors-fall-as-coalition-surges-on-pms-gains/story-fnc6vkbc-1227583198842|title=Newspoll: True measure of Labor’s fall as Coalition surges on PM’s gains|publisher=The Australian}}</ref>
+| 45%
+| 35%
+| 11%
+| 9%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 22 Oct 2015
+| style="text-align:left;" | ReachTEL<ref>{{cite web|url=https://www.reachtel.com.au/blog/7-news-national-poll-22october2015|date=23 October 2015|title=7 News – National Poll – 22 October 2015|publisher=ReachTEL}}</ref>
+| 46.7%
+| 33.0%
+| 11.3%
+| 9.1%
+| style="background:#00bfff;" | '''53%'''
+| 47%
+|-
+! 20 Oct 2015
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://essentialvision.com.au/documents/essential_report_151020.pdf|title=The Essential Report|publisher=Essential}}</ref>
+| 44%
+| 36%
+| 11%
+| 9%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 10–11, 17–18 Oct 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6509-morgan-poll-federal-voting-intention-october-19-2015-201510190610 |title=Federal Voting Intention unchanged – L-NP (56%) leads ALP (44%) – equal biggest lead for L-NP since June 2013  |date=19 October 2015|publisher=Roy Morgan Research}}</ref>
+| 46.5%
+| 27.5%
+| 15.5%
+| 10.5%
+| style="background:#00bfff;" | '''56%'''
+| 44%
+|-
+! 15–17 Oct 2015
+| style="text-align:left;" | Ipsos<ref name="The Sydney Morning Herald">{{cite web|url=http://www.smh.com.au/federal-politics/political-news/dog-days-for-labor-as-coalition-surges-under-malcolm-turnbull-20151018-gkbx59.html|title=Fairfax-Ipsos poll shows dark days for Labor as Coalition surges under Malcolm Turnbull|date=18 October 2015|accessdate=18 October 2015|publisher=The Sydney Morning Herald}}</ref>
+| 45%
+| 30%
+| 14%
+| 10%
+| style="background:#00bfff;" | '''54%'''
+| 46%
+|-
+! 13 Oct 2015
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://essentialvision.com.au/documents/essential_report_151013.pdf|title=The	Essential	Report 13 October 2015|date=13 October 2015|publisher=Essential}}</ref>
+| 44%
+| 36%
+| 10%
+| 10%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 9–11 Oct 2015
+| style="text-align:left;" | Newspoll<ref>{{cite web|url=http://www.theaustralian.com.au/news/newspoll-malcolm-turnbulls-appeal-grows-but-parties-locked/story-e6frg6n6-1227565337941|title=Newspoll: Malcolm Turnbull’s appeal grows, but parties locked |author=Phillip Hudson|date=11 October 2015|publisher=The Australian}}</ref>
+| 43%
+| 35%
+| 12%
+| 10%
+| '''50%'''
+| '''50%'''
+|-
+! 26–27 Sep, 1–5 Oct 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6491-morgan-poll-federal-voting-intention-october-5-2015-201510050630|title=L-NP (56%) leads ALP (44%) – biggest lead for L-NP since June 2013 – a vote of confidence in Turnbull's new Ministry|date=5 October 2015|publisher=Roy Morgan Research}}</ref>
+| 47%
+| 27.5%
+| 14%
+| 11.5%
+| style="background:#00bfff;" | '''56%'''
+| 44%
+|-
+! 1–4 Oct 2015
+| style="text-align:left;" | Essential<ref>{{cite web|title=The Essential Report|url=http://essentialvision.com.au/documents/essential_report_151006.pdf|website=Essential Report|publisher=Essential Research|accessdate=9 October 2015}}</ref>
+| 44%
+| 35%
+| 10%
+| 10%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 24–28 Sep 2015
+| style="text-align:left;" | Essential
+| 44%
+| 35%
+| 11%
+| 11%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 17–21 Sep 2015
+| style="text-align:left;" | Essential<ref>{{cite report|url=http://essentialvision.com.au/documents/essential_report_150922.pdf|title=The Essential Report|date=22 September 2015|accessdate=25 September 2015|publisher=Essential Vision}}</ref>
+| 43%
+| 37%
+| 11%
+| 9%
+| '''50%'''
+| '''50%'''
+|-
+! 19–20 Sep 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6471-morgan-poll-federal-voting-intention-september-21-2015-201509210733|title=New PM Turnbull gives L-NP (55%) big lead over ALP (45%)|date=21 September 2015|publisher=Roy Morgan Research}}</ref>
+| 46%
+| 29.5%
+| 13%
+| 11.5%
+| style="background:#00bfff;" | '''55%'''
+| 45%
+|-
+! 17–20 Sep 2015
+| style="text-align:left;" | Newspoll<ref>{{cite web|url=http://blogs.crikey.com.au/pollbludger/2015/09/22/newspoll-51-49-to-coalition-7/|title=Newspoll: 51-49 to Coalition|publisher=Crikey|author=William Bowe|date=22 September 2015}}</ref>
+| 44%
+| 35%
+| 11%
+| 10%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 15–16 Sep 2015
+| style="text-align:left;" | Galaxy<ref name=Galaxy18Sep15>{{cite news|url=http://www.theguardian.com/australia-news/2015/sep/18/malcolm-turnbull-puts-coalition-ahead-in-poll-for-the-first-time-in-16-months|title=Malcolm Turnbull puts Coalition ahead in poll for the first time in 16 months |date=18 September 2015|publisher=The Guardian|author=Shalailah Medhora}}</ref>
+| 44%
+| 36%
+| 11%
+| 2%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 15 Sep 2015
+| style="text-align:left;" | ReachTEL<ref name=Turnbull>{{cite web|title=7 News – National Poll – 15 September 2015|url=https://www.reachtel.com.au/blog/7-news-national-poll-15september2015|website=ReachTEL|date=16 September 2015|accessdate=16 September 2015}}</ref>{{refn|group=note|name=Turnbull|Malcolm Turnbull succeeded Tony Abbott as Liberal Party leader on 14 September 2015. Poll was conducted to gauge the public's response.}}
+| 43.3%
+| 35.9%
+| 11.9%
+| 8.9%
+| '''50%'''
+| '''50%'''
+|-
+|style="background:#DADADA;"|'''14 Sep 2015'''
+| style="background:#DADADA;" colspan="7" | '''Turnbull replaces Abbott as Liberal leader'''
+|-
+! 12–13 Sep 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|title=L-NP (43%) fell further behind ALP (57%) before Turnbull challenged Abbott for the Prime Ministership on Monday|url=http://www.roymorgan.com/findings/6455-morgan-poll-federal-voting-intention-september-16-2015-201509160428?utm_medium=email&utm_campaign=Morgan+Poll+20150916&utm_content=Morgan+Poll+20150916+CID_cfd31d2013a048050191aac84828cae1&utm_source=Market%20Research%20Update&utm_term=L-NP%2043%20fell%20further%20behind%20ALP%2057%20before%20Turnbull%20challenged%20Abbott%20for%20the%20Prime%20Ministership%20on%20Monday|website=Roy Morgan Research|publisher=Roy Morgan Research|accessdate=16 September 2015}}</ref>
+| 35%
+| 36.5%
+| 16%
+| 12.5%
+| 43%
+| style="background:#f66;" | '''57%'''
+|-
+! 5–6 Sep 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|title=L-NP (45%) well behind ALP (55%) on two-party preferred basis as Government Confidence down 5.5pts to 90, Greens at record high – 16.5%|url=http://www.roymorgan.com/findings/6446-morgan-poll-federal-voting-intention-september-7-2015-201509070607|website=Roy Morgan Research|accessdate=7 September 2015}}</ref>
+| 36.5%
+| 35.5%
+| 16.5%
+| 11.5%
+| 45%
+| style="background:#f66;" | '''55%'''
+|-
+! 4–6 Sep 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll6Sep15>{{cite web|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-tony-abbott-marks-second-anniversary-with-lower-support-than-election-day/story-fnc6vkbc-1227515388907?sv=c76712cd0151000880d0f1363fe05705|title=Newspoll/The Australian|date=6 September 2015}}</ref>
+| 39%
+| 39%
+| 12%
+| 10%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 26–30 Aug 2015
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://essentialvision.com.au/documents/essential_report_150901.pdf|title=Essential Report|date=1 September 2015}}</ref>
+| 40%
+| 38%
+| 11%
+| 12%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 27 Aug 2015
+| style="text-align:left;" | ReachTEL<ref name=ReachTEL27Aug>{{cite web|url=https://www.reachtel.com.au/blog/7-news-national-poll-27aug2015|title=7 News – National Poll – 27 August 2015|website=ReachTEL|date=28 August 2015}}</ref>
+| 40.3%
+| 37.5%
+| 13.4%
+| 8.9%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 22–23 Aug 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6419-morgan-poll-federal-voting-intention-august-24-2015-201508240534|title=L-NP support increases after unions attack credibility of Trade Union Commissioner Dyson Heydon and the Abbott Government announces new policies on climate change and same-sex marriage|date=24 August 2015|publisher=Roy Morgan Research}}</ref>
+| 38.5%
+| 36%
+| 14%
+| 11.5%
+| 45.5%
+| style="background:#f66;" | '''54.5%'''
+|-
+! 20–23 Aug 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll23August15>{{cite web|url=http://resources.news.com.au/files/2015/08/24/1227497/206508-aus-news-file-newspoll-aug-25-2015.pdf|publisher=News.com.au|title=Newspoll 23 August}}</ref>
+| 38%
+| 39%
+| 13%
+| 10%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 13–15 Aug 2015
+| style="text-align:left;" | Ipsos<ref name=Ipsos1315Aug15>{{cite web|url=http://www.smh.com.au/federal-politics/political-news/tony-abbotts-leadership-faces-new-dangers-as-new-ipsos-poll-predicts-coalition-wipeout-20150816-gj01ip.html|title=Tony Abbott's leadership faces new dangers as Fairfax-Ipsos poll predicts Coalition wipeout|publisher=The Sydney Morning Herald|date=16 August 2015|accessdate=16 August 2015}}</ref>
+| 38%
+| 36%
+| 16%
+| 11%
+| 44%
+| style="background:#f66;" | '''56%'''
+|-
+! 11–14 Aug 2015
+| style="text-align:left;" | Essential
+| 41%
+| 38%
+| 10%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 8–9 Aug 2015
+| style="text-align:left;" | Morgan<ref name=Morgan10Aug15>{{cite web|url=http://www.roymorgan.com/findings/6387-morgan-poll-federal-voting-intention-august-10-2015-201508100947|title=L-NP support slumps following resignation of Bronwyn Bishop as Roy Morgan Government Confidence plunges to record low|publisher=Roy Morgan Research|date=10 August 2015|accessdate=11 August 2015}}</ref>
+| 36.5%
+| 37%
+| 15.5%
+| 11%
+| 43%
+| style="background:#f66;" | '''57%'''
+|-
+! 8–9 Aug 2015
+| style="text-align:left;" | Newspoll<ref>{{cite web|url=http://www.theaustralian.com.au/national-affairs/newspoll-labor-extends-lead-as-entitlements-scandal-hurts-coalition/story-fn59niix-1227476567079|title=Newspoll: Labor extends lead as entitlements scandal hurts Coalition|publisher=The Australian|date=9 August 2015}}</ref>
+| 39%
+| 39%
+| 13%
+| 9%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 4–7 Aug 2015
+| style="text-align:left;" | Essential
+| 40%
+| 39%
+| 11%
+| 9%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 6 Aug 2015
+| style="text-align:left;" | ReachTel<ref>{{cite web|url=http://www.smh.com.au/federal-politics/political-news/abbott-dragged-down-by-scandal-as-shorten-surges-ahead-20150807-giuivw.html#ixzz3iG5AxAoC|title=Tony Abbott dragged down by expenses scandal as Bill Shorten surges ahead|publisher=Fairfax Media|date=9 August 2015}}</ref>
+| 40.2%
+| 38.3%
+| 12.8%
+| 8.7%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 28–31 Jul 2015
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://www.essentialvision.com.au/federal-politics-voting-intention-94|title=Federal politics – voting intention (04/08/15)|publisher=Essential Media|date=4 August 2015}}</ref>
+| 39%
+| 38%
+| 12%
+| 10%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 30 Jul 2015
+| style="text-align:left;" | ReachTel<ref>{{cite web|url=https://www.reachtel.com.au/blog/7-news-national-poll-30july2015|title=7 News – National Poll – 30 July 2015|publisher=ReachTel|date=31 July 2015}}</ref>
+| 40.6%
+| 38%
+| 12.9%
+| 8.6%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 25–26 Jul 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6365-morgan-poll-federal-voting-intention-july-27-2015-201507270533|title=L-NP support slumps amid Bronwyn Bishop travel expense 'misconduct' and as the ALP commits to renewable energy & 'turn back the boats' policy|publisher=Roy Morgan Research|date=27 July 2015}}</ref>
+| 39%
+| 35.5%
+| 15%
+| 10.5%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 16–19 Jul 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll19Jul>{{cite news|url=http://www.skynews.com.au/news/top-stories/2015/07/21/bill-shorten-s-newspoll-figures-rapidly-drop.html|title=Bill Shorten's Newspoll figures rapidly drop|date=21 July 2015|publisher=Sky News Australia}}</ref>
+| 40%
+| 39%
+| 12%
+| 9%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 14–17 Jul 2015
+| style="text-align:left;" | Essential
+| 41%
+| 38%
+| 11%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 11–12 Jul 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6336-morgan-poll-federal-voting-intention-july-13-2015-201507130601|title=ALP support crumbles as Opposition Leader Bill Shorten fronts Royal Commission|publisher=Roy Morgan|date=13 July 2015}}</ref>
+| 41.5%
+| 34.5%
+| 13.5%
+| 10.5%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 4–5 Jul 2015
+| style="text-align:left;" | Newspoll<ref name="Newspo6July15">{{cite news|url=http://www.theaustralian.com.au/national-affairs/newspoll-labor-in-lead-but-bill-shorten-at-lows/story-fn59niix-1227429663815|title=Newspoll: Labor in lead but Bill Shorten at lows |date=6 July 2015|newspaper=The Australian|author=Phillip Hudson}}</ref>
+| 40%
+| 37%
+| 13%
+| 10%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 2–4 Jul 2015
+| style="text-align:left;" | Ipsos<ref>{{cite web|title=Fairfax-Ipsos: 53-47 to Labor|url=http://blogs.crikey.com.au/pollbludger/2015/07/05/fairfax-ipsos-53-47-to-labor-2/|website=Crikey.com.au|accessdate=5 July 2015}}</ref>
+| 39%
+| 35%
+| 16%
+| 10%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 27–28 Jun 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|title=L-NP vote up 1% as Opposition Leader Bill Shorten under controversy for his role in the AWU 'affair' and caught out on a lie – however ALP would still win a Federal Election|url=http://www.roymorgan.com/findings/6319-morgan-poll-federal-voting-intention-june-29-2015-201506290456|website=Roy Morgan Research|accessdate=29 June 2015}}</ref>
+| 39%
+| 36%
+| 14%
+| 11%
+| 46.5%
+| style="background:#f66;" | '''53.5%'''
+|-
+! 16 Jun 2015
+| style="text-align:left;" | Newspoll<ref name="NewspollJune15">{{cite news|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-bill-shorten-approval-rating-at-record-low-28-per-cent/story-fnc6vkbc-1227399413962|title=Newspoll: Bill Shorten approval rating at record low 28 per cent|date=15 June 2015|newspaper=The Australian|author=Phillip Hudson}}</ref>
+| 40%
+| 34%
+| 14%
+| 12%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 16 Jun 2015
+| style="text-align:left;" | Essential
+| 42%
+| 39%
+| 10%
+| 9%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 13–14 Jun 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|title=ALP increases lead after Hockey says first home buyers should 'get a good job that pays good money'|url=http://www.roymorgan.com/findings/6292-morgan-poll-federal-voting-intention-june-15-2015-201506150528|website=Roy Morgan Research|accessdate=15 June 2015}}</ref>
+| 37.5%
+| 37.5%
+| 13.5%
+| 11.5%
+| 45.5%
+| style="background:#f66;" | '''54.5%'''
+|-
+! 11–13 Jun 2015
+| style="text-align:left;" | Ipsos<ref name="smh.com.au">{{cite web|title=Voters drift away from Tony Abbott amid worsening housing affordability crisis and same-sex marriage debate|url=http://www.smh.com.au/federal-politics/political-news/voters-drift-away-from-tony-abbott-amid-worsening-housing-affordability-crisis-and-samesex-marriage-debate-20150614-ghnofr.html|website=The Sydney Morning Herald|accessdate=15 June 2015}}</ref>
+| 40%
+| 37%
+| 14%
+| 10%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 11–13 Jun 2015
+| style="text-align:left;" | Essential
+| 41%
+| 40%
+| 9%
+| 10%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 2 Jun 2015
+| style="text-align:left;" | Newspoll<ref name="theaustralian.com.au">{{cite web|title=Tony Abbott passes Bill Shorten on approval rating|url=http://www.theaustralian.com.au/subscribe/news/1/index.html?sourceCode=TAWEB_WRE170_a&mode=premium&dest=http://www.theaustralian.com.au/national-affairs/newspoll-tony-abbott-passes-bill-shorten-on-approval-rating/story-fn59niix-1227378798487&memtype=anonymous|website=Newspoll|accessdate=2 May 2015}}</ref>
+| 41%
+| 37%
+| 13%
+| 9%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 2 Jun 2015
+| style="text-align:left;" | Essential<ref name="Essential Media Communications">{{cite web|title=Federal politics – voting intention|url=http://www.essentialvision.com.au/federal-politics-voting-intention-84|website=Essential Vision|publisher=Essential Media Communications|accessdate=27 May 2015}}</ref>
+| 41%
+| 37%
+| 13%
+| 9%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 23–24, 30–31 May 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|title='Budget Bounce' over for the L-NP as ALP regain initiative with Shorten's call for same-sex marriage|url=http://www.roymorgan.com/findings/6265-morgan-poll-federal-voting-intention-june-1-2015-201506010603|website=Roy Morgan Research|publisher=Roy Morgan Research|accessdate=3 June 2015}}</ref>
+| 41%
+| 37%
+| 13%
+| 9%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+|-
+! 26 May 2015
+| style="text-align:left;" | Essential<ref name="Essential Media Communications"/>
+| 41%
+| 39%
+| 10%
+| 9%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 18 May 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|title=L-NP gets 'Budget boost' – now highest in over a year (February 2014)|url=http://www.roymorgan.com/findings/6239-morgan-poll-federal-voting-intention-may-18-2015-201505180638?utm_medium=email&utm_campaign=Morgan+Poll+20150518&utm_content=Morgan+Poll+20150518+CID_d58353f438c13c3337905334141f2a9c&utm_source=Market%20Research%20Update&utm_term=Read%20full%20article|website=Roy Morgan Research|publisher=Roy Morgan|accessdate=18 May 2015}}</ref>
+| 41.5%
+| 35.5%
+| 12.5%
+| 10.5%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 17 May 2015
+| style="text-align:left;" | Ipsos<ref name="theage.com.au">{{cite web|title=Fairfax-Ipsos poll: Coalition draws 50–50 with Labor, Abbott approval soars|url=http://www.theage.com.au/federal-politics/political-news/fairfaxipsos-poll-coalition-draws-5050-with-labor-abbott-approval-soars-20150517-gh3ok8.html|website=The Age|accessdate=17 May 2015}}</ref>
+| 43%
+| 35%
+| 13%
+| 9%
+| '''50%'''
+| '''50%'''
+|-
+! 17 May 2015
+| style="text-align:left;" | Newspoll<ref name="ReferenceA">{{cite web|title=Newspoll: Budget win for voters, economy … and Tony Abbott|url=http://www.theaustralian.com.au/national-affairs/newspoll-budget-win-for-voters-economy-and-tony-abbott/story-fn59niix-1227358285115|website=The Australian|accessdate=17 May 2015}}</ref>
+| 40%
+| 37%
+| 12%
+| 11%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 13 May 2015
+| style="text-align:left;" | ReachTel<ref>{{cite web|title=ReachTel: 7 News – National Poll – 13 May 2015|url=https://www.reachtel.com.au/blog/7-news-national-poll-13may2015|website=ReachTel|accessdate=15 May 2015}}</ref>
+| 41.1%
+| 38.3%
+| 12.1%
+| 8.6%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 7–10 May 2015
+| style="text-align:left;" | Essential<ref>{{cite report|url=http://blogs.crikey.com.au/pollbludger/files/2015/05/Essential-Report_150512.pdf|title=The Essential Report|date=12 May 2015|publisher=Essential Research|archiveurl=http://www.webcitation.org/6YbQaymSW|archivedate=18 May 2015}}</ref>
+| 41%
+| 39%
+| 11%
+| 10%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+| style="background:#DADADA;"|'''6 May 2015'''
+| style="background:#DADADA;" colspan="7" | '''Di Natale replaces Milne as Greens leader'''
+|-
+! 4 May 2015
+| style="text-align:left;" | Newspoll<ref name="ReferenceB">{{cite web|title=Newspoll: Tony Abbott catches Shorten, Labor keeps lead|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-tony-abbott-catches-shorten-labor-keeps-lead/story-fnc6vkbc-1227335193687|website=The Australian|accessdate=5 May 2015}}</ref>
+| 39%
+| 35%
+| 12%
+| 14%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 4 May 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|title=L-NP vote virtually unchanged as Abbott Government prepares for second Federal Budget|url=http://www.roymorgan.com/findings/6222-morgan-poll-federal-voting-intention-may-4-2015-201505040600?utm_medium=email&utm_campaign=Morgan+Poll+20150504&utm_content=Morgan+Poll+20150504+{0}CID_77bcf0ca15802d1ce6bbfef0f37a4a99&utm_source=Market%20Research%20Update&utm_term=Read%20full%20article|website=Roy Morgan Research|accessdate=4 May 2015}}</ref>
+| 40%
+| 37.5%
+| 11.5%
+| 11%
+| 46.5%
+| style="background:#f66;" | '''53.5%'''
+|-
+! 28 Apr 2015
+| style="text-align:left;" | Essential
+| 40%
+| 39%
+| 10%
+| 11%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 21 Apr 2015
+| style="text-align:left;" | Essential
+| 41%
+| 39%
+| 11%
+| 10%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 11–12, 18–19 Apr 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/6185-morgan-poll-federal-voting-intention-april-20-2015-201504200648|title=ALP would still easily win Federal Election as Foreign Minister Julie Bishop arrives in Iran for talks on ISIS, asylum seekers and trade|date=20 April 2015|publisher=Roy Morgan}}</ref>
+| 38.5%
+| 38%
+| 12%
+| 11%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 14 Apr 2015
+| style="text-align:left;" | Essential
+| 41%
+| 39%
+| 10%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 10–12 Apr 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll13Apr2015>{{cite web|url=http://www.theaustralian.com.au/national-affairs/newspoll-bill-shorten-posts-worst-ratings-as-tony-abbott-claws-back-ground/story-fn59niix-1227300811648|title=Newspoll: Bill Shorten posts worst ratings as Tony Abbott claws back ground|date=12 April 2015|accessdate=13 April 2015|work=Newspoll}}</ref>
+| 41%
+| 36%
+| 11%
+| 12%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 9–11 Apr 2015
+| style="text-align:left;" | Ipsos<ref name=Ipsos13Apr2015>{{cite web|url=http://www.smh.com.au/federal-politics/political-news/abbott-and-hockey-lead-coalition-poll-dive-20150412-1mjcff.html|title=Abbott and Hockey lead Coalition poll dive|date=12 April 2015|accessdate=13 April 2015|work=Ipsos}}</ref>
+| 39%
+| 38%
+| 13%
+| 9%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 28–29 Mar, 3–6 Apr 2015
+| style="text-align:left;" | Morgan<ref name=Morgan7Apr15>{{cite web|url=http://www.roymorgan.com/findings/6165-morgan-poll-federal-voting-intention-april-7-2015-201504070630|title=L-NP support jumps following Mike Baird's triumph in NSW Election|date=7 April 2015|accessdate=8 April 2015|work=Roy Morgan Research}}</ref>
+| 40.5%
+| 36%
+| 12.5%
+| 11%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 29 Mar 2015
+| style="text-align:left;" | ReachTEL<ref name=ReachTEL29March15>{{cite web|url=https://www.reachtel.com.au/blog/7-news-national-poll-29march2015|title=7 News – National Poll – 29 March 2015|date=30 March 2015|accessdate=2 April 2015|work=ReachTEL}}</ref>
+| 39.6%
+| 40.5%
+| 11.5%
+| 8.5%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 20–22 Mar 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll22March15>{{cite news|url=http://www.theaustralian.com.au/opinion/mumble-newspoll-takes-pressure-off-tony-abotts-leadership/story-e6frg6zo-1227277632380|title=Mumble: Newspoll takes pressure off Tony Abott’s leadership|author=Peter Mumble|date=25 March 2015|accessdate=26 March 2015|newspaper=The Australian}}</ref>
+| 41%
+| 37%
+| 11%
+| 11%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 14–15, 21–22 Mar 2015
+| style="text-align:left;" | Morgan<ref>{{Cite web|url = http://www.roymorgan.com/findings/6138-morgan-poll-federal-voting-intention-march-23-2015-201503230703?utm_medium=email&utm_campaign=Morgan+Poll+20150323&utm_content=Morgan+Poll+20150323+CID_6e6ca2cf56b263bd496e485c54f47fcb&utm_source=Market%20Research%20Update&utm_term=Read%20full%20article|title = Federal ALP increases lead as NSW prepares to vote in State Election|date = 23 March 2015|accessdate = 25 March 2015|website = Roy Morgan Research|publisher = |last = |first = }}</ref>
+| 38%
+| 40%
+| 11%
+| 11%
+| 44%
+| style="background:#f66;" | '''56%''' 
+|-
+! 17 Mar 2015
+| style="text-align:left;" | Essential
+| 40%
+| 39%
+| 9%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 10 Mar 2015
+| style="text-align:left;" | Essential<ref name=Essential10Mar>{{cite news|url=http://essentialvision.com.au/federal-politics-voting-intention-74|title=Essential: Federal politics – voting intention|date=10 March 2015|accessdate=12 March 2015|author=Essential Media}}</ref>
+| 40%
+| 40%
+| 9%
+| 11%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 7–8 Mar 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll8Mar>{{cite news|url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-tony-abbott-rises-but-labor-has-commanding-lead/story-fnc6vkbc-1227255752885|title=Newspoll: Tony Abbott rises but Labor has commanding lead|newspaper=The Australian|date=9 March 2015|accessdate=9 March 2015|author=Phillip Hudson}}</ref>
+| 38%
+| 39%
+| 12%
+| 11%
+| 45%
+| style="background:#f66;" | '''55%'''
+|-
+! 28 Feb–1, 7–8 Mar 2015
+| style="text-align:left;" | Morgan<ref name="Morgan Poll Late Feb - Early March">{{cite news|url=http://www.roymorgan.com/findings/6111-morgan-poll-federal-voting-intention-march-10-2015-201503100615|title=Roy Morgan Research: L-NP support increases after PM Abbott commits to sending Australian troops to Iraq|date=10 March 2015|accessdate=12 March 2015|author=Roy Morgan Research}}</ref>
+| 39%
+| 38%
+| 12.5%
+| 11.5%
+| 46.5%
+| style="background:#f66;" | '''53.5%'''
+|-
+! 26–28 Feb 2015
+| style="text-align:left;" | Ipsos
+| 42%
+| 36%
+| 12%
+| 10%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 20–22 Feb 2015
+| style="text-align:left;" | Essential 
+| 40%
+| 41%
+| 9%
+| 10%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 20–22 Feb 2015
+| style="text-align:left;" | Newspoll
+| 38%
+| 38%
+| 12%
+| 12%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 6–8 Feb 2015
+| style="text-align:left;" | Newspoll
+| 35%
+| 41%
+| 12%
+| 12%
+| 43%
+| style="background:#f66;" | '''57%'''
+|-
+! 31 Jan–1, 7–8 Feb 2015
+| style="text-align:left;" | Morgan
+| 35%
+| 41%
+| 12%
+| 12%
+| 42.5%
+| style="background:#f66;" | '''57.5%'''
+|-
+! 5 Feb 2015
+| style="text-align:left;" | ReachTEL
+| 38.4%
+| 41.4%
+| 11.2%
+| 8.9%
+| 45%
+| style="background:#f66;" | '''55%'''
+|-
+! 4–5 Feb 2015
+| style="text-align:left;" | Galaxy
+| 36%
+| 43%
+| 11%
+| 10%
+| 43%
+| style="background:#f66;" | '''57%'''
+|-
+! 28–30 Jan 2015
+| style="text-align:left;" | Galaxy
+| 36%
+| 43%
+| 11%
+| 10%
+| 43%
+| style="background:#f66;" | '''57%'''
+|-
+! 27 Jan 2015
+| style="text-align:left;" | ReachTEL
+| 39.7%
+| 40.2%
+| 11.3%
+| 8.8%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 27 Jan 2015
+| style="text-align:left;" | Essential
+| 39%
+| 41%
+| 9%
+| 11%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 20 Jan 2015
+| style="text-align:left;" | Essential
+| 40%
+| 40%
+| 10%
+| 11%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 13 Jan 2015
+| style="text-align:left;" | Essential
+| 38%
+| 40%
+| 10%
+| 11%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 12 Jan 2015
+| style="text-align:left;" | Morgan
+| 38.5%
+| 38.5%
+| 9.5%
+| 13.5%
+| 45.5%
+| style="background:#f66;" | '''54.5%'''
+|-
+! 23–27 Dec 2014
+| style="text-align:left;" | Morgan
+| 37.5%
+| 39.5%
+| 12%
+| 11%
+| 43.5%
+| style="background:#f66;" | '''56.5%'''
+|-
+! 16 Dec 2014
+| style="text-align:left;" | Essential
+| 40%
+| 38%
+| 10%
+| 12%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 12–15 Dec 2014
+| style="text-align:left;" | Newspoll
+| 38%
+| 39%
+| 12%
+| 11%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 6–7, 13–14 Dec 2014
+| style="text-align:left;" | Morgan
+| 35%
+| 41%
+| 11.5%
+| 12.5%
+| 42.5%
+| style="background:#f66;" | '''57.5%'''
+|-
+! 4–6 Dec 2014
+| style="text-align:left;" | Ipsos
+| 40%
+| 37%
+| 12%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 2–4 Dec 2014
+| style="text-align:left;" | Galaxy
+| 38%
+| 41%
+| 11%
+| 10%
+| 45%
+| style="background:#f66;" | '''55%'''
+|-
+! 2 Dec 2014
+| style="text-align:left;" | Essential
+| 40%
+| 40%
+| 9%
+| 11%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 29–30 Nov 2014
+| style="text-align:left;" | Newspoll
+| 37%
+| 37%
+| 13%
+| 13%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 22–23, 29–30 Nov 2014
+| style="text-align:left;" | Morgan
+| 37%
+| 37.5%
+| 12%
+| 11.5%
+| 46.5%
+| style="background:#f66;" | '''53.5%'''
+|-
+! 25 Nov 2014
+| style="text-align:left;" | Essential
+| 40%
+| 39%
+| 10%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 21 Nov 2014
+| style="text-align:left;" | ReachTEL
+| 40.2%
+| 38.7%
+| 11.1%
+| 9.9%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 18 Nov 2014
+| style="text-align:left;" | Newspoll
+| 36%
+| 39%
+| 11%
+| 14%
+| 45%
+| style="background:#f66;" | '''55%'''
+|-
+! 17 Nov 2014
+| style="text-align:left;" | Essential
+| 40%
+| 38%
+| 10%
+| 12%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 17 Nov 2014
+| style="text-align:left;" | Morgan
+| 38%
+| 38.5%
+| 12%
+| 11.5%
+| 44.5%
+| style="background:#f66;" | '''55.5%'''
+|-
+! 11 Nov 2014
+| style="text-align:left;" | Essential
+| 40%
+| 38%
+| 10%
+| 13%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 4 Nov 2014
+| style="text-align:left;" | Newspoll
+| 38%
+| 36%
+| 13%
+| 13%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 4 Nov 2014
+| style="text-align:left;" | Essential
+| 40%
+| 38%
+| 10%
+| 12%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 25–26 Oct, 1–2 Nov 2014
+| style="text-align:left;" | Morgan
+| 38.5%
+| 37.5%
+| 12.5%
+| 11.5%
+| 45.5%
+| style="background:#f66;" | '''54.5%'''
+|-
+! 30 Oct–1 Nov 2014
+| style="text-align:left;" | Ipsos
+| 42%
+| 37%
+| 12%
+| 10%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 28 Oct 2014
+| style="text-align:left;" | Essential
+| 39%
+| 39%
+| 9%
+| 12%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 23 Oct 2014
+| style="text-align:left;" | ReachTEL
+| 40.1%
+| 37.5%
+| 11.5%
+| 10.9%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 21 Oct 2014
+| style="text-align:left;" | Essential
+| 40%
+| 39%
+| 10%
+| 11%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 21 Oct 2014
+| style="text-align:left;" | Newspoll
+| 38%
+| 34%
+| 14%
+| 14%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 20 Oct 2014
+| style="text-align:left;" | Morgan
+| 39.5%
+| 35.5%
+| 12%
+| 13%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 14 Oct 2014
+| style="text-align:left;" | Essential
+| 41%
+| 39%
+| 10%
+| 10%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 7 Oct 2014
+| style="text-align:left;" | Essential
+| 40%
+| 39%
+| 10%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 4–5 Oct 2014
+| style="text-align:left;" | Morgan
+| 40%
+| 35%
+| 12%
+| 13%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 4–5 Oct 2014
+| style="text-align:left;" | Galaxy
+| 42%
+| 36%
+| 12%
+| 10%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 23 Sep 2014
+| style="text-align:left;" | Newspoll
+| 41%
+| 34%
+| 11%
+| 14%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 13–14, 20–21 Sep 2014
+| style="text-align:left;" | Morgan
+| 38.5%
+| 37.5%
+| 12%
+| 12%
+| 45.5%
+| style="background:#f66;" | '''54.5%'''
+|-
+! 18 Sep 2014
+| style="text-align:left;" | ReachTEL
+| 41.6%
+| 37.4%
+| 10.5%
+| 10.5%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 30–31 Aug, 6–7 Sep 2014
+| style="text-align:left;" | Morgan
+| 38%
+| 37%
+| 10.5%
+| 14.5%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 5–7 Sep 2014
+| style="text-align:left;" | Newspoll
+| 39%
+| 35%
+| 14%
+| 12%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 22–24 Aug 2014
+| style="text-align:left;" | Newspoll
+| 40%
+| 34%
+| 11%
+| 15%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 16–17, 23–24 Aug 2014
+| style="text-align:left;" | Morgan
+| 37.5%
+| 38.5%
+| 10.5%
+| 13.5%
+| 44.5%
+| style="background:#f66;" | '''55.5%''' 
+|-
+! 19 Aug 2014
+| style="text-align:left;" | Essential
+| 40%
+| 38%
+| 9%
+| 13%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 9–10 Aug 2014
+| style="text-align:left;" | Morgan
+| 37.5%
+| 38%
+| 11%
+| 13.5%
+| 44% 
+| style="background:#f66;" | '''56%'''
+|-
+! 8–10 Aug 2014
+| style="text-align:left;" | Newspoll
+| 40%
+| 34%
+| 13%
+| 13%
+| 48% 
+| style="background:#f66;" | '''52%'''
+|-
+! 25–27 Jul 2014
+| style="text-align:left;" | Newspoll
+| 36%
+| 36%
+| 12%
+| 16%
+| 46% 
+| style="background:#f66;" | '''54%'''
+|-
+! 11–13 Jul 2014
+| style="text-align:left;" | Newspoll
+| 36%
+| 37%
+| 11%
+| 16%
+| 46% 
+| style="background:#f66;" | '''54%'''
+|-
+! 1 Jul 2014
+| style="text-align:left;" |Essential<ref name="Federal politics – voting intention1Jul">{{cite web |url=http://essentialvision.com.au/category/essentialreport|title=Essential Report|date=1 July 2014 |accessdate=6 July 2014 |work=Essential}}</ref>
+| 40%
+| 38%
+| 9%
+| 13%
+| 48% 
+| style="background:#f66;" | '''52%'''
+|-
+! 30 Jun 2014
+| style="text-align:left;" | Morgan<ref name="ALP (57.5%) increases lead over L-NP (42.5%) as new Senate prepares to sit for first time">{{cite web |url=http://www.roymorgan.com/findings/5659-federal-voting-intention-june-30-2014-201406300634|title=ALP (57.5%) increases lead over L-NP (42.5%) as new Senate prepares to sit for first time |date=30 June 2014 |accessdate=6 July 2014 |work=Morgan}}</ref>
+| 35%
+| 36.5%
+| 12%
+| 16.5%
+| 42.5% 
+| style="background:#f66;" | '''57.5%'''
+|-
+! 27–29 Jun 2014
+| style="text-align:left;" | Newspoll
+| 35%
+| 37%
+| 13%
+| 15%
+| 45% 
+| style="background:#f66;" | '''55%'''
+|-
+! 13–15 Jun 2014
+| style="text-align:left;" | Newspoll
+| 37%
+| 36%
+| 10%
+| 17%
+| 47% 
+| style="background:#f66;" | '''53%'''
+|-
+! 30 May–1 Jun 2014
+| style="text-align:left;" | Newspoll
+| 36%
+| 37%
+| 12%
+| 15%
+| 46% 
+| style="background:#f66;" | '''54%'''
+|-
+! 27 May 2014
+| style="text-align:left;" |Essential<ref name="Federal politics – voting intention30Apr">{{cite web |url=http://essentialvision.com.au/federal-politics-voting-intention-32 |title=Federal politics – voting intention |date=30 April 2014 |accessdate=4 May 2014 |work=Essential}}</ref>
+| 40%
+| 39%
+| 9%
+| 12%
+| 48% 
+| style="background:#f66;" | '''52%'''
+|-
+! 20 May 2014
+| style="text-align:left;" |Essential<ref name="Federal politics – voting intention20May">{{cite web |url=http://essentialvision.com.au/federal-politics-voting-intention-32 |date=20 April 2014 |accessdate=28 May 2014 |work=Essential}}</ref>
+| 40%
+| 40%
+| 8%
+| 12%
+| 48% 
+| style="background:#f66;" | '''52%'''
+|-
+! 17–18 May 2014
+| style="text-align:left;" | Morgan<ref name="ALP (57.5%) surges to biggest lead over L-NP (42.5%) since early August 2010">{{cite web |url=http://www.roymorgan.com/findings/5591-morgan-poll-federal-voting-intention-may-19-2014-201405190655|title=ALP (57.5%) surges to biggest lead over L-NP (42.5%) since early August 2010 after Joe Hockey delivers his first Federal Budget.  |date=18 May 2014 |accessdate=20 May 2014 |work=Roy Morgan}}</ref>
+| 35%
+| 38.5%
+| 12%
+| 14.5%
+| 42.5% 
+| style="background:#f66;" | '''57.5%'''
+|-
+! 16–18 May 2014
+| style="text-align:left;" | Newspoll
+| 36%
+| 38%
+| 11%
+| 15%
+| 45% 
+| style="background:#f66;" | '''55%'''
+|-
+! 15–17 May 2014
+| style="text-align:left;" |Nielsen<ref>{{cite web |url=http://www.smh.com.au/federal-politics/political-news/abandoned-pm-pays-price-for-broken-promises-20140518-38hzw.html|title=Tony Abbott pays price for broken promises |date=19 May 2014 |accessdate=19 May 2014 |work=SMH|author=Mark Kenny}}</ref>
+| 35%
+| 40%
+| 14%
+| 12%
+| 44% 
+| style="background:#f66;" | '''56%'''
+|-
+! 4 May 2014
+| style="text-align:left;" |Galaxy<ref>{{cite web |url=http://www.dailytelegraph.com.au/news/nsw/tony-abbott-would-lose-an-election-if-it-was-held-now-as-voters-see-his-deficit-tax-plan-as-a-broken-promise/story-fni0cx12-1226904396057|title=Tony Abbott would lose an election if it was held now as voters see his deficit tax plan as a "broken promise"  |date=3 May 2014|work=The Daily Telegraph|author=Samantha Maiden}}</ref>
+| 39%
+| 37%
+| 11%
+| 13%
+| 48% 
+| style="background:#f66;" | '''52%'''
+|-
+! 2–4 May 2014
+| style="text-align:left;" |Newspoll<ref>{{cite web |url=http://resources.news.com.au/files/2014/05/05/1226906/646587-140506newspoll.pdf |title=Federal Newspoll |work=Newspoll}}</ref>
+| 38%
+| 34%
+| 14%
+| 14%
+| 47% 
+| style="background:#f66;" | '''53%'''
+|-
+! 30 Apr 2014
+| style="text-align:left;" |Essential<ref name="Federal politics – voting intention30Apr"/>
+| 40%
+| 38%
+| 10%
+| 11%
+| 48% 
+| style="background:#f66;" | '''52%'''
+|-
+! 22 Apr 2014
+| style="text-align:left;" |Morgan<ref>{{cite web |url=http://www.roymorgan.com/findings/5547-federal-voting-intention-april-22-2014-201404220518|title=ALP (52%) lead virtually unchanged over L-NP (48%) as Prince William and the Duchess of Cambridge tour Australia  |date=22 April 2014 |accessdate=4 May 2014 |work=Roy Morgan}}</ref>
+| 38.5%
+| 34%
+| 13%
+| 14.5%
+| 48% 
+| style="background:#f66;" | '''52%'''
+|-
+! 15 Apr 2014
+| style="text-align:left;" |Essential<ref name="Federal politics – voting intention15Apr">{{cite web |url=http://essentialvision.com.au/category/essentialreport |date=15 April 2014 |accessdate=15 April 2014 |work=Essential}}</ref>
+| 42%
+| 37%
+| 10%
+| 11%
+| '''50%'''
+| '''50%'''
+|-
+! 13 Apr 2014
+| style="text-align:left;" |Nielsen<ref name=nielsen130414>{{cite web |url=http://www.smh.com.au/federal-politics/political-news/tony-abbott-slumps-in-polls-despite-best-week-yet-20140413-zqu9c.html |title=Tony Abbott slumps in polls despite best week yet|date=13 April 2014 |accessdate=15 April 2014 |work=Nielsen}}</ref>
+| 40%
+| 34%
+| 17%
+| 9%
+| 48% 
+| style="background:#f66;" | '''52%'''
+|-
+! 8 Apr 2014
+| style="text-align:left;" | Essential<ref name="Federal politics – voting intention8Apr">{{cite web |url=http://essentialvision.com.au/category/essentialreport |date=8 April 2014 |accessdate=10 April 2014 |work=Essential}}</ref>
+| 42%
+| 38%
+| 9%
+| 11%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 7 Apr 2014
+| style="text-align:left;" | Morgan<ref name="ALP (51.5%) lead is down over L-NP (48.5%) as special WA Senate Election shows both major parties losing support">{{cite web |url=http://www.roymorgan.com/findings/5526-morgan-poll-federal-voting-intention-april-7-2014-201404070713|title=ALP (51.5%) lead is down over L-NP (48.5%) as special WA Senate Election shows both major parties losing support |date=7 April 2014 |accessdate=15 April 2014 |work=Morgan}}</ref>
+| 38.5%
+| 34.5%
+| 12%
+| 15%
+| 48.5%
+| style="background:#f66;" | '''51.5%'''
+|-
+! 4–6 Apr 2014
+| style="text-align:left;" | Newspoll<ref name="Federal politics – voting intentionNewspoll">{{cite web |url=http://polling.newspoll.com.au.tmp.anchor.net.au/image_uploads/140401%20Federal%20Voting%20Intention%20&%20Leaders%20Ratings.pdf |date=8 April 2014|title=Federal Voting Intentions & Leaders Ratings |accessdate=10 April 2014 |work=Newspoll}}</ref>
+| 43%
+| 34%
+| 11%
+| 12%
+| style="background:#00bfff;" | '''51%''' 
+| 49%
+|-
+! 25 Mar 2014
+| style="text-align:left;" | Morgan<ref>{{cite web |url=http://www.roymorgan.com/findings/5504-morgan-poll-federal-voting-intention-march-24-2014-201403240556|title=ALP (54.5%) biggest lead over L-NP (45.5%) since losing the Election after ALP win narrowly in SA and L-NP win in Tasmania |date=24 March 2014 |accessdate=28 March 2014 |work=Morgan}}</ref>
+| 38%
+| 38.5%
+| 11%
+| 12.5%
+| 45.5%
+| style="background:#f66;" | '''54.5%'''
+|-
+! 25 Mar 2014
+| style="text-align:left;" | Essential<ref name="Federal politics – voting intention25Mar">{{cite web |url=http://essentialvision.com.au/category/essentialreport|title=Federal politics- Voting intention |date=25 March 2014 |accessdate=27 March 2014 |work=Essential}}</ref>
+| 44%
+| 37%
+| 9%
+| 11%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 21–23 Mar 2014
+| style="text-align:left;" | Newspoll<ref>{{cite web |url=http://www.theaustralian.com.au/national-affairs/polling|title=Newspoll|date=17 February 2014 |accessdate=25 March 2014 |work=The Australian}}</ref>
+| 40%
+| 36%
+| 13%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|- 
+! 18 Mar 2014
+| style="text-align:left;" | Essential<ref name="Federal politics – voting intention18Mar">{{cite web |url=http://essentialvision.com.au/category/essentialreport|title=Federal politics- Voting intention |date=18 March 2014 |accessdate=27 March 2014 |work=Essential}}</ref>
+| 43%
+| 36%
+| 9%
+| 12%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 13–15 Mar 2014
+| style="text-align:left;" | Nielsen<ref>{{cite web |url=http://www.smh.com.au/federal-politics/pm-backed-despite-job-losses-20140316-34vuc.html|title=PM backed despite job losses|date=17 February 2014 |accessdate=21 March 2014 |work=Sydney Morning Herald}}</ref>
+| 44%
+| 35%
+| 12%
+| 10%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|- 
+! 7–9 Mar 2014
+| style="text-align:left;" | Newspoll
+| 41%
+| 35%
+| 11%
+| 13%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 5 Mar 2014
+| style="text-align:left;" | Essential<ref name="Federal politics – voting intention5Mar">{{cite web |url=http://essentialvision.com.au/category/essentialreport|title=Federal politics- Voting intention |date=5 March 2014 |accessdate=10 March 2014 |work=Essential}}</ref>
+| 44%
+| 38%
+| 8%
+| 10%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 23 Feb 2014
+| style="text-align:left;" | Morgan<ref>{{cite web |url=http://roymorgan.com/findings/5449-morgan-poll-february-24-2014-201402240425|title=ALP (50.5%, down 1.5%) lead down again over L-NP (49.5%, up 1.5%) as Western Australia set to face a new half-Senate Election in April|date=24 February 2014 |accessdate=24 February 2014 |work=Roy Morgan Research}}</ref>
+| 41%
+| 35.5%
+| 10.5%
+| 13%
+| 49.5%
+| style="background:#f66;" | '''50.5%'''
+|-
+! 21–23 Feb 2014
+| style="text-align:left;" | Newspoll<ref name=Newspoll24Feb>{{cite web |url=http://www.theaustralian.com.au/national-affairs/newspoll/newspoll-shows-lift-for-alp-as-budget-fears-rise/story-fnc6vkbc-1226836442203|title=Newspoll shows lift for ALP as budget fears rise |date=24 February 2014 |accessdate=25 February 2014 |work=The Australian}}</ref>
+| 39%
+| 39%
+| 10%
+| 12%
+| 46%
+| style="background:#f66;" | '''54%'''
+|-
+! 15 Feb 2014
+| style="text-align:left;" | Nielsen<ref>{{cite web |url=http://www.theage.com.au/federal-politics/political-news/tony-abbott-bounces-back-as-union-woes-hit-bill-shorten-in-latest-poll-20140216-32tzn.html|title=Tony Abbott bounces back as union woes hit Bill Shorten in latest poll|date=17 February 2014 |accessdate=11 February 2014 |work=The Age}}</ref>
+| 44%
+| 33%
+| 12%
+| 11%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-p
+! 7–9 Feb 2014
+| style="text-align:left;" | Newspoll<ref name=Newspoll>{{cite web |url=http://www.theaustralian.com.au/national-affairs/polling|title=Latest Polls |date=11 February 2014 |accessdate=11 February 2014 |work=The Australian}}</ref>
+| 41%
+| 35%
+| 12%
+| 12%
+| 49%
+| style="background:#f66;" | '''51%'''
+|-
+! 28 Jan 2014
+| style="text-align:left;" | Morgan<ref name=Mrg28Jan2014>{{cite web |url=http://www.roymorgan.com/findings/5399-morgan-poll-federal-voting-intention-january-28-2014-201401280432|title=ALP (53%, up 0.5%) increases clear lead over L-NP (47%, down 0.5%). Government Confidence lowest since Abbott Government elected |date=28 January 2014 |accessdate=28 January 2014 |work=Roy Morgan Research}}</ref>
+| 39.5%
+| 37%
+| 11.5%
+| 12%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 23 Jan 2014
+| style="text-align:left;" | ReachTEL
+| 39.8%
+| 40.6%
+| 9.1%
+| 9.1%
+| 47%
+| style="background:#f66;" | '''53%'''
+|-
+! 17–20 Jan 2014
+| style="text-align:left;" | Essential<ref name=Ess20Jan2014>{{cite web |url=http://essentialvision.com.au/documents/essential_report_140121.pdf|title=The Essential Report |date=21 January 2014 |accessdate=23 January 2014 |work=Essential Research}}</ref>
+| 43%
+| 37%
+| 9%
+| 11%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 13 Jan 2014
+| style="text-align:left;" | Morgan<ref name=Mrg13Jan2014>{{cite web |url=http://www.roymorgan.com/findings/5371-federal-voting-intention-january-13-2014-201401130606|title=ALP (52.5%) start 2014 with a clear lead over the L-NP (47.5%) in first major public opinion poll of 2014 |date=13 January 2014 |accessdate=13 January 2014 |work=Roy Morgan Research}}</ref>
+| 38%
+| 39%
+| 10.5%
+| 12.5%
+| 47.5%
+| style="background:#f66;" | '''52.5%'''
+|-
+! 16 Dec 2013
+| style="text-align:left;" | Morgan<ref name=Mrg16Dec2013>{{cite web |url=http://www.roymorgan.com/findings/5353-federal-voting-intention-december-16-2013-201312160613|title=ALP (52.5%) increases lead over L-NP (47.5%) after Holden decision to cease manufacturing in 2017 and Roy Morgan Government Confidence lowest since Federal Election |date=16 December 2013 |accessdate=13 January 2014 |work=Roy Morgan Research}}</ref>
+| 40.5%
+| 38.5%
+| 10%
+| 11%
+| 47.5%
+| style="background:#f66;" | '''52.5%'''
+|-
+! 15 Dec 2013
+| style="text-align:left;" | ReachTEL
+| 41.4%
+| 40.4%
+| 8.7%
+| 9.5%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 6–8 Dec 2013
+| style="text-align:left;" | Newspoll
+| 40%
+| 38%
+| 11%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 28 Nov–2 Dec 2013
+| style="text-align:left;" | Essential<ref name=Ess2Dec13>{{cite web |url=http://essentialvision.com.au/documents/essential_report_131203.pdf|title=The Essential Report |date=3 December 2013 |accessdate=4 December 2013 |work=Essential Research}}</ref>
+| 44%
+| 36%
+| 8%
+| 11%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 30 Nov–1 Dec 2013
+| style="text-align:left;" | Morgan (multi)<ref name=Mrg1Dec13>{{cite web |url=http://www.roymorgan.com/findings/5329-federal-voting-intention-december-2-2013-201312020313|title=ALP (51.5%) gain lead over L-NP (48.5%) after Gonski 'backflip' |date=2 December 2013 |accessdate=2 December 2013 |work=Roy Morgan Research}}</ref>
+| 41.5%
+| 38.5%
+| 8.5%
+| 12.5%
+| 48.5%
+| style="background:#f66;" | '''51.5%'''
+|-
+! 22–24 Nov 2013
+| style="text-align:left;" | Newspoll
+| 43%
+| 35%
+| 10%
+| 12%
+| style="background:#00bfff;" | '''52%'''
+| 48%
+|-
+! 21–23 Nov 2013
+| style="text-align:left;" | Nielsen<ref name=Nlsn25Nov13>{{cite web |url=http://www.theage.com.au/federal-politics/political-news/labor-storms-ahead-20131124-2y43r.html|title=Labor storms ahead |date=25 November 2013 |accessdate=25 November 2013 |work=The Age}}</ref>
+| 41%
+| 37%
+| 11%
+| 11%
+| 48%
+| style="background:#f66;" | '''52%'''
+|-
+! 8–10 Nov 2013
+| style="text-align:left;" | Newspoll
+| 45%
+| 32%
+| 12%
+| 11%
+| style="background:#00bfff;" | '''53%'''
+| 47%
+|-
+! 25–27 Oct 2013
+| style="text-align:left;" | Newspoll
+| 47%
+| 31%
+| 10%
+| 12%
+| style="background:#00bfff;" | '''56%'''
+| 44%
+|-
+! 19–20 Oct 2013
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/5254-morgan-poll-federal-voting-intention-october-21-2013-201310210405|title=L-NP (51.5%) regains lead over ALP (48.5%) after Bill Shorten elected as new ALP Leader|date=21 October 2013|accessdate=12 August 2015}}</ref>
+| 43.5%
+| 34.5%
+| 10%
+| 12%
+| style="background:#00bfff;" | '''51.5%'''
+| 48.5%
+|-
+|style="background:#DADADA;"|'''13 Oct 2013'''
+| style="background:#DADADA;" colspan="7" | '''Shorten replaces Rudd as Labor leader'''
+|-
+! 21–22 Sep 2013
+| style="text-align:left;" | Morgan<ref>{{cite web|url=http://www.roymorgan.com/findings/5200-morgan-poll-september-24-2013-201309240354|title=First Morgan Poll since Election: Major parties close on two-party preferred, Albanese (41%) cf. Shorten (23%) clearly preferred as next Labor Leader|date=24 September 2013|accessdate=12 August 2015|publisher=Roy Morgan}}</ref>
+| 43.5%
+| 34%
+| 10.5%
+| 12%
+| style="background:#00bfff;" | '''50.5%'''
+| 49.5%
+|-
+! 19–22 Sep 2013
+| style="text-align:left;" | Essential<ref name=Essential23Sep13>{{cite web|url=http://blogs.crikey.com.au/pollbludger/files/2013/09/Essential-Report_130923.pdf|title=The Essential Report|date=23 September 2013|publisher=Essential Vision}}</ref>
+| 43%
+| 37%
+| 9%
+| 11%
+| style="background:#00bfff;" | '''51%'''
+| 49%
+|-
+! 12–15 Sep 2013
+| style="text-align:left;" | Essential<ref name=Essential23Sep13/>
+| 44%
+| 36%
+| 9%
+| 11%
+| style="background:#00bfff;" | '''53%'''
+| 47%
+|-
+! style="background:#b0e9db;"|7 Sep 2013
+! style="text-align:left; background:#b0e9db;"|'''[[Australian federal election, 2013|2013 election]]'''
+| style="background:#b0e9db;"|45.6%
+| style="background:#b0e9db;"|33.4%
+| style="background:#b0e9db;"|8.7%
+| style="background:#b0e9db;"|12.3%
+| style="background:#00bfff;"|'''53.5%'''
+| style="background:#b0e9db;"|46.5%
+|-
+! 4–6 Sep 2013
+| style="text-align:left;" | Morgan (multi)
+| 45%
+| 31.5%
+| 9.5%
+| 14%
+| style="background:#00bfff;" | '''54.5%''' <!-- Morgan reports a TPP based on survey responses and flow at the previous election. The latter is used here because it is the method used by all other polling firms. -->
+| 44.5%
+|-
+! 5 Sep 2013
+| style="text-align:left;" | ReachTEL<ref name=5Sep13>{{cite web |url=http://www.reachtel.com.au/blog/7-news-national-poll-5september13 |title=7 News National Poll |date=6 September 2013 |publisher=ReachTEL |accessdate=6 September 2013}}</ref>
+| 43.5%
+| 33.7%
+| 10.2%
+| 12.6%
+| style="background:#00bfff;" | '''53%'''
+| 47%
+|-
+! 3–5 Sep 2013
+| style="text-align:left;" | Newspoll
+| 46%
+| 33%
+| 9%
+| 12%
+| style="background:#00bfff;" | '''54%'''
+| 46%
+|-
+|}
+
+==Preferred prime minister and satisfaction polling==
+{| class="toccolours" cellpadding="5" cellspacing="0" style="text-align:center; margin:.4em; font-size:90%;"
+|-
+|+
+|-
+! Date
+! Firm
+! colspan="2" |Preferred prime minister
+!
+! Satisfied
+! Dissatisfied
+! Satisfied
+! Dissatisfied
+|-
+!
+!
+! Turnbull
+! Shorten
+!
+! colspan="2" |Turnbull
+! colspan="2" |Shorten
+|-
+! 19 May 2016
+| style="text-align:left;" | ReachTEL<ref name=reachtel19may2016/>
+| style="background:#00bfff;" |'''55.6%'''
+| 44.4%
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 17–19 May 2016
+| style="text-align:left;" | Ipsos<ref name=IpsosMay2016/>
+| style="background:#00bfff;" |'''47%'''
+| 30%
+|
+| style="background:#00bfff;"|48%
+| style="background:#00bfff;"|38%
+| style="background:#f66;"|40%
+| style="background:#f66;"|46%
+|-
+! May 2016
+| style="text-align:left;" | Essential<ref name=essential17may16/>
+| style="background:#00bfff;" |'''43%'''
+| 28%
+|
+| style="background:#00bfff;"|40%
+| style="background:#00bfff;"|42%
+| style="background:#f66;"|34%
+| style="background:#f66;"|43%
+|-
+! 5–8 May 2016
+| style="text-align:left;" | Newspoll<ref name=bludger8may16/>
+| style="background:#00bfff;" |'''49%'''
+| 27%
+|
+| style="background:#00bfff;"|38%
+| style="background:#00bfff;"|49%
+| style="background:#f66;"|33%
+| style="background:#f66;"|52%
+|-
+! 5–7 May 2016
+| style="text-align:left;" | Ipsos<ref name=bludger8may16/>
+| style="background:#00bfff;" |'''51%'''
+| 29%
+|
+| style="background:#00bfff;"|48%
+| style="background:#00bfff;"|40%
+| style="background:#f66;"|38%
+| style="background:#f66;"|49%
+|-
+! 5 May 2016
+| style="text-align:left;" | ReachTEL<ref name=reachtel5may2016/>
+| style="background:#00bfff;" |'''57.7%'''
+| 42.3%
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 4-5 May 2016
+| style="text-align:left;" | Morgan
+| style="background:#00bfff;" |'''57%'''
+| 24%
+|
+| style="background:#00bfff;"|43%
+| style="background:#00bfff;"|41%
+| style="background:#f66;"|34%
+| style="background:#f66;"|49%
+|-
+! 14–17 Apr 2016
+| style="text-align:left;" | Newspoll<ref name=np18apr16/>
+| style="background:#00bfff;" |'''47%'''
+| 28%
+|
+| style="background:#00bfff;"|36%
+| style="background:#00bfff;"|49%
+| style="background:#f66;"|31%
+| style="background:#f66;"|52%
+|-
+! 14–16 Apr 2016
+| style="text-align:left;" | Ipsos<ref name=IpsosApril2016/>
+| style="background:#00bfff;" |'''54%'''
+| 27%
+|
+| style="background:#00bfff;"|51%
+| style="background:#00bfff;"|38%
+| style="background:#f66;"|33%
+| style="background:#f66;"|55%
+|-
+! 14 Apr 2016
+| style="text-align:left;" | ReachTEL<ref name=reachtel14apr16/>
+| style="background:#00bfff;" |'''58.4%'''
+| 41.6%
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! Apr 2016
+| style="text-align:left;" | Essential<ref name=essential12apr16/>
+| style="background:#00bfff;" |'''44%'''
+| 22%
+|
+| style="background:#00bfff;"|39%
+| style="background:#00bfff;"|39%
+| style="background:#f66;"|30%
+| style="background:#f66;"|44%
+|-
+! 31 Mar–3 Apr 2016
+| style="text-align:left;" | Newspoll<ref name=np4apr16/>
+| style="background:#00bfff;" |'''48%'''
+| 27%
+|
+| style="background:#00bfff;"|38%
+| style="background:#00bfff;"|48%
+| style="background:#f66;"|32%
+| style="background:#f66;"|53%
+|-
+! Mar 2016
+| style="text-align:left;" | Essential<ref name=essential12apr16/>
+| style="background:#00bfff;" |'''48%'''
+| 19%
+|
+| style="background:#00bfff;"|45%
+| style="background:#00bfff;"|35%
+| style="background:#f66;"|27%
+| style="background:#f66;"|47%
+|-
+! 21 Mar 2016
+| style="text-align:left;" | ReachTEL<ref name=reachtel5may2016/>
+| style="background:#00bfff;" |'''60.0%'''
+| 40.0%
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 10–12 Mar 2016
+| style="text-align:left;" | Ipsos<ref name=Ipsos12March/>
+| style="background:#00bfff;" |'''61%'''
+| 24%
+|
+| style="background:#00bfff;"|55%
+| style="background:#00bfff;"|32%
+| style="background:#f66;"|33%
+| style="background:#f66;"|52%
+|-
+! 3–6 Mar 2016
+| style="text-align:left;" | Newspoll<ref name=np6mar16/>
+| style="background:#00bfff;" |'''55%'''
+| 21%
+|
+| style="background:#00bfff;"|44%
+| style="background:#00bfff;"|41%
+| style="background:#f66;"|30%
+| style="background:#f66;"|55%
+|-
+! Feb 2016
+| style="text-align:left;" | Essential<ref name=Essential7Feb16 />
+| style="background:#00bfff;" |'''52%'''
+| 15%
+|
+| style="background:#00bfff;"|51%
+| style="background:#00bfff;"|27%
+| style="background:#f66;" |27%
+| style="background:#f66;"|48%
+|-
+! 18–21 Feb 2016
+| style="text-align:left;" | Newspoll<ref name=np1821feb16/>
+| style="background:#00bfff;" |'''55%'''
+| 21%
+|
+| style="background:#00bfff;"|48%
+| style="background:#00bfff;"|38%
+| style="background:#f66;"|28%
+| style="background:#f66;"|57%
+|-
+! 11–13 Feb 2016
+| style="text-align:left;" | Ipsos<ref name=ipsos15feb16/>
+| style="background:#00bfff;" |'''64%'''
+| 19%
+|
+| style="background:#00bfff;"|62%
+| style="background:#00bfff;"|24%
+| style="background:#f66;"|30%
+| style="background:#f66;"|55%
+|-
+! 11 Feb 2016
+| style="text-align:left;" | ReachTEL<ref name=ReachTel11Feb16 />
+| style="background:#00bfff;" |'''74.9%'''
+| 25.1%
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;" |
+| style="background:#f66;"| 
+|-
+! Jan 2016
+| style="text-align:left;" | Essential<ref name=Essential7Feb16 />
+| style="background:#00bfff;" |'''51%'''
+| 18%
+|
+| style="background:#00bfff;"|51%
+| style="background:#00bfff;"|25%
+| style="background:#f66;" |27%
+| style="background:#f66;"|47%
+|-
+! 28–31 Jan 2016
+| style="text-align:left;" | Newspoll<ref name=newspoll010216/>
+| style="background:#00bfff;" |'''59%'''
+| 20%
+|
+| style="background:#00bfff;"| 53%
+| style="background:#00bfff;"| 31%
+| style="background:#f66;" | 25%
+| style="background:#f66;"| 60%
+|-
+! Dec 2015
+| style="text-align:left;" | Essential<ref name=Essential7Feb16 />
+| style="background:#00bfff;" |'''54%'''
+| 15%
+|
+| style="background:#00bfff;"|56%
+| style="background:#00bfff;"|23%
+| style="background:#f66;" |27%
+| style="background:#f66;"|47%
+|-
+! 4–6 Dec 2015
+| style="text-align:left;" | Newspoll<ref name=newspoll4dec15 />
+| style="background:#00bfff;" |'''60%'''
+| 14%
+|
+| style="background:#00bfff;"| 52%
+| style="background:#00bfff;"| 30%
+| style="background:#f66;" | 23%
+| style="background:#f66;"| 61%
+|-
+! Nov 2015
+| style="text-align:left;" | Essential<ref>{{cite web|url=http://essentialvision.com.au/documents/essential_report_151110.pdf|date=10 November 2015|publisher=Essential}}</ref>
+| style="background:#00bfff;" |'''55%'''
+| 14%
+|
+| style="background:#00bfff;"| 56%
+| style="background:#00bfff;"| 20%
+| style="background:#f66;" | 27%
+| style="background:#f66;"| 47%
+|-
+! 26 Nov 2015
+| style="text-align:left;" | ReachTEL<ref name=ReachTEL20151126 />
+| style="background:#00bfff;" |'''71.4%'''
+| 28.6%
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;" |
+| style="background:#f66;"| 
+|-
+! 19–22 Nov 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll22Nov15 />
+| style="background:#00bfff;" |'''64%'''
+| 15%
+|
+| style="background:#00bfff;"| 60%
+| style="background:#00bfff;"| 22%
+| style="background:#f66;" | 26%
+| style="background:#f66;"| 57%
+|-
+! 12–14 Nov 2015
+| style="text-align:left;" | Ipsos<ref name="ReferenceC"/>
+| style="background:#00bfff;" |'''69%'''
+| 18%
+|
+| style="background:#00bfff;"| 69%
+| style="background:#00bfff;"| 16%
+| style="background:#f66;" | 29%
+| style="background:#f66;"| 57%
+|-
+! 6–8 Nov 2015
+| style="text-align:left;" | Newspoll<ref name="The Australian"/>
+| style="background:#00bfff;" |'''55%'''
+| 14%
+|
+| style="background:#00bfff;"| 56%
+| style="background:#00bfff;"| 20%
+| style="background:#f66;" | 27%
+| style="background:#f66;"| 47%
+|-
+! Oct 2015
+| style="text-align:left;" | Essential
+| style="background:#00bfff;" |'''48%'''
+| 19%
+|
+| style="background:#00bfff;"| 47%
+| style="background:#00bfff;"| 17%
+| style="background:#f66;" | 30%
+| style="background:#f66;"| 42%
+|-
+! 23–25 Oct 2015
+| style="text-align:left;" | Newspoll<ref>{{cite web|title=Newspoll: True measure of Labor's fall as Coalition surges on PM’s gains|url=http://www.theaustralian.com.au/archive/national-affairs/newspoll-true-measure-of-labors-fall-as-coalition-surges-on-pms-gains/story-fnc6vkbc-1227583198842|website=The Australian|publisher=The Australian|accessdate=26 October 2015}}</ref>
+| style="background:#00bfff;" |'''63%'''
+| 17%
+|
+| style="background:#00bfff;"| 58%
+| style="background:#00bfff;"| 23%
+| style="background:#f66;" | 26%
+| style="background:#f66;"| 58%
+|-
+! 20–22 Oct 2015
+| style="text-align:left;" | Morgan<ref>{{cite web|title=Turnbull (76%) clearly preferred Australian PM cf. Shorten 'Mr. 14%'. December 1988: Hawke 69% cf. Howard 'Mr. 18%'.|url=http://www.roymorgan.com/findings/6518-better-prime-minister-turnbull-shorten-october-2015-201510230321?utm_medium=email&utm_campaign=Morgan+Poll+20151023&utm_content=Morgan+Poll+20151023+CID_1b3920127c724adcd618e26b30f52f6b&utm_source=Market%20Research%20Update&utm_term=Turnbull%2076%20clearly%20preferred%20Australian%20PM%20cf%20Shorten%20Mr%2014%20December%201988%20Hawke%2069%20cf%20Howard%20Mr%2018|website=Roy Morgan Research|publisher=Roy Morgan Research|accessdate=23 October 2015}}</ref>
+| style="background:#00bfff;" |'''76%'''
+| 14%
+|
+| style="background:#00bfff;"| 66%
+| style="background:#00bfff;"| 18%
+| style="background:#f66;" | 25%
+| style="background:#f66;"| 62%
+|-
+! 15–17 Oct 2015
+| style="text-align:left;" | Ipsos<ref name="The Sydney Morning Herald"/>
+| style="background:#00bfff;" |'''67%'''
+| 21%
+|
+| style="background:#00bfff;"| 68%
+| style="background:#00bfff;"| 17%
+| style="background:#f66;" | 32%
+| style="background:#f66;"| 56%
+|-
+! 9–11 Oct 2015
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''57%'''
+| 19%
+|
+| style="background:#00bfff;"| 50%
+| style="background:#00bfff;"| 25%
+| style="background:#f66;" | 28%
+| style="background:#f66;"| 53%
+|-
+! Sep 2015
+| style="text-align:left;" | Essential
+| style="background:#00bfff;" |'''53%'''
+| 17%
+|
+| style="background:#00bfff;"| N/A
+| style="background:#00bfff;"| N/A
+| style="background:#f66;" | 29%
+| style="background:#f66;"| 50%
+|-
+! 17–20 Sep 2015
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''55%'''
+| 21%
+|
+| style="background:#00bfff;"| 42%
+| style="background:#00bfff;"| 24%
+| style="background:#f66;" | 29%
+| style="background:#f66;"| 54%
+|-
+! 15–16 Sep 2015
+| style="text-align:left;" | Galaxy<ref name=Galaxy18Sep15 />
+| style="background:#00bfff;" |'''51%'''
+| 20%
+|
+| style="background:#00bfff;"| 
+| style="background:#00bfff;"| 
+| style="background:#f66;" |
+| style="background:#f66;"|
+|-
+! 15 Sep 2015
+| style="text-align:left;" | ReachTEL<ref name=Turnbull/>
+| style="background:#00bfff;" |'''61.9%'''
+| 38.1%
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;" |
+| style="background:#f66;"|
+|-
+! 15 Sep 2015
+| style="text-align:left;" | Morgan
+| style="background:#00bfff;" |'''70%'''
+| 24%
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+!
+!
+! Abbott
+! Shorten
+!
+! colspan="2"| Abbott
+! colspan="2"| Shorten
+|-
+! 4–6 Sep 2015
+| style="text-align:left;" | Newspoll
+|37%
+| style="background:#f66;" |'''41%'''
+|
+| style="background:#00bfff;"|30%
+| style="background:#00bfff;"|63%
+| style="background:#f66;"|30%
+| style="background:#f66;"|58%
+|-
+! 27 Aug 2015
+| style="text-align:left;" | ReachTEL<ref name=ReachTEL27Aug />
+| 42.1%
+| style="background:#f66;" |'''57.9%'''
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 20–23 Aug 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll23August15 />
+|35%
+| style="background:#f66;" |'''40%'''
+|
+| style="background:#00bfff;"|30%
+| style="background:#00bfff;"|63%
+| style="background:#f66;"|34%
+| style="background:#f66;"|52%
+|-
+! 13–15 Aug 2015
+| style="text-align:left;" | Ipsos
+|39%
+| style="background:#f66;" |'''45%'''
+|
+| style="background:#00bfff;"|35%
+| style="background:#00bfff;"|59%
+| style="background:#f66;"|39%
+| style="background:#f66;"|49%
+|-
+! 11 Aug 2015
+| style="text-align:left;" | Essential
+| style="background:#00bfff;" |'''36%'''
+| 32%
+|
+| style="background:#00bfff;"|38%
+| style="background:#00bfff;"|53%
+| style="background:#f66;"|29%
+| style="background:#f66;"|52%
+|-
+! 9 Aug 2015
+| style="text-align:left;" | Newspoll
+| '''39%'''
+| '''39%'''
+|
+| style="background:#00bfff;"|33%
+| style="background:#00bfff;"|61%
+| style="background:#f66;"|29%
+| style="background:#f66;"|57%
+|-
+! 6 Aug 2015
+| style="text-align:left;" | ReachTEL
+| 41.5%
+| style="background:#f66;" |'''58.5%'''
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 31 Jul 2015
+| style="text-align:left;" | ReachTEL
+| 44.9%
+| style="background:#f66;" |'''55.1%'''
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 16–19 Jul 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll19Jul />
+| style="background:#00bfff;" |'''39%'''
+| 36%
+|
+| style="background:#00bfff;"|33%
+| style="background:#00bfff;"|60%
+| style="background:#f66;"|27%
+| style="background:#f66;"|59%
+|-
+! 7 Jul 2015
+| style="text-align:left;" | Essential
+| style="background:#00bfff;" |'''37%'''
+| 30%
+|
+| style="background:#00bfff;"|37%
+| style="background:#00bfff;"|53%
+| style="background:#f66;"|27%
+| style="background:#f66;"|52%
+|-
+! 6 Jul 2015
+| style="text-align:left;" | Newspoll
+| '''39%'''
+| '''39%'''
+|
+| style="background:#00bfff;"|33%
+| style="background:#00bfff;"|60%
+| style="background:#f66;"|28%
+| style="background:#f66;"|56%
+|-
+! 11–13 Jun 2015
+| style="text-align:left;" | Newspoll<ref name="NewspollJune15" />
+| style="background:#00bfff;" |'''41%'''
+| 38%
+|
+| style="background:#00bfff;"|34%
+| style="background:#00bfff;"|56%
+| style="background:#f66;"|28%
+| style="background:#f66;"|54%
+|-
+! 11–13 Jun 2015
+| style="text-align:left;" | Ipsos<ref name="smh.com.au"/>
+| 41%
+| style="background:#f66;"| '''42%'''
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 2 Jun 2015
+| style="text-align:left;" | Essential
+| style="background:#00bfff;" |'''38%'''
+| 33%
+|
+| style="background:#00bfff;"|39%
+| style="background:#00bfff;"|50%
+| style="background:#f66;"|32%
+| style="background:#f66;"|45%
+|-
+! 2 Jun 2015
+| style="text-align:left;" | Newspoll<ref name="theaustralian.com.au"/>
+| style="background:#00bfff;" |'''41%'''
+| 37%
+|
+| style="background:#00bfff;"|38%
+| style="background:#00bfff;"|53%
+| style="background:#f66;"|32%
+| style="background:#f66;"|50%
+|-
+! 17 May 2015
+| style="text-align:left;" | Ipsos<ref name="theage.com.au"/>
+| style="background:#00bfff;" |'''44%'''
+| 39%
+|
+| style="background:#00bfff;"|42%
+| style="background:#00bfff;"|50%
+| style="background:#f66;"|41%
+| style="background:#f66;"|45%
+|-
+! 17 May 2015
+| style="text-align:left;" | Newspoll<ref name="ReferenceA"/>
+| style="background:#00bfff;" |'''41%'''
+| 40%
+|
+| style="background:#00bfff;"|39%
+| style="background:#00bfff;"|52%
+| style="background:#f66;"|35%
+| style="background:#f66;"|46%
+|-
+! 12 Apr 2015
+| style="text-align:left;" | Essential
+| style="background:#00bfff;" |'''35%'''
+| 32%
+|
+| style="background:#00bfff;"|36%
+| style="background:#00bfff;"|54%
+| style="background:#f66;"|32%
+| style="background:#f66;"|41%
+|-
+! 5 Apr 2015
+| style="text-align:left;" | Newspoll<ref name="ReferenceB"/>
+| '''38%'''
+| '''38%'''
+|
+| style="background:#00bfff;"|37%
+| style="background:#00bfff;"|56%
+| style="background:#f66;"|34%
+| style="background:#f66;"|50%
+|-
+! 27 Apr 2015
+| style="text-align:left;" | Morgan
+| style="background:#00bfff;" |'''44%'''
+| 39%
+|
+| style="background:#00bfff;"|37%
+| style="background:#00bfff;"|53%
+| style="background:#f66;"|34%
+| style="background:#f66;"|48%
+|-
+! 14 Apr 2015
+| style="text-align:left;" | Essential
+| 33%
+| style="background:#f66;" |'''35%'''
+|
+| style="background:#00bfff;"|33%
+| style="background:#00bfff;"|58%
+| style="background:#f66;"|33%
+| style="background:#f66;"|42%
+|-
+! 10–12 Apr 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll13Apr2015 />
+| 40%
+| style="background:#f66;" |'''41%'''
+|
+| style="background:#00bfff;"|33%
+| style="background:#00bfff;"|59%
+| style="background:#f66;"|33%
+| style="background:#f66;"|51%
+|-
+! 9–11 Apr 2015
+| style="text-align:left;" | Ipsos<ref name=Ipsos13Apr2015 />
+| 38%
+| style="background:#f66;" |'''46%'''
+|
+| style="background:#00bfff;"|34%
+| style="background:#00bfff;"|60%
+| style="background:#f66;"|42%
+| style="background:#f66;"|44%
+|-
+! 20–22 Mar 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll22March15 />
+| 36%
+| style="background:#f66;" |'''41%'''
+|
+| style="background:#00bfff;"|29%
+| style="background:#00bfff;"|61%
+| style="background:#f66;"|36%
+| style="background:#f66;"|47%
+|-
+! 7–8 Mar 2015
+| style="text-align:left;" | Newspoll<ref name=Newspoll8Mar />
+| 33%
+| style="background:#f66;" |'''44%'''
+|
+| style="background:#00bfff;"|28%
+| style="background:#00bfff;"|63%
+| style="background:#f66;"|39%
+| style="background:#f66;"|42%
+|-
+! 26–28 Feb 2015
+| style="text-align:left;" | Ipsos
+| 39%
+| style="background:#f66;" |'''44%'''
+|
+| style="background:#00bfff;"|32%
+| style="background:#00bfff;"|62%
+| style="background:#f66;"|43%
+| style="background:#f66;"|43%
+|-
+! 20–22 Feb 2015
+| style="text-align:left;" | Newspoll
+| 35%
+| style="background:#f66;" |'''43%'''
+|
+| style="background:#00bfff;"|25%
+| style="background:#00bfff;"|68%
+| style="background:#f66;"|35%
+| style="background:#f66;"|49%
+|-
+! 6–8 Feb 2015
+| style="text-align:left;" | Newspoll
+| 30%
+| style="background:#f66;" |'''48%'''
+|
+| style="background:#00bfff;"|24%
+| style="background:#00bfff;"|68%
+| style="background:#f66;"|42%
+| style="background:#f66;"|40%
+|-
+! 1 Feb 2015
+| style="text-align:left;" | Galaxy
+| 27%
+| style="background:#f66;" |'''44%'''
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 28–30 Jan 2015
+| style="text-align:left;" | Galaxy
+| 27%
+| style="background:#f66;" |'''44%'''
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 14 Jan 2015
+| style="text-align:left;" | Morgan
+| 41%
+| style="background:#f66;" |'''43%'''
+|
+| style="background:#00bfff;"|37%
+| style="background:#00bfff;"|52%
+| style="background:#f66;"|37%
+| style="background:#f66;"|40%
+|-
+! 13 Jan 2015
+| style="text-align:left;" | Essential
+| 35%
+| style="background:#f66;" |'''37%'''
+|
+| style="background:#00bfff;"|37%
+| style="background:#00bfff;"|53%
+| style="background:#f66;"|39%
+| style="background:#f66;"|33%
+|-
+! 28–30 Nov 2014
+| style="text-align:left;" | Newspoll
+| 37%
+| style="background:#f66;" |'''44%'''
+|
+| style="background:#00bfff;"|33%
+| style="background:#00bfff;"|58%
+| style="background:#f66;"|37%
+| style="background:#f66;"|43%
+|-
+! 4–6 Dec 2014
+| style="text-align:left;" | Ipsos
+| 39%
+| style="background:#f66;" |'''47%'''
+|
+| style="background:#00bfff;"|
+| style="background:#00bfff;"|
+| style="background:#f66;"|
+| style="background:#f66;"|
+|-
+! 28–30 Nov 2014
+| style="text-align:left;" | Newspoll
+| 36%
+| style="background:#f66;" |'''43%'''
+|
+| style="background:#00bfff;"|33%
+| style="background:#00bfff;"|57%
+| style="background:#f66;"|39%
+| style="background:#f66;"|43%
+|-
+! 18 Nov 2014
+| style="text-align:left;" | Newspoll
+| 37%
+| style="background:#f66;" |'''43%'''
+|
+| style="background:#00bfff;"|36%
+| style="background:#00bfff;"|55%
+| style="background:#f66;"|39%
+| style="background:#f66;"|41%
+|-
+! 11 Nov 2014
+| style="text-align:left;" | Essential 
+| style="background:#00bfff;" |'''36%'''
+| 34%
+|
+| style="background:#00bfff;"|39%
+| style="background:#00bfff;"|50%
+| style="background:#f66;"|37%
+| style="background:#f66;"|38%
+|-
+
+! 4 Nov 2014
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''39%'''
+| 38%
+|
+| style="background:#00bfff;"|37%
+| style="background:#00bfff;"|52%
+| style="background:#f66;"|37%
+| style="background:#f66;"|45%
+|-
+! 30 Oct-1 Nov 2014
+| style="text-align:left;" | Ipsos
+| '''41%'''
+| '''41%'''
+|
+| style="background:#00bfff;"|42%
+| style="background:#00bfff;"|49%
+| style="background:#f66;"|43%
+| style="background:#f66;"|40%
+|-
+! 21 Oct 2014
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''39%'''
+| 38%
+|
+| style="background:#00bfff;"|38%
+| style="background:#00bfff;"|53%
+| style="background:#f66;"|35%
+| style="background:#f66;"|46%
+|-
+! 14 Oct 2014
+| style="text-align:left;" | Essential
+| style="background:#00bfff;" |'''38%'''
+| 32%
+|
+| style="background:#00bfff;"|40%
+| style="background:#00bfff;"|48%
+| style="background:#f66;"|35%
+| style="background:#f66;"|36%
+|-
+! 23 Sep 2014
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''41%'''
+| 37%
+|
+| style="background:#00bfff;"|41%
+| style="background:#00bfff;"|52%
+| style="background:#f66;"|38%
+| style="background:#f66;"|43%
+|-
+! 5–7 Sep 2014
+| style="text-align:left;" | Newspoll
+| '''37%'''
+| '''37%'''
+|
+| style="background:#00bfff;"|35%
+| style="background:#00bfff;"|54%
+| style="background:#f66;"|36%
+| style="background:#f66;"|43%
+|-
+! 22–24 Aug 2014
+| style="text-align:left;" | Newspoll
+| 39%
+| style="background:#f66;"|'''40%'''
+|
+| style="background:#00bfff;"|36%
+| style="background:#00bfff;"|55%
+| style="background:#f66;"|40%
+| style="background:#f66;"|39%
+|-
+! 8–10 Aug 2014
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;"|'''41%'''
+| 37%
+|
+| style="background:#00bfff;"|36%
+| style="background:#00bfff;"|54%
+| style="background:#f66;"|36%
+| style="background:#f66;"|44%
+|-
+! 25–27 Jul 2014
+| style="text-align:left;" | Newspoll
+| '''38%'''
+| '''38%'''
+|
+| style="background:#00bfff;"|36%
+| style="background:#00bfff;"|53%
+| style="background:#f66;"|38%
+| style="background:#f66;"|41%
+|-
+! 11–13 Jul 2014
+| style="text-align:left;" | Newspoll
+| 36%
+| style="background:#f66;"|'''41%'''
+|
+| style="background:#00bfff;"|31%
+| style="background:#00bfff;"|60%
+| style="background:#f66;"|34%
+| style="background:#f66;"|43%
+|-
+! 27–29 Jun 2014
+| style="text-align:left;" | Newspoll
+| 34%
+| style="background:#f66;"|'''44%'''
+|
+| style="background:#00bfff;"|31%
+| style="background:#00bfff;"|62%
+| style="background:#f66;"|34%
+| style="background:#f66;"|41%
+|-
+! 13–15 Jun 2014
+| style="text-align:left;" | Newspoll
+| 37%
+| style="background:#f66;"|'''40%'''
+|
+| style="background:#00bfff;"|30%
+| style="background:#00bfff;"|61%
+| style="background:#f66;"|34%
+| style="background:#f66;"|45%
+|-
+! 30 May – 1 Jun 2014
+| style="text-align:left;" | Newspoll
+| 35%
+| style="background:#f66;"|'''45%'''
+|
+| style="background:#00bfff;"|33%
+| style="background:#00bfff;"|59%
+| style="background:#f66;"|38%
+| style="background:#f66;"|43%
+|-
+! 16–18 May 2014
+| style="text-align:left;" | Newspoll
+| 34%
+| style="background:#f66;"|'''44%'''
+|
+| style="background:#00bfff;"|30%
+| style="background:#00bfff;"|60%
+| style="background:#f66;"|42%
+| style="background:#f66;"|39%
+|-
+! 15–17 May 2014
+| style="text-align:left;" | Nielsen
+| 40%
+| style="background:#f66;"|'''51%'''
+|
+| style="background:#00bfff;"|34%
+| style="background:#00bfff;"|62%
+| style="background:#f66;"|47%
+| style="background:#f66;"|39%
+|-
+! 2–4 May 2014
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''40%'''
+| 38%
+|
+| style="background:#00bfff;"|35%
+| style="background:#00bfff;"|56%
+| style="background:#f66;"|35%
+| style="background:#f66;"|41%
+|-
+! 13 Apr 2014
+| style="text-align:left;" | Nielsen
+| style="background:#00bfff;" |'''45%'''
+| 44%
+|
+| style="background:#00bfff;"|43%
+| style="background:#00bfff;"|50%
+| style="background:#f66;"|43%
+| style="background:#f66;"|41%
+|-
+! 8 Apr 2014
+| style="text-align:left;" | Essential
+| style="background:#00bfff;" |'''42%'''
+| 32%
+|
+| style="background:#00bfff;"|41%
+| style="background:#00bfff;"|47%
+| style="background:#f66;"|34%
+| style="background:#f66;"|38%
+|-
+! 4–6 Apr 2014
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''41%'''
+| 33%
+|
+| style="background:#00bfff;"|40%
+| style="background:#00bfff;"|47%
+| style="background:#f66;"|31%
+| style="background:#f66;"|42%
+|-
+! 21–23 Mar 2014
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''43%'''
+| 36%
+|
+| style="background:#00bfff;"|40%
+| style="background:#00bfff;"|50%
+| style="background:#f66;"|36%
+| style="background:#f66;"|43%
+|-
+! 13–15 Mar 2014
+| style="text-align:left;" | Nielsen
+| style="background:#00bfff;" |'''48%'''
+| 43%
+|
+| style="background:#00bfff;"|45%
+| style="background:#00bfff;"|49%
+| style="background:#f66;"|42%
+| style="background:#f66;"|42%
+|-
+! 7–9 Mar 2014
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''42%'''
+| 36%
+|
+| style="background:#00bfff;"|38%
+| style="background:#00bfff;"|50%
+| style="background:#f66;"|33%
+| style="background:#f66;"|43%
+|-
+! 21–23 Feb 2014
+| style="text-align:left;" | Newspoll<ref name=Newspoll24Feb />
+| style="background:#00bfff;" |'''38%'''
+| 37%
+|
+| style="background:#00bfff;"|36%
+| style="background:#00bfff;"|52%
+| style="background:#f66;"|35%
+| style="background:#f66;"|39%
+|-
+! 15 Feb 2014
+| style="text-align:left;" | Nielsen<ref name=Newspoll24Feb />
+| style="background:#00bfff;" |'''49%'''
+| 39%
+|
+| style="background:#00bfff;"|45%
+| style="background:#00bfff;"|47%
+| style="background:#f66;"|40%
+| style="background:#f66;"|40%
+|-
+! 7–9 Feb 2014
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''41%'''
+| 33%
+|
+| style="background:#00bfff;"|40%
+| style="background:#00bfff;"|45%
+| style="background:#f66;"|35%
+| style="background:#f66;"|35%
+|-
+! 6–8 Dec 2013
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''41%'''
+| 34%
+|
+| style="background:#00bfff;"|40%
+| style="background:#00bfff;"|45%
+| style="background:#f66;"|44%
+| style="background:#f66;"|27%
+|-
+! 22–24 Nov 2013
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''44%'''
+| 33%
+|
+| style="background:#00bfff;"|42%
+| style="background:#00bfff;"|42%
+| style="background:#f66;"|39%
+| style="background:#f66;"|27%
+|-
+! 21–23 Nov 2013
+| style="text-align:left;" | Nielsen<ref name=Nlsn25Nov13 />
+| style="background:#00bfff;" |'''49%'''
+| 41%
+|
+| style="background:#00bfff;"|47%
+| style="background:#00bfff;"|46%
+| style="background:#f66;"|51%
+| style="background:#f66;"|30%
+|-
+! 8–10 Nov 2013
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''46%'''
+| 30%
+|
+| style="background:#00bfff;"|45%
+| style="background:#00bfff;"|38%
+| style="background:#f66;"|37%
+| style="background:#f66;"|24%
+|-
+! 25–27 Oct 2013
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" |'''47%'''
+| 28%
+|
+| style="background:#00bfff;"|47%
+| style="background:#00bfff;"|34%
+| style="background:#f66;"|32%
+| style="background:#f66;"|24%
+|-
+! style="background:#b0e9db;"|'''[[Australian federal election, 2013|2013 election]]'''
+| style="background:#b0e9db;"|
+| style="background:#b0e9db;"|–
+| style="background:#b0e9db;"|–
+|
+| style="background:#b0e9db;"|–
+| style="background:#b0e9db;"|–
+| style="background:#b0e9db;"|–
+| style="background:#b0e9db;"|–
+|-
+! 3–5 Sep 2013
+| style="text-align:left;" | Newspoll
+| style="background:#00bfff;" | 45%
+|
+|
+| style="background:#00bfff;" | 44%
+| style="background:#00bfff;" | 50%
+|
+|
+|-
+| colspan="9"  style="font-size:80%; background:#cef; text-align:center;"|^ Remainder were "uncommitted" to either leader.<br />
+|}
+{{Clear}}
+
+==See also==
+*[[Mackerras pendulum for the Australian federal election, 2016]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+[[Category:Opinion polling for future elections|Australia]]
+[[Category:Opinion polling in Australia|2016]]
+[[Category:2016 elections in Australia]]

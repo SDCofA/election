@@ -1,14 +1,14 @@
 [
   {
-    "id": "us-2028-president-structural-ensemble-0.4.0-baseline_ensemble-20260809T090000Z-structural",
+    "id": "us-2028-president-structural-ensemble-0.5.0-baseline_ensemble-20260809T090000Z-structural",
     "election_id": "us-2028-president",
     "as_of": "2026-08-09T09:00:00Z",
     "published_at": "2026-08-09T09:00:00Z",
-    "model_version": "structural-ensemble-0.4.0",
+    "model_version": "structural-ensemble-0.5.0",
     "model_family": "baseline_ensemble",
     "selection_status": "baseline retained until reliable walk-forward promotion evidence",
     "simulation_count": 1000000,
-    "seed": 3014321073,
+    "seed": 959773588,
     "data_quality": "D",
     "freshness": "structural-only; no source-vintage feature snapshot",
     "missing_drivers": [
@@ -20,38 +20,38 @@
     ],
     "regional_forecast_supported": false,
     "headline": "Structural signals remain provisional; uncertainty is explicitly widened.",
-    "majority_probability": 0.995414,
-    "turnout_median": 0.6549750566482544,
+    "majority_probability": 0.995313,
+    "turnout_median": 0.6550224423408508,
     "forecast_horizon_days": 821,
     "uncertainty_scale": 1.4887374608394919,
     "effective_volatility": 0.04763959874686374,
     "outcomes": [
       {
         "contestant_id": "dem",
-        "win_probability": 0.548939,
-        "projected_share": 0.4894390106201172,
-        "share_low": 0.4136090502142906,
-        "share_high": 0.562913018465042,
-        "projected_seats": 279,
-        "seats_low": 138,
-        "seats_high": 417
+        "win_probability": 0.529898,
+        "projected_share": 0.48694494366645813,
+        "share_low": 0.4107778251171112,
+        "share_high": 0.560609459877014,
+        "projected_seats": 275,
+        "seats_low": 134,
+        "seats_high": 413
       },
       {
         "contestant_id": "gop",
-        "win_probability": 0.451061,
-        "projected_share": 0.4794943332672119,
-        "share_low": 0.4045154720544815,
-        "share_high": 0.5523275762796402,
-        "projected_seats": 259,
-        "seats_low": 121,
-        "seats_high": 400
+        "win_probability": 0.470102,
+        "projected_share": 0.481065571308136,
+        "share_low": 0.4059976890683174,
+        "share_high": 0.5541260272264481,
+        "projected_seats": 263,
+        "seats_low": 125,
+        "seats_high": 404
       },
       {
         "contestant_id": "other",
         "win_probability": 0.0,
-        "projected_share": 0.0310666523873806,
-        "share_low": 0.0028191990219056605,
-        "share_high": 0.09818285033106802,
+        "projected_share": 0.03198951855301857,
+        "share_low": 0.002823048934806138,
+        "share_high": 0.0997445460408926,
         "projected_seats": 0,
         "seats_low": 0,
         "seats_high": 1
@@ -93,60 +93,7 @@
         "confidence": 0.05
       }
     ],
-    "driver_sensitivity": [
-      {
-        "driver_key": "income",
-        "label": "Real disposable income",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.18,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.0028665000000000006,
-        "observed_incumbent_share_shift": 0.002709,
-        "positive_incumbent_share_shift": 0.006583500000000001,
-        "confidence": 0.54,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "approval",
-        "label": "Executive approval",
-        "negative_scenario": -1.0,
-        "observed_scenario": -0.11,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.00025025000000000004,
-        "observed_incumbent_share_shift": 0.002709,
-        "positive_incumbent_share_shift": 0.006399750000000001,
-        "confidence": 0.38,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "polarization",
-        "label": "Partisan alignment",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.31,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.00669025,
-        "observed_incumbent_share_shift": 0.002709,
-        "positive_incumbent_share_shift": 0.00765975,
-        "confidence": 0.82,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "polling",
-        "label": "Polling signal",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.0,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": 0.0022715,
-        "observed_incumbent_share_shift": 0.002709,
-        "positive_incumbent_share_shift": 0.0031465,
-        "confidence": 0.05,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      }
-    ],
+    "driver_sensitivity": [],
     "methodology_url": "/methodology",
     "input_revision_ids": [],
     "input_provenance": [],

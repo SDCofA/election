@@ -159,15 +159,15 @@
     ]
   },
   "forecast": {
-    "id": "de-next-bundestag-structural-ensemble-0.4.0-baseline_ensemble-20260809T090000Z-structural",
+    "id": "de-next-bundestag-structural-ensemble-0.5.0-baseline_ensemble-20260809T090000Z-structural",
     "election_id": "de-next-bundestag",
     "as_of": "2026-08-09T09:00:00Z",
     "published_at": "2026-08-09T09:00:00Z",
-    "model_version": "structural-ensemble-0.4.0",
+    "model_version": "structural-ensemble-0.5.0",
     "model_family": "baseline_ensemble",
     "selection_status": "baseline retained until reliable walk-forward promotion evidence",
     "simulation_count": 1000000,
-    "seed": 987492493,
+    "seed": 1760848138,
     "data_quality": "D",
     "freshness": "structural-only; no source-vintage feature snapshot",
     "missing_drivers": [
@@ -178,58 +178,58 @@
     ],
     "regional_forecast_supported": false,
     "headline": "Structural signals remain provisional; uncertainty is explicitly widened.",
-    "majority_probability": 0.00012,
-    "turnout_median": 0.7899916172027588,
+    "majority_probability": 0.000141,
+    "turnout_median": 0.7899744510650635,
     "forecast_horizon_days": 959,
     "uncertainty_scale": 1.5309594843726035,
     "effective_volatility": 0.0459287845311781,
     "outcomes": [
       {
         "contestant_id": "union",
-        "win_probability": 0.775399,
-        "projected_share": 0.30678337812423706,
-        "share_low": 0.2238856263458729,
-        "share_high": 0.3896398678421974,
-        "projected_seats": 194,
-        "seats_low": 141,
-        "seats_high": 247
+        "win_probability": 0.791003,
+        "projected_share": 0.30990490317344666,
+        "share_low": 0.22706420794129373,
+        "share_high": 0.3928520873188972,
+        "projected_seats": 196,
+        "seats_low": 143,
+        "seats_high": 249
       },
       {
         "contestant_id": "afd",
-        "win_probability": 0.187576,
-        "projected_share": 0.24081259965896606,
-        "share_low": 0.15927678123116493,
-        "share_high": 0.3222045391798019,
+        "win_probability": 0.174829,
+        "projected_share": 0.2398659735918045,
+        "share_low": 0.15845569968223572,
+        "share_high": 0.32129178345203396,
         "projected_seats": 152,
         "seats_low": 100,
         "seats_high": 204
       },
       {
         "contestant_id": "spd",
-        "win_probability": 0.022734,
-        "projected_share": 0.17069409787654877,
-        "share_low": 0.08910774290561677,
-        "share_high": 0.2522299915552139,
-        "projected_seats": 108,
+        "win_probability": 0.020835,
+        "projected_share": 0.17001233994960785,
+        "share_low": 0.08851550780236721,
+        "share_high": 0.2515452325344085,
+        "projected_seats": 107,
         "seats_low": 56,
-        "seats_high": 160
+        "seats_high": 159
       },
       {
         "contestant_id": "greens",
-        "win_probability": 0.007044,
-        "projected_share": 0.14078862965106964,
-        "share_low": 0.05932458397001028,
-        "share_high": 0.222167931497097,
+        "win_probability": 0.006693,
+        "projected_share": 0.1401258111000061,
+        "share_low": 0.05859001949429512,
+        "share_high": 0.2215632215142249,
         "projected_seats": 88,
         "seats_low": 37,
         "seats_high": 140
       },
       {
         "contestant_id": "left",
-        "win_probability": 0.007247,
-        "projected_share": 0.14092133939266205,
-        "share_low": 0.05939578544348479,
-        "share_high": 0.22222276255488393,
+        "win_probability": 0.00664,
+        "projected_share": 0.14009100198745728,
+        "share_low": 0.058634677156805995,
+        "share_high": 0.221556843072176,
         "projected_seats": 88,
         "seats_low": 37,
         "seats_high": 140
@@ -242,207 +242,27 @@
           "union",
           "afd"
         ],
-        "majority_probability": 0.779697,
-        "seats_median": 346,
-        "seats_low": 282,
-        "seats_high": 412
-      },
-      {
-        "member_ids": [
-          "union",
-          "spd"
-        ],
-        "majority_probability": 0.357301,
-        "seats_median": 301,
-        "seats_low": 237,
-        "seats_high": 366
-      },
-      {
-        "member_ids": [
-          "union",
-          "greens"
-        ],
-        "majority_probability": 0.19579,
-        "seats_median": 282,
-        "seats_low": 217,
-        "seats_high": 347
-      },
-      {
-        "member_ids": [
-          "union",
-          "left"
-        ],
-        "majority_probability": 0.196335,
-        "seats_median": 282,
-        "seats_low": 217,
-        "seats_high": 347
-      },
-      {
-        "member_ids": [
-          "afd",
-          "spd"
-        ],
-        "majority_probability": 0.077399,
-        "seats_median": 260,
-        "seats_low": 196,
-        "seats_high": 324
-      },
-      {
-        "member_ids": [
-          "afd",
-          "greens"
-        ],
-        "majority_probability": 0.027654,
-        "seats_median": 240,
-        "seats_low": 175,
-        "seats_high": 305
-      },
-      {
-        "member_ids": [
-          "afd",
-          "left"
-        ],
-        "majority_probability": 0.027599,
-        "seats_median": 241,
-        "seats_low": 175,
-        "seats_high": 305
-      },
-      {
-        "member_ids": [
-          "spd",
-          "greens"
-        ],
-        "majority_probability": 0.00117,
-        "seats_median": 196,
-        "seats_low": 130,
-        "seats_high": 260
-      },
-      {
-        "member_ids": [
-          "spd",
-          "left"
-        ],
-        "majority_probability": 0.00115,
-        "seats_median": 196,
-        "seats_low": 130,
-        "seats_high": 260
-      },
-      {
-        "member_ids": [
-          "greens",
-          "left"
-        ],
-        "majority_probability": 0.000161,
-        "seats_median": 177,
-        "seats_low": 109,
-        "seats_high": 241
-      },
-      {
-        "member_ids": [
-          "union",
-          "afd",
-          "spd"
-        ],
-        "majority_probability": 0.99982,
-        "seats_median": 453,
-        "seats_low": 389,
-        "seats_high": 521
-      },
-      {
-        "member_ids": [
-          "union",
-          "afd",
-          "greens"
-        ],
-        "majority_probability": 0.99876,
-        "seats_median": 434,
-        "seats_low": 370,
-        "seats_high": 500
-      },
-      {
-        "member_ids": [
-          "union",
-          "afd",
-          "left"
-        ],
-        "majority_probability": 0.998726,
-        "seats_median": 434,
-        "seats_low": 370,
-        "seats_high": 500
-      },
-      {
-        "member_ids": [
-          "union",
-          "spd",
-          "greens"
-        ],
-        "majority_probability": 0.970735,
-        "seats_median": 389,
-        "seats_low": 325,
-        "seats_high": 455
-      },
-      {
-        "member_ids": [
-          "union",
-          "spd",
-          "left"
-        ],
-        "majority_probability": 0.970729,
-        "seats_median": 390,
-        "seats_low": 325,
-        "seats_high": 455
-      },
-      {
-        "member_ids": [
-          "union",
-          "greens",
-          "left"
-        ],
-        "majority_probability": 0.919007,
-        "seats_median": 370,
-        "seats_low": 306,
-        "seats_high": 434
-      },
-      {
-        "member_ids": [
-          "afd",
-          "spd",
-          "greens"
-        ],
-        "majority_probability": 0.796445,
-        "seats_median": 348,
+        "majority_probability": 0.791154,
+        "seats_median": 347,
         "seats_low": 283,
         "seats_high": 413
       },
       {
         "member_ids": [
-          "afd",
-          "spd",
-          "left"
+          "union",
+          "spd"
         ],
-        "majority_probability": 0.79709,
-        "seats_median": 348,
-        "seats_low": 283,
-        "seats_high": 413
+        "majority_probability": 0.37242,
+        "seats_median": 303,
+        "seats_low": 239,
+        "seats_high": 368
       },
       {
         "member_ids": [
-          "afd",
-          "greens",
-          "left"
+          "union",
+          "greens"
         ],
-        "majority_probability": 0.633293,
-        "seats_median": 329,
-        "seats_low": 264,
-        "seats_high": 393
-      },
-      {
-        "member_ids": [
-          "spd",
-          "greens",
-          "left"
-        ],
-        "majority_probability": 0.212854,
+        "majority_probability": 0.207461,
         "seats_median": 284,
         "seats_low": 218,
         "seats_high": 348
@@ -450,12 +270,192 @@
       {
         "member_ids": [
           "union",
+          "left"
+        ],
+        "majority_probability": 0.206981,
+        "seats_median": 284,
+        "seats_low": 218,
+        "seats_high": 348
+      },
+      {
+        "member_ids": [
+          "afd",
+          "spd"
+        ],
+        "majority_probability": 0.074051,
+        "seats_median": 259,
+        "seats_low": 195,
+        "seats_high": 324
+      },
+      {
+        "member_ids": [
+          "afd",
+          "greens"
+        ],
+        "majority_probability": 0.026056,
+        "seats_median": 239,
+        "seats_low": 174,
+        "seats_high": 304
+      },
+      {
+        "member_ids": [
+          "afd",
+          "left"
+        ],
+        "majority_probability": 0.026132,
+        "seats_median": 239,
+        "seats_low": 174,
+        "seats_high": 304
+      },
+      {
+        "member_ids": [
+          "spd",
+          "greens"
+        ],
+        "majority_probability": 0.001092,
+        "seats_median": 195,
+        "seats_low": 129,
+        "seats_high": 259
+      },
+      {
+        "member_ids": [
+          "spd",
+          "left"
+        ],
+        "majority_probability": 0.001042,
+        "seats_median": 195,
+        "seats_low": 129,
+        "seats_high": 259
+      },
+      {
+        "member_ids": [
+          "greens",
+          "left"
+        ],
+        "majority_probability": 0.000197,
+        "seats_median": 176,
+        "seats_low": 108,
+        "seats_high": 240
+      },
+      {
+        "member_ids": [
+          "union",
+          "afd",
+          "spd"
+        ],
+        "majority_probability": 0.999792,
+        "seats_median": 454,
+        "seats_low": 390,
+        "seats_high": 522
+      },
+      {
+        "member_ids": [
+          "union",
+          "afd",
+          "greens"
+        ],
+        "majority_probability": 0.998845,
+        "seats_median": 435,
+        "seats_low": 371,
+        "seats_high": 501
+      },
+      {
+        "member_ids": [
+          "union",
+          "afd",
+          "left"
+        ],
+        "majority_probability": 0.99882,
+        "seats_median": 435,
+        "seats_low": 371,
+        "seats_high": 501
+      },
+      {
+        "member_ids": [
+          "union",
+          "spd",
+          "greens"
+        ],
+        "majority_probability": 0.972389,
+        "seats_median": 391,
+        "seats_low": 326,
+        "seats_high": 456
+      },
+      {
+        "member_ids": [
+          "union",
+          "spd",
+          "left"
+        ],
+        "majority_probability": 0.972369,
+        "seats_median": 391,
+        "seats_low": 326,
+        "seats_high": 456
+      },
+      {
+        "member_ids": [
+          "union",
+          "greens",
+          "left"
+        ],
+        "majority_probability": 0.922419,
+        "seats_median": 371,
+        "seats_low": 306,
+        "seats_high": 435
+      },
+      {
+        "member_ids": [
+          "afd",
+          "spd",
+          "greens"
+        ],
+        "majority_probability": 0.785812,
+        "seats_median": 346,
+        "seats_low": 282,
+        "seats_high": 412
+      },
+      {
+        "member_ids": [
+          "afd",
+          "spd",
+          "left"
+        ],
+        "majority_probability": 0.785129,
+        "seats_median": 346,
+        "seats_low": 282,
+        "seats_high": 412
+      },
+      {
+        "member_ids": [
+          "afd",
+          "greens",
+          "left"
+        ],
+        "majority_probability": 0.617978,
+        "seats_median": 327,
+        "seats_low": 262,
+        "seats_high": 391
+      },
+      {
+        "member_ids": [
+          "spd",
+          "greens",
+          "left"
+        ],
+        "majority_probability": 0.201516,
+        "seats_median": 283,
+        "seats_low": 217,
+        "seats_high": 347
+      },
+      {
+        "member_ids": [
+          "union",
           "afd",
           "spd",
           "greens"
         ],
         "majority_probability": 1.0,
-        "seats_median": 541,
+        "seats_median": 542,
         "seats_low": 490,
         "seats_high": 593
       },
@@ -467,7 +467,7 @@
           "left"
         ],
         "majority_probability": 1.0,
-        "seats_median": 541,
+        "seats_median": 542,
         "seats_low": 490,
         "seats_high": 593
       },
@@ -479,8 +479,8 @@
           "left"
         ],
         "majority_probability": 1.0,
-        "seats_median": 522,
-        "seats_low": 470,
+        "seats_median": 523,
+        "seats_low": 471,
         "seats_high": 574
       },
       {
@@ -491,7 +491,7 @@
           "left"
         ],
         "majority_probability": 1.0,
-        "seats_median": 478,
+        "seats_median": 479,
         "seats_low": 426,
         "seats_high": 530
       },
@@ -502,10 +502,10 @@
           "greens",
           "left"
         ],
-        "majority_probability": 0.999873,
-        "seats_median": 436,
-        "seats_low": 383,
-        "seats_high": 489
+        "majority_probability": 0.999831,
+        "seats_median": 434,
+        "seats_low": 381,
+        "seats_high": 487
       }
     ],
     "drivers": [
@@ -542,60 +542,7 @@
         "confidence": 0.84
       }
     ],
-    "driver_sensitivity": [
-      {
-        "driver_key": "growth",
-        "label": "Industrial growth",
-        "negative_scenario": -1.0,
-        "observed_scenario": -0.29,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.00757925,
-        "observed_incumbent_share_shift": -0.003168375,
-        "positive_incumbent_share_shift": 0.00484575,
-        "confidence": 0.71,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "energy",
-        "label": "Energy affordability",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.17,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.009515625,
-        "observed_incumbent_share_shift": -0.003168375,
-        "positive_incumbent_share_shift": 0.0013343749999999996,
-        "confidence": 0.62,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "coalition",
-        "label": "Coalition compatibility",
-        "negative_scenario": -1.0,
-        "observed_scenario": -0.12,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.009174375000000002,
-        "observed_incumbent_share_shift": -0.003168375,
-        "positive_incumbent_share_shift": 0.004475625000000002,
-        "confidence": 0.78,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "demographics",
-        "label": "Demographic pressure",
-        "negative_scenario": -1.0,
-        "observed_scenario": -0.2,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.009048375,
-        "observed_incumbent_share_shift": -0.003168375,
-        "positive_incumbent_share_shift": 0.0056516249999999995,
-        "confidence": 0.84,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      }
-    ],
+    "driver_sensitivity": [],
     "methodology_url": "/methodology",
     "input_revision_ids": [],
     "input_provenance": [],

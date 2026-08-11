@@ -15,8 +15,8 @@ test("forecast page meets automated WCAG AA and interaction gates", async ({ pag
   await page.goto("/elections/de-next-bundestag");
   await expect(page.getByRole("heading", { name: /Germany/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText("DRIVER SENSITIVITY MATRIX")).toBeVisible();
-  await expect(page.getByRole("table", { name: "Driver sensitivity matrix" })).toBeVisible();
+  await expect(page.getByText("NO CAUSAL DRIVER COEFFICIENTS ACTIVE")).toBeVisible();
+  await expect(page.getByRole("note")).toContainText("Context signals do not move this forecast");
   await expect(page.locator(".parliament-hemicycle circle")).toHaveCount(630);
   await expect(page.getByRole("heading", { name: "IMMUTABLE FORECAST HISTORY" })).toBeVisible();
   await expect(page.getByRole("heading", { name: "SOURCE LEDGER" })).toBeVisible();

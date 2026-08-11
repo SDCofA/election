@@ -1,0 +1,5474 @@
+{{Short description|Australian opinion polling}}
+{{Use Australian English|date=December 2020}}
+{{Use dmy dates|date=February 2022}}
+{{2022 Australian federal election sidebar}}
+In the lead-up to the [[2022 Australian federal election]], a number of polling companies have been conducting regular [[opinion poll]]s for various news organisations. These polls collected data on parties' primary vote, and contained an estimation of the [[two-party-preferred vote]]. They also asked questions about the electorates' views on major party leaders. Key polling companies include [[YouGov]], [[Essential Media Communications]], and [[Roy Morgan Research]].
+
+[[Ipsos Australia|Ipsos]] polls used to be published in ''[[The Sydney Morning Herald]]'', ''[[The Age]]'', and the ''[[Australian Financial Review]]'';<ref name=inside2019>{{cite web | title=Who controls opinion polling in Australia, what else we need to know about the polls, and why it matters | website=Inside Story | date=15 May 2019 | url=https://insidestory.org.au/who-controls-opinion-polling-in-australia/  |archive-url=https://ghostarchive.org/archive/20220211/https://insidestory.org.au/who-controls-opinion-polling-in-australia/  |archive-date=2022-02-11 |url-status=live| access-date=11 February 2022}}{{cbignore}}</ref><ref name=ownership>{{cite web | title=For the Record: Ownership of Australian Public Opinion Polling and Market Research Companies| first1= Gary |last1= Morgan |first2= Michele| last2= Levine | website=[[Roy Morgan Research]] | date=11 April 2019 | url=http://www.roymorgan.com/findings/7943-ownership-of-australian-public-opinion-polling-and-market-research-companies-201904110526  |archive-url=https://ghostarchive.org/archive/20220211/http://www.roymorgan.com/findings/7943-ownership-of-australian-public-opinion-polling-and-market-research-companies-201904110526  |archive-date=2022-02-11 |url-status=live| access-date=11 February 2022}}{{cbignore}}</ref> following a shock result of the [[2019 Australian federal election]], when the [[Coalition (Australia)|Coalition]] won the election against all of the opinion polls' predictions, the [[Nine Entertainment]] group decided to discontinue its relationship with Ipsos.<ref>{{cite web | last=Wahlquist | first=Calla | title=Sydney Morning Herald and Age to stop running Ipsos poll after surprise election result | website=the Guardian | date=23 May 2019 | url=http://www.theguardian.com/media/2019/may/24/sydney-morning-herald-and-age-to-stop-running-ipsos-poll-after-surprise-election-result | access-date=12 February 2022}}</ref> The newspapers did not report any political polling until 4 April 2022,<ref name="afr-ipsos">{{cite news |last1=Coorey |first1=Phillip |title=Labor leads in the biggest states, says the latest Ipsos poll |url=https://www.afr.com/politics/federal/labor-leads-in-all-states-and-territories-poll-20220404-p5aakq |access-date=5 April 2022 |work=Australian Financial Review |date=4 April 2022}}</ref> but continued to report the results of other Ipsos polls.<ref name=smhtopic>{{cite web | last=Singhal | first=Pallavi | last2=Topsfield | first2=Jewel | title=Topic – Ipsos poll | website=[[The Sydney Morning Herald]] | date=5 February 2021 | url=https://www.smh.com.au/topic/ipsos-poll-jks | access-date=12 February 2022}}</ref>
+
+==Graphical summary==
+{{multiple images|align=left
+|image1=Australian federal election polling - 47th parliament - two party preferred.svg
+|width1=500
+|caption1=[[Two-party-preferred vote]].
+|image2=Australian federal election polling - 47th parliament - primary.svg
+|width2=500
+|caption2=[[First-preference votes|Primary vote]].
+|footer=[[Aggregate data]] of voting intention from all opinion polling since the last federal election. [[Local regression]] trends for each party are shown as solid lines.}}
+{{clear}}
+
+==Voting intention==
+{{For|political events during the year|2019 in Australia|2020 in Australia|2021 in Australia|2022 in Australia|2020s in Australian political history}}
+
+===2022===
+{| class="toccolours sortable" cellpadding="6" cellspacing="0" style="text-align:center; margin-right:.4em; margin-top:.4em; font-size:90%;"
+|-
+! rowspan=2|Date
+! rowspan=2|Brand
+! rowspan=2 class="unsortable"|Interview mode
+! rowspan=2 class="unsortable"|Sample size
+! class="unsortable" style="background:#ccc" colspan=7| Primary vote
+! class="unsortable" style="background:#ebbce3" colspan="3"| [[Two-party-preferred vote|2pp vote]]
+|-
+! class="unsortable" style="background:#00bfff;text-align:center" | [[Coalition (Australia)|L/NP]]
+! class="unsortable" style="background:#f66;text-align:center" | [[Australian Labor Party|ALP]]
+! class="unsortable" style="background:#90ee90;text-align:center" | [[Australian Greens|GRN]]
+! class="unsortable" style="background:orange;text-align:center" | [[Pauline Hanson's One Nation|ONP]]
+! class="unsortable" style="background:yellow;text-align:center" | [[United Australia Party (2013)|UAP]]
+! class="unsortable" style="background:lightgray;text-align:center;"| OTH
+! class="unsortable" style="background:gray;text-align:center;"| UND
+! class="unsortable" style="background:#00bfff;text-align:center" | [[Coalition (Australia)|L/NP]]
+! class="unsortable" style="background:#f66;text-align:center" | [[Australian Labor Party|ALP]]
+! class="unsortable" style="background:gray;text-align:center;"| UND
+|-
+!31 March – 3 April 2022
+| style="text-align:left;" |Resolve Strategic
+|Online
+|1681
+|34%
+|38%
+|11%
+|2%
+|3%
+|12%
+|–
+|–
+|–
+| –
+|-
+!28 March – 3 April 2022
+| style="text-align:left;" |[[Roy Morgan Research|Roy Morgan]]<ref>{{Cite web |title=ALP extends lead as Prime Minister Morrison under attack from NSW Liberal Senator Fierravanti-Wells: ALP 57% cf. L-NP 43% |url=http://www.roymorgan.com/findings/8928-roy-morgan-poll-federal-voting-intention-april-2022-202204040823 |access-date=2022-04-04 |website=Roy Morgan |language=en}}</ref>
+|Telephone/online
+|1367
+|33%
+|39.5%
+|11%
+|3.5%
+|1%
+|12%
+|–
+|43%
+! style="background:#f66" |57%
+| –
+|-
+|-
+!31 March – 3 April 2022
+| style="text-align:left;" |[[Newspoll]]-[[YouGov]]<ref>{{cite web|url=https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_MRE170_a&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fnation%2Fnewspoll-labor-marked-down-as-election-looms%2Fnews-story%2F4994622cc880c9e7ff3ea21a95d4e11f&memtype=anonymous&mode=premium&v21=dynamic-cold-test-noscore&V21spcbehaviour=append|title=Labor marked down as election looms: Newspoll|work=[[The Australian]]|first=Simon|last=Benson|date=3 April 2022|accessdate=5 April 2022|url-access=subscription}}</ref>
+|Online
+|1531
+|36%
+|38%
+|10%
+|3%
+|3%
+|10%
+|–
+|46%
+! style="background:#f66" |54%
+| –
+|-
+!30 March – 2 April 2022 
+| style="text-align:left;" |[[Essential Research|Essential]]<ref>{{Cite web |title=Political Insights |url=https://essentialreport.com.au/reports/federal-political-insights |access-date=2022-04-05 |website=essentialreport.com.au |language=en}}</ref>
+|Online
+|1086
+|37%
+|36%
+|10%
+|4%
+|3%
+|5%
+|5%
+|45%
+! style="background:#f66" |50%
+|5%
+|-
+!30 March – 2 April 2022
+| style="text-align:left;" |[[Ipsos]]<ref>{{cite web|url=https://www.afr.com/politics/federal/liberals-to-start-from-behind-after-lukewarm-budget-response-poll-20220401-p5a9z4|title=PM starts the election race from well behind: poll|work=[[Australian Financial Review]]|first=Phillip|last=Coorey|authorlink=Phillip Coorey|date=3 April 2022|accessdate=5 April 2022}}</ref>
+|Telephone/online
+|2563
+|31%
+|35%
+|10%
+|4%
+|2%
+|8%
+|7%
+|42%
+! style="background:#f66" |51%
+|7%
+|-
+!21–27 March 2022
+| style="text-align:left;" |Roy Morgan<ref>{{Cite web |title=ALP lead cut as bullying allegations surround ALP senators: ALP 55.5% cf. L-NP 44.5% |url=https://www.roymorgan.com/findings/8927-federal-voting-intention-final-week-of-march-2022-202203290357 |access-date=29 March 2022 |date=29 March 2022 |publisher=[[Roy Morgan Research]] |language=en}}</ref>
+|Online
+|1404
+|33%
+|35.5%
+|12.5%
+|3.5%
+|1%
+|14.5%
+| –
+|44.5%
+! style="background:#f66" |55.5%
+| –
+|-
+!17–20 March 2022
+| style="text-align:left;" |Essential<ref>{{Cite web |title=Political Insights |url=https://essentialreport.com.au/reports/federal-political-insights |access-date=2022-03-22 |website=essentialreport.com.au |language=en}}</ref>
+|Online
+|1091
+|37%
+|37%
+|9%
+|3%
+|2%
+|4%
+|7%
+|44%
+! style="background:#f66" |48%
+|7%
+|-
+!14–20 March 2022
+| style="text-align:left;" |Roy Morgan<ref name="morgan_midmarch22">{{cite web |title=The ALP increases its lead over the L-NP as petrol prices spike well above $2 per litre: ALP 58% cf. L-NP 42% |url=https://www.roymorgan.com/findings/8922-federal-voting-intention-mid-march-2022-202203211033 |website=Roy Morgan |publisher=Roy Morgan Research |language=en}}</ref>
+|Telephone/online
+|1418
+|31%
+|37.5%
+|12%
+|3%
+|1%
+|15.5%
+|–
+|42%
+! style="background:#f66" |58%
+|–
+|-
+!data-sort-value="2022-03-13"|3–13 March 2022
+| style="text-align:left;" |Roy Morgan<ref>{{cite web |title=The ALP continues to hold a commanding lead over the L-NP as the Russia-Ukraine war continues and petrol prices spike: ALP 56% cf. L-NP 44% |url=https://www.roymorgan.com/findings/8917-federal-voting-intention-mid-march-2022-202203160002 |website=Roy Morgan |access-date=16 March 2022 |language=en}}</ref>
+|Telephone/online
+|1947
+|33.5%
+|37%
+|11.5%
+|3%
+|1%
+|14%{{Efn|10.5% Independents, 3.5% Other}}
+|–
+|44%
+! style="background:#f66" |56%
+|–
+|-
+!data-sort-value="2022-03-12"|9–12 March 2022
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll13Mar2022">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Albanese draws level with Morrison as preferred PM for the first time in nearly two years |url=https://www.theaustralian.com.au/nation/newspoll-albanese-draws-level-with-morrison-as-preferred-pm-for-the-first-time-in-nearly-two-years/news-story/fdd14ce5d3841b85019be64d51b60f8c |access-date=14 March 2022 |work=The Australian |date=13 March 2022}}</ref>
+|Online
+|1520
+|35%
+|41%
+|8%
+|3%
+|3%
+|10%
+|–
+|45%
+! style="background:#f66" |55%
+|–
+|-
+!2–6 March 2022
+| style="text-align:left;" |Essential<ref>{{Cite web |date=7 March 2022 |title=Political Insights |url=https://essentialreport.com.au/reports/federal-political-insights |access-date=2022-03-08 |website=essentialreport.com.au |language=en}}</ref>
+|Online
+|1093
+|36%
+|35%
+|10%
+|3%
+|3%
+|4%
+|7%
+|44%
+! style="background:#f66" |49%
+|7%
+|-
+!24 February – 3 March 2022
+| style="text-align:left;" |Roy Morgan<ref>{{Cite web |last=Morgan |first=Roy |date=3 March 2022 |title=The first Roy Morgan Poll conducted since Russia invaded Ukraine one week ago shows no impact on Federal Voting Intention: ALP 56.5% cf. L-NP 43.5% |url=https://www.roymorgan.com/findings/8916-roy-morgan-poll-federal-voting-intention-march-2022-202203030153 |url-status=live |access-date=8 March 2022}}</ref>
+|Telephone/online
+|1141
+|34%
+|37.5%
+|11.5%
+|3.5%
+|1%
+|12.5%{{Efn|9% Independents, 3.5% Other}}
+|–
+|43.5%
+! style="background:#f66" |56.5%
+|–
+|-
+!data-sort-value="2022-02-26"|23–26 February 2022
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll27Feb2022">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Labor still ahead but the gap is narrowing |url=https://www.theaustralian.com.au/nation/newspoll-labor-still-ahead-but-the-gap-is-narrowing/news-story/07b6099fb36eddb9f119cc0c2889081d |access-date=27 February 2022 |work=The Australian |date=27 February 2022}}</ref>
+|Online
+|1525
+|35%
+|41%
+|9%
+|3%
+|4%
+|8%
+|–
+|45%
+! style="background:#f66" |55%
+|–
+|-
+!data-sort-value="2022-02-23"|14–23 February 2022
+|style="text-align:left;" |Roy Morgan<ref>{{Cite web|last=Morgan|first=Roy|date=2 March 2022|title=ALP (56.5%) held a commanding two-party preferred lead over the L-NP (43.5%) BEFORE Russia invaded Ukraine|url=https://www.roymorgan.com/findings/8914-federal-voting-intention-february-2022-pre-ukraine-war-202203010358|url-status=live}}</ref>
+|Telephone/online
+|2261
+|32.5%
+|37.5%
+|12.5%
+|3.5%
+|1.5%
+|12.5%{{efn|8.5% Independents, 4% Other}}
+|–
+|43.5%
+! style="background:#f66" |56.5%
+|–
+|-
+!data-sort-value="2022-02-20"|15–20 February 2022
+|style="text-align:left;" |Resolve Strategic<ref>{{cite news |last1=Crowe |first1=David |title=Voters cut support for Scott Morrison following debate about national security, leadership |url=https://www.smh.com.au/politics/federal/voters-cut-support-for-scott-morrison-following-debate-about-national-security-leadership-20220221-p59yc8.html |access-date=23 February 2022 |work=The Sydney Morning Herald |date=22 February 2022 |language=en}}</ref>
+|Online
+|1604
+|33%
+|35%
+|10%
+|3%
+|4%
+|15%
+|–
+|–
+|–
+|–
+|-
+!data-sort-value="2022-02-20"|17–20 February 2022
+|style="text-align:left;" | Essential<ref name="auto3">{{Cite web |date=7 March 2022 |title=The Essential Report: Political Insights |url=https://essentialreport.com.au/reports/federal-political-insights |url-status=live}}</ref>
+|Online
+|1089
+|35%
+|38%
+|9%
+|5%
+|3%
+|4%
+|6%
+|45%
+!style="background:#f66" |49%
+|6%
+|-
+!data-sort-value="2022-02-13"|31 January – 13 February 2022
+|style="text-align:left;" |Roy Morgan<ref>{{Cite web|last=Morgan|first=Roy|date=22 February 2022|title=ALP (57%) increases lead over the L-NP (43%) in mid-February as return of Parliament fails to provide a boost|url=https://www.roymorgan.com/findings/8913-federal-voting-intention-february-2022-202202211048|url-status=live}}</ref>
+|Telephone/online
+|2796
+|33%
+|38.5%
+|11.5%
+|4%
+|1.5%
+|11.5%
+|–
+|43%
+!style="background:#f66" |57%
+| –
+|-
+!data-sort-value="2022-02-12"|9–12 February 2022
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll13Feb2022">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Faith in Morrison withstands the storm |url=https://www.theaustralian.com.au/nation/newspoll-faith-in-morrison-withstands-the-storm/news-story/b08dd547cceb4a339e64f623ec978b35 |access-date=13 February 2022 |work=The Australian |date=13 February 2022}}</ref>
+|Online
+|1526
+|34%
+|41%
+|8%
+|3%
+|–
+|14%
+|–
+|45%
+! style="background:#f66" |55%
+|–
+|-
+!data-sort-value="2022-02-06"|2–6 February 2022
+|style="text-align:left;" |Essential<ref name="Essential08Feb2022">{{Cite web|date=2022-02-08|title=The Essential Report: Political Insights |url=https://essentialreport.com.au/reports/federal-political-insights |access-date=2022-02-08}}</ref>
+|Online
+|1069
+|37%
+|35%
+|9%
+|4%
+|2%
+|5%
+|8%
+|46%
+|style="background:#f66" |'''47%'''
+|8%
+|-
+!data-sort-value="2022-01-30"|27–30 January 2022
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll30Jan2022">{{cite news |last1=Benson |first1=Simon |title=Alarm bells for Coalition as Scott Morrison’s Newspoll ratings drop |url=https://www.theaustralian.com.au/nation/politics/alarm-bells-for-coalition-as-scott-morrisons-newspoll-ratings-drop/news-story/acbb2e070b2a13d5b79c1eab15e1ff40 |access-date=30 January 2022 |work=The Australian |date=30 January 2022}}</ref>
+|Online
+|1523
+|34%
+|41%
+|11%
+|3%
+|–
+|11%
+|–
+|44%
+! style="background:#f66" |56%
+|–
+|-
+!data-sort-value="2022-01-30"|17–30 January 2022
+|style="text-align:left;" |Roy Morgan<ref name="morgan30jan2022">{{cite web |title=ALP (56.5%) increases lead over the L-NP (43.5%) in late January as 'Summer reset' for Government fails to materialise|url=https://www.roymorgan.com/findings/8893-federal-voting-intention-january-2022-202202061414 |website=Roy Morgan |access-date=20 January 2022 |language=en}}</ref>
+|Telephone/online
+|2783
+|33%
+|37.5%
+|11.5%
+|3.5%
+|2%
+|12.5%
+|–
+|43.5%
+! style="background:#f66" |56.5%
+|–
+|-
+!data-sort-value="2022-01-23"|20–23 January 2022
+|style="text-align:left;" |Essential<ref name="Essential25Jan2022">{{Cite web|date=2022-01-25|title=The Essential Report: Political Insights |url=https://essentialreport.com.au/reports/federal-political-insights |access-date=2022-02-08}}</ref>
+|Online
+|1062
+|36%
+|37%
+|8%
+|3%
+|–
+|9%
+|8%
+|43%
+|style="background:#f66" |'''50%'''
+|8%
+|-
+!data-sort-value="2022-01-16"|4–16 January 2022
+|style="text-align:left;" |Roy Morgan<ref name="morgan20jan2022">{{cite web |title=ALP (56%) increases lead over the L-NP (44%) in January as 'Omicron surge' causes problems around Australia |url=https://www.roymorgan.com/findings/8879-federal-voting-intention-january-2022-202201200425 |website=Roy Morgan |access-date=20 January 2022 |language=en}}</ref>
+|Telephone/online
+|2791
+|34.5%
+|37%
+|12%
+|3%
+|0.5%
+|13%
+|–
+|44%
+! style="background:#f66" |56%
+|–
+|-
+!data-sort-value="2022-01-15"|11–15 January 2022
+|style="text-align:left;" |Resolve Strategic<ref>{{cite news |last1=Crowe |first1=David |title=Coalition primary vote drops below Labor’s for the first time: Resolve survey |url=https://www.smh.com.au/politics/federal/coalition-primary-vote-drops-below-labor-s-for-the-first-time-resolve-survey-20220117-p59orf.html |access-date=18 January 2022 |work=The Sydney Morning Herald |date=17 January 2022 |language=en}}</ref>
+|Online
+|1607
+|34%
+|35%
+|11%
+|3%
+|–
+|17%
+|–
+|–
+|–
+|–
+|-
+|}
+
+===2019–2021===
+{| class="toccolours sortable" cellpadding="6" cellspacing="0" style="text-align:center; margin-right:.4em; margin-top:.4em; font-size:90%;"
+|-
+! rowspan=2|Date
+! rowspan=2|Brand
+! rowspan=2 class="unsortable"|Interview mode
+! rowspan=2 class="unsortable"|Sample size
+! class="unsortable" style="background:#ccc" colspan=6| Primary vote
+! class="unsortable" style="background:#ebbce3" colspan="3"| [[Two-party-preferred vote|2pp vote]]
+|-
+! class="unsortable" style="background:#00bfff;text-align:center" | [[Coalition (Australia)|L/NP]]
+! class="unsortable" style="background:#f66;text-align:center" | [[Australian Labor Party|ALP]]
+! class="unsortable" style="background:#90ee90;text-align:center" | [[Australian Greens|GRN]]
+! class="unsortable" style="background:orange;text-align:center" | [[Pauline Hanson's One Nation|ONP]]
+! class="unsortable" style="background:lightgray;text-align:center;"| OTH
+! class="unsortable" style="background:gray;text-align:center;"| UND
+! class="unsortable" style="background:#00bfff;text-align:center" | [[Coalition (Australia)|L/NP]]
+! class="unsortable" style="background:#f66;text-align:center" | [[Australian Labor Party|ALP]]
+! class="unsortable" style="background:gray;text-align:center;"| UND
+|-
+!data-sort-value="2021-12-13"|8–13 December 2021
+|style="text-align:left;" |Essential<ref name="Essential13Dec2021">{{Cite web|date=2021-12-13|title=The Essential Report: Political Insights |url=https://essentialreport.com.au/reports/federal-political-insights |access-date=2022-02-08}}</ref>
+|Online
+|1095
+|36%
+|36%
+|9%
+|4%
+|6%
+|8%
+|45%
+|style="background:#f66" |'''47%'''
+|8%
+|-
+!data-sort-value="2021-12-19"|11–12 December,<br/>18–19 December 2021
+|style="text-align:left;" |Roy Morgan<ref>{{Cite web|title=Primary Voting Intention (%) (2013–2022)|url=http://www.roymorgan.com/morganpoll/federal-voting/primary-voting-intention-recent-2016-2022|access-date=2022-01-23|website=Roy Morgan|language=en}}</ref><ref>{{Cite web|title=Two Party Preferred Voting Intention (%) (2016–2022)|url=http://www.roymorgan.com/morganpoll/federal-voting/2pp-voting-intention-recent-2016-2022|access-date=2022-01-23|website=Roy Morgan|language=en}}</ref>
+|Telephone/online
+|–
+|34.5%
+|37%
+|11.5%
+|4%
+|13%
+|–
+|44.5%
+! style="background:#f66" |55.5%
+|–
+|-
+!data-sort-value="2021-12-05"|1–5 December 2021
+|style="text-align:left;" |Essential<ref name="Essential06Dec2021">{{Cite web|date=2021-12-06|title=The Essential Report: Political Insights |url=https://essentialreport.com.au/reports/federal-political-insights |access-date=2022-02-08}}</ref>
+|Online
+|1094
+|38%
+|35%
+|10%
+|3%
+|7%
+|8%
+|45%
+|style="background:#f66" |'''48%'''
+|8%
+|-
+!data-sort-value="2021-12-05"|27–28 November,<br/>4–5 December 2021
+|style="text-align:left;" |Roy Morgan<ref name="morgan10dec">{{cite web |title=ALP (56.5%) increases lead over the L-NP (43.5%) to the largest since the last election as Morrison Government mired in infighting in final weeks of year |url=https://www.roymorgan.com/findings/8878-federal-voting-intention-december-2021-202112092249 |publisher=Roy Morgan |access-date=10 December 2021 |language=en}}</ref>
+|Telephone/online
+|2805
+|34.5%
+|36%
+|12.5%
+|3.5%
+|13.5%{{efn|1% [[United Australia Party (2013)|UAP]], 12.5% Independents/Other}}
+|–
+|43.5%
+! style="background:#f66" |56.5%
+!–
+|-
+!data-sort-value="2021-12-04"|1–4 December 2021
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll5December2021">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Labor favourite with voters to defeat Scott Morrison's government in federal election |url=https://www.theaustralian.com.au/nation/newspoll-labor-favourite-with-voters-to-defeat-scott-morrisons-government-in-federal-election/news-story/c338c5950f457b1e02a86607d8d51d51 |access-date=6 December 2021 |work=The Australian |date=5 December 2021 |url-status=live }}</ref>
+|Online
+|1518
+|36%
+|38%
+|10%
+|3%
+|13%
+|–
+|47%
+! style="background:#f66" |53%
+|–
+|-
+!data-sort-value="2021-11-21"|17–21 November 2021
+|style="text-align:left;" |Essential<ref name="auto2">{{Cite web|date=2021-12-25|title=Essential Report Omnibus Poll|url=https://essentialreport.com.au/wp-content/uploads/2021/12/Essential-Report-Disclosure-Statement.pdf|access-date=2021-12-25|website=The Essential Report|language=en|archive-date=21 December 2021|archive-url=https://web.archive.org/web/20211221041610/https://essentialreport.com.au/wp-content/uploads/2021/11/Australian-Polling-Council-Code-of-Conduct.pdf|url-status=live}}</ref><ref name="auto">{{Cite web|date=2021-12-25|title=Essential Report Political Insights|url=https://essentialreport.com.au/reports/federal-political-insights|access-date=2021-12-25|website=The Essential Report|language=en}}</ref>
+|Online
+|1095
+|36%
+|37%
+|10%
+|4%
+|7%
+|7%
+|45%
+|style="background:#f66" |'''48%'''
+|7%
+|-
+!data-sort-value="2021-11-21"|17–21 November 2021
+|style="text-align:left;" |Resolve Strategic<ref>{{Cite web|last=Bowe|first=William|date=6 December 2021|title=Resolve Strategic: Coalition 39, Labor 32, Greens 11|url=https://www.pollbludger.net/2021/11/24/resolve-strategic-coalition-39-labor-32-greens-11/|url-status=live}}</ref>
+|Online
+|1781
+|39%
+|32%
+|11%
+|3%
+|14%
+|–
+|–
+|–
+|–
+|-
+!data-sort-value="2021-11-21"|13–14, 20–21 November 2021
+| style="text-align:left;" |Roy Morgan<ref name="morgan25nov">{{cite web |title=ALP (55.5%) increases lead over the L-NP (44.5%) to the largest since the last election as Government splinters on 'vaccine mandates' |url=https://www.roymorgan.com/findings/8862-federal-voting-intention-november-2021-202111250505 |publisher=Roy Morgan |access-date=25 November 2021 |language=en}}</ref>
+|Telephone/online
+|2795
+|35.5%
+|35.5%
+|12%
+|3.5%
+|13.5%
+|–
+|44.5%
+! style="background:#f66" |55.5%
+!–
+|-
+!data-sort-value="2021-11-13"|10–13 November 2021
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll14November2021">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Coalition claws back primary support from right-wing parties |url=https://www.theaustralian.com.au/nation/newspoll-coalition-claws-back-primary-support-from-rightwing-parties/news-story/37bef1892aa7095b6981d27571a76d82 |access-date=14 November 2021 |work=The Australian |date=14 November 2021 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011945/https://www.theaustralian.com.au/akam/11/pixel_17b043d |url-status=live }}</ref>
+|Online
+|1524
+|37%
+|38%
+|11%
+|2%
+|12%
+|–
+|47%
+! style="background:#f66" |53%
+|–
+|-
+!data-sort-value="2021-11-07"|3–7 November 2021
+|style="text-align:left;" |Essential<ref name="auto2"/><ref name="auto"/>
+|Online
+|1089
+|35%
+|37%
+|9%
+|3%
+|6%
+|10%
+|44%
+|style="background:#f66" |'''46%'''
+|10%
+|-
+!data-sort-value="2021-11-07"|30–31 October,<br/>6–7 November 2021
+| style="text-align:left;" |Roy Morgan<ref name="Morgan7Nov21">{{Cite web|title=ALP (53.5%) lead over the L-NP (46.5%) cut slightly as PM Scott Morrison attends G20 & COP26 meetings|url=https://www.roymorgan.com/findings/8852-federal-voting-intention-november-2021-202111101441|access-date=2021-11-12|website=Roy Morgan|language=en|archive-url=https://web.archive.org/web/20211111131631/https://www.roymorgan.com/findings/8852-federal-voting-intention-november-2021-202111101441|archive-date=11 November 2021|url-status=live}}</ref>
+|Telephone/online
+|2723
+|36.5%
+|35%
+|11.5%
+|3%
+|14%
+|–
+|46.5%
+! style="background:#f66" |53.5%
+|–
+|-
+!data-sort-value="2021-10-24"|20–24 October 2021
+|style="text-align:left;" |Essential<ref name="auto1">{{Cite web|date=2021-10-28|title=Federal voting intention|url=https://essentialvision.com.au/federal-voting-intention-136|access-date=2021-11-14|website=The Essential Report|language=en|archive-date=13 November 2021|archive-url=https://web.archive.org/web/20211113023323/https://essentialvision.com.au/federal-voting-intention-136|url-status=live}}</ref>
+|Online
+|1781
+|37%
+|36%
+|10%
+|3%
+|8%
+|6%
+|44%
+|style="background:#f66" |'''49%'''
+|6%
+|-
+!data-sort-value="2021-10-24"|20–24 October 2021
+| style="text-align:left;" |Resolve Strategic<ref>{{Cite web|title=Resolve Strategic, Essential Research, Redbridge Group and voter ID laws|url=https://www.pollbludger.net/2021/10/27/resolve-strategic-essential-research-redbridge-group-and-voter-id-laws/|url-status=live|access-date=16 November 2021|archive-date=29 October 2021|archive-url=https://web.archive.org/web/20211029190736/https://www.pollbludger.net/2021/10/27/resolve-strategic-essential-research-redbridge-group-and-voter-id-laws/}}</ref><ref>{{Cite web|last=Stehle|first=Mark|date=2021-04-19|title=Resolve Political Monitor|url=https://www.smh.com.au/national/resolve-political-monitor-20210322-p57cvx.html|access-date=2021-11-15|website=The Sydney Morning Herald|language=en|archive-date=12 November 2021|archive-url=https://web.archive.org/web/20211112075510/https://www.smh.com.au/national/resolve-political-monitor-20210322-p57cvx.html|url-status=live}}</ref>
+|Online
+|~1600
+|37%
+|34%
+|11%
+|3%
+|14%
+|–
+|–
+|–
+|–
+|-
+!data-sort-value="2021-10-24"|16–17, 23–24 October 2021
+| style="text-align:left;" |Roy Morgan<ref name="Morgan28October">{{Cite web|title=ALP (54%) increases lead over the L-NP (46%) as the Federal Government discusses "Net Zero" carbon dioxide emissions|url=https://www.roymorgan.com/findings/8832-federal-voting-intention-october-2021-202110270611|access-date=2021-10-15|website=Roy Morgan|language=en|archive-date=28 October 2021|archive-url=https://web.archive.org/web/20211028010604/https://www.roymorgan.com/findings/8832-federal-voting-intention-october-2021-202110270611|url-status=live}}</ref>
+|Telephone/online
+|2778
+|36.5%
+|35%
+|13.5%
+|3.5%
+|11.5%
+|–
+|46%
+! style="background:#f66" |54%
+|–
+|-
+!data-sort-value="2021-10-23"|20–23 October 2021
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll24October2021">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Support slumps as Scott Morrison leaves for Glasgow |url=https://www.theaustralian.com.au/nation/politics/newspoll-support-slumps-as-scott-morrison-leaves-for-glasgow/news-story/ebc8d809824deda8446ad7066d8f3a47 |access-date=25 October 2021 |work=The Australian |date=24 October 2021 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011910/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-support-slumps-as-scott-morrison-leaves-for-glasgow%252Fnews-story%252Febc8d809824deda8446ad7066d8f3a47%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1515<ref name="Newspoll241021Disclosure">{{cite press release |title=Newspoll Public Polling Methodology Statement, 25th October 2021 |url=https://commercial.yougov.com/rs/464-VHH-988/images/211007%20Public%20Polling%20Methodology%20Statement.pdf |access-date=30 October 2021 |archive-url=https://web.archive.org/web/20211030021118/https://commercial.yougov.com/rs/464-VHH-988/images/211007%20Public%20Polling%20Methodology%20Statement.pdf |archive-date=30 October 2021}}</ref>
+|35%
+|38%
+|11%
+|3%
+|13%
+|–
+|46%
+! style="background:#f66" |54%
+|–
+|-
+!data-sort-value="2021-10-10"|6–10 October 2021
+|style="text-align:left;" |Essential<ref name="auto1"/>
+|Online
+|1097
+|36%
+|34%
+|9%
+|4%
+|8%
+|9%
+|45%
+|style="background:#f66" |'''46%'''
+|9%
+|-
+!data-sort-value="2021-10-10"|2–3, 9–10 October 2021
+| style="text-align:left;" |Roy Morgan<ref name=":9">{{Cite web|title=ALP (53%) lead over the L-NP (47%) narrowed slightly before Sydney re-opened this week|url=http://www.roymorgan.com/findings/8828-federal-voting-intention-october-2021-202110120319|access-date=2021-10-15|website=Roy Morgan|language=en|archive-date=17 October 2021|archive-url=https://web.archive.org/web/20211017012457/http://www.roymorgan.com/findings/8828-federal-voting-intention-october-2021-202110120319|url-status=live}}</ref>
+|Telephone/online
+|2794
+|37.5%
+|36%
+|11.5%
+|3%
+|12%
+|–
+|47%
+! style="background:#f66" |53%
+|–
+|-
+!data-sort-value="2021-10-02"|29 September – 2 October 2021
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll3October2021">{{cite news |last1=Benson |first1=Simon |title=Newspoll: More voters turning towards the fringes |url=https://www.theaustralian.com.au/nation/newspoll-more-voters-turning-towards-the-fringes/news-story/24785a84fd655fdf0d0756e3a9a47bf3 |access-date=3 October 2021 |work=The Australian |date=3 October 2021 |archive-date=30 October 2021 |archive-url=https://web.archive.org/web/20211030084401/https://www.theaustralian.com.au/nation/newspoll-more-voters-turning-towards-the-fringes/news-story/24785a84fd655fdf0d0756e3a9a47bf3 |url-status=live }}</ref>
+|Online
+|1545
+|37%
+|37%
+|11%
+|2%
+|13%
+|–
+|47%
+|style="background:#f66" |'''53%'''
+|–
+|-
+!data-sort-value="2021-09-26"|22–26 September 2021
+|style="text-align:left;" |Essential<ref name="auto1"/>
+|Online
+|1094
+|38%
+|36%
+|9%
+|3%
+|6%
+|6%
+|46%
+|style="background:#f66" |'''48%'''
+|6%
+|-
+!data-sort-value="2021-09-26"|18–19, 25–26 September 2021
+| style="text-align:left;" |Roy Morgan<ref name="Morgan30September">{{cite web |title=ALP (54%) increases lead over the L-NP (46%) after 'AUKUS' submarine deal is announced in mid-September |url=https://www.roymorgan.com/findings/8808-federal-voting-intention-september-2021-202109290458 |website=Roy Morgan |access-date=30 September 2021 |language=en |archive-date=29 September 2021 |archive-url=https://web.archive.org/web/20210929233111/https://www.roymorgan.com/findings/8808-federal-voting-intention-september-2021-202109290458 |url-status=live }}</ref> 
+|Telephone/online
+|2752
+|36%
+|36%
+|12.5%
+|3.5%
+|12%
+|–
+|46%
+|style="background:#f66" |'''54%'''
+|–
+|-
+!data-sort-value="2021-09-19"|15–19 September 2021
+| style="text-align:left;" |Resolve Strategic<ref>{{Cite web |url=https://www.pollbludger.net/2021/09/22/resolve-strategic-coalition-39-labor-31-greens-10/ |title=Archived copy |access-date=16 October 2021 |archive-date=16 October 2021 |archive-url=https://web.archive.org/web/20211016143333/https://www.pollbludger.net/2021/09/22/resolve-strategic-coalition-39-labor-31-greens-10/ |url-status=live }}</ref>
+|Online
+|1606
+|39%
+|31%
+|10%
+|4%
+|16%
+|–
+|–
+|–
+|–
+|-
+!data-sort-value="2021-09-18"|15–18 September 2021
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll18September2021">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Scott Morrison and Albanese lose support to minor parties |url=https://www.theaustralian.com.au/nation/politics/newspoll-scott-morrison-and-albanese-lose-support-to-minor-parties/news-story/1f813624dd80d58ee483e1ad524a2c9f |access-date=19 September 2021 |work=The Australian |date=19 September 2021 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115012024/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-scott-morrison-and-albanese-lose-support-to-minor-parties%252Fnews-story%252F1f813624dd80d58ee483e1ad524a2c9f%26memtype%3Danonymous%26mode%3Dpremium&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|2144
+|37%
+|38%
+|10%
+|3%
+|12%
+|–
+|47%
+|style="background:#f66" |'''53%'''
+|–
+|-
+!data-sort-value="2021-09-12"|8–12 September 2021
+|style="text-align:left;" |Essential<ref name="auto1"/>
+|Online
+|1100
+|38%
+|34%
+|8%
+|4%
+|8%
+|8%
+|'''46%'''
+|'''46%'''
+|8%
+|-
+!data-sort-value="2021-09-12"|4–5, 11–12 September 2021
+| style="text-align:left;" |Roy Morgan<ref name="RoyMorgan15September2021">{{cite web |title=L-NP (47.5%) gains ground on the ALP (52.5%) after PM Morrison calls on States to stick to re-opening plans |url=http://www.roymorgan.com/findings/8802-federal-voting-intention-september-2021-202109140632 |website=Roy Morgan |access-date=16 September 2021 |language=en |archive-date=16 September 2021 |archive-url=https://web.archive.org/web/20210916011112/http://www.roymorgan.com/findings/8802-federal-voting-intention-september-2021-202109140632 |url-status=live }}</ref>
+|Telephone/online
+|2735
+|39.5%
+|35%
+|13%
+|3%
+|10%
+|–
+|47.5%
+|style="background:#f66" |'''52.5%'''
+|–
+|-
+!data-sort-value="2021-08-29"|25–29 August 2021
+|style="text-align:left;" |Essential<ref name="auto1"/>
+|Online
+|1100
+|38%
+|36%
+|10%
+|4%
+|6%
+|7%
+|45%
+|style="background:#f66" |'''48%'''
+|7%
+|-
+!data-sort-value="2021-08-29"|21–22, 28–29 August 2021
+| style="text-align:left;" |Roy Morgan<ref name="RoyMorgan1September2021">{{cite web |title=ALP (54.5%) increases lead over L-NP (45.5%) for third straight interviewing period |url=http://www.roymorgan.com/findings/8782-federal-voting-intention-september-2021-202109010638 |website=Roy Morgan |access-date=1 September 2021 |language=en |archive-date=1 September 2021 |archive-url=https://web.archive.org/web/20210901083512/http://www.roymorgan.com/findings/8782-federal-voting-intention-september-2021-202109010638 |url-status=live }}</ref>
+|Telephone/online
+|2735
+|37.5%
+|38.5%
+|11.5%
+|3%
+|9.5%
+|–
+|45.5%
+|style="background:#f66" |'''54.5%'''
+|–
+|-
+!data-sort-value="2021-08-28"|25–28 August 2021
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll29August2021">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Coalition's fortunes fall as Scott Morrison on the rise |url=https://www.theaustralian.com.au/nation/newspoll-coalitions-fortunes-fall-as-scott-morrison-on-the-rise/news-story/31cb207ab4e86addf29b166f5bc57f7a |access-date=30 August 2021 |work=The Australian |date=29 August 2021 |archive-date=29 August 2021 |archive-url=https://web.archive.org/web/20210829154814/https://www.theaustralian.com.au/nation/newspoll-coalitions-fortunes-fall-as-scott-morrison-on-the-rise/news-story/31cb207ab4e86addf29b166f5bc57f7a |url-status=live }}</ref>
+|Online
+|1528
+|36%
+|40%
+|10%
+|3%
+|11%
+|–
+|46%
+|style="background:#f66" |'''54%'''
+|–
+|-
+!data-sort-value="2021-08-21"|17–21 August 2021
+| style="text-align:left;" |Resolve Strategic<ref name="resolve5">{{cite news |last1=Crowe |first1=David |title=Coalition gains on pandemic management as Morrison holds ground, Labor vote falls |url=https://www.smh.com.au/politics/federal/coalition-gains-on-pandemic-management-as-morrison-holds-ground-labor-vote-falls-20210823-p58lan.html |access-date=24 August 2021 |work=The Sydney Morning Herald |date=24 August 2021 |language=en |archive-date=23 August 2021 |archive-url=https://web.archive.org/web/20210823231150/https://www.smh.com.au/politics/federal/coalition-gains-on-pandemic-management-as-morrison-holds-ground-labor-vote-falls-20210823-p58lan.html |url-status=live }}</ref>
+|Online
+|1607
+|40%
+|32%
+|12%
+|2%
+|14%
+|–
+|–
+|–
+|–
+|-
+!data-sort-value="2021-08-16"|16 August 2021
+|style="text-align:left;" |Essential<ref name="auto1"/>
+|Online
+|–
+|37%
+|36%
+|9%
+|3%
+|6%
+|8%
+|45%
+|style="background:#f66" |'''47%'''
+|8%
+|-
+!data-sort-value="2021-08-15"|7–8, 14–15 August 2021
+| style="text-align:left;" |Roy Morgan<ref name="RoyMorgan18August2021">{{Cite web|title=ALP (54%) increases lead over L-NP (46%) – as Melbourne and Sydney lockdowns continue|url=http://www.roymorgan.com/findings/8778-federal-voting-intention-august-2021-202108180625|access-date=2021-08-18|website=Roy Morgan|language=en|archive-date=18 August 2021|archive-url=https://web.archive.org/web/20210818070145/http://www.roymorgan.com/findings/8778-federal-voting-intention-august-2021-202108180625|url-status=live}}</ref>
+|Telephone/online
+|2747
+|37.5%
+|37.5%
+|12.5%
+|3.5%
+|9%
+|–
+|46%
+|style="background:#f66" |'''54%'''
+|–
+|-
+!data-sort-value="2021-08-07"|4–7 August 2021
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll8August2021">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Delta debacle drives Scott Morrison's ratings to new low |url=https://www.theaustralian.com.au/nation/politics/newspoll-delta-debacle-drives-scott-morrisons-ratings-to-new-low/news-story/213477b7f111f4333a5e46c89fc43e3d |access-date=8 August 2021 |work=The Australian |date=8 August 2021 |archive-date=29 August 2021 |archive-url=https://web.archive.org/web/20210829154901/https://www.theaustralian.com.au/nation/politics/newspoll-delta-debacle-drives-scott-morrisons-ratings-to-new-low/news-story/213477b7f111f4333a5e46c89fc43e3d |url-status=live }}</ref>
+|Online
+|1527
+|39%
+|39%
+|11%
+|3%
+|8%
+|–
+|47%
+|style="background:#f66" |'''53%'''
+|–
+|-
+!data-sort-value="2021-08-02"|2 August 2021
+|style="text-align:left;" |Essential<ref name="auto1"/>
+|Online
+|–
+|38%
+|35%
+|9%
+|4%
+|6%
+|8%
+|45%
+|style="background:#f66" |'''47%'''
+|8%
+|-
+!data-sort-value="2021-08-01"|24–25 July,<br/>31 July – 1 August 2021
+| style="text-align:left;" |Roy Morgan<ref name="RoyMorgan4August2021">{{Cite web|title=ALP (53.5%) increases lead over L-NP (46.5%) – largest ALP lead since the bushfires in early 2020|url=https://www.roymorgan.com/findings/8766-federal-voting-intention-august-2021-202108040631|access-date=2021-08-04|website=Roy Morgan|language=en|archive-date=4 August 2021|archive-url=https://web.archive.org/web/20210804113513/https://www.roymorgan.com/findings/8766-federal-voting-intention-august-2021-202108040631|url-status=live}}</ref>
+|Telephone/online
+|2709
+|37%
+|37%
+|12.5%
+|3%
+|10.5%
+|–
+|46.5%
+|style="background:#f66" |'''53.5%'''
+|–
+|-
+!data-sort-value="2021-07-19"| 19 July 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021">{{cite web |title=Federal voting intention |url=https://essentialvision.com.au/federal-voting-intention-135 |website=The Essential Report |language=en |date=20 July 2021 |access-date=1 September 2021 |archive-date=1 September 2021 |archive-url=https://web.archive.org/web/20210901085659/https://essentialvision.com.au/federal-voting-intention-135 |url-status=live }}</ref>
+|Online
+|–
+|37%
+|36%
+|10%
+|4%
+|6%
+|8%
+|45%
+|style="background:#f66" |'''47%'''
+|8%
+|-
+!data-sort-value="2021-07-18"|10–11, 17–18 July 2021
+| style="text-align:left;" |Roy Morgan<ref>{{Cite web|title=ALP (52.5%) stretches lead over L-NP (47.5%) after Sydney and Melbourne extend lockdowns|url=http://www.roymorgan.com/findings/8756-federal-voting-intention-july-2021-202107230640|access-date=2021-07-25|website=Roy Morgan|language=en|archive-date=25 July 2021|archive-url=https://web.archive.org/web/20210725112601/http://www.roymorgan.com/findings/8756-federal-voting-intention-july-2021-202107230640|url-status=live}}</ref>
+|Telephone/online
+|2737
+|39%
+|37%
+|11.5%
+|3%
+|9.5%
+|–
+|47.5%
+|style="background:#f66" |'''52.5%'''
+|–
+|-
+!data-sort-value="2021-07-17"|13–17 July 2021
+| style="text-align:left;" |Resolve Strategic<ref name="resolve4">{{cite news |last1=Crowe |first1=David |title=Vaccine rollout stumbles lead to slight drop in support for Coalition |url=https://www.smh.com.au/politics/federal/voters-mark-down-morrison-joyce-s-popularity-extraordinarily-low-20210719-p58b3c.html |access-date=20 July 2021 |work=The Sydney Morning Herald |date=20 July 2021 |language=en |archive-date=20 July 2021 |archive-url=https://web.archive.org/web/20210720010725/https://www.smh.com.au/politics/federal/voters-mark-down-morrison-joyce-s-popularity-extraordinarily-low-20210719-p58b3c.html |url-status=live }}</ref>
+|Online
+|1607
+|38%
+|35%
+|12%
+|4%
+|12%
+|–
+|–
+|–
+|–
+|-
+!data-sort-value="2021-07-17"|14–17 July 2021
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll18July2021">{{Cite news|last1=Benson|first1=Simon|title=Newspoll: Coalition, PM marked down as vaccine frustration builds|url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-pm-marked-down-as-vaccine-frustration-builds/news-story/31c5e300a481a59013c06770b36a2d09|access-date=2021-07-18|work=The Australian|archive-date=6 October 2021|archive-url=https://web.archive.org/web/20211006143625/https://www.theaustralian.com.au/nation/politics/newspoll-coalition-pm-marked-down-as-vaccine-frustration-builds/news-story/31c5e300a481a59013c06770b36a2d09|url-status=live}}</ref>
+|Online
+|1506
+|39%
+|39%
+|10%
+|3%
+|9%
+|–
+|47%
+|style="background:#f66" |'''53%'''
+|–
+|-
+!data-sort-value="2021-07-05"| 5 July 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|37%
+|36%
+|8%
+|4%
+|5%
+|8%
+|44%
+|style="background:#f66" |'''48%'''
+|8%
+|-
+!data-sort-value="2021-06-26"|23–26 June 2021
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll27June2021">{{Cite news|last1=Benson|first1=Simon|title=Newspoll: Coalition, Scott Morrison hold firm despite Covid crises, Nationals spill|url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-scott-morrison-hold-firm-despite-covid-crises-nationals-spill/news-story/0ac59ac20ab89fd93b36cd152004011c|access-date=2021-06-27|work=The Australian|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115011916/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-coalition-scott-morrison-hold-firm-despite-covid-crises-nationals-spill%252Fnews-story%252F0ac59ac20ab89fd93b36cd152004011c%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-control-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0|url-status=live}}</ref>
+|Online
+|1513
+|41%
+|37%
+|11%
+|3%
+|8%
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|–
+|- style="background:#DADADA;"
+!data-sort-value="2021-06-22"|22 June 2021
+| colspan="12" |'''Barnaby Joyce replaces Michael McCormack as [[National Party of Australia|National Party]] leader and [[Deputy Prime Minister of Australia|Deputy Prime Minister]]'''
+|-
+!data-sort-value="2021-06-21"| 21 June 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|38%
+|36%
+|10%
+|4%
+|5%
+|7%
+|45%
+|style="background:#f66" |'''47%'''
+|7%
+|-
+!data-sort-value="2021-06-20"|12–13, 19–20 June 2021
+|style="text-align:left;" |Roy Morgan<ref>{{Cite web|title=ALP (50.5%) leads L-NP (49.5%) on a two-party preferred basis – no bounce for PM from G7 trip|url=http://roymorgan.com.au/findings/8736-federal-voting-intention-june-2021-202106230548|access-date=2021-06-24|website=Roy Morgan|language=en|archive-date=24 June 2021|archive-url=https://web.archive.org/web/20210624205546/http://roymorgan.com.au/findings/8736-federal-voting-intention-june-2021-202106230548|url-status=live}}</ref>
+|Telephone/online
+|2782
+|41.5%
+|34.5%
+|12%
+|3.5%
+|8.5%
+| –
+|49.5%
+|style="background:#f66" |'''50.5%'''
+| –
+|-
+!data-sort-value="2021-06-13"|13 June 2021
+| style="text-align:left;" |Resolve Strategic<ref name="resolve3">{{cite news |last1=Crowe |first1=David |title=Vaccine rollout stumbles lead to slight drop in support for Coalition |url=https://www.smh.com.au/politics/federal/vaccine-rollout-stumbles-lead-to-slight-drop-in-support-for-coalition-20210614-p580yp.html |access-date=15 June 2021 |work=The Sydney Morning Herald |date=15 June 2021 |language=en |archive-date=15 June 2021 |archive-url=https://web.archive.org/web/20210615010356/https://www.smh.com.au/politics/federal/vaccine-rollout-stumbles-lead-to-slight-drop-in-support-for-coalition-20210614-p580yp.html |url-status=live }}</ref>
+|Online
+|1600
+|40%
+|36%
+|10%
+|3%
+|12%
+|–
+|–
+|–
+|–
+|-
+!data-sort-value="2021-06-07"| 7 June 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|38%
+|35%
+|10%
+|4%
+|7%
+|7%
+|44%
+|style="background:#f66" |'''48%'''
+|7%
+|-
+!data-sort-value="2021-06-06"|29–30 May, 5–6 June 2021
+|style="text-align:left;" |Roy Morgan<ref>{{Cite web|title=ALP (51%) leads L-NP (49%) on a two-party preferred basis the back of big lead in Victoria|url=http://www.roymorgan.com/findings/8726-federal-voting-intention-june-2021-202106090557|access-date=2021-06-09|website=Roy Morgan|language=en|archive-date=9 June 2021|archive-url=https://web.archive.org/web/20210609175629/http://www.roymorgan.com/findings/8726-federal-voting-intention-june-2021-202106090557|url-status=live}}</ref>
+|Telephone/online
+|2817
+|40%
+|35.5%
+|11.5%
+|3%
+|10%
+| –
+|49%
+|style="background:#f66" |'''51%'''
+| –
+|-
+!data-sort-value="2021-06-05"|2–5 June 2021
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll6June2021">{{Cite news|last1=Benson|first1=Simon|title=Newspoll: Parties level pegging but Morrison slides|url=https://www.theaustralian.com.au/nation/politics/newspoll-parties-level-pegging-but-morrisonslides/news-story/36e818408722359a24d9e53d6a411c6b|access-date=2021-06-06|work=The Australian|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115012004/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-parties-level-pegging-but-morrisonslides%252Fnews-story%252F36e818408722359a24d9e53d6a411c6b%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0|url-status=live}}</ref>
+|Online
+|1516
+|41%
+|36%
+|11%
+|3%
+|9%
+|–
+|'''50%'''
+|'''50%'''
+| –
+|-
+!data-sort-value="2021-05-24"| 24 May 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|37%
+|35%
+|10%
+|3%
+|6%
+|8%
+|44%
+|style="background:#f66" |'''48%'''
+|8%
+|-
+!data-sort-value="2021-05-16"|12–16 May 2021
+| style="text-align:left;" |Resolve Strategic<ref name="resolve2">{{cite news |last1=Crowe |first1=David |title=Voters warn Scott Morrison not to rush to an early election |url=https://www.smh.com.au/politics/federal/voters-warn-scott-morrison-not-to-rush-to-an-early-election-20210517-p57sqe.html |access-date=17 May 2021 |work=The Sydney Morning Herald |date=17 May 2021 |language=en |archive-date=17 May 2021 |archive-url=https://web.archive.org/web/20210517220139/https://www.smh.com.au/politics/federal/voters-warn-scott-morrison-not-to-rush-to-an-early-election-20210517-p57sqe.html |url-status=live }}</ref>
+|Online
+|1622
+|39%
+|35%
+|12%
+|2%
+|13%
+|–
+|–
+|–
+|–
+|-
+!data-sort-value="2021-05-15"|12–15 May 2021
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll16May2021">{{Cite news|last1=Benson|first1=Simon|title=Voters rate Josh Frydenberg's budget the best since the days of Peter Costello|url=https://www.theaustralian.com.au/nation/politics/voters-rate-josh-frydenbergs-budget-the-best-since-the-days-of-peter-costello/news-story/ce8db98242c36884e2879cab8faa2f80|access-date=2021-04-25|work=The Australian|archive-date=17 May 2021|archive-url=https://web.archive.org/web/20210517063625/https://www.theaustralian.com.au/nation/politics/voters-rate-josh-frydenbergs-budget-the-best-since-the-days-of-peter-costello/news-story/ce8db98242c36884e2879cab8faa2f80|url-status=live}}</ref>
+|Online
+|1506
+|41%
+|36%
+|12%
+|2%
+|9%
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|–
+|-
+!data-sort-value="2021-05-10"| 10 May 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|38%
+|36%
+|9%
+|3%
+|6%
+|8%
+|44%
+|style="background:#f66" |'''48%'''
+|8%
+|-
+!data-sort-value="2021-04-26"| 26 April 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|39%
+|34%
+|10%
+|4%
+|6%
+|7%
+|'''46%'''
+|'''46%'''
+|7%
+|-
+!data-sort-value="2021-04-24"|21–24 April 2021
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll24Apr2021">{{Cite news|last1=Benson|first1=Simon|title=Newspoll: Coalition lifts as support for Morrison rebounds|url=https://www.theaustralian.com.au/nation/newspoll-coalition-lifts-as-support-for-morrison-rebounds/news-story/52748a9ca02213128d48b3e7386162e5|access-date=2021-04-25|work=The Australian|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115011913/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fnewspoll-coalition-lifts-as-support-for-morrison-rebounds%252Fnews-story%252F52748a9ca02213128d48b3e7386162e5%26memtype%3Danonymous%26mode%3Dpremium&upid=rjdl4pv&upv=1.1.0|url-status=live}}</ref>
+|Online
+|1514
+|41%
+|38%
+|10%
+|3%
+|8%
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|–
+|-
+!data-sort-value="2021-04-16"|16 April 2021
+| style="text-align:left;" |Resolve Strategic<ref name="Resolve1">{{cite news |last1=Crowe |first1=David |title=Voters swing against Coalition but Morrison still preferred PM |url=https://www.smh.com.au/politics/federal/voters-swing-against-coalition-but-morrison-still-preferred-pm-20210419-p57kh2.html |access-date=20 April 2021 |work=The Sydney Morning Herald |date=20 April 2021 |language=en |archive-date=19 April 2021 |archive-url=https://web.archive.org/web/20210419221339/https://www.smh.com.au/politics/federal/voters-swing-against-coalition-but-morrison-still-preferred-pm-20210419-p57kh2.html |url-status=live }}</ref>
+|CATI/online
+|2000
+|38%
+|33%
+|12%
+|6%
+|11%
+|–
+|–
+|–
+|–
+|-
+!data-sort-value="2021-04-12"| 12 April 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|37%
+|36%
+|10%
+|3%
+|7%
+|7%
+|45%
+|style="background:#f66" |'''48%'''
+|7%
+|-
+!data-sort-value="2021-03-29"| 29 March 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|39%
+|36%
+|8%
+|3%
+|7%
+|7%
+|46%
+|style="background:#f66" |'''47%'''
+|7%
+|-
+!data-sort-value="2021-03-27"|24–27 March 2021
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll27Mar2021">{{cite news |last1=Benson |first1=Simon |title=Morrison cops backlash over treatment of women |url=https://www.theaustralian.com.au/nation/morrison-cops-backlash-over-treatment-of-women/news-story/5eaec997323e311997168e293157da5d |work=The Australian |date=28 February 2021 |access-date=28 March 2021 |archive-date=3 October 2021 |archive-url=https://web.archive.org/web/20211003024326/https://www.theaustralian.com.au/nation/morrison-cops-backlash-over-treatment-of-women/news-story/5eaec997323e311997168e293157da5d |url-status=live }}</ref>
+|Online
+|1517
+|40%
+|38%
+|11%
+|2%
+|9%
+|–
+|48%
+|style="background:#f66" |'''52%'''
+|–
+|-
+!data-sort-value="2021-03-15"| 15 March 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|38%
+|34%
+|9%
+|3%
+|8%
+|7%
+|'''47%'''
+|'''47%'''
+|7%
+|-
+!data-sort-value="2021-03-14"|6–7, 13–14 March 2021
+| style="text-align:left;" |Roy Morgan<ref name="Morgan032021">{{cite web |title=ALP (50.5%) retains lead over L-NP (49.5%) as 'Gender Gap' now favours ALP |url=https://www.roymorgan.com/findings/8662-federal-voting-intention-march-2021-202103160505 |website=Roy Morgan |access-date=17 March 2021 |language=en |archive-date=17 March 2021 |archive-url=https://web.archive.org/web/20210317030650/https://www.roymorgan.com/findings/8662-federal-voting-intention-march-2021-202103160505 |url-status=live }}</ref>
+|Telephone/online
+|2747
+|41%
+|34.5%
+|12.5%
+|2.5%
+|9.5%
+|–
+|49.5%
+|style="background:#f66" |'''50.5%'''
+|–
+|-
+!data-sort-value="2021-03-13"|10–13 March 2021
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll13Mar2021">{{cite news |last1=Benson |first1=Simon |title=Labor hits lead after a dose of Newspoll reality for Coalition |url=https://www.theaustralian.com.au/nation/labor-hits-lead-after-a-dose-of-newspoll-reality-for-coalition/news-story/4867b10d514781a56dfb72b6bb93a04e |work=The Australian |date=21 February 2021 |access-date=14 March 2021 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115012037/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Flabor-hits-lead-after-a-dose-of-newspoll-reality-for-coalition%252Fnews-story%252F4867b10d514781a56dfb72b6bb93a04e%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1521
+|39%
+|39%
+|10%
+|3%
+|9%
+|–
+|48%
+|style="background:#f66" |'''52%'''
+|–
+|-
+!data-sort-value="2021-03-01"| 1 March 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|37%
+|34%
+|9%
+|4%
+|8%
+|7%
+|45%
+|style="background:#f66" |'''48%'''
+|7%
+|-
+!data-sort-value="2021-02-20"|17–20 February 2021
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll20Feb2021">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Scott Morrison rides high on rollout as Anthony Albanese takes a hit |url=https://www.theaustralian.com.au/nation/newspoll-scott-morrison-rides-high-on-rollout-as-anthony-albanese-takes-a-hit/news-story/d74b7401748fe37dde13f69f2702bb81 |work=The Australian |date=21 February 2021 |access-date=21 February 2021 |archive-date=3 October 2021 |archive-url=https://web.archive.org/web/20211003044353/https://www.theaustralian.com.au/nation/newspoll-scott-morrison-rides-high-on-rollout-as-anthony-albanese-takes-a-hit/news-story/d74b7401748fe37dde13f69f2702bb81 |url-status=live }}</ref>
+|Online
+|1504
+|42%
+|37%
+|10%
+|3%
+|8%
+|–
+|'''50%'''
+|'''50%'''
+|–
+|-
+!data-sort-value="2021-02-15"| 15 February 2021
+|style="text-align:left;" |Essential<ref name="EssentialReportJuly2021"/>
+|Online
+|–
+|39%
+|35%
+|8%
+|4%
+|7%
+|6%
+|'''47%'''
+|'''47%'''
+|6%
+|-
+!data-sort-value="2021-02-14"|6–7, 13–14 February 2021
+| style="text-align:left;" |Roy Morgan<ref name="Morgan022021">{{cite web |title=ALP (50.5%) gains lead over L-NP (49.5%) on the back of strength in Victoria, Queensland & WA |url=https://www.roymorgan.com/findings/8648-federal-voting-intention-february-2021-202102181348 |website=Roy Morgan |access-date=19 February 2021 |language=en |archive-date=18 February 2021 |archive-url=https://web.archive.org/web/20210218235355/http://www.roymorgan.com/findings/8648-federal-voting-intention-february-2021-202102181348 |url-status=live }}</ref>
+|Telephone/online
+|2786
+|40%
+|34.5%
+|13%
+|3.5%
+|9%
+|–
+|49.5%
+|style="background:#f66" |'''50.5%'''
+|–
+|-
+!data-sort-value="2021-02-01"|27 January – 1 February 2021
+|style="text-align:left;" |Essential<ref name=":6">{{Cite news|last=Lewis|first=Peter|date=2021-02-02|title=Labor's promise to be 'on your side' is compelling and could win them an election {{!}} Peter Lewis|language=en-GB|work=The Guardian|url=https://www.theguardian.com/australia-news/commentisfree/2021/feb/02/labors-promise-to-be-on-your-side-is-compelling-and-could-win-them-an-election|access-date=2021-02-02|issn=0261-3077|archive-date=2 February 2021|archive-url=https://web.archive.org/web/20210202043909/https://www.theguardian.com/australia-news/commentisfree/2021/feb/02/labors-promise-to-be-on-your-side-is-compelling-and-could-win-them-an-election|url-status=live}}</ref><ref>{{Cite web|title=two party preferred Archives|url=https://essentialvision.com.au/tag/two-party-preferred|access-date=2021-04-06|website=The Essential Report|language=en|archive-date=4 March 2021|archive-url=https://web.archive.org/web/20210304052850/https://essentialvision.com.au/tag/two-party-preferred|url-status=live}}</ref>
+|Online
+|1092
+|37%
+|35%
+|10%
+|3%
+|7%
+|8%
+|44%
+|style="background:#f66" |'''47%'''
+|8%
+|-
+!data-sort-value="2021-01-30"|27–30 January 2021
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll30Jan2021">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Border blues hit Scott Morrison as Labor gains |url=https://www.theaustralian.com.au/nation/politics/newspoll-border-blues-hit-scott-morrison-as-labor-gains/news-story/d86d56244f6be9317391cbf4a8c13c09 |work=The Australian |date=31 January 2021 |access-date=31 January 2021 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011911/https://bs.serving-sys.com/Serving?cn=ot&onetagid=6630&dispType=js&sync=0&sessionid=7441217738313955194&pageurl=$$https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-border-blues-hit-scott-morrison-as-labor-gains%252Fnews-story%252Fd86d56244f6be9317391cbf4a8c13c09%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend$$&activityValues=$$Session%3D2419958081671754122$$&ns=0&rnd=26444628996491204 |url-status=live }}</ref>
+|Online
+|1512
+|42%
+|36%
+|10%
+|3%
+|9%
+|–
+|'''50%'''
+|'''50%'''
+|–
+|-
+!data-sort-value="2021-01-18"|18 January 2021
+|style="text-align:left;" |Essential<ref name=":6" />
+|Online
+|–
+|40%
+|33%
+|10%
+|3%
+|7%
+|7%
+|style="background:#00bfff" |'''48%'''
+|45%
+|7%
+|-
+!data-sort-value="2020-12-14"|14 December 2020
+|style="text-align:left;" |Essential<ref name=":6" />
+|Online
+|–
+|37%
+|35%
+|8%
+|4%
+|7%
+|9%
+|45%
+|style="background:#f66" |'''46%'''
+|9%
+|-
+!data-sort-value="2020-11-30"|30 November 2020
+|style="text-align:left;" |Essential<ref name=":6" />
+|Online
+|–
+|41%
+|33%
+|8%
+|4%
+|6%
+|8%
+|style="background:#00bfff" |'''49%'''
+|43%
+|8%
+|-
+!data-sort-value="2020-11-28"|25–28 November 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll29Nov2020">{{cite news |last1=Benson |first1=Simon |title=Scott Morrison on a high as border bans removed |url=https://www.theaustralian.com.au/nation/scott-morrison-on-a-high-as-border-bans-removed/news-story/728454b2c9b633721a008deb2a44d966 |work=The Australian |access-date=29 November 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011911/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fscott-morrison-on-a-high-as-border-bans-removed%252Fnews-story%252F728454b2c9b633721a008deb2a44d966%26memtype%3Danonymous%26mode%3Dpremium&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1511
+|43%
+|36%
+|11%
+|2%
+|8%
+|–
+|style="background:#00bfff" |'''51%'''
+|49%
+|–
+|-
+!data-sort-value="2020-11-16"|16 November 2020
+|style="text-align:left;" |Essential<ref name=":6" />
+|Online
+|–
+|38%
+|35%
+|9%
+|4%
+|6%
+|7%
+|45%
+|style="background:#f66" |'''47%'''
+|7%
+|-
+!data-sort-value="2020-11-15"|14–15, 21–22 November 2020
+| style="text-align:left;" |Roy Morgan<ref name=":5">{{cite web |title=L-NP (50.5%) has narrow lead over ALP (49.5%) in November as Australia gets set for a 'COVID-normal' Christmas |url=http://www.roymorgan.com/findings/8581-roy-morgan-poll-federal-voting-intention-november-2020-202011230922 |website=Roy Morgan |access-date=24 November 2020 |language=en |archive-date=23 November 2020 |archive-url=https://web.archive.org/web/20201123235359/https://www.roymorgan.com/findings/8581-roy-morgan-poll-federal-voting-intention-november-2020-202011230922 |url-status=live }}</ref>
+|Telephone/online
+|2824
+|42%
+|34%
+|12%
+|4%
+|8%
+|–
+|style="background:#00bfff" |'''50.5%'''
+|49.5%
+|–
+|-
+!data-sort-value="2020-11-07"|4–7 November 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll7Nov2020">{{cite news |last1=Benson |first1=Simon |title=Scott Morrison dominates resurgent Anthony Albanese in Newspoll |url=https://www.theaustralian.com.au/nation/politics/scott-morrison-dominates-resurgent-anthony-albanese-in-newspoll/news-story/5720278fea7ad35e823b9dff2a54e849 |work=The Australian |access-date=8 November 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011952/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fscott-morrison-dominates-resurgent-anthony-albanese-in-newspoll%252Fnews-story%252F5720278fea7ad35e823b9dff2a54e849%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-control-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1510
+|43%
+|35%
+|11%
+|3%
+|8%
+|–
+|style="background:#00bfff" |'''51%'''
+|49%
+|–
+|-
+!data-sort-value="2020-11-02"|2 November 2020
+|style="text-align:left;" |Essential<ref name=":6" />
+|Online
+|–
+|39%
+|35%
+|9%
+|3%
+|5%
+|9%
+|44%
+|style="background:#f66" |'''46%'''
+|9%
+|-
+!data-sort-value="2020-10-19"|14–19 October 2020
+| style="text-align:left;" |Essential<ref name="essential201020">{{cite news |title=The Essential Report |url=https://essentialvision.com.au/federal-voting-intention-133 |archive-url=https://web.archive.org/web/20201022020648/https://essentialvision.com.au/federal-voting-intention-133 |access-date=20 October 2020|archive-date=22 October 2020 }}</ref>
+|Online
+|–
+|39%
+|35%
+|9%
+|3%
+|7%
+|8%
+|style="background:#00bfff" |'''48%'''
+|45%
+|8%
+|-
+!data-sort-value="2020-10-12"|12 October 2020
+| style="text-align:left;" |Essential<ref name="essential201020"/>
+|Online
+|–
+|40%
+|33%
+|9%
+|3%
+|5%
+|9%
+|style="background:#00bfff" |'''47%'''
+|44%
+|9%
+|-
+!data-sort-value="2020-10-10"|8–10 October 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll11Oct2020">{{cite news |last1=Benson |first1=Simon |title=Nation backs PM's cash splash |url=https://www.theaustralian.com.au/nation/politics/nation-backs-pms-cash-splash/news-story/9b5e620f7b86e8bd22feef62bd9816cd |work=The Australian |access-date=11 October 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011916/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnation-backs-pms-cash-splash%252Fnews-story%252F9b5e620f7b86e8bd22feef62bd9816cd%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1527
+|44%
+|34%
+|11%
+|3%
+|8%
+|–
+|style="background:#00bfff" |'''52%'''
+|48%
+|–
+|-
+!data-sort-value="2020-10-05"|5 October 2020
+| style="text-align:left;" |Essential<ref name="essential201020"/>
+|Online
+|–
+|39%
+|34%
+|9%
+|5%
+|6%
+|7%
+|style="background:#00bfff" |'''47%'''
+|46%
+|7%
+|-
+!data-sort-value="2020-09-21"|21 September 2020
+| style="text-align:left;" |Essential<ref name="essential201020"/>
+|Online
+|–
+|41%
+|31%
+|10%
+|4%
+|5%
+|9%
+|style="background:#00bfff" |'''49%'''
+|42%
+|8%
+|-
+!data-sort-value="2020-09-19"|16–19 September 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll20Sep2020">{{cite news |last1=Benson |first1=Simon |title=Coalition bounces back as voters desert Labor |url=https://www.theaustralian.com.au/nation/coalition-bounces-back-as-voters-desert-labor/news-story/46d58ac8c55d71317106c85a665921ab |work=The Australian |date=20 September 2020 |access-date=20 September 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115012036/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fcoalition-bounces-back-as-voters-desert-labor%252Fnews-story%252F46d58ac8c55d71317106c85a665921ab%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|2068
+|43%
+|34%
+|12%
+|3%
+|8%
+|–
+|style="background:#00bfff" |'''51%'''
+|49%
+|–
+|-
+!data-sort-value="2020-09-07"|7 September 2020
+| style="text-align:left;" |Essential<ref name="essential201020"/>
+|Online
+|–
+|38%
+|32%
+|10%
+|3%
+|9%
+|8%
+|45%
+|style="background:#f66" |'''47%'''
+|8%
+|-
+!data-sort-value="2020-08-29"|26–29 August 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll30Aug2020">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Scott Morrison's numbers dip as voters back premiers' rights |url=https://www.theaustralian.com.au/nation/newspoll-scott-morrisons-numbers-dip-as-voters-back-premiers-rights/news-story/fcfa72ea6eedde193f2329f26aafafb7 |work=The Australian |access-date=30 August 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115012030/https://insight.adsrvr.org/track/up?adv=88zyn8h&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fnewspoll-scott-morrisons-numbers-dip-as-voters-back-premiers-rights%252Fnews-story%252Ffcfa72ea6eedde193f2329f26aafafb7%26memtype%3Danonymous%26mode%3Dpremium&upid=hcgtqbu&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1507
+|41%
+|36%
+|11%
+|3%
+|9%
+|–
+|'''50%'''
+|'''50%'''
+|–
+|-
+!data-sort-value="2020-08-24"|24 August 2020
+| style="text-align:left;" |Essential<ref name="essential201020"/>
+|Online
+|–
+|39%
+|35%
+|9%
+|4%
+|6%
+|7%
+|style="background:#00bfff" |'''47%'''
+|45%
+|7%
+|-
+!data-sort-value="2020-08-10"|10 August 2020
+| style="text-align:left;" |Essential<ref name="essential201020"/>
+|Online
+|–
+|38%
+|34%
+|9%
+|4%
+|5%
+|10%
+|style="background:#00bfff" |'''46%'''
+|44%
+|10%
+|-
+!data-sort-value="2020-08-09"|8–9, 15–16 August 2020
+| style="text-align:left;" |Roy Morgan<ref name="RMPAUG20">{{Cite web|title=L-NP (54%) widens lead over ALP (46%) in mid-August as Victoria and NSW grapple with second wave of COVID-19|url=https://www.roymorgan.com/findings/8498-l-np-government-ahead-covid-19-second-wave-august-2020-202008210142|work=Roy Morgan|date=21 August 2020|access-date=21 August 2020|archive-date=22 August 2020|archive-url=https://web.archive.org/web/20200822122830/http://www.roymorgan.com/findings/8498-l-np-government-ahead-covid-19-second-wave-august-2020-202008210142|url-status=live}}</ref>
+|Telephone/online
+|2841
+|46%
+|32.5%
+|11%
+|3%
+|7.5%
+|–
+|style="background:#00bfff" |'''54%'''
+|46%
+|–
+|-
+!data-sort-value="2020-08-08"|5–8 August 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="npaug20">{{Cite news|last1=Benson|first1=Simon|title=Scott Morrison weathers storm as virus wreaks havoc|url=https://www.theaustralian.com.au/nation/scott-morrison-weathers-storm-as-virus-wreaks-havoc/news-story/f66cfaf5c795b3976c929b61ce057d04|work=The Australian|date=9 August 2020|access-date=9 August 2020|archive-date=3 October 2021|archive-url=https://web.archive.org/web/20211003041343/https://www.theaustralian.com.au/nation/scott-morrison-weathers-storm-as-virus-wreaks-havoc/news-story/f66cfaf5c795b3976c929b61ce057d04|url-status=live}}</ref>
+|Online
+|1509
+|43%
+|33%
+|11%
+|4%
+|9%
+|–
+|style="background:#00bfff" |'''52%'''
+|48%
+|–
+|-
+!data-sort-value="2020-07-26"|23–26 July 2020
+| style="text-align:left;" |Essential<ref name="essential270720">{{cite news |title=The Essential Report |url=https://essentialvision.com.au/wp-content/uploads/2020/07/Essential-Report-270720.pdf |access-date=29 July 2020 |archive-date=29 July 2020 |archive-url=https://web.archive.org/web/20200729055549/https://essentialvision.com.au/wp-content/uploads/2020/07/Essential-Report-270720.pdf |url-status=live }}</ref>
+|Online
+|1058
+|38%
+|35%
+|9%
+|4%
+|6%
+|8%
+|45%
+|style="background:#f66" |'''47%'''
+|8%
+|-
+!data-sort-value="2020-07-12"|11–12, 18–19 July 2020
+| style="text-align:left;" |Roy Morgan<ref name=":4">{{Cite web|title=L-NP (51.5%) increases lead over ALP (48.5%) in mid-July as second wave of COVID-19 hits Victoria|url=http://www.roymorgan.com/findings/8474-l-np-government-ahead-covid-19-second-wave-july-2020-202007240519|access-date=2020-07-26|website=Roy Morgan|language=en|archive-date=26 July 2020|archive-url=https://web.archive.org/web/20200726094442/http://www.roymorgan.com/findings/8474-l-np-government-ahead-covid-19-second-wave-july-2020-202007240519|url-status=live}}</ref>
+|Telephone/online
+|2589
+|43.5%
+|33.5%
+|11%
+|2.5%
+|9.5%
+|–
+|style="background:#00bfff" |'''51.5%'''
+|48.5%
+|–
+|-
+!data-sort-value="2020-07-18"|15–18 July 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name=":3">{{Cite news|last1=Benson|first1=Simon|title=Morrison flying high as Coalition drives recovery|url=https://www.theaustralian.com.au/nation/politics/morrison-flying-high-as-coalition-drives-recovery/news-story/f4833442cb5ffcffe3065d5672e3eab1|work=The Australian|access-date=19 July 2020|archive-date=2 October 2021|archive-url=https://web.archive.org/web/20211002231235/https://www.theaustralian.com.au/nation/politics/morrison-flying-high-as-coalition-drives-recovery/news-story/f4833442cb5ffcffe3065d5672e3eab1|url-status=live}}</ref>
+|Online
+|1850
+|44%
+|34%
+|10%
+|4%
+|8%
+|–
+|style="background:#00bfff" |'''53%'''
+|47%
+|–
+|-
+!data-sort-value="2020-07-13"|13 July 2020
+| style="text-align:left;" |Essential<ref name="essential270720" />
+|Online
+|1054
+|37%
+|34%
+|10%
+|4%
+|6%
+|9%
+|45%
+|style="background:#f66" |'''46%'''
+|9%
+|-
+!data-sort-value="2020-06-29"|29 June 2020
+| style="text-align:left;" |Essential<ref name="essential270720" />
+|Online
+|1079
+|39%
+|33%
+|9%
+|4%
+|6%
+|8%
+|style="background:#00bfff" |'''47%'''
+|45%
+|8%
+|-
+!data-sort-value="2020-06-27"|24–27 June 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="newspoll200628">{{cite news |last1=Benson |first1=Simon |title=Record approval for PM as by-election looms in Eden |url=https://www.theaustralian.com.au/nation/politics/record-approval-for-pm-as-byelection-looms-in-eden/news-story/b554e81f718d65e7e8d1e6f58d09faa9 |work=The Australian |date=28 June 2020 |access-date=28 June 2020 |archive-date=3 October 2021 |archive-url=https://web.archive.org/web/20211003004257/https://www.theaustralian.com.au/nation/politics/record-approval-for-pm-as-byelection-looms-in-eden/news-story/b554e81f718d65e7e8d1e6f58d09faa9 |url-status=live }}</ref>
+|Online
+|1521
+|42%
+|35%
+|11%
+|3%
+|9%
+|–
+|style="background:#00bfff" |'''51%'''
+|49%
+|–
+|-
+!data-sort-value="2020-06-22"|22 June 2020
+| style="text-align:left;" |Essential<ref name="essential270720" />
+|Online
+|1079
+|39%
+|33%
+|10%
+|5%
+|6%
+|7%
+|style="background:#00bfff" |'''48%'''
+|46%
+|7%
+|-
+!data-sort-value="2020-06-14"|13–14, 20–21 June 2020
+| style="text-align:left;" |Roy Morgan<ref name="morgan8454">{{cite web |title=L-NP (50.5%) holds narrow lead over ALP (49.5%) a week before the Eden-Monaro by-election |url=http://www.roymorgan.com/findings/8454-l-np-government-ahead-prior-to-eden-monaro-byelection-june-2020-202006250226 |publisher=Roy Morgan Research |access-date=25 June 2020 |archive-date=26 June 2020 |archive-url=https://web.archive.org/web/20200626092256/http://www.roymorgan.com/findings/8454-l-np-government-ahead-prior-to-eden-monaro-byelection-june-2020-202006250226 |url-status=live }}</ref>
+|Telephone/online
+|2593
+|42.5%
+|34.5%
+|10.5%
+|4%
+|8.5%
+|–
+|style="background:#00bfff" | '''50.5%'''
+|49.5%
+|–
+|-
+!data-sort-value="2020-06-15"|15 June 2020
+| style="text-align:left;" |Essential<ref name="essential270720" />
+|Online
+|1087
+|38%
+|35%
+|9%
+|5%
+|7%
+|7%
+|'''47%'''
+|'''47%'''
+|7%
+|-
+!data-sort-value="2020-06-08"|8 June 2020
+| style="text-align:left;" |Essential<ref name="essential270720" />
+|Online
+|1073
+|40%
+|33%
+|9%
+|4%
+|6%
+|8%
+|style="background:#00bfff" |'''47%'''
+|45%
+|8%
+|-
+!data-sort-value="2020-06-06"|3–6 June 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name=":2">{{Cite web|title=Newspoll: PM's record approval rating defies bad news|url=https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fnation%2Fpolitics%2Fnewspoll-morrison-approval-defies-the-bad-news%2Fnews-story%2F9070078eb6045c52b7d4939c4afd86e9&memtype=anonymous&mode=premium&nk=0125b53dd76bf5a0873b5c9f14411742-1591530911|access-date=2020-06-07|website=theaustralian.com.au|archive-date=7 June 2020|archive-url=https://web.archive.org/web/20200607120041/https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fnation%2Fpolitics%2Fnewspoll-morrison-approval-defies-the-bad-news%2Fnews-story%2F9070078eb6045c52b7d4939c4afd86e9&memtype=anonymous&mode=premium&nk=0125b53dd76bf5a0873b5c9f14411742-1591530911|url-status=live}}</ref>
+|Online
+|1512
+|42%
+|34%
+|12%
+|4%
+|8%
+|–
+|style="background:#00bfff" |'''51%'''
+|49%
+|–
+|-
+!data-sort-value="2020-05-16"|13–16 May 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="newspoll17may">{{cite web |last1=Benson |first1=Simon |title=Newspoll: Coalition rides wave of support as fears subside |url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-rides-wave-of-support-as-fears-subside/news-story/2fe96f20dd956dd84a5a8df62bd021b4 |publisher=The Australian |access-date=17 May 2020 |archive-date=3 October 2021 |archive-url=https://web.archive.org/web/20211003001250/https://www.theaustralian.com.au/nation/politics/newspoll-coalition-rides-wave-of-support-as-fears-subside/news-story/2fe96f20dd956dd84a5a8df62bd021b4 |url-status=live }}</ref>
+|Online
+|1504
+|43%
+|35%
+|10%
+|3%
+|9%
+|–
+|style="background:#00bfff" | '''51%'''
+|49%
+|–
+|-
+!data-sort-value="2020-04-19"|18–19, 25–26 April 2020
+| style="text-align:left;" |Roy Morgan<ref name="morgan8389">{{cite web |title=L-NP (51.5%) now ahead of ALP (48.5%) and Government Confidence soars 34pts in April as Australia faces COVID-19 |url=http://www.roymorgan.com/findings/8389-l-np-government-support-jumps-as-australia-responds-to-covid-19-april-2020-202004280405 |publisher=Roy Morgan Research |access-date=28 April 2020 |archive-date=3 May 2020 |archive-url=https://web.archive.org/web/20200503093114/http://www.roymorgan.com/findings/8389-l-np-government-support-jumps-as-australia-responds-to-covid-19-april-2020-202004280405 |url-status=live }}</ref>
+|Telephone/online
+|2806
+|43.5%
+|33%
+|11.5%
+|3%
+|9%
+|–
+|style="background:#00bfff" | '''51.5%'''
+|48.5%
+|–
+|-
+!data-sort-value="2020-04-25"|22–25 April 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="newspoll22april">{{cite web |last1=Benson |first1=Simon |title=Newspoll: Support for PM soars, but Coalition flatlines |url=https://www.theaustralian.com.au/nation/politics/newspoll-morrisons-approval-ratings-soar-as-parties-deadlocked/news-story/437e53c44aeb20de354ed1fa46cffc4e |publisher=The Australian |access-date=26 April 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011934/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-morrisons-approval-ratings-soar-as-parties-deadlocked%252Fnews-story%252F437e53c44aeb20de354ed1fa46cffc4e%26memtype%3Danonymous%26mode%3Dpremium&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1519
+|41%
+|36%
+|12%
+|4%
+|7%
+|–
+|'''50%'''
+|'''50%'''
+|–
+|-
+!data-sort-value="2020-04-03"|1–3 April 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="newspoll5april">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Record turnaround for Scott Morrison and universal support for wage subsidy |url=https://www.theaustralian.com.au/nation/newspoll-record-turnaround-for-scott-morrison-and-universal-support-for-wage-subsidy/news-story/4889cd4f8adbe27537299d5b0c769f54 |work=The Australian |date=15 March 2020 |access-date=5 April 2020 |archive-date=2 October 2021 |archive-url=https://web.archive.org/web/20211002222726/https://www.theaustralian.com.au/nation/newspoll-record-turnaround-for-scott-morrison-and-universal-support-for-wage-subsidy/news-story/4889cd4f8adbe27537299d5b0c769f54 |url-status=live }}</ref>
+|Online
+|1508
+|42%
+|34%
+|13%
+|5%
+|6%
+|–
+|style="background:#00bfff" | '''51%'''
+|49%
+|–
+|-
+!data-sort-value="2020-03-14"|11–14 March 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="newspoll15march2020">{{cite news |last1=Benson |first1=Simon |title=Scott Morrison backed but voters fearful over economy, health |url=https://www.theaustralian.com.au/nation/politics/newspoll-scott-morrison-backed-but-voters-fearful-over-economy-health/news-story/db0019cbca5687e0db90412f537cbcca |work=The Australian |date=15 March 2020 |access-date=15 March 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011955/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-scott-morrison-backed-but-voters-fearful-over-economy-health%252Fnews-story%252Fdb0019cbca5687e0db90412f537cbcca%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1501
+|40%
+|36%
+|12%
+|4%
+|8%
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|–
+|- style="background:#DADADA;"
+!data-sort-value="2020-02-27"|27 February 2020
+| colspan="12" |'''[[COVID-19 pandemic]] declared a national emergency'''
+|-
+!data-sort-value="2020-02-22"|19–22 February 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="newspoll23feb2020">{{cite news |last1=Benson |first1=Simon |title=Coalition closes gap on Labor, Albanese slides |url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-closes-gap-on-labor-anthony-albanese-slides/news-story/631e801497b1359db328efbcbe29a352 |work=The Australian |date=23 February 2020 |access-date=23 February 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011917/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-coalition-closes-gap-on-labor-anthony-albanese-slides%252Fnews-story%252F631e801497b1359db328efbcbe29a352%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1513
+|38%
+|34%
+|13%
+|4%
+|11%
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|–
+|- 
+!data-sort-value="2020-02-03"|20 January – 3 February 2020
+| style="text-align:left;" |[[Australian National University|ANU]]<ref name="anupolljan2020">{{cite news |last1=Biddle |first1=Nicholas |title=Exposure and the impact on attitudes of the 2019–20 bushfires |url=https://csrm.cass.anu.edu.au/sites/default/files/docs/2020/2/Exposure_and_impact_on_attitudes_of_the_2019-20_Australian_Bushfires.pdf |access-date=18 February 2020 |work=Australian National University |date=18 February 2020 |archive-date=17 February 2020 |archive-url=https://web.archive.org/web/20200217201755/https://csrm.cass.anu.edu.au/sites/default/files/docs/2020/2/Exposure_and_impact_on_attitudes_of_the_2019-20_Australian_Bushfires.pdf |url-status=live }}</ref>
+|CATI/online
+|3249
+|34.8%
+|33.4%
+|14.7%
+|–
+|10.5%
+|–
+|–
+|–
+|–
+|- style="background:#DADADA;"
+!data-sort-value="2020-02-04"|4 February 2020
+| colspan="12" | '''Adam Bandt replaces Richard Di Natale as Greens leader'''
+|-
+!data-sort-value="2020-02-01"|29 January – 1 February 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="newspoll2feb2020">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Coalition vote gets burnt by fires, rorts |url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-vote-gets-burnt-by-fires-rorts/news-story/c027d9e4500e0fc151af4245589f582a |access-date=2 February 2020 |work=The Australian |date=2 February 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011913/https://insight.adsrvr.org/track/up?adv=88zyn8h&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-coalition-vote-gets-burnt-by-fires-rorts%252Fnews-story%252Fc027d9e4500e0fc151af4245589f582a%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=hcgtqbu&upv=1.1.0 |url-status=live }}</ref>
+|Online
+|1510
+|38%
+|35%
+|13%
+|4%
+|10%
+|–
+|48%
+|style="background:#f66" |'''52%'''
+|–
+|-
+!data-sort-value="2020-01-11"|8–11 January 2020
+| style="text-align:left;" |Newspoll-YouGov<ref name="newspoll11jan2020">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Scott Morrison takes a hit in bushfires backlash |url=https://www.theaustralian.com.au/nation/politics/newspoll-scott-morrison-takes-a-hit-in-bushfires-backlash/news-story/bf5bd8690ca01bb4a8332e8a49fb4ed9 |access-date=13 January 2020 |work=The Australian |date=12 January 2020 |archive-date=3 October 2021 |archive-url=https://web.archive.org/web/20211003021317/https://www.theaustralian.com.au/nation/politics/newspoll-scott-morrison-takes-a-hit-in-bushfires-backlash/news-story/bf5bd8690ca01bb4a8332e8a49fb4ed9 |url-status=live }}</ref>
+|Online
+|1505
+|40%
+|36%
+|12%
+|4%
+|8%
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|–
+|-
+!data-sort-value="2019-12-08"|4–8 December 2019
+| style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll8December">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Coalition on a high but Albanese claws back voter support |url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-on-a-high-but-albanese-claws-back-voter-trust/news-story/4edab23aa10eaa75a6828b99659ee5cc |access-date=8 December 2019 |work=The Australian |date=8 December 2019 |archive-date=3 October 2021 |archive-url=https://web.archive.org/web/20211003012808/https://www.theaustralian.com.au/nation/politics/newspoll-coalition-on-a-high-but-albanese-claws-back-voter-trust/news-story/4edab23aa10eaa75a6828b99659ee5cc |url-status=live }}</ref>
+|Online
+|1503
+|42%
+|33%
+|11%
+|5%
+|9%
+|–
+| style="background:#00bfff" |'''52%'''
+|48%
+|–
+|-
+!data-sort-value="2019-11-23"|21–23 November 2019
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll24November">{{cite news |last1=Benson |first1=Simon |title=Newspoll: The Coalition nudges ahead in poll revamp |url=https://www.theaustralian.com.au/nation/politics/newspoll-the-coalition-nudges-ahead-in-poll-revamp/news-story/a1558965ac51628b581335c7b1597249 |access-date=24 November 2019 |work=The Australian |date=24 November 2019 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011917/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-the-coalition-nudges-ahead-in-poll-revamp%252Fnews-story%252Fa1558965ac51628b581335c7b1597249%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|Online<ref>{{Cite news|url=https://www.theaustralian.com.au/nation/politics/polling-changes-with-the-aim-of-getting-it-right/news-story/8d0943848c39bce9efcb50e701474bd2|title=Newspoll: Polling changes with the aim of getting it right|last=White|first=Campbell|date=24 November 2019|work=The Australian|access-date=3 January 2020|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115012013/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fpolling-changes-with-the-aim-of-getting-it-right%252Fnews-story%252F8d0943848c39bce9efcb50e701474bd2%26memtype%3Danonymous%26mode%3Dpremium&upid=rjdl4pv&upv=1.1.0|url-status=live}}</ref>
+|1519
+|41%
+|33%
+|12%
+|5%
+|9%
+|–
+|style="background:#00bfff" | '''51%'''
+|49%
+|–
+|-
+!data-sort-value="2019-11-10"|7–10 November 2019
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll10November">{{cite news |last1=Benson |first1=Simon |title=Newspoll: ALP draws level as drought hits hard |url=https://www.theaustralian.com.au/nation/politics/newspoll-major-parties-tied-as-economy-woes-bite/news-story/175f975210270a3b6d154bd36297d867 |access-date=10 November 2019 |work=The Australian |date=10 November 2019 |archive-date=2 October 2021 |archive-url=https://web.archive.org/web/20211002234243/https://www.theaustralian.com.au/nation/politics/newspoll-major-parties-tied-as-economy-woes-bite/news-story/175f975210270a3b6d154bd36297d867 |url-status=live }}</ref>
+|IVR/online
+|1682
+|40%
+|35%
+|12%
+|7%
+|6%
+|–
+|'''50%'''
+|'''50%'''
+|–
+|-
+!data-sort-value="2019-10-20"|17–20 October 2019
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll20October2019">{{cite news |last1=Benson |first1=Simon |title=Coalition shrugs off critics, keeps ALP at bay |url=https://www.theaustralian.com.au/nation/politics/coalition-shrugs-off-critics-keeps-alp-at-bay/news-story/e0fd0f3bbcf891c15a9a4c0675a0b335 |access-date=22 October 2019 |work=The Australian |date=20 October 2018 |archive-date=3 October 2021 |archive-url=https://web.archive.org/web/20211003042848/https://www.theaustralian.com.au/nation/politics/coalition-shrugs-off-critics-keeps-alp-at-bay/news-story/e0fd0f3bbcf891c15a9a4c0675a0b335 |url-status=live }}</ref>
+|IVR/online
+|1634
+|42%
+|33%
+|13%
+|6%
+|6%
+|–
+|style="background:#00bfff" | '''51%'''
+|49%
+|–
+|-
+!data-sort-value="2019-09-29"|26–29 September 2019
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll29September2019">{{cite news |last1=Benson |first1=Simon |title=Newspoll: ALP sheds support but Albanese turns tide |url=https://www.theaustralian.com.au/nation/politics/newspoll-alp-sheds-support-but-albanese-turns-tide/news-story/04b8e61327943c61baa80c24b8c147bd |access-date=29 September 2019 |work=The Australian |archive-date=3 October 2021 |archive-url=https://web.archive.org/web/20211003024324/https://www.theaustralian.com.au/nation/politics/newspoll-alp-sheds-support-but-albanese-turns-tide/news-story/04b8e61327943c61baa80c24b8c147bd |url-status=live }}</ref>
+|IVR/online
+|1658
+|42%
+|33%
+|13%
+|6%
+|6%
+|–
+|style="background:#00bfff" | '''51%'''
+|49%
+|–
+|-
+!data-sort-value="2019-09-07"|5–7 September 2019
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll8September2019">{{cite news |last1=Benson |first1=Simon |title=Slide puts Albanese into negative territory |url=https://www.theaustralian.com.au/nation/politics/slide-puts-albanese-into-negative-territory/news-story/14b53108007fe9046e2caa9a9ae2b4d6 |access-date=8 September 2019 |work=The Australian |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011912/https://login.newscorpaustralia.com/authorize?client_id=HftEQUnDM7g7u3R0AnMT4wVF5k27TQMU&response_type=token%20id_token&scope=openid%20profile&audience=newscorpaustralia&redirect_uri=https%3A%2F%2Fwww.theaustralian.com.au%2Fremote%2Fidentity%2Fauth%2Flatest%2Flogin%2Fcallback.html&state=oGgXimY6fJxn_xGvLHYA3Cs2sqedA06P&nonce=X-bRdYkqRTZBmmUJfxKK1qwcGw1VoyEm&response_mode=web_message&prompt=none&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xNy4wIn0%3D |url-status=live }}</ref>
+|IVR/online
+|1661
+|43%
+|35%
+|12%
+|5%
+|5%
+|–
+|style="background:#00bfff" | '''51%'''
+|49%
+|–
+|-
+!data-sort-value="2019-08-18"|15–18 August 2019
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll18August2019">{{cite news |last1=Benson |first1=Simon |title=Newspoll: Post-poll reality check for Coalition |url=https://www.theaustralian.com.au/nation/politics/newspoll-postpoll-reality-check-for-coalition/news-story/d9198776ce81b9ae5c0b087c9d56616f |access-date=18 August 2019 |work=The Australian |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011917/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-postpoll-reality-check-for-coalition%252Fnews-story%252Fd9198776ce81b9ae5c0b087c9d56616f%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-control-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|IVR/online
+|1623
+|42%
+|34%
+|11%
+|4%
+|9%
+|–
+|style="background:#00bfff" | '''51%'''
+|49%
+|–
+|-
+!data-sort-value="2019-07-28"|25–28 July 2019
+|style="text-align:left;" |Newspoll-YouGov<ref name="Newspoll28July2019">{{cite news |last1=Benson |first1=Simon |title=Election 2019: Scott Morrison gets Post election surge as voters swing behind him |url=https://www.theaustralian.com.au/nation/politics/scott-morrison-gets-postelection-surge-as-voters-swing-behind-him/news-story/7000ab331df635dfa15548302f4b6fed |access-date=28 July 2019 |work=The Australian |date=28 July 2019 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011937/https://www.theaustralian.com.au/nation/politics/scott-morrison-gets-postelection-surge-as-voters-swing-behind-him/news-story/7000ab331df635dfa15548302f4b6fed?nk=291b0fa62b3299585096cf2b0f84952a-1636939177 |url-status=live }}</ref>
+|IVR/online
+|1601
+|44%
+|33%
+|11%
+|3%
+|9%
+|–
+|style="background:#00bfff" | '''53%'''
+|47%
+|–
+|- style="background:#DADADA;"
+!data-sort-value="2019-05-30"|30 May 2019
+| colspan="12" |'''Anthony Albanese replaces Bill Shorten as Labor leader'''
+|-
+!data-sort-value="2019-05-18" style="background:#b0e9db;"|[[2019 Australian federal election|18 May 2019 election]]
+| colspan="3" style="background:#b0e9db;" |
+| style="background:#b0e9db;"|41.44%
+| style="background:#b0e9db;"|33.34%
+| style="background:#b0e9db;"|10.4%
+| style="background:#b0e9db;"|3.08%
+| style="background:#b0e9db;"|11.74%
+| style="background:#b0e9db;"|N/A
+| style="background:#b0e9db;"|'''51.53%'''
+| style="background:#b0e9db;"|48.47%
+| style="background:#b0e9db;"|N/A
+|-
+|}
+{{clear}}
+
+=== Polling for individual seats ===
+[[Electorate opinion polling for the 2022 Australian federal election]]
+
+== Preferred prime minister ==
+{{multiple images|perrow = 1|align=left
+|image1=Australian federal election polling - 47th parliament - preferred prime minister.svg
+|width1=500
+|caption1=Preferred prime minister.
+|image2=Australian federal election polling - 47th parliament - Scott Morrison satisfaction rating.svg
+|width2=500
+|caption2=Satisfaction rating for prime minister [[Scott Morrison]]
+|image3=Australian federal election polling - 47th parliament - Anthony Albanese satisfaction rating.svg
+|width3=500
+|caption3=Satisfaction rating for opposition leader [[Anthony Albanese]]
+|footer=[[Aggregate data]] of voting intention from all opinion polling since the last election. [[Local regression]] trends for each rating are shown as solid lines.}}
+<!--
+{| class="wikitable"
+! Graph of opinion polls conducted
+|-
+ |  {{Graph:Chart
+ | width=400
+ | height=250
+ | xAxisTitle=
+ | yAxisTitle=%support
+ | xAxisAngle = -40
+ | legend=Party Leaders
+ | interpolate = basis-open
+ | showSymbols = 1.5
+ | xType = date
+ | y1Title=Morrison 
+ | y2Title=Albanese
+ | y3Title=Don’t Know
+ | type=line
+ | xGrid = | yGrid =
+ | x= 2019/6/23, 2019/7/21, 2019/7/28, 2019/8/18, 2019/8/22, 2019/9/1, 2019/9/7, 2019/9/17, 2019/9/29, 2019/10/15, 2019/10/20, 2019/11/10, 2019/11/12, 2019/11/23, 2019/12/8, 2020/1/11, 2020/1/11, 2020/2/1, 2020/2/11, 2020/2/22, 2020/3/11, 2020/3/14, 2020/4/3, 2020/4/5, 2020/4/25, 2020/5/5, 2020/5/16, 2020/6/2, 2020/6/6, 2020/6/27, 2020/7/12, 2020/7/18, 2020/8/8, 2020/8/9, 2020/8/29, 2020/9/19, 2020/10/10, 2020/11/6, 2020/11/28, 2020/12/15, 2021/1/30, 2021/2/20, 2021/3/13, 2021/3/27, 2021/3/30, 2021/4/12, 2021/4/16, 2021/4/24, 2021/5/15, 2021/5/16, 2021/6/5, 2021/6/8, 2021/6/13, 2021/6/26, 2021/7/6, 2021/7/17, 2021/7/18, 2021/8/7, 2021/8/28, 2021/9/18, 2021/10/2, 2021/10/23, 2021/11/13, 2021/12/4
+ | y1= 43, 44, 48, 48, 44, 46, 48, 46, 50, 43, 47, 46, 44, 46, 48, 39, 36, 38, 36, 40, 40, 42, 53, 46, 56, 50, 56, 53, 56, 58, 50, 59, 60, 52, 58, 59, 57, 58, 60, 50, 57, 61, 56, 52, 52, 47, 47, 56, 55, 48, 53, 48, 46, 55, 46, 51, 45, 49, 50, 47, 47, 48, 46, 46
+ | y2= 25, 26, 31, 30, 28, 23, 28, 25, 31, 28, 32, 32, 28, 35, 34, 43, 39, 43, 36, 41, 35, 38, 29, 27, 28, 25, 29, 23, 26, 26, 27, 26, 25, 22, 29, 27, 28, 29, 28, 24, 29, 26, 30, 26, 32, 28, 25, 30, 30, 25, 32, 28, 23, 33, 28, 33, 24, 36, 34, 35, 34, 34, 38, 36
+ | y3= 32, 30, 21, 22, 28, 31, 24, 29, 19, 29, 21, 22, 29, 19, 18, 18, 25, 19, 28, 19, 25, 20, 18, 27, 16, 25, 15, 24, 18, 16, 23, 15, 15, 26, 13, 14, 15, 13, 12, 26, 14, 13, 14, 22, 16, 25, 28, 14, 15, 27, 15, 24, 31, 14, 26, 16, 31, 15, 16, 18, 19, 18, 16, 19
+ | colors = #0033CC, #DE3533, #DCDCDC
+}}
+|-
+!Graph of opinion polls conducted on the performance of Scott Morrison
+|-
+ |  {{Graph:Chart
+ | width=400
+ | height=250
+ | xAxisTitle=
+ | yAxisTitle=%satisfaction
+ | xAxisAngle = -40
+ | legend=Scott Morrison Approval Rating
+ | interpolate = basis-open
+ | showSymbols = 1.5
+ | xType = date
+ | y1Title=Satisfied
+ | y2Title=Dissatisfied
+ | y3Title=Don’t Know
+ | type=line
+ | xGrid = | yGrid =
+ | x= 2019/6/23, 2019/7/21, 2019/7/28, 2019/8/18, 2019/8/22, 2019/9/7, 2019/9/17, 2019/9/29, 2019/10/15, 2019/10/20, 2019/11/10, 2019/11/12, 2019/11/23, 2019/12/8, 2019/12/8, 2020/1/11, 2020/1/11, 2020/2/1, 2020/2/11, 2020/2/22, 2020/3/11, 2020/3/14, 2020/4/3, 2020/4/5, 2020/4/25, 2020/5/5, 2020/5/16, 2020/6/2, 2020/6/6, 2020/6/27, 2020/7/12, 2020/7/18, 2020/8/8, 2020/8/9, 2020/8/29, 2020/9/19, 2020/10/10, 2020/11/6, 2020/11/28, 2020/12/15, 2021/1/30, 2021/2/20, 2021/3/13, 2021/3/27, 2021/3/30, 2021/4/12, 2021/4/24, 2021/5/15, 2021/6/5, 2021/6/8, 2021/6/13, 2021/6/26, 2021/7/6, 2021/7/17, 2021/7/18, 2021/8/7, 2021/8/28, 2021/9/18, 2021/10/2, 2021/10/23, 2021/11/13, 2021/12/4
+ | y1=48, 48, 51, 48, 48, 49, 49, 47, 47, 47, 46, 45, 43, 45, 45, 37, 40, 37, 39, 38, 41, 41, 61, 59, 68, 64, 66, 65, 66, 68, 63, 68, 68, 66, 64, 65, 65, 64, 66, 62, 63, 64, 62, 57, 55, 54, 59, 58, 54, 57, 48, 55, 51, 51, 45, 47, 49, 46, 48, 46, 44, 44
+ | y2=36, 34, 36, 42, 37, 39, 36, 43, 38, 45, 43, 41, 52, 48, 43, 59, 52, 59, 52, 58, 49, 53, 35, 31, 28, 27, 30, 26, 29, 27, 27, 27, 29, 23, 32, 31, 31, 31, 30, 28, 33, 32, 34, 35, 40, 37, 37, 38, 43, 36, 41, 41, 40, 45, 46, 49, 47, 50, 49, 50, 52, 52
+ | y3=16, 18, 13, 10, 15, 12, 15, 10, 15, 8, 11, 14, 5, 7, 12, 4, 8, 4, 9, 4, 10, 6, 4, 10, 4, 9, 4, 9, 5, 5, 10, 5, 3, 11, 4, 4, 4, 5, 4, 10, 4, 4, 4, 8, 5, 9, 4, 4, 3, 8, 11, 4, 9, 4, 9, 4, 4, 4, 3, 4, 4, 4
+ | colors = #02e03d, #f74888, #b3b3b3
+}}
+|-
+!Graph of opinion polls conducted on the performance of Anthony Albanese
+|-
+ | {{Graph:Chart
+ | width=400
+ | height=250
+ | xAxisTitle=
+ | yAxisTitle=%satisfaction
+ | xAxisAngle = -40
+ | legend=Anthony Albanese Approval Rating
+ | interpolate = basis-open
+ | showSymbols = 1.5
+ | xType = date
+ | y1Title=Satisfied
+ | y2Title=Dissatisfied
+ | y3Title=Don’t Know
+ | type=line
+ | xGrid = | yGrid =
+ | x= 2019/6/23, 2019/7/21, 2019/7/28, 2019/8/18, 2019/8/22, 2019/9/7, 2019/9/17, 2019/9/29, 2019/10/15, 2019/10/20, 2019/11/10, 2019/11/12, 2019/11/23, 2019/12/8, 2019/12/8, 2020/1/11, 2020/1/11, 2020/2/1, 2020/2/11, 2020/2/22, 2020/3/11, 2020/3/14, 2020/4/3, 2020/4/5, 2020/4/25, 2020/5/5, 2020/5/16, 2020/6/2, 2020/6/6, 2020/6/27, 2020/7/12, 2020/7/18, 2020/8/8, 2020/8/9, 2020/8/29, 2020/9/19, 2020/10/10, 2020/11/6, 2020/11/28, 2020/12/15, 2021/1/30, 2021/2/20, 2021/3/13, 2021/3/27, 2021/3/30, 2021/4/12, 2021/4/24, 2021/5/15, 2021/6/5, 2021/6/8, 2021/6/13, 2021/6/26, 2021/7/6, 2021/7/17, 2021/7/18, 2021/8/7, 2021/8/28, 2021/9/18, 2021/10/2, 2021/10/23, 2021/11/13, 2021/12/4
+ | y1= 35, 39, 39, 41, 38, 35, 36, 39, 40, 36, 42, 37, 38, 40, 39, 46, 43, 43, 41, 39, 41, 40, 45, 44, 45, 42, 44, 43, 41, 42, 44, 41, 41, 44, 43, 39, 39, 43, 44, 43, 41, 38, 42, 41, 42, 39, 40, 39, 38, 39, 31, 40, 41, 38, 30, 38, 40, 37, 37, 37, 37, 39
+ | y2=25, 24, 36, 34, 29, 40, 31, 40, 29, 44, 37, 34, 45, 41, 28, 37, 30, 40, 31, 44, 33, 40, 36, 39, 34, 27, 37, 30, 38, 40, 28, 40, 38, 30, 31, 40, 43, 39, 41, 29, 43, 45, 41, 32, 40, 34, 43, 46, 47, 36, 44, 45, 35, 46, 46, 46, 47, 48, 47, 46, 48, 45
+ | y3=40, 37, 25, 25, 33, 25, 33, 21, 31, 19, 21, 29, 17, 19, 33, 17, 27, 17, 28, 17, 26, 20, 19, 27, 21, 31, 19, 27, 21, 18, 28, 19, 15, 26, 16, 21, 18, 18, 15, 28, 16, 17, 17, 27, 18, 27, 17, 15, 15, 24, 25, 15, 24, 16, 24, 16, 13, 15, 16, 17, 15, 16
+ | colors = #02e03d, #f74888, #b3b3b3
+}}
+|}
+-->
+{| class="toccolours" cellpadding="6" cellspacing="0" style="text-align:center; margin-right:.4em; margin-top:.4em; font-size:90%;"
+!Date
+!Brand
+!Firm
+!Interview mode
+!Sample size
+! colspan="3" |Preferred Prime Minister
+! colspan="3" |[[Scott Morrison|Morrison]]
+! colspan="3" |[[Anthony Albanese|Albanese]]
+|-
+!
+!
+!
+!
+!
+!Morrison
+!Albanese
+!Don't Know
+!Satisfied
+!Dissatisfied
+!Don't Know
+!Satisfied
+!Dissatisfied
+!Don't Know
+|-
+!31 March – 3 April 2022
+| style="text-align:left;" |Resolve Political Monitor
+|Resolve Strategic
+|Online
+|1681
+|36%
+| style="background:#f66;" | '''37%'''
+| style="background:#E0E0E0;" |15%
+|39%
+| style="background:#00bfff;" |'''53%'''
+| style="background:#E0E0E0;" |8%
+|38%
+| style="background:#f66;" | '''42%'''
+| style="background:#E0E0E0;" |20%
+|-
+!31 March – 3 April 2022
+| style="text-align:left;" |Newspoll
+|YouGov
+|Online
+|1531
+| style="background:#00bfff;" |'''43%'''
+|42%
+| style="background:#E0E0E0;" |15%
+|42%
+| style="background:#00bfff;" |'''54%'''
+| style="background:#E0E0E0;" |4%
+|43%
+| style="background:#f66;" | '''44%'''
+| style="background:#E0E0E0;" |13%
+|-
+!31 March – 2 April 2022
+| style="text-align:left;" |Ipsos
+|Ipsos
+|Telephone/Online
+|2563
+|37%
+| style="background:#f66;" | '''38%'''
+| style="background:#E0E0E0;" |25%
+|33%
+| style="background:#00bfff;" |'''48%'''
+| style="background:#E0E0E0;" |19%
+|30%
+| style="background:#f66;" | '''32%'''
+| style="background:#E0E0E0;" |38%
+|-
+!9–12 March 2022
+| style="text-align:left;" |Newspoll<ref name="Newspoll13Mar2022" />
+|YouGov
+|Online
+|1520
+|42%
+|42%
+| style="background:#E0E0E0;" |16%
+| 41%
+| style="background:#00bfff;" |'''55%'''
+| style="background:#E0E0E0;" |4%
+| style="background:#f66;" | '''44%'''
+| 42%
+| style="background:#E0E0E0;" |14%
+|-
+!23–26 February 2022
+| style="text-align:left;" |Newspoll<ref name="Newspoll27Feb2022" />
+|YouGov
+|Online
+|1525
+| style="background:#00bfff;" |'''42%'''
+|40%
+| style="background:#E0E0E0;" |18%
+|43%
+| style="background:#00bfff;" |'''55%'''
+| style="background:#E0E0E0;" |2%
+| style="background:#f66;" | '''44%'''
+| 43%
+| style="background:#E0E0E0;" |13%
+|-
+!17–20 February
+2022
+|style="text-align:left;" |Essential<ref name="auto3"/>
+|Essential
+|Online
+|1089
+| style="background:#00bfff;" |'''40%'''
+|35%
+| style="background:#E0E0E0;" |25%
+|44%
+| style="background:#00bfff;" |'''49%'''
+| style="background:#E0E0E0;" |7%
+| style="background:#f66;" |'''43%'''
+|40%
+| style="background:#E0E0E0;" |17%
+|-
+!9–12 February 2022
+| style="text-align:left;" |Newspoll<ref name="Newspoll13Feb2022" />
+|YouGov
+|Online
+|1526
+| style="background:#00bfff;" |'''43%'''
+|38%
+| style="background:#E0E0E0;" |19%
+|40%
+| style="background:#00bfff;" |'''56%'''
+| style="background:#E0E0E0;" |4%
+|40%
+| style="background:#f66;" | '''46%'''
+| style="background:#E0E0E0;" |14%
+|-
+!27–30 January 2022
+| style="text-align:left;" |Newspoll<ref name="Newspoll30Jan2022" />
+|YouGov
+|Online
+|1523
+| style="background:#00bfff;" |'''43%'''
+|41%
+| style="background:#E0E0E0;" |16%
+|39%
+| style="background:#00bfff;" |'''58%'''
+| style="background:#E0E0E0;" |3%
+|43%
+|43%
+| style="background:#E0E0E0;" |14%
+|-
+!20–23 January
+2022
+|style="text-align:left;" |Essential<ref name="auto3"/>
+|Essential
+|Online
+|1001
+| style="background:#00bfff;" |'''42%'''
+|35%
+| style="background:#E0E0E0;" |23%
+|46%
+|46%
+| style="background:#E0E0E0;" |8%
+|39%
+|39%
+| style="background:#E0E0E0;" |22%
+|-
+!11–15 January 2022
+|style="text-align:left;" |Resolve Political Monitor<ref>{{Cite news|last=Crowe|first=David|date=18 January 2022|title=Coalition primary vote drops below Labor’s for the first time: Resolve survey|work=The Sydney Morning Herald|url=https://www.smh.com.au/politics/federal/coalition-primary-vote-drops-below-labor-s-for-the-first-time-resolve-survey-20220117-p59orf.html|access-date=31 January 2022}}</ref>
+|Resolve Strategic
+|Online
+|1607
+| style="background:#00bfff;" |'''38%'''
+|31%
+| style="background:#E0E0E0;" |31%
+|41%
+| style="background:#00bfff;" |'''50%'''
+| style="background:#E0E0E0;" |9%
+|34%
+| style="background:#f66;" |'''41%'''
+| style="background:#E0E0E0;" |28%
+|-
+!1–4 December 2021
+| style="text-align:left;" |Newspoll<ref name="Newspoll5December2021" />
+|YouGov
+|Online
+|–
+| style="background:#00bfff;" |'''45%'''
+| 36%
+| style="background:#E0E0E0;" |19%
+| 44%
+| style="background:#00bfff;" |'''52%'''
+| style="background:#E0E0E0;" |4%
+| 39%
+| style="background:#f66;" |'''45%'''
+| style="background:#E0E0E0;" |16%
+|-
+!10–13 November 2021
+| style="text-align:left;" |Newspoll<ref name="Newspoll14November2021" />
+|YouGov
+|Online
+|–
+| style="background:#00bfff;" |'''46%'''
+| 38%
+| style="background:#E0E0E0;" |16%
+| 44%
+| style="background:#00bfff;" |'''52%'''
+| style="background:#E0E0E0;" |4%
+| 37%
+| style="background:#f66;" |'''48%'''
+| style="background:#E0E0E0;" |15%
+|-
+!20–23 October 2021
+| style="text-align:left;" |Newspoll<ref name="Newspoll24October2021" />
+|YouGov
+|Online
+|–
+| style="background:#00bfff;" |'''48%'''
+| 34%
+| style="background:#E0E0E0;" |18%
+| 46%
+| style="background:#00bfff;" |'''50%'''
+| style="background:#E0E0E0;" |4%
+| 37%
+| style="background:#f66;" |'''46%'''
+| style="background:#E0E0E0;" |17%
+|-
+!29 September – 2 October 2021
+| style="text-align:left;" |Newspoll<ref name="Newspoll3October2021" />
+|YouGov
+|Online
+|1545
+| style="background:#00bfff;" |'''47%'''
+| 34%
+| style="background:#E0E0E0;" |19%
+| 48%
+| style="background:#00bfff;" |'''49%'''
+| style="background:#E0E0E0;" |3%
+| 37%
+| style="background:#f66;" |'''47%'''
+| style="background:#E0E0E0;" |16%
+|-
+!15–18 September 2021
+| style="text-align:left;" |Newspoll<ref name="Newspoll18September2021" />
+|YouGov
+|Online
+|–
+| style="background:#00bfff;" |'''47%'''
+| 35%
+| style="background:#E0E0E0;" |18%
+| 46%
+| style="background:#00bfff;" |'''50%'''
+| style="background:#E0E0E0;" |4%
+| 37%
+| style="background:#f66;" |'''48%'''
+| style="background:#E0E0E0;" |15%
+|-
+!25–28 August 2021
+| style="text-align:left;" |Newspoll<ref name="Newspoll29August2021" />
+|YouGov
+|Online
+|1528
+| style="background:#00bfff;" |'''50%'''
+| 34%
+| style="background:#E0E0E0;" |16%
+| style="background:#00bfff;" |'''49%'''
+| 47%
+| style="background:#E0E0E0;" |4%
+| 40%
+| style="background:#f66;" |'''47%'''
+| style="background:#E0E0E0;" |13%
+|-
+!4–7 August 2021
+| style="text-align:left;" |Newspoll<ref name="Newspoll8August2021" />
+|YouGov
+|Online
+|1527
+| style="background:#00bfff;" |'''49%'''
+| 36%
+| style="background:#E0E0E0;" |15%
+| 47%
+| style="background:#00bfff;" |'''49%'''
+| style="background:#E0E0E0;" |4%
+| 38%
+| style="background:#f66;" |'''46%'''
+| style="background:#E0E0E0;" |16%
+|-
+!13–17 July 2021
+| style="text-align:left;" |Resolve Political Monitor<ref name="resolve4" />
+|Resolve Strategic
+|CATI/online
+|1600
+| style="background:#00bfff;" |'''45%'''
+| 24%
+| style="background:#E0E0E0;" |31%
+| 45%
+| style="background:#00bfff;" |'''46%'''
+| style="background:#E0E0E0;" |9%
+|30%
+| style="background:#f66;" |'''46%'''
+| style="background:#E0E0E0;" |24%
+|-
+!14–17 July 2021
+| style="text-align:left;" |Newspoll<ref name="Newspoll18July2021" />
+|YouGov
+|Online
+|1506
+| style="background:#00bfff;" |'''51%'''
+| 33%
+| style="background:#E0E0E0;" |16%
+| style="background:#00bfff;" |'''51%'''
+|45%
+| style="background:#E0E0E0;" |4%
+|38%
+| style="background:#f66;" |'''46%'''
+| style="background:#E0E0E0;" |16%
+|-
+!6 July 2021
+| style="text-align:left;" |Essential<ref>{{cite web |url=https://essentialvision.com.au/preferred-prime-minister-51 |title=Preferred Prime Minister |author=<!--Not stated--> |date=6 July 2021 |website=EssentialVision |access-date=2021-07-06 |archive-date=6 July 2021 |archive-url=https://web.archive.org/web/20210706004420/https://essentialvision.com.au/preferred-prime-minister-51 |url-status=live }}</ref>
+|Essential
+|Online
+|1099
+| style="background:#00bfff;" |'''46%'''
+| 28%
+| style="background:#E0E0E0;" |26%
+| style="background:#00bfff;" |'''51%'''
+|40%
+| style="background:#E0E0E0;" |9%
+| style="background:#f66;" |'''41%'''
+|35%
+| style="background:#E0E0E0;" |24%
+|-
+!23–26 June 2021
+| style="text-align:left;" |Newspoll<ref name="Newspoll27June2021" />
+|YouGov
+|Online
+|1513
+| style="background:#00bfff;" |'''53%'''
+| 33%
+| style="background:#E0E0E0;" |14%
+| style="background:#00bfff;" |'''55%'''
+|41%
+| style="background:#E0E0E0;" |4%
+|40%
+| style="background:#f66;"|'''45%'''
+| style="background:#E0E0E0;" |15%
+|-
+!13 June 2021
+| style="text-align:left;" |Resolve Political Monitor<ref name="resolve3" />
+|Resolve Strategic
+|CATI/online
+|1600
+| style="background:#00bfff;" |'''46%'''
+| 23%
+| style="background:#E0E0E0;" |31%
+| style="background:#00bfff;" |'''48%'''
+|41%
+| style="background:#E0E0E0;" |11%
+|31%
+| style="background:#f66;"|'''44%'''
+| style="background:#E0E0E0;" |25%
+|-
+!8 June 2021
+| style="text-align:left;" |Essential<ref>{{Cite web|date=2021-06-08|title=Preferred Prime Minister|url=https://essentialvision.com.au/preferred-prime-minister-50|access-date=2021-06-12|website=The Essential Report|language=en|archive-date=8 June 2021|archive-url=https://web.archive.org/web/20210608072328/https://essentialvision.com.au/preferred-prime-minister-50|url-status=live}}</ref>
+|Essential
+|Online
+|1104
+| style="background:#00bfff;" |'''48%'''
+|28%
+| style="background:#E0E0E0;" |24%
+| style="background:#00bfff;" |'''57%'''
+|36%
+| style="background:#E0E0E0;" |8%
+| style="background:#f66;"|'''39%'''
+|36%
+| style="background:#E0E0E0;" |24%
+|-
+!2–5 June 2021
+|style="text-align:left;" |Newspoll<ref name="Newspoll6June2021" />
+|YouGov
+|Online
+|1516
+| style="background:#00bfff;" |'''53%'''
+| 32%
+| style="background:#E0E0E0;" |15%
+| style="background:#00bfff;" |'''54%'''
+| 43%
+| style="background:#E0E0E0;" |3%
+| 38%
+|  style="background:#f66;"|'''47%'''
+| style="background:#E0E0E0;" |15%
+|-
+!12–16 May 2021
+| style="text-align:left;" |Resolve Political Monitor<ref name="resolve2e">{{cite news |last1=Crowe |first1=David |title=Voters warn Scott Morrison not to rush to an early election |url=https://www.smh.com.au/politics/federal/voters-warn-scott-morrison-not-to-rush-to-an-early-election-20210517-p57sqe.html |access-date=17 May 2021 |work=The Sydney Morning Herald |date=17 May 2021 |language=en}}</ref>
+|Resolve Strategic
+|CATI/online
+|1622
+| style="background:#00bfff;" |'''48%'''
+| 25%
+| style="background:#E0E0E0;" |27%
+|n/a%
+|n/a%
+| style="background:#E0E0E0;" |n/a%
+|n/a%
+|n/a%
+| style="background:#E0E0E0;" |n/a%
+|-
+!12–15 May 2021
+|style="text-align:left;" |Newspoll<ref name="Newspoll16May2021b">{{Cite news|last1=Benson |first1=Simon|title=Voters rate Josh Frydenberg's budget the best since the days of Peter Costello|url=https://www.theaustralian.com.au/nation/politics/voters-rate-josh-frydenbergs-budget-the-best-since-the-days-of-peter-costello/news-story/ce8db98242c36884e2879cab8faa2f80|access-date=2021-04-25|work=The Australian}}</ref>
+|YouGov
+|Online
+|1506
+| style="background:#00bfff;" |'''55%'''
+| 30%
+| style="background:#E0E0E0;" |15%
+| style="background:#00bfff;" |'''58%'''
+| 38%
+| style="background:#E0E0E0;" |4%
+| 39%
+|  style="background:#f66;"|'''46%'''
+| style="background:#E0E0E0;" |15%
+|-
+!'''21–24 April 2021'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll24Apr2021" />
+|YouGov
+|Online
+|1514
+| style="background:#00bfff;" |'''56%'''
+| 30%
+| style="background:#E0E0E0;" |14%
+| style="background:#00bfff;" |'''59%'''
+| 37%
+| style="background:#E0E0E0;" |4%
+| 40%
+| style="background:#f66;"|'''43%'''
+|style="background:#E0E0E0;" |17%
+|-
+!16 April 2021
+| style="text-align:left;" |Resolve Political Monitor<ref name="Resolve">{{cite web |title=Political Monitor |url=https://www.smh.com.au/interactive/2021/political-monitor/index.html |website=The Sydney Morning Herald |access-date=19 April 2021 |archive-date=19 April 2021 |archive-url=https://web.archive.org/web/20210419230348/https://www.smh.com.au/interactive/2021/political-monitor/index.html |url-status=live }}</ref>
+|Resolve Strategic
+|CATI/online
+|2000
+| style="background:#00bfff;" |'''47%'''
+|25%
+| style="background:#E0E0E0;" |28%
+|n/a%
+|n/a%
+| style="background:#E0E0E0;" |n/a%
+|n/a%
+|n/a%
+| style="background:#E0E0E0;" |n/a%
+|-
+!12 April 2021
+|style="text-align:left;" |Essential<ref>{{Cite web|title=The Essential Report|url=https://essentialvision.com.au/category/essentialreport|access-date=2021-04-13|website=The Essential Report|language=en|archive-date=14 April 2021|archive-url=https://web.archive.org/web/20210414053317/https://essentialvision.com.au/category/essentialreport|url-status=live}}</ref>
+|Essential
+|Online
+|1368
+| style="background:#00bfff;" |'''47%'''
+|28%
+| style="background:#E0E0E0;" |25%
+| style="background:#00bfff;" |'''54%'''
+|37%
+| style="background:#E0E0E0;" |9%
+|style="background:#f66;"|'''39%'''
+|34%
+| style="background:#E0E0E0;" |27%
+|-
+!'''24–27 March 2021'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll27Mar2021" />
+|YouGov
+|Online
+|1517
+| style="background:#00bfff;" |'''52%'''
+| 32%
+| style="background:#E0E0E0;" |16%
+| style="background:#00bfff;" |'''55%'''
+| 40%
+| style="background:#E0E0E0;" |5%
+| style="background:#f66;"|'''42%'''
+| 40%
+|style="background:#E0E0E0;" |18%
+|-
+!16, 30 March 2021
+|style="text-align:left;" |Essential<ref>{{Cite web|url=http://www.theguardian.com/australia-news/commentisfree/2021/mar/16/female-liberal-voters-may-decide-the-status-quo-is-not-worth-voting-for|title=Female Liberal voters may decide the status quo is not worth voting for &#124; Peter Lewis|date=16 March 2021|website=the Guardian}}</ref><ref>{{Cite web|url=http://www.theguardian.com/australia-news/commentisfree/2021/mar/30/scott-morrison-is-losing-the-women-of-australia-at-a-giddying-rate|title=Scott Morrison is losing the women of Australia at a giddying rate &#124; Peter Lewis|date=30 March 2021|website=the Guardian}}</ref>
+|style="text-align:left;" |Essential
+|Online
+|1100
+| style="background:#00bfff;" |'''52%'''
+|26%
+|style="background:#E0E0E0;" |22%
+| style="background:#00bfff;" |'''57%'''
+|35%
+| style="background:#E0E0E0;" |8%
+|style="background:#f66;"|'''41%'''
+|32%
+|style="background:#E0E0E0;" |27%
+|-
+!'''10–13 March 2021'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll13Mar2021" />
+|YouGov
+|Online
+|1521
+| style="background:#00bfff;" |'''56%'''
+| 30%
+| style="background:#E0E0E0;" |14%
+| style="background:#00bfff;" |'''62%'''
+| 34%
+| style="background:#E0E0E0;" |4%
+| style="background:#f66;"|'''42%'''
+| 41%
+|style="background:#E0E0E0;" |17%
+|-
+!'''17–20 February 2021'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll20Feb2021" />
+|YouGov
+|Online
+|1504
+| style="background:#00bfff;" |'''61%'''
+|26%
+| style="background:#E0E0E0;" |13%
+| style="background:#00bfff;" |'''64%'''
+| 32%
+| style="background:#E0E0E0;" |4%
+| 38%
+|style="background:#f66;"|'''45%'''
+|style="background:#E0E0E0;" |17%
+|-
+!'''27–30 January 2021'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll30Jan2021" />
+|YouGov
+|Online
+|1512
+| style="background:#00bfff;" |'''57%'''
+|29%
+| style="background:#E0E0E0;" |14%
+| style="background:#00bfff;" |'''63%'''
+| 33%
+| style="background:#E0E0E0;" |4%
+| 41%
+|style="background:#f66;"|'''43%'''
+|style="background:#E0E0E0;" |16%
+|-
+!'''15 December 2020'''
+|style="text-align:left;" |Essential<ref name="Murphy 12/20">{{Cite news|last=Murphy|first=Katharine|date=2020-12-15|title=Essential poll: two-thirds of Australians think Canberra is victim in trade war with Beijing|language=en-GB|work=The Guardian|url=https://www.theguardian.com/australia-news/2020/dec/15/essential-poll-two-thirds-of-australians-think-canberra-is-victim-in-trade-war-with-beijing|access-date=2020-12-15|issn=0261-3077|archive-date=19 January 2021|archive-url=https://web.archive.org/web/20210119142911/https://www.theguardian.com/australia-news/2020/dec/15/essential-poll-two-thirds-of-australians-think-canberra-is-victim-in-trade-war-with-beijing|url-status=live}}</ref>
+|style="text-align:left;" |Essential
+|Online
+|1071
+| style="background:#00bfff;" |'''50%'''
+|24%
+| style="background:#E0E0E0;" |26%
+| style="background:#00bfff;" |'''62%'''
+| 28%
+| style="background:#E0E0E0;" |10%
+| style="background:#f66;"|'''43%'''
+|29%
+|style="background:#E0E0E0;" |28%
+|-
+!'''25–28 November 2020'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll29Nov2020" />
+|YouGov
+|Online
+|1511
+| style="background:#00bfff;" |'''60%'''
+|28%
+| style="background:#E0E0E0;" |12%
+| style="background:#00bfff;" |'''66%'''
+| 30%
+| style="background:#E0E0E0;" |4%
+| style="background:#f66;"|'''44%'''
+|41%
+|style="background:#E0E0E0;" |15%
+|-
+!'''4–6 November 2020'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll7Nov2020" />
+|YouGov
+|Online
+|1510
+| style="background:#00bfff;" |'''58%'''
+|29%
+| style="background:#E0E0E0;" |13%
+| style="background:#00bfff;" |'''64%'''
+| 31%
+| style="background:#E0E0E0;" |5%
+| style="background:#f66;"|'''43%'''
+|39%
+|style="background:#E0E0E0;" |18%
+|-
+!'''8–10 October 2020'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll11Oct2020"/>
+|YouGov
+|Online
+|1527
+| style="background:#00bfff;" |'''57%'''
+|28%
+| style="background:#E0E0E0;" |15%
+| style="background:#00bfff;" |'''65%'''
+| 31%
+| style="background:#E0E0E0;" |4%
+|39%
+|style="background:#f66;"| '''43%'''
+|style="background:#E0E0E0;" |18%
+|-
+!'''16–19 September 2020'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll20Sep2020" />
+|YouGov
+|Online
+|2068
+| style="background:#00bfff;" |'''59%'''
+|27%
+| style="background:#E0E0E0;" |14%
+| style="background:#00bfff;" |'''65%'''
+| 31%
+| style="background:#E0E0E0;" |4%
+|39%
+|style="background:#f66;"| '''40%'''
+|style="background:#E0E0E0;" |21%
+|-
+!'''26–29 August 2020'''
+|style="text-align:left;" |Newspoll<ref name="Newspoll30Aug2020" />
+|YouGov
+|Online
+|1507
+| style="background:#00bfff;" |'''58%'''
+|29%
+| style="background:#E0E0E0;" |13%
+| style="background:#00bfff;" |'''64%'''
+| 32%
+| style="background:#E0E0E0;" |4%
+|style="background:#f66;" |'''43%'''
+| 41%
+|style="background:#E0E0E0;" |16%
+|-
+!'''6–9 August 2020'''
+|style="text-align:left;" |Essential<ref>{{Cite news|last=Murphy|first=Katharine|date=2020-08-10|title=Essential poll: Australians more worried about stopping Covid spread than reviving economy|language=en-GB|work=The Guardian|url=https://www.theguardian.com/australia-news/2020/aug/11/essential-poll-australians-more-worried-about-stopping-covid-spread-than-reviving-economy|access-date=2020-08-11|issn=0261-3077|archive-date=11 August 2020|archive-url=https://web.archive.org/web/20200811063956/https://www.theguardian.com/australia-news/2020/aug/11/essential-poll-australians-more-worried-about-stopping-covid-spread-than-reviving-economy|url-status=live}}</ref>
+|Essential
+|Online
+|1010
+|style="background:#00bfff;" |'''52%'''
+|22%
+| style="background:#E0E0E0;" |26%
+|style="background:#00bfff;" |'''66%'''
+|23%
+| style="background:#E0E0E0;" |11%
+|style="background:#f66;" |'''44%'''
+|30%
+| style="background:#E0E0E0;" |26%
+|-
+!'''5–8 August 2020'''
+|style="text-align:left;" |Newspoll<ref name="npaug20" />
+|YouGov
+|Online
+|1509
+| style="background:#00bfff;" |'''60%'''
+|25%
+| style="background:#E0E0E0;" |15%
+| style="background:#00bfff;" |'''68%'''
+| 29%
+| style="background:#E0E0E0;" |3%
+|style="background:#f66;" |'''41%'''
+| 38%
+|style="background:#E0E0E0;" |15%
+|-
+!'''15–18 July 2020'''
+|style="text-align:left;" |Newspoll<ref name=":3" />
+|YouGov
+|Online
+|1850
+|style="background:#00bfff;" |'''59%'''
+|26%
+|style="background:#E0E0E0;" |15%
+|style="background:#00bfff;" |'''68%'''
+|27%
+|style="background:#E0E0E0;" |5%
+|style="background:#f66;"|'''41%'''
+|40%
+|style="background:#E0E0E0;" |19%
+|-
+!9–12 July 2020
+|style="text-align:left;" |Essential<ref>{{Cite web|title=Guardian essential poll: government approval takes a knock as anxiety over coronavirus rises|url=https://www.theguardian.com/australia-news/2020/jul/14/guardian-essential-poll-government-approval-takes-a-knock-as-anxiety-over-coronavirus-rises|date=14 July 2020|website=The Guardian|language=en|access-date=16 July 2020|archive-date=16 July 2020|archive-url=https://web.archive.org/web/20200716041225/https://www.theguardian.com/australia-news/2020/jul/14/guardian-essential-poll-government-approval-takes-a-knock-as-anxiety-over-coronavirus-rises|url-status=live}}</ref>
+|Essential
+|Online
+|1054
+|style="background:#00bfff;" |'''50%'''
+|27%
+|style="background:#E0E0E0;" |23%
+|style="background:#00bfff;" |'''63%'''
+|27%
+|style="background:#E0E0E0;" |10%
+|style="background:#f66;"|'''44%'''
+|28%
+|style="background:#E0E0E0;" |28%
+|-
+!24–27 June 2020
+|style="text-align:left;" |Newspoll<ref name="newspoll200628" />
+|YouGov
+|Online
+|1521
+|style="background:#00bfff" |'''58%'''
+|26%
+|style="background:#E0E0E0;" |16%
+|style="background:#00bfff" |'''68%'''
+|27%
+|style="background:#E0E0E0;" |5%
+|style="background:#f66;"|'''42%'''
+|40%
+|style="background:#E0E0E0;" |18%
+|-
+!3–6 June 2020
+|style="text-align:left;" |Newspoll<ref name=":2" />
+|YouGov
+|Online
+|1512
+|style="background:#00bfff" |'''56%'''
+|26%
+|style="background:#E0E0E0;" |18%
+|style="background:#00bfff" |'''66%'''
+|29%
+|style="background:#E0E0E0;" |5%
+|style="background:#f66;"|'''41%'''
+|38%
+|style="background:#E0E0E0;" |21%
+|-
+!2 June 2020
+|style="text-align:left;" |Essential<ref>{{Cite web|title=Essential poll: Scott Morrison's handling of Covid-19 continues to win approval|url=https://www.theguardian.com/australia-news/2020/jun/02/essential-poll-scott-morrisons-handling-of-covid-19-continues-to-win-approval|date=2020-06-02|website=The Guardian|language=en|access-date=2020-06-07|archive-date=7 June 2020|archive-url=https://web.archive.org/web/20200607110334/https://www.theguardian.com/australia-news/2020/jun/02/essential-poll-scott-morrisons-handling-of-covid-19-continues-to-win-approval|url-status=live}}</ref>
+|Essential
+|Online
+|1059
+|style="background:#00bfff;" |'''53%'''
+|23%
+|style="background:#E0E0E0;" |24%
+|style="background:#00bfff;" |'''65%'''
+|26%
+|style="background:#E0E0E0;" |9%
+|style="background:#f66;"|'''43%'''
+|30%
+|style="background:#E0E0E0;" |27%
+|-
+!13–16 May 2020
+| style="text-align:left;" |Newspoll<ref name="newspoll17may" />
+|YouGov
+|Online
+|1504
+| style="background:#00bfff;" | '''56%'''
+| 29%
+| style="background:#E0E0E0;" |15%
+| style="background:#00bfff;" |'''66%'''
+| 30%
+| style="background:#E0E0E0;" |4%
+| style="background:#f66;"| '''44%'''
+| 37%
+| style="background:#E0E0E0;" |19%
+|-
+!5 May 2020
+|style="text-align:left;" |Essential<ref>{{Cite web|title=Essential poll: Australians warm to easing of Covid-19 restrictions but are divided on schools|url=http://www.theguardian.com/australia-news/2020/may/05/essential-poll-australians-warm-to-easing-of-covid-19-restrictions-but-are-divided-on-schools|date=2020-05-04|website=The Guardian|language=en|access-date=2020-05-05|archive-date=5 May 2020|archive-url=https://web.archive.org/web/20200505071812/https://www.theguardian.com/australia-news/2020/may/05/essential-poll-australians-warm-to-easing-of-covid-19-restrictions-but-are-divided-on-schools|url-status=live}}</ref>
+|Essential
+|Online
+|1093
+|style="background:#00bfff;" |'''50%'''
+|25%
+|style="background:#E0E0E0;" |25%
+|style="background:#00bfff;" |'''64%'''
+|27%
+|style="background:#E0E0E0;" |9%
+|style="background:#f66;"|'''42%'''
+|27%
+|style="background:#E0E0E0;" |31%
+|-
+!22–25 April 2020
+| style="text-align:left;" |Newspoll<ref>{{Cite news |url= https://www.theaustralian.com.au/nation/politics/newspoll-morrisons-approval-ratings-soar-as-parties-deadlocked/news-story/437e53c44aeb20de354ed1fa46cffc4e |title= Newspoll: Support for PM soars, but Coalition flatlines |publisher= The Australian |access-date= 26 April 2020 |archive-date= 15 November 2021 |archive-url= https://web.archive.org/web/20211115011934/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-morrisons-approval-ratings-soar-as-parties-deadlocked%252Fnews-story%252F437e53c44aeb20de354ed1fa46cffc4e%26memtype%3Danonymous%26mode%3Dpremium&upid=rjdl4pv&upv=1.1.0 |url-status= live }}</ref>
+|YouGov
+|Online
+|1508
+| style="background:#00bfff;" | '''56%'''
+|28%
+| style="background:#E0E0E0;" |16%
+| style="background:#00bfff;" |'''68%'''
+|28%
+| style="background:#E0E0E0;" |4%
+| style="background:#f66;"| '''45%'''
+| 34%
+| style="background:#E0E0E0;" |21%
+|-
+!2–5 April 2020
+|style="text-align:left;" |Essential<ref>{{Cite news|last=Farr|first=Malcolm|url=https://www.theguardian.com/australia-news/2020/apr/07/guardian-essential-poll-coronavirus-response-boosts-scott-morrisons-approval-rating|title=Guardian Essential poll: coronavirus response boosts Scott Morrison's approval rating|date=2020-04-06|work=The Guardian|access-date=2020-04-13|language=en-GB|issn=0261-3077|archive-date=13 April 2020|archive-url=https://web.archive.org/web/20200413031417/https://www.theguardian.com/australia-news/2020/apr/07/guardian-essential-poll-coronavirus-response-boosts-scott-morrisons-approval-rating|url-status=live}}</ref>
+|Essential
+|Online
+|1069
+|style="background:#00bfff;" |'''46%'''
+|27%
+|style="background:#E0E0E0;" |27%
+|style="background:#00bfff;" |'''59%'''
+|31%
+|style="background:#E0E0E0;" |10%
+|style="background:#f66" |'''44%'''
+|29%
+|style="background:#E0E0E0;" |27%
+|-
+!1–3 April 2020
+| style="text-align:left;" |Newspoll<ref>{{Cite news|url= https://www.theaustralian.com.au/nation/newspoll-record-turnaround-for-scott-morrison-and-universal-support-for-wage-subsidy/news-story/4889cd4f8adbe27537299d5b0c769f54|title= Newspoll: Record turnaround for Scott Morrison and universal support for wage subsidy|publisher= The Australian|access-date= 5 April 2020|archive-date= 2 October 2021|archive-url= https://web.archive.org/web/20211002222726/https://www.theaustralian.com.au/nation/newspoll-record-turnaround-for-scott-morrison-and-universal-support-for-wage-subsidy/news-story/4889cd4f8adbe27537299d5b0c769f54|url-status= live}}</ref>
+|YouGov
+|Online
+|1508
+| style="background:#00bfff;" | '''53%'''
+|29%
+| style="background:#E0E0E0;" |18%
+| style="background:#00bfff;" |'''61%'''
+| 35%
+| style="background:#E0E0E0;" |4%
+| style="background:#f66;"| '''45%'''
+| 36%
+| style="background:#E0E0E0;" |19%
+|-
+!11–14 March 2020
+| style="text-align:left;" |Newspoll<ref>{{Cite news|url=https://www.theaustralian.com.au/nation/politics/newspoll-scott-morrison-backed-but-voters-fearful-over-economy-health/news-story/db0019cbca5687e0db90412f537cbcca|title=Newspoll: Scott Morrison backed but voters fearful over economy, health|publisher=The Australian|access-date=15 March 2020|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115011955/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-scott-morrison-backed-but-voters-fearful-over-economy-health%252Fnews-story%252Fdb0019cbca5687e0db90412f537cbcca%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0|url-status=live}}</ref>
+|YouGov
+|Online
+|1501
+| style="background:#00bfff;" | '''42%'''
+|38%
+| style="background:#E0E0E0;" |20%
+| 41%
+| style="background:#00bfff;" |'''53%'''
+| style="background:#E0E0E0;" |6%
+| 40%
+| 40%
+| style="background:#E0E0E0;" |20%
+|-
+!11 March 2020
+| style="text-align:left;" |Essential<ref>{{Cite news|url=https://essentialvision.com.au/wp-content/uploads/2020/03/Essential-Report-130120-2.pdf |title=The Essential Report: 11 March 2020|publisher=Essential Research}}</ref>
+|Essential
+|Online
+|1096
+| style="background:#00bfff;" |'''40%'''
+|35%
+| style="background:#E0E0E0;" |25%
+| 41%
+| style="background:#00bfff;" |'''49%'''
+| style="background:#E0E0E0;" |10%
+| style="background:#f66;"| '''41%'''
+| 33%
+| style="background:#E0E0E0;" |26%
+|-
+!19–22 February 2020
+| style="text-align:left;" |Newspoll<ref>{{Cite news|url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-closes-gap-on-labor-anthony-albanese-slides/news-story/631e801497b1359db328efbcbe29a352|title=Newspoll: Coalition closes gap on Labor, Anthony Albanese slides|publisher=The Australian|access-date=23 February 2020|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115011917/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-coalition-closes-gap-on-labor-anthony-albanese-slides%252Fnews-story%252F631e801497b1359db328efbcbe29a352%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=rjdl4pv&upv=1.1.0|url-status=live}}</ref>
+|YouGov
+|Online
+|1513
+|40%
+|style="background:#f66;"| '''41%'''
+| style="background:#E0E0E0;" |19%
+| 38%
+| style="background:#00bfff;" |'''58%'''
+| style="background:#E0E0E0;" |4%
+| 39%
+| style="background:#f66;"| '''44%'''
+| style="background:#E0E0E0;" |17%
+|-
+!11 February 2020
+| style="text-align:left;" |Essential<ref>{{Cite news|url=https://essentialvision.com.au/wp-content/uploads/2020/02/Essential-Report-130120-2.pdf |title=The Essential Report: 11 February 2020|publisher=Essential Research}}</ref>
+|Essential
+|Online
+|1056
+|36%
+|36%
+| style="background:#E0E0E0;" |28%
+| 39%
+| style="background:#00bfff;" |'''52%'''
+| style="background:#E0E0E0;" |9%
+| style="background:#f66;"| '''41%'''
+| 31%
+| style="background:#E0E0E0;" |28%
+|-
+!29 January – 1 February 2020
+| style="text-align:left;" |Newspoll<ref>{{Cite news|url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-vote-gets-burnt-by-fires-rorts/news-story/c027d9e4500e0fc151af4245589f582a|title=Newspoll: Coalition vote gets burnt by fires, rorts|publisher=The Australian|access-date=2 February 2020|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115011913/https://insight.adsrvr.org/track/up?adv=88zyn8h&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fnewspoll-coalition-vote-gets-burnt-by-fires-rorts%252Fnews-story%252Fc027d9e4500e0fc151af4245589f582a%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=hcgtqbu&upv=1.1.0|url-status=live}}</ref>
+|YouGov
+|Online
+|1510
+|38%
+|style="background:#f66;"| '''43%'''
+| style="background:#E0E0E0;" |19%
+| 37%
+| style="background:#00bfff;" |'''59%'''
+| style="background:#E0E0E0;" |4%
+| style="background:#f66;"| '''43%'''
+| 40%
+| style="background:#E0E0E0;" |17%
+|-
+!7–11 January 2020
+| style="text-align:left;" |Essential<ref>{{Cite news|url=https://essentialvision.com.au/wp-content/uploads/2020/01/Essential-Report-130120-2.pdf|title=The Essential Report: 13 January 2020|publisher=Essential Research|access-date=14 January 2020|archive-date=14 January 2020|archive-url=https://web.archive.org/web/20200114034009/https://essentialvision.com.au/wp-content/uploads/2020/01/Essential-Report-130120-2.pdf|url-status=live}}</ref>
+|Essential
+|Online
+|1081
+|36%
+|style="background:#f66;"| '''39%'''
+| style="background:#E0E0E0;" |25%
+| 40%
+| style="background:#00bfff;" |'''52%'''
+| style="background:#E0E0E0;" |8%
+| style="background:#f66;"| '''43%'''
+| 30%
+| style="background:#E0E0E0;" |27%
+|-
+!8–11 January 2020
+|style="text-align:left;" |Newspoll<ref name="newspoll11jan2020" />
+|YouGov
+|Online
+|1505
+|39%
+| style="background:#f66;"|'''43%'''
+| style="background:#E0E0E0;" |18%
+|37%
+| style="background:#00bfff;" |'''59%'''
+| style="background:#E0E0E0;" |4%
+| style="background:#f66;"|'''46%'''
+|37%
+| style="background:#E0E0E0;" |17%
+|-
+!5–8 December 2019
+| style="text-align:left;" |Essential<ref>{{Cite news|url=https://essentialvision.com.au/wp-content/uploads/2019/12/Essential-Report-091219.pdf|title=Essential poll: Morrison gets thumbs up from voters but overall disapproval rises|last=Murphy|first=Katharine|date=2019-12-11|work=The Guardian|access-date=2019-12-11|language=en-GB|issn=0261-3077|archive-date=4 October 2021|archive-url=https://web.archive.org/web/20211004032215/https://essentialvision.com.au/wp-content/uploads/2019/12/Essential-Report-091219.pdf|url-status=live}}</ref>
+|Essential
+|Online
+|1035
+|n/a
+|n/a
+| style="background:#E0E0E0;" |n/a
+| style="background:#00bfff;" |'''45%'''
+|43%
+| style="background:#E0E0E0;" |12%
+| style="background:#f66;"| '''39%'''
+|28%
+| style="background:#E0E0E0;" |33%
+|-
+!8 December 2019
+| style="text-align:left;" |Newspoll<ref name="Newspoll8December" />
+|YouGov
+|Online
+|
+| style="background:#00bfff;" |'''48%'''
+|34%
+| style="background:#E0E0E0;" |18%
+|45%
+| style="background:#00bfff;" |'''48%'''
+| style="background:#E0E0E0;" |7%
+|40%
+| style="background:#f66;"| ''' 41%'''
+| style="background:#E0E0E0;" |19%
+|-
+!23 November 2019
+| style="text-align:left;" |Newspoll<ref name="Newspoll24November" />
+|YouGov
+|Online
+|
+| style="background:#00bfff;" |'''46%'''
+|35%
+| style="background:#E0E0E0;" |19%
+|43%
+| style="background:#00bfff;" |'''52%'''
+| style="background:#E0E0E0;" |5%
+|38%
+| style="background:#f66;"| '''45%'''
+| style="background:#E0E0E0;" |17%
+|-
+!12 November 2019
+| style="text-align:left;" |Essential<ref>{{Cite news|url=https://www.theguardian.com/australia-news/2019/nov/12/essential-poll-voters-divided-on-pms-plan-to-crack-down-on-environmental-protests|title=Essential poll: voters divided on PM's plan to crack down on environmental protests|last=Murphy|first=Katharine|date=2019-11-11|work=The Guardian|access-date=2019-11-12|language=en-GB|issn=0261-3077|archive-date=12 November 2019|archive-url=https://web.archive.org/web/20191112030358/https://www.theguardian.com/australia-news/2019/nov/12/essential-poll-voters-divided-on-pms-plan-to-crack-down-on-environmental-protests|url-status=live}}</ref>
+|YouGov
+|Online
+|
+| style="background:#00bfff;" |'''44%'''
+|28%
+| style="background:#E0E0E0;" |29%
+| style="background:#00bfff;" |'''45%'''
+|41%
+| style="background:#E0E0E0;" |14%
+| style="background:#f66;"| '''37%'''
+|34%
+| style="background:#E0E0E0;" |29%
+|-
+!10 November 2019
+| style="text-align:left;" |Newspoll<ref name="Newspoll10November" />
+|YouGov
+|IVR/online
+|
+| style="background:#00bfff;" |'''46%'''
+|32%
+| style="background:#E0E0E0;" |22%
+| style="background:#00bfff;" |'''46%'''
+|43%
+| style="background:#E0E0E0;" |11%
+| style="background:#f66;"| '''42%'''
+|37%
+| style="background:#E0E0E0;" |21%
+|-
+!20 October 2019
+| style="text-align:left;" |Newspoll<ref name="Newspoll20October2019" />
+|YouGov
+|IVR/online
+|
+| style="background:#00bfff;" |'''47%'''
+|32%
+| style="background:#E0E0E0;" |21%
+| style="background:#00bfff;" |'''47%'''
+|45%
+| style="background:#E0E0E0;" |8%
+| 37%
+| style="background:#f66;"|'''44%'''
+| style="background:#E0E0E0;" |19%
+|-
+!15 October 2019
+| style="text-align:left;" |Essential<ref>{{cite web|url=https://www.essentialvision.com.au/category/essentialreport|title=Essential Report 15 October 2019|date=15 October 2019|publisher=Essential Vision and The Guardian|access-date=6 September 2019|archive-date=6 September 2019|archive-url=https://web.archive.org/web/20190906051445/https://www.essentialvision.com.au/category/essentialreport|url-status=live}}</ref>
+|Essential
+|Online
+|
+| style="background:#00bfff;" |'''43%'''
+|28%
+| style="background:#E0E0E0;" |29%
+| style="background:#00bfff;" |'''47%'''
+|38%
+| style="background:#E0E0E0;" |15%
+| style="background:#f66;" |'''40%'''
+|29%
+| style="background:#E0E0E0;" |31%
+|-
+!29 September 2019
+| style="text-align:left;" |Newspoll<ref name="Newspoll29September2019" />
+|YouGov
+|IVR/online
+|
+| style="background:#00bfff;" |'''50%'''
+|31%
+| style="background:#E0E0E0;" |19%
+| style="background:#00bfff;" |'''47%'''
+|43%
+| style="background:#E0E0E0;" |10%
+| 39%
+| style="background:#f66;"|'''40%'''
+| style="background:#E0E0E0;" |21%
+|-
+!17 September 2019
+| style="text-align:left;" |Essential<ref>{{cite web|url=https://www.essentialvision.com.au/category/essentialreport|title=Essential Report 17 September 2019|date=17 September 2019|publisher=Essential Vision and The Guardian|access-date=6 September 2019|archive-date=6 September 2019|archive-url=https://web.archive.org/web/20190906051445/https://www.essentialvision.com.au/category/essentialreport|url-status=live}}</ref>
+|Essential
+|Online
+|
+| style="background:#00bfff;" |'''46%'''
+|25%
+| style="background:#E0E0E0;" |29%
+| style="background:#00bfff;" |'''49%'''
+|36%
+| style="background:#E0E0E0;" |15%
+| style="background:#f66;" |'''36%'''
+|31%
+| style="background:#E0E0E0;" |33%
+|-
+!5–7 September 2019
+| style="text-align:left;" |Newspoll<ref name="Newspoll8September2019" />
+|YouGov
+|IVR/online
+|
+| style="background:#00bfff;" |'''48%'''
+|28%
+| style="background:#E0E0E0;" |24%
+| style="background:#00bfff;" |'''49%'''
+|39%
+| style="background:#E0E0E0;" |12%
+| 35%
+| style="background:#f66;"|'''40%'''
+| style="background:#E0E0E0;" |25%
+|-
+!1 September 2019
+| style="text-align:left;" |YouGov<ref>{{cite web|url=https://www.couriermail.com.au/news/queensland/anthony-albanese-making-up-lost-ground-in-queensland/news-story/e78415c1c6d60bb0d1a5c5e50e603396|title=YouGov|date=1 September 2019|work=YouGov poll the Courier mail|access-date=1 September 2019|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115012003/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.couriermail.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DCMWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.couriermail.com.au%252Fnews%252Fqueensland%252Fanthony-albanese-making-up-lost-ground-in-queensland%252Fnews-story%252Fe78415c1c6d60bb0d1a5c5e50e603396%26memtype%3Danonymous%26mode%3Dpremium%26v21%3Ddynamic-cold-test-noscore%26V21spcbehaviour%3Dappend&upid=b5f7l8u&upv=1.1.0|url-status=live}}</ref>
+|YouGov
+|Online
+|
+| style="background:#00bfff;" |'''46%'''
+|23%
+| style="background:#E0E0E0;" |31%
+|n/a%
+|n/a%
+| style="background:#E0E0E0;" |n/a%
+|n/a%
+|n/a%
+| style="background:#E0E0E0;" |n/a%
+|-
+!22 August 2019
+| style="text-align:left;" |Essential<ref>{{cite web|url=https://www.essentialvision.com.au/category/essentialreport|title=Essential Report 22 August 2019|date=17–21 July 2019|publisher=Essential Vision and The Guardian|access-date=6 September 2019|archive-date=6 September 2019|archive-url=https://web.archive.org/web/20190906051445/https://www.essentialvision.com.au/category/essentialreport|url-status=live}}</ref>
+|Essential
+|Online
+|
+| style="background:#00bfff;" |'''44%'''
+|28%
+| style="background:#E0E0E0;" |28%
+| style="background:#00bfff;" |'''48%'''
+|37%
+| style="background:#E0E0E0;" |15%
+| style="background:#f66;" |'''38%'''
+|29%
+| style="background:#E0E0E0;" |33%
+|-
+!15–18 August 2019
+| style="text-align:left;" |Newspoll<ref>{{cite web|title=Newspoll 18 August 2019|date=18 August 2019|publisher=The Australian }}</ref>
+|YouGov
+|IVR/online
+|
+| style="background:#00bfff;" |'''48%'''
+|30%
+| style="background:#E0E0E0;" |22%
+| style="background:#00bfff;" |'''48%'''
+|42%
+| style="background:#E0E0E0;" |10%
+| style="background:#f66;" |'''41%'''
+|34%
+| style="background:#E0E0E0;" |25%
+|-
+!25–28 July 2019
+| style="text-align:left;" |Newspoll<ref>{{cite web|title=Newspoll 28 July 2019|date=25–28 July 2019|publisher=The Australian }}</ref>
+|YouGov
+|IVR/online
+|
+| style="background:#00bfff;" |'''48%'''
+|31%
+| style="background:#E0E0E0;" |21%
+| style="background:#00bfff;" |'''51%'''
+|36%
+| style="background:#E0E0E0;" |13%
+| style="background:#f66;" |'''39%'''
+|36%
+| style="background:#E0E0E0;" |25%
+|-
+!17–21 July 2019
+| style="text-align:left;" |Essential<ref>{{cite web|title=Essential Report 24 July 2019|date=17–21 July 2019|publisher=Essential Vision and The Guardian}}</ref>
+|Essential
+|Online
+|
+| style="background:#00bfff;" |'''44%'''
+|26%
+| style="background:#E0E0E0;" |30%
+| style="background:#00bfff;" |'''48%'''
+|34%
+| style="background:#E0E0E0;" |18%
+| style="background:#f66;" |'''39%'''
+|24%
+| style="background:#E0E0E0;" |37%
+|-
+!19–23 June 2019
+| style="text-align:left;" |Essential<ref>{{cite web|url=https://www.essentialvision.com.au/wp-content/uploads/2019/06/Essential-Report-280619.pdf|title=Essential Report 28 June 2019|date=19–23 June 2019|publisher=Essential Vision and The Guardian|access-date=4 July 2019|archive-date=4 July 2019|archive-url=https://web.archive.org/web/20190704035315/https://www.essentialvision.com.au/wp-content/uploads/2019/06/Essential-Report-280619.pdf|url-status=live}}</ref>
+|Essential
+|Online
+|
+| style="background:#00bfff;" |'''43%'''
+|25%
+| style="background:#E0E0E0;" |32%
+| style="background:#00bfff;" |'''48%'''
+|36%
+| style="background:#E0E0E0;" |16%
+| style="background:#f66;" |35%
+|25%
+| style="background:#E0E0E0;" |'''40%'''
+|}
+
+== Sub-national polling ==
+Some pollsters provided breakdowns of their polls by state, whilst others only poll a specific state. These results are listed by state below.
+
+=== New South Wales ===
+{| class="toccolours" cellpadding="5" cellspacing="0" style="text-align:center; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+! Date
+! Firm
+! Sample size
+! colspan="5" style="background:#ccc" | Primary vote
+! colspan="2" style="background:#ebbce3" |[[Two-party-preferred vote|2pp vote]]
+|-
+! colspan="3" | 
+! style="background:#00bfff" |[[Coalition (Australia)|L/NP]]
+! style="background:#f66" |[[Australian Labor Party|ALP]]
+! style="background:#90ee90" |[[Australian Greens|GRN]]
+! style="background:orange " |[[Pauline Hanson's One Nation|ONP]]
+! style="background:gray;" | OTH
+! style="background:#00bfff" | [[Coalition (Australia)|L/NP]]
+! style="background:#f66" | [[Australian Labor Party|ALP]]
+|-
+!4 April 2022
+|Roy Morgan<ref>{{Cite web |title=ALP extends lead as Prime Minister Morrison under attack from NSW Liberal Senator Fierravanti-Wells: ALP 57% cf. L-NP 43% |url=http://www.roymorgan.com/findings/8928-roy-morgan-poll-federal-voting-intention-april-2022-202204040823 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+!-
+!-
+!-
+!-
+!-
+!-
+|45%
+!style="background:#f66" |55%
+|-
+!29 March 2022
+|Roy Morgan<ref>{{Cite web |title=ALP lead cut as bullying allegations surround ALP senators: ALP 55.5% cf. L-NP 44.5% |url=http://www.roymorgan.com/findings/8927-federal-voting-intention-final-week-of-march-2022-202203290357 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+!-
+!-
+!-
+!-
+!-
+!-
+|47%
+!style="background:#f66" |53%
+|-
+!14-20 March 2022
+|Roy Morgan<ref name=":7">{{Cite web |title=The ALP increases its lead over the L-NP as petrol prices spike well above $2 per litre: ALP 58% cf. L-NP 42% |url=http://www.roymorgan.com/findings/8922-federal-voting-intention-mid-march-2022-202203211033 |access-date=2022-03-22 |website=Roy Morgan |language=en}}</ref>
+!-
+!-
+!-
+!-
+!-
+!-
+|42.5%
+!style="background:#f66" |57.5%
+|
+|-
+!14-23 February 2022
+|Roy Morgan<ref name=":11">{{Cite web |title=ALP (56.5%) held a commanding two-party preferred lead over the L-NP (43.5%) BEFORE Russia invaded Ukraine |url=http://www.roymorgan.com/findings/8914-federal-voting-intention-february-2022-pre-ukraine-war-202203010358 |access-date=2022-03-22 |website=Roy Morgan |language=en}}</ref>
+!-
+!-
+!-
+!-
+!-
+!-
+|43.5%
+!style="background:#f66" |56.5%
+|
+|-
+!18 February 2022
+|Roy Morgan<ref name=":10">{{Cite web|last=Levine|first=Michelle|date=22 February 2022|title=ALP (57%) increases lead over the L-NP (43%) in mid-February as return of Parliament fails to provide a boost|url=https://www.roymorgan.com/findings/8913-federal-voting-intention-february-2022-202202211048|url-status=live}}</ref>
+|–
+|–
+|–
+|–
+|–
+|–
+|41%
+|style="background:#f66" |'''59%'''
+|
+|
+|
+|-
+!12 February 2022
+| colspan="12" |'''NSW by-elections in [[Electoral district of Monaro|Monaro]], [[Electoral district of Bega|Bega]], [[Electoral district of Strathfield|Strathfield]] & [[Electoral district of Willoughby|Willoughby]]'''
+|-
+!4–16 January 2022
+|Roy Morgan<ref name="morgan20jan2022"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|42%
+|style="background:#f66" |'''58%'''
+|-
+!27–28 November, 4–5 December 2021
+|Roy Morgan<ref name="morgan10dec"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|44.5%
+|style="background:#f66" |'''55.5%'''
+|-
+!13–14, 20–21 November 2021 
+|Roy Morgan<ref name="morgan25nov"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|44.5%
+|style="background:#f66" |'''55.5%'''
+|-
+!18–19, 25–26 September 2021
+|Roy Morgan<ref name="Morgan30September"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|46.5%
+|style="background:#f66" |'''53.5%'''
+|-
+!5 October 2021
+| colspan="12" |'''[[Gladys Berejiklian]] resigns as Premier of New South Wales'''
+|-
+!14 July – 18 September 2021
+|Newspoll
+|2057
+|39%
+|38%
+|11%
+|1%
+|11%
+|48%
+|style="background:#f66" |'''52%'''
+|-
+!4–5, 11–12 September 2021
+|Roy Morgan<ref name="RoyMorgan15September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|46%
+|style="background:#f66" |'''54%'''
+|-
+!21–22, 28–29 August 2021
+|Roy Morgan<ref name="RoyMorgan1September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|47%
+|style="background:#f66" |'''53%'''
+|-
+!7–8, 14–15 August 2021
+|[http://www.roymorgan.com/findings/8778-federal-voting-intention-august-2021-202108180625 Roy Morgan]
+|–
+|–
+|–
+|–
+|–
+|–
+|48%
+|style="background:#f66" |'''52%'''
+|-
+!24–25 July, 31 July – 1 August 2021
+|Roy Morgan<ref name="RoyMorgan4August2021" />
+|–
+|–
+|–
+|–
+|–
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|-
+!10–11, 17–18 July 2021
+|Resolve Strategic<ref name="resolve4" />
+|–
+|38%
+|33%
+|12%
+|1%
+|16%
+|–
+|–
+|-
+!10–11, 17–18 June 2021
+|Roy Morgan
+|–
+|–
+|–
+|–
+|–
+|–
+|49.5%
+|style="background:#f66" |'''50.5%'''
+|-
+!21 April – 26 June 2021
+|Newspoll
+|1861
+|42%
+|37%
+|11%
+|1%
+|9%
+|50%
+|50%
+|-
+!13 June 2021
+| style="text-align:left;" |Resolve Strategic<ref name="resolve3c">{{cite news |last1=Crowe |first1=David |title=Vaccine rollout stumbles lead to slight drop in support for Coalition |url=https://www.smh.com.au/politics/federal/vaccine-rollout-stumbles-lead-to-slight-drop-in-support-for-coalition-20210614-p580yp.html |access-date=15 June 2021 |work=The Sydney Morning Herald |date=15 June 2021 |language=en}}</ref>
+|–
+|46%
+|32%
+|10%
+|1%
+|11%
+|–
+|–
+|-
+!29–30 May, 5–6 June 2021
+|Roy Morgan
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|49.5%
+|style="background:#f66" |'''50.5%'''
+|-
+!12–16 May 2021
+| style="text-align:left;" | Resolve Strategic<ref name="resolve2e"/>
+|–
+|39%
+|36%
+|12%
+|1%
+|12%
+|–
+|–
+|-
+!16 April 2021
+|Resolve Strategic<ref name="Resolve"/>
+|–
+|41%
+|29%
+|12%
+|7%
+|11%
+|–
+|–
+|
+|-
+!27 January – 27 March 2021
+|Newspoll<ref name="NewspollState2021Q1b">{{cite web |title=Newspoll: Coalition in election peril after hit in resources states |url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-in-election-peril-after-hit-in-resources-states/news-story/8054285c6d0043314463bb676d1d04aa |publisher=The Australian |access-date=5 April 2021 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011956/https://www.theaustralian.com.au/akam/11/pixel_17b035f |url-status=live }}</ref>
+|1779
+|42%
+|36%
+|11%
+|1%
+|10%
+|50%
+|50%
+|-
+!6–7, 13–14 February 2021
+|Roy Morgan<ref name="Morgan022021d">{{cite web |title=ALP (50.5%) gains lead over L-NP (49.5%) on the back of strength in Victoria, Queensland & WA |url=https://www.roymorgan.com/findings/8648-federal-voting-intention-february-2021-202102181348 |website=Roy Morgan |access-date=19 February 2021 |language=en}}</ref>
+|2786
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''54%'''
+|46%
+|-
+!26 August – 28 November 2020 
+|Newspoll<ref name="newspollstatenovember">{{cite web |title=Bloke blues: Anthony Albanese fails to sway men, blue-collar workers |url=https://www.theaustralian.com.au/nation/politics/bloke-blues-anthony-albanese-fails-to-sway-men-bluecollar-workers/news-story/f05101aedbe8e780fcdd21dfd6bb45e6 |publisher=The Australian |access-date=26 December 2020 |archive-date=15 November 2021 |archive-url=https://web.archive.org/web/20211115011950/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Fbloke-blues-anthony-albanese-fails-to-sway-men-bluecollar-workers%252Fnews-story%252Ff05101aedbe8e780fcdd21dfd6bb45e6%26memtype%3Danonymous%26mode%3Dpremium&upid=rjdl4pv&upv=1.1.0 |url-status=live }}</ref>
+|2304
+|44%
+|36%
+|11%
+|1%
+|8%
+|style="background:#00bfff" |'''51%'''
+|49%
+|-
+!14–15, 21–22 November 2020
+|Roy Morgan<ref name=":5" />
+|2824
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''53.5%'''
+|46.5%
+|-
+!8–9, 15–16 August 2020
+|Roy Morgan<ref name="RMPAUG20" />
+|2841
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''56.5%'''
+|43.5%
+|-
+!3 June – 8 August 2020 
+|Newspoll<ref name="newspollstateaugust">{{cite web |title=Newspoll DEMOGRAPHIC BREAKDOWN |url=https://theaustraliannewscorpau.files.wordpress.com/2020/08/newspoll.pdf |publisher=The Australian}}</ref>
+|457–2034
+|42%
+|37%
+|11%
+|1%
+|9%
+|49%
+|style="background:#f66" |'''51%'''
+|-
+!11/12, 18/19 July 2020
+|Roy Morgan<ref name=":4" />
+|2589
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''52.5%'''
+|47.5%
+|-
+!11 March – 16 May 2020 
+|Newspoll<ref name=":1">{{Cite web|title=Subscribe to The Australian {{!}} Newspaper home delivery, website, iPad, iPhone & Android apps|url=https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fnation%2Fpolitics%2Flabor-languishing-in-election-states-queensland-and-wa-newspoll%2Fnews-story%2F11cff6a7417b3b087bc08a2f94271179&memtype=anonymous&mode=premium&nk=213347857d42be6f5db5b7abcf93ee79-1590668285|website=theaustralian.com.au|access-date=28 May 2020|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115011956/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Flabor-languishing-in-election-states-queensland-and-wa-newspoll%252Fnews-story%252F11cff6a7417b3b087bc08a2f94271179%26memtype%3Danonymous%26mode%3Dpremium&upid=rjdl4pv&upv=1.1.0|url-status=live}}</ref>
+|472–1905
+|42%
+|36%
+|11%
+|2%
+|9%
+|50%
+|50%
+|-
+!7–8 December 2019
+|Newspoll<ref name=":0">{{Cite web|url=https://www.theaustralian.com.au/nation/politics/labor-fails-to-win-back-the-middle-newspoll-finds/news-story/6e6f343e974b9f2dced1446eb55f310d|title=Labor fails to win back the middle and males Newspoll finds|last=Benson|first=Simon|date=25 December 2019|access-date=28 December 2019|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115011943/https://insight.adsrvr.org/track/up?adv=vrges6n&ref=https%3A%2F%2Fwww.theaustralian.com.au%2Fsubscribe%2Fnews%2F1%2F%3FsourceCode%3DTAWEB_WRE170_a%26dest%3Dhttps%253A%252F%252Fwww.theaustralian.com.au%252Fnation%252Fpolitics%252Flabor-fails-to-win-back-the-middle-newspoll-finds%252Fnews-story%252F6e6f343e974b9f2dced1446eb55f310d%26memtype%3Danonymous%26mode%3Dpremium&upid=rjdl4pv&upv=1.1.0|url-status=live}}</ref>
+|930–1472
+|42%
+|35%
+|10%
+|2%
+|12%
+|style="background:#00bfff" |'''51%'''
+|49%
+|-
+! style="background:#b0e9db;" |[[2019 Australian federal election|18 May 2019 election]]
+| style="background:#b0e9db;" |
+| style="background:#b0e9db;" |
+| style="background:#b0e9db;" |42.54%
+| style="background:#b0e9db;" |34.56%
+| style="background:#b0e9db;" |8.71%
+| style="background:#b0e9db;" |1.31%
+| style="background:#b0e9db;" |12.88%
+| style="background:#b0e9db;" |'''51.78%'''
+| style="background:#b0e9db;" |48.22%
+|}
+
+
+=== Victoria ===
+{| class="toccolours" cellpadding="5" cellspacing="0" style="text-align:center; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+! Date
+! Firm
+! Sample size
+! colspan="5" style="background:#ccc" | Primary vote
+! colspan="2" style="background:#ebbce3" |[[Two-party-preferred vote|2pp vote]]
+|-
+! colspan="3" | 
+! style="background:#00bfff" |[[Coalition (Australia)|L/NP]]
+! style="background:#f66" |[[Australian Labor Party|ALP]]
+! style="background:#90ee90" |[[Australian Greens|GRN]]
+! style="background:orange " |[[Pauline Hanson's One Nation|ONP]]
+! style="background:gray;" | OTH
+! style="background:#00bfff" | [[Coalition (Australia)|L/NP]]
+! style="background:#f66" | [[Australian Labor Party|ALP]]
+|-
+!4 April 2022
+|Roy Morgan<ref>{{Cite web |title=ALP extends lead as Prime Minister Morrison under attack from NSW Liberal Senator Fierravanti-Wells: ALP 57% cf. L-NP 43% |url=http://www.roymorgan.com/findings/8928-roy-morgan-poll-federal-voting-intention-april-2022-202204040823 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|39.5%
+!style="background:#f66" |'''60.5%'''
+|-
+!29 April 2022
+|Roy Morgan<ref>{{Cite web |title=ALP lead cut as bullying allegations surround ALP senators: ALP 55.5% cf. L-NP 44.5% |url=http://www.roymorgan.com/findings/8927-federal-voting-intention-final-week-of-march-2022-202203290357 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|40%
+!style="background:#f66" |'''60%'''
+|-
+!14-20 March 2022
+|Roy Morgan<ref name=":7" />
+| -
+| -
+| -
+| -
+| -
+| -
+|36%
+!style="background:#f66" |'''64%'''
+|-
+!14-23 February 2022
+|Roy Morgan<ref name=":11" />
+| -
+| -
+| -
+| -
+| -
+| -
+|40%
+!style="background:#f66" |'''60%'''
+|-
+!18 February 2022
+|Roy Morgan<ref name=":10" />
+|–
+|–
+|–
+|–
+|–
+|–
+|42.5%
+|style="background:#f66" |'''57.5%'''
+|-
+!4–16 January 2022
+|Roy Morgan<ref name="morgan20jan2022"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|41%
+|style="background:#f66" |'''59%'''
+|-
+!27–28 November, 4–5 December 2021
+|Roy Morgan<ref name="morgan10dec"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|41.5%
+|style="background:#f66" |'''58.5%'''
+|-
+!13–14, 20–21 November 2021
+|Roy Morgan<ref name="Morgan7Nov21"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|42%
+|style="background:#f66" |'''58%'''
+|-
+!30–31 October, 6–7 November 2021
+|Roy Morgan<ref name="Morgan7Nov21"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|45%
+|style="background:#f66" |'''55%'''
+|-
+!July – September 2021
+|Resolve Strategic<ref name=":8">{{Cite web|last=Crowe|first=David|date=2021-10-06|title=Voters in NSW and Victoria cut support for Scott Morrison's Coalition|url=https://www.smh.com.au/politics/federal/voters-in-nsw-and-victoria-cut-support-for-scott-morrison-s-coalition-20211006-p58xtj.html|access-date=2021-10-07|website=The Sydney Morning Herald|language=en|archive-date=7 October 2021|archive-url=https://web.archive.org/web/20211007052916/https://www.smh.com.au/politics/federal/voters-in-nsw-and-victoria-cut-support-for-scott-morrison-s-coalition-20211006-p58xtj.html|url-status=live}}</ref>
+|–
+|37%
+|35%
+|11%
+|1%
+|15%
+|–
+|–
+|-
+!18'''–'''19, 25'''–'''26 September 2021
+|Roy Morgan<ref name="Morgan30September"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|44%
+|style="background:#f66" |'''56%'''
+|-
+!14 July – 18 September 2021
+|Newspoll
+|1731
+|35%
+|42%
+|12%
+|0%
+|11%
+|42%
+|style="background:#f66" |'''58%'''
+|-
+!4–5, 11–12 September 2021
+|Roy Morgan<ref name="RoyMorgan15September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|43%
+|style="background:#f66" |'''57%'''
+|-
+!21–22, 28–29 August 2021
+|Roy Morgan<ref name="RoyMorgan1September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|40.5%
+|style="background:#f66" |'''59.5%'''
+|-
+!7–8, 14–15 August 2021
+|[http://www.roymorgan.com/findings/8778-federal-voting-intention-august-2021-202108180625 Roy Morgan]
+|–
+|–
+|–
+|–
+|–
+|–
+|40%
+|style="background:#f66" |'''60%'''
+|-
+!24–25 July, 31 July – 1 August 2021
+|Roy Morgan<ref name="RoyMorgan4August2021" />
+|–
+|–
+|–
+|–
+|–
+|–
+|40.5%
+|style="background:#f66" |'''59.5%'''
+|-
+!10–11, 17–18 July 2021
+|Resolve Strategic<ref name="resolve4" />
+|–
+|34%
+|40%
+|11%
+|0%
+|13%
+|–
+|–
+|-
+!10–11, 17–18 June 2021
+|Roy Morgan
+|–
+|–
+|–
+|–
+|–
+|–
+|43.5%
+|style="background:#f66" |'''56.5%'''
+|-
+!21 April – 26 June 2021
+|Newspoll
+|1536
+|40%
+|37%
+|13%
+|1%
+|9%
+|47%
+|style="background:#f66" |'''53%'''
+|-
+!13 June 2021
+| style="text-align:left;" |Resolve Strategic<ref name="resolve3c"/>
+|–
+|37%
+|37%
+|10%
+|1%
+|15%
+|–
+|–
+|-
+!29–30 May, 5–6 June 2021
+|Roy Morgan
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|46.5%
+|style="background:#f66" |'''53.5%'''
+|-
+!12–16 May 2021
+| style="text-align:left;" | Resolve Strategic<ref name="resolve2e"/>
+|–
+|41%
+|34%
+|12%
+|0%
+|13%
+|–
+|–
+|-
+!16 April 2021
+|Resolve Strategic<ref name="Resolve"/>
+|–
+|33%
+|34%
+|12%
+|6%
+|14%
+|–
+|–
+|-
+!27 January – 27 March 2021
+|Newspoll<ref name="NewspollState2021Q1e">{{cite web |title=Newspoll: Coalition in election peril after hit in resources states |url=https://www.theaustralian.com.au/nation/politics/newspoll-coalition-in-election-peril-after-hit-in-resources-states/news-story/8054285c6d0043314463bb676d1d04aa |publisher=The Australian}}</ref>
+|1506
+|40%
+|39%
+|10%
+|1%
+|10%
+|47%
+|style="background:#f66" |'''53%'''
+|-
+!6–7, 13–14 February 2021	
+|Roy Morgan<ref name="Morgan022021d"/>
+|2786
+|–
+|–
+|–
+|–
+|–
+|45%
+|style="background:#f66" |'''55%'''
+|-
+!26 August – 28 November 2020 
+|Newspoll<ref name="newspollstatenovember" />
+|2160
+|39%
+|39%
+|14%
+|0%
+|8%
+|45%
+|style="background:#f66" |'''55%'''
+|-
+!14–15, 21–22 November 2020
+|Roy Morgan<ref name=":5" />
+|2824
+|–
+|–
+|–
+|–
+|–
+|46.5%
+|style="background:#f66" |'''53.5%'''
+|-
+!8–9, 15–16 August 2020
+|Roy Morgan<ref name="RMPAUG20" />
+|2841
+|–
+|–
+|–
+|–
+|–
+|48%
+|style="background:#f66" |'''52%'''
+|-
+!3 June – 8 August 2020 
+|Newspoll<ref name="newspollstateaugust"/>
+|457–2034
+|37%
+|40%
+|14%
+|1%
+|8%
+|44%
+| style="background:#f66" |'''56%'''
+|-
+!11'''–'''12, 18'''–1'''9 July 2020
+|Roy Morgan<ref name=":4" />
+|2589
+|–
+|–
+|–
+|–
+|–
+|46.5%
+|style="background:#f66" |'''53.5%'''
+|-
+!11 March – 16 May 2020 
+|Newspoll<ref name=":1" />
+|472–1905
+|39%
+|40%
+|13%
+|1%
+|7%
+|45%
+|style="background:#f66" |'''55%'''
+|-
+!7–8 December 2019
+|Newspoll<ref name=":0" />
+|930–1472
+|40%
+|38%
+|12%
+|1%
+|11%
+|47%
+|style="background:#f66" |'''53%'''
+|-
+! style="background:#b0e9db;" |[[2019 Australian federal election|18 May 2019 election]]
+| style="background:#b0e9db;" |
+| style="background:#b0e9db;" |
+| style="background:#b0e9db;" |38.58%
+| style="background:#b0e9db;" |36.86%
+| style="background:#b0e9db;" |11.89%
+| style="background:#b0e9db;" |0.95%
+| style="background:#b0e9db;" |11.72%
+| style="background:#b0e9db;" |46.86%
+| style="background:#b0e9db;" |53.14%
+|}
+{{clear}}
+
+=== Queensland ===
+{| class="toccolours" cellpadding="5" cellspacing="0" style="text-align:center; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+! Date
+! Firm
+! Sample size
+! colspan="5" style="background:#ccc" | Primary vote
+! colspan="2" style="background:#ebbce3" |[[Two-party-preferred vote|2pp vote]]
+|-
+! colspan="3" | 
+! style="background:#00bfff" |[[Liberal National Party of Queensland|LNP]]
+! style="background:#f66" |[[Australian Labor Party|ALP]]
+! style="background:#90ee90" |[[Australian Greens|GRN]]
+! style="background:orange " |[[Pauline Hanson's One Nation|ONP]]
+! style="background:gray;" | OTH
+! style="background:#00bfff" | [[Coalition (Australia)|L/NP]]
+! style="background:#f66" | [[Australian Labor Party|ALP]]
+|-
+!4 April 2022
+|Roy Morgan<ref>{{Cite web |title=ALP extends lead as Prime Minister Morrison under attack from NSW Liberal Senator Fierravanti-Wells: ALP 57% cf. L-NP 43% |url=http://www.roymorgan.com/findings/8928-roy-morgan-poll-federal-voting-intention-april-2022-202204040823 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|49.5%
+|style="background:#f66" |'''50.5%'''
+|-
+!29 March 2022
+|Roy Morgan<ref>{{Cite web |title=ALP lead cut as bullying allegations surround ALP senators: ALP 55.5% cf. L-NP 44.5% |url=http://www.roymorgan.com/findings/8927-federal-voting-intention-final-week-of-march-2022-202203290357 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|style="background:#00bfff" |'''51%'''
+|49%
+|-
+!14-20 March 2022
+|Roy Morgan
+| -
+| -
+| -
+| -
+| -
+| -
+!style="background:#00bfff" |54.5%
+|45.5%
+|-
+!14-23 February 2022
+|Roy Morgan
+| -
+| -
+| -
+| -
+| -
+| -
+|50%
+|50%
+|-
+!18 February 2022
+|Roy Morgan<ref name=":10" />
+|–
+|–
+|–
+|–
+|–
+|–
+|48.5%
+|style="background:#f66" |'''51.5%'''
+|-
+!4–16 January 2022
+|Roy Morgan<ref name="morgan20jan2022"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''51.5%'''
+|48.5%
+|-
+!27–28 November, 4–5 December 2021
+|Roy Morgan<ref name="morgan10dec"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|45.5%
+|style="background:#f66" |'''54.5%'''
+|-
+!13–14, 20–21 November 2021
+|Roy Morgan<ref name="Morgan7Nov21"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|48.5%
+|style="background:#f66" |'''51.5%'''
+|-
+!30–31 October, 6–7 November 2021
+|Roy Morgan<ref name="Morgan7Nov21"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''53%'''
+|47%
+|-
+!July – September 2021
+|Resolve Strategic<ref name=":8" />
+|–
+|42%
+|28%
+|10%
+|11%
+|9%
+|–
+|–
+|-
+!18'''–'''19, 25'''–'''26 September 2021
+|Roy Morgan<ref name="Morgan30September"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''52.5%'''
+|47.5%
+|-
+!14 July – 18 September 2021
+|Newspoll
+|1536
+|42%
+|33%
+|9%
+|8%
+|8%
+|style="background:#00bfff" |'''55%'''
+|45%
+|-
+!4–5, 11–12 September 2021
+|Roy Morgan<ref name="RoyMorgan15September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''54%'''
+|46%
+|-
+!21–22, 28–29 August 2021
+|Roy Morgan<ref name="RoyMorgan1September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"|'''53.5%'''
+|46.5%
+|-
+!7–8, 14–15 August 2021
+|[http://www.roymorgan.com/findings/8778-federal-voting-intention-august-2021-202108180625 Roy Morgan]
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''52%'''
+|48%
+|-
+!24–25 July, 31 July – 1 August 2021
+|Roy Morgan<ref name="RoyMorgan4August2021" />
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''52%'''
+|48%
+|-
+!10–11, 17–18 July 2021
+|Resolve Strategic<ref name="resolve4" />
+|–
+|43%
+|26%
+|9%
+|15%
+|6%
+|–
+|–
+|-
+!10–11, 17–18 June 2021
+|Roy Morgan
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''51.5%'''
+|48.5%
+|-
+!21 April – 26 June 2021
+|Newspoll
+|1249
+|42%
+|33%
+|11%
+|7%
+|7%
+|style="background:#00bfff"  |'''53%'''
+|47%
+|-
+!13 June 2021
+| style="text-align:left;" |Resolve Strategic<ref name="resolve3c"/>
+|–
+|38%
+|35%
+|10%
+|7%
+|10%
+|–
+|–
+|-
+!29–30 May, 5–6 June 2021
+|Roy Morgan
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|style="background:#00bfff" |'''53%'''
+|47%
+|-
+!12–16 May 2021
+| style="text-align:left;" | Resolve Strategic<ref name="resolve2e"/>
+|–
+|41%
+|30%
+|12%
+|7%
+|11%
+|–
+|–
+|-
+!16 April 2021
+|Resolve Strategic<ref name="Resolve"/>
+|–
+|38%
+|30%
+|11%
+|8%
+|11%
+|–
+|–
+|-
+!27 January – 27 March 2021
+|Newspoll<ref name="NewspollState2021Q1e"/>
+|1276
+|42%
+|35%
+|10%
+|8%
+|5%
+|style="background:#00bfff"  |'''53%'''
+|47%
+|-
+!6–7, 13–14 February 2021	
+|Roy Morgan<ref name="Morgan022021d"/>
+|2786
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''52%'''
+|48%
+|-
+!26 August – 28 November 2020 
+|Newspoll<ref name="newspollstatenovember" />
+|1879
+|45%
+|29%
+|12%
+|9%
+|5%
+|style="background:#00bfff"  |'''57%'''
+|43%
+|-
+!14–15, 21–22 November 2020
+|Roy Morgan<ref name=":5" />
+|2824
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''54.5%'''
+|45.5%
+|-
+!8–9, 15–16 August 2020
+|Roy Morgan<ref name="RMPAUG20" />
+|2841
+|–
+|–
+|–
+|–
+|–
+| style="background:#00bfff" |'''60%'''
+|40%
+|-
+!3 June – 8 August 2020 
+|Newspoll<ref name="newspollstateaugust"/>
+|457–2034
+|46%
+|27%
+|10%
+|11%
+|6%
+|style="background:#00bfff" |'''59%'''
+|41%
+|-
+!11'''–'''12, 18'''–'''19 July 2020
+|Roy Morgan<ref name=":4" />
+|2589
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''58%'''
+|42%
+|-
+!11 March – 16 May 2020 
+|Newspoll<ref name=":1" />
+|472–1905
+|42%
+|28%
+|13%
+|11%
+|6%
+|style="background:#00bfff" |'''56%'''
+|44%
+|-
+!7–8 December 2019
+|Newspoll<ref name=":0" />
+|930–1472
+|40%
+|29%
+|12%
+|13%
+|6%
+|style="background:#00bfff" |'''55%'''
+|45%
+|-
+!1 September 2019
+|YouGov Galaxy
+|
+|40%
+|29%
+|12%
+|13%
+|6%
+|style="background:#00bfff" |'''55%'''
+|45%
+|-
+! style="background:#b0e9db;" |[[2019 Australian federal election|18 May 2019 election]]
+| style="background:#b0e9db;" |
+| style="background:#b0e9db;" |
+| style="background:#b0e9db;" |43.70%
+| style="background:#b0e9db;" |26.68%
+| style="background:#b0e9db;" |10.32%
+| style="background:#b0e9db;" |8.86%
+| style="background:#b0e9db;" |10.44%
+| style="background:#b0e9db;" |58.44%
+| style="background:#b0e9db;" |41.56%
+|}
+
+=== Western Australia ===
+{| class="toccolours" cellpadding="5" cellspacing="0" style="text-align:center; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+! Date
+! Firm
+! Sample size
+! colspan="5" style="background:#ccc" | Primary vote
+! colspan="2" style="background:#ebbce3" |[[Two-party-preferred vote|2pp vote]]
+|-
+! colspan="3" | 
+! style="background:#00bfff" |[[Liberal National Party of Queensland|LNP]]
+! style="background:#f66" |[[Australian Labor Party|ALP]]
+! style="background:#90ee90" |[[Australian Greens|GRN]]
+! style="background:orange " |[[Pauline Hanson's One Nation|ONP]]
+! style="background:gray;" | OTH
+! style="background:#00bfff" | [[Coalition (Australia)|L/NP]]
+! style="background:#f66" | [[Australian Labor Party|ALP]]
+|-
+!4 April 2022
+|Roy Morgan<ref>{{Cite web |title=ALP extends lead as Prime Minister Morrison under attack from NSW Liberal Senator Fierravanti-Wells: ALP 57% cf. L-NP 43% |url=http://www.roymorgan.com/findings/8928-roy-morgan-poll-federal-voting-intention-april-2022-202204040823 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|41%
+!style="background:#f66" |'''59%'''
+|-
+!29 March 2022
+|Roy Morgan<ref>{{Cite web |title=ALP lead cut as bullying allegations surround ALP senators: ALP 55.5% cf. L-NP 44.5% |url=http://www.roymorgan.com/findings/8927-federal-voting-intention-final-week-of-march-2022-202203290357 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|43%
+!style="background:#f66" |'''57%'''
+|-
+!14-20 March 2022
+|Roy Morgan<ref name=":7" />
+| -
+| -
+| -
+| -
+| -
+| -
+|41%
+!style="background:#f66" |'''59%'''
+|-
+!14-23 February 2022
+|Roy Morgan<ref name=":11" />
+| -
+| -
+| -
+| -
+| -
+| -
+|48%
+!style="background:#f66" |'''52%'''
+|-
+!18 February 2022
+|Roy Morgan<ref name=":10" />
+|–
+|–
+|–
+|–
+|–
+|–
+|46.5%
+|style="background:#f66" |'''53.5%'''
+|-
+!4–16 January 2022
+|Roy Morgan<ref name="morgan20jan2022"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|-
+!27–28 November, 4–5 December 2021
+|Roy Morgan<ref name="morgan10dec"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|49.5%
+|style="background:#f66" |'''50.5%'''
+|-
+!13–14, 20–21 November 2021
+|Roy Morgan<ref name="morgan25nov"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|46.5%
+|style="background:#f66" |'''53.5%'''
+|-
+!30–31 October, 6–7 November 2021
+|Roy Morgan<ref name="Morgan7Nov21"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|46.5%
+|style="background:#f66" |'''53.5%'''
+|-
+!18'''–'''19, 25'''–'''26 September 2021
+|Roy Morgan<ref name="Morgan30September"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|45.5%
+|style="background:#f66" |'''54.5%'''
+|-
+!14 July – 18 September 2021
+|Newspoll
+|602
+|37%
+|42%
+|10%
+|5%
+|6%
+|46%
+|style="background:#f66" |'''54%'''
+|-
+!4–5, 11–12 September 2021
+|Roy Morgan<ref name="RoyMorgan15September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''53%'''
+|47%
+|-
+!21–22, 28–29 August 2021
+|Roy Morgan<ref name="RoyMorgan1September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|-
+!7–8, 14–15 August 2021
+|[http://www.roymorgan.com/findings/8778-federal-voting-intention-august-2021-202108180625 Roy Morgan]
+|–
+|–
+|–
+|–
+|–
+|–
+|45.5%
+|style="background:#f66"  |'''54.5%'''
+|-
+!24–25 July, 31 July'''–'''1 August 2021
+|Roy Morgan<ref name="RoyMorgan4August2021" />
+|–
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''51.5%'''
+|48.5%
+|-
+!10–11, 17–18 July 2021
+|Resolve Strategic<ref name="resolve4" />
+|–
+|33%
+|39%
+|21%
+|2%
+|6%
+|–
+|–
+|-
+!10–11, 17–18 June 2021
+|Roy Morgan
+|–
+|–
+|–
+|–
+|–
+|–
+|47.5%
+|style="background:#f66" |'''52.5%'''
+|-
+!21 April – 26 June 2021
+|Newspoll
+|625
+|39%
+|41%
+|10%
+|5%
+|5%
+|47%
+|style="background:#f66" |'''53%'''
+|-
+!13 June 2021
+| style="text-align:left;" |Resolve Strategic<ref name="resolve3c"/>
+|–
+|33%
+|40%
+|15%
+|4%
+|8%
+|–
+|–
+|-
+!29–30 May, 5–6 June 2021
+|Roy Morgan
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|style="background:#00bfff" |'''51%'''
+|49%
+|-
+!12–16 May 2021
+| style="text-align:left;" | Resolve Strategic<ref name="resolve2e"/>
+|–
+|44%
+|38%
+|11%
+|3%
+|3%
+|–
+|–
+|-
+!16 April 2021
+|Resolve Strategic<ref name="Resolve"/>
+|–
+|42%
+|40%
+|13%
+|5%
+|1%
+|–
+|–
+|-
+!27 January – 27 March 2021
+|Newspoll<ref name="NewspollState2021Q1e"/>
+|628
+|40%
+|42%
+|10%
+|4%
+|4%
+|47%
+|style="background:#f66"  |'''53%'''
+|-
+!6–7, 13–14 February 2021	
+|Roy Morgan<ref name="Morgan022021d"/>
+|2786
+|–
+|–
+|–
+|–
+|–
+|49.5%
+|style="background:#f66" |'''50.5%'''
+|-
+!26 August – 28 November 2020 
+|Newspoll<ref name="newspollstatenovember" />
+|779
+|43%
+|32%
+|13%
+|7%
+|5%
+|style="background:#00bfff"  |'''53%'''
+|47%
+|-
+!14–15, 21–22 November 2020
+|Roy Morgan<ref name=":5" />
+|2824
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''51%'''
+|49%
+|-
+!8–9, 15–16 August 2020
+|Roy Morgan<ref name="RMPAUG20" />
+|2841
+|–
+|–
+|–
+|–
+|–
+| style="background:#00bfff" |'''53.5%'''
+|46.5%
+|-
+!3 June – 8 August 2020 
+|Newspoll<ref name="newspollstateaugust"/>
+|457–2034
+|45%
+|31%
+|13%
+|8%
+|3%
+|style="background:#00bfff" |'''54%'''
+|46%
+|-
+|-
+!11'''–'''12, 18'''–'''19 July 2020
+|Roy Morgan<ref name=":4" />
+|2589
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''53.5%'''
+|46.5%
+|-
+!11 March – 16 May 2020 
+|Newspoll<ref name=":1" />
+|472–1905
+|44%
+|31%
+|12%
+|9%
+|4%
+|style="background:#00bfff" |'''55%'''
+|45%
+|-
+!style="background:#b0e9db;" |[[2019 Australian federal election|18 May 2019 election]]
+|style="background:#b0e9db;" |
+|style="background:#b0e9db;" |
+|style="background:#b0e9db;" |43.79%
+|style="background:#b0e9db;" |29.80%
+|style="background:#b0e9db;" |11.62%
+|style="background:#b0e9db;" |5.31%
+|style="background:#b0e9db;" |9.48%
+|style="background:#b0e9db;" |55.55%
+|style="background:#b0e9db;" |44.45%
+|}
+
+=== South Australia ===
+{| class="toccolours" cellpadding="5" cellspacing="0" style="text-align:center; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+! Date
+! Firm
+! Sample size
+! colspan="5" style="background:#ccc" | Primary vote
+! colspan="2" style="background:#ebbce3" |[[Two-party-preferred vote|2pp vote]]
+|-
+! colspan="3" | 
+! style="background:#00bfff" |[[Liberal National Party of Queensland|LNP]]
+! style="background:#f66" |[[Australian Labor Party|ALP]]
+! style="background:#90ee90" |[[Australian Greens|GRN]]
+! style="background:orange " |[[Pauline Hanson's One Nation|ONP]]
+! style="background:gray;" | OTH
+! style="background:#00bfff" | [[Coalition (Australia)|L/NP]]
+! style="background:#f66" | [[Australian Labor Party|ALP]]
+|-
+!4 April 2022
+|Roy Morgan<ref>{{Cite web |title=ALP extends lead as Prime Minister Morrison under attack from NSW Liberal Senator Fierravanti-Wells: ALP 57% cf. L-NP 43% |url=http://www.roymorgan.com/findings/8928-roy-morgan-poll-federal-voting-intention-april-2022-202204040823 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|44%
+!style="background:#f66" |'''56%'''
+|-
+!29 March 2022
+|Roy Morgan<ref>{{Cite web |title=ALP lead cut as bullying allegations surround ALP senators: ALP 55.5% cf. L-NP 44.5% |url=http://www.roymorgan.com/findings/8927-federal-voting-intention-final-week-of-march-2022-202203290357 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|36.5%
+!style="background:#f66" |'''63.5%'''
+|-
+!14-20 March 2022
+|Roy Morgan<ref name=":7" />
+| -
+| -
+| -
+| -
+| -
+| -
+|39.5%
+!style="background:#f66" |60.5%
+|-
+! colspan="10" |[[Peter Malinauskas]] wins the [[2022 South Australian state election|2022 South Australia State Election]]
+|-
+!14-23 February 2022
+|Roy Morgan<ref name=":11" />
+| -
+| -
+| -
+| -
+| -
+| -
+|41.5%
+!style="background:#f66" |59.5%
+|-
+!18 February 2022
+|Roy Morgan<ref name=":10" />
+|–
+|–
+|–
+|–
+|–
+|–
+|40.5%
+|style="background:#f66" |'''59.5%'''
+|-
+!4–16 January 2022
+|Roy Morgan<ref name="morgan20jan2022"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|39.5%
+|style="background:#f66" |'''60.5%'''
+|-
+!27–28 November, 4–5 December 2021
+|Roy Morgan<ref name="morgan10dec"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|35.5%
+|style="background:#f66" |'''64.5%'''
+|-
+!13–14, 20–21 November 2021
+|Roy Morgan<ref name="morgan25nov"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|44.5%
+|style="background:#f66" |'''55.5%'''
+|-
+!30–31 October, 6–7 November 2021
+|Roy Morgan<ref name="Morgan7Nov21"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|42.5%
+|style="background:#f66" |'''57.5%'''
+|-
+!18'''–'''19, 25'''–'''26 September 2021
+|Roy Morgan<ref name="Morgan30September"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|41.5%
+|style="background:#f66" |'''58.5%'''
+|-
+!14 July – 18 September 2021
+|Newspoll
+|472
+|40%
+|38%
+|11%
+|1%
+|10%
+|47%
+|style="background:#f66" |'''53%'''
+|-
+!4–5, 11–12 September 2021
+|Roy Morgan<ref name="RoyMorgan15September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|48.5%
+|style="background:#f66" |'''51.5%'''
+|-
+!21–22, 28–29 August 2021
+|Roy Morgan<ref name="RoyMorgan1September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|42.5%
+|style="background:#f66" |'''57.5%'''
+|-
+!7–8, 14–15 August 2021
+|[http://www.roymorgan.com/findings/8778-federal-voting-intention-august-2021-202108180625 Roy Morgan]
+|–
+|–
+|–
+|–
+|–
+|–
+|45.5%
+|style="background:#f66" |'''54.5%'''
+|-
+!24–25 July, 31 July – 1 August 2021
+|Roy Morgan<ref name="RoyMorgan4August2021" />
+|–
+|–
+|–
+|–
+|–
+|–
+|44.5%
+|style="background:#f66" |'''55.5%'''
+|-
+!10–11, 17–18 June 2021
+|Roy Morgan
+|–
+|–
+|–
+|–
+|–
+|–
+|49%
+|style="background:#f66" |'''51%'''
+|-
+!29–30 May, 5–6 June 2021
+|Roy Morgan
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|'''–'''
+|style="background:#00bfff" |'''50.5%'''
+|49.5%
+|-
+!21 April – 26 June 2021
+|Newspoll
+|473
+|37%
+|39%
+|10%
+|2%
+|12%
+|46%
+|style="background:#f66"  |'''54%'''
+|-
+!27 January – 27 March 2021
+|Newspoll<ref name="NewspollState2021Q1e"/>
+|517
+|38%
+|41%
+|10%
+|0%
+|11%
+|45%
+|style="background:#f66"  |'''55%'''
+|-
+!6–7, 13–14 February 2021	
+|Roy Morgan<ref name="Morgan022021d"/>
+|2786
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''50.5%'''
+|49.5%
+|-
+!26 August – 28 November 2020 
+|Newspoll<ref name="newspollstatenovember" />
+|600
+|44%
+|36%
+|10%
+|1%
+|9%
+|style="background:#00bfff"  |'''51%'''
+|49%
+|-
+!14–15, 21–22 November 2020
+|Roy Morgan<ref name=":5" />
+|2824
+|–
+|–
+|–
+|–
+|–
+|48%
+|style="background:#f66"  |'''52%'''
+|-
+!8–9, 15–16 August 2020
+|Roy Morgan<ref name="RMPAUG20" />
+|2841
+|–
+|–
+|–
+|–
+|–
+| style="background:#00bfff" |'''57.5%'''
+|42.5%
+|-
+!3 June – 8 August 2020 
+|Newspoll<ref name="newspollstateaugust"/>
+|457–2034
+|43%
+|36%
+|10%
+|0%
+|11%
+|50%
+|50%
+|-
+!11'''–'''12, 8'''–'''19 July 2020
+|Roy Morgan<ref name=":4" />
+|2589
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff" |'''53%'''
+|47%
+|-
+!11 March – 16 May 2020 
+|Newspoll<ref name=":1" />
+|472–1905
+|40%
+|37%
+|12%
+|0%
+|11%
+|47%
+|style="background:#f66" |'''53%'''
+|-
+!style="background:#b0e9db;" |[[2019 Australian federal election|18 May 2019 election]]
+|style="background:#b0e9db;" |
+|style="background:#b0e9db;" |
+|style="background:#b0e9db;" |40.57%
+|style="background:#b0e9db;" |35.38%
+|style="background:#b0e9db;" |9.61%
+|style="background:#b0e9db;" |0.84%
+|style="background:#b0e9db;" |13.60%
+|style="background:#b0e9db;" |49.29%
+|style="background:#b0e9db;" |50.71%
+|}
+
+=== Tasmania ===
+{| class="toccolours" cellpadding="5" cellspacing="0" style="text-align:center; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+! Date
+! Firm
+! Sample size
+! colspan="5" style="background:#ccc" | Primary vote
+! colspan="2" style="background:#ebbce3" |[[Two-party-preferred vote|2pp vote]]
+|-
+! colspan="3" | 
+! style="background:#00bfff" |[[Liberal National Party of Queensland|LNP]]
+! style="background:#f66" |[[Australian Labor Party|ALP]]
+! style="background:#90ee90" |[[Australian Greens|GRN]]
+! style="background:orange " |[[Pauline Hanson's One Nation|ONP]]
+! style="background:gray;" | OTH
+! style="background:#00bfff" | [[Coalition (Australia)|L/NP]]
+! style="background:#f66" | [[Australian Labor Party|ALP]]
+|-
+!4 April 2022
+|Roy Morgan<ref>{{Cite web |title=ALP extends lead as Prime Minister Morrison under attack from NSW Liberal Senator Fierravanti-Wells: ALP 57% cf. L-NP 43% |url=http://www.roymorgan.com/findings/8928-roy-morgan-poll-federal-voting-intention-april-2022-202204040823 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|26%
+!style="background:#f66" |'''74%'''
+|-
+!29 March 2022
+|Roy Morgan<ref>{{Cite web |title=ALP lead cut as bullying allegations surround ALP senators: ALP 55.5% cf. L-NP 44.5% |url=http://www.roymorgan.com/findings/8927-federal-voting-intention-final-week-of-march-2022-202203290357 |access-date=2022-04-05 |website=Roy Morgan |language=en}}</ref>
+| -
+| -
+| -
+| -
+| -
+| -
+|47%
+!style="background:#f66" |'''53%'''
+|-
+!14-20 March 2022
+|Roy Morgan<ref name=":7" />
+| -
+| -
+| -
+| -
+| -
+| -
+|40%
+!style="background:#f66" |60%
+|-
+!14-23 February 2022
+|Roy Morgan<ref name=":11" />
+| -
+| -
+| -
+| -
+| -
+| -
+|25%
+!style="background:#f66" |75%
+|-
+!18 February 2022
+|Roy Morgan<ref name=":10" />
+|–
+|–
+|–
+|–
+|–
+|–
+|35%
+|style="background:#f66" |'''65%'''
+|-
+!4–16 January 2022
+|Roy Morgan<ref name="morgan20jan2022"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|39.5%
+|style="background:#f66" |'''60.5%'''
+|-
+!27–28 December, 4–5 December 2021
+|Roy Morgan<ref name="morgan10dec"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|48.5%
+|style="background:#f66" |'''51.5%'''
+|-
+!13–14, 20–21 November 2021
+|Roy Morgan<ref name="morgan25nov"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|47%
+|style="background:#f66" |'''53%'''
+|-
+!30–31 October, 6–7 November 2021
+|Roy Morgan<ref name="Morgan7Nov21"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|42.5%
+|style="background:#f66" |'''57.5%'''
+|-
+!18–19, 25–26 September 2021
+|Roy Morgan<ref name="Morgan30September"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|48%
+|style="background:#f66" |'''52%'''
+|-
+!4–5, 11–12 September 2021
+|Roy Morgan<ref name="RoyMorgan15September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|44.5%
+|style="background:#f66" |'''55.5%'''
+|-
+!21–22, 28–29 August 2021
+|Roy Morgan<ref name="RoyMorgan1September2021"/>
+|–
+|–
+|–
+|–
+|–
+|–
+|36.5%
+|style="background:#f66" |'''63.5%'''
+|-
+!7–8, 14–15 August 2021
+|[http://www.roymorgan.com/findings/8778-federal-voting-intention-august-2021-202108180625 Roy Morgan]
+|–
+|–
+|–
+|–
+|–
+|–
+|43%
+|style="background:#f66" |'''57%'''
+|-
+!24–25 July, 31 July − 1 August 2021
+|Roy Morgan<ref name="RoyMorgan4August2021" />
+|–
+|–
+|–
+|–
+|–
+|–
+|46%
+|style="background:#f66" |'''54%'''
+|-
+!10–11, 17–18 June 2021
+|Roy Morgan
+|–
+|–
+|–
+|–
+|–
+|–
+|42%
+|style="background:#f66" |'''58%'''
+|-
+!14–15, 21–22 November 2020
+|
+|2824
+|–
+|–
+|–
+|–
+|–
+|style="background:#00bfff"  |'''52%'''
+|48%
+|-
+!11'''–'''12, 18'''–'''19 July 2020
+|Roy Morgan<ref name=":4" />
+|2589
+|–
+|–
+|–
+|–
+|–
+|42%
+|style="background:#f66" |'''58%'''
+|-
+! style="background:#b0e9db;" |[[2019 Australian federal election|18 May 2019 election]]
+| style="background:#b0e9db;" |
+| style="background:#b0e9db;" |
+| style="background:#b0e9db;" |34.60%
+| style="background:#b0e9db;" |33.61%
+| style="background:#b0e9db;" |10.12%
+| style="background:#b0e9db;" |2.79%
+| style="background:#b0e9db;" |18.88%
+| style="background:#b0e9db;" |44.04%
+| style="background:#b0e9db;" |55.96%
+|}
+
+== Government approval rating ==
+
+=== Individual polls ===
+{| class="toccolours" cellpadding="6" cellspacing="0" style="text-align:center; margin-right:.4em; margin-top:.4em; font-size:90%;"
+|+
+!Date
+!Firm
+!style="background:#90ee90" |Right<br/>direction
+!style="background:#f66" |Wrong<br/>direction
+!Can't<br/>say
+!GCR<ref>GCR is known as the Roy Morgan Government Confidence Rating which is 100 plus the difference between the percentage of people who say the country is "going in the right direction" and the percentage who say the country is "going in seriously the wrong direction".</ref>
+!Lead
+|-
+!14-20 March 2022
+|Roy Morgan<ref name=":7" />
+|33.5%
+!style="background:#f66" |50.5%
+|16%
+|83
+!style="background:#f66" |-17%
+|-
+!14-23 February 2022
+|Roy Morgan<ref name=":11" />
+|35%
+!style="background:#f66" |47%
+|18%
+|88
+!style="background:#f66" |-12%
+|-
+|'''18 February 2022'''
+|Roy Morgan<ref name=":10" />
+|35%
+!style="background:#f66" |48.5%
+|16.5%
+|'''86.5'''
+!style="background:#f66" |-13.5%
+|-
+|'''4–16 January 2022'''
+|Roy Morgan<ref name="morgan20jan2022"/>
+|34%
+!style="background:#f66" |51%
+|15%
+|'''83'''
+!style="background:#f66" |-17%
+|-
+|'''27–28 November, 4–5 December 2021'''
+|Roy Morgan<ref name="morgan10dec"/>
+|38%
+!style="background:#f66" |46.5%
+|15.5%
+|'''91.5'''
+!style="background:#f66" |-8.5%
+|-
+|'''13–14, 20–21 November 2021'''
+|Roy Morgan<ref name=":9" />
+|39.5%
+!style="background:#f66" |46%
+|14.5%
+|'''93.5'''
+!style="background:#f66" |-6.5%
+|-
+|'''2–3, 9–10 October 2021'''
+|Roy Morgan<ref name=":9" />
+|40%
+!style="background:#f66" |45%
+|15%
+|'''95'''
+!style="background:#f66" |-5%
+|-
+|'''18–19, 25–26 September 2021'''
+|Roy Morgan<ref name="Morgan30September" />
+|40%
+!style="background:#f66"! | 44%
+|16%
+|'''96'''
+!style="background:#f66"! | -4%
+|-
+|'''4–5, 11–12 September 2021'''
+|Roy Morgan<ref name="RoyMorgan15September2021" />
+|40%
+! style="background:#f66" |45.5%
+|14.5%
+|'''94.5'''
+! style="background:#f66" | -5.5%
+|-
+|'''6–7, 13–14 February 2021'''
+|Roy Morgan
+|style="background:#90ee90" |'''53.5%'''
+|30%
+|16.5%
+|'''123.5'''
+|style="background:#90ee90" |'''+23.5%'''
+|-
+|'''8–9, 15–16 August 2020'''
+|Roy Morgan
+|style="background:#90ee90" |'''48%'''
+|34%
+|18%
+|'''114'''
+|style="background:#90ee90" |'''+14%'''
+|-
+|'''11–12, 18–19 July 2020'''
+|Roy Morgan<ref name=":4"/>
+| style="background:#90ee90" |'''49%'''
+|34.5%
+|16.5%
+|'''114.5'''
+| style="background:#90ee90" |'''+14.5%'''
+|-
+|'''13–14, 23–24 June 2020'''
+|Roy Morgan<ref name=":4"/>
+| style="background:#90ee90" |'''53.5%'''
+|29.5%
+|17%
+|'''124'''
+| style="background:#90ee90" |'''+24%'''
+|-
+|'''16–17, 23–24 May 2020'''
+|Roy Morgan
+|style="background:#90ee90" |'''54.5%'''
+|29.5%
+|16%
+|'''125'''
+|style="background:#90ee90" |'''+25%'''
+|-
+|'''18–19, 25–26 April 2020'''
+|Roy Morgan<ref name="morgan8389" />
+|style="background:#90ee90" |'''51.5%'''
+|27.5%
+|21%
+|'''124'''
+|style="background:#90ee90" |'''+24%'''
+|-
+|'''29 February – 1 March, 7–8 March 2020'''
+|Roy Morgan<ref name="morgan8389" />
+|37%
+|style="background:#f66" |'''47%'''
+|16%
+|'''90'''
+|style="background:#f66" |'''–10%'''
+|-
+|'''22–23, 29–30 June 2019'''
+|Roy Morgan<ref>{{Cite web|title=Government Confidence jumps after L-NP win Election|url=http://www.roymorgan.com/findings/8041-government-confidence-post-election-australia-may-june-2019-201907020922|website=Roy Morgan|language=en|access-date=2020-05-02|archive-date=21 February 2020|archive-url=https://web.archive.org/web/20200221190753/http://www.roymorgan.com/findings/8041-government-confidence-post-election-australia-may-june-2019-201907020922|url-status=live}}</ref>
+|style="background:#90ee90" |'''43.5%'''
+|39%
+|17.5%
+|'''104.5'''
+|style="background:#90ee90" |'''+4.5%'''
+|}
+
+== See also ==
+
+*[[Opinion polling for the 2019 Australian federal election]]
+
+== Notes ==
+{{notelist}}
+== References ==
+{{reflist}}
+
+[[Category:Opinion polling in Australia]]
+[[Category:Opinion polling for future elections|Australia]]
+[[Category:2022 Australian federal election]]

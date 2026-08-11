@@ -72,7 +72,9 @@ def test_every_public_election_has_a_catalog_jurisdiction_and_source():
     exploratory = [item for item in elections if item["system"] == "unresolved"]
     assert len(exploratory) == 8
     assert all(item["election_date"] is not None for item in exploratory)
-    assert all(item["date_confidence"].startswith("three-year") for item in exploratory)
+    assert all(item["date_confidence"] for item in exploratory)
+    australia = next(item for item in exploratory if item["id"] == "aus-next-national")
+    assert australia["date_confidence"].startswith("latest practical simultaneous")
     assert all(item["potential_candidates"] for item in exploratory)
     argentina = client.get("/v1/elections/arg-next-national").json()
     assert argentina["forecast"]["simulation_count"] == 1_000_000
@@ -156,6 +158,21 @@ def test_forecast_contract_and_exploratory_forecasts():
     assert comparison["simulation_count_per_model_fold"] == 1_000_000
     assert comparison["evaluated_horizon_min_days"] == 2
     assert comparison["evaluated_horizon_max_days"] == 14
+
+    australia = client.get("/v1/elections/aus-next-national").json()
+    assert australia["election"]["election_date"] == "2028-05-20"
+    assert australia["forecast"]["forecast_horizon_days"] == 648
+    assert {item["name"] for item in australia["election"]["contestants"]} == {
+        "Labor majority government",
+        "Coalition majority government",
+        "Hung parliament / crossbench balance",
+    }
+    australia_comparison = client.get("/v1/elections/aus-next-national/model-comparison").json()
+    assert australia_comparison["fold_count"] == 9
+    assert australia_comparison["held_out_election_count"] == 3
+    assert australia_comparison["historical_leader"] == "markov_momentum"
+    assert australia_comparison["vintage_verified"] is True
+    assert australia_comparison["status"] == "insufficient_evidence"
     assert comparison["target_horizon_days"] == 637
     assert comparison["vintage_verified"] is True
     assert comparison["historical_election_count"] == 3
@@ -258,13 +275,7 @@ def test_immutable_snapshot_and_public_contract_surfaces():
     assert simulations["seed"] == latest["seed"]
     driver_report = client.get(f"/v1/elections/{election_id}/drivers").json()
     assert driver_report["drivers"]
-    assert len(driver_report["sensitivity"]) == len(driver_report["drivers"])
-    assert all(
-        row["negative_incumbent_share_shift"]
-        <= row["observed_incumbent_share_shift"]
-        <= row["positive_incumbent_share_shift"]
-        for row in driver_report["sensitivity"]
-    )
+    assert driver_report["sensitivity"] == []
     assert client.get(f"/v1/elections/{election_id}/sources").json()["sources"]
 
     map_layer = client.get(f"/v1/elections/{election_id}/map-layers").json()

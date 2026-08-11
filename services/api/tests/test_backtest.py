@@ -431,6 +431,46 @@ def test_turkiye_archive_vectors_recompute_from_pinned_wikitext():
             )
 
 
+def test_packaged_australia_report_has_three_archive_verified_holdouts():
+    root = Path(__file__).parents[1] / "app" / "backtests"
+    dataset = load_backtest_dataset(root / "au-federal-tpp-2010-2025-v1.json")
+    report_path = root / "au-federal-tpp-2010-2025-v1-report.json"
+    report = load_backtest_report(
+        report_path,
+        dataset_sha256=dataset.dataset_sha256,
+        target_horizon_days=648,
+        expected_sha256=hashlib.sha256(report_path.read_bytes()).hexdigest(),
+    )
+    assert len(dataset.records) == 18
+    assert dataset.provenance_verified is True
+    assert report.provenance_verified is True
+    assert report.simulation_count == 1_000_000
+    assert len(report.folds) == 9
+    assert report.held_out_election_count == 3
+    assert report.evaluated_horizon_min_days == 7
+    assert report.evaluated_horizon_max_days == 28
+    assert report.reliable is False
+    assert report.winner is None
+    assert "twenty years" in " ".join(report.promotion_reasons)
+
+
+def test_australia_archive_vectors_recompute_from_pinned_wikitext():
+    api_root = Path(__file__).parents[1]
+    builder = runpy.run_path(api_root / "scripts" / "build_au_federal_backtest.py")
+    parser = builder["poll_vector_from_wikitext"]
+    revisions = builder["POLL_REVISIONS"]
+    expected_vectors = builder["EXPECTED_POLL_VECTORS"]
+    raw_root = api_root / "app" / "backtests" / "raw" / "au"
+    for year, origins in revisions.items():
+        for (oldid, _), expected in zip(origins, expected_vectors[year], strict=True):
+            raw = (raw_root / f"wikipedia-oldid-{oldid}.wikitext").read_text(encoding="utf-8")
+            computed = parser(raw)
+            assert all(
+                abs(actual - target) <= 0.000002
+                for actual, target in zip(computed, expected, strict=True)
+            )
+
+
 def test_cached_report_rejects_wrong_target_horizon():
     root = Path(__file__).parents[1] / "app" / "backtests"
     dataset = load_backtest_dataset(root / "us-presidential-2000-2020-v3.json")

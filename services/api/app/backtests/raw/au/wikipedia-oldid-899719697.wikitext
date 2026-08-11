@@ -1,0 +1,1270 @@
+{{current election||a recent election}}
+{{short description|Election for the 46th Parliament of Australia}}
+{{use dmy dates|date=May 2019}}
+<section begin=infobox/>
+{{Infobox election
+| election_name = 2019 Australian federal election
+| country = Australia
+| type = Parliamentary
+| ongoing = no
+| previous_election = 2016 Australian federal election
+| previous_year = 2016
+| election_date = 18 May 2019
+| next_election = 
+| next_year = [[Next Australian federal election|Next]]
+| registered = 16,424,248
+| votes_counted = 90.9
+| declared = 16.6
+| last_update = 1 June 2019 7:30am
+| time_zone = AEST
+| seats_for_election = All 151 seats in the [[Australian House of Representatives|House of Representatives]]<br /><small>76 seats are needed for a majority</small> <br />40 (of the 76) seats in the [[Australian Senate|Senate]]
+| opinion_polls = Opinion polling for the 2019 Australian federal election
+
+<!-- Liberal/National coalition -->| image1 = [[File:Scott Morrison 2014 crop.jpg|140x140px|Scott Morrison]]
+| leader1 = [[Scott Morrison]]
+| party1 = Liberal/National coalition
+| leader_since1 = [[2018 Liberal Party of Australia leadership spills|{{start date|df=yes|2018|8|24}}]]
+| leaders_seat1 = [[Division of Cook|Cook]] (NSW)
+| popular_vote1 = 
+| percentage1 = '''41.5%'''
+| swing1 = {{decrease}} 0.5
+| last_election1 = 76 seats, 50.36%
+| seats_before1 = 74
+| seats1 = '''77 seats'''
+| seat_change1 = {{increase}} 1{{refn|group=n|name=change|Seat change calculated from the previous election result of 76 seats.}}
+
+<!-- Labor -->| image2 = [[File:Bill Shorten-crop.jpg|140x140px|Bill Shorten]]
+| leader2 = [[Bill Shorten]]
+| leader_since2 = [[October 2013 Australian Labor Party leadership election|{{start date|df=yes|2013|10|13}}]]
+| party2 = Australian Labor Party
+| leaders_seat2 = [[Division of Maribyrnong|Maribyrnong]] (Vic.)
+| popular_vote2 = 
+| percentage2 = 33.3%
+| swing2 = {{decrease}} 1.4
+| last_election2 = 69 seats, 49.64%
+| seats_before2 = 69
+| seats2 = 68 seats
+| seat_change2 = {{decrease}} 1
+
+<!-- 2PP -->
+<!-- rating -->| 1blank = [[Two-party-preferred vote|TPP]]
+| 1data1 = '''51.64%
+| 1data2 = 48.36%
+| 2blank = [[Two-party-preferred vote|TPP]] swing
+| 2data1 = {{increase}} 1.28
+| 2data2 = {{decrease}} 1.28
+
+<!-- The Greens -->| image3 = [[File:Richard Di Natale infobox Crop.png|140x140px|Richard Di Natale]]
+| colour3 = 10C25B
+| leader3 = [[Richard Di Natale]]
+| leader_since3 = [[Australian Greens leadership election, 2015|{{start date|df=yes|2015|05|06}}]]
+| party3 = Australian Greens
+| leaders_seat3 = [[List of Senators from Victoria|Senator for Victoria]]
+| popular_vote3 = 
+| percentage3 = 10.3%
+| swing3 = {{increase}} 0.1
+| last_election3 = 1 seat, 10.2%
+| seats3 = 1 seat
+| seat_change3 = {{nochange}}
+
+<!-- Katter's Australian Party -->| image4 = [[File:Bob Katter.jpg|140x140px|Bob Katter]]
+| colour4 = B50204
+| leader4 = [[Bob Katter]]
+| leader_since4 = {{start date|df=yes|2011|06|03}}
+| party4 = Katter's Australian Party
+| leaders_seat4 = [[Division of Kennedy|Kennedy]] (Qld)
+| popular_vote4 = 
+| percentage4 = 0.5%
+| swing4 = {{steady}}
+| last_election4 = 1 seat, 0.5%
+| seats4 = 1 seat
+| seat_change4 = {{nochange}}
+
+<!-- Centre Alliance -->| image5 = 
+| colour5 = FF6300
+| leader5 = ''No leader''
+| leader_since5 = 
+| party5 = Centre Alliance
+| leaders_seat5 = 
+| seats_needed5 = 
+| popular_vote5 = 
+| percentage5 = 0.3%
+| swing5 = {{decrease}} 1.5
+| last_election5 = 1 seat, 1.8%
+| seats5 = 1 seat
+| seat_change5 = {{nochange}}
+
+<!-- Independents -->| image6 = 
+| colour6 = grey
+| leader6 = N/A
+| leader_since6 = N/A
+| party6 = [[Independent politician|Independents]]
+| leaders_seat6 = 
+| seats_needed6 = 
+| popular_vote6 = 
+| percentage6 = 3.4%
+| swing6 = {{increase}} 0.6
+| last_election6 = 2 seats, 2.8%
+| seats6 = 3 seats
+| seat_change6 = {{increase}} 1
+
+<!-- Map -->| map_image = Australia_general_election_2019_-_Results_by_Division.svg
+| map_size = 420px
+| map_caption = Winning party by division for the House of Representatives.
+
+<!-- Before/after PM -->| title = [[Prime Minister of Australia|Prime Minister]]
+| before_election = [[Scott Morrison]]
+| before_party = [[Coalition (Australia)|Liberal/National coalition]]
+| posttitle = Subsequent Prime Minister
+| after_election = [[Scott Morrison]]
+| after_party = [[Coalition (Australia)|Liberal/National coalition]]
+}}<section end=infobox/>
+{{2019 Australian federal election sidebar}}
+The '''2019 Australian federal election''' was held on Saturday 18 May 2019 to elect members of the [[46th Parliament of Australia|46th]] [[Parliament of Australia]]. The election had been called following the dissolution of the [[45th Parliament of Australia|45th Parliament]] as elected at the [[2016 Australian federal election|2016 double dissolution federal election]]. All 151 seats in the [[Australian House of Representatives|House of Representatives]] (lower house) and 40 of the 76 seats in the [[Australian Senate|Senate]] (upper house) were up for election.
+
+The second-term incumbent [[Minority government|minority]] [[Coalition (Australia)|Coalition]] [[Morrison Government|Government]], led by [[Prime Minister of Australia|Prime Minister]] [[Scott Morrison]], won a third three-year term against the [[Australian Labor Party|Labor]] [[Opposition (Australia)|opposition]], led by [[list of Australian Leaders of the Opposition|Opposition Leader]] [[Bill Shorten]]. [[Minor party|Minor parties]] and [[Independent (politician)|independents]] also contested the election, the most popular of which were the [[Australian Greens|Greens]], [[Pauline Hanson's One Nation|One Nation]], and the [[United Australia Party (2013)|United Australia Party]], according to nationwide [[Opinion polling for the 2019 Australian federal election|opinion polls]]. The Greens, [[Centre Alliance]], and [[Katter's Australian Party]] successfully defended one House of Representatives seat each.
+
+Australia enforces [[compulsory voting]] and uses full-preference [[instant-runoff voting]] in [[Single-member district|single-member seats]] for the House of Representatives and optional preferential [[Single transferable vote|single transferable voting]] in the [[proportional representation|proportionally represented]] Senate.<ref name="elecsys">{{cite web |title=Australian electoral systems |url=https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/RP0708/08rp05 |website=Parliamentary Library |publisher=Parliament of Australia |accessdate=16 September 2018 |archive-url=https://web.archive.org/web/20180916055840/https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/RP0708/08rp05 |archive-date=16 September 2018 |dead-url=no }}</ref> The election was administered by the [[Australian Electoral Commission]].
+
+As at 12:00AM AEST on 19 May, [[Antony Green]] and the [[Australian Broadcasting Corporation]] calculated that the Coalition had won at least 74 seats, while Labor had won at least 66, with five seats still undecided.<ref name="ABCresult">{{cite web |url=https://www.abc.net.au/news/elections/federal/2019/results |title=Federal Election 2019 Results |work=[[Australian Broadcasting Corporation]] |accessdate=19 May 2019 |archive-url=https://web.archive.org/web/20190519015530/https://www.abc.net.au/news/elections/federal/2019/results |archive-date=19 May 2019 |dead-url=no }}</ref> Green said that based on his calculations, there was no politically realistic scenario for Labor to win, and the Coalition had at the very least retained a minority government.<ref>{{cite news|url=https://www.abc.net.au/news/2019-05-18/election-results-2019-vote-count-underway/11126576|title=Election results 2019: Coalition ahead on seats as predicted big swing to Labor falls short|publisher=[[ABC News (Australia)|ABC News]]|date=19 May 2019|access-date=19 May 2019|archive-url=https://web.archive.org/web/20190518234933/https://www.abc.net.au/news/2019-05-18/election-results-2019-vote-count-underway/11126576|archive-date=18 May 2019|dead-url=no}}</ref> On the morning of 20 May, the ABC projected that the Coalition had actually picked up the net two-seat swing it needed for a [[majority government]].<ref>{{cite news|url=https://www.abc.net.au/news/2019-05-20/election-coalition-get-77-seats-wentworth-boothby-bass-chisholm/11128652|title=Election 2019: Coalition secures 77 seats as Liberals win Wentworth, Chisholm, Boothby and Bass|publisher=[[ABC News (Australia)|ABC News]]|date=20 May 2019|access-date=19 May 2019|archive-url=https://web.archive.org/web/20190519235400/https://www.abc.net.au/news/2019-05-20/election-coalition-get-77-seats-wentworth-boothby-bass-chisholm/11128652|archive-date=19 May 2019|dead-url=no}}</ref> All results are provisional until the Australian Electoral Commission returns writs, which must occur by 28 June 2019.<ref>AEC calendar[https://www.aec.gov.au/election/] of 2019 Election</ref>
+
+The result was considered an upset as polling had placed the Coalition consistently behind for almost three years. However, the Coalition benefited from a stronger-than-expected showing in [[Queensland]]. The [[Liberal National Party of Queensland|Liberal National Party]], which contests elections in Queensland for the Coalition, benefited from the preference flows of other minor parties. The LNP was projected to win as many as 25 of the state's 30 seats due in part to One Nation and UAP preferences.<ref>{{cite news|url=https://www.abc.net.au/news/2019-05-19/how-labor-lost-queensland-and-gifted-the-coalition-a-third-term/11122998|title=Election 2019: Why Queensland turned its back on Labor and helped Scott Morrison to victory|author1=Allyson Horn|publisher=[[ABC News (Australia)|ABC News]]|date=19 May 2019|access-date=19 May 2019|archive-url=https://web.archive.org/web/20190519092803/https://www.abc.net.au/news/2019-05-19/how-labor-lost-queensland-and-gifted-the-coalition-a-third-term/11122998|archive-date=19 May 2019|dead-url=no}}</ref>
+
+On election night, Morrison declared victory and Shorten conceded defeat and declared his intention to stand down as leader of his party, but to remain in parliament.<ref>{{cite web|url=https://www.bbc.com/news/world-australia-48305001|title=Australian PM celebrates 'miracle' win|date=18 May 2019|publisher=|accessdate=18 May 2019|via=www.bbc.co.uk|archive-url=https://web.archive.org/web/20190517230525/https://www.bbc.com/news/world-australia-48305001|archive-date=17 May 2019|dead-url=no}}</ref>
+
+==Results==
+===House of Representatives===
+{{main article|Results of the 2019 Australian federal election (House of Representatives)}}
+{| class="wikitable" style="text-align:right;  margin-bottom:0"
+|+House of Representatives ([[Instant-runoff voting|IRV]]) – 90.31% counted ([[Compulsory voting|CV]]) 
+! style="width:200px" colspan=3 | Party
+! style="width:70px;"| Votes
+! style="width:40px;"| %
+! style="width:40px;"| Swing (pp)
+! style="width:40px;"| Seats
+! style="width:40px;"| Change (seats)
+|-
+| rowspan="6" | &nbsp;
+! colspan="7" style="text-align:left;"| [[Coalition (Australia)|Liberal/National Coalition]]
+|-
+| {{Australian party style|Liberal|width:1px}} | &nbsp;
+| align=left | [[Liberal Party of Australia|Liberal]]
+| 3,919,489
+| 27.96
+| −0.71
+| 44
+| {{decrease}} 1
+|-
+| {{Australian party style|LNP}} | &nbsp;
+| align=left | [[Liberal National Party of Queensland|Liberal National]] {{small|[[Queensland|(Qld)]]}}
+| 1,226,113
+| 8.75
+| +0.23
+| 23
+| {{increase}} 2
+|-
+| {{Australian party style|Nationals}} | &nbsp;
+| align=left | [[National Party of Australia|National]]
+| 638,912
+| 4.56
+| −0.05
+| 10
+| {{steady}}
+|-
+| {{Australian party style|CLP}} | &nbsp;
+| align=left | [[Country Liberal Party|Country Liberal]] {{small|([[Northern Territory|NT]])}}
+| 38,535
+| 0.27
+| +0.03
+| 0
+| {{steady}}
+|-
+! colspan="2" style="text-align:left;" |[[Coalition (Australia)|Coalition total]]
+!style="text-align:right;"| 5,823,049
+!style="text-align:right;"| 41.54
+!style="text-align:right;"| −0.50
+!style="text-align:right;"| 77
+!style="text-align:right;"| {{increase}} 1
+|-
+| {{Australian party style|Labor|width:1px}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Australian Labor Party|Labor]]
+| style="width:70px;"| 4,670,935
+| style="width:40px;"| 33.33
+| style="width:45px;"| −1.40
+| style="width:40px;"| 68
+| style="width:55px;"| {{decrease}} 1
+|-
+| {{Australian party style|Greens}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Australian Greens|Greens]]
+| 1,441,803
+| 10.29
+| +0.06
+| 1
+| {{steady}}
+|-
+| {{Australian party style|Palmer United Party}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[United Australia Party (2013)|United Australia]]
+| 480,885
+| 3.43
+| +3.43
+| 0
+| {{steady}}
+|-
+| {{Australian party style|One Nation}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Pauline Hanson's One Nation|One Nation]]
+| 433,062
+| 3.09
+| +1.80
+| 0
+| {{steady}}
+|-
+| {{Australian party style|Katter's Australian Party}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Katter's Australian Party|Katter's Australian]]
+| 69,017
+| 0.49
+| −0.05
+| 1
+| {{steady}}
+|-
+| {{Australian party style|Centre Alliance}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Centre Alliance]]
+| 46,521
+| 0.33
+| −1.52
+| 1
+| {{steady}}
+|-
+| {{Australian party style|Independent}}| &nbsp;
+| style="text-align:left;" colspan="2"| [[Independent politician|Independents]]
+| 474,077
+| 3.38
+| +0.57
+| 3
+| {{increase}} 1
+|-
+| style="background:gray;"| &nbsp;
+| style="text-align:left;" colspan="2"| Other
+| 576,552
+| 4.11
+| −2.39
+| 0
+| {{steady}}
+|-
+|align=left colspan=3|'''Total'''||'''14,015,901'''||'''100.00'''||'''–''' ||'''151'''|| {{increase}} '''1'''
+|-
+! colspan="9" | [[Two-party-preferred vote]]
+|-
+| {{Australian party style|Liberal}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Coalition (Australia)|Liberal/National Coalition]]
+| 6,516,975
+| 51.67
+| +1.31
+| 
+| 
+|-
+| {{Australian party style|Labor}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Australian Labor Party|Labor]]
+| 6,096,314
+| 48.33
+| −1.31
+| 
+| 
+|-
+|colspan=9|
+|-
+|align=left colspan=3|Invalid/blank votes|| 817,418 || 5.51 || +0.46 ||–||–
+|-
+|align=left colspan=3|Registered voters<ref>{{Cite web |url=https://www.aec.gov.au/Enrolling_to_vote/Enrolment_stats/index.htm |title=Enrolment statistics |access-date=19 May 2019 |archive-url=https://web.archive.org/web/20190408234652/https://aec.gov.au/Enrolling_to_vote/Enrolment_stats/index.htm |archive-date=8 April 2019 |dead-url=no }}</ref>/turnout || 16,424,248 || 90.31 ||– ||–||–
+|-
+|align=left colspan=8|Source: [https://tallyroom.aec.gov.au/HouseStateFirstPrefsByParty-24310-NAT.htm AEC Tally Room]
+|}
+
+Independents: [[Andrew Wilkie]] ([[Division of Clark|Clark]]), [[Helen Haines]] ([[Division of Indi|Indi]]), [[Zali Steggall]] ([[Division of Warringah|Warringah]]), 
+
+<small>Results are not final. Last updated at 2:20pm AEST, 31 May 2019.</small>
+<noinclude>
+====Seats in doubt====
+{{As of|2019|5|31}}, the AEC lists two divisions as "close seats" with a two-candidate margin of less than 0.5 percentage points: [[Division of Bass|Bass]] TAS (Liberal ahead), and [[Division of Macquarie|Macquarie]] NSW (Labor ahead).<ref name="closeseats">{{cite web |title=Close Seats |url=https://tallyroom.aec.gov.au/HouseCloseSeats-24310.htm |website=AEC Tally Room |publisher=Australian Electoral Commission |accessdate=21 May 2019 |archive-url=https://web.archive.org/web/20190518100652/https://tallyroom.aec.gov.au/HouseCloseSeats-24310.htm |archive-date=18 May 2019 |dead-url=no }}</ref>
+
+The ABC lists only Macquarie as being "in doubt".<ref name="abcindoubt">{{cite web |title=Seats in doubt |url=https://www.abc.net.au/news/elections/federal/2019/results/list?filter=indoubt&sort=az&state=all |website=ABC Elections |publisher=Australian Broadcasting Corporation |accessdate=21 May 2019 |archive-url=https://web.archive.org/web/20190521003316/https://www.abc.net.au/news/elections/federal/2019/results/list?filter=indoubt&sort=az&state=all |archive-date=21 May 2019 |dead-url=no }}</ref>
+
+====Divisions changing party====
+Members in italics did not re-contest their House of Representatives seats at this election.<ref name="ABCresult"/>
+
+{|class="wikitable"
+|- style="text-align:center"
+! rowspan="2" | Seat
+! colspan="4" | Pre-2019
+! rowspan="2" | Swing
+! colspan="4" | Post-2019
+|- style="text-align:center"
+! colspan="2" | Party
+! Member
+! Margin
+! Margin
+! Member
+! colspan="2" | Party
+|-
+| [[Division of Bass|Bass, TAS]]
+| {{Australian party style|Labor}}|
+| Labor
+| [[Ross Hart (politician)|Ross Hart]]
+| style="text-align:right;"| 5.42
+| {{TBA}}
+| {{TBA}}
+| [[Bridget Archer]]
+| Liberal
+| {{Australian party style|Liberal}}|
+|-
+| [[Division of Braddon|Braddon, TAS]]
+| {{Australian party style|Labor}}|
+| Labor
+| [[Justine Keay]]
+| style="text-align:right;"| 1.73
+| {{TBA}}
+| {{TBA}}
+| [[Gavin Pearce]]
+| Liberal
+| {{Australian party style|Liberal}}|
+|-
+|[[Division of Chisholm|Chisholm, VIC]]
+| {{Australian party style|Independent}}|
+|Independent
+|''[[Julia Banks]]''{{ref label|banks|1|1}}
+|style="text-align:right;"|2.84
+| {{TBA}}
+| {{TBA}}
+|[[Gladys Liu]]
+|Liberal
+| {{Australian party style|Liberal}}|
+|-
+| [[Division of Corangamite|Corangamite, VIC]]
+| {{Australian party style|Liberal}}|
+| Liberal{{ref label|notional|2|2}}
+| [[Sarah Henderson]]
+| style="text-align:right;"| −0.03
+| {{TBA}}
+| {{TBA}}
+| [[Libby Coker]]
+| Labor
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Dunkley|Dunkley, VIC]]
+| {{Australian party style|Liberal}}|
+| Liberal{{ref label|notional|2|2}}
+| [[Chris Crewther]]
+| style="text-align:right;"| −1.03
+| {{TBA}}
+| {{TBA}}
+| [[Peta Murphy]]
+| Labor
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Gilmore|Gilmore, NSW]]
+| {{Australian party style|Liberal}}|
+| Liberal
+| ''[[Ann Sudmalis]]''
+| style="text-align:right;"| 0.73
+| {{TBA}}
+| {{TBA}}
+| [[Fiona Phillips (politician)|Fiona Phillips]]
+| Labor
+| {{Australian party style|Labor}}|
+|-
+| [[Division of Herbert|Herbert, QLD]]
+| {{Australian party style|Labor}}|
+| Labor
+| [[Cathy O'Toole]]
+| style="text-align:right;"| 0.02
+| {{TBA}}
+| {{TBA}}
+| [[Phillip Thompson]]
+| [[Liberal National Party of Queensland|Liberal National]]
+| {{Australian party style|Liberal National}}|
+|-
+| [[Division of Lindsay|Lindsay, NSW]]
+| {{Australian party style|Labor}}|
+| Labor
+| ''[[Emma Husar]]''
+| style="text-align:right;"| 1.11
+| {{TBA}}
+| {{TBA}}
+| [[Melissa McIntosh]]
+| Liberal
+| {{Australian party style|Liberal}}|
+|-
+| [[Division of Indi|Indi, VIC]]
+| {{Australian party style|Independent}}|
+| Independent
+| ''[[Cathy McGowan (politician)|Cathy McGowan]]''
+| style="text-align:right;"| 5.10
+| {{TBA}}
+| {{TBA}}
+| [[Helen Haines]]
+| Independent
+| {{Australian party style|Independent}}|
+|-
+| [[Division of Longman|Longman, QLD]]
+| {{Australian party style|Labor}}|
+| Labor
+| [[Susan Lamb]]
+| style="text-align:right;"| 0.79
+| {{TBA}}
+| {{TBA}}
+| [[Terry Young (Australian politician)|Terry Young]]
+| [[Liberal National Party of Queensland|Liberal National]]
+| {{Australian party style|Liberal National}}|
+|-
+| [[Division of Warringah|Warringah, NSW]]
+| {{Australian party style|Liberal}}|
+| Liberal
+| [[Tony Abbott]]
+| style="text-align:right;"| 11.09
+| {{TBA}}
+| {{TBA}}
+| [[Zali Steggall]]
+| Independent
+| {{Australian party style|Independent}}|
+|-
+|[[Division of Wentworth|Wentworth, NSW]]
+| {{Australian party style|Independent}}|
+|Independent
+|[[Kerryn Phelps]]
+|style="text-align:right;"|1.22
+| {{TBA}}
+| {{TBA}}
+|[[Dave Sharma]]
+|Liberal
+| {{Australian party style|Liberal}}|
+|}
+
+'''Notes'''
+
+{{note label|banks|1|1}} [[Julia Banks]] was elected as the Liberal member for [[Division of Chisholm|Chisholm]] in 2016, but resigned from the party in November 2018 and sat as an independent. She retired from Chisholm to contest the seat of [[Division of Flinders|Flinders]].
+
+{{note label|notional|2|2}} As a result of the 2018 boundary redistribution, the Victorian Liberal-held seats of [[Division of Corangamite|Corangamite]] and [[Division of Dunkley|Dunkley]] became notionally marginal Labor seats.</noinclude>
+
+===Senate===
+By 12:00 noon AEST on 19 May, approximately 50% of Senate votes had been counted. Out of 40 Senate seats up for election, the Coalition had won a minimum of 13, while Labor had won at least 12. The Greens looked likely to retain their entire Senate team by winning six seats, while the only other minor party candidates likely to be elected were former senators [[Malcolm Roberts (politician)|Malcolm Roberts]] for One Nation and [[Jacqui Lambie]]. The Senate [[Crossbencher|crossbench]] looked set to become substantially smaller, with incumbent senators [[Derryn Hinch]], [[Duncan Spender]], [[Peter Georgiou]], [[Brian Burston]], and [[Fraser Anning]], as well as former parliamentarians [[Clive Palmer]] and [[Skye Kakoschke-Moore]], failing in their bids to win Senate seats.<ref>{{cite web |url=https://www.abc.net.au/news/elections/federal/2019/results/senate |title=Senate Results |work=[[Australian Broadcasting Corporation]] |accessdate=19 May 2019 |archive-url=https://web.archive.org/web/20190518202957/https://www.abc.net.au/news/elections/federal/2019/results/senate |archive-date=18 May 2019 |dead-url=no }}</ref>
+
+{| class="wikitable" style="text-align:right; 
+|+Senate
+!  colspan=3 rowspan=2| Party
+!  rowspan=2| Votes
+!  rowspan=2| %
+!  rowspan=2| ±
+!  colspan=4| Seats
+|-
+! Seats<br>won
+!Not<br>up
+! New<br>total
+! Seat<br>change
+|-
+| rowspan="7" | &nbsp;
+! colspan="9" style="text-align:left;"| [[Coalition (Australia)|Liberal/National Coalition]]
+|-
+| {{Australian party style|Liberal}} | &nbsp;
+| align=left | [[Liberal Party of Australia|Liberal]]/[[National Party of Australia|National]] joint ticket
+| 2,746,150
+| 21.34
+| +1.33
+| 4
+| 6
+| 10
+| 
+|-
+| {{Australian party style|Liberal}} | &nbsp;
+| align=left | [[Liberal Party of Australia|Liberal]]
+| 1,076,467
+| 8.36
+| +0.65
+| 6
+| 7
+| 13
+| 
+|-
+| {{Australian party style|LNP}} | &nbsp;
+| align=left | [[Liberal National Party of Queensland|Liberal National]] {{small|([[Queensland|Qld]])}}
+| 1,049,829
+| 8.16
+| +1.22
+| 2
+| 3
+| 5
+| 
+|-
+| {{Australian party style|CLP}} | &nbsp;
+| align=left | [[Country Liberal Party|Country Liberal]] {{small|([[Northern Territory|NT]])}}
+| 38,169
+| 0.30
+| +0.03
+| 1
+| 0
+| 1
+| 
+|-
+| {{Australian party style|Nationals}} | &nbsp;
+| align=left | [[National Party of Australia|National]]
+| 19,626
+| 0.15
+| −0.10
+| 
+| 0
+| 0
+| 
+|-
+! colspan="2" style="text-align:left;" |[[Coalition (Australia)|Coalition total]]
+!style="text-align:right;"| 4,930,241
+!style="text-align:right;"| 38.31
+!style="text-align:right;"| +3.13
+!style="text-align:right;"| 13
+!style="text-align:right;"| 16
+!style="text-align:right;"| 29
+!style="text-align:right;"| 
+|-
+| {{Australian party style|Labor|width:1px}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Australian Labor Party|Labor]]
+| 3,728,457
+| 28.97
+| −0.82
+| 12
+| 13
+| 25
+| 
+|-
+| {{Australian party style|Greens}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Australian Greens|Greens]]
+| 1,296,770
+| 10.08
+| +1.42
+| 
+| 3
+| 3
+| 
+|-
+| {{Australian party style|One Nation}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Pauline Hanson's One Nation|One Nation]]
+| 694,684
+| 5.40
+| +1.12
+|  
+| 1
+| 1
+| 
+|-
+| {{Australian party style|Palmer United Party}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[United Australia Party (2013)|United Australia]]
+| 301,924
+| 2.35
+| +1.85
+|  
+| 0
+| 0
+| 
+|-
+| {{Australian party style|Liberal Democrats}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Liberal Democratic Party (Australia)|Liberal Democrats]]
+| 144,431
+| 1.12
+| −1.04
+|  
+| 0
+| 0
+| 
+|-
+| {{Australian party style|Australian Conservatives}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Australian Conservatives|Conservatives]]
+| 89,461
+| 0.70
+| −0.68
+|  
+| 1
+| 1
+| 
+|-
+| {{Australian party style|Derryn Hinch's Justice Party}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Derryn Hinch's Justice Party|Justice]]
+| 87,817
+| 0.68
+| −1.24
+|  
+| 0
+| 0
+| 
+|-
+| {{Australian party style|Jacqui Lambie Network}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Jacqui Lambie Network|Lambie Network]]
+| 27,202
+| 0.21
+| −0.29
+|  
+| 0
+| 0
+| 
+|-
+| {{Australian party style|Centre Alliance}} | &nbsp;
+| style="text-align:left;" colspan="2"| [[Centre Alliance]]
+| 25,113
+| 0.20
+| −3.10
+|  
+| 2
+| 2
+| 
+|-
+| style="background:gray;"| &nbsp;
+| style="text-align:left;" colspan="2"| Other
+| 1,542,930
+| 11.99
+| +0.42
+|  
+| 0
+| 0
+| 
+|-
+|  &nbsp;
+| style="text-align:left;" colspan="2"| In doubt
+| 
+| 
+| 
+| 15
+| 0
+| 15
+| 
+|-
+|align=left colspan=3|'''Total'''||'''12,869,030'''||'''100.00'''||'''–''' ||'''40'''||'''36'''||'''76'''||  
+|-
+|colspan=10|
+|-
+|align=left colspan=3|Invalid/blank votes|| 678,500 || 5.01 || +1.07 ||–||–||–||–
+|-
+|align=left colspan=3|Registered voters/turnout || 16,424,248 || 82.51 ||– ||–||–||–||–
+|-
+|align=left colspan=10|Source: [https://tallyroom.aec.gov.au/SenateStateFirstPrefsByGroup-24310-NAT.htm AEC Tally Room]
+|}
+
+<small>Results are not final. Last updated at 3:00pm AEST, 31 May 2019.</small>
+
+==Background==
+===Previous election===
+{{main|2016 Australian federal election}}
+The outcome of the 2016 federal election could not be predicted on election night, with too many seats in doubt.<ref>{{cite news |url=http://www.abc.net.au/news/2016-07-02/swing-against-coalition-leaves-election-on-a-knife-edge/7563836 |title=Swing against Malcolm Turnbull's Coalition leaves election on a knife-edge |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=2 July 2016 |accessdate= |archive-url=https://web.archive.org/web/20160721181550/http://www.abc.net.au/news/2016-07-02/swing-against-coalition-leaves-election-on-a-knife-edge/7563836 |archive-date=21 July 2016 |dead-url=no }}</ref><ref>{{cite news |url=http://www.abc.net.au/news/2016-07-03/election-result-what-happens-now/7564250 |title=We don't have a winner, so what happens now? |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=3 July 2016 |accessdate= |archive-url=https://web.archive.org/web/20160719222910/http://www.abc.net.au/news/2016-07-03/election-result-what-happens-now/7564250 |archive-date=19 July 2016 |dead-url=no }}</ref><ref>{{cite news |url=https://www.theguardian.com/australia-news/2016/jul/03/australian-election-2016-how-the-night-unfolded-with-no-clear-winner |title=How the night unfolded with no clear winner |work=[[The Guardian]] |location=Australia |date=3 July 2016 |accessdate= |archive-url=https://web.archive.org/web/20160708141836/https://www.theguardian.com/australia-news/2016/jul/03/australian-election-2016-how-the-night-unfolded-with-no-clear-winner |archive-date=8 July 2016 |dead-url=no }}</ref> After a week of vote counting, neither the incumbent [[Turnbull Government]] led by [[Prime Minister of Australia|Prime Minister]] [[Malcolm Turnbull]] of the [[Liberal Party of Australia|Liberal]]/[[National Party of Australia|National]] [[Coalition (Australia)|Coalition]] nor the [[Shadow Ministry of Australia|Shorten]] [[Opposition (Australia)|Opposition]] led by [[List of Australian Leaders of the Opposition|Opposition Leader]] [[Bill Shorten]] of the [[Australian Labor Party]] had won enough seats in the 150-seat [[Australian House of Representatives|House of Representatives]] to form a [[majority government]].<ref name="abc month">{{cite news|url=http://www.abc.net.au/news/2016-07-03/election-2016-ballot-count-could-take-a-month-finalise,-aec-says/7565158|title=Election 2016: Ballot count could take a month to finalise, AEC says|author=|date=4 July 2016|work=[[ABC News (Australia)|ABC News]]|accessdate=4 July 2016|location=Australia|archive-url=https://web.archive.org/web/20160705051416/http://www.abc.net.au/news/2016-07-03/election-2016-ballot-count-could-take-a-month-finalise,-aec-says/7565158|archive-date=5 July 2016|dead-url=no}}</ref><ref name="smh tuesday">{{cite web|url=http://www.smh.com.au/federal-politics/federal-election-2016/australian-federal-election-2016-no-results-until-at-least--tuesday-20160702-gpx9qz.html|title=Australian federal election 2016: No results until at least ... Tuesday|author=Gough, Deborah|date=3 July 2016|work=[[Sydney Morning Herald]]|accessdate=4 July 2016|archive-url=https://web.archive.org/web/20160704180128/http://www.smh.com.au/federal-politics/federal-election-2016/australian-federal-election-2016-no-results-until-at-least--tuesday-20160702-gpx9qz.html|archive-date=4 July 2016|dead-url=no}}</ref><ref name="sky liberal majority">{{cite news|url=http://www.skynews.com.au/news/top-stories/2016/07/04/federal-election-outcome-still-unknown.html|title=Liberals 'cautiously optimistic' on majority|author=|work=Sky News Australia|date=4 July 2016|accessdate=4 July 2016|archive-url=https://web.archive.org/web/20160704132925/http://www.skynews.com.au/news/top-stories/2016/07/04/federal-election-outcome-still-unknown.html|archive-date=4 July 2016|dead-url=no}}</ref><ref name="smh shorten">{{cite web|url=http://www.smh.com.au/federal-politics/federal-election-2016/australian-federal-election-2016-bill-shorten-says-malcolm-turnbull-should-quit-20160704-gpy3ec.html|title=Australian federal election 2016: Bill Shorten says Malcolm Turnbull 'should quit'|author=Hunter, Fergus|work=[[Sydney Morning Herald]]|date=4 July 2016|accessdate=4 July 2016|archive-url=https://web.archive.org/web/20160705062410/http://www.smh.com.au/federal-politics/federal-election-2016/australian-federal-election-2016-bill-shorten-says-malcolm-turnbull-should-quit-20160704-gpy3ec.html|archive-date=5 July 2016|dead-url=no}}</ref>
+
+During the uncertain week following the election, Turnbull negotiated with the [[Crossbencher|crossbench]] and secured [[confidence and supply]] support from [[Bob Katter]] and from independents [[Andrew Wilkie]] and [[Cathy McGowan (politician)|Cathy McGowan]] in the event of a hung parliament and resulting [[minority government]].<ref>{{cite news |url=http://www.smh.com.au/federal-politics/federal-election-2016/election-results-bill-shorten-predicts-second-poll-as-cathy-mcgowan-offers-coaltion-support-20160708-gq1f9m.html |title=Bill Shorten predicts second poll as Cathy McGowan offers Coaltion support |work=[[The Sydney Morning Herald]] |date=8 July 2016 |accessdate= |archive-url=https://web.archive.org/web/20160712193224/http://www.smh.com.au/federal-politics/federal-election-2016/election-results-bill-shorten-predicts-second-poll-as-cathy-mcgowan-offers-coaltion-support-20160708-gq1f9m.html |archive-date=12 July 2016 |dead-url=no }}</ref> During crossbench negotiations, Turnbull pledged additional staff and resources for crossbenchers, and stated "It is my commitment to work in every way possible to ensure that the crossbenchers have access to all of the information they need and all of the resources they need to be able to play the role they need in this parliament".<ref>{{cite news |url=http://www.abc.net.au/news/2016-07-10/election-2016-malcolm-turnbull-claims-election-victory/7584400 |title=Malcolm Turnbull claims victory after Bill Shorten concedes defeat |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=10 July 2016 |accessdate= |archive-url=https://web.archive.org/web/20160710102231/http://www.abc.net.au/news/2016-07-10/election-2016-malcolm-turnbull-claims-election-victory/7584400 |archive-date=10 July 2016 |dead-url=no }}</ref>
+
+On 10 July, eight days after the election took place and following Turnbull's negotiations with the crossbench where he secured sufficient confidence and supply support, Shorten conceded defeat, acknowledging that the incumbent Coalition had enough seats to form either a minority or majority government. Turnbull claimed victory later that day.<ref>{{cite news|url=http://www.abc.net.au/news/2016-07-10/election-2016-result-bill-shorten-concedes-defeat/7584400|title=Election 2016: Malcolm Turnbull claims victory after Bill Shorten concedes defeat|date=10 July 2016|accessdate=10 July 2016|author=Ross, Monique|work=[[ABC News (Australia)|ABC News]]|location=Australia|archive-url=https://web.archive.org/web/20160710052817/http://www.abc.net.au/news/2016-07-10/election-2016-result-bill-shorten-concedes-defeat/7584400|archive-date=10 July 2016|dead-url=no}}</ref> In the closest federal majority result since the [[1961 Australian federal election|1961 election]], the [[Australian Broadcasting Corporation|ABC]] declared on 11 July that the incumbent Coalition would be able to form a one-seat majority government.<ref>{{cite news|url=http://mobile.abc.net.au/news/2016-07-11/lnp-retains-capricornia-has-76-seats/7587578|title=Election 2016: LNP retains Capricornia, gives Coalition 76-seat majority government|date=11 July 2016|accessdate=11 July 2016 |work=[[ABC News (Australia)|ABC News]] |location=Australia}}</ref>
+
+It was the first election result since [[1901 Australian federal election|federation]] where [[Results of the 2016 Australian federal election (House of Representatives)|the post-election opposition won more seats than the post-election government]] in both of Australia's two most populous states, [[Results of the 2016 Australian federal election in New South Wales|New South Wales]] and [[Results of the 2016 Australian federal election in Victoria|Victoria]].<ref>{{cite web |url=http://elections.uwa.edu.au/ |title=Australian Politics and Elections Database: University of Western Austrralia |publisher=Elections.uwa.edu.au |date=13 March 2018 |accessdate=19 March 2018 |archive-url=https://web.archive.org/web/20150118085343/http://elections.uwa.edu.au/ |archive-date=18 January 2015 |dead-url=no }}</ref>
+
+====Result====
+{{see also|Results of the 2016 Australian federal election (House of Representatives)}}
+{{see also|Results of the 2016 Australian federal election (Senate)}}
+In the 150-seat House of Representatives, the one-term incumbent Liberal/National Coalition government suffered a 14-seat swing, reducing it to 76 seats—a bare one-seat majority. With a national three-point two-party swing against the government, the Labor opposition picked up a significant number of previously government-held seats to gain a total of 69 seats. On the crossbench, the Greens, the [[Nick Xenophon Team]], [[Katter's Australian Party]], and independents Wilkie and McGowan won a seat each. On 19 July, the [[Australian Electoral Commission]] (AEC) announced a re-count for the Coalition-held but provisionally Labor-won [[Division of Herbert]]. At the start of the Herbert re-count, Labor led by eight votes.<ref name="AEC20160719">{{cite press release |url=http://www.aec.gov.au/media/media-releases/2016/07-19e.htm |title=Statement from the Australian Electoral Commission: Recount in the Division of Herbert |publisher=[[Australian Electoral Commission]] |date=19 July 2016 |accessdate=25 July 2016 |archive-url=https://web.archive.org/web/20160724031032/http://www.aec.gov.au/media/media-releases/2016/07-19e.htm |archive-date=24 July 2016 |dead-url=no }}</ref><ref name="abc results">{{cite web |url=http://www.abc.net.au/news/federal-election-2016/results/ |title=Federal Election 2016 Results |date=3 July 2016 |accessdate=3 July 2016 |work=Australia Votes |publisher=Australian Broadcasting Corporation |archive-url=https://web.archive.org/web/20160704114900/http://www.abc.net.au/news/federal-election-2016/results/ |archive-date=4 July 2016 |dead-url=no }}</ref> The AEC announced on 31 July that Labor had won Herbert by 37 votes.<ref name=HerbertABC>{{cite web |url=http://www.abc.net.au/news/2016-07-31/election-2016-labor-wins-herbert-after-recount/7675898 |title=Labor wins seat of Herbert after recount |publisher=Abc.net.au |date=31 July 2016 |accessdate=11 August 2016 |archive-url=https://web.archive.org/web/20160814063604/http://www.abc.net.au/news/2016-07-31/election-2016-labor-wins-herbert-after-recount/7675898 |archive-date=14 August 2016 |dead-url=no }}</ref><ref name=HerbertSMH>{{cite web |author=Federal Politics |url=http://www.smh.com.au/federal-politics/political-news/labor-takes-seat-of-herbert-leaving-malcolm-turnbull-with-majority-of-just-one-seat-20160731-gqhjy4.html |title=Labor takes seat of Herbert, leaving Malcolm Turnbull with majority of just one seat |publisher=Smh.com.au |date=31 July 2016 |accessdate=11 August 2016 |archive-url=https://web.archive.org/web/20160815025925/http://www.smh.com.au/federal-politics/political-news/labor-takes-seat-of-herbert-leaving-malcolm-turnbull-with-majority-of-just-one-seat-20160731-gqhjy4.html |archive-date=15 August 2016 |dead-url=no }}</ref>
+
+The final outcome in the 76-seat [[Australian Senate|Senate]] took more than four weeks to determine, despite significant voting changes. Earlier in 2016, legislation changed the Senate voting system from a full-preference [[single transferable vote]] with [[Group voting tickets in Australia|group voting tickets]] to an [[Optional preferential voting|optional-preferential]] single transferable vote.<ref name="smh senate">{{cite web |url=http://www.smh.com.au/federal-politics/federal-election-2016/election-2016-results-senate-count-throws-up-a-wild-mix-as-one-nation-fred-nile-liberal-democrats-vie-for-seats-20160703-gpxc8r.html |title=Election 2016 results: Senate count throws up a wild mix as One Nation, Fred Nile, Liberal Democrats vie for seats |author=Hasham, Nicole |work=news.com.au |date=3 July 2016 |accessdate=3 July 2016 |archive-url=https://web.archive.org/web/20160705233434/http://www.smh.com.au/federal-politics/federal-election-2016/election-2016-results-senate-count-throws-up-a-wild-mix-as-one-nation-fred-nile-liberal-democrats-vie-for-seats-20160703-gpxc8r.html |archive-date=5 July 2016 |dead-url=no }}</ref> The final Senate result was announced on 4 August: Liberal/National Coalition 30 seats (−3), Labor 26 seats (+1), Greens 9 seats (−1), [[Pauline Hanson's One Nation|One Nation]] 4 seats (+4) and Nick Xenophon Team 3 seats (+2). [[Derryn Hinch's Justice Party|Derryn Hinch]] won a seat, while [[Jacqui Lambie Network|Jacqui Lambie]], [[Liberal Democratic Party (Australia)|Liberal Democrat]] [[David Leyonhjelm]] and [[Family First Party|Family First]]'s [[Bob Day]] retained their seats. The number of crossbenchers increased by two to a record 20. The Liberal/National Coalition will require at least nine additional votes to reach a Senate majority, an increase of three.<ref name=aectwitter>{{cite web |url=https://twitter.com/AusElectoralCom |title=AEC |publisher=Twitter |date= |accessdate=11 August 2016 |archive-url=https://web.archive.org/web/20160806171630/https://twitter.com/AusElectoralCom |archive-date=6 August 2016 |dead-url=no }}</ref><ref name="abc senate results">{{cite web |url=http://www.abc.net.au/news/federal-election-2016/results/senate/ |title=Federal Election 2016: Senate Results |date=3 July 2016 |accessdate=4 July 2016 |work=Australia Votes |publisher=Australian Broadcasting Corporation |archive-url=https://web.archive.org/web/20160708224634/http://www.abc.net.au/news/federal-election-2016/results/senate/ |archive-date=8 July 2016 |dead-url=no }}</ref><ref name=photofinish>{{cite web |url=https://blogs.crikey.com.au/pollbludger/2016/07/12/senate-photo-finishes/ |title=Senate photo finishes |work=crikey.com.au |date=12 July 2016 |accessdate=30 July 2016 |archive-url=https://web.archive.org/web/20160713172708/https://blogs.crikey.com.au/pollbludger/2016/07/12/senate-photo-finishes/ |archive-date=13 July 2016 |dead-url=no }}</ref> The Liberal and Labor parties agreed to support a motion in the parliament that the [[Results of the 2016 Australian federal election (Senate)|first six senators elected in each state]] would serve a six-year term, while the last six elected would serve a three-year term.<ref>{{cite news |first=Gareth |last=Hutchens |url=https://www.theguardian.com/australia-news/2016/aug/12/senate-terms-derryn-hinch-and-greens-lee-rhiannon-given-three-year-terms |archive-url=https://web.archive.org/web/20190324074235/https://www.theguardian.com/australia-news/2016/aug/12/senate-terms-derryn-hinch-and-greens-lee-rhiannon-given-three-year-terms |archive-date=24 March 2019 |title=Senate terms: Derryn Hinch and Greens' Lee Rhiannon given three years |work=The Guardian |ISSN=1756-3224 |OCLC=60623878 |location=Australia |date=12 August 2016 |access-date=12 August 2016 |dead-url=no }}</ref><ref>{{cite news|first1=Fergus|last1=Hunter|first2=Adam|last2=Morton|url=http://www.smh.com.au/federal-politics/political-news/coalition-and-labor-team-up-to-clear-out-crossbench-senators-in-2019-20160812-gqr29k.html|title=Coalition and Labor team up to clear out crossbench senators in 2019|work=[[Sydney Morning Herald]]|ISSN=0312-6315|OCLC=226369741|date=12 August 2016|access-date=12 August 2016|archive-url=https://web.archive.org/web/20161106181819/http://www.smh.com.au/federal-politics/political-news/coalition-and-labor-team-up-to-clear-out-crossbench-senators-in-2019-20160812-gqr29k.html|archive-date=6 November 2016|dead-url=no}}</ref>
+
+===Changes in parliamentary composition===
+Since the 2016 election, a number of parliamentarians resigned from their seats, while some were disqualified by the [[High Court of Australia]] in the [[2017–18 Australian parliamentary eligibility crisis|parliamentary eligibility crisis]] as a result of the dual citizenship of some MPs. However, in the cases of disqualified House of Representatives MPs, most of these were returned in resulting [[List of Australian federal by-elections|by-elections]]. Some MPs changed their party affiliation or their independent status.
+
+{{collapse top|Changes in parliamentary composition}}
+{{Aus Parliament changes from 2016}}
+{{collapse bottom}}
+Following the parliamentary eligibility crisis, the AEC's form for nomination was updated to ask detailed questions on whether candidates are disqualified under [[Section 44 of the Constitution of Australia]].  Three Victorian Liberal candidates had to withdraw based on section 44 issues.<ref>{{cite web |last1=Grattan |first1=Michelle |title=View from The Hill: Section 44 remains a constitutional trip wire that should be addressed |url=https://theconversation.com/view-from-the-hill-section-44-remains-a-constitutional-trip-wire-that-should-be-addressed-115435 |website=The Conversation |accessdate=22 April 2019 |language=en |archive-url=https://web.archive.org/web/20190422021815/https://theconversation.com/view-from-the-hill-section-44-remains-a-constitutional-trip-wire-that-should-be-addressed-115435 |archive-date=22 April 2019 |dead-url=no }}</ref>
+
+===Change of Prime Minister===
+{{main|2018 Liberal Party of Australia leadership spills}}
+Following the [[2018 Liberal Party of Australia leadership spills|Liberal Party leadership spill on 24 August 2018]], Malcolm Turnbull was replaced as Prime Minister by Scott Morrison. Turnbull resigned from parliament on 31 August, triggering a [[2018 Wentworth by-election|by-election in his former seat of Wentworth]].<ref name=":0">{{cite web |url=https://www.afr.com/news/politics/election/malcolm-turnbull-formally-resigns-forces-byelection-20180831-h14rte? |title=Malcolm Turnbull formally resigns, forces byelection |last1=Mizen |first1=Ronald |date=31 August 2018 |work=[[The Australian Financial Review]] |language=en |access-date=31 August 2018 |archive-url=https://web.archive.org/web/20180831101658/https://www.afr.com/news/politics/election/malcolm-turnbull-formally-resigns-forces-byelection-20180831-h14rte |archive-date=31 August 2018 |dead-url=no }}</ref> The by-election was won by independent [[Kerryn Phelps]]. This, combined with National MP [[Kevin Hogan (politician)|Kevin Hogan]]'s move to the crossbench and the resignation of MP [[Julia Banks]] from the Liberal Party, reduced the government to 73 seats going into the election; a net three-seat deficit.
+
+Further dissatisfaction within the Liberal Party saw a number of [[centrism|centrist]] and [[economic liberalism|economically-liberal]] candidates announce that they would nominate as [[independent politician|independents]] in wealthy electorates, with a specific focus on "addressing climate change".<ref>{{cite web |url=https://www.theguardian.com/australia-news/2019/jan/30/its-time-to-take-out-environment-ministers-who-fail-on-climate-says-oliver-yates |title=It's time to 'take out' environment ministers who fail on climate, says Oliver Yates |first=Katharine |last1=Murphy |date=29 January 2019 |work=The Guardian |access-date=31 January 2019 |archive-url=https://web.archive.org/web/20190131145237/https://www.theguardian.com/australia-news/2019/jan/30/its-time-to-take-out-environment-ministers-who-fail-on-climate-says-oliver-yates |archive-date=31 January 2019 |dead-url=no }}</ref><ref>{{cite web |url=https://www.theguardian.com/australia-news/2019/jan/28/zali-steggall-says-she-wont-direct-preferences-as-she-makes-pitch-to-replace-abbott |title=Zali Steggall promises climate change fight with Tony Abbott in Warringah |first1=Paul |last1=Karp |date=28 January 2019 |work=The Guardian |access-date=31 January 2019 |archive-url=https://web.archive.org/web/20190131145239/https://www.theguardian.com/australia-news/2019/jan/28/zali-steggall-says-she-wont-direct-preferences-as-she-makes-pitch-to-replace-abbott |archive-date=31 January 2019 |dead-url=no }}</ref>
+
+==Candidates==
+{{main article|Candidates of the 2019 Australian federal election}}
+The nomination of candidates closed on 23 April 2019.
+
+There are 1,514 candidates in total (1,056 for the House of Representatives and 458 for the Senate).
+
+==State of electorates==
+{{main|Pre-election pendulum for the 2019 Australian federal election}}
+{{see also|Post-election pendulum for the 2016 Australian federal election}}
+After effects of boundary redistributions for the next election,<ref name="seatstatus">{{cite web |title=National seat status |url=https://www.aec.gov.au/media/national-seat-status.htm |publisher=Australian Electoral Commission |accessdate=1 May 2019 |archive-url=https://web.archive.org/web/20190330011200/https://www.aec.gov.au/media/national-seat-status.htm |archive-date=30 March 2019 |dead-url=no }}</ref><ref name="abc-pendulum">{{cite web |last1=Green |first1=Antony |title=2017–18 Federal Redistributions |url=http://www.abc.net.au/news/elections/federal-redistribution-2018/ |website=ABC Elections |publisher=Australian Broadcasting Corporation |accessdate=25 August 2018 |archive-url=https://web.archive.org/web/20180730034414/http://www.abc.net.au/news/elections/federal-redistribution-2018/ |archive-date=30 July 2018 |dead-url=no }}</ref> and the [[2018 Wentworth by-election]], the [[Mackerras pendulum]] has the [[Liberal Party of Australia|Liberal]]/[[National Party of Australia|National]] [[Coalition (Australia)|Coalition]] government on 73 of 151 seats with the Labor opposition on 72 seats and a crossbench of six seats.<ref name="abc-pendulum"/>
+
+Assuming a theoretical nationwide uniform swing, the Labor opposition would need at least 50.7% of the two-party vote (at least a 1.1-point two-party swing) to win 76 seats and [[majority government]]. The incumbent Coalition government no longer holds a majority, and would require at least 51.1% of the two-party vote (at least a 0.7-point two-party swing) to regain it.
+
+The key marginal seats are as follows:
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+| colspan="4" style="text-align:center; background:blue;"|<span style="color:white;">'''Marginal Coalition seats'''</span>
+|- style="background:#cfc;"
+| [[Division of Capricornia|Capricornia (Qld)]]
+| [[Michelle Landry]]
+| LNP
+| style="text-align:center;"| 50.63
+|- style="background:#a6e7ff;"
+| [[Division of Forde|Forde (Qld)]]
+| [[Bert van Manen]]
+| LNP
+| style="text-align:center;"| 50.63
+|- style="background:#a6e7ff;"
+| [[Division of Gilmore|Gilmore (NSW)]]
+| ''[[Ann Sudmalis]]''{{ref label|b|b|b}}
+| LIB
+| style="text-align:center;"| 50.73
+|- style="background:#cfc;"
+| [[Division of Flynn|Flynn (Qld)]]
+| [[Ken O'Dowd]]
+| LNP
+| style="text-align:center;"| 51.04
+|-
+! colspan="4" | ^^^ Opposition wins majority on a uniform swing ^^^
+|- style="background:#a6e7ff;"
+| [[Division of Robertson|Robertson (NSW)]]
+| [[Lucy Wicks (politician)|Lucy Wicks]]
+| LIB
+| style="text-align:center;"| 51.14
+|- style="background:#a6e7ff;"
+| [[Division of Banks|Banks (NSW)]]
+| [[David Coleman (Australian politician)|David Coleman]]
+| LIB
+| style="text-align:center;"| 51.44
+|- style="background:#a6e7ff;"
+| [[Division of Petrie|Petrie (Qld)]]
+| [[Luke Howarth]]
+| LNP
+| style="text-align:center;"| 51.65
+|- style="background:#a6e7ff;"
+| [[Division of Dickson|Dickson (Qld)]]
+| [[Peter Dutton]]
+| LNP
+| style="text-align:center;"| 51.69
+|- style="background:#a6e7ff;"
+| [[Division of Hasluck|Hasluck (WA)]]
+| [[Ken Wyatt]]
+| LIB
+| style="text-align:center;"| 52.05
+|- style="background:#cfc;"
+| [[Division of Page|Page (NSW)]]
+| [[Kevin Hogan (politician)|Kevin Hogan]]
+| NAT
+| style="text-align:center;"| 52.30
+|- style="background:#a6e7ff;"
+| [[Division of Boothby|Boothby (SA)]]
+| [[Nicolle Flint]]
+| LIB
+| style="text-align:center;"| 52.71
+|- style="background:#a6e7ff;"
+| [[Division of Chisholm|Chisholm (Vic)]]
+| style="background:#eee;"| [[Julia Banks]] (IND)
+| LIB
+| style="text-align:center;"| 52.91
+|- style="background:#a6e7ff;"
+| [[Division of La Trobe|La Trobe (Vic)]]
+| [[Jason Wood (politician)|Jason Wood]]
+| LIB
+| style="text-align:center;"| 53.22
+|- style="background:#cfc;"
+| [[Division of Dawson|Dawson (Qld)]]
+| [[George Christensen]]
+| LNP
+| style="text-align:center;"| 53.37
+|- style="background:#a6e7ff;"
+| [[Division of Bonner|Bonner (Qld)]]
+| [[Ross Vasta]]
+| LNP
+| style="text-align:center;"| 53.39
+|- style="background:#a6e7ff;"
+| [[Division of Swan|Swan (WA)]]
+| [[Steve Irons]]
+| LIB
+| style="text-align:center;"| 53.59
+|- style="background:#a6e7ff;"
+| [[Division of Pearce|Pearce (WA)]]
+| [[Christian Porter]]
+| LIB
+| style="text-align:center;"| 53.63
+|- style="background:#a6e7ff;"
+| [[Division of Leichhardt|Leichhardt (Qld)]]
+| [[Warren Entsch]]
+| LNP
+| style="text-align:center;"| 53.95
+|- style="background:#a6e7ff;"
+| [[Division of Casey|Casey (Vic)]]
+| [[Tony Smith (Victorian politician)|Tony Smith]]
+| LIB
+| style="text-align:center;"| 54.54
+|- style="background:#cfc;"
+| [[Division of Cowper|Cowper (NSW)]]
+| ''[[Luke Hartsuyker]]''{{ref label|b|b|b}}
+| NAT v IND
+| style="text-align:center;"| 54.56
+|- style="background:#a6e7ff;"
+| [[Division of Reid|Reid (NSW)]]
+| ''[[Craig Laundy]]''
+| LIB
+| style="text-align:center;"| 54.69
+|- style="background:#a6e7ff;"
+| [[Division of Sturt|Sturt (SA)]]
+| ''[[Christopher Pyne]]''{{ref label|b|b|b}}
+| LIB
+| style="text-align:center;"| 55.39
+|}
+
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+| colspan="4" style="text-align:center; background:red;"|<span style="color:white;">'''Marginal Labor seats'''</span>
+|- style="background:#fdd;"
+| [[Division of Herbert|Herbert (Qld)]]
+| [[Cathy O'Toole]]
+| ALP
+| style="text-align:center;"| 50.02
+|- style="background:#fdd;"
+| [[Division of Corangamite|Corangamite (Vic)]]
+|  style="background:#a6e7ff;"|[[Sarah Henderson]] (LIB){{ref label|a|a|a}}
+| ALP
+| style="text-align:center;"| 50.03
+|- style="background:#fdd;"
+| [[Division of Cooper|Cooper (Vic)]]
+| [[Ged Kearney]]
+| ALP 
+| style="text-align:center;"| 50.6 v GRN{{ref label|c|c|c}}
+|- style="background:#fdd;"
+| [[Division of Cowan|Cowan (WA)]]
+| [[Anne Aly]]
+| ALP
+| style="text-align:center;"| 50.68
+|-
+! colspan="4" | ^^^ Government regains majority on a uniform swing ^^^
+|- style="background:#fdd;"
+| [[Division of Longman|Longman (Qld)]]
+| [[Susan Lamb]]
+| ALP
+| style="text-align:center;"| 50.79{{ref label|c|c|c}}
+|- style="background:#fdd;"
+| [[Division of Dunkley|Dunkley (Vic)]]
+| style="background:#a6e7ff;"|[[Chris Crewther]] (LIB){{ref label|a|a|a}}
+| ALP
+| style="text-align:center;"| 51.03
+|- style="background:#fdd;"
+| [[Division of Lindsay|Lindsay (NSW)]]
+| ''[[Emma Husar]]''
+| ALP
+| style="text-align:center;"| 51.11
+|- style="background:#fdd;"
+| [[Division of Macnamara|Macnamara (Vic)]]
+| ''[[Michael Danby]]''{{ref label|b|b|b}}
+| ALP
+| style="text-align:center;"| 51.21
+|- style="background:#fdd;"
+| [[Division of Griffith|Griffith (Qld)]]
+| [[Terri Butler]]
+| ALP
+| style="text-align:center;"| 51.43
+|- style="background:#fdd;"
+| [[Division of Braddon|Braddon (Tas)]]
+| [[Justine Keay]]
+| ALP
+| style="text-align:center;"| 51.73{{ref label|c|c|c}}
+|- style="background:#fdd;"
+| [[Division of Macquarie|Macquarie (NSW)]]
+| [[Susan Templeman]]
+| ALP
+| style="text-align:center;"| 52.19
+|- style="background:#fdd;"
+| [[Division of Eden-Monaro|Eden-Monaro (NSW)]]
+| [[Mike Kelly (Australian politician)|Mike Kelly]]
+| ALP
+| style="text-align:center;"| 52.93
+|- style="background:#fdd;"
+| [[Division of Isaacs|Isaacs (Vic)]]
+| [[Mark Dreyfus]]
+| ALP
+| style="text-align:center;"| 52.98
+|- style="background:#fdd;"
+| [[Division of Perth|Perth (WA)]]
+| [[Patrick Gorman (politician)|Patrick Gorman]]
+| ALP
+| style="text-align:center;"| 53.33{{ref label|c|c|c}}
+|- style="background:#fdd;"
+| [[Division of Lyons|Lyons (Tas)]]
+| [[Brian Mitchell (politician)|Brian Mitchell]]
+| ALP
+| style="text-align:center;"| 53.83
+|- style="background:#fdd;"
+| [[Division of Bendigo|Bendigo (Vic)]]
+| [[Lisa Chesters]]
+| ALP
+| style="text-align:center;"| 53.87
+|- style="background:#fdd;"
+| [[Division of Richmond|Richmond (NSW)]]
+| [[Justine Elliot]]
+| ALP
+| style="text-align:center;"| 53.96
+|- style="background:#fdd;"
+| [[Division of Hotham|Hotham (Vic)]]
+| [[Clare O'Neil]]
+| ALP
+| style="text-align:center;"| 54.21
+|- style="background:#fdd;"
+| [[Division of Dobell|Dobell (NSW)]]
+| [[Emma McBride]]
+| ALP
+| style="text-align:center;"| 54.81
+|- style="background:#fdd;"
+| [[Division of Wills|Wills (Vic)]]
+| [[Peter Khalil]]
+| ALP 
+| style="text-align:center;"| 54.9 v GRN
+|- style="background:#fdd;"
+| [[Division of Bass|Bass (Tas)]]
+| [[Ross Hart (politician)|Ross Hart]]
+| ALP
+| style="text-align:center;"| 55.42
+|- style="background:#fdd;"
+| [[Division of Jagajaga|Jagajaga (Vic)]]
+| ''[[Jenny Macklin]]''{{ref label|b|b|b}}
+| ALP
+| style="text-align:center;"| 55.60
+|- style="background:#fdd;"
+| [[Division of Lilley|Lilley (Qld)]]
+| ''[[Wayne Swan]]''{{ref label|b|b|b}}
+| ALP
+| style="text-align:center;"| 55.68
+|-
+| colspan="4"  style="text-align:center; background:gray;"|<span style="color:white;">'''Marginal Crossbench Seats'''</span>
+|- style="background:#eee;"
+| [[Division of Wentworth|Wentworth (NSW)]]
+| [[Kerryn Phelps]]
+| IND
+| style="text-align:center;"| 51.2 v LIB{{ref label|c|c|c}}
+|- style="background:#eee;"
+| [[Division of Indi|Indi (Vic)]]
+| ''[[Cathy McGowan (politician)|Cathy McGowan]]''{{ref label|b|b|b}}
+| IND 
+| style="text-align:center;"| 54.1 v LIB
+|- style="background:#fba978;"
+| [[Division of Mayo|Mayo (SA)]]
+| [[Rebekha Sharkie]]
+| CA 
+| style="text-align:center;"| 55.5 v LIB{{ref label|c|c|c}}
+|}
+{{clear}}
+; Notes
+{{note label|a|a|a}} Although the seats of [[Division of Corangamite|Corangamite]] and [[Division of Dunkley|Dunkley]] were Liberal wins at the previous election, the redistribution in Victoria changed them to notionally marginal Labor seats.
+{{note label|b|b|b}} Members with names in ''italics'' retired at the 2019 election.
+{{note label|c|c|c}} Margin as of the previous [[By-elections in Australia|by-election]] (which may apply to older boundaries).
+
+==Retiring members==
+Members of Parliament and Senators who chose not to renominate for the 2019 election are as follows:
+
+===Labor===
+* [[Gai Brodtmann]] MP ([[Division of Canberra|Canberra]], ACT) – announced retirement 13 August 2018<ref>{{cite web|url=https://www.smh.com.au/politics/federal/gai-brodtmann-to-resign-citing-personal-reasons-20180813-p4zx9d.html|title=Gai Brodtmann to resign, citing personal reasons|work=The Sydney Morning Herald|date=13 August 2018|access-date=13 August 2018|archive-url=https://web.archive.org/web/20180813112024/https://www.smh.com.au/politics/federal/gai-brodtmann-to-resign-citing-personal-reasons-20180813-p4zx9d.html|archive-date=13 August 2018|dead-url=no}}</ref>
+* [[Michael Danby]] MP ([[Division of Melbourne Ports|Melbourne Ports]], Vic) – announced retirement 5 July 2018<ref>{{cite news|url=https://www.sbs.com.au/news/labor-s-danby-to-retire-from-marginal-seat|title=Labor's Danby to retire from marginal seat|date=5 July 2018|publisher=SBS News|access-date=5 July 2018|archive-url=https://web.archive.org/web/20180705032827/https://www.sbs.com.au/news/labor-s-danby-to-retire-from-marginal-seat|archive-date=5 July 2018|dead-url=no}}</ref>
+* [[Kate Ellis]] MP ([[Division of Adelaide|Adelaide]], SA) – announced retirement 9 March 2017<ref>{{cite news|url=http://www.abc.net.au/news/2017-03-09/kate-ellis-to-quit-politics-at-next-federal-election/8338698|title=Kate Ellis, Labor frontbencher, to quit politics at next federal election|date=9 March 2017|publisher=ABC Online|access-date=9 March 2017|archive-url=https://web.archive.org/web/20170309020231/http://www.abc.net.au/news/2017-03-09/kate-ellis-to-quit-politics-at-next-federal-election/8338698|archive-date=9 March 2017|dead-url=no}}</ref>
+* [[Emma Husar]] MP ([[Division of Lindsay|Lindsay]], NSW) – announced retirement 11 April 2019<ref name="husar">{{cite news |last1=Saulwick |first1=Jacob |title='Our time together was brief': Husar bows out of politics with statement to Lindsay |url=https://www.smh.com.au/national/nsw/our-time-together-was-brief-husar-bows-out-of-politics-with-statement-to-lindsay-20190411-p51d8w.html |accessdate=27 April 2019 |work=The Sydney Morning Herald |date=11 April 2019 |language=en |archive-url=https://web.archive.org/web/20190423154648/https://www.smh.com.au/national/nsw/our-time-together-was-brief-husar-bows-out-of-politics-with-statement-to-lindsay-20190411-p51d8w.html |archive-date=23 April 2019 |dead-url=no }}</ref>
+* [[Jenny Macklin]] MP ([[Division of Jagajaga|Jagajaga]], Vic) – announced retirement 6 July 2018<ref>{{cite news|url=http://www.abc.net.au/news/2018-07-06/jenny-macklin-retires-after-22-year-career/9947650|title=Veteran Labor MP Jenny Macklin announces retirement after 22-year career|date=6 July 2018|publisher=ABC News|access-date=5 July 2018|archive-url=https://web.archive.org/web/20180708040400/http://www.abc.net.au/news/2018-07-06/jenny-macklin-retires-after-22-year-career/9947650|archive-date=8 July 2018|dead-url=no}}</ref>
+* [[Wayne Swan]] MP ([[Division of Lilley|Lilley]], Qld) – announced retirement 10 February 2018<ref>{{cite news|url=https://www.theguardian.com/world/2018/feb/10/time-stops-for-no-one-wayne-swan-to-quit-politics-at-the-next-election|title='Time stops for no one': Wayne Swan to quit politics at the next election|date=10 February 2018|publisher=The Guardian|access-date=9 February 2018|archive-url=https://web.archive.org/web/20180209224315/https://www.theguardian.com/world/2018/feb/10/time-stops-for-no-one-wayne-swan-to-quit-politics-at-the-next-election|archive-date=9 February 2018|dead-url=no}}</ref>
+* Senator [[Doug Cameron (politician)|Doug Cameron]] (NSW) – announced retirement 24 July 2016<ref>{{cite news|url=https://www.skynews.com.au/news/politics/federal/2016/07/24/doug-cameron-serving-last-term.html|title=Doug Cameron serving last term|date=24 July 2016|publisher=SBS News|deadurl=yes|archiveurl=https://web.archive.org/web/20160726175517/https://www.skynews.com.au/news/politics/federal/2016/07/24/doug-cameron-serving-last-term.html|archivedate=26 July 2016}}</ref>
+* Senator [[Claire Moore]] (Qld) – announced retirement 31 July 2018<ref>{{cite news |url=https://www.sbs.com.au/news/qld-labor-senator-claire-moore-to-retire |title=Qld Labor senator Claire Moore to retire |agency=AAP |date=31 July 2018 |work=SBS News |accessdate=8 August 2018 |archive-url=https://web.archive.org/web/20180808172304/https://www.sbs.com.au/news/qld-labor-senator-claire-moore-to-retire |archive-date=8 August 2018 |dead-url=no }}</ref>
+
+===Liberal===
+* [[Julie Bishop]] MP ([[Division of Curtin|Curtin]], WA) – announced retirement 21 February 2019<ref name="bishop">{{cite news |last1=Doran |first1=Matthew |title=Former foreign minister Julie Bishop announces resignation from Parliament |url=https://www.abc.net.au/news/2019-02-21/julie-bishop-to-retire/10834480 |accessdate=21 February 2019 |work=ABC News |date=21 February 2019 |language=en-AU |archive-url=https://web.archive.org/web/20190221063519/https://www.abc.net.au/news/2019-02-21/julie-bishop-to-retire/10834480 |archive-date=21 February 2019 |dead-url=no }}</ref>
+* [[Michael Keenan]] MP ([[Division of Stirling|Stirling]], WA) – announced retirement 25 January 2019<ref name="keenan">{{cite news |title=Major blow for Liberal Party as Michael Keenan announces he's quitting politics |url=https://www.smh.com.au/politics/federal/major-blow-for-liberal-party-as-michael-keenan-announces-he-s-quitting-politics-20190125-p50trn.html |accessdate=25 January 2019 |work=ABC News |date=25 January 2019 |language=en-AU |archive-url=https://web.archive.org/web/20190125183737/https://www.smh.com.au/politics/federal/major-blow-for-liberal-party-as-michael-keenan-announces-he-s-quitting-politics-20190125-p50trn.html |archive-date=25 January 2019 |dead-url=no }}</ref>
+* [[Craig Laundy]] MP ([[Division of Reid|Reid]], NSW) – announced retirement 15 March 2019<ref name="laundy">{{cite news |last1=Borys |first1=Stephanie |last2=Doran |first2=Matthew |title=Turnbull lieutenant Craig Laundy quits, months after moving to backbench |url=https://www.abc.net.au/news/2019-03-15/craig-laundy-quits-federal-politics-after-months-of-uncertainty/10867002 |accessdate=15 March 2019 |work=ABC News |date=15 March 2019 |language=en-AU |archive-url=https://web.archive.org/web/20190316161315/https://www.abc.net.au/news/2019-03-15/craig-laundy-quits-federal-politics-after-months-of-uncertainty/10867002 |archive-date=16 March 2019 |dead-url=no }}</ref>
+* [[Kelly O'Dwyer]] MP ([[Division of Higgins|Higgins]], Vic) – announced retirement 19 January 2019<ref name="odwyer">{{cite news |title=Minister for Women Kelly O'Dwyer quitting federal politics in shock resignation |url= https://mobile.abc.net.au/news/2019-01-19/minister-for-women-kelly-odwyer-quitting-federal-parliament/10729102 |accessdate=19 January 2019 |work=ABC News |date= 19 January 2019 |language=en-AU}}</ref>
+* [[Christopher Pyne]] MP ([[Division of Sturt|Sturt]], SA) – announced retirement 2 March 2019<ref>{{cite web|url=https://www.abc.net.au/news/2019-03-02/christopher-pyne-retires-from-politics/10864364|title=Christopher Pyne bows out of politics as Morrison reshuffles Cabinet|date=2 March 2019|website=ABC News|language=en|access-date=2 March 2019|archive-url=https://web.archive.org/web/20190302120916/https://www.abc.net.au/news/2019-03-02/christopher-pyne-retires-from-politics/10864364|archive-date=2 March 2019|dead-url=no}}</ref>
+* [[Ann Sudmalis]] MP ([[Division of Gilmore|Gilmore]], NSW) – announced retirement 17 September 2018<ref name="sudmalis">{{cite news |title=Federal Liberal MP Ann Sudmalis quits over branch stacking, undermining |url=https://www.afr.com/news/federal-liberal-mp-ann-sudmalis-quits-over-branch-stacking-undermining-20180916-h15gi0 |accessdate=17 September 2018 |work=Australian Financial Review |date=17 September 2018 |language=en-AU |archive-url=https://web.archive.org/web/20180917074846/https://www.afr.com/news/federal-liberal-mp-ann-sudmalis-quits-over-branch-stacking-undermining-20180916-h15gi0 |archive-date=17 September 2018 |dead-url=no }}</ref>
+
+===Nationals===
+* [[Andrew Broad]] MP ([[Division of Mallee|Mallee]], Vic) – announced retirement 18 December 2018<ref>{{cite news|url=https://www.9news.com.au/2018/12/18/11/45/andrew-broad-quits-sugar-baby-scandal|title=Andrew Broad: Nationals MP quits amid sugar baby scandal|date=18 December 2018|publisher=Nine News|access-date=18 December 2018|archive-url=https://web.archive.org/web/20181218033510/https://www.9news.com.au/2018/12/18/11/45/andrew-broad-quits-sugar-baby-scandal|archive-date=18 December 2018|dead-url=no}}</ref>
+* [[Luke Hartsuyker]] MP ([[Division of Cowper|Cowper]], NSW) – announced retirement 8 August 2018<ref>{{cite news|url=https://www.coffscoastadvocate.com.au/news/luke-hartsuyker-is-calling-it-a-day/3487002/|title=Coffs MP Luke Hartsuyker calling it a day|date=8 August 2018|publisher=The Coffs Coast Advocate|access-date=8 August 2018|archive-url=https://web.archive.org/web/20180808104840/https://www.coffscoastadvocate.com.au/news/luke-hartsuyker-is-calling-it-a-day/3487002/|archive-date=8 August 2018|dead-url=no}}</ref>
+* Senator [[John Williams (Australian senator)|John Williams]] (NSW) – announced retirement 31 May 2016<ref>{{cite news|url=http://www.inverelltimes.com.au/story/3939033/election-2016-wacka-pleased-with-senate-ticket-rank/|title=Election 2016: Wacka pleased with Senate ticket rank|date=31 May 2016|newspaper=[[Inverell Times]]|access-date=17 March 2017|archive-url=https://web.archive.org/web/20170317234353/http://www.inverelltimes.com.au/story/3939033/election-2016-wacka-pleased-with-senate-ticket-rank/|archive-date=17 March 2017|dead-url=no}}</ref>
+
+===Liberal National===
+* [[Steven Ciobo]] MP ([[Division of Moncrieff|Moncrieff]], Qld) – announced retirement 1 March 2019<ref>{{cite news |title=Gold Coast Federal Minister Steven Ciobo quitting politics |url= https://www.couriermail.com.au/news/national/gold-coast-federal-minister-steven-ciobo-quitting-politics/news-story/0675024eeb2924d75a357ea44623067b |accessdate=1 March 2019 |work=[[The Courier-Mail]] |date=1 March 2019 |language=en-AU |url-access=subscription}}</ref><ref name="retire-news">{{cite news |author=Clench, Sam |title=Steven Ciobo confirms he’s quitting politics, speculation mounts Christopher Pyne gone too |url=https://www.news.com.au/finance/work/leaders/government-braces-for-two-more-high-profile-resignations/news-story/0cadb70e1dca6763741e424a616b555c |accessdate=1 March 2019 |work=news.com.au |date=1 March 2019 |language=en-AU |archive-url=https://web.archive.org/web/20190301004512/https://www.news.com.au/finance/work/leaders/government-braces-for-two-more-high-profile-resignations/news-story/0cadb70e1dca6763741e424a616b555c |archive-date=1 March 2019 |dead-url=no }}</ref>
+* [[Jane Prentice]] MP ([[Division of Ryan|Ryan]], Qld) – lost preselection 12 May 2018,<ref>{{cite news|url=https://www.theguardian.com/australia-news/2018/may/12/jane-prentice-loses-lnp-preselection-for-queensland-seat-of-ryan|title=Jane Prentice loses LNP preselection for Queensland seat of Ryan|last=McGowan|first=Michael|date=12 May 2018|newspaper=[[Guardian Australia]]|access-date=27 April 2019|archive-url=https://web.archive.org/web/20190427025757/https://www.theguardian.com/australia-news/2018/may/12/jane-prentice-loses-lnp-preselection-for-queensland-seat-of-ryan|archive-date=27 April 2019|dead-url=no}}</ref> delivered valedictory 4 April 2019<ref>{{cite news|url=https://www.smh.com.au/politics/federal/outgoing-queensland-liberal-mp-slams-treachery-and-lies-in-candidates-20190404-p51am1.html|title=Outgoing Queensland LNP MP slams "treachery and lies" in candidates|last=Gredley|first=Rebecca|date=4 April 2019|newspaper=[[The Sydney Morning Herald]]|access-date=27 April 2019|archive-url=https://web.archive.org/web/20190404153809/https://www.smh.com.au/politics/federal/outgoing-queensland-liberal-mp-slams-treachery-and-lies-in-candidates-20190404-p51am1.html|archive-date=4 April 2019|dead-url=no}}</ref>
+* Senator [[Barry O'Sullivan]] (Qld) – lost preselection 6 July 2018<ref>{{cite news|url=https://www.theguardian.com/australia-news/2018/jul/06/lnp-dumps-ian-macdonald-and-barry-osullivan-from-senate-ticket|title=LNP dumps Ian Macdonald and Barry O'Sullivan from Senate ticket|last=Remeikis|first=Amy|date=6 July 2018|newspaper=[[Guardian Australia]]|access-date=27 April 2019|archive-url=https://web.archive.org/web/20190409083026/https://www.theguardian.com/australia-news/2018/jul/06/lnp-dumps-ian-macdonald-and-barry-osullivan-from-senate-ticket|archive-date=9 April 2019|dead-url=no}}</ref>
+
+===Country Liberal===
+* Senator [[Nigel Scullion]] (NT) – announced retirement 26 January 2019<ref name="scullion">{{cite news |last1=Garrick |first1=Matt |title=Scullion to join fellow ministers Keenan and O'Dwyer in quitting politics |url=https://www.abc.net.au/news/2019-01-26/nigel-scullion-quits-politics-indigenous-affairs-national-clp/10747898 |accessdate=26 January 2019 |work=ABC News |date=26 January 2019 |language=en-AU |archive-url=https://web.archive.org/web/20190126002504/https://www.abc.net.au/news/2019-01-26/nigel-scullion-quits-politics-indigenous-affairs-national-clp/10747898 |archive-date=26 January 2019 |dead-url=no }}</ref>
+
+===Independent===
+* [[Cathy McGowan (politician)|Cathy McGowan]] MP ([[Division of Indi|Indi]], Vic) – announced retirement 14 January 2019<ref>{{cite web|url=https://www.abc.net.au/news/2019-01-14/cathy-mcgowan-announces-retirement-from-federal-politics/10712832|title='It's time to pass on the baton': Cathy McGowan to retire from federal politics|first=Joseph|last=Dunstan|date=14 January 2019|website=ABC News|access-date=13 January 2019|archive-url=https://web.archive.org/web/20190114033046/https://www.abc.net.au/news/2019-01-14/cathy-mcgowan-announces-retirement-from-federal-politics/10712832|archive-date=14 January 2019|dead-url=no}}</ref>
+* Senator [[Tim Storer]] (SA) – announced retirement 17 April 2019<ref>{{cite web |1= |url=https://www.theage.com.au/federal-election-2019/what-this-means-for-my-young-family-senator-tim-storer-quits-20190417-p51f73.html |title='What this means for my young family': Senator Tim Storer quits |publisher=The Age |first=Latika |last=Bourke |date=18 April 2019 |accessdate=18 April 2019 |archive-url=https://web.archive.org/web/20190417205659/https://www.theage.com.au/federal-election-2019/what-this-means-for-my-young-family-senator-tim-storer-quits-20190417-p51f73.html |archive-date=17 April 2019 |dead-url=no }}</ref>
+
+==Opinion polls==
+{{see also|Opinion polling for the 2019 Australian federal election}} 
+
+===Graphical summary===
+{{multiple image|align=center
+|image1=Australian federal election polling - 46th parliament - two party preferred.svg
+|width1=310
+|caption1=[[Two-party-preferred vote]].
+|image2=Australian federal election polling - 46th parliament - primary.svg
+|width2=310
+|caption2=[[First-preference votes|Primary vote]].
+|footer=[[Aggregate data]] of voting intention from all opinion polling since the last election. [[Local regression]] trends for each party are shown as solid lines.
+}}
+
+===Assessment of polling accuracy===
+The result of the 2019 election was in stark contrast to the aggregation of opinion polls conducted over the period of the 45th parliament and the 2019 election campaign. Apart from a few outliers, Labor had been ahead for the entire period, by as much as 56% on a two-party-preferred basis after Scott Morrison took over the leadership of the Liberal Party in August 2018—although during the campaign, Labor's two-party estimate was between 51 and 52%.<ref name="experts">{{cite news |last1=Livingston |first1=Angus |title='Massive polling failure': experts |url=https://www.canberratimes.com.au/story/6131876/massive-polling-failure-experts/?cs=14231 |accessdate=21 May 2019 |work=The Canberra Times |date=19 May 2019 |language=en}}</ref>
+
+During the ABC's election coverage, election analyst [[Antony Green]] stated, "at the moment, on these figures, it's a bit of a spectacular failure of opinion polling", with the election results essentially a mirror image of the polls with the Coalition's two-party vote at around 51%.<ref name="experts" />
+
+The former director of Newspoll, Martin O'Shannessy, cited changes in demographics and telephone habits which have changed the nature of polling from calling random samples of landlines to calling random mobile numbers and automated "robocalls"—with the ensuing drop in response rates resulting in lower quality data due to smaller samples and bias in the sample due to who chooses to respond.<ref name="sowrong">{{cite news |last1=Cockburn |first1=Paige |last2=Kontominas |first2=Bellinda |title=How the polls got it so wrong predicting a Labor victory |url=https://www.abc.net.au/news/2019-05-19/federal-election-results-how-the-polls-got-it-so-wrong/11128176 |accessdate=21 May 2019 |work=ABC News |date=19 May 2019 |language=en-AU |archive-url=https://web.archive.org/web/20190521003315/https://www.abc.net.au/news/2019-05-19/federal-election-results-how-the-polls-got-it-so-wrong/11128176 |archive-date=21 May 2019 |dead-url=no }}</ref>
+
+Several analysts and statisticians found the lack of [[variance]] of the two-party preferred estimates concerning—truly random poll sampling would see the results "bounce around" within each poll's [[margin of error]], but the difference between figures in the final few weeks of the campaign were so consistently small as to be highly improbable to happen under random chance. Some analysts suspected the phenomenon of "herding" had occurred—as polling companies attempted to adjust for bias, they had "massaged" their results to be similar to other polls, resulting in an artificial closeness.<ref name="lawsonct">{{cite news |last1=Lawson |first1=Kirsten |title=Why the opinion polls were always wrong and how we should have spotted it |url=https://www.canberratimes.com.au/story/6132185/why-the-opinion-polls-were-always-wrong-and-how-we-should-have-spotted-it/ |accessdate=21 May 2019 |work=The Canberra Times |date=20 May 2019 |language=en}}</ref><ref name="finalwrap">{{cite news |last1=Beaumont |first1=Adrian |title=Final poll wrap: Race tightens in Ipsos and Dutton just ahead in Dickson, plus many more seat polls |url=https://theconversation.com/final-poll-wrap-race-tightens-in-ipsos-and-dutton-just-ahead-in-dickson-plus-many-more-seat-polls-116803 |accessdate=21 May 2019 |work=The Conversation |date=17 May 2019 |language=en |archive-url=https://web.archive.org/web/20190520050201/http://theconversation.com/final-poll-wrap-race-tightens-in-ipsos-and-dutton-just-ahead-in-dickson-plus-many-more-seat-polls-116803 |archive-date=20 May 2019 |dead-url=no }}</ref>
+
+==Election date==
+An election for the House of Representatives can be called at any time during the maximum three-year parliamentary term. The term of the House of Representatives starts on the first sitting day of the House following its election, which in the case of the [[45th Parliament of Australia|45th Parliament]] was 30 August 2016. The House therefore would expire on 29 August 2019, unless it were dissolved earlier. In this case, the Parliament was dissolved on 11 April and an election called for 18 May 2019.<ref>{{cite web|url=https://www.abc.net.au/news/2019-04-11/prime-minister-scott-morrison-calls-federal-election-may-18/10991614|title=Federal election 2019: Prime Minister Scott Morrison sets May 18 election date|work=ABC News|date=11 April 2019|access-date=11 April 2019|archive-url=https://web.archive.org/web/20190411033734/https://www.abc.net.au/news/2019-04-11/prime-minister-scott-morrison-calls-federal-election-may-18/10991614|archive-date=11 April 2019|dead-url=no}}</ref> This occurred after Prime Minister [[Scott Morrison]] visited the [[Governor-General of Australia|Governor-General]] advising him to prorogue Parliament and dissolve the House of Representatives. The Governor-General accepted Morrison's recommendations, as is custom in Australia's system of government.<ref name=timing101>{{cite web|url=https://www.gg.gov.au/sites/default/files/media_files/documents_relating_to_the_calling_of_the_election_for_18_may_2019.pdf|title=Documents relating to the calling of the election for 18 May 2019|work=Governor-General of Australia|date=11 April 2019|archiveurl=https://web.archive.org/web/20190411032231/https://www.gg.gov.au/sites/default/files/media_files/documents_relating_to_the_calling_of_the_election_for_18_may_2019.pdf|archivedate=11 April 2019}}</ref><ref>{{cite web|url=https://www.legislation.gov.au/Details/C2019G00344|title=Proclamation - Prorogue the Parliament and dissolve the House of Reps|work=Federal Register of Legislation|publisher=Australian Government|date=11 April 2019|access-date=11 April 2019|archive-url=https://web.archive.org/web/20190411033308/https://www.legislation.gov.au/Details/C2019G00344|archive-date=11 April 2019|dead-url=no}}</ref>
+
+The [[Constitution of Australia]] does not require simultaneous elections for the [[Australian Senate|Senate]] and the [[Australian House of Representatives|House of Representatives]], but it has long been preferred that elections for the two houses take place simultaneously. The most recent House-only election took place in [[1972 Australian federal election|1972]], and the most recent Senate-only election took place in [[1970 Australian Senate election|1970]]. However, the writs for a half-Senate election could not be issued earlier than 1 July 2018. Section 13 of the Constitution requires that the election of senators must take place within one year before the terms expire for half-Senate elections. Since the previous election was a [[double dissolution]], half of the senators were allocated three-year terms that end on 30 June 2019, while the other half were allocated six-year terms that end on 30 June 2022. Senators from the territories serve terms timed with House elections. Since campaigns are for a minimum of 33 days, the earliest possible date for a simultaneous House/half-Senate election was 4 August 2018.<ref name=Timetable>[https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1617/AustralianElectionsTimetable Elections Timetable] {{Webarchive|url=https://web.archive.org/web/20171210024227/https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1617/AustralianElectionsTimetable |date=10 December 2017 }} from Parliamentary Library</ref> The latest that a half-Senate election could be held must allow time for the votes to be counted and the writs to be returned before the newly elected senators take office on 1 July 2019. This took over a month in 2016, so practically the last possible date for a half-Senate election to take place before the three-year terms expire is 18 May 2019.
+
+An election for the House of Representatives needed to be held on or before 2 November 2019.<ref name=Timetable/> The latest date for the election is calculated from the Constitution and the [[Commonwealth Electoral Act 1918]] (CEA). Section 28 of the Constitution provides that a term of the House of Representatives expires three years from the first sitting of the House, unless dissolved earlier. The [[2016 Australian federal election|last federal election]] was held on 2 July 2016. The 45th Parliament opened on 30 August 2016<ref>{{cite web |url=http://www.aph.gov.au/About_Parliament/Sitting_Calendar |title=2016 Parliamentary sittings |access-date=12 August 2016 |publisher=[[Parliament of Australia]] |archive-url=https://web.archive.org/web/20160805120939/http://www.aph.gov.au/about_parliament/sitting_calendar |archive-date=5 August 2016 |dead-url=no }}</ref> and its term would expire on 29 August 2019.<ref>See [http://blogs.abc.net.au/antonygreen/2013/07/election-dates-and-extended-three-year-terms.html Anthony Green's Election Blog] {{Webarchive|url=https://web.archive.org/web/20141107043323/http://blogs.abc.net.au/antonygreen/2013/07/election-dates-and-extended-three-year-terms.html |date=7 November 2014 }}</ref> Writs for election can be issued up to ten days after a dissolution or expiry of the House.<ref>Section 32 of the Constitution</ref> Up to 27 days can be allowed for nominations,<ref name="Commonwealth Electoral Act, s. 156">{{cite web |url=http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s156.html |title=Commonwealth Electoral Act, s. 156 |publisher=Austlii.edu.au |date= |accessdate=19 March 2018 |archive-url=https://web.archive.org/web/20160304095625/http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s156.html |archive-date=4 March 2016 |dead-url=no }}</ref> and the actual election can be set for a maximum of 31 days after close of nominations,<ref name="Commonwealth Electoral Act, s. 157">{{cite web |url=http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s157.html |title=Commonwealth Electoral Act, s. 157 |publisher=Austlii.edu.au |date= |accessdate=19 March 2018 |archive-url=https://web.archive.org/web/20160731042725/http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s157.html |archive-date=31 July 2016 |dead-url=no }}</ref> resulting in the latest election date for the House of Representatives of Saturday, 2 November 2019.
+
+A double dissolution cannot take place within six months before the date of the expiry of the House of Representatives.<ref>Section 57 of the Constitution</ref> That meant that any double dissolution of the 45th Parliament had to have been granted by 28 February 2019. Allowing for the same stages indicated above, the last possible date for a double dissolution election would have been 4 May 2019.<ref name=Timetable/> This could only occur if a bill that had passed the House of Representatives was rejected by the Senate twice, at least three months apart.
+
+===Constitutional and legal provisions===
+The constitutional and legal provisions which impact on the choice of election dates include:<ref>{{cite web |author=Lundie, Rob |url=http://www.aph.gov.au/library/pubs/BN/2008-09/aust_elections.htm |title=Australian elections timetable |work=[[Parliament of Australia]] |deadurl=yes |archiveurl=https://web.archive.org/web/20110108212031/http://www.aph.gov.au/library/pubs/bn/2008-09/Aust_elections.htm |archivedate=8 January 2011  }}</ref>
+* Section 12 of the Constitution says: "The Governor of any State may cause writs to be issued for the election of Senators for that State"
+* Section 13 of the Constitution provides that the election of senators shall be held in the period of twelve months before the places become vacant.
+* Section 28 of the Constitution says: "Every House of Representatives shall continue for three years from the first sitting of the House, and no longer, but may be sooner dissolved by the Governor-General."<ref name="section28">{{cite web |url=http://www.austlii.edu.au/au/legis/cth/consol_act/coaca430/s28.html |title=Commonwealth Of Australia Constitution Act – Section 28 |publisher=Austlii.edu.au |date= |accessdate=19 March 2018 |archive-url=https://web.archive.org/web/20160424175856/http://www.austlii.edu.au/au/legis/cth/consol_act/coaca430/s28.html |archive-date=24 April 2016 |dead-url=no }}</ref> Since the 45th Parliament of Australia opened on 30 August 2016, it will expire on 29 August 2019.
+* Section 32 of the Constitution says: "The writs shall be issued within ten days from the expiry of a House of Representatives or from the proclamation of a dissolution thereof." Ten days after 29 August 2019 is 8 September 2019.
+* Section 156 (1) of the CEA says: "The date fixed for the nomination of the candidates shall not be less than 10 days nor more than 27 days after the date of the writ".<ref name="Commonwealth Electoral Act, s. 156"/> Twenty-seven days after 8 September 2019 is 5 October 2019.
+* Section 157 of the CEA says: "The date fixed for the polling shall not be less than 23 days nor more than 31 days after the date of nomination".<ref name="Commonwealth Electoral Act, s. 157"/> Thirty-one days after 5 October 2019 is 5 November 2019, a Tuesday.
+* Section 158 of the CEA says: "The day fixed for the polling shall be a Saturday".<ref>{{cite web |url=http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s158.html |title=Commonwealth Electoral Act, s. 158 |publisher=Austlii.edu.au |date= |accessdate=19 March 2018 |archive-url=https://web.archive.org/web/20160304045328/http://www.austlii.edu.au/au/legis/cth/consol_act/cea1918233/s158.html |archive-date=4 March 2016 |dead-url=no }}</ref> The Saturday before 5 November 2019 is 2 November 2019. This is therefore the latest possible date for the lower house election.
+
+==Election timeline==
+On 11 April 2019, the office of the Governor-General released documents relating to the calling of the election. The documents set out a timeline of key dates for the election.<ref name=timing101/>
+* 11 April – 8:29 am: Prorogation of the 45th Parliament<ref name="timing101"/>
+* 11 April – 8:30 am: Dissolution of the House of Representatives<ref name="timing101"/>
+* 11 April – Issue of writs<ref name="timing101"/>
+* 18 April – Close of electoral rolls.  At this time, enrolment is at 96.8% of the eligible population.<ref>{{cite web |title=The best electoral roll in history |url=https://aec.gov.au/media/media-releases/2019/04-23.htm |website=Australian Electoral Commission |language=en-AU |access-date=24 April 2019 |archive-url=https://web.archive.org/web/20190424052913/https://aec.gov.au/media/media-releases/2019/04-23.htm |archive-date=24 April 2019 |dead-url=no }}</ref>
+* 23 April – Close of candidate nominations<ref name="timing101"/>
+* 24 April – Declaration of nominations
+* 29 April – Early voting commences<ref>{{cite web |url=https://aec.gov.au/Voting/ways_to_vote/ |title=Voting options |publisher=[[Australian Electoral Commission]] |access-date=14 April 2019 |archive-url=https://web.archive.org/web/20190408234654/https://aec.gov.au/Voting/ways_to_vote/ |archive-date=8 April 2019 |dead-url=no }}</ref>
+* 18 May – Polling day<ref name="timing101"/>
+* 28 June – Return of writs<ref name="timing101"/> (last day)
+* 1 July – Commencement of terms for state senators
+
+The election period included three national [[public holidays in Australia|public holidays]]: [[Good Friday]] (19 April), [[Easter Monday]] (22 April) and [[Anzac Day]] (25 April), as well as [[International Workers' Day|May Day]] and [[International Workers' Day|Labour Day]] in [[Northern Territory]] and [[Queensland]], respectively, both falling on 6 May.
+
+==Redistributions==
+{{see also|Redistribution (Australia)}}
+Since the last election, there has been a reapportionment of seats of the House of Representatives, as well as three scheduled redistributions of electoral boundaries. On 31 August 2017, the [[Australian Electoral Commission]] announced a reapportionment of seats based on calculation of each state and territory's entitlement determination: Victoria gained one seat to 38, the Australian Capital Territory gained a seat to 3, and South Australia lost one seat to 10.<ref name="AECannouncement31August2017"/> The total number of members of the House of Representatives increased from 150 to 151.<ref name="AECannouncement31August2017">{{cite web|url=http://www.aec.gov.au/media/media-releases/2017/08-31.htm|title=Determination of membership entitlement to the House of Representatives|work=aec.gov.au|date=31 August 2017|access-date=31 August 2017|archive-url=https://web.archive.org/web/20170831130456/http://www.aec.gov.au/media/media-releases/2017/08-31.htm|archive-date=31 August 2017|dead-url=no}}</ref> 
+
+Following the reapportionment, which applies to the 2019 election, the allocation of seats were:
+{| class="wikitable" cellpadding="5"
+|-
+! State || Seats || Change
+|-
+| New South Wales ||47 || {{steady}}
+|-
+| Victoria ||38 || {{increase}} 1
+|-
+| Queensland ||30 || {{steady}}     
+|-
+| Western Australia ||16 || {{steady}}      
+|-
+| South Australia ||10 || {{decrease}} 1
+|-
+| Tasmania ||5 || {{steady}}      
+|-
+| Australian Capital Territory ||3|| {{increase}} 1
+|-
+| Northern Territory ||2|| {{steady}}
+|-
+! Total ||151 || {{increase}} 1
+|}
+
+===Northern Territory===
+On 7 December 2016, the Electoral Commission for the Northern Territory announced the results of its deliberations into the boundaries of [[Division of Lingiari|Lingiari]] and [[Division of Solomon|Solomon]], the two federal electoral divisions in the Northern Territory. New boundaries gazetted from 7 February 2017 will see the remainder of the [[Litchfield Municipality]] and parts of [[Palmerston, Northern Territory|Palmerston]] (the suburbs of [[Farrar, Northern Territory|Farrar]], [[Johnston, Northern Territory|Johnston]], [[Mitchell, Northern Territory|Mitchell]], [[Zuccoli, Northern Territory|Zuccoli]] and part of [[Yarrawonga, Northern Territory|Yarrawonga]]) transferred from Solomon to Lingiari.<ref name="ntredistribution">{{cite web|title=Media release: Augmented Electoral Commission decides names and boundaries of federal electoral divisions in the Northern Territory|url=http://www.aec.gov.au/media/media-releases/2016/12-07.htm|publisher=Australian Electoral Commission|accessdate=7 December 2016|archive-url=https://web.archive.org/web/20161220075015/http://www.aec.gov.au/media/media-releases/2016/12-07.htm|archive-date=20 December 2016|dead-url=no}}</ref>
+
+===Tasmania===
+A scheduled redistribution began in Tasmania on 1 September 2016, to be finalised by November 2017.<ref name="tasredist1">{{cite web|title=Tasmanian redistribution indicative timetable|url=http://www.aec.gov.au/Electorates/Redistributions/2016/tas/timetable.htm|publisher=Australian Electoral Commission|accessdate=31 August 2017|archive-url=https://web.archive.org/web/20170831172310/http://www.aec.gov.au/Electorates/Redistributions/2016/tas/timetable.htm|archive-date=31 August 2017|dead-url=no}}</ref> The determinations were announced on 27 September 2017. In addition to boundary changes, the [[Division of Denison]] will be renamed the [[Division of Clark]] after [[Andrew Inglis Clark]].<ref name="tasredist2">{{cite web|publisher=Australian Electoral Commission|title=Names and boundaries of federal electoral divisions in Tasmania decided|url=http://www.aec.gov.au/media/media-releases/2017/09-27.htm|accessdate=27 September 2017|language=en-AU|archive-url=https://web.archive.org/web/20170927112541/http://www.aec.gov.au/media/media-releases/2017/09-27.htm|archive-date=27 September 2017|dead-url=no}}</ref>
+
+===Queensland===
+A scheduled redistribution began in Queensland on 6 January 2017, and was finalised on 27 March 2018. Changes were made to the boundaries of 18 of Queensland's 30 electoral divisions, and no division names were changed.<ref name="qldredist">{{cite web|title=Queensland redistribution indicative timetable|url=http://www.aec.gov.au/Electorates/Redistributions/2017/qld/timetable.htm|publisher=Australian Electoral Commission|accessdate=31 August 2017|archive-url=https://web.archive.org/web/20170831125957/http://www.aec.gov.au/Electorates/Redistributions/2017/qld/timetable.htm|archive-date=31 August 2017|dead-url=no}}</ref>
+
+===Australian Capital Territory===
+A redistribution of federal electoral divisions in the Australian Capital Territory commenced on 4 September 2017, due to changes in the territory's representation entitlement. The AEC released a proposed redistribution on 6 April 2018, and the final determination on 3 July 2018.<ref name="act-final">{{cite web |title=Step 6 – announcement of names and boundaries of federal electoral divisions in the Australian Capital Territory |url=https://www.aec.gov.au/Electorates/Redistributions/2017/act/announce-names-boundaries.htm |publisher=Australian Electoral Commission |accessdate=6 July 2018 |archive-url=https://web.archive.org/web/20190311094957/https://aec.gov.au/Electorates/Redistributions/2017/act/announce-names-boundaries.htm |archive-date=11 March 2019 |dead-url=no }}</ref> The redistribution resulted in the creation of a third ACT electoral division named [[Division of Bean|Bean]] (notionally fairly safe Labor), after historian [[Charles Bean]].<ref name="act-rd">{{cite web|title=Proposed federal electoral divisions for ACT released|url=http://www.aec.gov.au/media/media-releases/2018/04-06a.htm|website=Australian Electoral Commission|accessdate=6 April 2018|language=en-AU|archive-url=https://web.archive.org/web/20180406024839/http://www.aec.gov.au/media/media-releases/2018/04-06a.htm|archive-date=6 April 2018|dead-url=no}}</ref><ref>{{cite web|url=http://www.abc.net.au/news/elections/federal-redistribution-2018/act/|title=2017-18 Federal Redistribution - Australian Capital Territory|work=ABC Elections|date=20 June 2018|access-date=9 August 2018|archive-url=https://web.archive.org/web/20180418084849/http://www.abc.net.au/news/elections/federal-redistribution-2018/act/|archive-date=18 April 2018|dead-url=no}}</ref>
+
+===Victoria===
+A redistribution of federal electoral divisions in Victoria commenced on 4 September 2017, due to changes in the state's representation entitlement. The determinations were announced on 20 June 2018, and created a 38th electoral division named [[Division of Fraser (Victoria)|Fraser]] (notionally safe Labor), named after prime minister [[Malcolm Fraser]].<ref name=VICFinalABC>{{cite web|url=http://www.abc.net.au/news/elections/federal-redistribution-2018/vic/|title=2017-18 Federal Redistributions - Victoria|work=ABC Elections|date=20 June 2018|access-date=9 August 2018|archive-url=https://web.archive.org/web/20180823231311/http://www.abc.net.au/news/elections/federal-redistribution-2018/vic/|archive-date=23 August 2018|dead-url=no}}</ref> 
+
+The commission also renamed several divisions: Batman to Cooper (after [[William Cooper (Aboriginal Australian)|William Cooper]]), McMillan to Monash (after [[John Monash|Sir John Monash]]), Melbourne Ports to Macnamara (after [[Jean Macnamara|Dame Jean Macnamara]]) and Murray to Nicholls (after [[Douglas Nicholls|Sir Douglas]] and [[Gladys Nicholls|Lady Nicholls]]). A proposal to rename Corangamite to Cox (after swimming instructor May Cox) did not proceed.<ref name="vic-rd">{{cite web|title=Names and boundaries of federal electoral divisions in Victoria decided|url=https://www.aec.gov.au/media/media-releases/2018/06-20.htm|website=Australian Electoral Commission|accessdate=20 June 2018|language=en-AU|archive-url=https://web.archive.org/web/20190319133136/https://aec.gov.au/media/media-releases/2018/06-20.htm|archive-date=19 March 2019|dead-url=no}}</ref>
+
+The Coalition notionally lost the seat of [[Division of Dunkley|Dunkley]] and Corangamite to Labor in the redistribution.<ref name="abc-pendulum"/>
+
+===South Australia===
+A [[Template:Australian federal divisions of South Australia|South Australian seat]] was abolished due to population changes having occurred since the state's last redistribution in 2011. Although South Australia's population was still increasing, faster increases in other states saw a reduction in South Australia's representation from 11 to 10 seats in the 151-seat [[Australian House of Representatives|House of Representatives]]. This was the third time South Australia lost a seat since the 1984 enlargement of the parliament, with [[Division of Hawker|Hawker]] abolished in 1993 and [[Division of Bonython|Bonython]] in 2004. South Australia is the least-populated state where the current number of seats can decrease, as Tasmania's current representation is the minimum guaranteed by the [[Constitution of Australia|Constitution]].<ref>{{cite web|url=http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1617/Redist45thParl|title=Electoral redistributions during the 45th Parliament: APH Statistics and Mapping|date=25 August 2016|publisher=Aph.gov.au|accessdate=19 March 2018|archive-url=https://web.archive.org/web/20180719111243/https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1617/Redist45thParl|archive-date=19 July 2018|dead-url=no}}</ref><ref>{{cite web|url=http://www.abc.net.au/news/2016-08-25/south-australia-potentially-lose-federal-seat-future-aec/7785584|title=South Australia to potentially lose federal seat under future redistribution|date=25 August 2016|publisher=Abc.net.au|accessdate=19 March 2018|archive-url=https://web.archive.org/web/20180310024421/http://www.abc.net.au/news/2016-08-25/south-australia-potentially-lose-federal-seat-future-aec/7785584|archive-date=10 March 2018|dead-url=no}}</ref><ref>{{cite web|url=http://www.adelaidenow.com.au/news/south-australia/south-australia-set-to-be-reduced-to-10-federal-electorates/news-story/337378c8c52a640714c99c380d3a4282|title=South Australia set to be reduced to 10 federal electorates|date=25 August 2016|publisher=The Advertiser|accessdate=19 March 2018}}</ref>
+
+A redistribution of federal electoral divisions in South Australia commenced on 4 September 2017, due to changes in the state's representation entitlement. The proposed redistribution report was released on 13 April 2018, and the final determination on 26 June 2018. The commission abolished the division of [[Division of Port Adelaide|Port Adelaide]].<ref>{{cite web|url=http://www.abc.net.au/news/2018-06-26/electoral-commission-abolishes-labor-held-seat-of-port-adelaide/9910524|title=Electoral Commission scraps seat of Port Adelaide held by Labor MP Mark Butler|work=ABC News|date=25 June 2018|access-date=9 August 2018|archive-url=https://web.archive.org/web/20180807183154/http://www.abc.net.au/news/2018-06-26/electoral-commission-abolishes-labor-held-seat-of-port-adelaide/9910524|archive-date=7 August 2018|dead-url=no}}</ref> The hybrid urban-rural seat of [[Division of Wakefield|Wakefield]] became the entirely urban seat of [[Division of Spence|Spence]], after [[Catherine Helen Spence]].<ref name="sa-redist">{{cite web|title=Proposed federal electoral divisions for South Australia released|url=https://aec.gov.au/media/media-releases/2018/04-13.htm|publisher=Australian Electoral Commission|accessdate=13 April 2018|language=en-AU|archive-url=https://web.archive.org/web/20180515161821/https://www.aec.gov.au/media/media-releases/2018/04-13.htm|archive-date=15 May 2018|dead-url=no}}</ref><ref>{{cite web|url=http://www.abc.net.au/news/elections/federal-redistribution-2018/sa/|title=2017-18 Federal Redistribution - South Australia|work=ABC Elections|date=26 June 2018|access-date=9 August 2018|archive-url=https://web.archive.org/web/20180729113143/http://www.abc.net.au/news/elections/federal-redistribution-2018/sa/|archive-date=29 July 2018|dead-url=no}}</ref> The more rural portions of Wakefield transferred to Grey and Barker.<ref>{{cite web |url=https://aec.gov.au/media/media-releases/2018/07-20.htm |title=Federal electoral divisions in South Australia formalised |date=20 July 2018 |publisher=[[Australian Electoral Commission]] |accessdate=28 July 2018 |archive-url=https://web.archive.org/web/20180727181055/https://aec.gov.au/media/media-releases/2018/07-20.htm |archive-date=27 July 2018 |dead-url=no }}</ref>
+
+==Newspaper endorsements==
+The Sunday and daily editions of Australian newspapers traditionally provide editorial endorsement for parties contending both federal and state elections. [[Alternative newspaper|Alternative newspapers]] have in recent times also provided backing for minor parties.
+
+===Sunday editions===
+{| class="wikitable floatright"
+|-
+! style="width:150px;"| Newspaper
+! colspan=2| Endorsement
+|-
+|''[[The Age|The Sunday Age]]''
+| &nbsp;
+| No endorsement<ref name="sundayage">{{cite news |title=Whatever the election result, we must tackle climate emergency |url=https://www.theage.com.au/environment/climate-change/whatever-the-election-result-we-must-tackle-climate-emergency-20190511-p51mcf.html |accessdate=12 May 2019 |work=The Sunday Age |date=12 May 2019 |archive-url=https://web.archive.org/web/20190512110531/https://www.theage.com.au/environment/climate-change/whatever-the-election-result-we-must-tackle-climate-emergency-20190511-p51mcf.html |archive-date=12 May 2019 |dead-url=no }}</ref>
+|-
+|''[[Herald Sun|Sunday Herald Sun]]''
+| {{Australian party style|Coalition}} |
+| [[Coalition (Australia)|Coalition]]
+|-
+|''[[Sunday Mail (Adelaide)|Sunday Mail]]'' (Adelaide)
+| {{Australian party style|Coalition}} |
+| [[Coalition (Australia)|Coalition]]<ref name="sundaymailadel">{{cite news |title=It's time for a steady hand, not uncertain, radical change |url=https://www.adelaidenow.com.au/news/opinion/sunday-mail-editorial-may-12-2019-its-time-for-a-steady-hand-not-uncertain-radical-change/news-story/b83a24780a2f5cd88fa8e305ebc7b0b2 |accessdate=12 May 2019 |work=Sunday Mail |date=12 May 2019}}</ref>
+|-
+|''[[The Sunday Mail (Brisbane)|The Sunday Mail]]'' (Brisbane)
+| {{Australian party style|Coalition}} |
+| [[Coalition (Australia)|Coalition]]<ref name="sundaymailbris">{{cite news |title=Australians can't afford a reckless pursuit of utopia |url=https://www.couriermail.com.au/news/opinion/australians-cant-afford-a-reckless-pursuit-of-utopia/news-story/7c336481905c355d7508a2456d62a86b |accessdate=12 May 2019 |work=The Sunday Mail |date=12 May 2019}}</ref>
+|-
+|''[[The Sunday Telegraph (Sydney)|The Sunday Telegraph]]''
+| {{Australian party style|Coalition}} |
+| [[Coalition (Australia)|Coalition]]<ref name="sundaytele">{{cite news |title=Always been a matter of trust |url=https://www.dailytelegraph.com.au/news/opinion/the-election-comes-down-to-this-who-do-you-trust-time-to-end-the-worst-period-of-political-instability-and-cynicism-since-federation/news-story/5274cc8b406efc960c007992a363c13a |accessdate=12 May 2019 |work=The Sunday Telegraph |date=12 May 2019}}</ref>
+|-
+|''[[The Sunday Times (Western Australia)|The Sunday Times]]''
+| &nbsp;
+| No endorsement<ref name="sundaytimes">{{cite news|url=https://www.pressreader.com/australia/the-sunday-times-9029/20190512/282144997788952|title=It's over to you, voters|newspaper=[[The Sunday Times (Western Australia)|The Sunday Times]]|date=12 May 2019|access-date=12 May 2019|archive-url=https://web.archive.org/web/20190512121143/https://www.pressreader.com/australia/the-sunday-times-9029/20190512/282144997788952|archive-date=12 May 2019|dead-url=no}}</ref>
+|-
+|''[[The Sun-Herald]]''
+| &nbsp;
+| No endorsement<ref name="sun-herald">{{cite news |title=Crucial final chance to engage a wary electorate |url=https://www.smh.com.au/federal-election-2019/crucial-final-chance-to-engage-a-wary-electorate-20190510-p51m6j.html |accessdate=12 May 2019 |work=The Sun-Herald |date=12 May 2019 |archive-url=https://web.archive.org/web/20190511164721/https://www.smh.com.au/federal-election-2019/crucial-final-chance-to-engage-a-wary-electorate-20190510-p51m6j.html |archive-date=11 May 2019 |dead-url=no }}</ref>
+|}
+All four newspapers published by [[News Corp Australia]] (Melbourne's ''[[Herald Sun|Sunday Herald Sun]]'', Adelaide's ''[[Sunday Mail (Adelaide)|Sunday Mail]]'', Brisbane's ''[[The Sunday Mail (Brisbane)|The Sunday Mail]]'' and Sydney's ''[[The Sunday Telegraph (Sydney)|The Sunday Telegraph]]'') endorsed the Coalition.<ref name="sundaypapers">{{cite news |title=Most Sunday papers back vote for Morrison |url=https://www.news.com.au/national/breaking-news/most-sunday-papers-back-vote-for-morrison/news-story/a3e148ce175d690d9107d1291cc56f24 |accessdate=12 May 2019 |work=news.com.au |date=12 May 2019 |archive-url=https://web.archive.org/web/20190512032743/https://www.news.com.au/national/breaking-news/most-sunday-papers-back-vote-for-morrison/news-story/a3e148ce175d690d9107d1291cc56f24 |archive-date=12 May 2019 |dead-url=no }}</ref> ''The Sunday Telegraph'' compared the major parties as a choice between Labor, which "seeks to present an agenda for social change, a generational correction for people doing it tough: pensioners, the unemployed, the working poor" and a Coalition "government that presents itself as being responsible in its spending, determined to return the budget to the black, eliminate waste and take a forward but steady approach to the broader social issues, such as ­climate change", ultimately describing Morrison a "safer pair of hands".<ref name="sundaytele"/>
+
+Both the [[Nine Publishing]] newspapers (Melbourne's ''[[The Age|The Sunday Age]]'' and Sydney's ''[[The Sun-Herald]]'') stopped short of endorsing a party, with ''The Sunday Age'' calling for bipartisan action on climate change.<ref name="sundayage" /> ''The Sun-Herald'' praised Morrison as "the former advertising executive has come into his own, appearing more sure-footed and on message than in the early days of his as leader" but warned that "his single-focus strategy needs some enhancement if he has a chance of pulling off victory", while contrasting it with Labor which has "overwhelmed us with its vision and plans. The party presents itself as a viable alternative government, with bold policy announcements across a variety of sectors, but they carry some risk for the disadvantage they may cause to some sections of the electorate. It runs the risk of hubris should reality not conform with voter expectations".<ref name="sun-herald"/>
+
+[[Seven West Media]]'s newspaper (Perth's ''[[The Sunday Times (Western Australia)|The Sunday Times]]'') also made no endorsement, but urged readers not to give the balance of power to "micro parties with wacky, divisive and extreme agendas".<ref name="sundaytimes"/>
+
+===Daily editions===
+{| class="wikitable floatright"
+|-
+! style="width:150px;"| Newspaper
+! colspan=2| Endorsement
+|-
+|''[[The Advertiser (Adelaide)|The Advertiser]]''
+|{{Australian party style|Coalition}} |
+|[[Coalition (Australia)|Coalition]]<ref name="adelaide-advertiser-ed">{{cite news |title=Our state’s safest bet at key turning point |url=https://www.adelaidenow.com.au/news/opinion/the-advertiser-editorial-may-17-2019-our-states-safest-bet-at-key-turning-point/news-story/3e8fda6b063182da147d093fbaca982f |accessdate=18 May 2019 |work=The Advertiser |date=17 May 2019}}</ref>
+|-
+|''[[The Age]]''
+|{{Australian party style|Labor}}" |
+|[[Australian Labor Party|Labor]]<ref name="age-ed">{{cite news|title=Shorten has made a compelling case for change|url=https://www.theage.com.au/national/shorten-has-made-a-compelling-case-for-change-20190516-p51o1a.html|accessdate=16 May 2019|work=The Age|date=16 May 2019|archive-url=https://web.archive.org/web/20190516085307/https://www.theage.com.au/national/shorten-has-made-a-compelling-case-for-change-20190516-p51o1a.html|archive-date=16 May 2019|dead-url=no}}</ref>
+|-
+|''[[The Australian]]''
+|{{Australian party style|Coalition}} |
+|[[Coalition (Australia)|Coalition]]<ref name="the-australian-ed">{{cite news|title=Nation needs stability now and growth for the future|url=https://www.theaustralian.com.au/commentary/editorials/nation-needs-stability-now-and-growth-for-the-future/news-story/43547d4a841fc8afabfa6a448eb561ff|accessdate=17 May 2019|work=The Australian|date=17 May 2019|archive-url=https://web.archive.org/web/20190518225710/https://www.theaustralian.com.au/commentary/editorials/nation-needs-stability-now-and-growth-for-the-future/news-story/43547d4a841fc8afabfa6a448eb561ff|archive-date=18 May 2019|dead-url=no}}</ref>
+|-
+|''[[Australian Financial Review]]''
+|{{Australian party style|Coalition}} |
+|[[Coalition (Australia)|Coalition]]<ref name="afr-ed">{{cite news |title=For all its faults, the Coalition faces in the right policy direction |url=https://www.afr.com/opinion/editorials/for-all-its-faults-the-coalition-faces-in-the-right-policy-direction-20190515-p51njp |accessdate=16 May 2019 |work=Australian Financial Review |date=16 May 2019 |archive-url=https://web.archive.org/web/20190515174019/https://www.afr.com/opinion/editorials/for-all-its-faults-the-coalition-faces-in-the-right-policy-direction-20190515-p51njp |archive-date=15 May 2019 |dead-url=no }}</ref>
+|-
+|''[[The Canberra Times]]''
+|
+|No endorsement<ref name="canberra-times-ed">{{cite news |title=Significant choices await ACT voters |url=https://www.canberratimes.com.au/story/6128886/significant-choices-await-act-voters/ |accessdate=18 May 2019 |work=The Canberra Times |date=17 May 2019 |archive-url=https://web.archive.org/web/20190518033601/https://www.canberratimes.com.au/story/6128886/significant-choices-await-act-voters/ |archive-date=18 May 2019 |dead-url=no }}</ref>
+|-
+|''[[The Courier-Mail]]''
+|{{Australian party style|Coalition}} |
+|[[Coalition (Australia)|Coalition]]
+|-
+|''[[The Daily Telegraph (Sydney)|The Daily Telegraph]]''
+|{{Australian party style|Coalition}} |
+|[[Coalition (Australia)|Coalition]]<ref name="daily-telegraph-ed">{{cite news |title=The Telegraph says: Steady hand on the tiller beats rhetoric|url=https://www.dailytelegraph.com.au/news/opinion/the-telegraph-says-steady-hand-on-the-tiller-beats-rhetoric/news-story/21fd5bb6fda948e277d3b1e8ab7f627b |accessdate=17 May 2019 |work=Daily Telegraph|date=17 May 2019}}</ref>
+|-
+|''[[Geelong Advertiser]]''
+|{{Australian party style|Coalition}} |
+|[[Coalition (Australia)|Coalition]]<ref name="geelong-advertiser-ed">{{cite news |title=Obvious choice to ensure sitting members keep up the good work|url=https://www.geelongadvertiser.com.au/news/opinion/obvious-choice-to-ensure-sitting-members-keep-up-the-good-work/news-story/050479ffe9467d2c82747fd3837c8b1d |accessdate=17 May 2019 |work=Geelong Advertiser|date=17 May 2019}}</ref>
+|-
+|''[[Guardian Australia|The Guardian Australia]]''
+|{{Australian party style|Labor}}" |
+|[[Australian Labor Party|Labor]]<ref name="guardian-ed">{{cite news |title=The Guardian view on the Australian election: vote on the climate emergency |url=https://www.theguardian.com/commentisfree/2019/may/16/guardian-view-australian-election-vote-climate-emergency |accessdate=16 May 2019 |work=Guardian Australia |date=16 May 2019 |archive-url=https://web.archive.org/web/20190515230936/https://www.theguardian.com/commentisfree/2019/may/16/guardian-view-australian-election-vote-climate-emergency |archive-date=15 May 2019 |dead-url=no }}</ref>
+|-
+|''[[Herald Sun]]''
+|{{Australian party style|Coalition}} |
+|[[Coalition (Australia)|Coalition]]<ref name="herald-sun-ed">{{cite news |title=Liberals have a tough fight in the election which will shape Australia|url=https://www.heraldsun.com.au/news/opinion/editorial-liberals-have-a-tough-fight-in-the-election-which-will-shape-australia/news-story/1e5b4b0cfbf0c4a4091d5eadb4817e01 |accessdate=17 May 2019 |work=Herald Sun|date=17 May 2019}}</ref>
+|-
+|''[[The Mercury (Hobart)|The Mercury]]''
+|
+|No endorsement<ref name="mercury-ed">{{cite news |title=Voting is a privilege so do your research |url=https://www.themercury.com.au/news/opinion/voting-is-a-privilege-so-do-your-research/news-story/5f0ea124bcbde80d538bf8e2364068b1 | accessdate=17 May 2019 |work=The Mercury |date=17 May 2019}}</ref>
+|-
+|''[[Northern Territory News|NT News]]''
+|{{Australian party style|Labor}}" |
+|[[Australian Labor Party|Labor]]<ref name="nt-news-ed">{{cite news |title=Voting Labor on Saturday is best for the Northern Territory as Bill Shorten looks likely to become our new Prime Minister|url=https://www.ntnews.com.au/news/opinion/voting-labor-on-saturday-is-best-for-the-northern-territory-as-bill-shorten-looks-likely-to-become-our-new-prime-minister/news-story/48dcf64cbc93cbf1b20de7fac46e47cf |accessdate=17 May 2019 |work=NT News|date=17 May 2019}}</ref>
+|-
+|''[[The Sydney Morning Herald]]''
+|{{Australian party style|Labor}}" |
+|[[Australian Labor Party|Labor]]<ref name="sydney-morning-herald-ed">{{cite news|title=Shorten's united team will end years of instability|url=https://www.smh.com.au/politics/federal/shorten-s-united-team-will-end-years-of-instability-20190516-p51o0r.html|accessdate=17 May 2019|work=Sydney Morning Herald|date=17 May 2019|archive-url=https://web.archive.org/web/20190516232209/https://www.smh.com.au/politics/federal/shorten-s-united-team-will-end-years-of-instability-20190516-p51o0r.html|archive-date=16 May 2019|dead-url=no}}</ref>
+|-
+|''[[The West Australian]]''
+|{{Australian party style|Coalition}} |
+|[[Coalition (Australia)|Coalition]]<ref name="west-australian-ed">{{cite news |title=Bill has shown he can lead, but Libs have proven record for WA |work=The West Australian |date=18 May 2019 |pages=48}}</ref>
+|}
+The majority of [[News Corp Australia]]'s daily mastheads – ''[[The Australian]]'', Sydney's ''[[The Daily Telegraph (Sydney)|The Daily Telegraph]]'', Melbourne's ''[[Herald Sun]]'', Brisbane's ''[[The Courier-Mail]]'', Adelaide's ''[[The Advertiser (Adelaide)|The Advertiser]]'' and the ''[[Geelong Advertiser]]'' – endorsed the Coalition.<ref name="guardian-endorse-wrap">{{cite news |last1=Meade |first1=Amanda |title=NT News breaks ranks as only News Corp paper to endorse Bill Shorten |url=https://www.theguardian.com/australia-news/2019/may/17/nt-news-breaks-ranks-as-only-news-corp-paper-to-endorse-bill-shorten |accessdate=18 May 2019 |work=The Guardian |date=17 May 2019 |archive-url=https://web.archive.org/web/20190517221045/https://www.theguardian.com/australia-news/2019/may/17/nt-news-breaks-ranks-as-only-news-corp-paper-to-endorse-bill-shorten |archive-date=17 May 2019 |dead-url=no }}</ref> ''The Australian'' wrote that "Mr Morrison’s plan errs on the side of being safe but deliverable; his policies, consistent with traditional values, do not unduly raise expectations as Mr Shorten has done".<ref name="the-australian-ed"/> Hobart's ''[[The Mercury (Hobart)|The Mercury]]'' stopped short of endorsing a party, remarking that with "polls indicating that a hung Parliament remains a possible scenario ... having [Independent candidate for Clark, Andrew] Wilkie advocating for Tasmania in Canberra would not be a terrible outcome".<ref name="mercury-ed"/> In Darwin, ''[[Northern Territory News|the NT News]]'' endorsed Labor, arguing the Morrison Government had "shown little to no interest" in Aboriginal affairs, an issue "which seriously threatens the future prosperity of the Northern Territory and Australia".<ref name="nt-news-ed"/>
+
+Two of [[Nine Publishing]]'s mastheads – ''[[The Sydney Morning Herald]]'' and Melbourne's ''[[The Age]]'' endorsed Labor.<ref name="guardian-endorse-wrap"/> ''[[The Sydney Morning Herald]]'' called for voters to bring an end to the "cycle of instability". It emphasised Shorten's "united team that looks like it will stick together", and contrasted this with the "blood feuds" within the Coalition cabinet, stating that "the ALP has used its time in the wilderness of opposition to sort out its factional differences and produce an unusually detailed agreed program". It expressed doubts with some aspects of Labor's economic policy, warning that "with the economy facing headwinds, people want solid, sensible government – not a revolution." It concluded that if Labor could overcome economic challenges and deliver "three years of normal government... it will be better than a continuation of instability under the Coalition".<ref name="sydney-morning-herald-ed"/> While critical of its stance on climate change and energy policy, its broadsheet ''[[The Australian Financial Review]]'' endorsed the Coalition, arguing the party "does at least grasp that Australia needs a growth policy in order to lift incomes and sustainably pay for the services government provides".<ref name="afr-ed"/>
+
+''[[Guardian Australia|The Guardian Australia]]'' also endorsed Labor, arguing that "the climate emergency is the most pressing issue of our time" and that "the Coalition appears deaf to the rising clamour from the electorate...[while] it clings to an obviously deficient emissions reduction target". Concluding that "the Coalition has neither credible policies nor a competent team", it finds that "Labor is the only party with a credible climate policy and a chance of forming government", but also giving qualified support to The Greens as its "climate policy is more ambitious than Labor’s and its tax and spending policies more redistributive". It also wrote positively of "credible independent candidates who could make positive contributions in the parliament".<ref name="guardian-ed"/>
+
+In Perth, the [[Seven West Media]]-owned ''[[The West Australian]]'' endorsed the Coalition as having "proved they will listen to Western Australia with their historic shakeup of the [[Goods and services tax (Australia)|GST]]", and commending the [[Liberal Party of Australia (Western Australian Division)|Western Australian Liberal Party]] for "a proven track record of being powerful advocates for [the] state".<ref name="west-australian-ed"/> ''[[The Canberra Times]]'' provided no endorsement, but concluded that the choice between the two major parties was "for changes that may benefit [Canberrans] personally" or "for change that has the potential to benefit those less fortunate than they are".<ref name="canberra-times-ed"/>
+
+===Alternative newspapers===
+{| class="wikitable floatright"
+|-
+! style="width:150px;"| Newspaper
+! colspan=2| Endorsement
+|-
+|rowspan=2|''[[Green Left Weekly]]''
+|{{Australian party style|Socialist Alliance}} |
+|[[Socialist Alliance (Australia)|Socialist Alliance]]<ref name="greenleft-ed1">{{cite web |author=Alex Bainbridge |url=https://www.greenleft.org.au/content/put-people-profits-vote-socialist |title=Put people before profits: Vote socialist |publisher=Green Left Weekly |date=9 May 2019 |accessdate=16 May 2019}}</ref><ref name="greenleft-ed2">{{cite web |author=Alex Bainbridge |url=https://www.greenleft.org.au/content/greens-preferences-and-radical-social-change |title=Greens, preferences and radical social change |publisher=Green Left Weekly |date=10 May 2019 |accessdate=16 May 2019}}</ref>
+|-
+|style="background-color: {{Victorian Socialists/meta/color}}" |
+|[[Victorian Socialists]]<ref name="greenleft-ed1"/><ref name="greenleft-ed2"/>
+|}
+Alternative publication ''[[Green Left Weekly]]'' endorsed socialist parties candidates, particularly the [[Victorian Socialists]] and [[Socialist Alliance (Australia)|Socialist Alliance]]. It argued that "the escalating climate crisis and rampant and growing inequality are two major symptoms of the bankruptcy of capitalism" and that preferential voting "makes it possible to send Labor a message that it needs to do better".<ref name="greenleft-ed2"/> Where socialist candidates are not standing, they endorsed preferencing The Greens above Labor.<ref name="greenleft-ed1"/>
+
+==Aftermath and reactions==
+===Domestic reactions===
+Morrison said that "[[the quiet Australians]] ... have won a great victory tonight".<ref>{{Cite web|url=https://www.pm.gov.au/media/speech-sydney|title=Speech Sydney|last=|first=|date=18 May 2019|website=Prime Minister of Australia|archive-url=|archive-date=|dead-url=|access-date=}}</ref> Shorten conceded defeat and announced his resignation as leader of the Labor Party, triggering the [[2019 Australian Labor Party leadership election]]. Former Deputy Prime Minister [[Anthony Albanese]], who ran against Shorten in the [[October 2013 Australian Labor Party leadership election|October 2013 spill]], announced his candidacy, as did former Treasurer [[Chris Bowen]]. Analysts describe the upcoming leadership spill as a contest between the [[Labor Left]], the more fiscally-progressive faction of which Albanese is a member, and the more fiscally-conservative [[Labor Right]], of which Shorten and Bowen are both members.
+
+===International reactions===
+* {{flag|Brazil}}: [[President of Brazil]] [[Jair Bolsonaro]] using his official Twitter account expressed: "I congratulate Prime Minister Scott Morrison on his re-election, refuting the left-leaning polls with the Labor Party. Great victory!".<ref>{{cite news |title=Bolsonaro parabeniza primeiro-ministro da Austrália por vitória |url=https://istoe.com.br/bolsonaro-parabeniza-primeiro-ministro-da-australia-por-vitoria/ |language=pt |accessdate=20 May 2019 |agency=IstoÉ |date=19 May 2019}}</ref>
+* {{flag|India}}: [[Prime Minister of India]] [[Narendra Modi]] congratulated Australian Prime Minister Scott Morrison on his victory in the elections. In a tweet, Mr Modi wished the people of Australia all success under Mr Morrison’s dynamic leadership. He said, as strategic partners, he is looking forward to continue working together closely to further strengthen the relationship between [[India]] and Australia.<ref>{{cite news |title=PM Modi congratulates Scott Morrison on his victory in elections |url=https://theindianawaaz.com/pm-modi-congratulates-scott-morrison-on-his-victory-in-elections/ |accessdate=20 May 2019 |agency=The Indian Awaaz |date=20 May 2019 |archive-url=https://web.archive.org/web/20190519221303/https://theindianawaaz.com/pm-modi-congratulates-scott-morrison-on-his-victory-in-elections/ |archive-date=19 May 2019 |dead-url=no }}</ref>
+* {{flag|Singapore}}: [[Prime Minister of Singapore]] [[Lee Hsien Loong]] congratulated Australian Prime Minister Scott Morrison over his victory and invited him to visit Singapore in conjunction with the annual Singapore–Australia Leader's summit to discuss strengthening the Comprehensive Strategic Partnership.<ref>{{cite news |title=PM Lee congratulates Australian PM Scott Morrison on election win |url=https://www.channelnewsasia.com/news/singapore/australia-election-polls-scott-morrison-pm-lee-11546996 |agency=ChannelNews Asia |date=19 May 2019 |access-date=21 May 2019 |archive-url=https://web.archive.org/web/20190519135755/https://www.channelnewsasia.com/news/singapore/australia-election-polls-scott-morrison-pm-lee-11546996 |archive-date=19 May 2019 |dead-url=no }}</ref>
+* {{flag|United States}}: [[President of the United States|US President]] [[Donald Trump]] has tweeted his congratulations to Prime Minister Scott Morrison on his “miracle” election win, “Congratulations to Scott on a Great Win!”.<ref>{{cite news |title=Donald Trump congratulates Scott Morrison, as comparisons between the two emerge |url=https://www.news.com.au/national/federal-election/donald-trump-congratulates-scott-morrison-as-comparisons-between-the-two-emerge/news-story/34ed0e0c8a1e884421cbbb266c61b1cd |accessdate=20 May 2019 |agency=news.com.au |date=19 May 2019 |archive-url=https://web.archive.org/web/20190519135719/https://www.news.com.au/national/federal-election/donald-trump-congratulates-scott-morrison-as-comparisons-between-the-two-emerge/news-story/34ed0e0c8a1e884421cbbb266c61b1cd |archive-date=19 May 2019 |dead-url=no }}</ref>
+
+==See also==
+* [[2016 Australian federal election]]
+* [[Candidates of the 2019 Australian federal election]]
+* [[Members of the Australian House of Representatives, 2016–2019]]
+* [[Members of the Australian Senate, 2016–2019]]
+* [[Pre-election pendulum for the 2019 Australian federal election]]
+* [[List of political parties in Australia]]
+
+== Notes ==
+{{reflist|group=n|1}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category}}
+* [https://www.aec.gov.au/election/ Australian Electoral Commission: 2019 federal election]
+* [https://www.abc.net.au/news/politics/ ABC Elections: 2019 Federal Election Guide]
+* [https://www.pollbludger.net/fed2019/ The Poll Bludger Federal Election 2019]
+* [http://www.tallyroom.com.au/aus2019/ The Tally Room]
+* [http://www.senate2019.me SenateCalc - A Senate Calculator]
+
+{{-}}
+{{2019 Australian federal election}}
+{{Australian elections}}
+{{Politics of Australia}}
+{{Parliament of Australia}}
+
+[[Category:2019 Australian federal election| ]]
+[[Category:Federal elections in Australia]]
+[[Category:May 2019 events in Oceania|Australian federal election]]

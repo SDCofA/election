@@ -1,59 +1,58 @@
 [
   {
-    "id": "aus-next-national-structural-ensemble-0.4.0-baseline_ensemble-20260809T090000Z-structural",
+    "id": "aus-next-national-structural-ensemble-0.5.0-baseline_ensemble-20260811T090000Z-structural",
     "election_id": "aus-next-national",
-    "as_of": "2026-08-09T09:00:00Z",
-    "published_at": "2026-08-09T09:00:00Z",
-    "model_version": "structural-ensemble-0.4.0",
+    "as_of": "2026-08-11T09:00:00Z",
+    "published_at": "2026-08-11T09:00:00Z",
+    "model_version": "structural-ensemble-0.5.0",
     "model_family": "baseline_ensemble",
     "selection_status": "baseline retained until reliable walk-forward promotion evidence",
     "simulation_count": 1000000,
-    "seed": 2312445967,
+    "seed": 773130702,
     "data_quality": "D",
     "freshness": "structural-only; no source-vintage feature snapshot",
     "missing_drivers": [
-      "Economic voting environment",
-      "Opposition coordination",
-      "Election timing",
+      "Current source-vintage polling",
+      "Division and crossbench translation",
       "Source-vintage polling and fundamentals",
       "Source-vintage polling",
       "Validated historical release-vintage backtest",
       "Subnational model"
     ],
     "regional_forecast_supported": false,
-    "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
-    "majority_probability": 0.603782,
-    "turnout_median": 0.6200050115585327,
-    "forecast_horizon_days": 1096,
-    "uncertainty_scale": 1.5682028834163937,
-    "effective_volatility": 0.18,
+    "headline": "Labor starts ahead on its 2025 majority, but the long and unfixed election window leaves substantial Coalition and hung-parliament paths.",
+    "majority_probability": 0.634367,
+    "turnout_median": 0.8999999761581421,
+    "forecast_horizon_days": 648,
+    "uncertainty_scale": 1.4266579123221281,
+    "effective_volatility": 0.1569323703554341,
     "outcomes": [
       {
-        "contestant_id": "government-camp",
-        "win_probability": 0.435967,
-        "projected_share": 0.393827348947525,
-        "share_low": 0.09409617073833944,
-        "share_high": 0.680624395608902,
+        "contestant_id": "labor-majority",
+        "win_probability": 0.74433,
+        "projected_share": 0.5123165845870972,
+        "share_low": 0.25221196562051773,
+        "share_high": 0.7627802819013595,
         "projected_seats": null,
         "seats_low": null,
         "seats_high": null
       },
       {
-        "contestant_id": "opposition-camp",
-        "win_probability": 0.434164,
-        "projected_share": 0.3938601613044739,
-        "share_low": 0.09827925860881806,
-        "share_high": 0.6776139020919798,
+        "contestant_id": "coalition-majority",
+        "win_probability": 0.137604,
+        "projected_share": 0.25281044840812683,
+        "share_low": 0.002955267857760191,
+        "share_high": 0.5047687441110611,
         "projected_seats": null,
         "seats_low": null,
         "seats_high": null
       },
       {
-        "contestant_id": "other-field",
-        "win_probability": 0.129869,
-        "projected_share": 0.2123125195503235,
-        "share_low": 0.0027164366212673484,
-        "share_high": 0.49741705954074855,
+        "contestant_id": "hung-parliament",
+        "win_probability": 0.118066,
+        "projected_share": 0.234872967004776,
+        "share_low": 0.00289743096800521,
+        "share_high": 0.48707484453916544,
         "projected_seats": null,
         "seats_low": null,
         "seats_high": null
@@ -63,104 +62,95 @@
     "coalition_outcomes": [],
     "drivers": [
       {
-        "key": "incumbency",
-        "label": "Governing-camp incumbency",
-        "value": "Structural prior only",
-        "contribution": 0.0,
+        "key": "seat_baseline",
+        "label": "2025 House baseline",
+        "value": "Labor won a large majority",
+        "contribution": 0.42,
         "direction": "government",
-        "confidence": 0.2
-      },
-      {
-        "key": "economy",
-        "label": "Economic voting environment",
-        "value": "Source-vintage inputs pending",
-        "contribution": 0.0,
-        "direction": "government",
-        "confidence": 0.1
-      },
-      {
-        "key": "opposition_selection",
-        "label": "Opposition coordination",
-        "value": "Candidate field unresolved",
-        "contribution": 0.0,
-        "direction": "opposition",
-        "confidence": 0.1
+        "confidence": 0.92
       },
       {
         "key": "timing",
         "label": "Election timing",
-        "value": "Three-year planning horizon",
+        "value": "7 August 2027–20 May 2028 window",
+        "contribution": 0.0,
+        "direction": "neutral",
+        "confidence": 0.9
+      },
+      {
+        "key": "leadership",
+        "label": "Leadership configuration",
+        "value": "Albanese government; Taylor opposition",
+        "contribution": 0.08,
+        "direction": "government",
+        "confidence": 0.72
+      },
+      {
+        "key": "polling",
+        "label": "Current source-vintage polling",
+        "value": "Not yet ingested into a reproducible snapshot",
         "contribution": 0.0,
         "direction": "neutral",
         "confidence": 0.1
+      },
+      {
+        "key": "geography",
+        "label": "Division and crossbench translation",
+        "value": "National-control proxy only",
+        "contribution": 0.0,
+        "direction": "neutral",
+        "confidence": 0.12
       }
     ],
-    "driver_sensitivity": [
-      {
-        "driver_key": "incumbency",
-        "label": "Governing-camp incumbency",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.0,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.0017500000000000003,
-        "observed_incumbent_share_shift": 0.0,
-        "positive_incumbent_share_shift": 0.0017500000000000003,
-        "confidence": 0.2,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "economy",
-        "label": "Economic voting environment",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.0,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.0008750000000000001,
-        "observed_incumbent_share_shift": 0.0,
-        "positive_incumbent_share_shift": 0.0008750000000000001,
-        "confidence": 0.1,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "opposition_selection",
-        "label": "Opposition coordination",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.0,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.0008750000000000001,
-        "observed_incumbent_share_shift": 0.0,
-        "positive_incumbent_share_shift": 0.0008750000000000001,
-        "confidence": 0.1,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      },
-      {
-        "driver_key": "timing",
-        "label": "Election timing",
-        "negative_scenario": -1.0,
-        "observed_scenario": 0.0,
-        "positive_scenario": 1.0,
-        "negative_incumbent_share_shift": -0.0008750000000000001,
-        "observed_incumbent_share_shift": 0.0,
-        "positive_incumbent_share_shift": 0.0008750000000000001,
-        "confidence": 0.1,
-        "clipped": false,
-        "method": "One-at-a-time structural perturbation; all other inputs held constant"
-      }
-    ],
+    "driver_sensitivity": [],
     "methodology_url": "/methodology",
     "input_revision_ids": [],
     "input_provenance": [],
     "provenance": [
       {
-        "source_id": "aus_electoral_authority_reference",
-        "label": "Australian Electoral Commission",
-        "url": "https://www.aec.gov.au/",
-        "authority": "official reference",
-        "retrieved_at": "2026-08-09T09:00:00Z",
+        "source_id": "australia_aec_window",
+        "label": "Australian Electoral Commission — next election due August 2027 to May 2028",
+        "url": "https://www.aec.gov.au/media/2026/07-23.htm",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T09:00:00Z",
+        "license": "CC-BY-4.0",
+        "license_url": "https://www.aec.gov.au/footer/copyright.htm"
+      },
+      {
+        "source_id": "australia_parliament_timing",
+        "label": "Parliamentary Library — earliest and latest federal election dates",
+        "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/FlagPost/2025/August/When_is_the_next_federal_election",
+        "authority": "official parliamentary research",
+        "retrieved_at": "2026-08-11T09:00:00Z",
         "license": "LINK-ONLY-NO-INGESTION",
-        "license_url": "https://www.aec.gov.au/"
+        "license_url": "https://www.aph.gov.au/Help/Disclaimer_Privacy_Copyright"
+      },
+      {
+        "source_id": "australia_aec_2025_tpp",
+        "label": "Australian Electoral Commission — final 2025 national two-party-preferred result",
+        "url": "https://results.aec.gov.au/31496/Website/HouseTppByState-31496.htm",
+        "authority": "official final result",
+        "retrieved_at": "2026-08-11T09:00:00Z",
+        "license": "CC-BY-4.0",
+        "license_url": "https://www.aec.gov.au/footer/copyright.htm"
+      },
+      {
+        "source_id": "australia_parliament_shadow_ministry",
+        "label": "Parliament of Australia — Taylor Shadow Ministry",
+        "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/31_Senators/Shadow_Ministry.pdf",
+        "authority": "official parliamentary record",
+        "retrieved_at": "2026-08-11T09:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.aph.gov.au/Help/Disclaimer_Privacy_Copyright"
+      },
+      {
+        "source_id": "australia_alp_leadership",
+        "label": "Australian Labor Party — federal parliamentary leader",
+        "url": "https://www.alp.org.au/about/national-executive/",
+        "authority": "party primary source",
+        "retrieved_at": "2026-08-11T09:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.alp.org.au/privacy/"
       }
     ]
   }

@@ -1,0 +1,980 @@
+{{Main|Australian federal election, 2010}}
+
+This article provides a list of federal [[opinion polls]] that were conducted between the [[Australian federal election, 2007|2007 election]] and [[Australian federal election, 2010|2010 election]].
+
+==Newspoll==
+[[Newspoll]] federal polling consists of voting intention, better prime minister and leader satisfaction-dissatisfaction ratings, and is conducted via random telephone number selection in city and country areas nationwide, Friday to Sunday, usually each fortnight. [[Sample size|Sampling sizes]] consist of around 1100–1200 electors. The declared [[margin of error]] is ± 3 per cent.
+
+===Voting intention===
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+|+'''House of Representatives opinion polling'''
+|-
+!  style="background:#; text-align:center;"|
+!  style="background:#ccc; text-align:center;" colspan="5"|Political parties
+!  style="background:#ebbce3; text-align:center;" colspan="2"|Two-party-preferred
+|-
+!  style="background:#; text-align:center;"|
+!  style="background:#; text-align:center;"|ALP
+!  style="background:#; text-align:center;"|Lib
+!  style="background:#; text-align:center;"|Nat
+!  style="background:#; text-align:center;"|Grn
+!  style="background:#; text-align:center;"|Oth
+!  style="background:#; text-align:center;"|ALP
+!  style="background:#; text-align:center;"|Lib/Nat
+|-
+!  style="text-align:center; background:#;"|16–18 Jul 2010
+|  style="text-align:center; background:#;"|42%
+|  style="text-align:center; background:#;"|34%
+| width="" style="text-align:center; background:#;"|4%
+| width="" style="text-align:center; background:#;"|12%
+| width="" style="text-align:center; background:#;"|8%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+|-
+!  style="text-align:center; background:#e9e9e9;"|25–27 Jun 2010
+|  style="text-align:center; background:#e9e9e9;"|42%
+|  style="text-align:center; background:#e9e9e9;"|37%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|53%
+| width="" style="text-align:center; background:#00bfff;"|47%
+|-
+! style="text-align:center;" bgcolor=""|18–20 Jun 2010
+| style="text-align:center;" bgcolor=""|35%
+| style="text-align:center;" bgcolor=""|36%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|15%
+| style="text-align:center;" width="" bgcolor=""|10%
+| width="" style="text-align:center; background:#f66;"|52%
+| width="" style="text-align:center; background:#00bfff;"|48%
+|-
+!  style="text-align:center; background:#e9e9e9;"|28–30 May 2010
+|  style="text-align:center; background:#e9e9e9;"|35%
+|  style="text-align:center; background:#e9e9e9;"|38%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|16%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|51%
+| width="" style="text-align:center; background:#00bfff;"|49%
+|-
+! style="text-align:center;" bgcolor=""|14–16 May 2010
+| style="text-align:center;" bgcolor=""|37%
+| style="text-align:center;" bgcolor=""|40%
+| style="text-align:center;" width="" bgcolor=""|3%
+| style="text-align:center;" width="" bgcolor=""|12%
+| style="text-align:center;" width="" bgcolor=""|8%
+| width="" style="text-align:center; background:#f66;"|50%
+| width="" style="text-align:center; background:#00bfff;"|50%
+|-
+!  style="text-align:center; background:#e9e9e9;"|30 Apr-2 May 2010
+|  style="text-align:center; background:#e9e9e9;"|35%
+|  style="text-align:center; background:#e9e9e9;"|38%
+| width="" style="text-align:center; background:#e9e9e9;"|5%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#e9e9e9;"|12%
+| width="" style="text-align:center; background:#f66;"|49%
+| width="" style="text-align:center; background:#00bfff;"|51%
+|-
+! style="text-align:center;" bgcolor=""|16–18 Apr 2010
+| style="text-align:center;" bgcolor=""|43%
+| style="text-align:center;" bgcolor=""|37%
+| style="text-align:center;" width="" bgcolor=""|3%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|7%
+| width="" style="text-align:center; background:#f66;"|54%
+| width="" style="text-align:center; background:#00bfff;"|46%
+|-
+!  style="text-align:center; background:#e9e9e9;"|26–28 Mar 2010
+|  style="text-align:center; background:#e9e9e9;"|43%
+|  style="text-align:center; background:#e9e9e9;"|35%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|12%
+| width="" style="text-align:center; background:#e9e9e9;"|7%
+| width="" style="text-align:center; background:#f66;"|56%
+| width="" style="text-align:center; background:#00bfff;"|44%
+|-
+! style="text-align:center;" bgcolor=""|12–14 Mar 2010
+| style="text-align:center;" bgcolor=""|39%
+| style="text-align:center;" bgcolor=""|37%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|11%
+| style="text-align:center;" width="" bgcolor=""|9%
+| width="" style="text-align:center; background:#f66;"|52%
+| width="" style="text-align:center; background:#00bfff;"|48%
+|-
+!  style="text-align:center; background:#e9e9e9;"|26–28 Feb 2010
+|  style="text-align:center; background:#e9e9e9;"|40%
+|  style="text-align:center; background:#e9e9e9;"|37%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#f66;"|52%
+| width="" style="text-align:center; background:#00bfff;"|48%
+|-
+! style="text-align:center;" bgcolor=""|12–14 Feb 2010
+| style="text-align:center;" bgcolor=""|39%
+| style="text-align:center;" bgcolor=""|36%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|12%
+| style="text-align:center;" width="" bgcolor=""|9%
+| width="" style="text-align:center; background:#f66;"|53%
+| width="" style="text-align:center; background:#00bfff;"|47%
+|-
+!  style="text-align:center; background:#e9e9e9;"|29–31 Jan 2010
+|  style="text-align:center; background:#e9e9e9;"|40%
+|  style="text-align:center; background:#e9e9e9;"|37%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|12%
+| width="" style="text-align:center; background:#e9e9e9;"|7%
+| width="" style="text-align:center; background:#f66;"|52%
+| width="" style="text-align:center; background:#00bfff;"|48%
+|-
+! style="text-align:center;" bgcolor=""|15–17 Jan 2010
+| style="text-align:center;" bgcolor=""|40%
+| style="text-align:center;" bgcolor=""|34%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|12%
+| style="text-align:center;" width="" bgcolor=""|10%
+| width="" style="text-align:center; background:#f66;"|54%
+| width="" style="text-align:center; background:#00bfff;"|46%
+|-
+!  style="text-align:center; background:#e9e9e9;"|4–6 Dec 2009
+|  style="text-align:center; background:#e9e9e9;"|43%
+|  style="text-align:center; background:#e9e9e9;"|34%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|11%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|56%
+| width="" style="text-align:center; background:#00bfff;"|44%
+|-
+! style="text-align:center;" bgcolor=""|27–29 Nov 2009
+| style="text-align:center;" bgcolor=""|43%
+| style="text-align:center;" bgcolor=""|30%
+| style="text-align:center;" width="" bgcolor=""|5%
+| style="text-align:center;" width="" bgcolor=""|12%
+| style="text-align:center;" width="" bgcolor=""|10%
+| width="" style="text-align:center; background:#f66;"|57%
+| width="" style="text-align:center; background:#00bfff;"|43%
+|-
+!  style="text-align:center; background:#e9e9e9;"|13–15 Nov 2009
+|  style="text-align:center; background:#e9e9e9;"|43%
+|  style="text-align:center; background:#e9e9e9;"|33%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|11%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#f66;"|56%
+| width="" style="text-align:center; background:#00bfff;"|44%
+|-
+! style="text-align:center;" bgcolor=""|30 Oct – 1 Nov 2009
+| style="text-align:center;" bgcolor=""|41%
+| style="text-align:center;" bgcolor=""|36%
+| style="text-align:center;" width="" bgcolor=""|5%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|8%
+| width="" style="text-align:center; background:#f66;"|52%
+| width="" style="text-align:center; background:#00bfff;"|48%
+|-
+!  style="text-align:center; background:#e9e9e9;"|16–18 Oct 2009
+|  style="text-align:center; background:#e9e9e9;"|48%
+|  style="text-align:center; background:#e9e9e9;"|30%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|59%
+| width="" style="text-align:center; background:#00bfff;"|41%
+|-
+! style="text-align:center;" bgcolor=""|28 Sep – 1 Oct 2009
+| style="text-align:center;" bgcolor=""|46%
+| style="text-align:center;" bgcolor=""|31%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|9%
+| width="" style="text-align:center; background:#f66;"|58%
+| width="" style="text-align:center; background:#00bfff;"|42%
+|-
+!  style="text-align:center; background:#e9e9e9;"|18–20 Sep 2009
+|  style="text-align:center; background:#e9e9e9;"|43%
+|  style="text-align:center; background:#e9e9e9;"|33%
+| width="" style="text-align:center; background:#e9e9e9;"|5%
+| width="" style="text-align:center; background:#e9e9e9;"|11%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+! style="text-align:center;" bgcolor=""|4–6 Sep 2009
+| style="text-align:center;" bgcolor=""|44%
+| style="text-align:center;" bgcolor=""|35%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|7%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+!  style="text-align:center; background:#e9e9e9;"|21–23 Aug 2009
+|  style="text-align:center; background:#e9e9e9;"|44%
+|  style="text-align:center; background:#e9e9e9;"|34%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+! style="text-align:center;" bgcolor=""|7–9 Aug 2009
+| style="text-align:center;" bgcolor=""|45%
+| style="text-align:center;" bgcolor=""|33%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|8%
+| width="" style="text-align:center; background:#f66;"|57%
+| width="" style="text-align:center; background:#00bfff;"|43%
+|-
+!  style="text-align:center; background:#e9e9e9;"|24–26 Jul 2009
+|  style="text-align:center; background:#e9e9e9;"|46%
+|  style="text-align:center; background:#e9e9e9;"|34%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#e9e9e9;"|7%
+| width="" style="text-align:center; background:#f66;"|57%
+| width="" style="text-align:center; background:#00bfff;"|43%
+|-
+! style="text-align:center;" bgcolor=""|10–12 Jul 2009
+| style="text-align:center;" bgcolor=""|43%
+| style="text-align:center;" bgcolor=""|34%
+| style="text-align:center;" width="" bgcolor=""|5%
+| style="text-align:center;" width="" bgcolor=""|11%
+| style="text-align:center;" width="" bgcolor=""|7%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+!  style="text-align:center; background:#e9e9e9;"|26–28 Jun 2009
+|  style="text-align:center; background:#e9e9e9;"|44%
+|  style="text-align:center; background:#e9e9e9;"|32%
+| width="" style="text-align:center; background:#e9e9e9;"|5%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#f66;"|56%
+| width="" style="text-align:center; background:#00bfff;"|44%
+|-
+! style="text-align:center;" bgcolor=""|12–14 Jun 2009
+| style="text-align:center;" bgcolor=""|41%
+| style="text-align:center;" bgcolor=""|36%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|11%
+| style="text-align:center;" width="" bgcolor=""|8%
+| width="" style="text-align:center; background:#f66;"|53%
+| width="" style="text-align:center; background:#00bfff;"|47%
+|-
+!  style="text-align:center; background:#e9e9e9;"|29–31 May 2009
+|  style="text-align:center; background:#e9e9e9;"|43%
+|  style="text-align:center; background:#e9e9e9;"|35%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+! style="text-align:center;" bgcolor=""|15–17 May 2009
+| style="text-align:center;" bgcolor=""|46%
+| style="text-align:center;" bgcolor=""|34%
+| style="text-align:center;" width="" bgcolor=""|3%
+| style="text-align:center;" width="" bgcolor=""|9%
+| style="text-align:center;" width="" bgcolor=""|8%
+| width="" style="text-align:center; background:#f66;"|56%
+| width="" style="text-align:center; background:#00bfff;"|44%
+|-
+!  style="text-align:center; background:#e9e9e9;"|1–3 May 2009
+|  style="text-align:center; background:#e9e9e9;"|42%
+|  style="text-align:center; background:#e9e9e9;"|35%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|11%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+! style="text-align:center;" bgcolor=""|17–19 Apr 2009
+| style="text-align:center;" bgcolor=""|47%
+| style="text-align:center;" bgcolor=""|33%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|9%
+| style="text-align:center;" width="" bgcolor=""|7%
+| width="" style="text-align:center; background:#f66;"|58%
+| width="" style="text-align:center; background:#00bfff;"|42%
+|-
+!  style="text-align:center; background:#e9e9e9;"|3–5 Apr 2009
+|  style="text-align:center; background:#e9e9e9;"|47%
+|  style="text-align:center; background:#e9e9e9;"|32%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|58%
+| width="" style="text-align:center; background:#00bfff;"|42%
+|-
+! style="text-align:center;" bgcolor=""|20–22 Mar 2009
+| style="text-align:center;" bgcolor=""|45%
+| style="text-align:center;" bgcolor=""|32%
+| style="text-align:center;" width="" bgcolor=""|5%
+| style="text-align:center;" width="" bgcolor=""|8%
+| style="text-align:center;" width="" bgcolor=""|10%
+| width="" style="text-align:center; background:#f66;"|56%
+| width="" style="text-align:center; background:#00bfff;"|44%
+|-
+!  style="text-align:center; background:#e9e9e9;"|7–9 Mar 2009
+|  style="text-align:center; background:#e9e9e9;"|44%
+|  style="text-align:center; background:#e9e9e9;"|32%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#f66;"|56%
+| width="" style="text-align:center; background:#00bfff;"|44%
+|-
+! style="text-align:center;" bgcolor=""|20–22 Feb 2009
+| style="text-align:center;" bgcolor=""|47%
+| style="text-align:center;" bgcolor=""|33%
+| style="text-align:center;" width="" bgcolor=""|3%
+| style="text-align:center;" width="" bgcolor=""|9%
+| style="text-align:center;" width="" bgcolor=""|8%
+| width="" style="text-align:center; background:#f66;"|58%
+| width="" style="text-align:center; background:#00bfff;"|42%
+|-
+!  style="text-align:center; background:#e9e9e9;"|6–8 Feb 2009
+|  style="text-align:center; background:#e9e9e9;"|48%
+|  style="text-align:center; background:#e9e9e9;"|32%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|58%
+| width="" style="text-align:center; background:#00bfff;"|42%
+|-
+! style="text-align:center;" bgcolor=""|16–18 Jan 2009
+| style="text-align:center;" bgcolor=""|43%
+| style="text-align:center;" bgcolor=""|35%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|8%
+| width="" style="text-align:center; background:#f66;"|54%
+| width="" style="text-align:center; background:#00bfff;"|46%
+|-
+!  style="text-align:center; background:#e9e9e9;"|5–7 Dec 2008
+|  style="text-align:center; background:#e9e9e9;"|48%
+|  style="text-align:center; background:#e9e9e9;"|32%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#e9e9e9;"|7%
+| width="" style="text-align:center; background:#f66;"|59%
+| width="" style="text-align:center; background:#00bfff;"|41%
+|-
+! style="text-align:center;" bgcolor=""|21–23 Nov 2008
+| style="text-align:center;" bgcolor=""|42%
+| style="text-align:center;" bgcolor=""|33%
+| style="text-align:center;" width="" bgcolor=""|5%
+| style="text-align:center;" width="" bgcolor=""|11%
+| style="text-align:center;" width="" bgcolor=""|9%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+!  style="text-align:center; background:#e9e9e9;"|7–9 Nov 2008
+|  style="text-align:center; background:#e9e9e9;"|44%
+|  style="text-align:center; background:#e9e9e9;"|35%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+! style="text-align:center;" bgcolor=""|24–26 Oct 2008
+| style="text-align:center;" bgcolor=""|44%
+| style="text-align:center;" bgcolor=""|36%
+| style="text-align:center;" width="" bgcolor=""|3%
+| style="text-align:center;" width="" bgcolor=""|9%
+| style="text-align:center;" width="" bgcolor=""|8%
+| width="" style="text-align:center; background:#f66;"|54%
+| width="" style="text-align:center; background:#00bfff;"|46%
+|-
+!  style="text-align:center; background:#e9e9e9;"|10–12 Oct 2008
+|  style="text-align:center; background:#e9e9e9;"|41%
+|  style="text-align:center; background:#e9e9e9;"|34%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|13%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+! style="text-align:center;" bgcolor=""|19–21 Sep 2008
+| style="text-align:center;" bgcolor=""|42%
+| style="text-align:center;" bgcolor=""|34%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|10%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+!  style="text-align:center; background:#e9e9e9;"|5–7 Sep 2008
+|  style="text-align:center; background:#e9e9e9;"|44%
+|  style="text-align:center; background:#e9e9e9;"|34%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|11%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|56%
+| width="" style="text-align:center; background:#00bfff;"|44%
+|-
+! style="text-align:center;" bgcolor=""|22–24 Aug 2008
+| style="text-align:center;" bgcolor=""|45%
+| style="text-align:center;" bgcolor=""|34%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|8%
+| style="text-align:center;" width="" bgcolor=""|9%
+| width="" style="text-align:center; background:#f66;"|56%
+| width="" style="text-align:center; background:#00bfff;"|44%
+|-
+!  style="text-align:center; background:#e9e9e9;"|8–10 Aug 2008
+|  style="text-align:center; background:#e9e9e9;"|47%
+|  style="text-align:center; background:#e9e9e9;"|33%
+| width="" style="text-align:center; background:#e9e9e9;"|5%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#e9e9e9;"|6%
+| width="" style="text-align:center; background:#f66;"|57%
+| width="" style="text-align:center; background:#00bfff;"|43%
+|-
+! style="text-align:center;" bgcolor=""|25–27 Jul 2008
+| style="text-align:center;" bgcolor=""|47%
+| style="text-align:center;" bgcolor=""|33%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|6%
+| width="" style="text-align:center; background:#f66;"|57%
+| width="" style="text-align:center; background:#00bfff;"|43%
+|-
+!  style="text-align:center; background:#e9e9e9;"|11–13 Jul 2008
+|  style="text-align:center; background:#e9e9e9;"|43%
+|  style="text-align:center; background:#e9e9e9;"|33%
+| width="" style="text-align:center; background:#e9e9e9;"|5%
+| width="" style="text-align:center; background:#e9e9e9;"|11%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+! style="text-align:center;" bgcolor=""|27–29 Jun 2008
+| style="text-align:center;" bgcolor=""|44%
+| style="text-align:center;" bgcolor=""|34%
+| style="text-align:center;" width="" bgcolor=""|5%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|7%
+| width="" style="text-align:center; background:#f66;"|55%
+| width="" style="text-align:center; background:#00bfff;"|45%
+|-
+!  style="text-align:center; background:#e9e9e9;"|13–15 Jun 2008
+|  style="text-align:center; background:#e9e9e9;"|46%
+|  style="text-align:center; background:#e9e9e9;"|29%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|12%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#f66;"|59%
+| width="" style="text-align:center; background:#00bfff;"|41%
+|-
+! style="text-align:center;" bgcolor=""|30 May – 1 Jun 2008
+| style="text-align:center;" bgcolor=""|46%
+| style="text-align:center;" bgcolor=""|33%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|7%
+| width="" style="text-align:center; background:#f66;"|57%
+| width="" style="text-align:center; background:#00bfff;"|43%
+|-
+!  style="text-align:center; background:#e9e9e9;"|16–18 May 2008
+|  style="text-align:center; background:#e9e9e9;"|47%
+|  style="text-align:center; background:#e9e9e9;"|34%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#e9e9e9;"|7%
+| width="" style="text-align:center; background:#f66;"|57%
+| width="" style="text-align:center; background:#00bfff;"|43%
+|-
+! style="text-align:center;" bgcolor=""|2–4 May 2008
+| style="text-align:center;" bgcolor=""|47%
+| style="text-align:center;" bgcolor=""|33%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|9%
+| style="text-align:center;" width="" bgcolor=""|7%
+| width="" style="text-align:center; background:#f66;"|57%
+| width="" style="text-align:center; background:#00bfff;"|43%
+|-
+!  style="text-align:center; background:#e9e9e9;"|18–20 Apr 2008
+|  style="text-align:center; background:#e9e9e9;"|51%
+|  style="text-align:center; background:#e9e9e9;"|30%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|9%
+| width="" style="text-align:center; background:#e9e9e9;"|6%
+| width="" style="text-align:center; background:#f66;"|61%
+| width="" style="text-align:center; background:#00bfff;"|39%
+|-
+! style="text-align:center;" bgcolor=""|4–6 Apr 2008
+| style="text-align:center;" bgcolor=""|48%
+| style="text-align:center;" bgcolor=""|32%
+| style="text-align:center;" width="" bgcolor=""|3%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|7%
+| width="" style="text-align:center; background:#f66;"|59%
+| width="" style="text-align:center; background:#00bfff;"|41%
+|-
+!  style="text-align:center; background:#e9e9e9;"|14–16 Mar 2008
+|  style="text-align:center; background:#e9e9e9;"|47%
+|  style="text-align:center; background:#e9e9e9;"|31%
+| width="" style="text-align:center; background:#e9e9e9;"|4%
+| width="" style="text-align:center; background:#e9e9e9;"|11%
+| width="" style="text-align:center; background:#e9e9e9;"|7%
+| width="" style="text-align:center; background:#f66;"|59%
+| width="" style="text-align:center; background:#00bfff;"|41%
+|-
+! style="text-align:center;" bgcolor=""|29 Feb – 2 Mar 2008
+| style="text-align:center;" bgcolor=""|51%
+| style="text-align:center;" bgcolor=""|28%
+| style="text-align:center;" width="" bgcolor=""|3%
+| style="text-align:center;" width="" bgcolor=""|10%
+| style="text-align:center;" width="" bgcolor=""|8%
+| width="" style="text-align:center; background:#f66;"|63%
+| width="" style="text-align:center; background:#00bfff;"|37%
+|-
+!  style="text-align:center; background:#e9e9e9;"|15–17 Feb 2008
+|  style="text-align:center; background:#e9e9e9;"|46%
+|  style="text-align:center; background:#e9e9e9;"|33%
+| width="" style="text-align:center; background:#e9e9e9;"|3%
+| width="" style="text-align:center; background:#e9e9e9;"|10%
+| width="" style="text-align:center; background:#e9e9e9;"|8%
+| width="" style="text-align:center; background:#f66;"|57%
+| width="" style="text-align:center; background:#00bfff;"|43%
+|-
+! style="text-align:center;" bgcolor=""|18–20 Jan 2008
+| style="text-align:center;" bgcolor=""|46%
+| style="text-align:center;" bgcolor=""|32%
+| style="text-align:center;" width="" bgcolor=""|3%
+| style="text-align:center;" width="" bgcolor=""|12%
+| style="text-align:center;" width="" bgcolor=""|7%
+| width="" style="text-align:center; background:#f66;"|58%
+| width="" style="text-align:center; background:#00bfff;"|42%
+|-
+!  style="text-align:center; background:#b0e9db;"|'''[[Australian federal election, 2007|2007 Election]]'''
+|  style="text-align:center; background:#b0e9db;"|43.4%
+|  style="text-align:center; background:#b0e9db;"|36.6%
+| width="" style="text-align:center; background:#b0e9db;"|5.5%
+| width="" style="text-align:center; background:#b0e9db;"|7.8%
+| width="" style="text-align:center; background:#b0e9db;"|6.7%
+| width="" style="text-align:center; background:#f66;"|52.7%
+| width="" style="text-align:center; background:#00bfff;"|47.3%
+|-
+! style="text-align:center;" bgcolor=""|20–22 Nov 2007
+| style="text-align:center;" bgcolor=""|44%
+| style="text-align:center;" bgcolor=""|39%
+| style="text-align:center;" width="" bgcolor=""|4%
+| style="text-align:center;" width="" bgcolor=""|7%
+| style="text-align:center;" width="" bgcolor=""|6%
+| width="" style="text-align:center; background:#f66;"|52%
+| width="" style="text-align:center; background:#00bfff;"|48%
+|-
+| colspan="11"  style="font-size:80%; background:#cef; text-align:center;"|[http://www.newspoll.com.au/cgi-bin/polling/display_poll_data.pl?url_caller=&mode=trend&page=show_polls&question_set_id=1 Polling] conducted by [[Newspoll]] and published in [[The Australian]].<br />
+|}
+{{-}}
+
+===Leader ratings===
+{{Expand|section|date=July 2010}}
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+|+ '''Better Prime Minister^'''
+|-
+! Date
+! Labor<br />''Gillard''
+! Liberal<br />''Abbott''
+|-
+|-
+! style="text-align:center;" bgcolor="e9e9e9"|16–18 Jul 2010
+|  style="text-align:center; background:#f66;"|57%
+|  style="text-align:center; background:#00bfff;"|27%
+|-
+! style="text-align:center;" bgcolor=""|25–27 Jun 2010
+|  style="text-align:center; background:#f66;"|53%
+|  style="text-align:center; background:#00bfff;"|29%
+|-
+!  style="text-align:center; background:#e9e9e9;"|18–20 Jun 2010
+|  style="text-align:center; background:#f66;"|46%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|37%
+|-
+! style="text-align:center;" bgcolor=""|28–30 May 2010
+|  style="text-align:center; background:#f66;"|49%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|33%
+|-
+!  style="text-align:center; background:#e9e9e9;"|14–16 May 2010
+|  style="text-align:center; background:#f66;"|49%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|33%
+|-
+! style="text-align:center;" bgcolor=""|30 Apr – 2 May 2010
+|  style="text-align:center; background:#f66;"|50%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|32%
+|-
+!  style="text-align:center; background:#e9e9e9;"|16–18 Apr 2010
+|  style="text-align:center; background:#f66;"|56%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|29%
+|-
+! style="text-align:center;" bgcolor=""|26–28 Mar 2010
+|  style="text-align:center; background:#f66;"|59%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|27%
+|-
+!  style="text-align:center; background:#e9e9e9;"|12–14 Mar 2010
+|  style="text-align:center; background:#f66;"|55%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|30%
+|-
+! style="text-align:center;" bgcolor=""|26–28 Feb 2010
+|  style="text-align:center; background:#f66;"|55%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|30%
+|-
+!  style="text-align:center; background:#e9e9e9;"|12–14 Feb 2010
+|  style="text-align:center; background:#f66;"|55%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|27%
+|-
+! style="text-align:center;" bgcolor=""|29–31 Jan 2010
+|  style="text-align:center; background:#f66;"|58%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|26%
+|-
+!  style="text-align:center; background:#e9e9e9;"|15–17 Jan 2010
+|  style="text-align:center; background:#f66;"|57%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|25%
+|-
+! style="text-align:center;" bgcolor=""|4–6 Dec 2009
+|  style="text-align:center; background:#f66;"|60%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|23%
+|-
+!  style="text-align:center; background:#e9e9e9;"|27–29 Nov 2009
+|  style="text-align:center; background:#f66;"|65%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|14%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|13–15 Nov 2009
+|  style="text-align:center; background:#f66;"|63%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|22%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|30 Oct-1 Nov 2009
+|  style="text-align:center; background:#f66;"|63%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|19%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|16–18 Oct 2009
+|  style="text-align:center; background:#f66;"|65%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|19%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|28 Sep-1 Oct 2009
+|  style="text-align:center; background:#f66;"|67%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|18%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|18–20 Sep 2009
+|  style="text-align:center; background:#f66;"|65%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|17%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|4–6 Sep 2009
+|  style="text-align:center; background:#f66;"|67%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|19%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|21–23 Aug 2009
+|  style="text-align:center; background:#f66;"|66%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|19%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|7–9 Aug 2009
+|  style="text-align:center; background:#f66;"|65%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|17%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|24–26 Jul 2009
+|  style="text-align:center; background:#f66;"|66%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|16%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|10–12 Jul 2009
+|  style="text-align:center; background:#f66;"|64%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|19%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|26–28 Jun 2009
+|  style="text-align:center; background:#f66;"|65%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|18%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|12–14 Jun 2009
+|  style="text-align:center; background:#f66;"|57%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|25%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|29–31 May 2009
+|  style="text-align:center; background:#f66;"|57%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|24%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|15–17 May 2009
+|  style="text-align:center; background:#f66;"|58%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|24%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|1–3 May 2009
+|  style="text-align:center; background:#f66;"|64%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|19%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|17–19 Apr 2009
+|  style="text-align:center; background:#f66;"|67%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|19%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|3–5 Apr 2009
+|  style="text-align:center; background:#f66;"|67%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|18%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|20–22 Mar 2009
+|  style="text-align:center; background:#f66;"|65%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|20%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|7–9 Mar 2009
+|  style="text-align:center; background:#f66;"|61%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|21%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|20–22 Feb 2009
+|  style="text-align:center; background:#f66;"|64%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|20%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|6–8 Feb 2009
+|  style="text-align:center; background:#f66;"|62%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|20%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|16–18 Jan 2009
+|  style="text-align:center; background:#f66;"|60%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|22%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|5–7 Dec 2008
+|  style="text-align:center; background:#f66;"|66%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|19%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|21–23 Nov 2008
+|  style="text-align:center; background:#f66;"|63%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|21%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|7–9 Nov 2008
+|  style="text-align:center; background:#f66;"|62%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|22%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|24–26 Oct 2008
+|  style="text-align:center; background:#f66;"|59%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|25%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|10–12 Oct 2008
+|  style="text-align:center; background:#f66;"|54%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|26%<sup>3</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|19–21 Sep 2008
+|  style="text-align:center; background:#f66;"|54%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|24%<sup>3</sup>
+|-
+! style="text-align:center;" bgcolor=""|5–7 Sep 2008
+|  style="text-align:center; background:#f66;"|62%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|16%<sup>2</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|22–24 Aug 2008
+|  style="text-align:center; background:#f66;"|65%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|14%<sup>2</sup>
+|-
+! style="text-align:center;" bgcolor=""|8–10 Aug 2008
+|  style="text-align:center; background:#f66;"|68%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|12%<sup>2</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|25–27 Jul 2008
+|  style="text-align:center; background:#f66;"|66%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|14%<sup>2</sup>
+|-
+! style="text-align:center;" bgcolor=""|11–13 Jul 2008
+|  style="text-align:center; background:#f66;"|65%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|14%<sup>2</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|27–29 Jun 2008
+|  style="text-align:center; background:#f66;"|64%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|15%<sup>2</sup>
+|-
+! style="text-align:center;" bgcolor=""|13–15 Jun 2008
+|  style="text-align:center; background:#f66;"|68%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|13%<sup>2</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|30 May – 1 Jun 2008
+|  style="text-align:center; background:#f66;"|66%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|17%<sup>2</sup>
+|-
+! style="text-align:center;" bgcolor=""|16–18 May 2008
+|  style="text-align:center; background:#f66;"|70%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|12%<sup>2</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|2–4 May 2008
+|  style="text-align:center; background:#f66;"|72%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|9%<sup>2</sup>
+|-
+! style="text-align:center;" bgcolor=""|18–20 Apr 2008
+|  style="text-align:center; background:#f66;"|71%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|10%<sup>2</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|4–6 Apr 2008
+|  style="text-align:center; background:#f66;"|73%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|9%<sup>2</sup>
+|-
+! style="text-align:center;" bgcolor=""|14–16 Mar 2008
+|  style="text-align:center; background:#f66;"|70%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|10%<sup>2</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|29 Feb – 2 Mar 2008
+|  style="text-align:center; background:#f66;"|73%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|7%<sup>2</sup>
+|-
+! style="text-align:center;" bgcolor=""|15–17 Feb 2008
+|  style="text-align:center; background:#f66;"|70%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|9%<sup>2</sup>
+|-
+!  style="text-align:center; background:#e9e9e9;"|18–20 Jan 2008
+|  style="text-align:center; background:#f66;"|68%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|11%<sup>2</sup>
+|-
+! style="text-align:center;" bgcolor=""|30 Nov – 2 Dec 2007
+|  style="text-align:center; background:#f66;"|61%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|14%<sup>2</sup>
+|-
+!  style="text-align:center; background:#b0e9db;"|20–22 Nov 2007
+|  style="text-align:center; background:#f66;"|47%<sup>4</sup>
+|  style="text-align:center; background:#00bfff;"|44%<sup>1</sup>
+|-
+| colspan="3"  style="font-size:80%; background:#cef; text-align:center;"|[http://www.newspoll.com.au/cgi-bin/polling/display_poll_data.pl?url_caller=&mode=trend&page=show_polls&question_set_id=1 Polling] conducted by [[Newspoll]] and published in [[The Australian]].<br />^Remainder were "uncommitted".<br /><sup>1</sup>Howard  <sup>2</sup>Nelson  <sup>3</sup>Turnbull  <sup>4</sup>Rudd  <br />
+|}
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+|+ '''Satisfaction^'''
+|-
+!  
+!  style="background:#; text-align:center;" colspan="2"|''Gillard''
+!  style="background:#; text-align:center;" colspan="2"|''Abbott''
+|-
+!  Date
+!  Satisfied
+!  Dissatisfied
+!  Satisfied
+!  Dissatisfied
+|-
+|-
+! style="text-align:center;|16–18 Jul 2010
+|  style="text-align:center; |48%
+|  style="text-align:center; |29%
+|  style="text-align:center; |36%
+|  style="text-align:center; |51%
+|-
+! style="text-align:center;|25–27 Jun 2010
+|  style="text-align:center; |N/A (new)
+|  style="text-align:center; |N/A (new)
+|  style="text-align:center; |42%
+|  style="text-align:center; |41%
+|-
+!  style="text-align:center; |18–20 Jun 2010
+|  style="text-align:center; |36%<sup>4</sup>
+|  style="text-align:center; |55%<sup>4</sup>
+|  style="text-align:center; |38%
+|  style="text-align:center; |49%
+|-
+!  style="text-align:center;  |28–30 May 2010
+|  style="text-align:center; |36%<sup>4</sup>
+|  style="text-align:center; |54%<sup>4</sup>
+|  style="text-align:center; |37%
+|  style="text-align:center; |49%
+|-
+!  style="text-align:center; |14–16 May 2010
+|  style="text-align:center; |39%<sup>4</sup>
+|  style="text-align:center; |51%<sup>4</sup>
+|  style="text-align:center; |42%
+|  style="text-align:center; |45%
+|-
+!  style="text-align:center; |30 Apr – 2 May 2010
+|  style="text-align:center; |39%<sup>4</sup>
+|  style="text-align:center; |50%<sup>4</sup>
+|  style="text-align:center; |45%
+|  style="text-align:center; |43%
+|-
+!  style="text-align:center; |16–18 Apr 2010
+|  style="text-align:center; |50%<sup>4</sup>
+|  style="text-align:center; |41%<sup>4</sup>
+|  style="text-align:center; |46%
+|  style="text-align:center; |40%
+|-
+!  style="text-align:center; |26–28 Mar 2010
+|  style="text-align:center; |51%<sup>4</sup>
+|  style="text-align:center; |39%<sup>4</sup>
+|  style="text-align:center; |44%
+|  style="text-align:center; |43%
+|-
+!  style="text-align:center; |12–14 Mar 2010
+|  style="text-align:center; |48%<sup>4</sup>
+|  style="text-align:center; |41%<sup>4</sup>
+|  style="text-align:center; |47%
+|  style="text-align:center; |38%
+|-
+!  style="text-align:center; |26–28 Feb 2010
+|  style="text-align:center; |51%<sup>4</sup>
+|  style="text-align:center; |40%<sup>4</sup>
+|  style="text-align:center; |48%
+|  style="text-align:center; |38%
+|-
+!  style="text-align:center; |12–14 Feb 2010
+|  style="text-align:center; |50%<sup>4</sup>
+|  style="text-align:center; |40%<sup>4</sup>
+|  style="text-align:center; |44%
+|  style="text-align:center; |37%
+|-
+!  style="text-align:center; |29–31 Jan 2010
+|  style="text-align:center; |50%<sup>4</sup>
+|  style="text-align:center; |38%<sup>4</sup>
+|  style="text-align:center; |41%
+|  style="text-align:center; |39%
+|-
+!  style="text-align:center; |15–17 Jan 2010
+|  style="text-align:center; |52%<sup>4</sup>
+|  style="text-align:center; |34%<sup>4</sup>
+|  style="text-align:center; |40%
+|  style="text-align:center; |35%
+|-
+!  style="text-align:center; |4–6 Dec 2009
+|  style="text-align:center; |58%<sup>4</sup>
+|  style="text-align:center; |32%<sup>4</sup>
+|  style="text-align:center; |N/A (new)
+|  style="text-align:center; |N/A (new)
+|-
+!  style="text-align:center; |27–29 Nov 2009
+|  style="text-align:center; |56%<sup>4</sup>
+|  style="text-align:center; |34%<sup>4</sup>
+|  style="text-align:center; |36%<sup>3</sup>
+|  style="text-align:center; |50%<sup>3</sup>
+|-
+!  style="text-align:center; |13–15 Nov 2009
+|  style="text-align:center; |56%<sup>4</sup>
+|  style="text-align:center; |34%<sup>4</sup>
+|  style="text-align:center; |34%<sup>3</sup>
+|  style="text-align:center; |50%<sup>3</sup>
+|-
+!  style="text-align:center; |30 Oct – 1 Nov 2009
+|  style="text-align:center; |59%<sup>4</sup>
+|  style="text-align:center; |32%<sup>4</sup>
+|  style="text-align:center; |32%<sup>3</sup>
+|  style="text-align:center; |51%<sup>3</sup>
+|-
+!  style="text-align:center; |16–18 Oct 2009
+|  style="text-align:center; |63%<sup>4</sup>
+|  style="text-align:center; |28%<sup>4</sup>
+|  style="text-align:center; |32%<sup>3</sup>
+|  style="text-align:center; |54%<sup>3</sup>
+|-
+!  style="text-align:center; |28 Sep – 1 Oct 2009
+|  style="text-align:center; |67%<sup>4</sup>
+|  style="text-align:center; |21%<sup>4</sup>
+|  style="text-align:center; |33%<sup>3</sup>
+|  style="text-align:center; |48%<sup>3</sup>
+|-
+| colspan="5"  style="font-size:80%; background:#cef; text-align:center;"|[http://www.newspoll.com.au/cgi-bin/polling/display_poll_data.pl?url_caller=&mode=trend&page=show_polls&question_set_id=1 Polling] conducted by [[Newspoll]] and published in [[The Australian]].<br />^Remainder were "uncommitted".<br /><sup>3</sup>Turnbull  <sup>4</sup>Rudd
+|}
+{{-}}
+
+==Roy Morgan==
+{{Expand|section|date=July 2010}}
+
+==Essential Research==
+{{Expand|section|date=July 2010}}
+
+==ACNeilsen==
+{{Expand|section|date=July 2010}}
+
+==Galaxy==
+{{Expand|section|date=July 2010}}

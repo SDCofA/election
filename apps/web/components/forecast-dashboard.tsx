@@ -751,6 +751,15 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
                   <p>Values are incumbent vote-share shifts, in percentage points—not win-probability claims.</p>
                 </div>
               )}
+              {forecast.driver_sensitivity.length === 0 && (
+                <div className="sensitivity-wrap" role="note">
+                  <div className="sensitivity-title">
+                    <b>NO CAUSAL DRIVER COEFFICIENTS ACTIVE</b>
+                    <small>Context signals do not move this forecast</small>
+                  </div>
+                  <p>Country-specific effects require dated inputs and successful walk-forward validation before activation.</p>
+                </div>
+              )}
             </article>
           </div>
           <article className="panel comparison-panel" aria-labelledby="model-comparison-heading">

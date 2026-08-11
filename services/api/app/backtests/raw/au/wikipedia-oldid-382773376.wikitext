@@ -1,0 +1,969 @@
+{{Infobox election
+| election_name   =  Australian federal election, 2010
+| country         = Australia 
+| type            = parliamentary
+| ongoing         = yes
+| previous_election =  Australian federal election, 2007
+| previous_year   = 2007
+| next_election   = 
+| next_year       = 
+| seats_for_election = All 150 seats in the [[Australian House of Representatives]] <br> and 40 (of the 76) seats in the [[Australian Senate]]
+| election_date   =  {{Start date|df=yes|2010|8|21}}
+<!-- Labor -->
+| image1 = [[File:Julia Gillard 2010 crop.jpg|150px]]
+| leader1 = [[Julia Gillard]]
+| leader_since1 = {{start date|df=yes|2010|6|24}}
+| party1 = Australian Labor Party
+| leaders_seat1 = [[Division of Lalor|Lalor]]
+| popular_vote1 =
+| percentage1 = <!-- PLEASE NOTE!  Leaving out until results are final, 2PP already in results table. -->
+| swing1 = 
+| last_election1 = 83 seats
+| seats_needed1   = 0
+| seats1 = 72
+| seat_change1 = {{decrease}}11
+<!-- Liberal/ National Coalition -->
+| image2 = [[File:Tony Abbott - 2010.jpg|138px]]
+| leader2 = [[Tony Abbott]]
+| leader_since2 = {{start date|df=yes|2009|12|1}}
+| party2 = Liberal/National coalition
+| leaders_seat2 = [[Division of Warringah|Warringah]] 
+| popular_vote2 =
+| percentage2 = <!-- PLEASE NOTE!  Leaving out until results are final, 2PP already in results table. -->
+| swing2 = 
+| last_election2 = 65 seats
+| seats_needed2 = 17
+| seats2 =  72<!-- The Coalition won 72, not 73 seats. Read the article and references. -->
+| seat_change2 = {{increase}}7
+| title = [[Prime Minister of Australia|Prime Minister]]
+| posttitle = &nbsp;
+| before_election = [[Julia Gillard]]
+| before_party = Labor 
+| after_election = &nbsp;
+| after_party = 
+| map_image       = 
+| map_size        = 
+| map_caption     =
+}}
+
+A '''federal election''' was held on Saturday, 21 August 2010 for members of the 43rd [[Parliament of Australia]]. The [[Opposition (Australia)|opposition]] [[centre-right]] [[Liberal Party of Australia|Liberal]]/[[National Party of Australia|National]] [[Coalition (Australia)|Coalition]] led by [[List of Australian Leaders of the Opposition|Opposition Leader]] [[Tony Abbott]] was the main challenger to the incumbent [[centre-left]] [[Australian Labor Party]] led by [[Prime Minister of Australia|Prime Minister]] [[Julia Gillard]].
+
+Labor and the Coalition each won 72 seats<!-- The Coalition won 72, not 73 seats. Read the article and references. --> in the 150-seat [[Australian House of Representatives|House of Representatives]],<ref name=72all>{{cite web|url=http://www.smh.com.au/federal-election/72-all--brisbane-to-coalition-and-corangamite-to-alp-20100827-13w1r.html |title=72 all - Brisbane to Coalition and Corangamite to ALP: SMH 28 August 2010 |publisher=Smh.com.au |date=2010-08-13 |accessdate=2010-08-30}}</ref> four short of the requirement for [[majority government]], resulting in the first [[hung parliament]] since the [[Australian federal election, 1940|1940 election]].<ref name=hung>[http://www.abc.net.au/news/stories/2010/08/21/2989767.htm "Voters leave Australia hanging]" ''ABC News'', 21 August 2010</ref><ref>[http://www.bbc.co.uk/news/world-asia-pacific-11037486 "Australia count begins after tight election race"], ''BBC News'', 21 August 2010</ref> Both major party leaders are seeking to form a [[minority government]].<ref name="bbc">{{cite news|url=http://www.bbc.co.uk/news/world-asia-pacific-11048968|title=Australia heads for hung parliament|date=21 August 2010|work=[[BBC News]]|publisher=[[British Broadcasting Corporation]]|accessdate=21 August 2010}}</ref><ref>[http://www.abc.net.au/news/stories/2010/08/26/2994071.htm Where it's at: Independents' seven key demands - ABC News]</ref><ref>[http://www.abc.net.au/news/stories/2010/09/03/3002314.htm Independents stand firm in face of fear campaign: ABC News 3 September 2010]</ref><ref>[http://www.theaustralian.com.au/news/opinion/labor-ahead-in-strategic-power-game/story-e6frg6zo-1225914014166 Labor ahead in strategic power game: The Australian 4 September 2010]</ref><ref>[http://www.news.com.au/features/federal-election/independents-accuse-coalition-of-dirty-tricks/story-e6frfllr-1225914066222 Coalition accused of dirty tricks campaign: NEWS.com.au 4 September 2010]</ref><ref>[http://www.smh.com.au/opinion/editorial/the-choice-for-the-independents-is-now-clearer-20100903-14uhi.html The choice for the independents is now clearer: SMH 4 September 2010]</ref>
+
+On the [[Crossbencher|crossbench]], four [[Independent (politics)|independent]] members, one member of the [[National Party of Western Australia]] and one member of the [[Australian Greens]] hold the [[Balance of power (parliament)|balance of power]].<ref>[http://www.smh.com.au/federal-election/climate/its-good-to-be-greens-as-balance-of-power-tipped-20100717-10f4t.html Stephanie Peatling and Heath Aston:''It's good to be Greens, as balance of power tipped'', in SMH, July 18, 2010]. Retrieved 19 August 2010.</ref><ref>[http://www.theaustralian.com.au/national-affairs/greens-set-to-grab-balance-of-power/story-fn59niix-1225893667815 Sid Maher: ''Greens set to grab balance of power'' in The Australian, July 18, 2010]. Retrieved 19 August 2010.</ref> At present, the Greens and an independent have declared support for Labor on [[confidence and supply]] votes.<ref>[http://www.smh.com.au/opinion/politics/abbott-digs-himself-a-hole-20100902-14rjp.html Abbott's Costings Blow Out | Wilkie Sides With Labor: SMH 3 September 2010]</ref>
+
+In the [[Australian Senate|Senate]], the Greens are expected to gain the balance of power on 1 July 2011 after a projected one seat win in each state.<ref>{{cite web|url=http://www.smh.com.au/federal-election/greens-win-seats-in-every-state-20100822-13b38.html |title=Greens win seats in every state: SMH 23 August 2010 |publisher=Smh.com.au |date=2010-08-23 |accessdate=2010-08-27}}</ref><ref>{{cite web|author=Aron Paul |url=http://www.abc.net.au/unleashed/stories/s2993914.htm |title=The Green Tide: ABC 26 August 2010 |publisher=Abc.net.au |date= |accessdate=2010-08-27}}</ref>
+
+More than 14 million Australians were enrolled to vote at the time of the election.<ref name="AEC1">{{cite web|title=Virtual Tally Room|url=http://vtr.aec.gov.au/HouseStateFirstPrefsByParty-15508-NAT.htm|work=First Preference by Party|publisher=Australian Electoral Commission|accessdate=21 August 2010}}</ref> Australia has [[compulsory voting]] (since [[Australian federal election, 1925|1925]]) and uses [[instant-runoff voting|preferential ballot]] (since [[Australian federal election, 1919|1919]]) in [[Single-winner voting system|single-member seats]] for the House of Representatives and [[single transferable vote]] (since [[Australian federal election, 1949|1949]]) with optional [[group voting ticket]]s (since [[Australian federal election, 1984|1984]]) in the [[proportional representation|proportionally represented]] Senate. The election was conducted by the [[Australian Electoral Commission]] (AEC).
+
+==Results==
+===Lower house===
+{{main|Full national and state-by-state lower house results and maps for the 2010 Australian federal election}}
+{{seealso|Post-election pendulum for the Australian federal election, 2010}}
+Vote percentages shown below are progressively updated using AEC statistics.<ref>{{cite web|url=http://vtr.aec.gov.au/HouseStateFirstPrefsByParty-15508-NAT.htm |title=2010 election lower house vote results: AEC |publisher=Vtr.aec.gov.au |date= |accessdate=2010-08-26}}</ref> No seats remain in doubt.<ref>{{cite web|url=http://vtr.aec.gov.au/HousePartyRepresentation-15508.htm |title=2010 election lower house seat results: AEC |publisher=Vtr.aec.gov.au |date= |accessdate=2010-08-27}} Note: [[Tony Crook (politician)|Tony Crook]] and the [[National Party of Western Australia|WA Nationals]] are not part of the Coalition, therefore their figure has been separated out of the Coalition totals.</ref><ref name=72all />
+
+<!-- PLEASE NOTE!  Counts are based on AEC results as referenced above. -->
+{| class="wikitable"
+|+'''House of Reps ([[Instant-runoff voting|IRV]]) — Counted 91.5% ([[Compulsory voting|CV]]) — [[Spoiled vote|Informal]] 5.5%'''
+! style="width:20px" | &nbsp;
+! style="width:220px" | '''Party'''
+!  style="width:70px; text-align:center;"| '''Votes'''
+!  style="width:40px; text-align:center;"| '''%'''
+!  style="width:40px; text-align:center;"| '''Swing'''
+!  style="width:40px; text-align:center;"| '''Seats'''
+!  style="width:40px; text-align:center;"| '''Change'''
+|-
+| {{Australian politics/party colours/Labor}} | &nbsp;
+| [[Australian Labor Party]]
+| align=right| 
+| align=right| 38.0
+| align=right| &minus;5.4
+| align=right| 72
+| align=right| &minus;11
+|-
+| {{Australian politics/party colours/Liberal}} | &nbsp;
+| [[Liberal Party of Australia]]
+| align=right| 
+| align=right| 30.5
+| align=right| +0.8
+| align=right| 44
+| align=right| &minus;11
+|-
+| {{Australian politics/party colours/Greens}} | &nbsp;
+| [[Australian Greens]]
+| align=right| 
+| align=right| 11.7
+| align=right| +3.9
+| align=right| 1
+| align=right| +1
+|-
+| {{Australian politics/party colours/LNP}} | &nbsp;
+| [[Liberal National Party of Queensland|Liberal National Party (QLD)]]
+| align=right| 
+| align=right| 9.2
+| align=right| +0.7
+| align=right| 21
+| align=right| +21
+|-
+| {{Australian politics/party colours/Nationals}} | &nbsp;
+| [[National Party of Australia]]
+| align=right| 
+| align=right| 3.4
+| align=right| +0.2
+| align=right| 6
+| align=right| &minus;4
+|-
+| {{Australian politics/party colours/Nationals}} | &nbsp;
+| [[National Party of Western Australia|National Party (WA)]]
+| align=right| 
+| align=right| 0.3
+| align=right| +0.2
+| align=right| 1
+| align=right| +1
+|-
+| {{Australian politics/party colours/CLP}} | &nbsp;
+| [[Country Liberal Party|Country Liberal Party (NT)]]
+| align=right| 
+| align=right| 0.3
+| align=right| +0.0
+| align=right| 1
+| align=right| +1
+|-
+| style="background:gray;"| &nbsp;
+| Independents
+| align=right| 
+| align=right| 2.5
+| align=right| +0.3
+| align=right| 4
+| align=right| +2
+|-
+| style="background:gray;"| &nbsp;
+| Other
+| align=right| 
+| align=right| 4.1
+| align=right| 
+| align=right| 0
+| align=right| 0
+|-
+| &nbsp;
+| Total
+| align=right| 
+| align=right| &nbsp;
+| align=right| &nbsp;
+| align=right| '''150'''
+| align=right| 
+|-
+| colspan="7"  style="text-align:center; background:#ccc;"| '''[[Two-party-preferred vote]] (see note below)'''
+|-
+| {{Australian politics/party colours/Liberal}} | &nbsp;
+| [[Coalition (Australia)|Liberal/National Coalition]]
+| align=right| &nbsp;
+| align=right| 50.0
+| align=right| +2.7
+| align=right| 72<!-- The Coalition won 72, not 73 seats. Read the article and references. -->
+| align=right| +7 
+|-  
+| {{Australian politics/party colours/Labor}} | &nbsp;
+| [[Australian Labor Party]]
+| align=center| 
+| align=right| 50.0
+| align=right| &minus;2.7
+| align=right| 72
+| align=right| &minus;11 
+|}
+{{wikinews|Australian federal election 2010: Parliament hung}}
+
+Note: The two-party-preferred (TPP) percentage point totals do not currently include votes from the "non-classic" electorates (seats that did not return a two-party result) of [[Division of Batman|Batman]], [[Division of Denison|Denison]], [[Division of Grayndler|Grayndler]], [[Division of Kennedy|Kennedy]], [[Division of Lyne|Lyne]], [[Division of Melbourne|Melbourne]], [[Division of New England|New England]] or [[Division of O'Connor|O'Connor]], which were removed by the AEC during the counting process.<ref>{{cite web|url=http://www.aec.gov.au/election/vtr.htm |title=Important information to help you understand results set out in the Virtual Tally Room: AEC website |publisher=Aec.gov.au |date=2010-08-23 |accessdate=2010-08-30}}</ref><ref>{{cite web|url=http://vtr.aec.gov.au/HouseNonClassicDivisions-15508-NAT.htm |title=Non-classic Divisions: AEC website |publisher=Vtr.aec.gov.au |date= |accessdate=2010-08-30}}</ref> [[Australian Broadcasting Corporation|ABC]] [[psephologist]] [[Antony Green]] has described the interim TPP results as "meaningless" and "expects the final ALP count to be relatively higher".<ref>{{cite web|url=http://blogs.abc.net.au/antonygreen/2010/08/who-won-the-national-2-party-preferred-vote.html |title=Who Won the National 2-Party Preferred Vote? |publisher=Blogs.abc.net.au |date= |accessdate=2010-09-01}}</ref><ref>[http://www.theage.com.au/opinion/politics/labor-should-win-twoparty-seesaw-20100831-14fkl.html Labor should win two-party seesaw: The Age 1 September 2010]</ref>
+
+Labor and the Coalition won 72 seats each, four short of the requirement for majority government. On the crossbench, four independent members, one member of the [[National Party of Western Australia]] and one member of the [[Australian Greens]] hold the balance of power in the hung parliament. Both major party leaders are seeking to form a minority government.
+
+On the crossbench:
+
+*All three incumbent independents – [[Bob Katter]], [[Tony Windsor]] and [[Rob Oakeshott]] – were re-elected.<ref>{{cite news|url=http://www.smh.com.au/federal-election/powers-in-balance-after-rise-of-the-crossbenchers-20100821-13a42.html?rand=1282402988738|title=Power’s in balance after rise of the crossbenchers|last=Coorey|first=Phillip|date=22 August 2010|work=[[Sydney Morning Herald]]|publisher=[[Fairfax Media]]|accessdate=21 August 2010}}</ref><ref name="bbc"/> Both Katter and Windsor were successful at previous elections, while Oakeshott was elected at the [[Lyne by-election, 2008|2008 Lyne by-election]]. All are former members of the [[National Party of Australia|National Party]], the minor party in the Coalition.<ref>{{cite web|author=" + updated + " |url=http://www.abc.net.au/news/stories/2010/08/26/2994019.htm |title=The importance of family values: ABC 26 August 2010 |publisher=Abc.net.au |date= |accessdate=2010-08-27}}</ref> However, all three have said they are open to negotiating with either side to form government. They will discuss as a bloc but vote individually.<ref>{{cite news|url=http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/7957876/Australian-election-delivers-hung-parliament.html|title=Australian election delivers hung parliament|date=21 August 2010|work=telegraph.co.uk|publisher=The Daily Telegraph|accessdate=21 August 2010}}</ref><ref>{{cite web|url=http://www.smh.com.au/federal-election/independents-could-go-separate-ways-20100828-13wxs.html |title=Independents could go separate ways: SMH 29 August 2010 |publisher=Smh.com.au |date=2010-08-13 |accessdate=2010-08-30}}</ref>
+*[[Andrew Wilkie]], a former Greens candidate and now independent, was elected. On 2 September 2010, he declared his support for Labor on confidence and supply.<ref>{{cite news|url=http://www.smh.com.au/federal-election/wilkie-supports-labor-20100902-14qyq.html|title=Wilkie supports Labor|date=2 September 2010|work=[[Sydney Morning Herald]]|accessdate=2 September 2010}}</ref>
+*[[Adam Bandt]] won the first seat for the Greens at a general election in the seat of [[Division of Melbourne|Melbourne]]. He had previously announced he would align with Labor in the event of a hung parliament.<ref>{{cite news|url=http://www.smh.com.au/federal-election/bandt-says-he-will-side-with-labor-20100814-12482.html|title=Bandt says he will 'side with Labor'|last=Gordon|first=Josh|date=15 August 2010|work=smh.com.au|accessdate=23 August 2010}}</ref> On 1 September the Greens declared their support for Labor on confidence and supply.<ref name="greenlaboragreement">[http://www.abc.net.au/news/stories/2010/09/01/2999219.htm Emma Rodgers: ''Greens sign deal to back Labor'', ABC News, September 1, 2010]. Retrieved September 1, 2010.</ref><ref>{{cite web|url=http://greens.org.au/greens_labor_deal|title=Greens and labor committ to agreement for stable government|publisher=The Australian Greens|date=2010-09-01 |accessdate=2010-09-02}}</ref>
+*[[Tony Crook (politician)|Tony Crook]] won the seat of [[Division of O'Connor|O'Connor]] for the [[National Party of Western Australia]], defeating [[Liberal Party of Australia|Liberal Party]] incumbent [[Wilson Tuckey]]. While the AEC and the ABC class Crook as a member of the Coalition and include him in their Coalition totals, there is dispute over the classification.<ref>{{cite news|url=http://blogs.abc.net.au/antonygreen/2010/08/is-tony-crook-new-nationals-mp-for-oconnor-a-member-of-the-coalition.html|title=Is Tony Crook, new Nationals MP for O'Connor, a member of the Coalition?|last=Green|first=Antony|date=25 August 2010|work=ABC News|accessdate=25 August 2010}}</ref> Crook says, "In every news report and press report we see, my number is being allocated in with the Coalition and it shouldn't be".<ref>{{cite web|url=http://www.theage.com.au/federal-election/dont-count-me-among-coalition-says-nat-20100825-13s76.html |title=Don't count me among Coalition, says Nat: The Age 26 August 2010 |publisher=Theage.com.au |date= |accessdate=2010-08-27}}</ref> There is no federal Coalition agreement in [[Western Australia]]; Crook has stated he is a crossbencher, and he and the WA Nationals are open to negotiating with either side to form government.<ref>{{cite news|url=http://www.theaustralian.com.au/national-affairs/tony-crook-will-stand-by-demands/story-fn59niix-1225909097036|title=Tony Crook will stand by demands|last=O'Brien|first=Amanda|date=24 August 2010|work=The Australian|accessdate=24 August 2010}}</ref><ref>{{cite news|url=http://www.theage.com.au/federal-election/ill-go-it-alone-warns-crook-20100823-13ilr.html|title=I'll go it alone, warns Crook|last=Ker|first=Peter|date=24 August 2010|work=The Age|accessdate=24 August 2010}}</ref><ref>{{cite news|url=http://www.abc.net.au/7.30/content/2010/s2991225.htm|title=Hanging In The Balance|last=O'Brien|first=Kerry|date=25 August 2010|work=ABC News interview, The 7:30 Report|accessdate=25 August 2010}}</ref> He did attend the National Party's first post-election meeting in Canberra on 30 August 2010.<ref>{{cite web|url=http://www.theaustralian.com.au/national-affairs/lets-work-together-truss-tells-katter/story-fn59niix-1225912010070 |title=The Australian, 30 August 2010 |publisher=Theaustralian.com.au |date= |accessdate=2010-08-30}}</ref>
+
+====Seats changing hands====
+Members in ''italics'' did not re-contest their seat at this election. Five notional boundary redistributed seats were contested at this election. Based on booths contested at the previous election, the seats redistributed by the AEC from being marginal Coalition seats to marginal Labor seats – [[Division of Dickson|Dickson]], [[Division of Gilmore|Gilmore]], [[Division of Herbert|Herbert]], [[Division of Macarthur|Macarthur]] and [[Division of Swan|Swan]] – were all retained by the Coalition. Margins will be added only after counting has finished.
+{|class="wikitable"
+|-
+| rowspan="2" style="text-align:center"| '''Seat'''
+| colspan="4" style="text-align:center"| '''Pre-2010'''
+| rowspan="2" style="text-align:center"| '''Swing'''
+| colspan="4" style="text-align:center"| '''Post-2010'''
+|-
+| colspan="2" style="text-align:center"| '''Party'''
+| style="text-align:center"| '''Member'''
+| style="text-align:center"| '''Margin %'''
+| style="text-align:center"| '''Margin %'''
+| style="text-align:center"| '''Likely member'''
+| colspan="2" style="text-align:center"| '''Party'''
+|-
+| [[Division of Bennelong|Bennelong, NSW]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Maxine McKew]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[John Alexander (tennis)|John Alexander]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Bonner|Bonner, Qld]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Kerry Rea]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Ross Vasta]]
+| LNP
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Brisbane|Brisbane, Qld]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Arch Bevis]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Teresa Gambaro]]
+| LNP
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Dawson|Dawson, Qld]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| ''[[James Bidgood]]''
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[George Christensen (politician)|George Christensen]]
+| LNP
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Denison|Denison, Tas]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| ''[[Duncan Kerr]]''
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Andrew Wilkie]]
+| Independent
+| {{Australian politics/party colours/Independent}}|&nbsp;
+|-
+| [[Division of Flynn|Flynn, Qld]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Chris Trevor]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Ken O'Dowd]]
+| LNP
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Forde|Forde, Qld]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Brett Raguse]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Bert Van Manen]]
+| LNP
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Hasluck|Hasluck, WA]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Sharryn Jackson]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Ken Wyatt]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of La Trobe|La Trobe, Vic]]
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+| Liberal
+| [[Jason Wood (politician)|Jason Wood]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Laura Smyth]]
+| Labor
+| {{Australian politics/party colours/Labor}}|&nbsp;
+|-
+| [[Division of Leichhardt|Leichhardt, Qld]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Jim Turnour]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Warren Entsch]]
+| LNP
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Longman|Longman, Qld]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Jon Sullivan]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Wyatt Roy]]
+| LNP
+| {{Australian politics/party colours/Liberal National}}|&nbsp;
+|-
+| [[Division of Macquarie|Macquarie, NSW]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| ''[[Bob Debus]]''
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Louise Markus]]
+| Liberal
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+|-
+| [[Division of Melbourne|Melbourne, Vic]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| ''[[Lindsay Tanner]]''
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Adam Bandt]]
+| Greens
+| {{Australian politics/party colours/Australian Greens}}|&nbsp;
+|-
+| [[Division of McEwen|McEwen, Vic]]
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+| Liberal
+| ''[[Fran Bailey]]''
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Rob Mitchell (Victorian politician)|Rob Mitchell]]
+| Labor
+| {{Australian politics/party colours/Labor}}|&nbsp;
+|-
+| [[Division of O'Connor|O'Connor, WA]]
+| {{Australian politics/party colours/Liberal}}|&nbsp;
+| Liberal
+| [[Wilson Tuckey]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Tony Crook (politician)|Tony Crook]]
+| WA National
+| {{Australian politics/party colours/Nationals}}|&nbsp;
+|-
+| [[Division of Solomon|Solomon, NT]]
+| {{Australian politics/party colours/Labor}}|&nbsp;
+| Labor
+| [[Damian Hale]]
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| style="text-align:right;"| 0.00
+| [[Natasha Griggs]]
+| CLP
+| {{Australian politics/party colours/CLP}}|&nbsp;
+|}
+
+===Upper house===
+Of a total 76 seats in the Senate, 39 is required to form a majority. 40 seats were up for election. The terms of new senators commence on 1 July 2011, except for the four senators from the territories, whose terms commence from election day.
+
+Votes are progressively updated using AEC statistics.<ref name=AECupper>{{cite web|url=http://vtr.aec.gov.au/SenateStateFirstPrefsByGroup-15508-NAT.htm |title=2010 election upper house results: AEC |publisher=Vtr.aec.gov.au |date= |accessdate=2010-08-23}}</ref> The following "provisional" seat numbers are from the ABC.<ref name=ABCupper>{{cite web|url=http://www.abc.net.au/elections/federal/2010/guide/senate-results.htm |title=2010 federal election upper house seat numbers |publisher=ABC |date=2010-07-29 |accessdate=2010-08-26}}</ref>
+
+{|  class="wikitable"
+|+'''Senate ([[Single Transferable Vote|STV]] [[Group voting ticket|GV]]) — Counted 86.3% ([[Compulsory voting|CV]]) — [[Spoiled vote|Informal]] 4.1%'''
+! style="width:20px" | &nbsp; 
+! style="width:190px" | '''Party'''
+!  style="width:70px; text-align:center;"| '''Votes'''
+!  style="width:40px; text-align:center;"| '''%'''
+!  style="width:40px; text-align:center;"| '''Swing'''
+!  style="width:40px; text-align:center;"| '''Seats won'''
+!  style="width:40px; text-align:center;"| '''Total seats'''
+!  style="width:40px; text-align:center;"| '''Change'''
+|- 
+| {{Australian politics/party colours/Liberal}}| &nbsp; 
+| [[Coalition (Australia)|Liberal/National Coalition]]
+| align=right| 
+| align=right| 38.4
+| align=right| –1.5
+| align=right| 17
+| align=right| 33
+| align=right| –4
+|-
+| {{Australian politics/party colours/Labor}}| &nbsp; 
+| [[Australian Labor Party]] 
+| align=right| 
+| align=right| 35.4
+| align=right| –4.9
+| align=right| 15
+| align=right| 31
+| align=right| –1
+|-
+| {{Australian politics/party colours/Greens}}| &nbsp; 
+| [[Australian Greens]]
+| align=right| 
+| align=right| 12.9
+| align=right| +3.8
+| align=right| 6
+| align=right| 9
+| align=right| +4
+|-
+| {{Australian politics/party colours/Family First}}| &nbsp; 
+| [[Family First Party]]
+| align=right| 
+| align=right| 2.1
+| align=right| +0.5
+| align=right| 1
+| align=right| 1
+| align=right| 0
+|-
+| {{Australian politics/party colours/Democratic Labor}} | &nbsp; 
+| [[Democratic Labor Party]]
+| align=right| 
+| align=right| 1.1
+| align=right| +0.1
+| align=right| 1
+| align=right| 1
+| align=right| +1
+|-
+| style="background:gray;"| &nbsp; 
+| Independents
+| align=right| 
+| align=right| 0.5
+| align=right| –0.9
+| align=right| 0
+| align=right| 1
+| align=right| 0
+|-
+| style="background:gray;"| &nbsp; 
+| Other
+| align=right| 
+| align=right| 9.7
+| align=right| 
+| align=right| 0
+| align=right| 0
+| align=right| 0
+|-
+| &nbsp;
+| Total
+| align=right| 
+| align=right| &nbsp;
+| align=right| &nbsp;
+| align=right| 40
+| align=right| 76
+|}
+
+Both [[Australian Labor Party|Labor]] and the [[Coalition (Australia)|Coalition]] suffered a swing against them in votes and seats. Of the smaller parties, the [[Australian Greens]] are projected to win a seat in every state after receiving a large amount of the swing, and in doing so gaining the sole [[Balance of power (parliament)|balance of power]]. Current "provisional" projections indicate that of the [[Family First Party]], they will lose [[Steve Fielding]] ([[Victoria, Australia|Victoria]]) but that [[Bob Day]] ([[South Australia]]) will win. Of the [[Democratic Labor Party|Democratic Labor Party]], [[John Madigan (Australian politician)|John Madigan]] (Victoria) is also projected to win. Incumbent independent [[Nick Xenophon]] will be up for re-election at the next election. Other minor parties to receive a noteable swing include the [[Australian Sex Party]] (+2.0), the [[Liberal Democratic Party (Australia)|Liberal Democratic Party]] (+1.6), and the [[Shooters Party]] (+1.3).<ref name=AECupper /><ref name=ABCupper />
+
+==Background==
+===Key dates===
+* Announcement of election: Saturday 17 July<ref name="aecpress">[http://www.aec.gov.au/About_AEC/Media_releases/e2010/17-07.htm 8pm Monday is the deadline to get on the electoral roll for the 2010 federal election], Australian Electoral Commission, 17 July 2010 AEST.</ref>
+* Prorogation of 42nd Parliament: 4.59 p.m., Monday 19 July AEST<ref name="gngs136">[http://www.ag.gov.au/portal/govgazonline.nsf/BDAB2EF3C2B1AC18CA25776500108B46/$file/S%20136.pdf Special Gazette No. S136], Commonwealth of Australia, 19 July 2010.</ref>
+* Dissolution of House of Representatives: 5 p.m., Monday 19 July AEST<ref name="gngs136" />
+* Issue of [[writ of election|electoral]] [[writ]]s: Monday 19 July<ref name="gngs139">[http://www.ag.gov.au/portal/govgazonline.nsf/427AC5068B98C314CA257766000489F7/$file/S%20139.pdf Special Gazette No. S139], Commonwealth of Australia, 20 July 2010.</ref>
+* Close of [[Electoral roll|rolls]] (if not currently on roll): 8 p.m., Monday 19 July AEST<ref name="aecpress" /><ref group="nb" name="hca">On 6 August 2010, the [[High Court of Australia]] ruled in the case ''[[Rowe v Electoral Commissioner]]'' that certain provisions of the Commonwealth Electoral Act 1918 were invalid, specifically those introduced in the Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006, which closed the electoral roll on the day the writ for a federal election is issued. An estimated 100,000 enrolments were reconsidered by the Australian Electoral Commission, which contacted applicants to inform them they would be eligible to vote in this election.</ref>
+* Close of rolls (if currently on roll and updating details): 8 p.m., Thursday 22 July AEST<ref name="aecpress" /><ref group="nb" name="hca" />
+* Close of nominations: 12 noon, Thursday 29 July AEST<ref name="aecpress" />
+* Declaration of nominations: 12 noon, Friday 30 July AEST<ref name="aecpress" />
+* Polling day: Saturday 21 August<ref name="aecpress" />
+* Return of writs (latest date): Wednesday 27 October<ref name="aecpress" />
+
+===House of Representatives===
+{{seealso|Full national and state-by-state lower house results and maps for the 2007 Australian federal election}}
+The Labor Party, led by Julia Gillard, and the Liberal Party, led by Tony Abbott, were the two main parties to contest the election. The smaller National Party was led by [[Warren Truss]] and joined the Liberal Party in a coalition. Following the [[Australian federal election, 2007|2007 federal election]], the 150-member [[Australian House of Representatives]] consisted of 83 Labor-held seats, 65 coalition seats (55 Liberal and 10 National), and two seats held by [[Independent (politician)|independents]]. The [[Australian Greens]] won 8 per cent of the 2007 vote, and the [[Family First Party]] won 2 per cent, but neither party won any seats in the lower house.
+
+The coalition total was reduced to 64 seats when [[Rob Oakeshott]], former state Nationals turned independent MP, won the seat of [[Division of Lyne|Lyne]] at the September 2008 [[Lyne by-election, 2008|Lyne by-election]], resulting from the resignation of former Howard minister and Nationals leader [[Mark Vaile]]. The April 2008 [[Gippsland by-election, 2008|Gippsland by-election]], resulting from the resignation of the former Howard minister and Nationals MP [[Peter McGauran]], saw the Nationals' [[Darren Chester]] retain the seat with a 6 per cent margin increase.<ref>{{cite web|url=http://results.aec.gov.au/13813/website/HouseDivisionFirstPrefs-13813-213.htm|title=VIC DIVISION - GIPPSLAND|year=2008|work=results.aec.gov.au|accessdate=23 August 2010}}</ref> The Liberals suffered a swing in the September 2008 [[Mayo by-election, 2008|Mayo by-election]] resulting from the resignation of former Howard minister and Liberal leader [[Alexander Downer]], and came within a couple of percent of losing the seat to the Greens candidate. Liberals retained seats at the [[Bradfield by-election, 2009|Bradfield]] and [[Higgins by-election, 2009|Higgins by-elections]] in December 2009. The member for [[Division of Ryan|Ryan]], [[Michael Johnson (politician)|Michael Johnson]], was expelled from the [[Liberal National Party of Queensland|Liberal National Party]] on 20 May 2010, reducing the Coalition to 63 seats.<ref>{{cite news|url=http://www.abc.net.au/news/stories/2010/05/20/2905011.htm|title=Michael Johnson expelled from LNP|date=20 May 2010|work=abc.net.au|accessdate=23 August 2010}}</ref>
+
+===Redistributions===
+Since the previous national election in 2007 there were a number of redistributions. These realignments of electorate boundaries are regularly undertaken by the Australian Electoral Commission and they maintain similar voter numbers in each electorate.  They saw Labor's notional number of seats increase to 88 with the coalition's notional number decreased to 59, with independents in three. The swing required by the opposition to win [[majority government]] had decreased by approximately 0.1 percentage point.<ref name="PostRedistribution">Notional seats held following redistribution of electoral boundaries: [http://www.abc.net.au/elections/federal/2010/guide/pendulum.htm Federal 2010 post-redistribution pendulum: Antony Green ABC]</ref>
+
+The redistribution of electoral divisions for [[Western Australia]] made the Liberal held [[Division of Swan|Swan]] notionally Labor, and vastly changed [[Division of Kalgoorlie|Kalgoorlie]] and [[Division of O'Connor|O'Connor]], with the former being safer for the Liberals, and the latter becoming more marginal. Kalgoorlie was also renamed [[Division of Durack|Durack]]. The redistribution also damaged the [[National Party of Western Australia|WA Nationals]]' chances of a House of Representatives seat.<ref>{{cite web|url=http://www.pollbludger.com/903 |title=WA redistributed: Poll Bludger 1/8/2008 |publisher=Pollbludger.com |date=2008-08-01 |accessdate=2010-05-02}}</ref><ref>{{cite web|url=http://blogs.abc.net.au/antonygreen/2008/08/new-federal-bou.html |title=New Federal Boundaries for Western Australia: Antony Green ABC 1/8/2008 |publisher=Blogs.abc.net.au |date=2008-08-01 |accessdate=2010-05-02}}</ref><ref>{{cite web|url=http://www.aec.gov.au/Electorates/Redistributions/2008/wa/proposed_report/index.htm |title=Proposed Redistribution (including maps) of Western Australia 2007–08 |publisher=AEC |date=2008-08-01 |accessdate=2010-05-02}}</ref> [[Tasmania]] was also redistributed but, while there are some changes to boundaries, little will change in terms of seat margins.<ref>{{cite web|url=http://blogs.crikey.com.au/pollbludger/2008/08/22/tasmania-redistributed/ |title=Tasmania redistributed – The Poll Bludger 22/08/2008 |publisher=Blogs.crikey.com.au |date=2008-08-22 |accessdate=2010-05-02}}</ref><ref>{{cite web|url=http://blogs.abc.net.au/antonygreen/2008/08/federal-redistr.html |title=Federal Redistribution in Tasmania: Antony Green ABC 13/08/2008 |publisher=Blogs.abc.net.au |date=2008-08-13 |accessdate=2010-05-02}}</ref>
+
+[[New South Wales]] lost a seat to [[Queensland]] due to population changes for the second election in a row. The Labor Party suggested the abolition of the marginal Liberal seat of [[Division of Macarthur|Macarthur]], while the Liberal Party suggested that Liberal-held [[Division of Hume|Hume]] and National-held [[Division of Riverina|Riverina]] be merged to create a new seat called "Bradman" in honour of Sir [[Donald Bradman]]. The National Party suggested the abolition of the Labor-held city seat of [[Division of Banks|Banks]].<ref>{{cite web|url=http://www.aec.gov.au/Electorates/Redistributions/2009/nsw/public_suggestion.htm |title=Public Suggestions for the New South Wales Redistribution: Australian Electoral Commission |publisher=Aec.gov.au |date=2009-07-20 |accessdate=2010-05-02}}</ref> The draft New South Wales redistribution, published in August 2009, proposed that [[Division of Reid|Reid]] be abolished and that [[Division of Lowe|Lowe]] be renamed "McMahon" in honour of former Prime Minister Sir [[William McMahon]]. In response to widespread criticism of the abolition of the name "Reid", the finalised redistribution, published in October 2009, instead had Lowe renamed "Reid" and [[Division of Prospect|Prospect]] replaced with [[Division of McMahon|McMahon]]. Boundary changes also resulted in the Liberal seats of [[Division of Macarthur|Macarthur]], [[Division of Greenway|Greenway]] and [[Division of Gilmore|Gilmore]] becoming notionally Labor-held, with major changes to other seats, including [[Division of Calare|Calare]], [[Division of Parkes|Parkes]] and [[Division of Macquarie|Macquarie]].<ref>{{cite web|url=http://www.aec.gov.au/Electorates/Redistributions/2009/nsw/propsed_report/NSW-proposed-2009.pdf |title=The Proposed Redistribution of New South Wales into Electoral Divisions: Report of the Redistribution Committee |format=PDF |date= |accessdate=2010-05-02}}</ref>
+
+In Queensland, the seat of [[Division of Wright|Wright]] was created as a Liberal-held seat based on the [[Gold Coast hinterland]]. The redistribution saw the status of Blair change from marginal Labor to a safe Labor seat. The status of marginal Liberal seats [[Division of Dickson|Dickson]] and [[Division of Herbert|Herbert]] also changed to marginal Labor seats.<ref>{{cite web|url=http://www.aec.gov.au/About_AEC/Media_releases/2009/10-16.htm |title=Augmented Electoral Commission decides boundaries and names for Federal Electoral Divisions in QLD |publisher=Aec.gov.au |date=2009-10-16 |accessdate=2010-05-02}}</ref>
+
+A redistribution for [[Victoria (Australia)|Victoria]] commenced in 2010, but was not finalised before the election was called.<ref>{{cite web|url=http://www.aec.gov.au/Electorates/Redistributions/2010/vic/index.htm |title=Redistribution of Federal Electoral Boundaries – Victorian Redistribution 2010 |publisher=Aec.gov.au |date=2010-04-19 |accessdate=2010-05-02}}</ref>
+
+===House of Representatives opinion polling===
+{{Main|Opinion polling for the Australian federal election, 2010}}
+
+====Post-election Newspoll====
+A [[Newspoll]] taken 27-29 August 2010 of 1134 voters revealed 47 percent wanted a Gillard Labor government, to 39 percent for an Abbott Coalition government, while 14 percent were uncommitted. There was no difference between male and female voters. Ages 18-34 and 34-49 were even stronger for Labor, while those above 50 bucked the trend preferring the Coalition 45 percent to 40 percent.<ref>[http://www.theaustralian.com.au/national-affairs/majority-of-voters-in-their-electorates-want-the-independents-to-back-labor/story-fn59niix-1225914017626 Majority of voters in their electorates want the independents to back Labor: The Australian 4 September 2010]</ref>
+
+====Poll of 28,000====
+A JWS Research "mega-poll" was conducted by [[robocall]] late in the campaign and published by [[Fairfax]]. It polled an Australian record of 22,000 voters in 54 marginal seats and a further 6,000 in safe seats. It revealed a national [[two-party-preferred vote]] for Labor of 51.6 percent. Losses in Queensland and New South Wales were offset by the gains of [[Division of Dunkley|Dunkley]], [[Division of McEwen|McEwen]] (both 57 percent for Labor), and [[Division of Cowper|Cowper]] and [[Division of Boothby|Boothby]] (both 54 percent for Labor), finishing with a total of 79 Labor, 68 coalition, 3 independent.<ref>{{cite web|url=http://news.smh.com.au/breaking-news-national/alp-leads-coalition-in-biggest-poll-yet-20100818-128pl.html |title=ALP leads coalition in biggest poll yet: SMH 18 August 2010 |publisher=News.smh.com.au |date= |accessdate=2010-08-21}}</ref><ref>{{cite web|url=http://blogs.crikey.com.au/pollbludger/2010/08/17/nielsen-marginals-mega-poll/ |title=Poll Bludger JWS page 1 |publisher=Blogs.crikey.com.au |date=2010-08-17 |accessdate=2010-08-27}}</ref><ref>{{cite web|url=http://blogs.crikey.com.au/pollbludger/2010/08/19/d-day-minus-2-2/ |title=Poll Bludger JWS page 2 |publisher=Blogs.crikey.com.au |date=2010-08-19 |accessdate=2010-08-27}}</ref>
+
+====Two-party-preferred vote====
+The graph shows a timeline of the estimates by three main polling companies— [http://www.roymorgan.com/news/polls/Trends.cfm? Roy Morgan] (green), [http://au.acnielsen.com/news/200512.shtml Nielsen] (blue), and [http://www.newspoll.com.au/cgi-bin/polling/display_poll_data.pl?mode=trend&page=continue_results&question_id=3488&url_caller= Newspoll] (red)—of the two-party-preferred vote for Labor from January 2008 to 20 July 2010. The pink dot on the left side represents the actual 2PP vote for Labor in the November 2007 election.
+[[File:Federal ALP 2PP polls 2008 to 2010.svg|left|500px]]{{-}}
+
+====Primary vote====
+The graph shows a timeline of [http://www.newspoll.com.au/cgi-bin/polling//display_poll_data.pl?mode=trend&page=continue_results&question_id=2472&url_caller=trend Newspoll's] estimates of the primary vote for Labor (red), the Coalition (blue), the Greens (green), and other parties or independent candidates (magenta) from 2007 to 2010. The four dots on the left side represent the actual vote for each party in the November 2007 election.
+[[File:Australian federal primary polls 2008 to 2010.svg|left|500px]]{{-}}
+
+===Newspoll leader ratings===
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+|+ '''Better Prime Minister^'''
+|-
+! Date
+! Labor<br />''[[Julia Gillard|Gillard]]''
+! Liberal<br />''[[Tony Abbott|Abbott]]''
+|-
+! style="text-align:center;" bgcolor=""|17–19 Aug 2010
+|  style="text-align:center; background:#f66;"|50%
+|  style="text-align:center; background:#00bfff;"|37%
+|-
+! style="text-align:center;" bgcolor=""|13–15 Aug 2010
+|  style="text-align:center; background:#f66;"|50%
+|  style="text-align:center; background:#00bfff;"|35%
+|-
+! style="text-align:center;" bgcolor=""|6–8 Aug 2010
+|  style="text-align:center; background:#f66;"|49%
+|  style="text-align:center; background:#00bfff;"|34%
+|-
+! style="text-align:center;" bgcolor=""|30 Jul – 1 Aug 2010
+|  style="text-align:center; background:#f66;"|50%
+|  style="text-align:center; background:#00bfff;"|35%
+|-
+! style="text-align:center;" bgcolor=""|23–25 Jul 2010
+|  style="text-align:center; background:#f66;"|50%
+|  style="text-align:center; background:#00bfff;"|34%
+|-
+!  style="text-align:center; background:#;"|16–18 Jul 2010
+|  style="text-align:center; background:#f66;"|57%
+|  style="text-align:center; background:#00bfff;"|27%
+|-
+! style="text-align:center;" bgcolor=""|25–27 Jun 2010
+|  style="text-align:center; background:#f66;"|53%
+|  style="text-align:center; background:#00bfff;"|29%
+|-
+! 
+! ''[[Kevin Rudd|Rudd]]''
+! ''Abbott''
+|-
+!  style="text-align:center; background:#;"|18–20 Jun 2010
+|  style="text-align:center; background:#f66;"|46%
+|  style="text-align:center; background:#00bfff;"|37%
+|-
+! style="text-align:center;" bgcolor=""|28–30 May 2010
+|  style="text-align:center; background:#f66;"|49%
+|  style="text-align:center; background:#00bfff;"|33%
+|-
+!  style="text-align:center; background:#;"|14–16 May 2010
+|  style="text-align:center; background:#f66;"|49%
+|  style="text-align:center; background:#00bfff;"|33%
+|-
+! style="text-align:center;" bgcolor=""|30 Apr – 2 May 2010
+|  style="text-align:center; background:#f66;"|50%
+|  style="text-align:center; background:#00bfff;"|32%
+|-
+!  style="text-align:center; background:#;"|16–18 Apr 2010
+|  style="text-align:center; background:#f66;"|56%
+|  style="text-align:center; background:#00bfff;"|29%
+|-
+! style="text-align:center;" bgcolor=""|26–28 Mar 2010
+|  style="text-align:center; background:#f66;"|59%
+|  style="text-align:center; background:#00bfff;"|27%
+|-
+!  style="text-align:center; background:#;"|12–14 Mar 2010
+|  style="text-align:center; background:#f66;"|55%
+|  style="text-align:center; background:#00bfff;"|30%
+|-
+! style="text-align:center;" bgcolor=""|26–28 Feb 2010
+|  style="text-align:center; background:#f66;"|55%
+|  style="text-align:center; background:#00bfff;"|30%
+|-
+!  style="text-align:center; background:#;"|12–14 Feb 2010
+|  style="text-align:center; background:#f66;"|55%
+|  style="text-align:center; background:#00bfff;"|27%
+|-
+! style="text-align:center;" bgcolor=""|29–31 Jan 2010
+|  style="text-align:center; background:#f66;"|58%
+|  style="text-align:center; background:#00bfff;"|26%
+|-
+!  style="text-align:center; background:#;"|15–17 Jan 2010
+|  style="text-align:center; background:#f66;"|57%
+|  style="text-align:center; background:#00bfff;"|25%
+|-
+! style="text-align:center;" bgcolor=""|4–6 Dec 2009
+|  style="text-align:center; background:#f66;"|60%
+|  style="text-align:center; background:#00bfff;"|23%
+|-
+! 
+! ''Rudd''
+! ''[[Malcolm Turnbull|Turnbull]]''
+|-
+!  style="text-align:center; background:#;"|27–29 Nov 2009
+|  style="text-align:center; background:#f66;"|65%
+|  style="text-align:center; background:#00bfff;"|14%
+|-
+! style="text-align:center;" bgcolor=""|13–15 Nov 2009
+|  style="text-align:center; background:#f66;"|63%
+|  style="text-align:center; background:#00bfff;"|22%
+|-
+!  style="text-align:center; background:#;"|30 Oct-1 Nov 2009
+|  style="text-align:center; background:#f66;"|63%
+|  style="text-align:center; background:#00bfff;"|19%
+|-
+! style="text-align:center;" bgcolor=""|16–18 Oct 2009
+|  style="text-align:center; background:#f66;"|65%
+|  style="text-align:center; background:#00bfff;"|19%
+|-
+!  style="text-align:center; background:#;"|28 Sep-1 Oct 2009
+|  style="text-align:center; background:#f66;"|67%
+|  style="text-align:center; background:#00bfff;"|18%
+|-
+| colspan="3"  style="font-size:80%; background:#cef; text-align:center;"|[http://www.newspoll.com.au/cgi-bin/polling/display_poll_data.pl?url_caller=&mode=trend&page=show_polls&question_set_id=1 Polling] conducted by [[Newspoll]] and published in [[The Australian]].<br />^Remainder were "uncommitted".
+|}
+{| class="toccolours" cellpadding="5" cellspacing="0" style="float:left; margin-right:.5em; margin-top:.4em; font-size:90%;"
+|-
+|+ '''Satisfaction^'''
+|-
+!  
+!  style="background:#; text-align:center;" colspan="2"|''Gillard''
+!  style="background:#; text-align:center;" colspan="2"|''Abbott''
+|-
+!  Date
+!  Satisfied
+!  Dissatisfied
+!  Satisfied
+!  Dissatisfied
+|-|-
+! style="text-align:center;|17–19 Aug 2010
+|  style="text-align:center; |44%
+|  style="text-align:center; |43%
+|  style="text-align:center; |42%
+|  style="text-align:center; |50%
+|-
+! style="text-align:center;|13–15 Aug 2010
+|  style="text-align:center; |44%
+|  style="text-align:center; |38%
+|  style="text-align:center; |43%
+|  style="text-align:center; |46%
+|-
+! style="text-align:center;|6–8 Aug 2010
+|  style="text-align:center; |43%
+|  style="text-align:center; |41%
+|  style="text-align:center; |41%
+|  style="text-align:center; |49%
+|-
+! style="text-align:center;|30 Jul – 1 Aug 2010
+|  style="text-align:center; |42%
+|  style="text-align:center; |40%
+|  style="text-align:center; |44%
+|  style="text-align:center; |46%
+|-
+! style="text-align:center;|23–25 Jul 2010
+|  style="text-align:center; |41%
+|  style="text-align:center; |37%
+|  style="text-align:center; |40%
+|  style="text-align:center; |46%
+|-
+! style="text-align:center;|16–18 Jul 2010
+|  style="text-align:center; |48%
+|  style="text-align:center; |29%
+|  style="text-align:center; |36%
+|  style="text-align:center; |51%
+|-
+! style="text-align:center;|25–27 Jun 2010
+|  style="text-align:center; |N/A (new)
+|  style="text-align:center; |N/A (new)
+|  style="text-align:center; |42%
+|  style="text-align:center; |41%
+|-
+!  
+!  style="background:#; text-align:center;" colspan="2"|''Rudd''
+!  style="background:#; text-align:center;" colspan="2"|''Abbott''
+|-
+!  style="text-align:center; |18–20 Jun 2010
+|  style="text-align:center; |36%
+|  style="text-align:center; |55%
+|  style="text-align:center; |38%
+|  style="text-align:center; |49%
+|-
+!  style="text-align:center;  |28–30 May 2010
+|  style="text-align:center; |36%
+|  style="text-align:center; |54%
+|  style="text-align:center; |37%
+|  style="text-align:center; |49%
+|-
+!  style="text-align:center; |14–16 May 2010
+|  style="text-align:center; |39%
+|  style="text-align:center; |51%
+|  style="text-align:center; |42%
+|  style="text-align:center; |45%
+|-
+!  style="text-align:center; |30 Apr – 2 May 2010
+|  style="text-align:center; |39%
+|  style="text-align:center; |50%
+|  style="text-align:center; |45%
+|  style="text-align:center; |43%
+|-
+!  style="text-align:center; |16–18 Apr 2010
+|  style="text-align:center; |50%
+|  style="text-align:center; |41%
+|  style="text-align:center; |46%
+|  style="text-align:center; |40%
+|-
+!  style="text-align:center; |26–28 Mar 2010
+|  style="text-align:center; |51%
+|  style="text-align:center; |39%
+|  style="text-align:center; |44%
+|  style="text-align:center; |43%
+|-
+!  style="text-align:center; |12–14 Mar 2010
+|  style="text-align:center; |48%
+|  style="text-align:center; |41%
+|  style="text-align:center; |47%
+|  style="text-align:center; |38%
+|-
+!  style="text-align:center; |26–28 Feb 2010
+|  style="text-align:center; |51%
+|  style="text-align:center; |40%
+|  style="text-align:center; |48%
+|  style="text-align:center; |38%
+|-
+!  style="text-align:center; |12–14 Feb 2010
+|  style="text-align:center; |50%
+|  style="text-align:center; |40%
+|  style="text-align:center; |44%
+|  style="text-align:center; |37%
+|-
+!  style="text-align:center; |29–31 Jan 2010
+|  style="text-align:center; |50%
+|  style="text-align:center; |38%
+|  style="text-align:center; |41%
+|  style="text-align:center; |39%
+|-
+!  style="text-align:center; |15–17 Jan 2010
+|  style="text-align:center; |52%
+|  style="text-align:center; |34%
+|  style="text-align:center; |40%
+|  style="text-align:center; |35%
+|-
+!  style="text-align:center; |4–6 Dec 2009
+|  style="text-align:center; |58%
+|  style="text-align:center; |32%
+|  style="text-align:center; |N/A (new)
+|  style="text-align:center; |N/A (new)
+|-
+!  
+!  style="background:#; text-align:center;" colspan="2"|''Rudd''
+!  style="background:#; text-align:center;" colspan="2"|''Turnbull''
+|-
+!  style="text-align:center; |27–29 Nov 2009
+|  style="text-align:center; |56%
+|  style="text-align:center; |34%
+|  style="text-align:center; |36%
+|  style="text-align:center; |50%
+|-
+!  style="text-align:center; |13–15 Nov 2009
+|  style="text-align:center; |56%
+|  style="text-align:center; |34%
+|  style="text-align:center; |34%
+|  style="text-align:center; |50%
+|-
+!  style="text-align:center; |30 Oct – 1 Nov 2009
+|  style="text-align:center; |59%
+|  style="text-align:center; |32%
+|  style="text-align:center; |32%
+|  style="text-align:center; |51%
+|-
+!  style="text-align:center; |16–18 Oct 2009
+|  style="text-align:center; |63%
+|  style="text-align:center; |28%
+|  style="text-align:center; |32%
+|  style="text-align:center; |54%
+|-
+!  style="text-align:center; |28 Sep – 1 Oct 2009
+|  style="text-align:center; |67%
+|  style="text-align:center; |21%
+|  style="text-align:center; |33%
+|  style="text-align:center; |48%
+|-
+| colspan="5"  style="font-size:80%; background:#cef; text-align:center;"|[http://www.newspoll.com.au/cgi-bin/polling/display_poll_data.pl?url_caller=&mode=trend&page=show_polls&question_set_id=1 Polling] conducted by [[Newspoll]] and published in ''[[The Australian]]''.<br />^Remainder were "uncommitted".
+|}
+{{-}}
+
+===Senate===
+:''See also: [[State-by-state upper house results for the 2007 Australian federal election|2007 state-by-state upper house results]]''
+:''See also: [[Candidates of the Australian federal election, 2010]]''
+
+[[File:Bob Brown and Richard Di Natale DSC 2958.JPG|thumb|Senator [[Bob Brown]] (right) and Greens Senate candidate for Victoria [[Richard Di Natale]] (left) during the election campaign.]]
+In the 76-member [[Australian Senate]], from July 2008 to June 2011, the Labor and Liberal parties hold 32 seats each, and the Liberals' coalition partner, the [[National Party of Australia|National Party]] (including one [[Country Liberal Party|CLP]]), five seats. The [[balance of power (parliament)|balance of power]] rests with the [[crossbencher|crossbench]], consisting of:
+
+* 5 [[Australian Greens]]
+* 1 [[Family First Party|Family First]], [[Steve Fielding]]
+* 1 Independent, [[Nick Xenophon]]
+
+For a majority, the government requires an additional seven votes from non-Labor senators. If the Liberal Party chooses to vote with the Labor Party, support from the crossbench is not required.
+
+===Senate terms expiring===
+Forty seats in the Senate were up for election:
+* 36 senators representing the six states; each state elected half of its 12 Senate seats.  The six-year terms of these 36 senators will start on 1 July 2011; the terms of the existing senators representing the states will end on 30 June 2011.
+* 4 territory senators: the ACT and the NT each elected two senators, whose terms started on election day and will expire the day before the next election for the House of Representatives.
+
+The party composition of these 40 senators whose terms will expire is:
+*Liberal:18 (14 ongoing, to expire 30 June 2014)
+*National: 2 (3 ongoing)
+*CLP: 1 (0 ongoing)
+*ALP: 16 (16 ongoing)
+*Green: 2 (3 ongoing)
+*Family First: 1 (0 ongoing)
+*Independent Nick Xenophon: 0 (1 ongoing)
+
+These seats are listed in order of election for the six states and two territories:<ref name="senatorexp">[http://www.aph.gov.au/Senate/senators/sen_exp.htm Dates of Expiry of Senators' Terms of Service – Australian Senate] . Retrieved 2007-12-01.</ref>
+{| class="wikitable"
+|-
+!align=center|NSW
+!align=center|Vic
+!align=center|Qld
+!align=center|WA
+!align=center|SA
+!align=center|Tas
+!align=center|ACT
+!align=center|NT
+|-
+|[[Bill Heffernan]] (Lib)<br>[[Steve Hutchins]] (ALP)<br>[[Concetta Fierravanti-Wells|Concetta F.-Wells]] (Lib)<br>[[John Faulkner]] (ALP)<br>[[Fiona Nash]] (Nat)<br>[[Michael Forshaw]] (ALP)
+|[[Michael Ronaldson]] (Lib)<br>[[Kim Carr]] (ALP)<br>[[Julian McGauran]] (Lib)<br>[[Stephen Conroy]] (ALP)<br>[[Judith Troeth]] (Lib)<br>[[Steve Fielding]] (FFP)
+|[[Brett Mason]] (Lib)<br>[[Jan McLucas]] (ALP)<br>[[George Brandis]] (Lib)<br>[[Joe Ludwig]] (ALP)<br>[[Barnaby Joyce]] (Nat)<br>[[Russell Trood]] (Lib)
+|[[Chris Back]] (Lib)<br>[[Chris Evans (Australian politician)|Chris Evans]] (ALP)<br>[[Mathias Cormann]] (Lib)<br>[[Glenn Sterle]] (ALP)<br>[[Judith Adams]] (Lib)<br>[[Rachel Siewert]] (Grn)
+|[[Nick Minchin]] (Lib)<br>[[Anne McEwen (politician)|Anne McEwen]] (ALP)<br>[[Mary Jo Fisher]] (Lib)<br>[[Annette Hurley]] (ALP)<br>[[Alan Ferguson]] (Lib)<br>[[Dana Wortley]] (ALP)
+|[[Eric Abetz]] (Lib)<br>[[Kerry O'Brien (politician)|Kerry O'Brien]] (ALP)<br>[[Guy Barnett (Australian politician)|Guy Barnett]] (Lib)<br>[[Helen Polley]] (ALP)<br>[[Stephen Parry (politician)|Stephen Parry]] (Lib)<br>[[Christine Milne]] (Grn)
+|[[Kate Lundy]] (ALP)<br>[[Gary Humphries]] (Lib)
+|[[Trish Crossin]] (ALP)<br>[[Nigel Scullion]] (CLP)
+|}
+
+==Newspaper endorsements==
+{| class="wikitable"
+|-
+! colspan="3" | Dailies
+| rowspan="14" style="background: none; border: none inherit;" | &nbsp;
+! colspan="3" | Sundays
+|-
+! Newspaper
+! colspan="2" | Endorsement
+! Newspaper
+! colspan="2" | Endorsement
+|-
+| ''[[The Advertiser (Adelaide)|The Advertiser]]''
+{{party name with colour|Australian Labor Party}}
+|
+| 
+|
+|-
+| ''[[The Age]]''
+{{party name with colour|Australian Labor Party}}
+| ''[[The Age|The Sunday Age]]''
+{{party name with colour|Australian Labor Party}}<ref>{{cite web|url=http://www.smh.com.au/federal-election/editorials-back-coalition-in-key-states-20100820-12se1.html |title=Federal election &#124; Editorials back Coalition in key states |publisher=Smh.com.au |date= |accessdate=2010-08-21}}</ref>
+|-
+| ''[[The Australian]]''
+{{party name with colour|Liberal Party of Australia}}
+| ''[[The Weekend Australian]]
+{{party name with colour|Liberal Party of Australia}}
+|-
+| ''[[The Australian Financial Review]]''
+{{party name with colour|Liberal Party of Australia}}
+|
+|
+|
+|-
+| ''[[The Canberra Times]]''
+{{party name with colour|Australian Labor Party}}
+|
+|
+|
+|-
+| ''[[The Courier-Mail]]''
+{{party name with colour|Liberal Party of Australia}}
+| ''[[The Sunday Mail (Brisbane)|The Sunday Mail]]''
+{{party name with colour|Liberal Party of Australia}}
+|-
+| ''[[The Daily Telegraph (Australia)|The Daily Telegraph]]''
+{{party name with colour|Liberal Party of Australia}}
+| ''[[The Daily Telegraph (Australia)|The Sunday Telegraph]]''
+{{party name with colour|Australian Labor Party}}
+|-
+| ''[[The Herald Sun]]''
+{{party name with colour|Liberal Party of Australia}}
+| ''[[Sunday Herald Sun]]''
+{{party name with colour|Australian Labor Party}}<ref>{{cite web|last=Walker |first=Jamie |url=http://www.news.com.au/features/federal-election/tony-abbott-endorsed-by-most-major-metropolitan-newspapers/story-e6frfllr-1225907587238 |title=Major metropolitan newspapers divided over endorsements for federal election |publisher=News.com.au |date= |accessdate=2010-08-22}}</ref>
+|-
+| ''[[The Mercury (Hobart)|The Mercury]]''
+{{party name with colour|Australian Labor Party}}
+|
+|
+|
+|-
+| ''[[Northern Territory News]]''
+{{party name with colour|Australian Labor Party}}<ref>{{cite web|url=http://www.ntnews.com.au/article/2010/08/20/173451_election2010.html |title=Labor earns second term &#124; Northern Territory News &#124; Darwin, Northern Territory, Australia |publisher=ntnews.com.au |date= |accessdate=2010-08-21}}</ref>
+|
+|
+|
+|-
+| ''[[The Sydney Morning Herald]]''
+{{party name with colour|Australian Labor Party}}
+|
+|
+|
+|-
+| ''[[The West Australian]]''
+{{party name with colour|Liberal Party of Australia}}<ref>{{cite web|last=Tyldesley |first=Hazel |url=http://www.heraldsun.com.au/news/breaking-news/west-australian-paper-endorses-coalition/story-e6frf7jx-1225907724493 |title=West Australian paper endorses Coalition |publisher=Herald Sun |date= |accessdate=2010-08-21}}</ref>
+|
+|
+| 
+|}
+
+==Campaign==
+{{Main|Australian federal election campaign, 2010}}
+
+==Candidates and seats==
+{{Main|Candidates of the Australian federal election, 2010}}
+
+==See also==
+{{Portal|Australia}}
+* [[Australian federal election, 2007]]
+* [[Divisions of the Australian House of Representatives]]
+* [[List of political parties in Australia]]
+* [[National Tally Room]]
+
+==Notes==
+{{Reflist|group="nb"}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Commons category}}
+*[http://www.aec.gov.au Australian Electoral Commission]
+*[http://www.abc.net.au/elections/federal/2010/guide/ The Green Guide—Antony Green's Guide to the 2010 Federal Election] (Australian Broadcasting Corporation)
+{{Australian general election, 2010}}
+{{Australian elections}}
+{{Politics of Australia}}
+
+{{DEFAULTSORT:Australian Federal Election, 2010}}
+[[Category:2010 elections in Australia]]
+[[Category:Federal elections in Australia]]
+
+[[de:Parlamentswahlen in Australien 2010]]
+[[fr:Élections fédérales australiennes de 2010]]
+[[id:Pemilihan umum federal Australia 2010]]
+[[it:Elezioni parlamentari australiane del 2010]]
+[[pl:Wybory parlamentarne w Australii w 2010 roku]]
+[[ru:Парламентские выборы в Австралии (2010)]]
+[[sv:Parlamentsvalet i Australien 2010]]
+[[zh:2010年澳大利亚联邦大选]]
