@@ -141,10 +141,37 @@
   "model": {
     "base_shares": [0.425, 0.525, 0.05],
     "volatility": 0.115,
+    "volatility_reference_days": 90,
     "turnout": 0.84,
     "data_quality": "D",
     "freshness": "exploratory long-range scenario; candidate and timing uncertainty",
-    "headline": "The opposition-nominee scenario leads, but Erdoğan or another governing nominee retains a material path; Türkiye has no validated backtest."
+    "headline": "The opposition-nominee scenario leads, but Erdoğan or another governing nominee retains a material path; Türkiye has no validated backtest.",
+    "scenarios": [
+      {
+        "id": "erdogan-v-imamoglu",
+        "label": "Erdoğan v İmamoğlu",
+        "weight": 0.3333333333333333,
+        "base_shares": [0.41895, 0.53105, 0.05],
+        "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. Equal scenario weight is structural, not a nomination probability.",
+        "source_ids": ["gundemar_may_2026"]
+      },
+      {
+        "id": "erdogan-v-yavas",
+        "label": "Erdoğan v Yavaş",
+        "weight": 0.3333333333333333,
+        "base_shares": [0.389215, 0.560785, 0.05],
+        "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. Equal scenario weight is structural, not a nomination probability.",
+        "source_ids": ["gundemar_may_2026"]
+      },
+      {
+        "id": "erdogan-v-ozel",
+        "label": "Erdoğan v Özel",
+        "weight": 0.3333333333333334,
+        "base_shares": [0.449065, 0.500935, 0.05],
+        "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. Equal scenario weight is structural, not a nomination probability.",
+        "source_ids": ["gundemar_may_2026"]
+      }
+    ]
   },
   "drivers": [
     {"key":"incumbency","label":"Incumbency and governing apparatus","value":"Strong but conditional candidate","contribution":0.42,"direction":"government","confidence":0.62},

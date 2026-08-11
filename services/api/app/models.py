@@ -125,6 +125,15 @@ class CoalitionForecast(BaseModel):
     seats_high: int
 
 
+class ScenarioForecast(BaseModel):
+    scenario_id: str
+    label: str
+    weight: float = Field(gt=0, le=1)
+    assumption: str
+    source_ids: list[str] = Field(default_factory=list)
+    outcomes: list[ContestantForecast]
+
+
 class ForecastSnapshot(BaseModel):
     id: str
     election_id: str
@@ -142,7 +151,11 @@ class ForecastSnapshot(BaseModel):
     headline: str
     majority_probability: float = Field(ge=0, le=1)
     turnout_median: float = Field(ge=0, le=1)
+    forecast_horizon_days: int = Field(default=0, ge=0)
+    uncertainty_scale: float = Field(default=1, gt=0)
+    effective_volatility: float = Field(default=0, ge=0)
     outcomes: list[ContestantForecast]
+    scenario_outcomes: list[ScenarioForecast] = Field(default_factory=list)
     coalition_outcomes: list[CoalitionForecast]
     drivers: list[DriverContribution]
     driver_sensitivity: list[DriverSensitivity] = Field(default_factory=list)

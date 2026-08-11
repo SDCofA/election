@@ -122,6 +122,13 @@ test("Türkiye exposes a million-run exploratory forecast and named possibilitie
   await expect(page.getByText("Recep Tayyip Erdoğan", { exact: true })).toBeVisible();
   await expect(page.getByText("Mansur Yavaş", { exact: true })).toBeVisible();
   await expect(page.getByText("Özgür Özel", { exact: true })).toBeVisible();
+  await expect(page.getByText("CONDITIONAL MATCHUPS")).toBeVisible();
+  await expect(page.locator(".scenario-grid > section")).toHaveCount(3);
+  await expect(page.getByText("Erdoğan v İmamoğlu", { exact: true })).toBeVisible();
+  await expect(page.getByText("Erdoğan v Yavaş", { exact: true })).toBeVisible();
+  await expect(page.getByText("Erdoğan v Özel", { exact: true })).toBeVisible();
+  await expect(page.getByText("SIMULATION NOISE ONLY")).toBeVisible();
+  await expect(page.getByText("HORIZON MULTIPLIER")).toBeVisible();
   await expect(page.getByText(/0 jurisdiction-specific out-of-sample folds/)).toBeVisible();
   await expect(page.locator(".candidate").filter({ hasText: "Erdoğan" })).toContainText("UNDERDOG · REAL PATH");
 });

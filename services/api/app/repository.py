@@ -38,13 +38,13 @@ from .models import (
     SourceLedger,
 )
 from .official_result_store import OfficialResultStoreUnavailable, load_official_results
-from .simulation import SIMULATION_COUNT, SimulationInput, run_simulation
+from .simulation import SIMULATION_COUNT, ScenarioInput, SimulationInput, run_simulation
 from .systems import validate_pack_rules
 
 PACKS_DIR = Path(__file__).parent / "packs"
 BACKTESTS_DIR = Path(__file__).parent / "backtests"
 CATALOG_PATH = Path(__file__).parent / "catalog" / "vdem-v16.json"
-MODEL_VERSION = "structural-ensemble-0.3.0"
+MODEL_VERSION = "structural-ensemble-0.4.0"
 G20_COUNTRY_IDS = frozenset(
     {
         "arg",
@@ -68,6 +68,14 @@ G20_COUNTRY_IDS = frozenset(
         "zaf",
     }
 )
+
+
+def horizon_uncertainty_scale(horizon_days: int, reference_days: int = 90) -> float:
+    """Widen structural forecast error with time, with conservative stability caps."""
+    if reference_days < 1:
+        raise ValueError("Volatility reference horizon must be positive")
+    effective_horizon = max(horizon_days, 7)
+    return min(1.60, max(0.75, (effective_horizon / reference_days) ** 0.18))
 
 
 class CatalogRepository:
@@ -374,11 +382,15 @@ class CatalogRepository:
         volatility = float(data["model"]["volatility"])
         poll_count = 0
         poll_age_days: int | None = None
-        horizon_days = (
-            max(0, (election.election_date - evidence.as_of.date()).days)
-            if evidence is not None
-            else 84
+        forecast_as_of = (
+            evidence.as_of.date() if evidence is not None else election.last_updated.date()
         )
+        horizon_days = max(0, (election.election_date - forecast_as_of).days)
+        uncertainty_scale = horizon_uncertainty_scale(
+            horizon_days,
+            int(data["model"].get("volatility_reference_days", 90)),
+        )
+        volatility *= uncertainty_scale
         if evidence is not None and evidence.poll_aggregate is not None:
             poll_age_days = max(
                 0,
@@ -412,6 +424,7 @@ class CatalogRepository:
                 min(0.01, (growth - 0.5 * inflation - 0.25 * unemployment) / 100),
             )
             volatility += 0.002 * len(evidence.missing_macro_features)
+        volatility = min(0.18, volatility)
         base_fundamental_shift = max(-0.025, min(0.025, driver_balance * 0.035 + macro_shift))
         driver_sensitivity = []
         driver_count = max(len(data["drivers"]), 1)
@@ -442,9 +455,7 @@ class CatalogRepository:
                 volatility=volatility,
                 turnout=data["model"]["turnout"],
                 model_family=model_family,
-                campaign_steps=(
-                    max(1, min(24, math.ceil(horizon_days / 7))) if evidence is not None else 12
-                ),
+                campaign_steps=max(1, min(24, math.ceil(horizon_days / 7))),
                 incumbent_index=incumbent_index,
                 fundamental_shift=base_fundamental_shift,
                 security_volatility=volatility * security_pressure * 0.35,
@@ -456,6 +467,17 @@ class CatalogRepository:
                     backtest_report.markov_transition if backtest_report is not None else ()
                 ),
                 markov_step=(backtest_report.markov_step if backtest_report is not None else None),
+                scenarios=tuple(
+                    ScenarioInput(
+                        scenario_id=item["id"],
+                        label=item["label"],
+                        weight=float(item["weight"]),
+                        base_shares=tuple(item["base_shares"]),
+                        assumption=item["assumption"],
+                        source_ids=tuple(item.get("source_ids", [])),
+                    )
+                    for item in data["model"].get("scenarios", [])
+                ),
             ),
             version,
         )
@@ -541,7 +563,11 @@ class CatalogRepository:
             ),
             majority_probability=simulation.majority_probability,
             turnout_median=simulation.turnout_median,
+            forecast_horizon_days=horizon_days,
+            uncertainty_scale=uncertainty_scale,
+            effective_volatility=volatility,
             outcomes=simulation.outcomes,
+            scenario_outcomes=simulation.scenario_outcomes,
             coalition_outcomes=simulation.coalition_outcomes,
             drivers=[DriverContribution.model_validate(item) for item in data["drivers"]],
             driver_sensitivity=driver_sensitivity,

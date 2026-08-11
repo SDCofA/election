@@ -819,9 +819,21 @@
             "title": "Drivers",
             "type": "array"
           },
+          "effective_volatility": {
+            "default": 0,
+            "minimum": 0.0,
+            "title": "Effective Volatility",
+            "type": "number"
+          },
           "election_id": {
             "title": "Election Id",
             "type": "string"
+          },
+          "forecast_horizon_days": {
+            "default": 0,
+            "minimum": 0.0,
+            "title": "Forecast Horizon Days",
+            "type": "integer"
           },
           "freshness": {
             "title": "Freshness",
@@ -897,6 +909,13 @@
             "title": "Regional Forecast Supported",
             "type": "boolean"
           },
+          "scenario_outcomes": {
+            "items": {
+              "$ref": "#/components/schemas/ScenarioForecast"
+            },
+            "title": "Scenario Outcomes",
+            "type": "array"
+          },
           "seed": {
             "title": "Seed",
             "type": "integer"
@@ -915,6 +934,12 @@
             "maximum": 1.0,
             "minimum": 0.0,
             "title": "Turnout Median",
+            "type": "number"
+          },
+          "uncertainty_scale": {
+            "default": 1,
+            "exclusiveMinimum": 0.0,
+            "title": "Uncertainty Scale",
             "type": "number"
           }
         },
@@ -1392,6 +1417,51 @@
         ],
         "title": "QualityGrade",
         "type": "string"
+      },
+      "ScenarioForecast": {
+        "properties": {
+          "assumption": {
+            "title": "Assumption",
+            "type": "string"
+          },
+          "label": {
+            "title": "Label",
+            "type": "string"
+          },
+          "outcomes": {
+            "items": {
+              "$ref": "#/components/schemas/ContestantForecast"
+            },
+            "title": "Outcomes",
+            "type": "array"
+          },
+          "scenario_id": {
+            "title": "Scenario Id",
+            "type": "string"
+          },
+          "source_ids": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Source Ids",
+            "type": "array"
+          },
+          "weight": {
+            "exclusiveMinimum": 0.0,
+            "maximum": 1.0,
+            "title": "Weight",
+            "type": "number"
+          }
+        },
+        "required": [
+          "scenario_id",
+          "label",
+          "weight",
+          "assumption",
+          "outcomes"
+        ],
+        "title": "ScenarioForecast",
+        "type": "object"
       },
       "SimulationSummary": {
         "properties": {

@@ -1,14 +1,14 @@
 [
   {
-    "id": "us-2028-president-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
+    "id": "us-2028-president-structural-ensemble-0.4.0-baseline_ensemble-20260809T090000Z-structural",
     "election_id": "us-2028-president",
     "as_of": "2026-08-09T09:00:00Z",
     "published_at": "2026-08-09T09:00:00Z",
-    "model_version": "structural-ensemble-0.3.0",
+    "model_version": "structural-ensemble-0.4.0",
     "model_family": "baseline_ensemble",
     "selection_status": "baseline retained until reliable walk-forward promotion evidence",
     "simulation_count": 1000000,
-    "seed": 4228208592,
+    "seed": 3014321073,
     "data_quality": "D",
     "freshness": "structural-only; no source-vintage feature snapshot",
     "missing_drivers": [
@@ -20,40 +20,44 @@
     ],
     "regional_forecast_supported": false,
     "headline": "Structural signals remain provisional; uncertainty is explicitly widened.",
-    "majority_probability": 0.993769,
-    "turnout_median": 0.6550286412239075,
+    "majority_probability": 0.995414,
+    "turnout_median": 0.6549750566482544,
+    "forecast_horizon_days": 821,
+    "uncertainty_scale": 1.4887374608394919,
+    "effective_volatility": 0.04763959874686374,
     "outcomes": [
       {
         "contestant_id": "dem",
-        "win_probability": 0.57301,
-        "projected_share": 0.49235162138938904,
-        "share_low": 0.44069410264492037,
-        "share_high": 0.5425615966320038,
+        "win_probability": 0.548939,
+        "projected_share": 0.4894390106201172,
+        "share_low": 0.4136090502142906,
+        "share_high": 0.562913018465042,
         "projected_seats": 279,
-        "seats_low": 180,
-        "seats_high": 377
+        "seats_low": 138,
+        "seats_high": 417
       },
       {
         "contestant_id": "gop",
-        "win_probability": 0.42699,
-        "projected_share": 0.4823608100414276,
-        "share_low": 0.43147179335355756,
-        "share_high": 0.5320390582084655,
-        "projected_seats": 258,
-        "seats_low": 161,
-        "seats_high": 358
+        "win_probability": 0.451061,
+        "projected_share": 0.4794943332672119,
+        "share_low": 0.4045154720544815,
+        "share_high": 0.5523275762796402,
+        "projected_seats": 259,
+        "seats_low": 121,
+        "seats_high": 400
       },
       {
         "contestant_id": "other",
         "win_probability": 0.0,
-        "projected_share": 0.025287527590990067,
-        "share_low": 0.0028903328347951174,
-        "share_high": 0.07235666587948798,
+        "projected_share": 0.0310666523873806,
+        "share_low": 0.0028191990219056605,
+        "share_high": 0.09818285033106802,
         "projected_seats": 0,
         "seats_low": 0,
-        "seats_high": 0
+        "seats_high": 1
       }
     ],
+    "scenario_outcomes": [],
     "coalition_outcomes": [],
     "drivers": [
       {

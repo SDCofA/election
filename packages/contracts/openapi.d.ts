@@ -660,8 +660,18 @@ export interface components {
             driver_sensitivity?: components["schemas"]["DriverSensitivity"][];
             /** Drivers */
             drivers: components["schemas"]["DriverContribution"][];
+            /**
+             * Effective Volatility
+             * @default 0
+             */
+            effective_volatility: number;
             /** Election Id */
             election_id: string;
+            /**
+             * Forecast Horizon Days
+             * @default 0
+             */
+            forecast_horizon_days: number;
             /** Freshness */
             freshness: string;
             /** Headline */
@@ -693,6 +703,8 @@ export interface components {
             published_at: string;
             /** Regional Forecast Supported */
             regional_forecast_supported: boolean;
+            /** Scenario Outcomes */
+            scenario_outcomes?: components["schemas"]["ScenarioForecast"][];
             /** Seed */
             seed: number;
             /** Selection Status */
@@ -701,6 +713,11 @@ export interface components {
             simulation_count: number;
             /** Turnout Median */
             turnout_median: number;
+            /**
+             * Uncertainty Scale
+             * @default 1
+             */
+            uncertainty_scale: number;
         };
         /** HTTPValidationError */
         HTTPValidationError: {
@@ -887,6 +904,21 @@ export interface components {
          * @enum {string}
          */
         QualityGrade: "A" | "B" | "C" | "D";
+        /** ScenarioForecast */
+        ScenarioForecast: {
+            /** Assumption */
+            assumption: string;
+            /** Label */
+            label: string;
+            /** Outcomes */
+            outcomes: components["schemas"]["ContestantForecast"][];
+            /** Scenario Id */
+            scenario_id: string;
+            /** Source Ids */
+            source_ids?: string[];
+            /** Weight */
+            weight: number;
+        };
         /** SimulationSummary */
         SimulationSummary: {
             /**

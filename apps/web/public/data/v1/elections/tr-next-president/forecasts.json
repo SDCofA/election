@@ -1,14 +1,14 @@
 [
   {
-    "id": "tr-next-president-structural-ensemble-0.3.0-baseline_ensemble-20260809T180000Z-structural",
+    "id": "tr-next-president-structural-ensemble-0.4.0-baseline_ensemble-20260809T180000Z-structural",
     "election_id": "tr-next-president",
     "as_of": "2026-08-09T18:00:00Z",
     "published_at": "2026-08-09T18:00:00Z",
-    "model_version": "structural-ensemble-0.3.0",
+    "model_version": "structural-ensemble-0.4.0",
     "model_family": "baseline_ensemble",
     "selection_status": "baseline retained until reliable walk-forward promotion evidence",
     "simulation_count": 1000000,
-    "seed": 1935011677,
+    "seed": 2446039295,
     "data_quality": "D",
     "freshness": "structural-only; no source-vintage feature snapshot",
     "missing_drivers": [
@@ -19,38 +19,166 @@
     ],
     "regional_forecast_supported": false,
     "headline": "The opposition-nominee scenario leads, but Erdoğan or another governing nominee retains a material path; Türkiye has no validated backtest.",
-    "majority_probability": 0.759194,
-    "turnout_median": 0.8400121331214905,
+    "majority_probability": 0.785266,
+    "turnout_median": 0.8400455713272095,
+    "forecast_horizon_days": 637,
+    "uncertainty_scale": 1.422268023854558,
+    "effective_volatility": 0.1635608227432742,
     "outcomes": [
       {
         "contestant_id": "government-nominee",
-        "win_probability": 0.310033,
-        "projected_share": 0.41207462549209595,
-        "share_low": 0.2280585028231144,
-        "share_high": 0.588074716925621,
+        "win_probability": 0.34388,
+        "projected_share": 0.39808937907218933,
+        "share_low": 0.13631261736154557,
+        "share_high": 0.6450669914484024,
         "projected_seats": null,
         "seats_low": null,
         "seats_high": null
       },
       {
         "contestant_id": "opposition-nominee",
-        "win_probability": 0.687302,
-        "projected_share": 0.5108351111412048,
-        "share_low": 0.3308674067258835,
-        "share_high": 0.6843867927789689,
+        "win_probability": 0.637719,
+        "projected_share": 0.5062127709388733,
+        "share_low": 0.2518316641449928,
+        "share_high": 0.749437466263771,
         "projected_seats": null,
         "seats_low": null,
         "seats_high": null
       },
       {
         "contestant_id": "other",
-        "win_probability": 0.002665,
-        "projected_share": 0.07709026336669922,
-        "share_low": 0.002620472456328571,
-        "share_high": 0.242642056196928,
+        "win_probability": 0.018401,
+        "projected_share": 0.09569785743951797,
+        "share_low": 0.0024460033280774953,
+        "share_high": 0.3239370629191397,
         "projected_seats": null,
         "seats_low": null,
         "seats_high": null
+      }
+    ],
+    "scenario_outcomes": [
+      {
+        "scenario_id": "erdogan-v-imamoglu",
+        "label": "Erdoğan v İmamoğlu",
+        "weight": 0.3333333333333333,
+        "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. Equal scenario weight is structural, not a nomination probability.",
+        "source_ids": [
+          "gundemar_may_2026"
+        ],
+        "outcomes": [
+          {
+            "contestant_id": "government-nominee",
+            "win_probability": 0.3416116962930685,
+            "projected_share": 0.3979662358760834,
+            "share_low": 0.138743656873703,
+            "share_high": 0.6425639748573302,
+            "projected_seats": null,
+            "seats_low": null,
+            "seats_high": null
+          },
+          {
+            "contestant_id": "opposition-nominee",
+            "win_probability": 0.6397860287598984,
+            "projected_share": 0.5064030289649963,
+            "share_low": 0.2539186656475067,
+            "share_high": 0.7472341895103455,
+            "projected_seats": null,
+            "seats_low": null,
+            "seats_high": null
+          },
+          {
+            "contestant_id": "other",
+            "win_probability": 0.018602274947033103,
+            "projected_share": 0.09563077986240387,
+            "share_low": 0.0024475483922287824,
+            "share_high": 0.3238555550575256,
+            "projected_seats": null,
+            "seats_low": null,
+            "seats_high": null
+          }
+        ]
+      },
+      {
+        "scenario_id": "erdogan-v-yavas",
+        "label": "Erdoğan v Yavaş",
+        "weight": 0.3333333333333333,
+        "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. Equal scenario weight is structural, not a nomination probability.",
+        "source_ids": [
+          "gundemar_may_2026"
+        ],
+        "outcomes": [
+          {
+            "contestant_id": "government-nominee",
+            "win_probability": 0.2707513207161617,
+            "projected_share": 0.36969614028930664,
+            "share_low": 0.11002991273999216,
+            "share_high": 0.6135398119688034,
+            "projected_seats": null,
+            "seats_low": null,
+            "seats_high": null
+          },
+          {
+            "contestant_id": "opposition-nominee",
+            "win_probability": 0.7120748616177947,
+            "projected_share": 0.5346402525901794,
+            "share_low": 0.28410540372133253,
+            "share_high": 0.7732802122831343,
+            "projected_seats": null,
+            "seats_low": null,
+            "seats_high": null
+          },
+          {
+            "contestant_id": "other",
+            "win_probability": 0.01717381766604362,
+            "projected_share": 0.09566359966993332,
+            "share_low": 0.0024450917378999295,
+            "share_high": 0.32364358305931074,
+            "projected_seats": null,
+            "seats_low": null,
+            "seats_high": null
+          }
+        ]
+      },
+      {
+        "scenario_id": "erdogan-v-ozel",
+        "label": "Erdoğan v Özel",
+        "weight": 0.3333333333333334,
+        "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. Equal scenario weight is structural, not a nomination probability.",
+        "source_ids": [
+          "gundemar_may_2026"
+        ],
+        "outcomes": [
+          {
+            "contestant_id": "government-nominee",
+            "win_probability": 0.41889431370731695,
+            "projected_share": 0.4264611005783081,
+            "share_low": 0.1683410480618477,
+            "share_high": 0.6696054339408875,
+            "projected_seats": null,
+            "seats_low": null,
+            "seats_high": null
+          },
+          {
+            "contestant_id": "opposition-nominee",
+            "win_probability": 0.561683972601511,
+            "projected_share": 0.47774022817611694,
+            "share_low": 0.22554737329483032,
+            "share_high": 0.7188555896282196,
+            "projected_seats": null,
+            "seats_low": null,
+            "seats_high": null
+          },
+          {
+            "contestant_id": "other",
+            "win_probability": 0.01942171369117203,
+            "projected_share": 0.09579866379499435,
+            "share_low": 0.002445120830088854,
+            "share_high": 0.32427220046520233,
+            "projected_seats": null,
+            "seats_low": null,
+            "seats_high": null
+          }
+        ]
       }
     ],
     "coalition_outcomes": [],

@@ -15,7 +15,7 @@ export default function MethodologyPage() {
     <main className="method-page">
       <Link className="method-back" href="/">← SDCOFA ELECTION DESK</Link>
       <header>
-        <span>MODEL GOVERNANCE / VERSION 0.3</span>
+        <span>MODEL GOVERNANCE / VERSION 0.4</span>
         <h1>Forecast methodology</h1>
         <p>Evidence gates choose the public model. No challenger is promoted because it looks more sophisticated.</p>
       </header>
@@ -23,7 +23,17 @@ export default function MethodologyPage() {
       <section>
         <h2>Current publication state</h2>
         <p>The public forecast uses a widened baseline ensemble. Gaussian Monte Carlo and Markov-momentum models each run 1,000,000 deterministic scenarios as challengers, and every production backtest model-fold uses 1,000,000 predictive draws for winner probabilities and 90% intervals. Markov leads the U.S. short-horizon historical Brier score, while Gaussian has better RMSE and interval coverage; neither is promoted because 2–14-day evidence cannot validate the current early-cycle horizon. Forecasts without source-vintage feature snapshots are forced to grade D and list zero model-input sources.</p>
-        <p>Türkiye currently has zero verified out-of-sample folds. Its governing-versus-opposition probabilities are an exploratory scenario informed by a referenced May 2026 matchup poll and structural assumptions, not a Türkiye-backtested verdict. A roughly one-in-three path is substantial; it does not mean Erdoğan cannot win.</p>
+        <p>Türkiye currently has zero verified out-of-sample folds. Its headline is a mixture of three separately simulated May 2026 matchups—Erdoğan against İmamoğlu, Yavaş, and Özel—not a Türkiye-backtested verdict. Equal matchup weights are structural placeholders, not nomination probabilities. Conditional rows expose how the answer changes with the opponent.</p>
+      </section>
+
+      <section>
+        <h2>Time and candidate uncertainty</h2>
+        <p>Model volatility is calibrated at a 90-day reference horizon. Version 0.4 applies a transparent time multiplier: (days to election ÷ 90)<sup>0.18</sup>, bounded from 0.75× to 1.60×. Long-range forecasts therefore widen automatically instead of behaving like twelve-week calls. For unsettled ballots, one million draws sample a candidate scenario first and electoral uncertainty second; the public headline is the resulting mixture, while every conditional distribution remains visible.</p>
+        <p>One million runs reduce numerical simulation noise. They do not erase polling error, candidate uncertainty, model misspecification, or missing historical validation; those remain visible through intervals, scenario splits, quality grades, and verified-fold counts.</p>
+        <div className="method-links">
+          <a href="https://www.cambridge.org/core/journals/political-analysis/article/forecasting-elections-in-multiparty-systems-a-bayesian-approach-combining-polls-and-fundamentals/CA929544F672A09A0E34C5529EBFA482">Polls + fundamentals research</a>
+          <a href="https://arxiv.org/abs/2206.14570">Hidden-state polling error research</a>
+        </div>
       </section>
 
       <section>

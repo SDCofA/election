@@ -132,7 +132,18 @@ type ElectionDetail = {
     headline: string;
     majority_probability: number;
     turnout_median: number;
+    forecast_horizon_days?: number;
+    uncertainty_scale?: number;
+    effective_volatility?: number;
     outcomes: Outcome[];
+    scenario_outcomes?: Array<{
+      scenario_id: string;
+      label: string;
+      weight: number;
+      assumption: string;
+      source_ids: string[];
+      outcomes: Outcome[];
+    }>;
     drivers: Driver[];
     driver_sensitivity: DriverSensitivity[];
     input_provenance: Array<{ source_id: string; label: string; url: string }>;
@@ -502,7 +513,9 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
     })),
     [detail]
   );
-  const leaders = outcomes.slice(0, 2);
+  const leaders = [...outcomes]
+    .sort((left, right) => right.win_probability - left.win_probability)
+    .slice(0, 2);
   const daysAway = currentTime && detail.election.election_date
     ? Math.max(0, Math.ceil((new Date(detail.election.election_date).getTime() - currentTime) / 86_400_000))
     : 0;
@@ -627,7 +640,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
               <div className="seat-total">
                 {leaders.map(({ contestant, projected_seats }, index) => (
                   <div key={contestant.id} className={index ? "right" : ""}>
-                    <small>{contestant.short_name} MEDIAN</small><b>{projected_seats ?? pct(forecast.outcomes[index].projected_share)}</b>
+                    <small>{contestant.short_name} MEDIAN</small><b>{projected_seats ?? pct(leaders[index].projected_share)}</b>
                   </div>
                 ))}
               </div>
@@ -653,6 +666,35 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
 
           {!!detail.election.potential_candidates?.length && (
             <PossibleField contestants={detail.election.potential_candidates} />
+          )}
+
+          {!!forecast.scenario_outcomes?.length && (
+            <article className="panel scenario-panel" aria-labelledby="scenario-heading">
+              <header><span id="scenario-heading">CONDITIONAL MATCHUPS</span><small>Candidate uncertainty modeled explicitly</small></header>
+              <p>Each row conditions on a different ballot. Headline probabilities mix these scenarios using the displayed structural weights; weights are not nomination forecasts.</p>
+              <div className="scenario-grid">
+                {forecast.scenario_outcomes.map((scenario) => (
+                  <section key={scenario.scenario_id}>
+                    <div className="scenario-title"><b>{scenario.label}</b><small>{pct(scenario.weight)} MIXTURE WEIGHT</small></div>
+                    <div className="scenario-results">
+                      {scenario.outcomes.slice(0, 2).map((outcome) => {
+                        const contestant = detail.election.contestants.find((item) => item.id === outcome.contestant_id);
+                        return contestant ? (
+                          <span key={outcome.contestant_id} style={{ "--party": contestant.color } as React.CSSProperties}>
+                            <i />
+                            <small>{contestant.short_name} WIN</small>
+                            <b>{pct(outcome.win_probability)}</b>
+                            <em>{pct(outcome.projected_share)} vote · {pct(outcome.share_low)}–{pct(outcome.share_high)}</em>
+                          </span>
+                        ) : null;
+                      })}
+                    </div>
+                    <p>{scenario.assumption}</p>
+                    <small className="scenario-source">EVIDENCE: {scenario.source_ids.join(" · ")}</small>
+                  </section>
+                ))}
+              </div>
+            </article>
           )}
 
           <div className="lower-grid">
@@ -750,8 +792,11 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
             <header><span id="diagnostics-heading">MODEL DIAGNOSTICS</span><small>For the statistically curious</small></header>
             <div>
               <span><small>BINARY ENTROPY</small><b>{entropy.toFixed(3)} bits</b><em>1.000 = maximum uncertainty</em></span>
-              <span><small>MONTE CARLO SE</small><b>±{monteCarloSe.toFixed(3)} pp</b><em>At displayed lead probability</em></span>
+              <span><small>SIMULATION NOISE ONLY</small><b>±{monteCarloSe.toFixed(3)} pp</b><em>Not total forecast error</em></span>
               <span><small>90% SHARE WIDTH</small><b>{intervalWidth.toFixed(1)} pp</b><em>Leading modeled bloc</em></span>
+              <span><small>FORECAST HORIZON</small><b>{forecast.forecast_horizon_days ?? daysAway} days</b><em>Measured from model as-of date</em></span>
+              <span><small>HORIZON MULTIPLIER</small><b>×{(forecast.uncertainty_scale ?? 1).toFixed(2)}</b><em>Applied to structural volatility</em></span>
+              <span><small>EFFECTIVE VOLATILITY</small><b>{pct(forecast.effective_volatility ?? 0)}</b><em>After horizon and evidence adjustments</em></span>
               <span><small>VERIFIED FOLDS</small><b>{comparison?.fold_count ?? 0}</b><em>Strict walk-forward only</em></span>
             </div>
           </article>

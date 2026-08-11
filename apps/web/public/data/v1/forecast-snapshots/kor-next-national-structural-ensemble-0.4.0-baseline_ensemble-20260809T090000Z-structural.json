@@ -1,13 +1,13 @@
 {
-  "id": "aus-next-national-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
-  "election_id": "aus-next-national",
+  "id": "kor-next-national-structural-ensemble-0.4.0-baseline_ensemble-20260809T090000Z-structural",
+  "election_id": "kor-next-national",
   "as_of": "2026-08-09T09:00:00Z",
   "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "structural-ensemble-0.3.0",
+  "model_version": "structural-ensemble-0.4.0",
   "model_family": "baseline_ensemble",
   "selection_status": "baseline retained until reliable walk-forward promotion evidence",
   "simulation_count": 1000000,
-  "seed": 697724644,
+  "seed": 1832280972,
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "missing_drivers": [
@@ -21,40 +21,44 @@
   ],
   "regional_forecast_supported": false,
   "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
-  "majority_probability": 0.548859,
-  "turnout_median": 0.6199502944946289,
+  "majority_probability": 0.602465,
+  "turnout_median": 0.6200394630432129,
+  "forecast_horizon_days": 1096,
+  "uncertainty_scale": 1.5682028834163937,
+  "effective_volatility": 0.18,
   "outcomes": [
     {
       "contestant_id": "government-camp",
-      "win_probability": 0.444671,
-      "projected_share": 0.395527184009552,
-      "share_low": 0.1278277173638344,
-      "share_high": 0.6546785831451416,
+      "win_probability": 0.435842,
+      "projected_share": 0.39396432042121887,
+      "share_low": 0.09447720907628536,
+      "share_high": 0.6803264260292052,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "opposition-camp",
-      "win_probability": 0.442711,
-      "projected_share": 0.39563462138175964,
-      "share_low": 0.13167909607291223,
-      "share_high": 0.6519495517015456,
+      "win_probability": 0.434475,
+      "projected_share": 0.39357438683509827,
+      "share_low": 0.0985091406852007,
+      "share_high": 0.6762381494045258,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "other-field",
-      "win_probability": 0.112618,
-      "projected_share": 0.20883819460868835,
-      "share_low": 0.002801931358408183,
-      "share_high": 0.4669349297881124,
+      "win_probability": 0.129683,
+      "projected_share": 0.21246133744716644,
+      "share_low": 0.0027158085023984316,
+      "share_high": 0.4970192641019821,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     }
   ],
+  "scenario_outcomes": [],
   "coalition_outcomes": [],
   "drivers": [
     {
@@ -149,13 +153,13 @@
   "input_provenance": [],
   "provenance": [
     {
-      "source_id": "aus_electoral_authority_reference",
-      "label": "Australian Electoral Commission",
-      "url": "https://www.aec.gov.au/",
+      "source_id": "kor_electoral_authority_reference",
+      "label": "National Election Commission Republic of Korea",
+      "url": "https://www.nec.go.kr/",
       "authority": "official reference",
       "retrieved_at": "2026-08-09T09:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
-      "license_url": "https://www.aec.gov.au/"
+      "license_url": "https://www.nec.go.kr/"
     }
   ]
 }

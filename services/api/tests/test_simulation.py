@@ -2,7 +2,7 @@ import math
 
 import numpy as np
 
-from app.repository import MODEL_VERSION, get_repository
+from app.repository import MODEL_VERSION, get_repository, horizon_uncertainty_scale
 from app.simulation import (
     SIMULATION_COUNT,
     SimulationInput,
@@ -46,6 +46,36 @@ def test_all_public_g20_forecasts_produce_normalized_outcomes():
         assert math.isclose(
             sum(item.projected_share for item in snapshot.outcomes), 1, abs_tol=0.001
         )
+
+
+def test_forecast_uncertainty_expands_with_horizon_and_is_bounded():
+    assert horizon_uncertainty_scale(7) == 0.75
+    assert math.isclose(horizon_uncertainty_scale(90), 1)
+    assert horizon_uncertainty_scale(730) > horizon_uncertainty_scale(365) > 1
+    assert horizon_uncertainty_scale(10_000) == 1.60
+
+
+def test_turkiye_forecast_mixes_sourced_candidate_scenarios():
+    snapshot = get_repository().forecasts["tr-next-president"]
+    assert snapshot.forecast_horizon_days > 600
+    assert snapshot.uncertainty_scale > 1
+    assert 0.115 < snapshot.effective_volatility <= 0.18
+    assert len(snapshot.scenario_outcomes) == 3
+    assert math.isclose(sum(item.weight for item in snapshot.scenario_outcomes), 1)
+    for scenario in snapshot.scenario_outcomes:
+        assert scenario.source_ids == ["gundemar_may_2026"]
+        assert math.isclose(sum(item.win_probability for item in scenario.outcomes), 1)
+        assert math.isclose(
+            sum(item.projected_share for item in scenario.outcomes), 1, abs_tol=0.001
+        )
+    government_probabilities = {
+        item.scenario_id: item.outcomes[0].win_probability for item in snapshot.scenario_outcomes
+    }
+    assert (
+        government_probabilities["erdogan-v-ozel"]
+        > government_probabilities["erdogan-v-imamoglu"]
+        > government_probabilities["erdogan-v-yavas"]
+    )
 
 
 def test_thresholded_seat_translation_preserves_every_seat():

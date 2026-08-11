@@ -1,13 +1,13 @@
 {
-  "id": "zaf-next-national-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
-  "election_id": "zaf-next-national",
+  "id": "jpn-next-national-structural-ensemble-0.4.0-baseline_ensemble-20260809T090000Z-structural",
+  "election_id": "jpn-next-national",
   "as_of": "2026-08-09T09:00:00Z",
   "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "structural-ensemble-0.3.0",
+  "model_version": "structural-ensemble-0.4.0",
   "model_family": "baseline_ensemble",
   "selection_status": "baseline retained until reliable walk-forward promotion evidence",
   "simulation_count": 1000000,
-  "seed": 3281364544,
+  "seed": 3526572272,
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "missing_drivers": [
@@ -21,40 +21,44 @@
   ],
   "regional_forecast_supported": false,
   "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
-  "majority_probability": 0.549004,
-  "turnout_median": 0.620053768157959,
+  "majority_probability": 0.602914,
+  "turnout_median": 0.6200330853462219,
+  "forecast_horizon_days": 1096,
+  "uncertainty_scale": 1.5682028834163937,
+  "effective_volatility": 0.18,
   "outcomes": [
     {
       "contestant_id": "government-camp",
-      "win_probability": 0.443954,
-      "projected_share": 0.3955240547657013,
-      "share_low": 0.1285983458161354,
-      "share_high": 0.6547309726476669,
+      "win_probability": 0.436689,
+      "projected_share": 0.393998384475708,
+      "share_low": 0.09343160353600981,
+      "share_high": 0.6806226611137389,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "opposition-camp",
-      "win_probability": 0.444225,
-      "projected_share": 0.3960636258125305,
-      "share_low": 0.13199816793203356,
-      "share_high": 0.6521684616804122,
+      "win_probability": 0.433977,
+      "projected_share": 0.39378514885902405,
+      "share_low": 0.09880593419075012,
+      "share_high": 0.6766613453626631,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "other-field",
-      "win_probability": 0.111821,
-      "projected_share": 0.20841234922409058,
-      "share_low": 0.0028028221218846737,
-      "share_high": 0.4658089280128478,
+      "win_probability": 0.129334,
+      "projected_share": 0.21221649646759033,
+      "share_low": 0.0027171286987140776,
+      "share_high": 0.49720361530780754,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     }
   ],
+  "scenario_outcomes": [],
   "coalition_outcomes": [],
   "drivers": [
     {
@@ -149,13 +153,13 @@
   "input_provenance": [],
   "provenance": [
     {
-      "source_id": "zaf_electoral_authority_reference",
-      "label": "Electoral Commission of South Africa",
-      "url": "https://www.elections.org.za/",
+      "source_id": "jpn_electoral_authority_reference",
+      "label": "Ministry of Internal Affairs and Communications Elections",
+      "url": "https://www.soumu.go.jp/senkyo/",
       "authority": "official reference",
       "retrieved_at": "2026-08-09T09:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
-      "license_url": "https://www.elections.org.za/"
+      "license_url": "https://www.soumu.go.jp/senkyo/"
     }
   ]
 }

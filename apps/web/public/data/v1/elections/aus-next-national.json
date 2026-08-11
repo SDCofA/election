@@ -106,15 +106,15 @@
     ]
   },
   "forecast": {
-    "id": "aus-next-national-structural-ensemble-0.3.0-baseline_ensemble-20260809T090000Z-structural",
+    "id": "aus-next-national-structural-ensemble-0.4.0-baseline_ensemble-20260809T090000Z-structural",
     "election_id": "aus-next-national",
     "as_of": "2026-08-09T09:00:00Z",
     "published_at": "2026-08-09T09:00:00Z",
-    "model_version": "structural-ensemble-0.3.0",
+    "model_version": "structural-ensemble-0.4.0",
     "model_family": "baseline_ensemble",
     "selection_status": "baseline retained until reliable walk-forward promotion evidence",
     "simulation_count": 1000000,
-    "seed": 697724644,
+    "seed": 2312445967,
     "data_quality": "D",
     "freshness": "structural-only; no source-vintage feature snapshot",
     "missing_drivers": [
@@ -128,40 +128,44 @@
     ],
     "regional_forecast_supported": false,
     "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
-    "majority_probability": 0.548859,
-    "turnout_median": 0.6199502944946289,
+    "majority_probability": 0.603782,
+    "turnout_median": 0.6200050115585327,
+    "forecast_horizon_days": 1096,
+    "uncertainty_scale": 1.5682028834163937,
+    "effective_volatility": 0.18,
     "outcomes": [
       {
         "contestant_id": "government-camp",
-        "win_probability": 0.444671,
-        "projected_share": 0.395527184009552,
-        "share_low": 0.1278277173638344,
-        "share_high": 0.6546785831451416,
+        "win_probability": 0.435967,
+        "projected_share": 0.393827348947525,
+        "share_low": 0.09409617073833944,
+        "share_high": 0.680624395608902,
         "projected_seats": null,
         "seats_low": null,
         "seats_high": null
       },
       {
         "contestant_id": "opposition-camp",
-        "win_probability": 0.442711,
-        "projected_share": 0.39563462138175964,
-        "share_low": 0.13167909607291223,
-        "share_high": 0.6519495517015456,
+        "win_probability": 0.434164,
+        "projected_share": 0.3938601613044739,
+        "share_low": 0.09827925860881806,
+        "share_high": 0.6776139020919798,
         "projected_seats": null,
         "seats_low": null,
         "seats_high": null
       },
       {
         "contestant_id": "other-field",
-        "win_probability": 0.112618,
-        "projected_share": 0.20883819460868835,
-        "share_low": 0.002801931358408183,
-        "share_high": 0.4669349297881124,
+        "win_probability": 0.129869,
+        "projected_share": 0.2123125195503235,
+        "share_low": 0.0027164366212673484,
+        "share_high": 0.49741705954074855,
         "projected_seats": null,
         "seats_low": null,
         "seats_high": null
       }
     ],
+    "scenario_outcomes": [],
     "coalition_outcomes": [],
     "drivers": [
       {

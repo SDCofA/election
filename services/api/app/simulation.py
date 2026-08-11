@@ -7,10 +7,26 @@ from itertools import combinations
 
 import numpy as np
 
-from .models import CoalitionForecast, ContestantForecast, Election, ElectionSystem
+from .models import (
+    CoalitionForecast,
+    ContestantForecast,
+    Election,
+    ElectionSystem,
+    ScenarioForecast,
+)
 from .systems import largest_remainder, national_proxy_seats
 
 SIMULATION_COUNT = 1_000_000
+
+
+@dataclass(frozen=True)
+class ScenarioInput:
+    scenario_id: str
+    label: str
+    weight: float
+    base_shares: tuple[float, ...]
+    assumption: str
+    source_ids: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -28,6 +44,7 @@ class SimulationInput:
     turnout_sensitivity: tuple[float, ...] = ()
     markov_transition: tuple[tuple[float, ...], ...] = ()
     markov_step: float | None = None
+    scenarios: tuple[ScenarioInput, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -36,6 +53,7 @@ class SimulationResult:
     outcomes: list[ContestantForecast]
     majority_probability: float
     turnout_median: float
+    scenario_outcomes: list[ScenarioForecast]
     coalition_outcomes: list[CoalitionForecast]
 
 
@@ -127,11 +145,33 @@ def run_simulation(config: SimulationInput, model_version: str) -> SimulationRes
         raise ValueError("Each contestant requires one base share")
     if not math.isclose(sum(config.base_shares), 1.0, abs_tol=0.001):
         raise ValueError("Base shares must sum to one")
+    if config.scenarios:
+        if not math.isclose(sum(item.weight for item in config.scenarios), 1.0, abs_tol=1e-6):
+            raise ValueError("Scenario weights must sum to one")
+        for scenario in config.scenarios:
+            if scenario.weight <= 0:
+                raise ValueError("Scenario weights must be positive")
+            if len(scenario.base_shares) != len(config.election.contestants):
+                raise ValueError("Scenario shares must match contestant count")
+            if not math.isclose(sum(scenario.base_shares), 1.0, abs_tol=0.001):
+                raise ValueError("Scenario shares must sum to one")
 
     seed = stable_seed(config.election.id, model_version)
     rng = np.random.default_rng(seed)
     candidate_count = len(config.base_shares)
-    base = np.asarray(config.base_shares, dtype=np.float32)
+    scenario_indexes: np.ndarray | None = None
+    if config.scenarios:
+        scenario_indexes = rng.choice(
+            len(config.scenarios),
+            size=SIMULATION_COUNT,
+            p=np.asarray([item.weight for item in config.scenarios], dtype=np.float64),
+        )
+        scenario_bases = np.asarray(
+            [item.base_shares for item in config.scenarios], dtype=np.float32
+        )
+        base = scenario_bases[scenario_indexes]
+    else:
+        base = np.asarray(config.base_shares, dtype=np.float32)
     if config.house_effects and len(config.house_effects) != candidate_count:
         raise ValueError("House effects must match contestant count")
     if config.turnout_sensitivity and len(config.turnout_sensitivity) != candidate_count:
@@ -233,6 +273,53 @@ def run_simulation(config: SimulationInput, model_version: str) -> SimulationRes
             )
         )
 
+    scenario_outcomes = []
+    if scenario_indexes is not None:
+        for scenario_index, scenario in enumerate(config.scenarios):
+            selected = scenario_indexes == scenario_index
+            selected_count = int(np.count_nonzero(selected))
+            if selected_count == 0:
+                raise ValueError("Each scenario must receive at least one simulation")
+            conditional_wins = np.bincount(winners[selected], minlength=candidate_count)
+            conditional = []
+            for contestant_index, contestant in enumerate(config.election.contestants):
+                scenario_shares = shares[selected, contestant_index]
+                share_low, share_high = np.quantile(scenario_shares, [0.05, 0.95])
+                scenario_seats = (
+                    seat_matrix[selected, contestant_index] if seat_matrix is not None else None
+                )
+                seat_low, seat_high = (
+                    np.quantile(scenario_seats, [0.05, 0.95])
+                    if scenario_seats is not None
+                    else (None, None)
+                )
+                conditional.append(
+                    ContestantForecast(
+                        contestant_id=contestant.id,
+                        win_probability=float(conditional_wins[contestant_index] / selected_count),
+                        projected_share=float(np.mean(scenario_shares)),
+                        share_low=float(share_low),
+                        share_high=float(share_high),
+                        projected_seats=(
+                            round(float(np.mean(scenario_seats)))
+                            if scenario_seats is not None
+                            else None
+                        ),
+                        seats_low=round(float(seat_low)) if seat_low is not None else None,
+                        seats_high=round(float(seat_high)) if seat_high is not None else None,
+                    )
+                )
+            scenario_outcomes.append(
+                ScenarioForecast(
+                    scenario_id=scenario.scenario_id,
+                    label=scenario.label,
+                    weight=scenario.weight,
+                    assumption=scenario.assumption,
+                    source_ids=list(scenario.source_ids),
+                    outcomes=conditional,
+                )
+            )
+
     coalition_outcomes = []
     parliamentary_systems = {
         ElectionSystem.FPTP,
@@ -268,5 +355,6 @@ def run_simulation(config: SimulationInput, model_version: str) -> SimulationRes
         outcomes=outcomes,
         majority_probability=majorities / SIMULATION_COUNT,
         turnout_median=float(np.median(turnout_samples)),
+        scenario_outcomes=scenario_outcomes,
         coalition_outcomes=coalition_outcomes,
     )
