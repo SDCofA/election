@@ -11,6 +11,15 @@
       "license_url": "https://www.ysk.gov.tr/"
     },
     {
+      "source_id": "turkiye_ysk_presidential_archive",
+      "label": "Supreme Election Council presidential election archive",
+      "url": "https://www.ysk.gov.tr/tr/cumhurbaskani-secim-arsivi/2649",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ysk.gov.tr/"
+    },
+    {
       "source_id": "ak_party_2028_signal",
       "label": "AK Party statement supporting an Erdoğan candidacy in 2028",
       "url": "https://www.akparti.org.tr/haberler/genel-sekreterimiz-%C4%B1nan-vefa-iftari-programinda-konustu-27-02-2026-23-14-39/",
@@ -59,6 +68,15 @@
       "url": "https://www.ysk.gov.tr/doc/dosyalar/docs/YEN%C4%B0-KAPAKLI-ELECTION-STATISTICS-2020-2024-ENG-11-11-2025.pdf",
       "authority": "official",
       "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ysk.gov.tr/"
+    },
+    {
+      "source_id": "turkiye_ysk_presidential_archive",
+      "label": "Supreme Election Council presidential election archive",
+      "url": "https://www.ysk.gov.tr/tr/cumhurbaskani-secim-arsivi/2649",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
       "license_url": "https://www.ysk.gov.tr/"
     },

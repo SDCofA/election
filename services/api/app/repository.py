@@ -190,7 +190,9 @@ class CatalogRepository:
                 self.forecasts[election.id] = snapshot
                 self.snapshots[snapshot.id] = snapshot
                 self.published_snapshots[snapshot.id] = snapshot
-                self.comparisons[election.id] = self._model_comparison(election, snapshot, report)
+                self.comparisons[election.id] = self._model_comparison(
+                    election, snapshot, report, data
+                )
                 if report is not None:
                     self.backtest_reports[election.id] = report
         self._load_persisted_forecasts()
@@ -294,8 +296,11 @@ class CatalogRepository:
         election: Election,
         snapshot: ForecastSnapshot,
         report: BacktestReport | None,
+        data: dict,
     ) -> ModelComparison:
         if report is None:
+            feasibility = data.get("backtest_feasibility", {})
+            constraints = list(feasibility.get("validation_constraints", []))
             return ModelComparison(
                 election_id=election.id,
                 status="insufficient_historical_vintages",
@@ -308,8 +313,13 @@ class CatalogRepository:
                 ),
                 metrics=[],
                 leakage_check=True,
+                historical_election_count=int(feasibility.get("historical_election_count", 0)),
+                historical_span_years=int(feasibility.get("historical_span_years", 0)),
+                maximum_held_out_elections=int(feasibility.get("maximum_held_out_elections", 0)),
+                validation_constraints=constraints,
                 message=(
-                    "No champion declared: no approved historical source-vintage dataset is "
+                    feasibility.get("message")
+                    or "No champion declared: no approved historical source-vintage dataset is "
                     "attached to this jurisdiction pack."
                 ),
                 **CatalogRepository._snapshot_metadata(snapshot),

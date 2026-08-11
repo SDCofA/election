@@ -16,6 +16,7 @@
   },
   "source_adapters": [
     {"source_id":"turkiye_ysk","status":"reference_only_no_ingestion","formats":["html","pdf"]},
+    {"source_id":"turkiye_ysk_presidential_archive","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"ak_party_2028_signal","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"chp_presidential_primary","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"gundemar_may_2026","status":"reference_only_no_ingestion","formats":["html"]},
@@ -101,6 +102,15 @@
         "license_url": "https://www.ysk.gov.tr/"
       },
       {
+        "source_id": "turkiye_ysk_presidential_archive",
+        "label": "Supreme Election Council presidential election archive",
+        "url": "https://www.ysk.gov.tr/tr/cumhurbaskani-secim-arsivi/2649",
+        "authority": "official",
+        "retrieved_at": "2026-08-11T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.ysk.gov.tr/"
+      },
+      {
         "source_id": "ak_party_2028_signal",
         "label": "AK Party statement supporting an Erdoğan candidacy in 2028",
         "url": "https://www.akparti.org.tr/haberler/genel-sekreterimiz-%C4%B1nan-vefa-iftari-programinda-konustu-27-02-2026-23-14-39/",
@@ -137,6 +147,19 @@
         "license_url": "https://polymarket.com/tos"
       }
     ]
+  },
+  "backtest_feasibility": {
+    "historical_election_count": 3,
+    "historical_span_years": 9,
+    "maximum_held_out_elections": 1,
+    "message": "No champion declared: Türkiye has only three completed direct presidential elections (2014, 2018, and 2023). With two elections reserved for training, only one distinct held-out election is possible.",
+    "validation_constraints": [
+      "Only three completed direct presidential elections exist in the current constitutional era: 2014, 2018, and 2023.",
+      "A minimum two-election training window leaves at most one distinct held-out presidential election; the promotion gate requires three.",
+      "The available direct-presidential history spans nine years; the reliability gate requires twenty.",
+      "Archived, publication-date-verifiable poll vintages are still required before any retrospective fold can be labeled verified."
+    ],
+    "source_ids": ["turkiye_ysk_presidential_archive"]
   },
   "model": {
     "base_shares": [0.425, 0.525, 0.05],

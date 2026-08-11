@@ -194,6 +194,10 @@ class ModelComparison(BaseModel):
     evaluation_period_end: date | None = None
     dataset_sha256: str | None = None
     vintage_verified: bool = False
+    historical_election_count: int = Field(default=0, ge=0)
+    historical_span_years: int = Field(default=0, ge=0)
+    maximum_held_out_elections: int = Field(default=0, ge=0)
+    validation_constraints: list[str] = Field(default_factory=list)
     message: str
     as_of: datetime
     published_at: datetime

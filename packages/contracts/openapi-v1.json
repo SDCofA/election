@@ -1233,6 +1233,12 @@
             "title": "Held Out Election Count",
             "type": "integer"
           },
+          "historical_election_count": {
+            "default": 0,
+            "minimum": 0.0,
+            "title": "Historical Election Count",
+            "type": "integer"
+          },
           "historical_leader": {
             "anyOf": [
               {
@@ -1244,9 +1250,21 @@
             ],
             "title": "Historical Leader"
           },
+          "historical_span_years": {
+            "default": 0,
+            "minimum": 0.0,
+            "title": "Historical Span Years",
+            "type": "integer"
+          },
           "leakage_check": {
             "title": "Leakage Check",
             "type": "boolean"
+          },
+          "maximum_held_out_elections": {
+            "default": 0,
+            "minimum": 0.0,
+            "title": "Maximum Held Out Elections",
+            "type": "integer"
           },
           "message": {
             "title": "Message",
@@ -1299,6 +1317,13 @@
               }
             ],
             "title": "Target Horizon Days"
+          },
+          "validation_constraints": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Validation Constraints",
+            "type": "array"
           },
           "vintage_verified": {
             "default": false,

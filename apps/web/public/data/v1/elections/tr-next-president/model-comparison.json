@@ -16,7 +16,16 @@
   "evaluation_period_end": null,
   "dataset_sha256": null,
   "vintage_verified": false,
-  "message": "No champion declared: no approved historical source-vintage dataset is attached to this jurisdiction pack.",
+  "historical_election_count": 3,
+  "historical_span_years": 9,
+  "maximum_held_out_elections": 1,
+  "validation_constraints": [
+    "Only three completed direct presidential elections exist in the current constitutional era: 2014, 2018, and 2023.",
+    "A minimum two-election training window leaves at most one distinct held-out presidential election; the promotion gate requires three.",
+    "The available direct-presidential history spans nine years; the reliability gate requires twenty.",
+    "Archived, publication-date-verifiable poll vintages are still required before any retrospective fold can be labeled verified."
+  ],
+  "message": "No champion declared: Türkiye has only three completed direct presidential elections (2014, 2018, and 2023). With two elections reserved for training, only one distinct held-out election is possible.",
   "as_of": "2026-08-09T18:00:00Z",
   "published_at": "2026-08-09T18:00:00Z",
   "model_version": "structural-ensemble-0.4.0",
@@ -29,6 +38,15 @@
       "url": "https://www.ysk.gov.tr/doc/dosyalar/docs/YEN%C4%B0-KAPAKLI-ELECTION-STATISTICS-2020-2024-ENG-11-11-2025.pdf",
       "authority": "official",
       "retrieved_at": "2026-08-09T18:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ysk.gov.tr/"
+    },
+    {
+      "source_id": "turkiye_ysk_presidential_archive",
+      "label": "Supreme Election Council presidential election archive",
+      "url": "https://www.ysk.gov.tr/tr/cumhurbaskani-secim-arsivi/2649",
+      "authority": "official",
+      "retrieved_at": "2026-08-11T12:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
       "license_url": "https://www.ysk.gov.tr/"
     },

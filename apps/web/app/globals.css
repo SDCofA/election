@@ -353,6 +353,14 @@ h1 strong { font-weight: 400; color: #55514a; }
 .comparison-metrics-row { border-top: 1px solid var(--line); color: #55524e; font: 600 9px/1.2 ui-monospace, monospace; }
 .comparison-metrics-row span:first-child { color: #111; text-transform: uppercase; }
 .comparison-evidence-empty { padding: 11px 15px; color: #785900; background: #fff8dc; font: 750 8px/1.2 var(--font-display); letter-spacing: .08em; }
+.validation-constraints { padding: 15px; border-top: 1px solid var(--line); background: #fffdf6; }
+.validation-constraints > div { margin-bottom: 13px; display: grid; grid-template-columns: repeat(3, 1fr); border: 1px solid var(--line); }
+.validation-constraints span { padding: 10px; display: grid; gap: 4px; border-inline-end: 1px solid var(--line); background: #fff; }
+.validation-constraints span:last-child { border-inline-end: 0; }
+.validation-constraints small { color: #6b6862; font-size: 7px; font-weight: 800; letter-spacing: .08em; }
+.validation-constraints b { font: 700 17px/1 var(--font-display); }
+.validation-constraints > strong { color: #785900; font-size: 8px; letter-spacing: .08em; }
+.validation-constraints ul { margin: 9px 0 0; padding-inline-start: 18px; color: #5d5952; font-size: 9px; line-height: 1.55; }
 .diagnostics-panel > div { display: grid; grid-template-columns: repeat(auto-fit, minmax(145px, 1fr)); }
 .diagnostics-panel > div > span { min-width: 0; padding: 18px 15px; display: grid; gap: 6px; border-inline-end: 1px solid var(--line); background: #faf9f6; }
 .diagnostics-panel > div > span:last-child { border-inline-end: 0; }

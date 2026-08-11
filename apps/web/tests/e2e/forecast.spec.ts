@@ -129,6 +129,9 @@ test("Türkiye exposes a million-run exploratory forecast and named possibilitie
   await expect(page.getByText("Erdoğan v Özel", { exact: true })).toBeVisible();
   await expect(page.getByText("SIMULATION NOISE ONLY")).toBeVisible();
   await expect(page.getByText("HORIZON MULTIPLIER")).toBeVisible();
+  await expect(page.getByText("WHY THIS IS NOT A RELIABLE BACKTEST")).toBeVisible();
+  await expect(page.getByText("DIRECT ELECTIONS")).toBeVisible();
+  await expect(page.getByText(/only one distinct held-out election/i)).toBeVisible();
   await expect(page.getByText(/0 jurisdiction-specific out-of-sample folds/)).toBeVisible();
   await expect(page.locator(".candidate").filter({ hasText: "Erdoğan" })).toContainText("UNDERDOG · REAL PATH");
 });

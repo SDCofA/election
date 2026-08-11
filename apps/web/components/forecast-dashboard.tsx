@@ -787,6 +787,17 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
             ) : (
               <div className="comparison-evidence-empty">0 VERIFIED OUT-OF-SAMPLE FOLDS · NO WINNER DECLARED</div>
             )}
+            {!!comparison?.validation_constraints?.length && (
+              <div className="validation-constraints">
+                <div>
+                  <span><small>DIRECT ELECTIONS</small><b>{comparison.historical_election_count}</b></span>
+                  <span><small>HISTORY SPAN</small><b>{comparison.historical_span_years} years</b></span>
+                  <span><small>MAXIMUM HOLDOUTS</small><b>{comparison.maximum_held_out_elections}</b></span>
+                </div>
+                <strong>WHY THIS IS NOT A RELIABLE BACKTEST</strong>
+                <ul>{comparison.validation_constraints.map((constraint) => <li key={constraint}>{constraint}</li>)}</ul>
+              </div>
+            )}
           </article>
           <article className="panel diagnostics-panel" aria-labelledby="diagnostics-heading">
             <header><span id="diagnostics-heading">MODEL DIAGNOSTICS</span><small>For the statistically curious</small></header>

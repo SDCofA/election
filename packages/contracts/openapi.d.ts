@@ -831,10 +831,25 @@ export interface components {
              * @default 0
              */
             held_out_election_count: number;
+            /**
+             * Historical Election Count
+             * @default 0
+             */
+            historical_election_count: number;
             /** Historical Leader */
             historical_leader?: string | null;
+            /**
+             * Historical Span Years
+             * @default 0
+             */
+            historical_span_years: number;
             /** Leakage Check */
             leakage_check: boolean;
+            /**
+             * Maximum Held Out Elections
+             * @default 0
+             */
+            maximum_held_out_elections: number;
             /** Message */
             message: string;
             /** Metrics */
@@ -859,6 +874,8 @@ export interface components {
             status: string;
             /** Target Horizon Days */
             target_horizon_days?: number | null;
+            /** Validation Constraints */
+            validation_constraints?: string[];
             /**
              * Vintage Verified
              * @default false

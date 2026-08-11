@@ -145,6 +145,11 @@ def test_forecast_contract_and_exploratory_forecasts():
     assert comparison["fold_count"] == 0
     assert comparison["winner"] is None
     assert comparison["status"] == "insufficient_historical_vintages"
+    assert comparison["historical_election_count"] == 3
+    assert comparison["historical_span_years"] == 9
+    assert comparison["maximum_held_out_elections"] == 1
+    assert len(comparison["validation_constraints"]) == 4
+    assert "only one distinct held-out election" in comparison["message"]
 
 
 def test_unknown_election_is_404():
@@ -184,6 +189,7 @@ def test_model_comparison_reports_short_horizon_leader_without_promoting_it():
     assert comparison["evaluated_horizon_min_days"] == 2
     assert comparison["evaluated_horizon_max_days"] == 14
     assert comparison["target_horizon_days"] == 821
+    assert "baseline_ensemble" in {metric["model_family"] for metric in comparison["metrics"]}
     assert "outside the evaluated" in comparison["message"]
     assert len(comparison["dataset_sha256"]) == 64
     assert comparison["provenance"]
