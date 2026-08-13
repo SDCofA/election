@@ -172,6 +172,42 @@
         "license_url": "https://www.gundemar.com/"
       },
       {
+        "source_id": "gundemar_march_2026_issue_salience",
+        "label": "March 2026 issue salience: economy 50.33%; security 2.97%",
+        "url": "https://www.gundemar.com/arastirmalarimiz/turkiyede-kurumlara-guven-mart-2026",
+        "authority": "pollster; CATI and CAWI, 23-26 March 2026",
+        "retrieved_at": "2026-08-13T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://www.gundemar.com/"
+      },
+      {
+        "source_id": "aytac_carkoglu_2021_security_salience",
+        "label": "Türkiye panel study: security effects depend on salience and perceived party competence",
+        "url": "https://doi.org/10.1177/1354068819890060",
+        "authority": "peer-reviewed research; Political Psychology",
+        "retrieved_at": "2026-08-13T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://doi.org/10.1177/1354068819890060"
+      },
+      {
+        "source_id": "ari_et_al_2024_security_local_control",
+        "label": "Türkiye study: electoral response to attacks is conditional on local political control",
+        "url": "https://doi.org/10.1177/00223433221126715",
+        "authority": "peer-reviewed research; Journal of Peace Research",
+        "retrieved_at": "2026-08-13T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://doi.org/10.1177/00223433221126715"
+      },
+      {
+        "source_id": "yardimci_2024_security_incumbent",
+        "label": "Türkiye study: terror attacks can reduce rather than increase incumbent vote",
+        "url": "https://doi.org/10.1111/ecpo.12274",
+        "authority": "peer-reviewed research; Economics & Politics",
+        "retrieved_at": "2026-08-13T12:00:00Z",
+        "license": "LINK-ONLY-NO-INGESTION",
+        "license_url": "https://doi.org/10.1111/ecpo.12274"
+      },
+      {
         "source_id": "polymarket_turkiye",
         "label": "Polymarket Türkiye markets — auxiliary timing and constitutional signal",
         "url": "https://polymarket.com/politics/turkey",
@@ -202,7 +238,7 @@
     "turnout": 0.84,
     "data_quality": "D",
     "freshness": "exploratory long-range scenario; active field eligibility-gated as of 13 August 2026",
-    "headline": "The active model excludes İmamoğlu while his degree remains annulled and now mixes only the sourced Yavaş and Özel opposition scenarios. Erdoğan or another governing nominee retains a material path; Türkiye has only one held-out election, not a validated model.",
+    "headline": "March 2026 issue-salience data does not justify a pro-government security adjustment: 2.97% named security as Türkiye's top problem, versus 50.33% for the economy. Current sourced matchup polls favor the opposition, but the 633-day horizon, unresolved nominees and only one distinct held-out election make this a low-confidence scenario—not a claim that Erdoğan will lose.",
     "scenarios": [
       {
         "id": "erdogan-v-yavas",
@@ -227,6 +263,7 @@
     {"key":"economy","label":"Cost of living and macroeconomy","value":"Opposition-leaning pressure","contribution":-0.46,"direction":"government","confidence":0.68},
     {"key":"opposition_selection","label":"Opposition nominee coordination","value":"İmamoğlu legally blocked; replacement unresolved","contribution":-0.18,"direction":"government","confidence":0.42},
     {"key":"eligibility","label":"Candidate eligibility gate","value":"İmamoğlu excluded; Erdoğan path conditional","contribution":-0.08,"direction":"government","confidence":0.38},
-    {"key":"security","label":"Security and regional risk","value":"Elevated volatility","contribution":0.12,"direction":"government","confidence":0.35}
+    {"key":"security","label":"Security issue-salience gate","value":"2.97% top issue in Mar 2026; coefficient inactive","contribution":0.0,"direction":"neutral","confidence":0.72},
+    {"key":"security_ownership","label":"Security party-ownership effect","value":"Conditional and sign-ambiguous in Türkiye research","contribution":0.0,"direction":"neutral","confidence":0.66}
   ]
 }

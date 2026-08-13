@@ -874,7 +874,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
             </article>
 
             <article className="panel drivers-panel" id="drivers">
-              <header><span>{t("forecast.drivers")}</span><small>Directional contribution</small></header>
+              <header><span>{t("forecast.drivers")}</span><small>{forecast.driver_sensitivity.length > 0 ? "Directional contribution" : "Context only — zero model effect"}</small></header>
               <div className="drivers">
                 {forecast.drivers.map((driver) => (
                   <div className="driver" key={driver.key}>
@@ -884,7 +884,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
                   </div>
                 ))}
               </div>
-              <footer><span>CHALLENGER ←</span><b>CONFIDENCE</b><span>→ INCUMBENT</span></footer>
+              <footer><span>{forecast.driver_sensitivity.length > 0 ? "CHALLENGER ←" : "CONTEXT"}</span><b>CONFIDENCE</b><span>{forecast.driver_sensitivity.length > 0 ? "→ INCUMBENT" : "NOT SCORED"}</span></footer>
               {forecast.driver_sensitivity.length > 0 && (
                 <div className="sensitivity-wrap">
                   <div className="sensitivity-title">
