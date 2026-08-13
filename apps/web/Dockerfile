@@ -3,8 +3,10 @@ RUN corepack enable
 WORKDIR /workspace
 COPY package.json pnpm-workspace.yaml pnpm-lock.yaml ./
 COPY apps/web/package.json apps/web/package.json
+COPY packages/contracts/package.json packages/contracts/package.json
 RUN pnpm install --frozen-lockfile --filter @elexion/web...
 COPY apps/web apps/web
+COPY packages/contracts packages/contracts
 RUN pnpm --filter @elexion/web build
 
 FROM node:24-alpine AS runtime
