@@ -145,7 +145,7 @@ test("Türkiye exposes a million-run exploratory forecast and named possibilitie
   await expect(page.locator('img[src*="recep-tayyip-erdogan"]').first()).toBeVisible();
   await expect(page.locator('img[src*="tr-chp"]').first()).toBeVisible();
   await expect(page.getByText("Recep Tayyip Erdoğan", { exact: true }).first()).toBeVisible();
-  await expect(page.getByText(/legally blocked — excluded from active model/i)).toBeVisible();
+  await expect(page.locator(".possible-field-grid .candidate-inactive")).toContainText("Ekrem İmamoğlu");
   await expect(page.getByText("Mansur Yavaş", { exact: true })).toBeVisible();
   await expect(page.getByText("Özgür Özel", { exact: true })).toBeVisible();
   await expect(page.getByText("CONDITIONAL MATCHUPS")).toBeVisible();

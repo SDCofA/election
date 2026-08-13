@@ -452,7 +452,7 @@ def test_packaged_turkiye_report_uses_archived_origins_without_overclaiming():
     report = load_backtest_report(
         report_path,
         dataset_sha256=dataset.dataset_sha256,
-        target_horizon_days=637,
+        target_horizon_days=633,
         expected_sha256=hashlib.sha256(report_path.read_bytes()).hexdigest(),
     )
     assert len(dataset.records) == 9
