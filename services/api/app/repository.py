@@ -44,7 +44,7 @@ from .systems import validate_pack_rules
 PACKS_DIR = Path(__file__).parent / "packs"
 BACKTESTS_DIR = Path(__file__).parent / "backtests"
 CATALOG_PATH = Path(__file__).parent / "catalog" / "vdem-v16.json"
-MODEL_VERSION = "structural-ensemble-0.6.0"
+MODEL_VERSION = "structural-ensemble-0.6.1"
 G20_COUNTRY_IDS = frozenset(
     {
         "arg",

@@ -57,12 +57,16 @@ def test_forecast_uncertainty_expands_with_horizon_and_is_bounded():
     assert horizon_uncertainty_scale(10_000) == 1.60
 
 
-def test_turkiye_forecast_mixes_sourced_candidate_scenarios():
+def test_turkiye_forecast_excludes_legally_blocked_candidate_scenario():
     snapshot = get_repository().forecasts["tr-next-president"]
     assert snapshot.forecast_horizon_days > 600
     assert snapshot.uncertainty_scale > 1
     assert 0.115 < snapshot.effective_volatility <= 0.18
-    assert len(snapshot.scenario_outcomes) == 3
+    assert len(snapshot.scenario_outcomes) == 2
+    assert {item.scenario_id for item in snapshot.scenario_outcomes} == {
+        "erdogan-v-yavas",
+        "erdogan-v-ozel",
+    }
     assert math.isclose(sum(item.weight for item in snapshot.scenario_outcomes), 1)
     for scenario in snapshot.scenario_outcomes:
         assert scenario.source_ids == ["gundemar_may_2026"]
@@ -73,11 +77,7 @@ def test_turkiye_forecast_mixes_sourced_candidate_scenarios():
     government_probabilities = {
         item.scenario_id: item.outcomes[0].win_probability for item in snapshot.scenario_outcomes
     }
-    assert (
-        government_probabilities["erdogan-v-ozel"]
-        > government_probabilities["erdogan-v-imamoglu"]
-        > government_probabilities["erdogan-v-yavas"]
-    )
+    assert government_probabilities["erdogan-v-ozel"] > government_probabilities["erdogan-v-yavas"]
 
 
 def test_thresholded_seat_translation_preserves_every_seat():

@@ -439,6 +439,8 @@ h1 strong { font-weight: 400; color: #55514a; }
 .possible-field-panel { grid-column: 1 / -1; }
 .possible-field-grid { margin: 0 22px; display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 10px; }
 .possible-field-grid > div { min-height: 118px; padding: 14px; display: grid; grid-template-columns: 42px 1fr; align-content: start; gap: 8px 11px; border: 1px solid var(--line); border-top: 4px solid var(--party); background: #fff; }
+.possible-field-grid > div.candidate-inactive { border-color: #c8b8a7; border-top-color: #8b2b2b; background: repeating-linear-gradient(135deg, #faf7f3, #faf7f3 9px, #f4eee8 9px, #f4eee8 18px); }
+.possible-field-grid > div.candidate-inactive small { color: #8b2b2b; font-weight: 800; }
 .possible-field-grid i { width: 42px; height: 42px; display: grid; place-content: center; border-radius: 50%; color: #fff; background: #242c34; box-shadow: inset 0 0 0 3px var(--party); font: 800 9px/1 var(--font-display); font-style: normal; }
 .possible-field-grid i.has-visual { overflow: hidden; border: 2px solid var(--party); background: #fff; box-shadow: none; }
 .possible-field-grid i.has-visual img { width: 100%; height: 100%; padding: 4px; object-fit: contain; }

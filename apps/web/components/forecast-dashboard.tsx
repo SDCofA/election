@@ -303,7 +303,11 @@ function PossibleField({ contestants, electionId }: { contestants: Contestant[];
       <p>Uncertainty does not require an empty page. These are sourced possibilities, not certified nominees; forecast probabilities may represent broader nominee scenarios.</p>
       <div className="possible-field-grid">
         {contestants.map((contestant) => (
-          <div key={contestant.id} style={{ "--party": contestant.color } as React.CSSProperties}>
+          <div
+            className={contestant.ballot_status?.includes("blocked") ? "candidate-inactive" : undefined}
+            key={contestant.id}
+            style={{ "--party": contestant.color } as React.CSSProperties}
+          >
             <i className={contestantVisual(electionId, contestant.id) ? "has-visual" : ""}>
               <VisualMark contestant={contestant} electionId={electionId} />
             </i>

@@ -149,6 +149,16 @@ def test_forecast_contract_and_exploratory_forecasts():
         "Mansur Yavaş",
         "Özgür Özel",
     }
+    imamoglu = next(
+        item
+        for item in turkiye.json()["election"]["potential_candidates"]
+        if item["id"] == "imamoglu"
+    )
+    assert "legally blocked" in imamoglu["ballot_status"]
+    assert {item["scenario_id"] for item in turkiye.json()["forecast"]["scenario_outcomes"]} == {
+        "erdogan-v-yavas",
+        "erdogan-v-ozel",
+    }
 
     comparison = client.get("/v1/elections/tr-next-president/model-comparison").json()
     assert comparison["fold_count"] == 3

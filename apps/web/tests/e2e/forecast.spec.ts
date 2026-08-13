@@ -145,11 +145,12 @@ test("Türkiye exposes a million-run exploratory forecast and named possibilitie
   await expect(page.locator('img[src*="recep-tayyip-erdogan"]').first()).toBeVisible();
   await expect(page.locator('img[src*="tr-chp"]').first()).toBeVisible();
   await expect(page.getByText("Recep Tayyip Erdoğan", { exact: true }).first()).toBeVisible();
+  await expect(page.getByText(/legally blocked — excluded from active model/i)).toBeVisible();
   await expect(page.getByText("Mansur Yavaş", { exact: true })).toBeVisible();
   await expect(page.getByText("Özgür Özel", { exact: true })).toBeVisible();
   await expect(page.getByText("CONDITIONAL MATCHUPS")).toBeVisible();
-  await expect(page.locator(".scenario-grid > section")).toHaveCount(3);
-  await expect(page.getByText("Erdoğan v İmamoğlu", { exact: true })).toBeVisible();
+  await expect(page.locator(".scenario-grid > section")).toHaveCount(2);
+  await expect(page.getByText("Erdoğan v İmamoğlu", { exact: true })).toHaveCount(0);
   await expect(page.getByText("Erdoğan v Yavaş", { exact: true })).toBeVisible();
   await expect(page.getByText("Erdoğan v Özel", { exact: true })).toBeVisible();
   await expect(page.getByText("SIMULATION NOISE ONLY")).toBeVisible();
