@@ -22,9 +22,9 @@
     {"source_id":"australia_alp_leadership","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"australia_wikipedia_revision_archive","status":"approved","formats":["wikitext"]}
   ],
-  "backtest_dataset": "au-federal-tpp-2010-2025-v1.json",
-  "backtest_report": "au-federal-tpp-2010-2025-v1-report.json",
-  "backtest_report_sha256": "f6737e1954dcfbb66083b55cc30b1c1c26b293e56be2a250b235df0b57bbcd23",
+  "backtest_dataset": "au-federal-tpp-2004-2025-v2.json",
+  "backtest_report": "au-federal-tpp-2004-2025-v2-report.json",
+  "backtest_report_sha256": "d38d02fc5a97c6ad6514afe29384669b319af10da14c7564b31f5d79d2d4b91a",
   "rules": {
     "engine": "unresolved",
     "forecast_mode": "national_control_scenario",

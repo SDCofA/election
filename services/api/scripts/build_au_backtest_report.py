@@ -12,8 +12,8 @@ from app.backtest import (
 )
 
 BACKTESTS_ROOT = Path(__file__).resolve().parents[1] / "app" / "backtests"
-DATASET_PATH = BACKTESTS_ROOT / "au-federal-tpp-2010-2025-v1.json"
-OUTPUT_PATH = BACKTESTS_ROOT / "au-federal-tpp-2010-2025-v1-report.json"
+DATASET_PATH = BACKTESTS_ROOT / "au-federal-tpp-2004-2025-v2.json"
+OUTPUT_PATH = BACKTESTS_ROOT / "au-federal-tpp-2004-2025-v2-report.json"
 TARGET_HORIZON_DAYS = 648
 
 

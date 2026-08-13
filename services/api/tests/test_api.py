@@ -170,9 +170,9 @@ def test_forecast_contract_and_exploratory_forecasts():
         "Hung parliament / crossbench balance",
     }
     australia_comparison = client.get("/v1/elections/aus-next-national/model-comparison").json()
-    assert australia_comparison["fold_count"] == 9
-    assert australia_comparison["held_out_election_count"] == 3
-    assert australia_comparison["historical_leader"] == "gaussian_monte_carlo"
+    assert australia_comparison["fold_count"] == 14
+    assert australia_comparison["held_out_election_count"] == 5
+    assert australia_comparison["historical_leader"] == "markov_momentum"
     assert australia_comparison["vintage_verified"] is True
     assert 0 <= australia_comparison["fitted_poll_weight"] <= 1
     assert australia_comparison["status"] == "insufficient_evidence"

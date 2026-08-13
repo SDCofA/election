@@ -1,0 +1,410 @@
+{{future election}}
+{{Infobox Election Campaign
+<!-- Overview -->
+| jurisdiction = au
+| year = 2007<br><br>[[Template:Australian elections|<]] [[Australian federal election, 2001|2001]] [[Australian federal election, 2004|2004]] [[Australian federal election, 2007|2007]]
+| prev_election_year = 2004
+| prev_election_article = Australian general election, 2004
+
+<!-- Parties -->
+| gov_colour = blue
+| gov_name = [[Liberal Party of Australia]]
+| gov_image = [[Image:John Howard May 2006.jpg|center|151px]]
+| opp_colour = red
+| opp_name = [[Australian Labor Party]]
+| opp_image = [[Image:KevinRuddZoom.JPG|150px]]
+
+<!-- Leaders -->
+| gov_leader = [[John Howard|John Winston Howard]]
+| gov_leader_since = 1995
+| gov_leader_rating = 38
+| opp_leader = [[Kevin Rudd|Kevin Michael Rudd]]
+| opp_leader_since = 2006
+| opp_leader_rating = 47
+
+<!-- Vote -->
+| gov_2PP_rating = 44
+| gov_2PP_previous = 52.7
+| gov_seats = 87
+| gov_target = 0
+| gov_marginals = 23
+| gov_swing = 0.0
+| opp_2PP_rating = 56
+| opp_2PP_previous = 47.3
+| opp_seats = 60
+| opp_target = 16
+| opp_marginals = 23
+| opp_swing = 4.8
+
+<!-- References -->
+| ref_leader_rating =
+| ref_2PP_rating =
+| ref_marginals =
+}}
+
+The '''2007 election''' for the federal [[Parliament of Australia|Parliament]] of [[Australia]] is expected to take place in late November to early December, with 33 to 68 days' notice.<ref>Bryan Palmer,  [http://www.ozpolitics.info/guide/elections/fed2007/when2007/ When will it happen?] ''Oz Politics''. Accessed [[September 12]], [[2007]].</ref>
+
+The [[Opposition (Australia)|opposition]] [[centre-left]] [[Australian Labor Party]], currently led by [[Kevin Rudd]] and deputy leader [[Julia Gillard]], will be the main challenger to the [[incumbent]] [[centre-right]] [[Coalition (Australia)|coalition]] government in power since the [[Australian federal election, 1996|1996 election]], currently led by the [[Prime Minister of Australia|Prime Minister]] and leader of the [[Liberal Party of Australia]], [[John Howard]], and his coalition partner the [[Deputy Prime Minister]] and leader of the [[National Party of Australia]], [[Mark Vaile]].
+
+Following the [[Australian federal election, 2004|2004 election]] outcome, Labor, with 60 seats, requires 16 additional seats in the 150-member [[Australian House of Representatives|House of Representatives]] to form a [[majority government]].
+
+The [[Australian Greens]], [[Family First Party]], and the [[Australian Democrats]] amongst other parties and candidates will be vying for the [[Balance of power (politics)|balance of power]] in the [[Australian Senate|Senate]].
+
+==Election date==
+
+Under the provisions of the [[Constitution of Australia|Constitution]], the current House of Representatives may continue for a maximum of three years from the first meeting of the House after the previous general election.  
+
+The first meeting of the 41st Parliament after the [[Australian federal election, 2004|2004 election]] was on 16 November 2004. The 41st Parliament expires on 15 November 2007. The next House of Representatives election must be held not more than 68 days after the expiry, that is by 19 January 2008. <ref> [http://www.aph.gov.au/library/handbook/elections/index.htm#introduction</ref>
+
+No federal election has ever been held in January, or later than 19 December. The election must take place on a Saturday, and there must be a minimum of 33 days and a maximum of 68 days between the dissolution of the House of Representatives and the day of the election.  
+
+The Prime Minister of the day chooses the election date and advises the [[Governor-General of Australia|Governor-General]] to dissolve the House and issue the writs for the election.  
+
+Howard has ruled out a 2008 election, stating that it will be held "between now and very early December,"<ref>http://www.bloomberg.com/apps/news?pid=20601081&sid=abdRncSixnas&refer=australia</ref> and will be announced at "the appropriate time."<ref>[http://www.theaustralian.news.com.au/story/0,25197,22365129-601,00.html "Vote well before Christmas: Howard "] ''[[The Australian]]'', [[September 5]], [[2007]]/ Accessed [[September 5]], [[2007]].</ref> Based on an extended 6-week campaign,<ref>http://www.news.com.au/heraldsun/story/0,21985,22516054-661,00.htm</ref> the latest day an election could be called is as follows:
+
+* 13 October for Saturday, 24 November 2007;
+* 20 October for Saturday, 1 December 2007;
+* 27 October for Saturday, 8 December 2007.
+
+The [[Sydney Morning Herald]] reports approximately A$7 million worth of Liberal Party advertising has been booked with the [[List of Australian television channels#Ownership|three commercial TV networks]] from early October to the end of November.<ref>[http://www.theage.com.au/news/national/november-poll-likely/2007/08/09/1186530477043.html]</ref> Liberal sources have also confirmed that there are plans to delay the election as long as possible, declaring parliament may resume in late October.<ref>http://www.news.com.au/couriermail/story/0,20797,22498692-27197,00.html]</ref> According to ''[[The Age]]'', Liberal sources expect the election to be called on 13 or 14 October, with the election on 24 November. <ref>[http://www.smh.com.au/news/national/10-ministers-face-oblivion--polls/2007/10/05/1191091364601.html 10 ministers face wipeout: poll warning], [[The Age]], October 6, 2007</ref>
+
+At a social breakfast on [[September 29]] [[2007]] Treasurer [[Peter Costello]] either intentionally or unintentionally let slip that the election could be on 24 November, the last Saturday in November.
+
+<blockquote>'''Hughes:''' "What are you talking about, the election or the grand final?"</blockquote>
+<blockquote>'''Costello:''' "They all culminate together this time of year, of course, the last day of September, and the last day of November, isn't it?" </blockquote>
+
+However, Costello quickly corrected himself: <blockquote>"Some time between now and Christmas — and it won't be Christmas Day."<ref>[http://www.theage.com.au/news/national/costello-lets-cat-out-of-bag--poll-on-nov-24/2007/09/29/1190486635515.html?page=fullpage Costello lets cat out of bag — poll on Nov 24], [[The Age]], September 29, 2007/ Accessed September 30, 2007</ref></blockquote>
+
+==Polling==
+[[Image:Pollchart-ppm.svg|left|thumb|250px|Preferred Prime Minister polling by [[Newspoll]] and [[ACNielsen]] since the previous election.]][[Image:Pollchart-tpp.svg|right|thumb|250px|[[Mackerras Pendulum|Two party preferred]] polling by [[Newspoll]], [[ACNielsen]], [[Roy Morgan Research|Roy Morgan]] and [[Galaxy Research|Galaxy]] since the previous election.]]
+[http://www.ozpolitics.info/guide/elections/fed2007/polls2007/ Roy Morgan, Newspoll, ACNeilsen and Galaxy timegraph polling] shows Labor leading the coalition in responses to a number of key poll questions since mid-2006, with Labor consolidating its lead after Rudd assumed the Labor leadership, at which point Rudd also assumed the polling position on the question of preferred Prime Minister.
+
+[[ACNielsen]] polling in March 2007 showed 53% of respondents preferred Rudd as Prime Minister compared with Howard on 39%, and Labor on 61% of the [[two party preferred|two-party preferred (2PP)]] vote to the Coalition's 39%. Rudd's personal approval rating of 67% makes him the most popular opposition leader in the poll's 35-year history,<ref name="smh_acnielsen_070312">{{cite news |publisher=The Sydney Morning Herald |last = Coorey |first = Phillip |title = Ruddslide: polls shows Labor increasing its lead |url = http://www.smh.com.au/news/national/its-going-to-be-a-ruddslide/2007/03/11/1173548022964.html |date = [[2007-03-12]] |accessdate = 2007-03-12 |}}</ref> with [[Newspoll]] ([[News Limited]]) 2PP polling the highest in its history. The largest 2PP election result for the ALP in it's history was at the [[Australian federal election, 1943|1943 election]] on an estimate of 58.2 percent.
+
+Howard's poll numbers were in the 30s (according to Newspoll), are the lowest the prime minister has experienced since the lead up to the [[Australian federal election, 2001|2001 election]]<!--Fix structure of previous sentence-->. A post-budget "bounce" did not materialise for the government, with Labor's lead increasing despite the government's tax cuts and increased spending in the federal budget. However, the Prime Minister has sinced pushed up his numbers, closing the gap with Rudd to as little as 1% in early July.  
+
+A weighted collaboration of all polling since Rudd assumed the ALP leadership shows an average Labor 2PP figure of 57% compared with the coalition's 43%, and Rudd's consistent outpolling of Howard as preferred Prime Minister, something not achieved under previous leaders [[Kim Beazley]], [[Mark Latham]], or [[Simon Crean]].
+
+Possums Pollytics states that due to the uneven nature of the swings, where safe Liberal seats are swinging up to 14.6% with safe Labor seats swinging around only 4.1%, the Labor party stands to end up with 106 of the 150 lower house seats.<ref>[http://possumcomitatus.wordpress.com/]</ref>
+
+Despite polling consistently showing that the economy and national security are the Coalition's strong areas, August 2007 saw Ipsos polling finding<!--Polling finding? Ouch--> 39% of voters thought Labor was the better economic manager, compared with 36% for the coalition, while 25% were undecided.<ref>http://www.smh.com.au/news/national/government-shrugs-off-poll/2007/08/26/1188066918904.html</ref>
+
+==Issues==
+[[Image:WorkChoices Logo.PNG|left|thumb|The most comprehensive changes to Australia's [[industrial relations]] system since federation, known as [[WorkChoices]], were enacted by the Howard Liberal government in December 2005, and came in to effect in March 2006.]][[Image:RecordLows.JPG|right|thumb|Electoral advertising shown on Australian free-to-air and pay TV in 2004 by the [[Liberal Party of Australia|Liberal Party]] indicating, despite five [[interest rate]] rises since the [[Australian federal election, 2004|October 2004 federal election]], the commitment of a Howard Liberal government to "keep interest rates at record lows". In response, Mr Howard stated<ref>http://www.aph.gov.au/hansard/reps/dailys/dr080807.pdf Questions without notice, Page 46</ref> "[Rudd] can scour every transcript, and I will make them available, of every interview that I gave during that election campaign and he will find no such commitment."]]
+Roy Morgan polling in June 2007 revealed [[WorkChoices]] as the biggest reason behind the Labor vote, with a negative perception of unions as the biggest reason behind the coalition vote.<ref name="issues1">{{cite web |title=IR Reforms Still Driving Labor Support; Liberal Voters Afraid Of Union Dominance |publisher=Roy Morgan Research |date=[[2007-06-18]] |url=http://www.roymorgan.com/news/polls/2007/4179/ |accessdate=2007-07-07}}</ref> Attempts by the Liberals to have business groups fund advertisements to counter union-backed anti-WorkChoices advertisements suggest that industrial relations will be a key battleground at the 2007 election.<ref>{{cite web |last=Coorey |first=Phillip |title=PM's appeal to business shows workplace ads failed: Labor |publisher=The Sydney Morning Herald |date=[[2007-04-05]] |url=http://www.smh.com.au/news/national/pms-appeal-to-business-shows-workplace-ads-failed-labor/2007/04/05/1175366414240.html |accessdate=2007-04-15}}</ref> The share of voters concerned about industrial relations grew from 31% to 53% in the two years to June 2006, with almost half of voters backing Labor's ability to handle the issue.<ref name="issues"/>
+
+A Newspoll released in June 2006 identified health and [[Medicare (Australia)|Medicare]] as the most important issue for voters, with 83% of respondents rating it "very important". Other key issues included education (79%), the economy (67%), the environment (60%) and national security (60%). Taxation and interest rates, key issues in previous campaigns, were rated very important by 54% and 51% respectively. Immigration, a key issue in [[Australian federal election, 2001|2001]], scored 43%. The poll showed that voters considered Labor better-placed to handle health and education, albeit by a small margin, but gave the government strong backing on the economy and national security.<ref name="issues">{{cite web |title=Importance and best party to handle major issues |publisher=Newspoll/The Australian |date=[[2006-06-06]] |url=http://www.newspoll.com.au/image_uploads/0604%20issues.pdf |accessdate=2007-04-15}}</ref>
+
+The environment, in particular [[climate change]] and water management, will likely be a major issue. Labor's pledge to spearhead construction of a $4.7 billion fibre-to-the-node broadband network suggests that infrastructure could also figure prominently on the campaign trail.<ref>{{cite web |last=Barker |first=Gary |title=Broadband looms as an election issue |publisher=The Sydney Morning Herald |date=[[2007-03-09]] |url=http://www.theage.com.au/news/business/broadband-looms-as-an-election-issue/2007/03/08/1173166895703.html |accessdate=2007-05-15}}</ref>
+
+On 7 June in a speech promoting the government's handling of the economy, Treasurer Peter Costello recalled the [[:Image:Ac.liberalad.jpg|notorious learner driver slogan]] of the [[Australian federal election, 2004|2004 election]]: "This [the economy] is like a highly engineered racing car and I tell you what, I wouldn't be putting an L-plate driver in the cockpit at the moment".<ref>{{cite web |title=Costello warns against economic 'L-plater' |publisher=ABC News Online |date=[[2007-06-07]] |url=http://www.abc.net.au/news/newsitems/200706/s1945363.htm}}</ref> August 2007 saw a 0.25% [[interest rate]] rise to 6.5%, the fifth rise since the last election.<ref>{{cite web |title=Interest rates jump to 6.5pc |url=http://www.abc.net.au/news/stories/2007/08/08/1999347.htm |publisher=ABC News Online |date=[[2007-08-08]]}}</ref>
+
+Rudd has advocated four-year fixed terms for federal parliaments if elected. Howard supports four-year terms but opposes fixed election dates. Any change would require approval by referendum. <ref>[http://www.smh.com.au/news/national/10-ministers-face-oblivion--polls/2007/10/05/1191091364601.html 10 ministers face wipeout: poll warning], [[The Age]], October 6, 2007</ref> Another referendum was suggested by John Howard on the eve of the election campaign, in order to include a statement of reconciliation to be included in the preamble of the constitution.<ref>http://www.abc.net.au/news/stories/2007/10/11/2057292.htm</ref>
+
+==Electoral prospects: House of Representatives==
+{{see also|Candidates of the Australian general election, 2007}}
+Though the government enjoys a comfortable majority of 27 in the 150-seat [[Australian House of Representatives]], 23 of its MPs will be defending two-party-preferred (2PP) margins of 6% or less in 2007. Labor requires a gain of 16 seats to form a [[majority government]] in the lower house, which corresponds to a [[Mackerras Pendulum|uniform swing]] of 4.8%.
+
+A gain of 15 seats, however, would put a Labor win beyond doubt. Labor would have as many seats as the combined total of Coalition and independents, so making one of the independents Speaker would give it a majority on the floor. Regardless of their inclinations, there would be nothing the independents could do to give the Coalition a majority.
+
+===High-profile candidates===
+Labor will field a number of high-profile candidates in 2007. Broadcaster [[Maxine McKew]] will challenge John Howard in his electorate of [[Division of Bennelong|Bennelong]].<ref name="Maxine McKew">{{cite news |publisher = The Sydney Morning Herald |title = McKew makes presence felt in Bennelong |url = http://www.smh.com.au/news/National/McKew-makes-presence-felt-in-Bennelong/2007/05/01/1177788124316.html |date = [[2007-05-01]] |accessdate = 2007-05-05
+}}</ref> Union boss [[Bill Shorten]], touted as a future prime minister during the [[Beaconsfield mine collapse]] drama, will contest the safe Labor seat of [[Division of Maribyrnong|Maribyrnong]]. Former New South Wales attorney-general [[Bob Debus]] will contest the marginal seat of [[Division of Macquarie|Macquarie]]. [[ACTU]] Secretary [[Greg Combet]] has been announced as the ALP's candidate for [[Division of Charlton|Charlton]], a safe seat in New South Wales. The assistant secretary of the ACTU [[Richard Marles]] will contest the Victorian seat of [[Division of Corio|Corio]], which Labor currently holds by a 5.7% margin. [[Nicole Cornes]], a journalist for the [[The Advertiser (Australia)|Sunday Mail]] and the wife of media personality and ex-footballer [[Graham Cornes]] is the ALP's candidate for [[Division of Boothby|Boothby]], a South Australian seat which Liberal MP [[Andrew Southcott]] currently holds by a margin of 5.4%. The ALP have also recruited Mia Handshin, a journalist for [[The Advertiser (Australia)|The Advertiser]] and a small business operator, to contest another South Australian seat, [[Division of Sturt|Sturt]]. Sturt is currently represented by Government minister [[Christopher Pyne]] who holds the seat by a 6.8% margin. <ref name="Union heavies">{{cite news |publisher = The Advertiser |title = Union heavies join Labor's star recruits |url = http://www.news.com.au/adelaidenow/story/0,22606,21673601-910,00.html |date = [[May 5]] [[2007]] |accessdate = 2007-05-05}}</ref> Another ALP recruit, former Australian military lawyer [[Mike Kelly (politician)|Mike Kelly]] will contest the marginal seat of [[Eden-Monaro]] in regional NSW. Former ABC weather reporter Mike Bailey will contest North Sydney.
+
+The ALP has received criticism from some quarters regarding their recent recruitments, especially the trend of placing union bosses in safe seats while leaving "star" candidates to contest seats held by the Liberal Party. Greg Combet's selection, in particular, has received criticism and anger from [[Kelly Hoare]], the MP he replaces, and others within the New South Wales Labor Party. <ref name="Anger at Combet">{{cite news |publisher = The Advertiser |last = Anderson |first = Laura |title = Anger as Combet chases safe seat |url = http://www.news.com.au/adelaidenow/story/0,22606,21673600-910,00.html |date = [[May 5]] [[2007]] |accessdate = 2007-05-05}}</ref>
+
+===Redistribution===
+
+An electoral [[Redistribution (Australia)|redistribution]] completed in [[Mackerras federal election pendulum, 2006|September 2006]] by the [[Australian Electoral Commission]] will increase the size of the Queensland delegation by one, at the expense of New South Wales. The western New South Wales seat of [[Division of Gwydir|Gwydir]] will be abolished and a new seat of [[Division of Flynn|Flynn]], based around [[Gladstone, Queensland|Gladstone]], created in its place. Both the old seat and the new are safe for the National Party.
+
+The other major change sees boundaries shift for Liberal-held [[Division of Macquarie|Macquarie]] and Labor-held [[Division of Parramatta|Parramatta]]: both are now notionally held by the opposing party. A number of other seats were also substantially changed, including [[Division of Parkes|Parkes]], [[Division of Farrer|Farrer]], [[Division of Calare|Calare]], [[Division of Greenway|Greenway]] and [[Division of Hughes|Hughes]].
+
+===Marginal seats===
+
+Labor and the Coalition each hold 23 [[marginal seat]]s: seats with 2PP margins of 6% or less. Since the 2006 redistribution, Labor-held Parramatta is notionally a Liberal marginal and Liberal-held Macquarie is notionally a Labor marginal.
+
+The marginal seats of [[Division of Makin|Makin]] (South Australia) and [[Division of Cowan|Cowan]] (Western Australia), held on 2PP margins of less than 1% by the Liberals and Labor respectively, will be especially closely-watched, with sitting MPs [[Trish Draper]] and [[Graham Edwards (politician)|Graham Edwards]] retiring at the election. In the south-eastern New South Wales seat of [[Division of Eden-Monaro|Eden-Monaro]], Liberal [[Gary Nairn]] will be defending the so-called [[bellwether]] electorate for the government with a 2PP margin of 3.3%. The Liberal electorate of [[Division of Lindsay|Lindsay]], with a 2PP margin of 2.9% will be another seat which will be hotly contested due to popular member [[Jackie Kelly]]'s announcement that she will not be recontesting the seat.
+
+Currently polling indicates that the two [[Tasmania]]n marginal seats of [[Division of Bass|Bass]] and [[Division of Braddon|Braddon]], both in the state's north, are likely to return to the ALP at this election. Both seats were lost by the ALP to the government at the last election, with commentators associating this with Mark Latham's forestry policy and its lack of popularity in these seats.
+
+In the table below, based on the [[Mackerras federal election pendulum, 2006|Mackerras electoral pendulum]], marginal seats are shown in the order they would fall, assuming a uniform swing. A uniform swing to Labor would deliver the party seats on the left-hand side. A uniform swing to the Coalition would deliver seats to the Liberals and Nationals on the right-hand side.
+
+{| class="toccolours" cellpadding="5" cellspacing="0" style="margin: .4em;font-size: 90%;" width="100%"
+|-
+| colspan="8" align=center | [[Image:Flag of Australia.svg|50px]]
+|- bgcolor="#ccccff"
+| colspan="8" align="center" style="font-size: 100%;" | '''Notional (post-redistribution) marginal seats'''
+|-
+! align="left" width="15%" | Seat
+! align="left" width="15%" | MP
+! align="left" width="10%" | Party
+! align="left" width="10%" | Margin
+! align="left" width="15%" | Seat
+! align="left" width="15%" | MP
+! align="left" width="10%" | Party
+! align="left" width="10%" | Margin
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of La Trobe|La Trobe, Vic]]
+| align="left" | [[Jason Wood]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 5.8%
+| align="left" | [[Division of Corio|Corio, Vic]]
+| align="left" | [[Gavan O'Connor]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 5.6%
+|-
+| align="left" | [[Division of Blair|Blair, Qld]]
+| align="left" | [[Cameron Thompson]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 5.7%
+| align="left" | [[Division of Lilley|Lilley, Qld]]
+| align="left" | [[Wayne Swan]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 5.4%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Page|Page, NSW]]
+| align="left" | ''[[Ian Causley]]''
+| align="left" style="color: #070;" | National
+| align="left" style="font-size: 150%;color: #070;" | 5.5%
+| align="left" | [[Division of Brand|Brand, WA]]
+| align="left" | ''[[Kim Beazley]]''
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 4.7%
+|-
+| align="left" | [[Division of Boothby|Boothby, SA]]
+| align="left" | [[Andrew Southcott]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 5.4%
+| align="left" | [[Division of Jagajaga|Jagajaga, Vic]]
+| align="left" | [[Jenny Macklin]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 4.4%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Corangamite|Corangamite, Vic]]
+| align="left" | [[Stewart McArthur]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 5.3%
+| align="left" | [[Division of Brisbane|Brisbane, Qld]]
+| align="left" | [[Arch Bevis]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 4.0%
+|-
+| align="left" | [[Division of McMillan|McMillan, Vic]]
+| align="left" | [[Russell Broadbent]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 5.0%
+| align="left" | [[Division of Capricornia|Capricornia, Qld]]
+| align="left" | [[Kirsten Livermore]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 3.8%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Deakin|Deakin, Vic]]
+| align="left" | [[Philip Barresi]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 5.0%
+| align="left" | [[Division of Melbourne Ports|Melbourne Ports, Vic]]
+| align="left" | [[Michael Danby]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 3.7%
+|-
+| align="left" | [[Division of Dobell|Dobell, NSW]]
+| align="left" | [[Ken Ticehurst]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 4.8%
+| align="left" | [[Division of Lyons|Lyons, Tas]]
+| align="left" | [[Dick Adams (politician)|Dick Adams]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 3.7%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Bennelong|Bennelong, NSW]]
+| align="left" | [[John Howard]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 4.0%
+| align="left" | [[Division of Bruce|Bruce, Vic]]
+| align="left" | [[Alan Griffin]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 3.5%
+|-
+| align="left" | [[Division of Eden-Monaro|Eden-Monaro, NSW]]
+| align="left" | [[Gary Nairn]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 3.3%
+| align="left" | [[Division of Banks|Banks, NSW]]
+| align="left" | [[Daryl Melham]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 3.3%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Lindsay|Lindsay, NSW]]
+| align="left" | ''[[Jackie Kelly]]''
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 2.9%
+| align="left" | [[Division of Rankin|Rankin, Qld]]
+| align="left" | [[Craig Emerson]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 3.0%
+|-
+| align="left" | [[Division of Moreton|Moreton, Qld]]
+| align="left" | [[Gary Hardgrave]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 2.8%
+| align="left" | [[Division of Lowe|Lowe, NSW]]
+| align="left" | [[John Murphy (Australian politician)|John Murphy]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 3.1%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Solomon|Solomon, NT]]
+| align="left" | [[Dave Tollner]]
+| align="left" style="color: #007;" | CLP
+| align="left" style="font-size: 150%;color: #007;" | 2.8%
+| align="left" | [[Division of Chisholm|Chisholm, Vic]]
+| align="left" | [[Anna Burke]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 2.7%
+|-
+| align="left" | [[Division of Bass|Bass, Tas]]
+| align="left" | [[Michael Ferguson]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 2.6%
+| align="left" | [[Division of Ballarat|Ballarat, Vic]]
+| align="left" | [[Catherine King]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 2.2%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Wentworth|Wentworth, NSW]]
+| align="left" | [[Malcolm Turnbull]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 2.6%
+| align="left" | [[Division of Holt|Holt, Vic]]
+| align="left" | [[Anthony Byrne]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 1.5%
+|-
+| align="left" | [[Division of Stirling|Stirling, WA]]
+| align="left" | [[Michael Keenan]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 2.0%
+| align="left" | [[Division of Isaacs|Isaacs, Vic]]
+| align="left" | ''[[Ann Corcoran]]''
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 1.5%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Hasluck|Hasluck, WA]]
+| align="left" | [[Stuart Henry]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 1.8%
+| align="left" | [[Division of Richmond|Richmond, NSW]]
+| align="left" | [[Justine Elliot]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 1.5%
+|-
+| align="left" | [[Division of Parramatta|Parramatta, NSW]]
+| align="left" | [[Julie Owens]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | -1.1%
+| align="left" | [[Division of Adelaide|Adelaide, SA]]
+| align="left" | [[Kate Ellis]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 1.3%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Braddon|Braddon, Tas]]
+| align="left" | [[Mark Baker (politician)|Mark Baker]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 1.1%
+| align="left" | [[Division of Bendigo|Bendigo, Vic]]
+| align="left" | [[Steve Gibbons]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 1.0%
+|-
+| align="left" | [[Division of Makin|Makin, SA]]
+| align="left" | ''[[Trish Draper]]''
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 0.9%
+| align="left" | [[Division of Cowan|Cowan, WA]]
+| align="left" | ''[[Graham Edwards (politician)|Graham Edwards]]''
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 0.8%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Wakefield|Wakefield, SA]]
+| align="left" | [[David Fawcett]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 0.7%
+| align="left" | [[Division of Macquarie|Macquarie, NSW]]
+| align="left" | [[Kerry Bartlett]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | -0.5%
+|-
+| align="left" | [[Division of Bonner|Bonner, Qld]]
+| align="left" | [[Ross Vasta]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 0.6%
+| align="left" | [[Division of Swan|Swan, WA]]
+| align="left" | [[Kim Wilkie]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 0.1%
+|- bgcolor="#eeeeff"
+| align="left" | [[Division of Kingston|Kingston, SA]]
+| align="left" | [[Kym Richardson]]
+| align="left" style="color: #007;" | Liberal
+| align="left" style="font-size: 150%;color: #007;" | 0.1%
+| align="left" | [[Division of Hindmarsh|Hindmarsh, SA]]
+| align="left" | [[Steve Georganas]]
+| align="left" style="color: #700;" | Labor
+| align="left" style="font-size: 150%;color: #700;" | 0.1%
+|-
+| colspan="8" align="center" style="font-size: 90%" | MPs shown in italics are not contesting the 2007 election. See '''[[Mackerras federal election pendulum, 2006]]''' for a full list of seats.
+|}
+{{-}}
+
+{{Australian Senators}}
+
+==Electoral prospects: Senate==
+A total of 36 senators are not up for re-election: 19 from the Coalition, 14 from Labor, two [[Australian Greens]] and one [[Family First]]. The Coalition needs to win 20 of the 40 contested Senate seats to maintain its Senate majority, while Labor would need to win 25 seats to have a Senate majority in its own right. A Labor majority would require a preferred vote of over 57% in five of the six states; this would be a record for Labor, surpassing the 55.09% it recorded in the [[Australian federal election, 1943|1943 election]]. On recent polling, it appears likely that the balance of power will revert to the minor parties.<ref>[http://www.smh.com.au/news/National/Govt-warns-against-Greens-after-poll/2007/06/26/1182623896172.html]</ref>
+
+The [[Australian Democrats]], who were the minor party with the most Senators from 1978 to 2005, now face electoral oblivion. All four Democrat seats are up for re-election, and two incumbents, [[Andrew Murray (politician)|Andrew Murray]] and [[Natasha Stott Despoja]], have stated that they will not seek a fresh term.<ref>http://www.theage.com.au/news/opinion/so-is-the-party-over/2007/09/22/1189881833182.html</ref> The loss of Stott Despoja, arguably the nation's highest-profile Democrat, will complicate the party's efforts to resuscitate its electoral appeal.
+
+The minor parties with a chance of holding the balance of power are the [[Australian Greens]] and [[Family First]]. With the exception of Greens Senator [[Bob Brown]] who is likely to receive sufficient first preference votes (14.3%) in [[Tasmania]] to secure re-election, each party's success will largely depend on securing favourable preference flows from the major parties and assorted micro-parties. While the Coalition is expected to preference Family First ahead of the Greens, the battle to secure Labor's preferences will be fierce.
+
+Coalition senators [[Paul Calvert]], [[Rod Kemp]], [[Sandy Macdonald]] and [[Kay Patterson]]; and Labor senator [[Robert Ray (Australian politician)|Robert Ray]] will not contest the 2007 election.
+
+===High-profile candidates===
+(<!-- Please note that, to avoid the appearance of promoting candiates here, this list is sorted -->Alphabetically by surname.<!-- Please keep it that way -->)
+
+[[Independent (politician)|Independent]] [[Peter Andren]], the Member for [[Division of Calare|Calare]] in NSW, had originally decided to contest the Senate following the substantial changes to the boundaries of his electorate. This would have created significant interest to the senate election in his state. However, following his diagnosis of [[pancreatic cancer]] on [[10 August]], [[2007]], Andren decided to not stand for re-election.<ref>Davis, Mark, [http://www.smh.com.au/news/national/mp-diagnosed-with-cancer/2007/08/10/1186530579998.html "MP diagnosed with cancer"], ''[[Sydney Morning Herald]]'', [[August 10]], [[2007]]. Accessed [[August 10]], [[2007]].</ref>
+
+Former Queensland politician [[Pauline Hanson]] announced recently that she will be standing for the Senate in Queensland. <ref> [http://www.abc.net.au/news/stories/2007/08/15/2005271.htm "Hanson Launches new political party."], ''[[Australian Broadcasting Corporation|ABC]]'', [[August 15]], [[2007]]/ Accessed [[August}}, [[2007]].</ref>
+
+Author and broadcaster Dr [[Karl Kruszelnicki]] is running for the Senate in New South Wales for the [[Climate Change Coalition]], occupying second place on the party's ticket in that state.
+
+[[Andrew Wilkie]] has been pre-selected as second on the ticket for the [[Tasmanian Greens]] behind Senator [[Bob Brown]]. He is a former [[intelligence officer]] who resigned from the [[Office of National Assessments (Australia)|Office of National Assessments]] (ONA) over his concerns about government use of intelligence information in building a case for the [[2003 invasion of Iraq]]. In the [[Australian federal election, 2004|2004 election]] he polled 16% for the [[Australian Greens|Greens]] in Prime Minister [[John Howard]]'s electorate of [[Division of Bennelong|Bennelong]].
+
+[[No Pokies]] MP [[Nick Xenophon]] is running for a South Australian Senate seat. He attracted a fifth of the statewide upper house vote (20.5 percent) at the [[South Australian general election, 2006|2006 state election]]. His platform will consist of anti-gambling, pro-consumer protection, attention to the water crisis, opposition against what he calls a decrease in state rights, and opposition to [[WorkChoices]].<ref>http://www.theaustralian.news.com.au/story/0,25197,22567900-5006787,00.html</ref><ref>http://www.theage.com.au/news/national/fearful-of-xenophon-in-senate/2007/10/11/1191696082652.html</ref>
+
+==References==
+<div class="references-small">
+<references />
+</div>
+
+==See also==
+* [[Mackerras federal election pendulum, 2006]]
+* [[Candidates of the Australian general election, 2007]]
+* [[List of political parties in Australia]]
+
+==External links==
+* [http://www.abc.net.au/elections/federal/2007/ ABC Online: 2007 Federal Election]
+* [http://www.crikey.com.au/2007-Election.html The Crikey Guide to the 2007 Election]
+* [http://australianpolitics.com/elections/2007/ AustralianPolitics.com: 2007 Federal Election]
+* [http://www.pollbludger.com/category/federal-election-2007/ The Poll Bludger - Federal Election 2007]
+* [http://www.ozpolitics.info/guide/elections/fed2007/ OzPolitics - Australian Federal Election 2007]
+* [http://psephos.adam-carr.net/countries/a/australia/guide1.shtml Adam Carr's Guide to the 2007 Federal Election]
+* [http://possumcomitatus.wordpress.com/ Possums Pollytics]
+* [http://www.aph.gov.au/library/pubs/RN/2004-05/05rn41.pdf Parliament of Australia - Election Timetable]
+* [http://www.aec.gov.au Australian Electoral Commission]
+* [http://www.ozpolitics.info/guide/elections/fed2007/polls2007/ OzPolitics Polling]
+* [http://jackman.stanford.edu/oz/Aggregate2007/bettingmarkets/index.php Simon Jackman's 2007 Election Analysis]
+* [http://www.abc.net.au/elections/federal/2007/guide/ Antony Green's Election Guide - 2007 Federal Election, ABC]
+
+{{Australian elections}}
+
+{{Politics of Australia}}
+
+[[Category:2007 elections in Australia]]

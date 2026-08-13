@@ -24,7 +24,7 @@ export default function MethodologyPage() {
         <h2>Current publication state</h2>
         <p>The public forecast uses a widened baseline ensemble. Version 0.6 scores that public baseline alongside Gaussian Monte Carlo, Markov momentum, polls-only, fundamentals-only, and previous-election benchmarks. Every production model-fold uses 1,000,000 predictive draws for winner probabilities and 90% intervals. Training origins must fall within 10% of the held-out horizon, bounded to a two-to-thirty-day tolerance. Production horizons must be near an evaluated fold—not merely between the shortest and longest tests. No challenger is promoted because 2–14-day U.S. evidence cannot validate the current early-cycle horizon. The 12 U.S. folds use a pinned retrospective poll compilation, not forecast-origin archived vintages, so they also fail the vintage-proof gate. Forecasts without source-vintage feature snapshots are forced to grade D and list zero model-input sources.</p>
         <p>Türkiye now has three archive-verified forecast-origin folds, each using 1,000,000 draws after training on 2014 and 2018. All three hold out the same 2023 election, cover only 2–14-day horizons, and span nine years, so they remain diagnostic and cannot validate or promote a model. The current headline is a separate mixture of three May 2026 matchups—Erdoğan against İmamoğlu, Yavaş, and Özel. Equal matchup weights are structural placeholders, not nomination probabilities.</p>
-        <p>Australia has nine archive-verified folds across three held-out elections. After fitting the poll/fundamentals blend inside each training fold, Gaussian Monte Carlo leads the challengers in the 7–28-day tests. The 2010–2025 history is still too short and the current election remains far outside the tested horizon, so no model is promoted.</p>
+        <p>Australia now has 14 archive-verified folds across five held-out elections and 21 years of history. Markov momentum has the best election-clustered Brier score in the 7–28-day tests (0.166 versus 0.223 for Gaussian Monte Carlo and 0.279 for the fitted baseline). The historical reliability gates now pass, but the next election remains far outside the tested horizon, so the challenger is not used for the current long-range forecast.</p>
       </section>
 
       <section>
@@ -93,6 +93,7 @@ export default function MethodologyPage() {
           <a href="https://www.v-dem.net/data/the-v-dem-dataset/">V-Dem eligibility</a>
           <a href="https://api.worldbank.org/v2/">World Bank indicators</a>
           <a href="https://github.com/SDCofA/election/blob/master/services/api/app/backtests/tr-presidential-2014-2023-v1.json">Türkiye backtest dataset</a>
+          <a href="https://github.com/SDCofA/election/blob/master/services/api/app/backtests/au-federal-tpp-2004-2025-v2.json">Australia backtest dataset</a>
           <a href={publicAsset("/data/openapi-v1.json")}>REST / OpenAPI</a>
         </div>
       </section>

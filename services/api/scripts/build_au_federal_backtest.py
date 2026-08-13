@@ -9,14 +9,25 @@ from pathlib import Path
 from urllib.parse import quote
 from urllib.request import Request, urlopen
 
-RETRIEVED_AT = "2026-08-11"
+RETRIEVED_AT = "2026-08-13"
 LICENSE = "CC-BY-SA-4.0"
 LICENSE_URL = "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use"
 USER_AGENT = "SDCofA-Election-Research/0.1 (https://github.com/SDCofA/election)"
 
 # The first revision precedes the earliest forecast origin. Each later revision is the latest
-# revision available before the 28-, 14-, and 7-day forecast cutoffs respectively.
+# revision available before that election's listed forecast cutoffs.
 POLL_REVISIONS = {
+    2004: (
+        (5791778, "2004-09-10"),
+        (6162174, "2004-09-23"),
+        (6283699, "2004-10-01"),
+    ),
+    2007: (
+        (164014217, "2007-10-12"),
+        (167258993, "2007-10-26"),
+        (170413267, "2007-11-09"),
+        (171873996, "2007-11-16"),
+    ),
     2010: (
         (374484320, "2010-07-20"),
         (375109966, "2010-07-23"),
@@ -55,9 +66,37 @@ POLL_REVISIONS = {
     ),
 }
 
+FORECAST_HORIZONS = {
+    2004: (14, 7),
+    2007: (28, 14, 7),
+    2010: (28, 14, 7),
+    2013: (28, 14, 7),
+    2016: (28, 14, 7),
+    2019: (28, 14, 7),
+    2022: (28, 14, 7),
+    2025: (28, 14, 7),
+}
+
+POLL_PAGE_TITLES = {
+    2004: "2004 Australian federal election",
+    2007: "2007 Australian federal election",
+}
+
 # National two-party-preferred truth is from the Australian Electoral Commission. The result
 # revisions below are immutable contemporaneous pages retained as source-vintage proof.
 ELECTIONS = {
+    2004: {
+        "election_date": "2004-10-09",
+        "actual": (0.4726, 0.5274),
+        "fundamentals": (0.4905, 0.5095),
+        "fundamentals_year": 2001,
+    },
+    2007: {
+        "election_date": "2007-11-24",
+        "actual": (0.5270, 0.4730),
+        "fundamentals": (0.4726, 0.5274),
+        "fundamentals_year": 2004,
+    },
     2010: {
         "election_date": "2010-08-21",
         "actual": (0.5012, 0.4988),
@@ -97,6 +136,8 @@ ELECTIONS = {
 }
 
 RESULT_REVISIONS = {
+    2001: (5527257, "2004-07-06"),
+    2004: (6789910, "2004-10-21"),
     2007: (176468074, "2007-12-07"),
     2010: (382773376, "2010-09-03"),
     2013: (573694311, "2013-09-19"),
@@ -107,6 +148,15 @@ RESULT_REVISIONS = {
 }
 
 PINNED_SHA256 = {
+    5527257: "4af1c5643bbc90e9141a4d1f1c4173300b1700785332bc23daa6acee35dd2223",
+    5791778: "b21899b1d6d469699f625799556fa318fda42767922b6f60fc9f652bb6363189",
+    6162174: "eaca7ccab14206a8f627da6551f879c94433772ea79722b369078b78c3ee6d36",
+    6283699: "3154f6451a665c8a8d603566d454544c7e703c862c4f7442a87b7eb21f2f88e8",
+    6789910: "29dd45db9344f708c590b00a0909375e8fba1a7ae0108cc332967e650b4f8822",
+    164014217: "2e3de9cfe80892add856e8c5c7c156524d0c6a7edca0a84e160b857da92e75d1",
+    167258993: "7c67e7462436e07143ef82b523ac070450b592b1a9a37f73f1fbc3526c9aaf48",
+    170413267: "feace0d304fd4c7880f6ccfbfb93a6791989b8b263d9e1140fc6b4f7c5eea214",
+    171873996: "76808c7ff7ce99f3c35f97ba97f8c441968e77960bed90e4c885471860095316",
     176468074: "0099b99b8186823669ee93547632e18eba7c2b6d171fa20839cac7f1bc8ee55c",
     374484320: "76db5a98a1b5c4580409eafd6c2bea31c89f8e2b8f74a594549071d8f5d16da5",
     375109966: "9d615621ced4e7513e836c0f234b8e7539415e1d1ac8c856032be0896cd7330d",
@@ -141,6 +191,8 @@ PINNED_SHA256 = {
 }
 
 EXPECTED_POLL_VECTORS = {
+    2004: ((0.52000, 0.48000), (0.50625, 0.49375), (0.49000, 0.51000)),
+    2007: ((0.560, 0.440), (0.580, 0.420), (0.530, 0.470), (0.550, 0.450)),
     2010: ((0.522, 0.478), (0.522, 0.478), (0.524, 0.476), (0.524, 0.476)),
     2013: ((0.497, 0.503), (0.493, 0.507), (0.484, 0.516), (0.475, 0.525)),
     2016: ((0.505, 0.495), (0.506, 0.494), (0.488, 0.512), (0.488, 0.512)),
@@ -246,7 +298,61 @@ def _table_poll_rows(table: str) -> list[list[float]]:
     return rows
 
 
-def poll_vector_from_wikitext(raw: str) -> list[float]:
+def _article_poll_vector(raw: str, year: int) -> list[float]:
+    if year == 2007:
+        government = re.search(r"(?im)^\|\s*gov_2PP_rating\s*=\s*(\d+(?:\.\d+)?)", raw)
+        opposition = re.search(r"(?im)^\|\s*opp_2PP_rating\s*=\s*(\d+(?:\.\d+)?)", raw)
+        if government is None or opposition is None:
+            raise ValueError("2007 article revision lacks its headline 2PP ratings")
+        labor = float(opposition.group(1))
+        coalition = float(government.group(1))
+    elif year == 2004:
+        fourth_week = re.search(
+            r"During the fourth week.*?Coalition ahead with (\d+(?:\.\d+)?) percent.*?"
+            r"Labor ahead with (\d+(?:\.\d+)?) percent",
+            raw,
+            flags=re.DOTALL,
+        )
+        midpoint = re.search(
+            r"By the midpoint.*?Labor leading with (\d+(?:\.\d+)?) percent.*?"
+            r"Coalition ahead on (\d+(?:\.\d+)?) percent.*?"
+            r"Labor ahead with (\d+(?:\.\d+)?) percent.*?"
+            r"Coalition ahead with (\d+(?:\.\d+)?) percent",
+            raw,
+            flags=re.DOTALL,
+        )
+        opening = re.search(
+            r"31 August.*?Labor a lead of (\d+(?:\.\d+)?) percent to "
+            r"(\d+(?:\.\d+)?) percent(?: nationwide|,)",
+            raw,
+            flags=re.DOTALL,
+        )
+        if fourth_week:
+            coalition_share, labor_share = map(float, fourth_week.groups())
+            labor = ((100 - coalition_share) + labor_share) / 2
+        elif midpoint:
+            labor_lead, coalition_lead, labor_second, coalition_second = map(
+                float, midpoint.groups()
+            )
+            labor = sum(
+                (labor_lead, 100 - coalition_lead, labor_second, 100 - coalition_second)
+            ) / 4
+        elif opening:
+            labor, coalition = map(float, opening.groups())
+            total = labor + coalition
+            return [labor / total, coalition / total]
+        else:
+            raise ValueError("2004 article revision lacks a complete national 2PP update")
+        coalition = 100 - labor
+    else:
+        raise ValueError(f"No article polling extractor for {year}")
+    total = labor + coalition
+    return [labor / total, coalition / total]
+
+
+def poll_vector_from_wikitext(raw: str, year: int | None = None) -> list[float]:
+    if year in POLL_PAGE_TITLES:
+        return _article_poll_vector(raw, year)
     candidates: list[list[list[float]]] = []
     for table in _tables(raw):
         if not re.search(
@@ -340,12 +446,16 @@ def build() -> tuple[Path, dict[int, str], dict[int, tuple[tuple[float, float], 
         return raw_metadata[oldid]
 
     for year, election in ELECTIONS.items():
-        poll_title = f"Opinion polling for the {year} Australian federal election"
+        poll_title = POLL_PAGE_TITLES.get(
+            year, f"Opinion polling for the {year} Australian federal election"
+        )
         year_vectors: list[tuple[float, float]] = []
         for oldid, available_at in POLL_REVISIONS[year]:
             raw_path, digest = materialize(poll_title, oldid)
             computed = tuple(
-                poll_vector_from_wikitext((root / raw_path).read_text(encoding="utf-8"))
+                poll_vector_from_wikitext(
+                    (root / raw_path).read_text(encoding="utf-8"), year
+                )
             )
             if not math.isclose(sum(computed), 1.0, abs_tol=1e-12):
                 raise ValueError(f"{year} poll vector {oldid} is not normalized")
@@ -396,12 +506,19 @@ def build() -> tuple[Path, dict[int, str], dict[int, tuple[tuple[float, float], 
         )
 
         election_day = date.fromisoformat(str(election["election_date"]))
-        for index, horizon_days in enumerate((28, 14, 7), start=1):
-            selected_revisions = POLL_REVISIONS[year][: index + 1]
-            selected_vectors = year_vectors[: index + 1]
+        for horizon_days in FORECAST_HORIZONS[year]:
             forecast_as_of = election_day - timedelta(days=horizon_days)
-            if date.fromisoformat(selected_revisions[-1][1]) > forecast_as_of:
-                raise ValueError(f"{year} poll revision exceeds the {horizon_days}-day cutoff")
+            selected = [
+                (revision_item, vector)
+                for revision_item, vector in zip(
+                    POLL_REVISIONS[year], year_vectors, strict=True
+                )
+                if date.fromisoformat(revision_item[1]) <= forecast_as_of
+            ]
+            if len(selected) < 2:
+                raise ValueError(f"{year} has fewer than two snapshots at {horizon_days} days")
+            selected_revisions = tuple(item[0] for item in selected)
+            selected_vectors = tuple(item[1] for item in selected)
             records.append(
                 {
                     "election_id": f"au-house-tpp-{year}",
@@ -417,8 +534,12 @@ def build() -> tuple[Path, dict[int, str], dict[int, tuple[tuple[float, float], 
                     "polling_revision_ids": [f"au-poll-{item[0]}" for item in selected_revisions],
                     "result_revision_id": f"au-result-{year}",
                     "aggregation": (
-                        "Mean of five most recent complete national TPP polls visible in the "
-                        "pinned archive revision; vector ordered Labor / Coalition"
+                        "Headline national TPP campaign update visible in each pinned election "
+                        "article revision; contradictory same-update polls averaged; vector "
+                        "ordered Labor / Coalition"
+                        if year in POLL_PAGE_TITLES
+                        else "Mean of five most recent complete national TPP polls visible in "
+                        "each pinned polling-page revision; vector ordered Labor / Coalition"
                     ),
                 }
             )
@@ -427,14 +548,14 @@ def build() -> tuple[Path, dict[int, str], dict[int, tuple[tuple[float, float], 
         "schema_version": 4,
         "description": (
             "Australian House TPP diagnostic using contemporaneously archived Wikipedia "
-            "revisions and AEC-verified national results. Eighteen multi-origin records cover "
-            "six elections from 2010 through 2025."
+            "revisions and AEC-verified national results. Twenty-three multi-origin records "
+            "cover eight elections from 2004 through 2025."
         ),
         "minimum_train_elections": 3,
         "source_revisions": revisions,
         "records": records,
     }
-    output = root / "au-federal-tpp-2010-2025-v1.json"
+    output = root / "au-federal-tpp-2004-2025-v2.json"
     output.write_bytes(canonical_bytes(payload))
     return output, digests, vectors
 
