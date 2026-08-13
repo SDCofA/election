@@ -66,7 +66,6 @@ jobs:
         with:
           context: ${{ matrix.context }}
           file: ${{ matrix.dockerfile }}
-          build-args: SOURCE_SHA=${{ env.SOURCE_SHA }}
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
