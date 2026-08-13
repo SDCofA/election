@@ -1,6 +1,6 @@
 {
   "election_id": "in-2029-lok-sabha",
-  "snapshot_id": "in-2029-lok-sabha-structural-ensemble-0.6.0-baseline_ensemble-20260811T120000Z-structural",
+  "snapshot_id": "in-2029-lok-sabha-structural-ensemble-0.6.1-baseline_ensemble-20260811T120000Z-structural",
   "majority": 272,
   "coalitions": [
     {
@@ -8,9 +8,9 @@
         "nda",
         "india-alliance"
       ],
-      "majority_probability": 0.934676,
+      "majority_probability": 0.934662,
       "seats_median": 530,
-      "seats_low": 237,
+      "seats_low": 236,
       "seats_high": 543
     },
     {
@@ -18,9 +18,9 @@
         "nda",
         "other-parties"
       ],
-      "majority_probability": 0.594267,
-      "seats_median": 332,
-      "seats_low": 37,
+      "majority_probability": 0.594377,
+      "seats_median": 331,
+      "seats_low": 36,
       "seats_high": 538
     },
     {
@@ -28,15 +28,15 @@
         "india-alliance",
         "other-parties"
       ],
-      "majority_probability": 0.542593,
+      "majority_probability": 0.543347,
       "seats_median": 299,
       "seats_low": 28,
-      "seats_high": 536
+      "seats_high": 535
     }
   ],
   "as_of": "2026-08-11T12:00:00Z",
   "published_at": "2026-08-11T12:00:00Z",
-  "model_version": "structural-ensemble-0.6.0",
+  "model_version": "structural-ensemble-0.6.1",
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [

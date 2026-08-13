@@ -72,7 +72,7 @@
   "simulation_count_per_model_fold": 1000000,
   "evaluated_horizon_min_days": 2,
   "evaluated_horizon_max_days": 14,
-  "target_horizon_days": 637,
+  "target_horizon_days": 633,
   "evaluation_period_start": "2023-05-14",
   "evaluation_period_end": "2023-05-14",
   "dataset_sha256": "a70444b66941daef09e9f4591fcece42b8960f464442e0a14eb3097b1b842302",
@@ -88,9 +88,9 @@
     "All three forecast origins test the same 2023 election, so they are not three independent election holdouts."
   ],
   "message": "At least eight out-of-sample folds are required; At least three distinct held-out elections are required; Source-vintage election history must span at least twenty years; Production forecast horizon is outside the evaluated historical horizon neighborhoods",
-  "as_of": "2026-08-09T18:00:00Z",
-  "published_at": "2026-08-09T18:00:00Z",
-  "model_version": "structural-ensemble-0.6.0",
+  "as_of": "2026-08-13T07:00:00Z",
+  "published_at": "2026-08-13T07:00:00Z",
+  "model_version": "structural-ensemble-0.6.1",
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [
@@ -129,6 +129,33 @@
       "retrieved_at": "2026-08-09T18:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
       "license_url": "https://en.chp.org.tr/"
+    },
+    {
+      "source_id": "turkiye_ysk_candidate_eligibility",
+      "label": "Supreme Election Council decision stating the higher-education requirement for presidential candidates",
+      "url": "https://www.ysk.gov.tr/doc/karar/dosya/77619/2018-391.pdf",
+      "authority": "official",
+      "retrieved_at": "2026-08-13T07:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ysk.gov.tr/"
+    },
+    {
+      "source_id": "imamoglu_diploma_annulment",
+      "label": "Official confirmation of İstanbul University's 18 March 2025 diploma-annulment decision",
+      "url": "https://www.iletisim.gov.tr/turkce/haberler/detay/imamoglunun-diplomasini-iptal-eden-kurulda-hukukcu-olmadigi-iddiasina-iliskin-aciklama",
+      "authority": "official government statement",
+      "retrieved_at": "2026-08-13T07:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.iletisim.gov.tr/"
+    },
+    {
+      "source_id": "imamoglu_council_of_state_appeal",
+      "label": "June 2026 report: lower-court diploma challenge rejected and appeal filed at the Council of State",
+      "url": "https://medyascope.tv/2026/06/17/imamoglu-diplomasinin-iptaline-karsi-actigi-dava-danistaya-tasindi-basvuruyu-mehmet-pehlivan-yapti/",
+      "authority": "independent news; legal-status reporting",
+      "retrieved_at": "2026-08-13T07:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://medyascope.tv/"
     },
     {
       "source_id": "gundemar_may_2026",

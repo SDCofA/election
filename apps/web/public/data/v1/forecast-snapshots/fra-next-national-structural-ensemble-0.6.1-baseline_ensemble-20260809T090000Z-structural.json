@@ -1,13 +1,13 @@
 {
-  "id": "zaf-next-national-structural-ensemble-0.6.0-baseline_ensemble-20260809T090000Z-structural",
-  "election_id": "zaf-next-national",
+  "id": "fra-next-national-structural-ensemble-0.6.1-baseline_ensemble-20260809T090000Z-structural",
+  "election_id": "fra-next-national",
   "as_of": "2026-08-09T09:00:00Z",
   "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "structural-ensemble-0.6.0",
+  "model_version": "structural-ensemble-0.6.1",
   "model_family": "baseline_ensemble",
   "selection_status": "baseline retained until reliable walk-forward promotion evidence",
   "simulation_count": 1000000,
-  "seed": 1377339543,
+  "seed": 302329177,
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "missing_drivers": [
@@ -21,8 +21,8 @@
   ],
   "regional_forecast_supported": false,
   "headline": "No official date or ballot yet; this is a high-uncertainty governing-versus-opposition control scenario.",
-  "majority_probability": 0.604215,
-  "turnout_median": 0.6200234889984131,
+  "majority_probability": 0.602881,
+  "turnout_median": 0.6199831962585449,
   "forecast_horizon_days": 1096,
   "uncertainty_scale": 1.5682028834163937,
   "effective_volatility": 0.18,
@@ -30,30 +30,30 @@
   "outcomes": [
     {
       "contestant_id": "government-camp",
-      "win_probability": 0.435598,
-      "projected_share": 0.3937244117259979,
-      "share_low": 0.09347327388823033,
-      "share_high": 0.6804355204105375,
+      "win_probability": 0.436547,
+      "projected_share": 0.39403361082077026,
+      "share_low": 0.09432369619607926,
+      "share_high": 0.6801569014787674,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "opposition-camp",
-      "win_probability": 0.434403,
-      "projected_share": 0.3938220143318176,
-      "share_low": 0.09791462123394014,
-      "share_high": 0.6771802812814711,
+      "win_probability": 0.434296,
+      "projected_share": 0.3937578499317169,
+      "share_low": 0.0984036561101675,
+      "share_high": 0.6771527081727982,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "other-field",
-      "win_probability": 0.129999,
-      "projected_share": 0.21245355904102325,
-      "share_low": 0.002715503587387502,
-      "share_high": 0.4984053835272788,
+      "win_probability": 0.129157,
+      "projected_share": 0.21220849454402924,
+      "share_low": 0.0027156308642588556,
+      "share_high": 0.4969005018472671,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
@@ -101,13 +101,13 @@
   "input_provenance": [],
   "provenance": [
     {
-      "source_id": "zaf_electoral_authority_reference",
-      "label": "Electoral Commission of South Africa",
-      "url": "https://www.elections.org.za/",
+      "source_id": "fra_electoral_authority_reference",
+      "label": "French Ministry of the Interior Elections",
+      "url": "https://www.interieur.gouv.fr/Elections",
       "authority": "official reference",
       "retrieved_at": "2026-08-09T09:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
-      "license_url": "https://www.elections.org.za/"
+      "license_url": "https://www.interieur.gouv.fr/Elections"
     }
   ]
 }

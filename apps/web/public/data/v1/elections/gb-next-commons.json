@@ -150,15 +150,15 @@
     ]
   },
   "forecast": {
-    "id": "gb-next-commons-structural-ensemble-0.6.0-baseline_ensemble-20260809T090000Z-structural",
+    "id": "gb-next-commons-structural-ensemble-0.6.1-baseline_ensemble-20260809T090000Z-structural",
     "election_id": "gb-next-commons",
     "as_of": "2026-08-09T09:00:00Z",
     "published_at": "2026-08-09T09:00:00Z",
-    "model_version": "structural-ensemble-0.6.0",
+    "model_version": "structural-ensemble-0.6.1",
     "model_family": "baseline_ensemble",
     "selection_status": "baseline retained until reliable walk-forward promotion evidence",
     "simulation_count": 1000000,
-    "seed": 3429386846,
+    "seed": 2550181184,
     "data_quality": "D",
     "freshness": "structural-only; no source-vintage feature snapshot",
     "missing_drivers": [
@@ -169,8 +169,8 @@
     ],
     "regional_forecast_supported": false,
     "headline": "Structural signals remain provisional; uncertainty is explicitly widened.",
-    "majority_probability": 0.556825,
-    "turnout_median": 0.6100118160247803,
+    "majority_probability": 0.55709,
+    "turnout_median": 0.6099648475646973,
     "forecast_horizon_days": 1102,
     "uncertainty_scale": 1.5697447358157606,
     "effective_volatility": 0.0596502999609989,
@@ -178,50 +178,50 @@
     "outcomes": [
       {
         "contestant_id": "lab",
-        "win_probability": 0.629841,
-        "projected_share": 0.30893996357917786,
-        "share_low": 0.20227227956056595,
-        "share_high": 0.41537598222494126,
+        "win_probability": 0.630343,
+        "projected_share": 0.3089996874332428,
+        "share_low": 0.20210952833294868,
+        "share_high": 0.41525891572237017,
         "projected_seats": 294,
         "seats_low": 89,
         "seats_high": 498
       },
       {
         "contestant_id": "con",
-        "win_probability": 0.229617,
-        "projected_share": 0.2491755336523056,
-        "share_low": 0.14383601397275925,
-        "share_high": 0.35375951975584025,
+        "win_probability": 0.22948,
+        "projected_share": 0.24921049177646637,
+        "share_low": 0.14420782625675202,
+        "share_high": 0.35386472493410104,
         "projected_seats": 171,
         "seats_low": 27,
         "seats_high": 376
       },
       {
         "contestant_id": "ref",
-        "win_probability": 0.124793,
-        "projected_share": 0.21914415061473846,
-        "share_low": 0.11406436152756214,
-        "share_high": 0.32387336939573286,
+        "win_probability": 0.124443,
+        "projected_share": 0.21916237473487854,
+        "share_low": 0.11413940228521824,
+        "share_high": 0.32381227463483797,
         "projected_seats": 125,
-        "seats_low": 12,
-        "seats_high": 313
+        "seats_low": 13,
+        "seats_high": 312
       },
       {
         "contestant_id": "ld",
-        "win_probability": 0.012389,
-        "projected_share": 0.13016203045845032,
-        "share_low": 0.02403437662869692,
-        "share_high": 0.23443262428045264,
+        "win_probability": 0.012362,
+        "projected_share": 0.1300908923149109,
+        "share_low": 0.023962933383882046,
+        "share_high": 0.23436207696795458,
         "projected_seats": 39,
         "seats_low": 0,
         "seats_high": 143
       },
       {
         "contestant_id": "other",
-        "win_probability": 0.00336,
-        "projected_share": 0.09257828444242477,
-        "share_low": 0.0029447760432958605,
-        "share_high": 0.1955001138150691,
+        "win_probability": 0.003372,
+        "projected_share": 0.0925365537405014,
+        "share_low": 0.002944033732637763,
+        "share_high": 0.19567353427410114,
         "projected_seats": 20,
         "seats_low": 0,
         "seats_high": 87
@@ -234,9 +234,9 @@
           "lab",
           "con"
         ],
-        "majority_probability": 0.884987,
+        "majority_probability": 0.885725,
         "seats_median": 483,
-        "seats_low": 262,
+        "seats_low": 263,
         "seats_high": 605
       },
       {
@@ -244,19 +244,19 @@
           "lab",
           "ref"
         ],
-        "majority_probability": 0.782849,
-        "seats_median": 432,
+        "majority_probability": 0.783527,
+        "seats_median": 433,
         "seats_low": 207,
-        "seats_high": 585
+        "seats_high": 584
       },
       {
         "member_ids": [
           "lab",
           "ld"
         ],
-        "majority_probability": 0.53064,
-        "seats_median": 336,
-        "seats_low": 125,
+        "majority_probability": 0.530991,
+        "seats_median": 337,
+        "seats_low": 124,
         "seats_high": 530
       },
       {
@@ -264,17 +264,17 @@
           "lab",
           "other"
         ],
-        "majority_probability": 0.471585,
+        "majority_probability": 0.472005,
         "seats_median": 315,
         "seats_low": 108,
-        "seats_high": 516
+        "seats_high": 515
       },
       {
         "member_ids": [
           "con",
           "ref"
         ],
-        "majority_probability": 0.406765,
+        "majority_probability": 0.406416,
         "seats_median": 292,
         "seats_low": 103,
         "seats_high": 506
@@ -284,17 +284,17 @@
           "con",
           "ld"
         ],
-        "majority_probability": 0.171426,
+        "majority_probability": 0.17081,
         "seats_median": 196,
         "seats_low": 51,
-        "seats_high": 421
+        "seats_high": 420
       },
       {
         "member_ids": [
           "con",
           "other"
         ],
-        "majority_probability": 0.133443,
+        "majority_probability": 0.133485,
         "seats_median": 175,
         "seats_low": 40,
         "seats_high": 399
@@ -304,7 +304,7 @@
           "ref",
           "ld"
         ],
-        "majority_probability": 0.083881,
+        "majority_probability": 0.083286,
         "seats_median": 146,
         "seats_low": 32,
         "seats_high": 363
@@ -314,17 +314,17 @@
           "ref",
           "other"
         ],
-        "majority_probability": 0.060011,
+        "majority_probability": 0.059787,
         "seats_median": 125,
         "seats_low": 23,
-        "seats_high": 339
+        "seats_high": 338
       },
       {
         "member_ids": [
           "ld",
           "other"
         ],
-        "majority_probability": 0.003675,
+        "majority_probability": 0.003742,
         "seats_median": 41,
         "seats_low": 3,
         "seats_high": 181
@@ -335,7 +335,7 @@
           "con",
           "ref"
         ],
-        "majority_probability": 0.996236,
+        "majority_probability": 0.99618,
         "seats_median": 609,
         "seats_low": 469,
         "seats_high": 647
@@ -346,9 +346,9 @@
           "con",
           "ld"
         ],
-        "majority_probability": 0.939133,
+        "majority_probability": 0.939336,
         "seats_median": 525,
-        "seats_low": 311,
+        "seats_low": 312,
         "seats_high": 627
       },
       {
@@ -357,7 +357,7 @@
           "con",
           "other"
         ],
-        "majority_probability": 0.915057,
+        "majority_probability": 0.915699,
         "seats_median": 504,
         "seats_low": 287,
         "seats_high": 618
@@ -368,7 +368,7 @@
           "ref",
           "ld"
         ],
-        "majority_probability": 0.865039,
+        "majority_probability": 0.864907,
         "seats_median": 475,
         "seats_low": 251,
         "seats_high": 610
@@ -379,9 +379,9 @@
           "ref",
           "other"
         ],
-        "majority_probability": 0.826765,
+        "majority_probability": 0.827399,
         "seats_median": 454,
-        "seats_low": 229,
+        "seats_low": 230,
         "seats_high": 599
       },
       {
@@ -390,7 +390,7 @@
           "ld",
           "other"
         ],
-        "majority_probability": 0.590536,
+        "majority_probability": 0.590867,
         "seats_median": 358,
         "seats_low": 144,
         "seats_high": 547
@@ -401,9 +401,9 @@
           "ref",
           "ld"
         ],
-        "majority_probability": 0.525588,
+        "majority_probability": 0.5251,
         "seats_median": 335,
-        "seats_low": 134,
+        "seats_low": 135,
         "seats_high": 542
       },
       {
@@ -412,10 +412,10 @@
           "ref",
           "other"
         ],
-        "majority_probability": 0.466564,
-        "seats_median": 314,
+        "majority_probability": 0.466164,
+        "seats_median": 313,
         "seats_low": 120,
-        "seats_high": 525
+        "seats_high": 526
       },
       {
         "member_ids": [
@@ -423,9 +423,9 @@
           "ld",
           "other"
         ],
-        "majority_probability": 0.215098,
-        "seats_median": 218,
-        "seats_low": 65,
+        "majority_probability": 0.214403,
+        "seats_median": 217,
+        "seats_low": 66,
         "seats_high": 443
       },
       {
@@ -434,10 +434,10 @@
           "ld",
           "other"
         ],
-        "majority_probability": 0.113603,
+        "majority_probability": 0.112913,
         "seats_median": 167,
         "seats_low": 45,
-        "seats_high": 388
+        "seats_high": 387
       },
       {
         "member_ids": [
@@ -446,7 +446,7 @@
           "ref",
           "ld"
         ],
-        "majority_probability": 0.999739,
+        "majority_probability": 0.99972,
         "seats_median": 643,
         "seats_low": 563,
         "seats_high": 650
@@ -458,7 +458,7 @@
           "ref",
           "other"
         ],
-        "majority_probability": 0.998504,
+        "majority_probability": 0.998509,
         "seats_median": 629,
         "seats_low": 507,
         "seats_high": 650
@@ -470,10 +470,10 @@
           "ld",
           "other"
         ],
-        "majority_probability": 0.957938,
+        "majority_probability": 0.95832,
         "seats_median": 546,
-        "seats_low": 337,
-        "seats_high": 638
+        "seats_low": 338,
+        "seats_high": 637
       },
       {
         "member_ids": [
@@ -482,8 +482,8 @@
           "ld",
           "other"
         ],
-        "majority_probability": 0.897654,
-        "seats_median": 496,
+        "majority_probability": 0.89752,
+        "seats_median": 497,
         "seats_low": 274,
         "seats_high": 623
       },
@@ -494,7 +494,7 @@
           "ld",
           "other"
         ],
-        "majority_probability": 0.584771,
+        "majority_probability": 0.584187,
         "seats_median": 356,
         "seats_low": 152,
         "seats_high": 561

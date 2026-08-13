@@ -1,13 +1,13 @@
 {
-  "id": "tr-next-president-structural-ensemble-0.6.0-baseline_ensemble-20260809T180000Z-structural",
+  "id": "tr-next-president-structural-ensemble-0.6.1-baseline_ensemble-20260813T070000Z-structural",
   "election_id": "tr-next-president",
-  "as_of": "2026-08-09T18:00:00Z",
-  "published_at": "2026-08-09T18:00:00Z",
-  "model_version": "structural-ensemble-0.6.0",
+  "as_of": "2026-08-13T07:00:00Z",
+  "published_at": "2026-08-13T07:00:00Z",
+  "model_version": "structural-ensemble-0.6.1",
   "model_family": "baseline_ensemble",
   "selection_status": "baseline retained until reliable walk-forward promotion evidence",
   "simulation_count": 1000000,
-  "seed": 625840239,
+  "seed": 896758903,
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "missing_drivers": [
@@ -17,40 +17,40 @@
     "Subnational model"
   ],
   "regional_forecast_supported": false,
-  "headline": "The opposition-nominee scenario leads, but Erdoğan or another governing nominee retains a material path; Türkiye has only one held-out election, not a validated model.",
-  "majority_probability": 0.785683,
-  "turnout_median": 0.8399783372879028,
-  "forecast_horizon_days": 637,
-  "uncertainty_scale": 1.422268023854558,
-  "effective_volatility": 0.1635608227432742,
+  "headline": "The active model excludes İmamoğlu while his degree remains annulled and now mixes only the sourced Yavaş and Özel opposition scenarios. Erdoğan or another governing nominee retains a material path; Türkiye has only one held-out election, not a validated model.",
+  "majority_probability": 0.786482,
+  "turnout_median": 0.8399854898452759,
+  "forecast_horizon_days": 633,
+  "uncertainty_scale": 1.4206562820833268,
+  "effective_volatility": 0.1633754724395826,
   "poll_weight_used": null,
   "outcomes": [
     {
       "contestant_id": "government-nominee",
-      "win_probability": 0.343654,
-      "projected_share": 0.3986421227455139,
-      "share_low": 0.137531902641058,
-      "share_high": 0.6455340385437012,
+      "win_probability": 0.346128,
+      "projected_share": 0.3990136384963989,
+      "share_low": 0.13601074665784835,
+      "share_high": 0.6467035114765167,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "opposition-nominee",
-      "win_probability": 0.63784,
-      "projected_share": 0.5058913230895996,
-      "share_low": 0.2508536264300346,
-      "share_high": 0.749243026971817,
+      "win_probability": 0.635797,
+      "projected_share": 0.5058663487434387,
+      "share_low": 0.2499118499457836,
+      "share_high": 0.7504202872514724,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
     },
     {
       "contestant_id": "other",
-      "win_probability": 0.018506,
-      "projected_share": 0.09546656161546707,
-      "share_low": 0.0024452263372950257,
-      "share_high": 0.32385135293006895,
+      "win_probability": 0.018075,
+      "projected_share": 0.09511998295783997,
+      "share_low": 0.002445514779537916,
+      "share_high": 0.32276903986930844,
       "projected_seats": null,
       "seats_low": null,
       "seats_high": null
@@ -58,81 +58,40 @@
   ],
   "scenario_outcomes": [
     {
-      "scenario_id": "erdogan-v-imamoglu",
-      "label": "Erdoğan v İmamoğlu",
-      "weight": 0.3333333333333333,
-      "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. Equal scenario weight is structural, not a nomination probability.",
-      "source_ids": [
-        "gundemar_may_2026"
-      ],
-      "outcomes": [
-        {
-          "contestant_id": "government-nominee",
-          "win_probability": 0.34159777962941873,
-          "projected_share": 0.3983531594276428,
-          "share_low": 0.13995931595563887,
-          "share_high": 0.6426510483026504,
-          "projected_seats": null,
-          "seats_low": null,
-          "seats_high": null
-        },
-        {
-          "contestant_id": "opposition-nominee",
-          "win_probability": 0.6396693422212099,
-          "projected_share": 0.5060451030731201,
-          "share_low": 0.2544791668653488,
-          "share_high": 0.746316796541214,
-          "projected_seats": null,
-          "seats_low": null,
-          "seats_high": null
-        },
-        {
-          "contestant_id": "other",
-          "win_probability": 0.018732878149371475,
-          "projected_share": 0.09560180455446243,
-          "share_low": 0.002444339240901172,
-          "share_high": 0.3243842676281929,
-          "projected_seats": null,
-          "seats_low": null,
-          "seats_high": null
-        }
-      ]
-    },
-    {
       "scenario_id": "erdogan-v-yavas",
       "label": "Erdoğan v Yavaş",
-      "weight": 0.3333333333333333,
-      "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. Equal scenario weight is structural, not a nomination probability.",
+      "weight": 0.5,
+      "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. İmamoğlu is eligibility-gated out; equal weight across the remaining Yavaş and Özel scenarios is structural, not a nomination probability.",
       "source_ids": [
         "gundemar_may_2026"
       ],
       "outcomes": [
         {
           "contestant_id": "government-nominee",
-          "win_probability": 0.2700141345089083,
-          "projected_share": 0.37044012546539307,
-          "share_low": 0.11142129525542259,
-          "share_high": 0.6149582028388978,
+          "win_probability": 0.2712311351212606,
+          "projected_share": 0.37042391300201416,
+          "share_low": 0.11088087484240532,
+          "share_high": 0.6139709264039993,
           "projected_seats": null,
           "seats_low": null,
           "seats_high": null
         },
         {
           "contestant_id": "opposition-nominee",
-          "win_probability": 0.7125322978029992,
-          "projected_share": 0.5341269969940186,
-          "share_low": 0.28268063366413115,
-          "share_high": 0.7732657194137574,
+          "win_probability": 0.711657622754563,
+          "projected_share": 0.5344811677932739,
+          "share_low": 0.2836783289909363,
+          "share_high": 0.7742944300174712,
           "projected_seats": null,
           "seats_low": null,
           "seats_high": null
         },
         {
           "contestant_id": "other",
-          "win_probability": 0.017453567688092503,
-          "projected_share": 0.09543287754058838,
-          "share_low": 0.0024446944938972593,
-          "share_high": 0.32368983626365666,
+          "win_probability": 0.01711124212417632,
+          "projected_share": 0.0950949415564537,
+          "share_low": 0.0024459584266878663,
+          "share_high": 0.32250596880912774,
           "projected_seats": null,
           "seats_low": null,
           "seats_high": null
@@ -142,38 +101,38 @@
     {
       "scenario_id": "erdogan-v-ozel",
       "label": "Erdoğan v Özel",
-      "weight": 0.3333333333333334,
-      "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. Equal scenario weight is structural, not a nomination probability.",
+      "weight": 0.5,
+      "assumption": "Gündemar's May 2026 two-way result is rescaled to reserve 5% for other first-round candidates. İmamoğlu is eligibility-gated out; equal weight across the remaining Yavaş and Özel scenarios is structural, not a nomination probability.",
       "source_ids": [
         "gundemar_may_2026"
       ],
       "outcomes": [
         {
           "contestant_id": "government-nominee",
-          "win_probability": 0.41937352724871296,
-          "projected_share": 0.42714133858680725,
-          "share_low": 0.16935772448778152,
-          "share_high": 0.6703960418701171,
+          "win_probability": 0.42062985466426767,
+          "projected_share": 0.42745256423950195,
+          "share_low": 0.1704812914133072,
+          "share_high": 0.6704539507627485,
           "projected_seats": null,
           "seats_low": null,
           "seats_high": null
         },
         {
           "contestant_id": "opposition-nominee",
-          "win_probability": 0.5612949705074519,
-          "projected_share": 0.4774938225746155,
-          "share_low": 0.22454940527677536,
-          "share_high": 0.7187467098236084,
+          "win_probability": 0.5603364703723356,
+          "projected_share": 0.47740256786346436,
+          "share_low": 0.22538585513830187,
+          "share_high": 0.7179684281349181,
           "projected_seats": null,
           "seats_low": null,
           "seats_high": null
         },
         {
           "contestant_id": "other",
-          "win_probability": 0.01933150224383508,
-          "projected_share": 0.09536481648683548,
-          "share_low": 0.0024464835412800314,
-          "share_high": 0.3235057979822158,
+          "win_probability": 0.01903367496339678,
+          "projected_share": 0.09514489769935608,
+          "share_low": 0.00244513537036255,
+          "share_high": 0.3230120480060576,
           "projected_seats": null,
           "seats_low": null,
           "seats_high": null
@@ -202,15 +161,15 @@
     {
       "key": "opposition_selection",
       "label": "Opposition nominee coordination",
-      "value": "High unresolved leverage",
+      "value": "İmamoğlu legally blocked; replacement unresolved",
       "contribution": -0.18,
       "direction": "government",
       "confidence": 0.42
     },
     {
       "key": "eligibility",
-      "label": "Election timing and Erdoğan eligibility",
-      "value": "Constitutionally uncertain",
+      "label": "Candidate eligibility gate",
+      "value": "İmamoğlu excluded; Erdoğan path conditional",
       "contribution": -0.08,
       "direction": "government",
       "confidence": 0.38
@@ -264,6 +223,33 @@
       "retrieved_at": "2026-08-09T18:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
       "license_url": "https://en.chp.org.tr/"
+    },
+    {
+      "source_id": "turkiye_ysk_candidate_eligibility",
+      "label": "Supreme Election Council decision stating the higher-education requirement for presidential candidates",
+      "url": "https://www.ysk.gov.tr/doc/karar/dosya/77619/2018-391.pdf",
+      "authority": "official",
+      "retrieved_at": "2026-08-13T07:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ysk.gov.tr/"
+    },
+    {
+      "source_id": "imamoglu_diploma_annulment",
+      "label": "Official confirmation of İstanbul University's 18 March 2025 diploma-annulment decision",
+      "url": "https://www.iletisim.gov.tr/turkce/haberler/detay/imamoglunun-diplomasini-iptal-eden-kurulda-hukukcu-olmadigi-iddiasina-iliskin-aciklama",
+      "authority": "official government statement",
+      "retrieved_at": "2026-08-13T07:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.iletisim.gov.tr/"
+    },
+    {
+      "source_id": "imamoglu_council_of_state_appeal",
+      "label": "June 2026 report: lower-court diploma challenge rejected and appeal filed at the Council of State",
+      "url": "https://medyascope.tv/2026/06/17/imamoglu-diplomasinin-iptaline-karsi-actigi-dava-danistaya-tasindi-basvuruyu-mehmet-pehlivan-yapti/",
+      "authority": "independent news; legal-status reporting",
+      "retrieved_at": "2026-08-13T07:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://medyascope.tv/"
     },
     {
       "source_id": "gundemar_may_2026",

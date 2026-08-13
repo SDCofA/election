@@ -85,7 +85,7 @@
   "message": "Every fold requires contemporaneous archived poll and source-revision provenance; Production forecast horizon is outside the evaluated historical horizon neighborhoods",
   "as_of": "2026-08-09T09:00:00Z",
   "published_at": "2026-08-09T09:00:00Z",
-  "model_version": "structural-ensemble-0.6.0",
+  "model_version": "structural-ensemble-0.6.1",
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [

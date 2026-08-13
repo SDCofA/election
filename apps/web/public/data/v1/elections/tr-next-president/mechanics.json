@@ -46,6 +46,27 @@
       ]
     },
     {
+      "source_id": "turkiye_ysk_candidate_eligibility",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "pdf"
+      ]
+    },
+    {
+      "source_id": "imamoglu_diploma_annulment",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html"
+      ]
+    },
+    {
+      "source_id": "imamoglu_council_of_state_appeal",
+      "status": "reference_only_no_ingestion",
+      "formats": [
+        "html"
+      ]
+    },
+    {
       "source_id": "gundemar_may_2026",
       "status": "reference_only_no_ingestion",
       "formats": [
@@ -61,9 +82,9 @@
     }
   ],
   "forecast_enabled": true,
-  "as_of": "2026-08-09T18:00:00Z",
-  "published_at": "2026-08-09T18:00:00Z",
-  "model_version": "structural-ensemble-0.6.0",
+  "as_of": "2026-08-13T07:00:00Z",
+  "published_at": "2026-08-13T07:00:00Z",
+  "model_version": "structural-ensemble-0.6.1",
   "data_quality": "D",
   "freshness": "structural-only; no source-vintage feature snapshot",
   "provenance": [
@@ -102,6 +123,33 @@
       "retrieved_at": "2026-08-09T18:00:00Z",
       "license": "LINK-ONLY-NO-INGESTION",
       "license_url": "https://en.chp.org.tr/"
+    },
+    {
+      "source_id": "turkiye_ysk_candidate_eligibility",
+      "label": "Supreme Election Council decision stating the higher-education requirement for presidential candidates",
+      "url": "https://www.ysk.gov.tr/doc/karar/dosya/77619/2018-391.pdf",
+      "authority": "official",
+      "retrieved_at": "2026-08-13T07:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.ysk.gov.tr/"
+    },
+    {
+      "source_id": "imamoglu_diploma_annulment",
+      "label": "Official confirmation of İstanbul University's 18 March 2025 diploma-annulment decision",
+      "url": "https://www.iletisim.gov.tr/turkce/haberler/detay/imamoglunun-diplomasini-iptal-eden-kurulda-hukukcu-olmadigi-iddiasina-iliskin-aciklama",
+      "authority": "official government statement",
+      "retrieved_at": "2026-08-13T07:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://www.iletisim.gov.tr/"
+    },
+    {
+      "source_id": "imamoglu_council_of_state_appeal",
+      "label": "June 2026 report: lower-court diploma challenge rejected and appeal filed at the Council of State",
+      "url": "https://medyascope.tv/2026/06/17/imamoglu-diplomasinin-iptaline-karsi-actigi-dava-danistaya-tasindi-basvuruyu-mehmet-pehlivan-yapti/",
+      "authority": "independent news; legal-status reporting",
+      "retrieved_at": "2026-08-13T07:00:00Z",
+      "license": "LINK-ONLY-NO-INGESTION",
+      "license_url": "https://medyascope.tv/"
     },
     {
       "source_id": "gundemar_may_2026",
