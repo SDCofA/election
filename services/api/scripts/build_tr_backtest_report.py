@@ -14,7 +14,7 @@ from app.backtest import (
 BACKTESTS_ROOT = Path(__file__).resolve().parents[1] / "app" / "backtests"
 DATASET_PATH = BACKTESTS_ROOT / "tr-presidential-2014-2023-v1.json"
 OUTPUT_PATH = BACKTESTS_ROOT / "tr-presidential-2014-2023-v1-report.json"
-TARGET_HORIZON_DAYS = 637
+TARGET_HORIZON_DAYS = 633
 
 
 def build() -> tuple[Path, str]:

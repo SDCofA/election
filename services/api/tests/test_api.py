@@ -186,7 +186,7 @@ def test_forecast_contract_and_exploratory_forecasts():
     assert australia_comparison["vintage_verified"] is True
     assert 0 <= australia_comparison["fitted_poll_weight"] <= 1
     assert australia_comparison["status"] == "insufficient_evidence"
-    assert comparison["target_horizon_days"] == 637
+    assert comparison["target_horizon_days"] == 633
     assert comparison["vintage_verified"] is True
     assert comparison["historical_election_count"] == 3
     assert comparison["historical_span_years"] == 9

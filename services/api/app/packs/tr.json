@@ -20,12 +20,15 @@
     {"source_id":"turkiye_ysk_presidential_archive","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"ak_party_2028_signal","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"chp_presidential_primary","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"turkiye_ysk_candidate_eligibility","status":"reference_only_no_ingestion","formats":["pdf"]},
+    {"source_id":"imamoglu_diploma_annulment","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"imamoglu_council_of_state_appeal","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"gundemar_may_2026","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"polymarket_turkiye","status":"reference_only_no_ingestion","formats":["html"]}
   ],
   "backtest_dataset": "tr-presidential-2014-2023-v1.json",
   "backtest_report": "tr-presidential-2014-2023-v1-report.json",
-  "backtest_report_sha256": "ed452d0ee20fa08243e3c298b08ed1af5a0cc01ae1fcfd7e3da453798b3b8f5b",
+  "backtest_report_sha256": "7c018f15a7e8f16c4f94c997d9dfa260f25b89cee58cda90f9818234d6a6a024",
   "rules": {
     "engine": "presidential_runoff",
     "rounds": 2,
