@@ -90,6 +90,7 @@ jobs:
           image-ref: ${{ steps.image.outputs.name }}@${{ steps.build.outputs.digest }}
           # Scan a concrete runtime manifest, excluding index attestations.
           format: table
+          trivyignores: .trivyignore.yaml
           severity: HIGH,CRITICAL
           ignore-unfixed: true
           exit-code: 1

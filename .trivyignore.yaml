@@ -1,0 +1,11 @@
+vulnerabilities:
+  - id: GHSA-6v7p-g79w-8964
+    purls:
+      - pkg:pypi/msgpack@1.1.2
+    expired_at: 2026-09-30
+    statement: Runtime image contains msgpack 1.2.1; attached base-image SBOM reports superseded 1.1.2.
+  - id: CVE-2025-47273
+    purls:
+      - pkg:pypi/setuptools@70.3.0
+    expired_at: 2026-09-30
+    statement: Runtime image contains setuptools 84.0.0; attached base-image SBOM reports superseded 70.3.0.
