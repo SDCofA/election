@@ -83,17 +83,10 @@ jobs:
         uses: aquasecurity/trivy-action@ed142fd0673e97e23eac54620cfb913e5ce36c25
         with:
           image-ref: ${{ steps.image.outputs.name }}@${{ steps.build.outputs.digest }}
-          format: sarif
-          output: trivy-${{ matrix.component }}.sarif
+          format: table
           severity: HIGH,CRITICAL
           ignore-unfixed: true
           exit-code: 1
-      - name: Upload vulnerability report
-        if: always() && hashFiles(format('trivy-{0}.sarif', matrix.component)) != ''
-        uses: github/codeql-action/upload-sarif@v3
-        with:
-          sarif_file: trivy-${{ matrix.component }}.sarif
-          category: image-${{ matrix.component }}
       - name: Export SPDX SBOM
         uses: anchore/sbom-action@v0
         with:
