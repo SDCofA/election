@@ -2,7 +2,10 @@ import Image from "next/image";
 
 import { publicAsset } from "@/lib/public-data";
 
-const LOCAL_FLAGS = new Set(["de", "eg", "gb", "us"]);
+const LOCAL_FLAGS = new Set([
+  "ar", "au", "br", "ca", "cn", "de", "fr", "gb", "id", "in",
+  "it", "jp", "kr", "mx", "ru", "sa", "tr", "us", "za"
+]);
 
 export function FlagIcon({ code, label }: { code: string; label?: string }) {
   const normalized = code.toLowerCase();

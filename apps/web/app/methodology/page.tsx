@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 import { publicAsset } from "@/lib/public-data";
@@ -13,7 +14,13 @@ const gates = [
 export default function MethodologyPage() {
   return (
     <main className="method-page">
-      <Link className="method-back" href="/">← SDCOFA ELECTION DESK</Link>
+      <div className="method-brand-row">
+        <Link className="method-brand" href="/" aria-label="SDCofA Election Desk home">
+          <Image alt="Strategic Data Company of Ankara" height={145} src={publicAsset("/brand/sdcofa-logo.png")} width={360} priority />
+          <b>ELECTION DESK</b>
+        </Link>
+        <Link className="method-back" href="/">← FORECAST DESK</Link>
+      </div>
       <header>
         <span>MODEL GOVERNANCE / VERSION 0.6</span>
         <h1>Forecast methodology</h1>
@@ -94,6 +101,7 @@ export default function MethodologyPage() {
           <a href="https://api.worldbank.org/v2/">World Bank indicators</a>
           <a href="https://github.com/SDCofA/election/blob/master/services/api/app/backtests/tr-presidential-2014-2023-v1.json">Türkiye backtest dataset</a>
           <a href="https://github.com/SDCofA/election/blob/master/services/api/app/backtests/au-federal-tpp-2004-2025-v2.json">Australia backtest dataset</a>
+          <a href={publicAsset("/visual-assets.json")}>Flags, portraits &amp; logos ledger</a>
           <a href={publicAsset("/data/openapi-v1.json")}>REST / OpenAPI</a>
         </div>
       </section>

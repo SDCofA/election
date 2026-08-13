@@ -1,0 +1,347 @@
+{
+  "assets": {
+    "flags/ar.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "0828d651a95f39cea1e5d9d2ee30ec4dbcf55d70bdea39c89ec80c83226ad86d",
+      "source": "https://flagcdn.com/ar.svg"
+    },
+    "flags/au.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "b826e039804d5cf313bd7e22a40ea2239e8e22ddba7c19a8787dfaad1dda71aa",
+      "source": "https://flagcdn.com/au.svg"
+    },
+    "flags/br.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "e0215eff9f53b0236db885963ac45d6baea52e10ce33ceafdbe0eb1820d21160",
+      "source": "https://flagcdn.com/br.svg"
+    },
+    "flags/ca.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "3cd6c2b9fe12bc0617ef4374b570ad87920bae757a95b104384fc301352c6942",
+      "source": "https://flagcdn.com/ca.svg"
+    },
+    "flags/cn.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "ce797608958527808601798df00691aced6120bd600c0624161230020229dc99",
+      "source": "https://flagcdn.com/cn.svg"
+    },
+    "flags/de.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "595d7718f6a22e5ea9de0cbbcabd857ac1892f4a6c81beb1ef936050193d9323",
+      "source": "https://flagcdn.com/de.svg"
+    },
+    "flags/fr.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "09645c97a47436337d63cd54625200542c65e0e1c83b774a58c9d28d0555b0e7",
+      "source": "https://flagcdn.com/fr.svg"
+    },
+    "flags/gb.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "42f04826dd7a76e4ecdc9a55fb4a774a26e03a425ca1363628bb1c6f6ea1a87e",
+      "source": "https://flagcdn.com/gb.svg"
+    },
+    "flags/id.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "b9d9dea991a06a1211e93e8fa33adc6035ede25d07dc6e98cf97cc57fd94a340",
+      "source": "https://flagcdn.com/id.svg"
+    },
+    "flags/in.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "ea9966697a16e75d64b4e6a9a468009944bd336e8098a34839033eb641329fcc",
+      "source": "https://flagcdn.com/in.svg"
+    },
+    "flags/it.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "7f818fa8e36ca606a8cbd35106fd7d277f094f10f2aa1f7a0585421a20e37070",
+      "source": "https://flagcdn.com/it.svg"
+    },
+    "flags/jp.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "e8e6f6e75bc02eeb35e5904edc13df9b5990da70ac1ff1daa7a9fcc61c709a03",
+      "source": "https://flagcdn.com/jp.svg"
+    },
+    "flags/kr.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "4e0b6d5fa63e2fc1c3d86fda025a4c2129e52d5fc6551d8355e9385dd2d88f4b",
+      "source": "https://flagcdn.com/kr.svg"
+    },
+    "flags/mx.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "baa6f7163f307c16a5d3e36c83a09fe46adbe16adfa866d4bb2d750a79d96b92",
+      "source": "https://flagcdn.com/mx.svg"
+    },
+    "flags/ru.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "eb1dbd977fdb824dcae7767ce9ec3a023e41158e81b5f524772609ddcb622025",
+      "source": "https://flagcdn.com/ru.svg"
+    },
+    "flags/sa.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "7176d38f2e39fa7c96608f5ae85bb51ba964f1b9a972b33b0d04796fe4487f71",
+      "source": "https://flagcdn.com/sa.svg"
+    },
+    "flags/tr.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "f15da84b4e5b23f54b8177126f5711e6fd0db8d26a1b0d3cf7901d0aa8e6b7b1",
+      "source": "https://flagcdn.com/tr.svg"
+    },
+    "flags/us.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "e1792c011daad918fdbd99a21f7f46fd71018ffd052af5a7d7faf9954d593e31",
+      "source": "https://flagcdn.com/us.svg"
+    },
+    "flags/za.svg": {
+      "credit": "National flag; vector distributed by FlagCDN",
+      "license": "Public-domain national symbol; verify local restrictions",
+      "sha256": "6fbf0b68db7024ac996c92b1bbc62efe9a3bf12e469efaa29ae4fe0fa5c6da39",
+      "source": "https://flagcdn.com/za.svg"
+    },
+    "logos/au-labor.svg": {
+      "credit": "https://en.wikipedia.org/wiki/File:Australian_Labor_Party_Logo_2015.svg",
+      "license": "Public domain",
+      "sha256": "6074d6c8fea1189c3b21c8fb60ec3ab63c4052efb6ff0a19e196c3b4472844ad",
+      "source": "https://commons.wikimedia.org/wiki/File:Australian_Labor_Party_Logo_2015.svg"
+    },
+    "logos/au-liberal.png": {
+      "credit": "http://www.liberal.org.au",
+      "license": "Public domain",
+      "sha256": "eda689acd6590d9a5b4775c9a76a15c7a7bea1b1bb5fab4a624bcb483dbf6047",
+      "source": "https://commons.wikimedia.org/wiki/File:Liberal_Party_of_Australia_Logo_2015.png"
+    },
+    "logos/de-afd.svg": {
+      "credit": "Conversion from https://www.alternativefuer.de/pdf/AFD_Logo.eps and RGB colors from https://www.alternativefuer.de/wp-content/uploads/2013/08/afd-logo.png from the web page https://www.alternativefuer.de/ by Tom Dräscher",
+      "license": "Public domain",
+      "sha256": "7f790a47113c9b034bfc8a965b9d1107e6bdf3f08f3a1aa79d1a85d6ce1b4bee",
+      "source": "https://commons.wikimedia.org/wiki/File:Alternative-fuer-Deutschland-Logo-2013.svg"
+    },
+    "logos/de-greens.svg": {
+      "credit": "converted from logos_auf_gruenem_hintergrund_fu.eps , colors corrected",
+      "license": "Public domain",
+      "sha256": "cdf9d5dc95a7d332575a72815a81cc8e19dfbec04cf0b27ed349e4546eca3b10",
+      "source": "https://commons.wikimedia.org/wiki/File:B%C3%BCndnis_90_-_Die_Gr%C3%BCnen_Logo.svg"
+    },
+    "logos/de-left.svg": {
+      "credit": "die-linke.de",
+      "license": "Public domain",
+      "sha256": "6bc93671f4a763dfe59c5979f894c4996b89c7ecfcc728f92909b51c3e1f301c",
+      "source": "https://commons.wikimedia.org/wiki/File:Logo_Die_Linke_%282023%29.svg"
+    },
+    "logos/de-spd.svg": {
+      "credit": "Sozialdemokratische Partei Deutschlands - taken from spd.de",
+      "license": "Public domain",
+      "sha256": "ab4bc8dfd27a87ae4625b6f84b79b3d974c6554f22adba160a62b8cbd5c0a44c",
+      "source": "https://commons.wikimedia.org/wiki/File:Sozialdemokratische_Partei_Deutschlands%2C_Logo_um_2000.svg"
+    },
+    "logos/de-union.svg": {
+      "credit": "http://www.regierungsprogramm.cdu.de/download/regierungsprogramm-05-09-cducsu.pdf",
+      "license": "Public domain",
+      "sha256": "2ec03576890ffa6826b13f888ae39c73eb3d0e95af7fbd1d87fd9ebfbcf0fd91",
+      "source": "https://commons.wikimedia.org/wiki/File:Cdu-logo.svg"
+    },
+    "logos/gb-con.svg": {
+      "credit": "https://www.conservatives.com/",
+      "license": "Public domain",
+      "sha256": "e791d5b9b54ec41b6a9fd28dc4874f3277c908260f33ecdae0e1df8d49e7b2be",
+      "source": "https://commons.wikimedia.org/wiki/File:Conservative_Party_wordmark.svg"
+    },
+    "logos/gb-lab.svg": {
+      "credit": "https://labour.org.uk/",
+      "license": "Public domain",
+      "sha256": "f0a933d14791092b279c3f0617e132229881692f95207abd659ef258ba5cb775",
+      "source": "https://commons.wikimedia.org/wiki/File:Labour_Party_Wordmark.svg"
+    },
+    "logos/gb-ld.svg": {
+      "credit": "https://www.libdems.org.uk/",
+      "license": "Public domain",
+      "sha256": "75a2f7bc8cedc632affc5cc8afb5c78e7f526af5ae3536387f42a580eefb0f04",
+      "source": "https://commons.wikimedia.org/wiki/File:Liberal_Democrats_logo_%28wordmark%29.svg"
+    },
+    "logos/gb-ref.png": {
+      "credit": "https://www.reformparty.uk/ , https://www.telegraph.co.uk/opinion/2024/07/02/postal-vote-problems/ , https://www.thescottishsun.co.uk/news/13059488/general-election-scotland-mp-winners-times-declarations/ , https://search.electoralcommission.org.uk/Registrations/PP7931",
+      "license": "Public domain",
+      "sha256": "4704c65144b88da362710ba65d1fe2be257e1e2b324645803a0b99045fbca0a6",
+      "source": "https://commons.wikimedia.org/wiki/File:Reform_UK_Party_Ballot_Logo.png"
+    },
+    "logos/id-gerindra.jpg": {
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "sha256": "d819d02d1f01d128569c5a52ce093874815fce3c06bbdd24543b3c5631fbc34d",
+      "source": "https://commons.wikimedia.org/wiki/File:Partai_Gerindra_logo.jpg"
+    },
+    "logos/tr-chp.svg": {
+      "credit": "https://kurumsalkimlik.chp.org.tr/",
+      "license": "Public domain",
+      "sha256": "552d683a368d18cabe8fd12347c1ce60bfba651209c55511258ed360f204b887",
+      "source": "https://commons.wikimedia.org/wiki/File:CHP_logo_%282024%2C_vertical_red%29.svg"
+    },
+    "logos/us-dem.svg": {
+      "credit": "Democratic National Committee (via https://www.facebook.com/photo/?fbid=1176498007170474&set=a.488627192624229 )",
+      "license": "Public domain",
+      "sha256": "e390030576545c0335d36a5e74ac30724afcf6d1122b7efcc39e24ccc7321607",
+      "source": "https://commons.wikimedia.org/wiki/File:US_Democratic_Party_2025_logo_%28positive%29.svg"
+    },
+    "logos/us-gop.svg": {
+      "credit": "Original Source: http://gop.com/ Previous PNG version: Logo-GOP.png",
+      "license": "Public domain",
+      "sha256": "976bb60d391c1055514aa34e50c2e6e4c92ba720d57c379cd35dff9778d6879e",
+      "source": "https://commons.wikimedia.org/wiki/File:GOP_logo.svg"
+    },
+    "portraits/andy-burnham.jpg": {
+      "credit": "https://www.flickr.com/photos/number10gov/55442254920/",
+      "license": "OGL 3",
+      "sha256": "ef97dae1ed233765dc3fb163a5794346cfdc9d77ad7296f7856369490ded6e82",
+      "source": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Andy_Burnham_portrait_%28cropped%29.jpg"
+    },
+    "portraits/angus-taylor.jpg": {
+      "credit": "https://www.dcceew.gov.au/sites/default/files/documents/low-emissions-technology-statement-2021.pdf",
+      "license": "CC BY 4.0",
+      "sha256": "d28fb35cebd890d4150a6b2a773e5101e9d7ef6eba7d87aecb87e650c8750839",
+      "source": "https://commons.wikimedia.org/wiki/File:Angus_Taylor_2018_portrait_black.jpg"
+    },
+    "portraits/anthony-albanese.jpg": {
+      "credit": "This photo is the same work as ( https://www.transparency.gov.au/sites/default/files/styles/content_full_width/public/content_images/anthony_albanese_desk-1-1666573342750.jpg?itok=fjdZqXRH ), which was published by the Australian Government under the CC-BY-4.0 licence on the web page https://www.transparency.gov.au/annual-reports/department-prime-minister-and-cabinet/reporting-year/2021-22-10 ( co",
+      "license": "CC BY 4.0",
+      "sha256": "eda62a87d635101eebb8342e120cbbcf80909e3c6baba3420d3261350a0890f7",
+      "source": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_%28re-crop%29.jpg"
+    },
+    "portraits/claudia-sheinbaum.jpg": {
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "sha256": "9a0574f3aabeeef862ba5a6b902b6d4340d1713a90d7692e21fc1f9cc66f9b8a",
+      "source": "https://commons.wikimedia.org/wiki/File:Claudia_Sheinbaum_Argentina_v_Spain_19_July_2026-283.jpg"
+    },
+    "portraits/cyril-ramaphosa.jpg": {
+      "credit": "21.11.2025 – Reunião bilateral com o Presidente da República da África do Sul, Cyril Ramaphosa",
+      "license": "CC BY 4.0",
+      "sha256": "150cbe7f7431e0bc42816fd2f9b0a6565fda906efb468991d6765d1e5e76064d",
+      "source": "https://commons.wikimedia.org/wiki/File:21.11.2025_%E2%80%93_Presidente_da_Rep%C3%BAblica_da_%C3%81frica_do_Sul%2C_Cyril_Ramaphosa_%2854938010569%29_%28cropped%29.jpg"
+    },
+    "portraits/ekrem-imamoglu.png": {
+      "credit": "YouTube : https://www.youtube.com/watch?v=hHu5yu4um_8%7Ct=0m56s – View/save archived versions on archive.org",
+      "license": "CC BY 3.0",
+      "sha256": "f2e05dff5072b6850fca3882bdd6e14537456135926877910e5d6a5bed0ed500",
+      "source": "https://commons.wikimedia.org/wiki/File:Ekrem_%C4%B0mamo%C4%9Flu_2024.png"
+    },
+    "portraits/emmanuel-macron.jpg": {
+      "credit": "https://www.flickr.com/photos/141163381@N04/54869784798/",
+      "license": "Public domain",
+      "sha256": "1eb17ad2bedd85ecdd45aaa1c2e300b980f6e88577516dff44b7fad9488944c0",
+      "source": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_%28cropped%29.jpg"
+    },
+    "portraits/flavio-bolsonaro.jpg": {
+      "credit": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+      "license": "Attribution",
+      "sha256": "ca64bff07ad1358c647c591c68052d4477388fe2ea25494af944028e1c45f6a1",
+      "source": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg"
+    },
+    "portraits/giorgia-meloni.jpg": {
+      "credit": "www.governo.it , for the license see here",
+      "license": "CC BY 3.0 it",
+      "sha256": "32ef0fbdfa27e18a5fa50f97c42667e641839802d58dfd0d35bfe69235ac412b",
+      "source": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_%28cropped%29.jpg"
+    },
+    "portraits/hakan-fidan.png": {
+      "credit": "_GRM5406",
+      "license": "CC BY 4.0",
+      "sha256": "457e07edc5c485ddb7e26ebf65b571c6a893c103bffde42d69b342e9b4416f93",
+      "source": "https://commons.wikimedia.org/wiki/File:GRM5406_%2855240186269%29_%28cropped%29.png"
+    },
+    "portraits/javier-milei.jpg": {
+      "credit": "https://www.flickr.com/photos/mrecic-argentina/53396149399/",
+      "license": "CC BY 2.0",
+      "sha256": "fe673e6c56dd5638a476e9bd2e103ff8986c2af780104760e9ae0e188077d832",
+      "source": "https://commons.wikimedia.org/wiki/File:Javier_Milei_en_el_Sal%C3%B3n_Blanco_2_%28cropped%29.jpg"
+    },
+    "portraits/lee-jae-myung.jpg": {
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 2.0",
+      "sha256": "e90cd8197905f544d0d6dcd58ff1e4ffbe657e7c4fe47f6135440909abf1a053",
+      "source": "https://commons.wikimedia.org/wiki/File:President_Lee_Jae-myung_2025_%28cropped%29.jpg"
+    },
+    "portraits/lula.jpg": {
+      "credit": "Foto Oficial do Presidente da República, Luiz Inácio Lula da Silva",
+      "license": "CC BY 2.0",
+      "sha256": "480a7c8e0e787e9fe44f8540d819942d8ff8af3d9f0c7da8e17b1740dedb6a3c",
+      "source": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28estreita%29.jpg"
+    },
+    "portraits/mansur-yavas.png": {
+      "credit": "YouTube : https://www.youtube.com/watch?v=JmsELBz0ODc – View/save archived versions on archive.org",
+      "license": "CC BY 3.0",
+      "sha256": "769da227a28c54027e65508a322a922a7e4650619a02a8b385a7c3e5228371bc",
+      "source": "https://commons.wikimedia.org/wiki/File:Mansur_Yava%C5%9F%2C_2019_%28cropped%29.png"
+    },
+    "portraits/mark-carney.jpg": {
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "sha256": "aef73cccc8d1c2e0c72949ea3a0dc09291da379772d108583fefa887c5762b50",
+      "source": "https://commons.wikimedia.org/wiki/File:2025-11-14_InaugurationREM_Deux-Montagnes_Mark_Carney.jpg"
+    },
+    "portraits/mohammed-bin-salman.jpg": {
+      "credit": "https://cc.spa.gov.sa/ar#27471",
+      "license": "CC BY-SA 4.0",
+      "sha256": "ae64a9be612e9f7abf996fd155c13d2d415e47b9090e2ec58811df9aed486fb5",
+      "source": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9_%D9%84%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2_%D8%A2%D9%84_%D8%B3%D8%B9%D9%88%D8%AF_%28%D9%85%D9%82%D8%B5%D9%88%D8%B5%D8%A9%29.jpg"
+    },
+    "portraits/narendra-modi.png": {
+      "credit": "https://www.pmindia.gov.in/en/image-gallery/#gallery1168-1",
+      "license": "GODL-India",
+      "sha256": "a4167abfbe02cfc12397403f03f1486a5f8b449bcb137f00a6fddd7e44397084",
+      "source": "https://commons.wikimedia.org/wiki/File:Official_Photograph_of_Prime_Minister_Narendra_Modi_Portrait.png"
+    },
+    "portraits/ozgur-ozel.jpg": {
+      "credit": "YouTube : Elektrik Faturalarına %100 Zam Yapıyorlar! – View/save archived versions on archive.org",
+      "license": "CC BY 3.0",
+      "sha256": "9fd292ef717b74c44b4f540efc9126d31be059702425a53c72a0e7a6eb162519",
+      "source": "https://commons.wikimedia.org/wiki/File:%C3%96zg%C3%BCr-%C3%96zel.jpg"
+    },
+    "portraits/prabowo-subianto.jpg": {
+      "credit": "https://drive.google.com/drive/folders/129OfYcB7t4mdOZWutA05Flkij718oIpV",
+      "license": "Public domain",
+      "sha256": "441cd4a85a3ba2bca4ee2e5a345ea6cf8632669071e0d5d9384dd51a95c7eade",
+      "source": "https://commons.wikimedia.org/wiki/File:Prabowo_Subianto_2024_official_portrait.jpg"
+    },
+    "portraits/recep-tayyip-erdogan.jpg": {
+      "credit": "Presidency of Azerbaijan",
+      "license": "CC BY 4.0",
+      "sha256": "707ea2aebe5b8d954c827877415a1805401f325ba4245b51b68607062e0cd514",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Recep_Tayyip_Erdo%C4%9Fan%2C_2023_%28cropped%29.jpg"
+    },
+    "portraits/sanae-takaichi.jpg": {
+      "credit": "https://www.instagram.com/p/DRUKSDzjHrs/",
+      "license": "CC BY 4.0",
+      "sha256": "66c9b8a0fdd09bc877ba8ee9cb462671ef6038843db816a0e2551c9bc30c1f7b",
+      "source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Sanae_Takaichi%2C_Prime_Minister_of_Japan_%28HD%29.jpg"
+    },
+    "portraits/vladimir-putin.jpg": {
+      "credit": "http://kremlin.ru/press/photo",
+      "license": "CC BY 4.0",
+      "sha256": "e12d85fb888644aff8bf93558555af54969e9a7ee5ac55b7aaf914e70c9f0eaa",
+      "source": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_official_photo_08.jpg"
+    },
+    "portraits/xi-jinping.jpg": {
+      "credit": "Prime Minister Keir Starmer visits China",
+      "license": "CC BY 4.0",
+      "sha256": "9d0671c8859abba46e0495f71d941042bccb3ab23285132733882ee488448950",
+      "source": "https://commons.wikimedia.org/wiki/File:Xi_Jinping_meets_Keir_Starmer_Jan_2026.jpg"
+    }
+  },
+  "retrieved_at": "2026-08-13"
+}

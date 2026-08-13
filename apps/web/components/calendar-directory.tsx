@@ -1,12 +1,13 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
 
 import type { components } from "@elexion/contracts";
 import { FlagIcon } from "@/components/flag-icon";
 import { formatDate } from "@/lib/i18n";
-import { publicEndpoint } from "@/lib/public-data";
+import { publicAsset, publicEndpoint } from "@/lib/public-data";
 
 type Election = components["schemas"]["Election"];
 type Jurisdiction = components["schemas"]["Jurisdiction"];
@@ -69,10 +70,16 @@ export function CalendarDirectory() {
   return (
     <main className="calendar-directory-page">
       <header className="calendar-directory-header">
-        <nav className="calendar-directory-nav" aria-label="Directory navigation">
-          <Link href="/">← FORECAST DESK</Link>
-          <Link href="/methodology">METHODOLOGY</Link>
-        </nav>
+        <div className="directory-brand-row">
+          <Link className="directory-brand" href="/" aria-label="SDCofA Election Desk home">
+            <Image alt="Strategic Data Company of Ankara" height={145} src={publicAsset("/brand/sdcofa-logo.png")} width={360} priority />
+            <b>ELECTION DESK</b>
+          </Link>
+          <nav className="calendar-directory-nav" aria-label="Directory navigation">
+            <Link href="/">FORECAST DESK</Link>
+            <Link href="/methodology">METHODOLOGY</Link>
+          </nav>
+        </div>
         <span>G20 ELECTION DIRECTORY / SDCofA</span>
         <h1>G20 countries only.</h1>
         <p>The 19 sovereign G20 countries appear alphabetically. Regional bodies are excluded. Every country has a sourced national election-status record; forecasts publish only where an electoral event and defensible probability target exist.</p>

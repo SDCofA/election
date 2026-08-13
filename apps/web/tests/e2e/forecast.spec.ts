@@ -99,6 +99,8 @@ test("directory lists sourced status records for only the 19 G20 countries", asy
   await page.goto("/calendar");
   await expect(page.getByRole("heading", { name: "G20 countries only." })).toBeVisible();
   await expect(page.locator(".calendar-directory-grid > *")).toHaveCount(19);
+  await expect(page.locator(".calendar-directory-grid .flag-icon img")).toHaveCount(19);
+  await expect(page.locator(".calendar-directory-grid .flag-emoji")).toHaveCount(0);
   await expect(page.getByText("Egypt", { exact: true })).toHaveCount(0);
   await expect(page.getByText("European Union", { exact: true })).toHaveCount(0);
   await expect(page.getByText("African Union", { exact: true })).toHaveCount(0);
@@ -140,7 +142,9 @@ test("Türkiye exposes a million-run exploratory forecast and named possibilitie
   await expect(page.locator(".breaking b")).toHaveText("1,000,000 RUNS");
   await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
   await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
-  await expect(page.getByText("Recep Tayyip Erdoğan", { exact: true })).toBeVisible();
+  await expect(page.locator('img[src*="recep-tayyip-erdogan"]').first()).toBeVisible();
+  await expect(page.locator('img[src*="tr-chp"]').first()).toBeVisible();
+  await expect(page.getByText("Recep Tayyip Erdoğan", { exact: true }).first()).toBeVisible();
   await expect(page.getByText("Mansur Yavaş", { exact: true })).toBeVisible();
   await expect(page.getByText("Özgür Özel", { exact: true })).toBeVisible();
   await expect(page.getByText("CONDITIONAL MATCHUPS")).toBeVisible();

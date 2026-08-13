@@ -54,7 +54,89 @@ type InstitutionalFigure = {
   credit: string;
 };
 
+type ContestantVisual = {
+  asset: string;
+  kind: "portrait" | "logo";
+};
+
+const CONTESTANT_VISUALS: Record<string, ContestantVisual> = {
+  "aus-next-national:anthony-albanese": { asset: "/portraits/anthony-albanese.jpg", kind: "portrait" },
+  "aus-next-national:angus-taylor": { asset: "/portraits/angus-taylor.jpg", kind: "portrait" },
+  "aus-next-national:labor-majority": { asset: "/logos/au-labor.svg", kind: "logo" },
+  "aus-next-national:coalition-majority": { asset: "/logos/au-liberal.png", kind: "logo" },
+  "br-2026-president:lula": { asset: "/portraits/lula.jpg", kind: "portrait" },
+  "br-2026-president:flavio-bolsonaro": { asset: "/portraits/flavio-bolsonaro.jpg", kind: "portrait" },
+  "de-next-bundestag:union": { asset: "/logos/de-union.svg", kind: "logo" },
+  "de-next-bundestag:spd": { asset: "/logos/de-spd.svg", kind: "logo" },
+  "de-next-bundestag:greens": { asset: "/logos/de-greens.svg", kind: "logo" },
+  "de-next-bundestag:afd": { asset: "/logos/de-afd.svg", kind: "logo" },
+  "de-next-bundestag:left": { asset: "/logos/de-left.svg", kind: "logo" },
+  "gb-next-commons:lab": { asset: "/logos/gb-lab.svg", kind: "logo" },
+  "gb-next-commons:con": { asset: "/logos/gb-con.svg", kind: "logo" },
+  "gb-next-commons:ld": { asset: "/logos/gb-ld.svg", kind: "logo" },
+  "gb-next-commons:ref": { asset: "/logos/gb-ref.png", kind: "logo" },
+  "id-2029-president:prabowo": { asset: "/portraits/prabowo-subianto.jpg", kind: "portrait" },
+  "id-2029-president:governing-ticket": { asset: "/portraits/prabowo-subianto.jpg", kind: "portrait" },
+  "tr-next-president:erdogan": { asset: "/portraits/recep-tayyip-erdogan.jpg", kind: "portrait" },
+  "tr-next-president:fidan": { asset: "/portraits/hakan-fidan.png", kind: "portrait" },
+  "tr-next-president:yavas": { asset: "/portraits/mansur-yavas.png", kind: "portrait" },
+  "tr-next-president:imamoglu": { asset: "/portraits/ekrem-imamoglu.png", kind: "portrait" },
+  "tr-next-president:ozel": { asset: "/portraits/ozgur-ozel.jpg", kind: "portrait" },
+  "tr-next-president:government-nominee": { asset: "/portraits/recep-tayyip-erdogan.jpg", kind: "portrait" },
+  "tr-next-president:opposition-nominee": { asset: "/logos/tr-chp.svg", kind: "logo" },
+  "us-2028-president:dem": { asset: "/logos/us-dem.svg", kind: "logo" },
+  "us-2028-president:gop": { asset: "/logos/us-gop.svg", kind: "logo" }
+};
+
+function contestantVisual(electionId: string, contestantId: string) {
+  return CONTESTANT_VISUALS[`${electionId}:${contestantId}`];
+}
+
+function VisualMark({ contestant, electionId }: { contestant: Contestant; electionId: string }) {
+  const visual = contestantVisual(electionId, contestant.id);
+  if (!visual) return <>{contestant.short_name.slice(0, 1)}</>;
+  return (
+    <Image
+      alt={`${contestant.name} ${visual.kind}`}
+      className={`contestant-${visual.kind}`}
+      height={96}
+      src={publicAsset(visual.asset)}
+      width={96}
+    />
+  );
+}
+
 const INSTITUTIONAL_FIGURES: Record<string, InstitutionalFigure[]> = {
+  "arg-next-national": [{
+    name: "Javier Milei", role: "President · incumbency context",
+    portrait: "/portraits/javier-milei.jpg", source: "https://www.argentina.gob.ar/presidencia",
+    credit: "Licensed portrait · attribution ledger"
+  }],
+  "aus-next-national": [{
+    name: "Anthony Albanese", role: "Prime Minister · incumbency context",
+    portrait: "/portraits/anthony-albanese.jpg", source: "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=R36",
+    credit: "Parliamentary portrait · attribution ledger"
+  }],
+  "br-2026-president": [{
+    name: "Luiz Inácio Lula da Silva", role: "President · incumbency context",
+    portrait: "/portraits/lula.jpg", source: "https://www.gov.br/planalto/en",
+    credit: "Official portrait · attribution ledger"
+  }],
+  "can-next-national": [{
+    name: "Mark Carney", role: "Prime Minister · incumbency context",
+    portrait: "/portraits/mark-carney.jpg", source: "https://www.pm.gc.ca/en/about",
+    credit: "Official profile · attribution ledger"
+  }],
+  "cn-2028-state-leadership": [{
+    name: "Xi Jinping", role: "CCP General Secretary and President · institutional context",
+    portrait: "/portraits/xi-jinping.jpg", source: "https://english.www.gov.cn/leadership/",
+    credit: "Licensed news portrait · attribution ledger"
+  }],
+  "fra-next-national": [{
+    name: "Emmanuel Macron", role: "President · institutional context",
+    portrait: "/portraits/emmanuel-macron.jpg", source: "https://www.elysee.fr/en/emmanuel-macron",
+    credit: "Licensed portrait · attribution ledger"
+  }],
   "us-2028-president": [
     {
       name: "Donald J. Trump",
@@ -79,7 +161,62 @@ const INSTITUTIONAL_FIGURES: Record<string, InstitutionalFigure[]> = {
       source: "https://www.bundesregierung.de/breg-en/federal-cabinet/2343412-2343412",
       credit: "Federal Government / Steffen Kugler"
     }
-  ]
+  ],
+  "gb-next-commons": [{
+    name: "Andy Burnham", role: "Prime Minister · incumbency context",
+    portrait: "/portraits/andy-burnham.jpg", source: "https://www.gov.uk/government/ministers/prime-minister",
+    credit: "Official government portrait · attribution ledger"
+  }],
+  "in-2029-lok-sabha": [{
+    name: "Narendra Modi", role: "Prime Minister · incumbency context",
+    portrait: "/portraits/narendra-modi.png", source: "https://www.pmindia.gov.in/en/pms-profile/",
+    credit: "Official portrait · attribution ledger"
+  }],
+  "id-2029-president": [{
+    name: "Prabowo Subianto", role: "President · incumbency context",
+    portrait: "/portraits/prabowo-subianto.jpg", source: "https://www.presidenri.go.id/",
+    credit: "Official portrait · attribution ledger"
+  }],
+  "ita-next-national": [{
+    name: "Giorgia Meloni", role: "Prime Minister · incumbency context",
+    portrait: "/portraits/giorgia-meloni.jpg", source: "https://www.governo.it/en/governo/meloni/presidente-del-consiglio/giorgia-meloni",
+    credit: "Official portrait · attribution ledger"
+  }],
+  "jpn-next-national": [{
+    name: "Sanae Takaichi", role: "Prime Minister · incumbency context",
+    portrait: "/portraits/sanae-takaichi.jpg", source: "https://japan.kantei.go.jp/",
+    credit: "Official portrait · attribution ledger"
+  }],
+  "kor-next-national": [{
+    name: "Lee Jae-myung", role: "President · incumbency context",
+    portrait: "/portraits/lee-jae-myung.jpg", source: "https://www.president.go.kr/",
+    credit: "Official portrait · attribution ledger"
+  }],
+  "mx-2030-president": [{
+    name: "Claudia Sheinbaum", role: "President · incumbency context",
+    portrait: "/portraits/claudia-sheinbaum.jpg", source: "https://www.gob.mx/presidencia",
+    credit: "Licensed news portrait · attribution ledger"
+  }],
+  "ru-2030-president": [{
+    name: "Vladimir Putin", role: "President · incumbency context",
+    portrait: "/portraits/vladimir-putin.jpg", source: "http://en.kremlin.ru/structure/president",
+    credit: "Official portrait · attribution ledger"
+  }],
+  "sa-national-election-status": [{
+    name: "Mohammed bin Salman", role: "Crown Prince and Prime Minister · institutional context",
+    portrait: "/portraits/mohammed-bin-salman.jpg", source: "https://www.vision2030.gov.sa/en/leadership-message",
+    credit: "Official portrait · attribution ledger"
+  }],
+  "zaf-next-national": [{
+    name: "Cyril Ramaphosa", role: "President · incumbency context",
+    portrait: "/portraits/cyril-ramaphosa.jpg", source: "https://www.thepresidency.gov.za/president-cyril-ramaphosa",
+    credit: "Government portrait · attribution ledger"
+  }],
+  "tr-next-president": [{
+    name: "Recep Tayyip Erdoğan", role: "President · incumbency context",
+    portrait: "/portraits/recep-tayyip-erdogan.jpg", source: "https://www.tccb.gov.tr/en/receptayyiperdogan/biography/",
+    credit: "Licensed portrait · attribution ledger"
+  }]
 };
 
 function SiteBrand({ href = "/" }: { href?: string }) {
@@ -159,7 +296,7 @@ type CatalogStatus = {
   sourced_calendars: number;
 };
 
-function PossibleField({ contestants }: { contestants: Contestant[] }) {
+function PossibleField({ contestants, electionId }: { contestants: Contestant[]; electionId: string }) {
   return (
     <article className="panel calendar-panel possible-field-panel">
       <header><span>POSSIBLE FIELD</span><small>Not the official ballot</small></header>
@@ -168,7 +305,9 @@ function PossibleField({ contestants }: { contestants: Contestant[] }) {
       <div className="possible-field-grid">
         {contestants.map((contestant) => (
           <div key={contestant.id} style={{ "--party": contestant.color } as React.CSSProperties}>
-            <i>{contestant.short_name}</i>
+            <i className={contestantVisual(electionId, contestant.id) ? "has-visual" : ""}>
+              <VisualMark contestant={contestant} electionId={electionId} />
+            </i>
             <span><strong>{contestant.name}</strong><small>{contestant.ballot_status ?? "possible"} · {contestant.ideology ?? "affiliation evolving"}</small></span>
             {contestant.basis && <p>{contestant.basis}</p>}
           </div>
@@ -324,6 +463,7 @@ function CalendarOnlyView({
   jurisdictions: JurisdictionSummary[];
 }) {
   const sources = detail.election.sources ?? [];
+  const figures = INSTITUTIONAL_FIGURES[electionId] ?? [];
   const coverageLabel = detail.jurisdiction.coverage_status === "mechanics_blocked"
     ? "MECHANICS BLOCKED"
     : "CALENDAR ONLY";
@@ -387,8 +527,22 @@ function CalendarOnlyView({
                 </a>
               ))}
             </article>
+            {figures.length > 0 && (
+              <article className="panel institutional-panel calendar-institutional" aria-labelledby="calendar-institutional-heading">
+                <header><span id="calendar-institutional-heading">INSTITUTIONAL CONTEXT</span><small>Current officeholder · not a candidate assumption</small></header>
+                <div>
+                  {figures.map((figure) => (
+                    <a href={figure.source} key={figure.name} rel="noreferrer">
+                      <Image alt={figure.name} height={180} src={publicAsset(figure.portrait)} width={180} />
+                      <span><b>{figure.name}</b><small>{figure.role}</small><em>{figure.credit}</em></span>
+                    </a>
+                  ))}
+                </div>
+                <p>Portraits identify current institutional actors only. No forecast probability is inferred from officeholding.</p>
+              </article>
+            )}
             {(detail.election.potential_candidates?.length ?? detail.election.contestants.length) > 0 && (
-              <PossibleField contestants={detail.election.potential_candidates?.length ? detail.election.potential_candidates : detail.election.contestants} />
+              <PossibleField contestants={detail.election.potential_candidates?.length ? detail.election.potential_candidates : detail.election.contestants} electionId={detail.election.id} />
             )}
           </div>
         </section>
@@ -622,7 +776,8 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
                 {leaders.map(({ contestant, win_probability }) => (
                   <div className="candidate" key={contestant.id}>
                     <div className="avatar" style={{ "--party": contestant.color } as React.CSSProperties}>
-                      {contestant.short_name.slice(0, 1)}<span>{contestant.incumbent ? "INC" : "CHL"}</span>
+                      <VisualMark contestant={contestant} electionId={detail.election.id} />
+                      <span>{contestant.incumbent ? "INC" : "CHL"}</span>
                     </div>
                     <small>{contestant.name}</small>
                     <strong>{pct(win_probability)}</strong>
@@ -666,7 +821,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
           </div>
 
           {!!detail.election.potential_candidates?.length && (
-            <PossibleField contestants={detail.election.potential_candidates} />
+            <PossibleField contestants={detail.election.potential_candidates} electionId={detail.election.id} />
           )}
 
           {!!forecast.scenario_outcomes?.length && (
@@ -704,7 +859,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
               <div className="projection-table">
                 {outcomes.map(({ contestant, projected_share, share_low, share_high, projected_seats, seats_low, seats_high }) => (
                   <div className="projection-row" key={contestant.id}>
-                    <b>{contestant.short_name}</b>
+                    <b><span className="projection-mark"><VisualMark contestant={contestant} electionId={detail.election.id} /></span>{contestant.short_name}</b>
                     <span><i style={{ width: `${projected_share * 100}%`, background: contestant.color }} /></span>
                     <strong>{pct(projected_share)}</strong>
                     <small>{pct(share_low)}–{pct(share_high)}</small>
