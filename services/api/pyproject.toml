@@ -6,6 +6,7 @@ requires-python = ">=3.12"
 dependencies = [
   "fastapi>=0.116,<1",
   "nats-py>=2.11,<3",
+  "msgpack>=1.2.1,<2",
   "numpy>=2.3,<3",
   "opentelemetry-exporter-otlp-proto-http>=1.38,<2",
   "opentelemetry-instrumentation-fastapi>=0.59b0,<1",
