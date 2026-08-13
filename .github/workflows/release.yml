@@ -74,7 +74,9 @@ jobs:
           cache-from: type=gha,scope=${{ matrix.component }}
           cache-to: type=gha,mode=max,scope=${{ matrix.component }}
           provenance: mode=max
-          sbom: true
+          # Trivy scans the final image directly. Attached BuildKit SBOMs can
+          # retain superseded base-image packages and create false positives.
+          sbom: false
       - uses: sigstore/cosign-installer@v3
       - name: Keyless-sign immutable image digest
         shell: bash
