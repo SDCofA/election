@@ -24,6 +24,10 @@
     {"source_id":"imamoglu_diploma_annulment","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"imamoglu_council_of_state_appeal","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"gundemar_may_2026","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"gundemar_march_2026_issue_salience","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"aytac_carkoglu_2021_security_salience","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"ari_et_al_2024_security_local_control","status":"reference_only_no_ingestion","formats":["html"]},
+    {"source_id":"yardimci_2024_security_incumbent","status":"reference_only_no_ingestion","formats":["html"]},
     {"source_id":"polymarket_turkiye","status":"reference_only_no_ingestion","formats":["html"]}
   ],
   "backtest_dataset": "tr-presidential-2014-2023-v1.json",
