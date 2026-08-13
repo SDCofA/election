@@ -221,16 +221,15 @@ const INSTITUTIONAL_FIGURES: Record<string, InstitutionalFigure[]> = {
 
 function SiteBrand({ href = "/" }: { href?: string }) {
   return (
-    <Link className="brand" href={href} aria-label="SDCofA Election Desk home">
+    <Link className="brand" href={href} aria-label="Elexion home">
       <Image
         className="brand-lockup"
-        src={publicAsset("/brand/sdcofa-logo-dark.png")}
-        alt="Strategic Data Company of Ankara"
-        width={360}
-        height={145}
+        src={publicAsset("/brand/elexion-logo-dark.svg")}
+        alt="Elexion election intelligence"
+        width={320}
+        height={64}
         priority
       />
-      <b>ELECTION DESK</b>
     </Link>
   );
 }

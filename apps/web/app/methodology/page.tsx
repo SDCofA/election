@@ -15,9 +15,8 @@ export default function MethodologyPage() {
   return (
     <main className="method-page">
       <div className="method-brand-row">
-        <Link className="method-brand" href="/" aria-label="SDCofA Election Desk home">
-          <Image alt="Strategic Data Company of Ankara" height={145} src={publicAsset("/brand/sdcofa-logo.png")} width={360} priority />
-          <b>ELECTION DESK</b>
+        <Link className="method-brand" href="/" aria-label="Elexion home">
+          <Image alt="Elexion election intelligence" height={64} src={publicAsset("/brand/elexion-logo.svg")} width={320} priority />
         </Link>
         <Link className="method-back" href="/">← FORECAST DESK</Link>
       </div>

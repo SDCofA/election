@@ -28,6 +28,11 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: uv sync --project services/api --locked
       - run: uv run --project services/api python services/api/scripts/export_static_site_data.py
+      - name: Validate product identity
+        run: |
+          test -s apps/web/public/brand/elexion-logo.svg
+          test -s apps/web/public/brand/elexion-logo-dark.svg
+          grep -q 'elexion-logo-dark.svg' apps/web/components/forecast-dashboard.tsx
       - name: Configure GitHub Pages paths
         shell: bash
         run: |

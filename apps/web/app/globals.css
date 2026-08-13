@@ -55,7 +55,7 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   font: 750 17px/1 var(--font-display);
   letter-spacing: .12em;
 }
-.brand-lockup { width: 174px; height: 46px; object-fit: contain; object-position: left center; }
+.brand-lockup { width: 224px; height: 46px; object-fit: contain; object-position: left center; }
 .brand-mark {
   width: 31px;
   height: 31px;

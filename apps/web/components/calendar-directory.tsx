@@ -71,9 +71,8 @@ export function CalendarDirectory() {
     <main className="calendar-directory-page">
       <header className="calendar-directory-header">
         <div className="directory-brand-row">
-          <Link className="directory-brand" href="/" aria-label="SDCofA Election Desk home">
-            <Image alt="Strategic Data Company of Ankara" height={145} src={publicAsset("/brand/sdcofa-logo.png")} width={360} priority />
-            <b>ELECTION DESK</b>
+          <Link className="directory-brand" href="/" aria-label="Elexion home">
+            <Image alt="Elexion election intelligence" height={64} src={publicAsset("/brand/elexion-logo.svg")} width={320} priority />
           </Link>
           <nav className="calendar-directory-nav" aria-label="Directory navigation">
             <Link href="/">FORECAST DESK</Link>
