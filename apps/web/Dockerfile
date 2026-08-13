@@ -10,6 +10,8 @@ COPY packages/contracts packages/contracts
 RUN pnpm --filter @elexion/web build
 
 FROM node:24-alpine AS runtime
+ARG SOURCE_SHA=unknown
+LABEL org.opencontainers.image.revision=$SOURCE_SHA
 ENV NODE_ENV=production PORT=3000 HOSTNAME=0.0.0.0
 WORKDIR /app
 COPY --from=build /workspace/apps/web/.next/standalone ./
