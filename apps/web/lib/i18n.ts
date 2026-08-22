@@ -55,7 +55,7 @@ export function formatNumber(value: number): string {
 }
 
 export function formatDate(value: string | number | Date, options?: Intl.DateTimeFormatOptions): string {
-  return new Intl.DateTimeFormat(DEFAULT_LOCALE, options).format(new Date(value));
+  return new Intl.DateTimeFormat(DEFAULT_LOCALE, { timeZone: "UTC", ...options }).format(new Date(value));
 }
 
 export function formatDateTime(value: string | number | Date): string {
