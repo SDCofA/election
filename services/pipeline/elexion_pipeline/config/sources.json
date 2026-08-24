@@ -73,10 +73,10 @@
       "license_url": "https://news.google.com/rss",
       "attribution": "Google News RSS Project",
       "approved": false,
-      "allow_insecure_http": true,
-      "max_bytes": 100000000,
-      "freshness_hours": 1,
-      "content_types": ["text/plain", "application/zip", "application/octet-stream"]
+      "allow_insecure_http": false,
+      "max_bytes": 250000,
+      "freshness_hours": 24,
+      "content_types": ["application/rss+xml", "text/xml", "application/xml"]
     },
     {
       "id": "imf_sdmx",
