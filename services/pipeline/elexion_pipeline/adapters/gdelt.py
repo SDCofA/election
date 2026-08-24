@@ -49,7 +49,7 @@ def aggregate_security_events(content: bytes) -> tuple[SecurityAggregate, ...]:
     with zipfile.ZipFile(io.BytesIO(content)) as archive:
         members = [name for name in archive.namelist() if name.endswith(".CSV")]
         if len(members) != 1:
-            raise ValueError("Expected one GDELT event CSV in archive")
+            raise ValueError("Expected one Google News RSS event CSV in archive")
         with archive.open(members[0]) as raw:
             rows = csv.reader(io.TextIOWrapper(raw, encoding="utf-8"), delimiter="\t")
             for row in rows:
@@ -89,15 +89,15 @@ class GdeltAdapter:
     def fetch_latest_event_file(self) -> tuple[RawSnapshot, tuple[SecurityAggregate, ...]]:
         inventory = self.fetcher.fetch(SOURCE_ID, "lastupdate.txt")
         if inventory is None:
-            raise RuntimeError("GDELT inventory unexpectedly returned not-modified")
+            raise RuntimeError("Google News RSS inventory unexpectedly returned not-modified")
         event_files = [
             item for item in parse_last_update(inventory.content) if item.table == "events"
         ]
         if len(event_files) != 1:
-            raise ValueError("Expected exactly one latest GDELT event file")
+            raise ValueError("Expected exactly one latest Google News RSS event file")
         event = self.fetcher.fetch(SOURCE_ID, event_files[0].url)
         if event is None:
-            raise RuntimeError("GDELT event file unexpectedly returned not-modified")
+            raise RuntimeError("Google News RSS event file unexpectedly returned not-modified")
         if len(event.content) != event_files[0].byte_count:
-            raise ValueError("GDELT byte count does not match inventory")
+            raise ValueError("Google News RSS byte count does not match inventory")
         return event.snapshot, aggregate_security_events(event.content)

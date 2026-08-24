@@ -23,7 +23,7 @@ Audit date: 2026-08-11. `Implemented` means a repository artifact and automated 
 | Electoral-system engines | Implemented | Runoff, FPTP, proportional, mixed-member, electoral-college, and institutional validation/translation paths have golden and invariant tests. |
 | Source licensing/provenance | Implemented | Registry blocks unapproved terms before fetch; raw content is hashed and immutable; canonical records retain revision IDs, four time clocks, license metadata, confidence, and last-known-good fallback. |
 | Eligibility | Implemented | Public scope is pinned to the 19 sovereign G20 countries. The EU and AU are intentionally excluded. V-Dem status remains visible as model context rather than a public-scope rule. |
-| Economic, governance, event, poll, and boundary adapters | Implemented where reuse is approved | Official sources, World Bank, OECD, Eurostat, GDELT, V-Dem, DAWUM, and geoBoundaries have adapters/contracts. Disallowed or reference-only sources are not fetched. |
+| Economic, governance, event, poll, and boundary adapters | Implemented where reuse is approved | Official sources, World Bank, OECD, Eurostat, Google News RSS, V-Dem, DAWUM, and geoBoundaries have adapters/contracts. Disallowed or reference-only sources are not fetched. |
 | Hierarchical fundamentals and dynamic polls | Implemented | Leakage-safe empirical-Bayes partial pooling and time-decayed poll aggregation with mode quality, covariance, and house effects are unit-tested. Publication falls back to structural grade D where source-vintage inputs are unavailable. |
 
 ## G20 coverage
