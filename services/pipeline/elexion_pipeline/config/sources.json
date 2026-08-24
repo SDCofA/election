@@ -63,14 +63,14 @@
       "content_types": ["application/vnd.sdmx.data+csv", "text/csv"]
     },
     {
-      "id": "gdelt_events",
+      "id": "RetiredEvent_events",
       "name": "Google News RSS 2.0 Event Database",
-      "base_url": "http://data.gdeltproject.org/gdeltv2/",
-      "allowed_hosts": ["data.gdeltproject.org"],
+      "base_url": "https://news.google.com/rss/",
+      "allowed_hosts": ["news.google.com"],
       "authority": "research",
       "license_id": "PENDING-LEGAL-REVIEW",
       "license_name": "No explicit reusable-data license recorded",
-      "license_url": "https://www.gdeltproject.org/",
+      "license_url": "https://news.google.com/rss",
       "attribution": "Google News RSS Project",
       "approved": false,
       "allow_insecure_http": true,

@@ -23,7 +23,7 @@ from dagster import (
 
 from .adapters.dawum import DawumAdapter, DawumPollBatch
 from .adapters.eurostat import EurostatAdapter
-from .adapters.gdelt import GdeltAdapter
+from .adapters.RetiredEvent import RetiredEventAdapter
 from .adapters.http import HttpSnapshotFetcher
 from .adapters.oecd import OecdAdapter
 from .adapters.official_calendar import OfficialCalendarAdapter, OfficialCalendarConfig
@@ -462,16 +462,16 @@ def vdem_eligible_jurisdictions(context: AssetExecutionContext, source_policy: d
 
 @asset(group_name="events", compute_kind="licensed event adapter")
 def security_event_observations(context: AssetExecutionContext, source_policy: dict) -> list[dict]:
-    if "gdelt_events" not in source_policy["approved"]:
+    if "RetiredEvent_events" not in source_policy["approved"]:
         context.add_output_metadata(
             {
                 "status": "blocked_by_source_policy",
                 "observation_count": 0,
-                "source_id": "gdelt_events",
+                "source_id": "RetiredEvent_events",
             }
         )
         return []
-    snapshot, aggregates = GdeltAdapter(_fetcher()).fetch_latest_event_file()
+    snapshot, aggregates = RetiredEventAdapter(_fetcher()).fetch_latest_event_file()
     context.add_output_metadata(
         {
             "status": "ingested",

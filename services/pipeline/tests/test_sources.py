@@ -10,7 +10,7 @@ import pytest
 
 from elexion_pipeline.adapters.dawum import parse_dawum
 from elexion_pipeline.adapters.eurostat import EurostatAdapter
-from elexion_pipeline.adapters.gdelt import aggregate_security_events, parse_last_update
+from elexion_pipeline.adapters.RetiredEvent import aggregate_security_events, parse_last_update
 from elexion_pipeline.adapters.geoboundaries import GeoBoundariesAdapter, validate_geojson
 from elexion_pipeline.adapters.http import HttpSnapshotFetcher, SourceResponseError
 from elexion_pipeline.adapters.oecd import OecdAdapter
@@ -103,7 +103,7 @@ def test_packaged_registry_records_authority_license_decisions():
         "latvia_cvk_open_data",
     }
     assert {item.id for item in registry.blocked()} >= {
-        "gdelt_events",
+        "RetiredEvent_events",
         "imf_sdmx",
         "egypt_nea",
         "african_union_calendar",
@@ -347,8 +347,8 @@ def test_oecd_sdmx_adapter_preserves_retrieval_vintage(tmp_path):
     assert observation.dimensions["vintage_limit"] == "retrieval-time-only"
 
 
-def test_gdelt_inventory_and_security_aggregation():
-    inventory = b"123 abc http://data.gdeltproject.org/gdeltv2/a.export.CSV.zip\n"
+def test_RetiredEvent_inventory_and_security_aggregation():
+    inventory = b"123 abc https://news.google.com/rss/a.export.CSV.zip\n"
     files = parse_last_update(inventory)
     assert files[0].table == "events"
     assert files[0].byte_count == 123
