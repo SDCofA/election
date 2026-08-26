@@ -7,10 +7,10 @@ from pathlib import Path
 import httpx
 import pandas as pd
 import pytest
+from elexion_pipeline.adapters.RetiredEvent import aggregate_security_events, parse_last_update
 
 from elexion_pipeline.adapters.dawum import parse_dawum
 from elexion_pipeline.adapters.eurostat import EurostatAdapter
-from elexion_pipeline.adapters.RetiredEvent import aggregate_security_events, parse_last_update
 from elexion_pipeline.adapters.geoboundaries import GeoBoundariesAdapter, validate_geojson
 from elexion_pipeline.adapters.http import HttpSnapshotFetcher, SourceResponseError
 from elexion_pipeline.adapters.oecd import OecdAdapter

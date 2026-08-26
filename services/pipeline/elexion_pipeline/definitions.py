@@ -23,11 +23,11 @@ from dagster import (
 
 from .adapters.dawum import DawumAdapter, DawumPollBatch
 from .adapters.eurostat import EurostatAdapter
-from .adapters.RetiredEvent import RetiredEventAdapter
 from .adapters.http import HttpSnapshotFetcher
 from .adapters.oecd import OecdAdapter
 from .adapters.official_calendar import OfficialCalendarAdapter, OfficialCalendarConfig
 from .adapters.official_results import OfficialResultAdapter
+from .adapters.RetiredEvent import RetiredEventAdapter
 from .adapters.vdem import VDemAdapter
 from .adapters.world_bank import WorldBankAdapter
 from .checkpoint import AdapterCheckpoint, PostgresCheckpointStore
