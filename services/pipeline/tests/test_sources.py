@@ -7,7 +7,6 @@ from pathlib import Path
 import httpx
 import pandas as pd
 import pytest
-from elexion_pipeline.adapters.RetiredEvent import aggregate_security_events, parse_last_update
 
 from elexion_pipeline.adapters.dawum import parse_dawum
 from elexion_pipeline.adapters.eurostat import EurostatAdapter
@@ -23,6 +22,7 @@ from elexion_pipeline.adapters.official_results import (
     OfficialResultAdapter,
     ResultParserConfig,
 )
+from elexion_pipeline.adapters.retired_event import aggregate_security_events, parse_last_update
 from elexion_pipeline.adapters.vdem import VDemAdapter
 from elexion_pipeline.adapters.world_bank import WorldBankAdapter
 from elexion_pipeline.checkpoint import MemoryCheckpointStore
