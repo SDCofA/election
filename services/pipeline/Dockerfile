@@ -11,6 +11,7 @@ COPY services/pipeline/workspace.yaml ./workspace.yaml
 COPY services/api/app/packs ./packs
 COPY infra/postgres ./postgres
 RUN apt-get update && \
+    apt-get upgrade --yes && \
     apt-get install --yes --no-install-recommends postgresql-client && \
     rm -rf /var/lib/apt/lists/* && \
     pip install --no-cache-dir . && \
