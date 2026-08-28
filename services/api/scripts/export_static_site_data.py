@@ -44,7 +44,9 @@ def main() -> None:
             root = f"/v1/elections/{election_id}"
             export_endpoint(client, root)
             for suffix in ("model-comparison", "forecasts", "coalitions", "mechanics", "sources"):
-                export_endpoint(client, f"{root}/{suffix}")
+                exported = export_endpoint(client, f"{root}/{suffix}")
+                if suffix == "coalitions" and not exported:
+                    write_json(f"{root.lstrip('/')}/coalitions.json", None)
             history = client.get(f"{root}/forecasts")
             if history.status_code == 200:
                 for snapshot in history.json():
