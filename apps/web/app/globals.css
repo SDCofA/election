@@ -532,7 +532,8 @@ h1 strong { font-weight: 400; color: #55514a; }
   .election-title { min-height: 150px; gap: 16px; }
   .election-title h1 { font-size: clamp(36px, 12vw, 52px); }
   .election-title p { max-width: 250px; }
-  .countdown { min-width: 78px; }
+  .countdown { min-width: 78px; grid-template-columns: minmax(0, 1fr) auto; }
+  .countdown b { font-size: 30px; }
   .countdown span { min-width: 0; width: 100%; font-size: 6px; letter-spacing: .06em; }
   .duel { grid-template-columns: 1fr 108px 1fr; padding: 18px 7px; }
   .probability-gauge { width: 104px; height: 104px; padding: 7px; }
