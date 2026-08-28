@@ -114,7 +114,7 @@
       "sha256": "6fbf0b68db7024ac996c92b1bbc62efe9a3bf12e469efaa29ae4fe0fa5c6da39",
       "source": "https://flagcdn.com/za.svg"
     },
-    "logos/au-labor.svg": {
+    "logos/au-labor.png": {
       "credit": "https://en.wikipedia.org/wiki/File:Australian_Labor_Party_Logo_2015.svg",
       "license": "Public domain",
       "sha256": "6074d6c8fea1189c3b21c8fb60ec3ab63c4052efb6ff0a19e196c3b4472844ad",
@@ -126,49 +126,49 @@
       "sha256": "eda689acd6590d9a5b4775c9a76a15c7a7bea1b1bb5fab4a624bcb483dbf6047",
       "source": "https://commons.wikimedia.org/wiki/File:Liberal_Party_of_Australia_Logo_2015.png"
     },
-    "logos/de-afd.svg": {
+    "logos/de-afd.png": {
       "credit": "Conversion from https://www.alternativefuer.de/pdf/AFD_Logo.eps and RGB colors from https://www.alternativefuer.de/wp-content/uploads/2013/08/afd-logo.png from the web page https://www.alternativefuer.de/ by Tom Dräscher",
       "license": "Public domain",
       "sha256": "7f790a47113c9b034bfc8a965b9d1107e6bdf3f08f3a1aa79d1a85d6ce1b4bee",
       "source": "https://commons.wikimedia.org/wiki/File:Alternative-fuer-Deutschland-Logo-2013.svg"
     },
-    "logos/de-greens.svg": {
+    "logos/de-greens.png": {
       "credit": "converted from logos_auf_gruenem_hintergrund_fu.eps , colors corrected",
       "license": "Public domain",
       "sha256": "cdf9d5dc95a7d332575a72815a81cc8e19dfbec04cf0b27ed349e4546eca3b10",
       "source": "https://commons.wikimedia.org/wiki/File:B%C3%BCndnis_90_-_Die_Gr%C3%BCnen_Logo.svg"
     },
-    "logos/de-left.svg": {
+    "logos/de-left.png": {
       "credit": "die-linke.de",
       "license": "Public domain",
       "sha256": "6bc93671f4a763dfe59c5979f894c4996b89c7ecfcc728f92909b51c3e1f301c",
       "source": "https://commons.wikimedia.org/wiki/File:Logo_Die_Linke_%282023%29.svg"
     },
-    "logos/de-spd.svg": {
+    "logos/de-spd.png": {
       "credit": "Sozialdemokratische Partei Deutschlands - taken from spd.de",
       "license": "Public domain",
       "sha256": "ab4bc8dfd27a87ae4625b6f84b79b3d974c6554f22adba160a62b8cbd5c0a44c",
       "source": "https://commons.wikimedia.org/wiki/File:Sozialdemokratische_Partei_Deutschlands%2C_Logo_um_2000.svg"
     },
-    "logos/de-union.svg": {
+    "logos/de-union.png": {
       "credit": "http://www.regierungsprogramm.cdu.de/download/regierungsprogramm-05-09-cducsu.pdf",
       "license": "Public domain",
       "sha256": "2ec03576890ffa6826b13f888ae39c73eb3d0e95af7fbd1d87fd9ebfbcf0fd91",
       "source": "https://commons.wikimedia.org/wiki/File:Cdu-logo.svg"
     },
-    "logos/gb-con.svg": {
+    "logos/gb-con.png": {
       "credit": "https://www.conservatives.com/",
       "license": "Public domain",
       "sha256": "e791d5b9b54ec41b6a9fd28dc4874f3277c908260f33ecdae0e1df8d49e7b2be",
       "source": "https://commons.wikimedia.org/wiki/File:Conservative_Party_wordmark.svg"
     },
-    "logos/gb-lab.svg": {
+    "logos/gb-lab.png": {
       "credit": "https://labour.org.uk/",
       "license": "Public domain",
       "sha256": "f0a933d14791092b279c3f0617e132229881692f95207abd659ef258ba5cb775",
       "source": "https://commons.wikimedia.org/wiki/File:Labour_Party_Wordmark.svg"
     },
-    "logos/gb-ld.svg": {
+    "logos/gb-ld.png": {
       "credit": "https://www.libdems.org.uk/",
       "license": "Public domain",
       "sha256": "75a2f7bc8cedc632affc5cc8afb5c78e7f526af5ae3536387f42a580eefb0f04",
@@ -186,19 +186,19 @@
       "sha256": "d819d02d1f01d128569c5a52ce093874815fce3c06bbdd24543b3c5631fbc34d",
       "source": "https://commons.wikimedia.org/wiki/File:Partai_Gerindra_logo.jpg"
     },
-    "logos/tr-chp.svg": {
+    "logos/tr-chp.png": {
       "credit": "https://kurumsalkimlik.chp.org.tr/",
       "license": "Public domain",
       "sha256": "552d683a368d18cabe8fd12347c1ce60bfba651209c55511258ed360f204b887",
       "source": "https://commons.wikimedia.org/wiki/File:CHP_logo_%282024%2C_vertical_red%29.svg"
     },
-    "logos/us-dem.svg": {
+    "logos/us-dem.png": {
       "credit": "Democratic National Committee (via https://www.facebook.com/photo/?fbid=1176498007170474&set=a.488627192624229 )",
       "license": "Public domain",
       "sha256": "e390030576545c0335d36a5e74ac30724afcf6d1122b7efcc39e24ccc7321607",
       "source": "https://commons.wikimedia.org/wiki/File:US_Democratic_Party_2025_logo_%28positive%29.svg"
     },
-    "logos/us-gop.svg": {
+    "logos/us-gop.png": {
       "credit": "Original Source: http://gop.com/ Previous PNG version: Logo-GOP.png",
       "license": "Public domain",
       "sha256": "976bb60d391c1055514aa34e50c2e6e4c92ba720d57c379cd35dff9778d6879e",

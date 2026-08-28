@@ -62,18 +62,18 @@ type ContestantVisual = {
 const CONTESTANT_VISUALS: Record<string, ContestantVisual> = {
   "aus-next-national:anthony-albanese": { asset: "/portraits/anthony-albanese.jpg", kind: "portrait" },
   "aus-next-national:angus-taylor": { asset: "/portraits/angus-taylor.jpg", kind: "portrait" },
-  "aus-next-national:labor-majority": { asset: "/logos/au-labor.svg", kind: "logo" },
+  "aus-next-national:labor-majority": { asset: "/logos/au-labor.png", kind: "logo" },
   "aus-next-national:coalition-majority": { asset: "/logos/au-liberal.png", kind: "logo" },
   "br-2026-president:lula": { asset: "/portraits/lula.jpg", kind: "portrait" },
   "br-2026-president:flavio-bolsonaro": { asset: "/portraits/flavio-bolsonaro.jpg", kind: "portrait" },
-  "de-next-bundestag:union": { asset: "/logos/de-union.svg", kind: "logo" },
-  "de-next-bundestag:spd": { asset: "/logos/de-spd.svg", kind: "logo" },
-  "de-next-bundestag:greens": { asset: "/logos/de-greens.svg", kind: "logo" },
-  "de-next-bundestag:afd": { asset: "/logos/de-afd.svg", kind: "logo" },
-  "de-next-bundestag:left": { asset: "/logos/de-left.svg", kind: "logo" },
-  "gb-next-commons:lab": { asset: "/logos/gb-lab.svg", kind: "logo" },
-  "gb-next-commons:con": { asset: "/logos/gb-con.svg", kind: "logo" },
-  "gb-next-commons:ld": { asset: "/logos/gb-ld.svg", kind: "logo" },
+  "de-next-bundestag:union": { asset: "/logos/de-union.png", kind: "logo" },
+  "de-next-bundestag:spd": { asset: "/logos/de-spd.png", kind: "logo" },
+  "de-next-bundestag:greens": { asset: "/logos/de-greens.png", kind: "logo" },
+  "de-next-bundestag:afd": { asset: "/logos/de-afd.png", kind: "logo" },
+  "de-next-bundestag:left": { asset: "/logos/de-left.png", kind: "logo" },
+  "gb-next-commons:lab": { asset: "/logos/gb-lab.png", kind: "logo" },
+  "gb-next-commons:con": { asset: "/logos/gb-con.png", kind: "logo" },
+  "gb-next-commons:ld": { asset: "/logos/gb-ld.png", kind: "logo" },
   "gb-next-commons:ref": { asset: "/logos/gb-ref.png", kind: "logo" },
   "id-2029-president:prabowo": { asset: "/portraits/prabowo-subianto.jpg", kind: "portrait" },
   "id-2029-president:governing-ticket": { asset: "/portraits/prabowo-subianto.jpg", kind: "portrait" },
@@ -83,9 +83,9 @@ const CONTESTANT_VISUALS: Record<string, ContestantVisual> = {
   "tr-next-president:imamoglu": { asset: "/portraits/ekrem-imamoglu.png", kind: "portrait" },
   "tr-next-president:ozel": { asset: "/portraits/ozgur-ozel.jpg", kind: "portrait" },
   "tr-next-president:government-nominee": { asset: "/portraits/recep-tayyip-erdogan.jpg", kind: "portrait" },
-  "tr-next-president:opposition-nominee": { asset: "/logos/tr-chp.svg", kind: "logo" },
-  "us-2028-president:dem": { asset: "/logos/us-dem.svg", kind: "logo" },
-  "us-2028-president:gop": { asset: "/logos/us-gop.svg", kind: "logo" }
+  "tr-next-president:opposition-nominee": { asset: "/logos/tr-chp.png", kind: "logo" },
+  "us-2028-president:dem": { asset: "/logos/us-dem.png", kind: "logo" },
+  "us-2028-president:gop": { asset: "/logos/us-gop.png", kind: "logo" }
 };
 
 function contestantVisual(electionId: string, contestantId: string) {
