@@ -39,7 +39,7 @@ jobs:
             context: .
             dockerfile: apps/web/Dockerfile
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           ref: ${{ env.SOURCE_SHA }}
       - name: Resolve immutable image name
@@ -53,16 +53,16 @@ jobs:
             echo "name=$image"
             echo "tag=$image:sha-$SOURCE_SHA"
           } >> "$GITHUB_OUTPUT"
-      - uses: docker/setup-qemu-action@v3
-      - uses: docker/setup-buildx-action@v3
-      - uses: docker/login-action@v3
+      - uses: docker/setup-qemu-action@96fe6ef7f33517b61c61be40b68a1882f3264fb8 # v4.2.0
+      - uses: docker/setup-buildx-action@37fe631027851001ddb9b187196cc803df7f5f0e # v4.3.0
+      - uses: docker/login-action@dbcb813823bdd20940b903addbd779551569679f # v4.6.0
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
       - name: Build and publish multi-architecture image
         id: build
-        uses: docker/build-push-action@v6
+        uses: docker/build-push-action@53b7df96c91f9c12dcc8a07bcb9ccacbed38856a # v7.3.0
         with:
           context: ${{ matrix.context }}
           file: ${{ matrix.dockerfile }}
@@ -77,12 +77,12 @@ jobs:
           # Trivy scans the final image directly. Attached BuildKit SBOMs can
           # retain superseded base-image packages and create false positives.
           sbom: false
-      - uses: sigstore/cosign-installer@v3
+      - uses: sigstore/cosign-installer@6f9f17788090df1f26f669e9d70d6ae9567deba6 # v4.1.2
       - name: Keyless-sign immutable image digest
         shell: bash
         run: cosign sign --yes "${{ steps.image.outputs.name }}@${{ steps.build.outputs.digest }}"
       - name: Scan published image
-        uses: aquasecurity/trivy-action@ed142fd0673e97e23eac54620cfb913e5ce36c25
+        uses: aquasecurity/trivy-action@ed142fd0673e97e23eac54620cfb913e5ce36c25 # v0.36.0
         env:
           TRIVY_PLATFORM: linux/amd64
         with:
@@ -94,7 +94,7 @@ jobs:
           ignore-unfixed: true
           exit-code: 1
       - name: Export SPDX SBOM
-        uses: anchore/sbom-action@v0
+        uses: anchore/sbom-action@3ad7283483fc7af8ff2b4ea19663c2d5ca935e26 # v0.24.2
         with:
           image: ${{ steps.image.outputs.name }}@${{ steps.build.outputs.digest }}
           format: spdx-json
@@ -103,7 +103,7 @@ jobs:
       - name: Export digest for deployment
         shell: bash
         run: echo '${{ steps.build.outputs.digest }}' > '${{ matrix.component }}.digest'
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         with:
           name: image-digest-${{ matrix.component }}
           path: ${{ matrix.component }}.digest
@@ -151,16 +151,16 @@ jobs:
       KUBE_NAMESPACE: ${{ vars.KUBE_NAMESPACE || 'elexion' }}
       HELM_RELEASE: ${{ vars.HELM_RELEASE || 'elexion' }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           ref: ${{ env.SOURCE_SHA }}
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
           pattern: image-digest-*
           merge-multiple: true
-      - uses: azure/setup-helm@v4
-      - uses: azure/setup-kubectl@v4
-      - uses: sigstore/cosign-installer@v3
+      - uses: azure/setup-helm@9bc31f4ebc9c6b171d7bfbaa5d006ae7abdb4310 # v5.0.1
+      - uses: azure/setup-kubectl@829323503d1be3d00ca8346e5391ca0b07a9ab0d # v5.1.0
+      - uses: sigstore/cosign-installer@6f9f17788090df1f26f669e9d70d6ae9567deba6 # v4.1.2
       - name: Exchange GitHub OIDC identity for cluster session
         shell: bash
         env:
