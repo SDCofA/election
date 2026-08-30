@@ -1,4 +1,4 @@
-name: Release
+name: Build and sign containers
 
 on:
   workflow_run:
@@ -15,7 +15,7 @@ permissions:
   security-events: write
 
 concurrency:
-  group: elexion-production
+  group: elexion-container-build
   cancel-in-progress: false
 
 env:
@@ -109,12 +109,39 @@ jobs:
           path: ${{ matrix.component }}.digest
           if-no-files-found: error
 
-  deploy:
+  deployment-readiness:
+    name: Report deployment readiness
     needs: images
+    runs-on: ubuntu-latest
+    outputs:
+      ready: ${{ steps.cluster.outputs.ready }}
+    steps:
+      - name: Check external cluster configuration
+        id: cluster
+        env:
+          KUBE_SERVER: ${{ vars.KUBE_SERVER }}
+          KUBE_OIDC_AUDIENCE: ${{ vars.KUBE_OIDC_AUDIENCE }}
+        shell: bash
+        run: |
+          if [ -n "$KUBE_SERVER" ] && [ -n "$KUBE_OIDC_AUDIENCE" ]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+            echo "Production cluster configuration is present." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            {
+              echo "### Containers published; deployment not attempted"
+              echo "The external Kubernetes target is not configured."
+              echo "Required repository variables: \`KUBE_SERVER\` and \`KUBE_OIDC_AUDIENCE\`."
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+  deploy:
+    name: Deploy to configured Kubernetes cluster
+    needs: [images, deployment-readiness]
     if: >-
       (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success') &&
       (github.event_name == 'workflow_run' || github.ref_name == github.event.repository.default_branch) &&
-      vars.KUBE_SERVER != '' && vars.KUBE_OIDC_AUDIENCE != ''
+      needs.deployment-readiness.outputs.ready == 'true'
     runs-on: ubuntu-latest
     environment: production
     timeout-minutes: 30

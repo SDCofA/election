@@ -1,4 +1,5 @@
 name: Deploy
+run-name: Deploy workflow · ${{ inputs.image_tag }} · ${{ inputs.environment }}
 on:
   workflow_dispatch:
     inputs:
@@ -11,21 +12,58 @@ on:
         required: true
         default: production
         type: string
+      validation_only:
+        description: Validate workflow wiring without contacting a cluster
+        required: true
+        default: true
+        type: boolean
 permissions:
   contents: read
   packages: read
-  id-token: write
 concurrency:
   group: elexion-${{ inputs.environment }}
   cancel-in-progress: false
 jobs:
+  validate:
+    name: Validate deployment request
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate inputs
+        env:
+          IMAGE_TAG: ${{ inputs.image_tag }}
+          VALIDATION_ONLY: ${{ inputs.validation_only }}
+        run: |
+          test -n "$IMAGE_TAG"
+          if [ "$VALIDATION_ONLY" = "true" ]; then
+            echo "### Deployment workflow validation" >> "$GITHUB_STEP_SUMMARY"
+            echo "Workflow wiring is valid. No registry or cluster was contacted." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
   deploy:
+    name: Deploy signed containers
+    needs: validate
+    if: inputs.validation_only == false
     runs-on: ubuntu-latest
     environment: ${{ inputs.environment }}
+    timeout-minutes: 45
+    permissions:
+      contents: read
+      packages: read
+      id-token: write
     steps:
       - uses: actions/checkout@v4
       - uses: azure/setup-helm@v4
       - uses: sigstore/cosign-installer@6f9f17788090df1f26f669e9d70d6ae9567deba6 # v4.1.2
+      - name: Require production cluster configuration
+        env:
+          KUBE_SERVER: ${{ secrets.KUBE_SERVER }}
+          KUBE_CA_DATA: ${{ secrets.KUBE_CA_DATA }}
+          KUBE_NAMESPACE: ${{ vars.KUBE_NAMESPACE }}
+        run: |
+          test -n "$KUBE_SERVER"
+          test -n "$KUBE_CA_DATA"
+          test -n "$KUBE_NAMESPACE"
       - name: Verify keyless image signatures
         env:
           IMAGE_TAG: ${{ inputs.image_tag }}
