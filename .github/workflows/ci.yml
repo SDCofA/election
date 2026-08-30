@@ -31,7 +31,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
-        with: { enable-cache: true }
+        with: { enable-cache: true, cache-suffix: api }
       - run: uv sync --project services/api --dev --locked
       - run: uv run --project services/api ruff check services/api/app services/api/tests
       - run: uv run --project services/api ruff format --check services/api/app services/api/tests
@@ -57,7 +57,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
-        with: { enable-cache: true }
+        with: { enable-cache: true, cache-suffix: e2e }
       - uses: pnpm/action-setup@0977fd99725f1db4007ccb2928dbb4e90d06cc86 # v6.0.10
       - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with: { node-version: 24, cache: pnpm }
@@ -71,7 +71,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
-        with: { enable-cache: true }
+        with: { enable-cache: true, cache-suffix: pipeline }
       - run: uv sync --project services/pipeline --dev --locked
       - run: uv run --project services/pipeline ruff check services/pipeline/elexion_pipeline services/pipeline/tests
       - run: uv run --project services/pipeline ruff format --check services/pipeline/elexion_pipeline services/pipeline/tests
@@ -98,7 +98,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
-        with: { enable-cache: true }
+        with: { enable-cache: true, cache-suffix: database }
       - run: uv sync --project services/pipeline --locked
       - run: uv sync --project services/api --locked
       - run: sudo apt-get update && sudo apt-get install --yes postgresql-client
