@@ -11,33 +11,18 @@ test.beforeEach(async ({ page }) => {
   });
 });
 
-test("forecast page meets automated WCAG AA and interaction gates", async ({ page }, testInfo) => {
+test("withheld forecast page meets automated WCAG AA", async ({ page }) => {
   await page.goto("/elections/de-next-bundestag");
   await expect(page.getByRole("heading", { name: /Germany/ })).toBeVisible({ timeout: 15_000 });
-  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText("NO CAUSAL DRIVER COEFFICIENTS ACTIVE")).toBeVisible();
-  await expect(page.getByRole("note")).toContainText("Context signals do not move this forecast");
-  await expect(page.locator(".parliament-hemicycle circle")).toHaveCount(630);
-  await expect(page.getByRole("heading", { name: "IMMUTABLE FORECAST HISTORY" })).toBeVisible();
-  await expect(page.getByRole("heading", { name: "SOURCE LEDGER" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
+  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.locator(".parliament-hemicycle")).toHaveCount(0);
 
   const violations = await new AxeBuilder({ page })
     .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
     .analyze();
   expect(violations.violations).toEqual([]);
 
-  const coalitionButton = page.getByRole("group", { name: "Select coalition members" }).getByRole("button").first();
-  const before = await coalitionButton.getAttribute("aria-pressed");
-  await coalitionButton.focus();
-  await coalitionButton.press("Enter");
-  await expect(coalitionButton).toHaveAttribute("aria-pressed", before === "true" ? "false" : "true");
-
-  if (testInfo.project.name === "chromium") {
-    await page.waitForTimeout(250);
-    const lcp = await page.evaluate(() => (window as typeof window & { __elexionLcp: { value: number } }).__elexionLcp.value);
-    expect(lcp).toBeGreaterThan(0);
-    expect(lcp).toBeLessThan(2_500);
-  }
 });
 
 test("mobile layout has no viewport overflow and touch targets meet WCAG 2.2 minimum", async ({ page }, testInfo) => {
@@ -73,26 +58,17 @@ test("logical layout remains usable in right-to-left locales", async ({ page }) 
   expect(geometry.scrollWidth).toBeLessThanOrEqual(geometry.width);
 });
 
-test("parliament layout matches visual regression baseline", async ({ page }, testInfo) => {
-  test.skip(testInfo.project.name !== "chromium", "desktop visual contract");
+test("parliament projection is absent while evidence is grade D", async ({ page }) => {
   await page.goto("/elections/de-next-bundestag");
-  const parliament = page.locator(".parliament-hemicycle");
-  await parliament.evaluate((element) => {
-    element.style.width = "320px";
-    element.style.height = "160px";
-  });
-  await expect(parliament).toHaveScreenshot(
-    "germany-parliament.png",
-    { animations: "disabled", maxDiffPixelRatio: 0.025 }
-  );
+  await expect(page.locator(".parliament-hemicycle")).toHaveCount(0);
+  await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
 });
 
-test("Brazil publishes an exploratory forecast and a possible candidate field", async ({ page }) => {
+test("Brazil withholds grade-D probabilities", async ({ page }) => {
   await page.goto("/elections/br-2026-president");
   await expect(page.getByRole("heading", { name: /Brazil/ })).toBeVisible({ timeout: 15_000 });
-  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible({ timeout: 10_000 });
-  await expect(page.locator(".possible-field-grid strong").filter({ hasText: "Luiz Inácio Lula da Silva" })).toBeVisible({ timeout: 10_000 });
+  await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
+  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
 });
 
 test("directory lists sourced status records for only the 19 G20 countries", async ({ page }) => {
@@ -109,25 +85,24 @@ test("directory lists sourced status records for only the 19 G20 countries", asy
   await expect(argentina).toContainText("2029");
   await argentina.click();
   await expect(page.getByRole("heading", { name: /Argentina/ })).toBeVisible({ timeout: 15_000 });
-  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible({ timeout: 10_000 });
-  await expect(page.locator(".possible-field-grid strong").filter({ hasText: "Leading opposition camp / nominee" }).first()).toBeVisible();
+  await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
+  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
   const violations = await new AxeBuilder({ page })
     .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
     .analyze();
   expect(violations.violations).toEqual([]);
 });
 
-test("country-specific additions distinguish forecasts from calendar-only systems", async ({ page }) => {
+test("country-specific grade-D models are withheld while calendar-only systems remain", async ({ page }) => {
   await page.goto("/elections/in-2029-lok-sabha");
   await expect(page.getByRole("heading", { name: /India/ })).toBeVisible({ timeout: 15_000 });
-  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText("NDA MEDIAN")).toBeVisible();
+  await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
+  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
 
   await page.goto("/elections/mx-2030-president");
   await expect(page.getByRole("heading", { name: /Mexico/ })).toBeVisible({ timeout: 15_000 });
-  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText(/Morena-led governing nominee/)).toBeVisible();
+  await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
+  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
 
   await page.goto("/elections/sa-national-election-status");
   await expect(page.getByRole("heading", { name: /Saudi Arabia/ })).toBeVisible({ timeout: 15_000 });
@@ -136,40 +111,20 @@ test("country-specific additions distinguish forecasts from calendar-only system
   await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
 });
 
-test("Türkiye exposes a million-run exploratory forecast and named possibilities", async ({ page }) => {
+test("Türkiye withholds grade-D probabilities and conditional matchups", async ({ page }) => {
   await page.goto("/elections/tr-next-president");
   await expect(page.getByRole("heading", { name: /Türkiye/ })).toBeVisible({ timeout: 15_000 });
-  await expect(page.locator(".breaking b")).toHaveText("1,000,000 RUNS");
-  await expect(page.getByText("WIN PROBABILITY")).toBeVisible();
-  await expect(page.getByText("POSSIBLE FIELD")).toBeVisible();
-  await expect(page.locator('img[src*="recep-tayyip-erdogan"]').first()).toBeVisible();
-  await expect(page.locator('img[src*="tr-chp"]').first()).toBeVisible();
-  await expect(page.getByText("Recep Tayyip Erdoğan", { exact: true }).first()).toBeVisible();
-  await expect(page.locator(".possible-field-grid .candidate-inactive")).toContainText("Ekrem İmamoğlu");
-  await expect(page.getByText("Mansur Yavaş", { exact: true })).toBeVisible();
-  await expect(page.getByText("Özgür Özel", { exact: true })).toBeVisible();
-  await expect(page.getByText("CONDITIONAL MATCHUPS")).toBeVisible();
-  await expect(page.locator(".scenario-grid > section")).toHaveCount(2);
-  await expect(page.getByText("Erdoğan v İmamoğlu", { exact: true })).toHaveCount(0);
-  await expect(page.getByText("Erdoğan v Yavaş", { exact: true })).toBeVisible();
-  await expect(page.getByText("Erdoğan v Özel", { exact: true })).toBeVisible();
-  await expect(page.getByText("SIMULATION NOISE ONLY")).toBeVisible();
-  await expect(page.getByText("HORIZON MULTIPLIER")).toBeVisible();
-  await expect(page.getByText("WHY THIS IS NOT A RELIABLE BACKTEST")).toBeVisible();
-  await expect(page.getByText("DIRECT ELECTIONS")).toBeVisible();
-  await expect(page.getByText(/only one distinct held-out presidential election/i)).toBeVisible();
-  await expect(page.getByText(/3 historical walk-forward folds/)).toBeVisible();
-  await expect(page.getByText(/forecast-origin vintages verified/)).toBeVisible();
-  await expect(page.getByText(/1,000,000 predictive draws per model-fold across 1 held-out elections/)).toBeVisible();
-  await expect(page.locator(".candidate").filter({ hasText: "Erdoğan" })).toContainText("UNDERDOG · REAL PATH");
+  await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
+  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("CONDITIONAL MATCHUPS")).toHaveCount(0);
 });
 
-test("U.S. backtest labels retrospective poll vintages honestly", async ({ page }) => {
+test("U.S. grade-D model is withheld pending source-vintage evidence", async ({ page }) => {
   await page.goto("/elections/us-2028-president");
   await expect(page.getByRole("heading", { name: /United States/ })).toBeVisible({ timeout: 15_000 });
-  await expect(page.getByText(/12 historical walk-forward folds/)).toBeVisible({ timeout: 15_000 });
-  await expect(page.getByText(/poll vintages are retrospective, not contemporaneously archived/)).toBeVisible();
-  await expect(page.getByText("WALK-FORWARD FOLDS", { exact: true })).toBeVisible();
+  await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
+  await expect(page.getByText(/source-vintage feature snapshot/)).toBeVisible();
+  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
 });
 
 test("route-specific API outage never substitutes another election", async ({ page }) => {
