@@ -123,7 +123,7 @@ test("U.S. grade-D model is withheld pending source-vintage evidence", async ({ 
   await page.goto("/elections/us-2028-president");
   await expect(page.getByRole("heading", { name: /United States/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
-  await expect(page.getByText(/source-vintage (feature snapshot|inputs)/)).toBeVisible();
+  await expect(page.getByText(/source-vintage (feature snapshot|inputs)/).first()).toBeVisible();
   await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
 });
 
