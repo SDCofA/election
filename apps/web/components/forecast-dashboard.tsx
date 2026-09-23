@@ -442,7 +442,8 @@ function CalendarOnlyView({
 }) {
   const sources = detail.election.sources ?? [];
   const figures = INSTITUTIONAL_FIGURES[electionId] ?? [];
-  const coverageLabel = detail.jurisdiction.coverage_status === "mechanics_blocked"
+  const withheld = (detail.jurisdiction.blocking_reasons ?? []).some((reason) => reason.includes("Grade D structural simulation withheld"));
+  const coverageLabel = withheld ? "FORECAST WITHHELD" : detail.jurisdiction.coverage_status === "mechanics_blocked"
     ? "MECHANICS BLOCKED"
     : "CALENDAR ONLY";
   return (
@@ -477,7 +478,7 @@ function CalendarOnlyView({
             <div>
               <span className="eyebrow election-eyebrow"><FlagIcon code={detail.jurisdiction.flag} label={detail.jurisdiction.name} /> INSTITUTIONAL VIEW</span>
               <h1>{detail.jurisdiction.name} <strong>{detail.election.name}</strong></h1>
-              <p>No probability is published for this limited-coverage election.</p>
+              <p>{withheld ? "The grade-D structural simulation is withheld pending source-vintage inputs and validated election-specific evidence." : "No probability is published for this limited-coverage election."}</p>
             </div>
             <div className="countdown"><span>SCHEDULED DATE</span><b>{detail.election.election_date ? formatDate(`${detail.election.election_date}T00:00:00Z`, { month: "short", day: "numeric", timeZone: "UTC" }) : "TBD"}</b><small>{detail.election.election_date ? new Date(`${detail.election.election_date}T00:00:00Z`).getUTCFullYear() : "AWAITING AUTHORITY"}</small></div>
           </div>
@@ -489,7 +490,7 @@ function CalendarOnlyView({
           <div className="calendar-grid">
             <article className="panel calendar-panel">
               <header><span>PUBLICATION GATE</span><small>Explicit quality state</small></header>
-              <h2>Forecast unavailable</h2>
+              <h2>{withheld ? "Forecast withheld" : "Forecast unavailable"}</h2>
               {(detail.jurisdiction.blocking_reasons ?? ["Election mechanics or contestant identities remain unresolved."]).map((reason) => <p key={reason}>{reason}</p>)}
               <dl>
                 <div><dt>Election date</dt><dd>{detail.election.election_date ? formatDate(`${detail.election.election_date}T00:00:00Z`, { dateStyle: "medium", timeZone: "UTC" }) : "To be determined"}</dd></div>

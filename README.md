@@ -1,6 +1,6 @@
 # Elexion G20
 
-Election calendar and model-research platform. The current public website withholds numerical win probabilities when its available snapshot has grade D evidence. The repository retains reproducible simulation artifacts for method review.
+Election calendar and model-research platform. The public website and forecast API withhold numerical win probabilities when the available snapshot has grade D evidence or lacks traceable input revisions. The repository retains reproducible simulation artifacts for method review.
 
 ## Run
 
@@ -20,7 +20,7 @@ Full local stack, including PostGIS, MinIO immutable source snapshots, Dagster w
 docker compose -f infra/compose.yaml up --build
 ```
 
-Dagster UI: `http://localhost:3001`. Licensed adapters fail closed. A grade D structural simulation can be generated for research, but the public dashboard withholds its precise win probabilities because source-vintage feature inputs and jurisdiction-specific out-of-sample evidence are insufficient. One million draws reduce simulation noise; they do not establish predictive accuracy. If a live or static data request fails, the website shows an unavailable state and never substitutes hard-coded probabilities.
+Dagster UI: `http://localhost:3001`. Licensed adapters fail closed. A grade D structural simulation can be generated for research, but the public forecast endpoints and dashboard withhold precise win probabilities because source-vintage feature inputs and jurisdiction-specific out-of-sample evidence are insufficient. One million draws reduce simulation noise; they do not establish predictive accuracy. If a live or static data request fails, the website shows an unavailable state and never substitutes hard-coded probabilities.
 
 Official calendar onboarding and immutable revision behavior: [docs/calendar-onboarding.md](docs/calendar-onboarding.md).
 

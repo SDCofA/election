@@ -41,7 +41,7 @@ from .models import (
     SourceLedger,
 )
 from .operational_metrics import operational_metric_lines
-from .repository import CatalogRepository, get_repository
+from .repository import CatalogRepository, get_repository, is_public_forecast
 from .telemetry import configure_telemetry
 
 Repo = Annotated[CatalogRepository, Depends(get_repository)]
@@ -270,7 +270,12 @@ def metrics(repo: Repo) -> str:
 
 @app.get("/v1/jurisdictions", response_model=list[Jurisdiction], tags=["catalog"])
 def jurisdictions(repo: Repo) -> list[Jurisdiction]:
-    return sorted(repo.jurisdictions.values(), key=lambda item: item.name)
+    public = {
+        detail.jurisdiction.id: detail.jurisdiction
+        for election in repo.elections.values()
+        if (detail := repo.detail(election.id)) is not None
+    }
+    return sorted(public.values(), key=lambda item: item.name)
 
 
 @app.get("/v1/catalog/status", response_model=CatalogStatus, tags=["catalog"])
@@ -314,7 +319,7 @@ def forecast(
     repo: Repo,
 ) -> ForecastSnapshot:
     snapshot = repo.forecasts.get(election_id)
-    if snapshot is None:
+    if not is_public_forecast(snapshot):
         raise HTTPException(status_code=404, detail="Forecast is not available")
     return snapshot
 
@@ -356,7 +361,7 @@ def forecast_candidate(
     tags=["forecast"],
 )
 def forecast_history(election_id: str, repo: Repo) -> list[ForecastSnapshot]:
-    snapshots = repo.forecast_history(election_id)
+    snapshots = [snapshot for snapshot in repo.forecast_history(election_id) if is_public_forecast(snapshot)]
     if not snapshots:
         raise HTTPException(status_code=404, detail="Forecast is not available")
     return snapshots
@@ -369,7 +374,7 @@ def forecast_history(election_id: str, repo: Repo) -> list[ForecastSnapshot]:
 )
 def forecast_snapshot(snapshot_id: str, repo: Repo) -> ForecastSnapshot:
     snapshot = repo.snapshots.get(snapshot_id)
-    if snapshot is None:
+    if not is_public_forecast(snapshot):
         raise HTTPException(status_code=404, detail="Forecast snapshot is not available")
     return snapshot
 
@@ -385,7 +390,7 @@ def alternative_forecast(
     repo: Repo,
 ) -> ForecastSnapshot:
     snapshot = repo.alternative(election_id, model_family)
-    if snapshot is None:
+    if not is_public_forecast(snapshot):
         raise HTTPException(status_code=404, detail="Model family or election is not available")
     return snapshot
 
@@ -411,6 +416,8 @@ def model_comparison(
     tags=["simulations"],
 )
 def simulation_summary(election_id: str, repo: Repo) -> SimulationSummary:
+    if not is_public_forecast(repo.forecasts.get(election_id)):
+        raise HTTPException(status_code=404, detail="Simulation is not available")
     summary = repo.simulation_summary(election_id)
     if summary is None:
         raise HTTPException(status_code=404, detail="Simulation is not available")
@@ -423,6 +430,8 @@ def simulation_summary(election_id: str, repo: Repo) -> SimulationSummary:
     tags=["drivers"],
 )
 def drivers(election_id: str, repo: Repo) -> DriverReport:
+    if not is_public_forecast(repo.forecasts.get(election_id)):
+        raise HTTPException(status_code=404, detail="Drivers are not available")
     report = repo.driver_report(election_id)
     if report is None:
         raise HTTPException(status_code=404, detail="Drivers are not available")
@@ -435,6 +444,8 @@ def drivers(election_id: str, repo: Repo) -> DriverReport:
     tags=["simulations"],
 )
 def coalitions(election_id: str, repo: Repo) -> CoalitionReport:
+    if not is_public_forecast(repo.forecasts.get(election_id)):
+        raise HTTPException(status_code=404, detail="Coalition simulation is not available")
     report = repo.coalition_report(election_id)
     if report is None:
         raise HTTPException(status_code=404, detail="Coalition simulation is not available")
@@ -501,7 +512,7 @@ def official_results(election_id: str, repo: Repo) -> OfficialResults:
 @app.get("/v1/stream", tags=["live"])
 async def stream(request: Request, repo: Repo) -> StreamingResponse:
     async def events():
-        snapshots = sorted(repo.forecasts.values(), key=lambda item: item.published_at)
+        snapshots = sorted((snapshot for snapshot in repo.forecasts.values() if is_public_forecast(snapshot)), key=lambda item: item.published_at)
         queue = event_hub.subscribe()
         last_event_id = request.headers.get("last-event-id")
         replay = snapshots
