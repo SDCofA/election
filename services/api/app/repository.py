@@ -55,6 +55,8 @@ def is_public_forecast(snapshot: ForecastSnapshot | None) -> bool:
         and snapshot.input_revision_ids
         and snapshot.input_provenance
     )
+
+
 G20_COUNTRY_IDS = frozenset(
     {
         "arg",
@@ -738,9 +740,11 @@ class CatalogRepository:
             system=election.system,
             rules=data["rules"],
             source_adapters=data["source_adapters"],
-            forecast_enabled=self.jurisdictions[election.jurisdiction_id].forecast_enabled,
+            forecast_enabled=is_public_forecast(snapshot),
             **(
-                self._snapshot_metadata(snapshot) if snapshot else self._calendar_metadata(election)
+                self._snapshot_metadata(snapshot)
+                if is_public_forecast(snapshot)
+                else self._calendar_metadata(election)
             ),
         )
 
@@ -815,14 +819,20 @@ class CatalogRepository:
                 for item in self.catalog_payload["jurisdictions"]
             ),
             total_jurisdictions=len(self.jurisdictions),
-            forecast_ready=sum(is_public_forecast(snapshot) for snapshot in self.forecasts.values()),
+            forecast_ready=sum(
+                is_public_forecast(snapshot) for snapshot in self.forecasts.values()
+            ),
             calendar_only=sum(
                 item.coverage_status == CoverageStatus.CALENDAR_ONLY
-                or (item.forecast_enabled and not any(
-                    is_public_forecast(snapshot) and snapshot.election_id in self.elections
-                    and self.elections[snapshot.election_id].jurisdiction_id == item.id
-                    for snapshot in self.forecasts.values()
-                ))
+                or (
+                    item.forecast_enabled
+                    and not any(
+                        is_public_forecast(snapshot)
+                        and snapshot.election_id in self.elections
+                        and self.elections[snapshot.election_id].jurisdiction_id == item.id
+                        for snapshot in self.forecasts.values()
+                    )
+                )
                 for item in self.jurisdictions.values()
             ),
             mechanics_blocked=sum(
@@ -840,11 +850,18 @@ class CatalogRepository:
         snapshot = self.forecasts.get(election_id)
         jurisdiction = self.jurisdictions[election.jurisdiction_id]
         if jurisdiction.forecast_enabled and not is_public_forecast(snapshot):
-            jurisdiction = jurisdiction.model_copy(update={
-                "forecast_enabled": False,
-                "coverage_status": CoverageStatus.CALENDAR_ONLY,
-                "blocking_reasons": ["Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."],
-            })
+            election = election.model_copy(
+                update={"status": "Forecast withheld pending source-vintage evidence"}
+            )
+            jurisdiction = jurisdiction.model_copy(
+                update={
+                    "forecast_enabled": False,
+                    "coverage_status": CoverageStatus.CALENDAR_ONLY,
+                    "blocking_reasons": [
+                        "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+                    ],
+                }
+            )
         return ElectionDetail(
             jurisdiction=jurisdiction,
             election=election,

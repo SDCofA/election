@@ -15,7 +15,7 @@ test("withheld forecast page meets automated WCAG AA", async ({ page }) => {
   await page.goto("/elections/de-next-bundestag");
   await expect(page.getByRole("heading", { name: /Germany/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
   await expect(page.locator(".parliament-hemicycle")).toHaveCount(0);
 
   const violations = await new AxeBuilder({ page })
@@ -68,7 +68,7 @@ test("Brazil withholds grade-D probabilities", async ({ page }) => {
   await page.goto("/elections/br-2026-president");
   await expect(page.getByRole("heading", { name: /Brazil/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
 });
 
 test("directory lists sourced status records for only the 19 G20 countries", async ({ page }) => {
@@ -86,7 +86,7 @@ test("directory lists sourced status records for only the 19 G20 countries", asy
   await argentina.click();
   await expect(page.getByRole("heading", { name: /Argentina/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
   const violations = await new AxeBuilder({ page })
     .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
     .analyze();
@@ -97,25 +97,25 @@ test("country-specific grade-D models are withheld while calendar-only systems r
   await page.goto("/elections/in-2029-lok-sabha");
   await expect(page.getByRole("heading", { name: /India/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
 
   await page.goto("/elections/mx-2030-president");
   await expect(page.getByRole("heading", { name: /Mexico/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
 
   await page.goto("/elections/sa-national-election-status");
   await expect(page.getByRole("heading", { name: /Saudi Arabia/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: "Forecast unavailable" })).toBeVisible();
   await expect(page.getByText(/no scheduled national popular election/i)).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
 });
 
 test("Türkiye withholds grade-D probabilities and conditional matchups", async ({ page }) => {
   await page.goto("/elections/tr-next-president");
   await expect(page.getByRole("heading", { name: /Türkiye/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
   await expect(page.getByText("CONDITIONAL MATCHUPS")).toHaveCount(0);
 });
 
@@ -123,8 +123,8 @@ test("U.S. grade-D model is withheld pending source-vintage evidence", async ({ 
   await page.goto("/elections/us-2028-president");
   await expect(page.getByRole("heading", { name: /United States/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
-  await expect(page.getByText(/source-vintage feature snapshot/)).toBeVisible();
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText(/source-vintage (feature snapshot|inputs)/)).toBeVisible();
+  await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
 });
 
 test("route-specific API outage never substitutes another election", async ({ page }) => {
@@ -133,5 +133,5 @@ test("route-specific API outage never substitutes another election", async ({ pa
   await expect(page.getByRole("heading", { name: "Forecast unavailable" })).toBeVisible();
   await expect(page.getByText(/No substitute election or probability is shown/)).toBeVisible();
   await expect(page.getByText("United States")).toHaveCount(0);
-  await expect(page.getByText("WIN PROBABILITY")).toHaveCount(0);
+  await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
 });

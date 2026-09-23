@@ -289,7 +289,11 @@ def elections(
     jurisdiction: Annotated[str | None, Query()] = None,
 ) -> list[Election]:
     repo.refresh_calendars()
-    values = repo.elections.values()
+    values = (
+        detail.election
+        for election in repo.elections.values()
+        if (detail := repo.detail(election.id)) is not None
+    )
     if jurisdiction:
         values = (item for item in values if item.jurisdiction_id == jurisdiction)
     return sorted(
@@ -361,7 +365,9 @@ def forecast_candidate(
     tags=["forecast"],
 )
 def forecast_history(election_id: str, repo: Repo) -> list[ForecastSnapshot]:
-    snapshots = [snapshot for snapshot in repo.forecast_history(election_id) if is_public_forecast(snapshot)]
+    snapshots = [
+        snapshot for snapshot in repo.forecast_history(election_id) if is_public_forecast(snapshot)
+    ]
     if not snapshots:
         raise HTTPException(status_code=404, detail="Forecast is not available")
     return snapshots
@@ -512,7 +518,10 @@ def official_results(election_id: str, repo: Repo) -> OfficialResults:
 @app.get("/v1/stream", tags=["live"])
 async def stream(request: Request, repo: Repo) -> StreamingResponse:
     async def events():
-        snapshots = sorted((snapshot for snapshot in repo.forecasts.values() if is_public_forecast(snapshot)), key=lambda item: item.published_at)
+        snapshots = sorted(
+            (snapshot for snapshot in repo.forecasts.values() if is_public_forecast(snapshot)),
+            key=lambda item: item.published_at,
+        )
         queue = event_hub.subscribe()
         last_event_id = request.headers.get("last-event-id")
         replay = snapshots
