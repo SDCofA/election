@@ -23,12 +23,12 @@
       ]
     }
   ],
-  "forecast_enabled": true,
+  "forecast_enabled": false,
   "as_of": "2026-08-11T12:00:00Z",
   "published_at": "2026-08-11T12:00:00Z",
-  "model_version": "structural-ensemble-0.6.1",
+  "model_version": "calendar-0.1.0",
   "data_quality": "D",
-  "freshness": "structural-only; no source-vintage feature snapshot",
+  "freshness": "exploratory structural forecast; candidate tickets unresolved",
   "provenance": [
     {
       "source_id": "indonesia_kpu_2024",

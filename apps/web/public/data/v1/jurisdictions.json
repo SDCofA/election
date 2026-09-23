@@ -6,9 +6,11 @@
     "region": "Latin America & Caribbean ",
     "eligibility": "v-dem:electoral-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "AR"
   },
   {
@@ -18,9 +20,11 @@
     "region": "East Asia & Pacific",
     "eligibility": "v-dem:liberal-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "AU"
   },
   {
@@ -30,9 +34,11 @@
     "region": "Latin America & Caribbean ",
     "eligibility": "v-dem:electoral-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "BR"
   },
   {
@@ -42,9 +48,11 @@
     "region": "North America",
     "eligibility": "v-dem:electoral-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "CA"
   },
   {
@@ -69,9 +77,11 @@
     "region": "Europe & Central Asia",
     "eligibility": "v-dem:liberal-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "FR"
   },
   {
@@ -81,9 +91,11 @@
     "region": "Europe & Central Asia",
     "eligibility": "v-dem:liberal-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "DE"
   },
   {
@@ -93,9 +105,11 @@
     "region": "South Asia",
     "eligibility": "configured-exception:exploratory-forecast",
     "is_exception": true,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "IN"
   },
   {
@@ -105,9 +119,11 @@
     "region": "East Asia & Pacific",
     "eligibility": "configured-exception:exploratory-forecast",
     "is_exception": true,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "ID"
   },
   {
@@ -117,9 +133,11 @@
     "region": "Europe & Central Asia",
     "eligibility": "v-dem:liberal-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "IT"
   },
   {
@@ -129,9 +147,11 @@
     "region": "East Asia & Pacific",
     "eligibility": "v-dem:liberal-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "JP"
   },
   {
@@ -141,9 +161,11 @@
     "region": "East Asia & Pacific",
     "eligibility": "v-dem:liberal-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "KR"
   },
   {
@@ -153,9 +175,11 @@
     "region": "Latin America & Caribbean",
     "eligibility": "configured-exception:exploratory-forecast",
     "is_exception": true,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "MX"
   },
   {
@@ -195,9 +219,11 @@
     "region": "Sub-Saharan Africa ",
     "eligibility": "v-dem:electoral-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "ZA"
   },
   {
@@ -207,9 +233,11 @@
     "region": "Europe & Central Asia",
     "eligibility": "configured-exception:exploratory-forecast",
     "is_exception": true,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "TR"
   },
   {
@@ -219,9 +247,11 @@
     "region": "Europe & Central Asia",
     "eligibility": "v-dem:electoral-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "GB"
   },
   {
@@ -231,9 +261,11 @@
     "region": "North America",
     "eligibility": "v-dem:electoral-democracy",
     "is_exception": false,
-    "forecast_enabled": true,
-    "coverage_status": "forecast",
-    "blocking_reasons": [],
+    "forecast_enabled": false,
+    "coverage_status": "calendar_only",
+    "blocking_reasons": [
+      "Grade D structural simulation withheld: source-vintage inputs and validated election-specific evidence are insufficient."
+    ],
     "flag": "US"
   }
 ]
