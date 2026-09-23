@@ -1,6 +1,6 @@
 # Elexion G20
 
-Broadcast-grade election forecasting platform. Current vertical slice includes a Next.js command center, FastAPI forecast service, deterministic one-million-run simulation engine, declarative jurisdiction packs, pipeline assets, local infrastructure, Helm chart, and CI.
+Election calendar and model-research platform. The current public website withholds numerical win probabilities when its available snapshot has grade D evidence. The repository retains reproducible simulation artifacts for method review.
 
 ## Run
 
@@ -20,7 +20,7 @@ Full local stack, including PostGIS, MinIO immutable source snapshots, Dagster w
 docker compose -f infra/compose.yaml up --build
 ```
 
-Dagster UI: `http://localhost:3001`. Licensed adapters fail closed; blocked sources cannot make network requests, but reference-only evidence may support an explicitly labeled D-grade scenario. Forecast publication compares the public baseline, Gaussian Monte Carlo, and Markov-momentum challengers under strict walk-forward gates. Forecast-enabled records publish exactly 1,000,000 deterministic simulations; countries without a defensible national probability target remain sourced calendar-only records.
+Dagster UI: `http://localhost:3001`. Licensed adapters fail closed. A grade D structural simulation can be generated for research, but the public dashboard withholds its precise win probabilities because source-vintage feature inputs and jurisdiction-specific out-of-sample evidence are insufficient. One million draws reduce simulation noise; they do not establish predictive accuracy. If a live or static data request fails, the website shows an unavailable state and never substitutes hard-coded probabilities.
 
 Official calendar onboarding and immutable revision behavior: [docs/calendar-onboarding.md](docs/calendar-onboarding.md).
 

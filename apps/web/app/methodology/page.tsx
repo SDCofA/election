@@ -60,7 +60,7 @@ export default function MethodologyPage() {
       <section>
         <h2>Forecast availability policy</h2>
         <p>Official nominations, final electoral mechanics, and machine-reuse permission affect certainty. A one-million-run forecast publishes only when a defensible electoral probability target exists. When a genuine ballot is unsettled, the model uses explicitly labeled candidate, party, alliance, or governing-versus-opposition scenarios. Where there is no national popular election—or evidence cannot support a probability—the country remains a sourced calendar-only record. Reference-only sources are linked but never ingested.</p>
-        <p>These proxy forecasts are grade D. They are not presented as validated candidate polls, and they cannot promote a challenger model. Names and mechanics replace proxies as reproducible source-vintage evidence arrives.</p>
+        <p>These proxy simulations are grade D. The public dashboard withholds their numerical win probabilities. Reproducible research artifacts remain labeled grade D and do not represent a current election call. Names and mechanics replace proxies as source-vintage evidence arrives.</p>
       </section>
 
       <section className="method-grid">

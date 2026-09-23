@@ -338,32 +338,7 @@ const FALLBACK: ElectionDetail = {
       { id: "other", name: "Other candidates", short_name: "OTH", color: "#a8b1bf" }
     ]
   },
-  forecast: {
-    id: "fallback",
-    as_of: "2026-08-09T09:00:00Z",
-    model_version: "structural-ensemble-0.2.0",
-    model_family: "baseline_ensemble",
-    selection_status: "baseline retained until reliable walk-forward promotion evidence",
-    simulation_count: 1000000,
-    data_quality: "D",
-    freshness: "structural-only",
-    headline: "A structurally even race with unusually wide early-cycle uncertainty.",
-    majority_probability: 0.49,
-    turnout_median: 0.655,
-    outcomes: [
-      { contestant_id: "dem", win_probability: 0.51, projected_share: 0.493, share_low: 0.438, share_high: 0.548, projected_seats: 272, seats_low: 241, seats_high: 303 },
-      { contestant_id: "gop", win_probability: 0.49, projected_share: 0.487, share_low: 0.432, share_high: 0.542, projected_seats: 266, seats_low: 235, seats_high: 297 },
-      { contestant_id: "other", win_probability: 0, projected_share: 0.02, share_low: 0.008, share_high: 0.04, projected_seats: 0, seats_low: 0, seats_high: 0 }
-    ],
-    drivers: [
-      { key: "income", label: "Real disposable income", value: "Baseline", contribution: 0.18, direction: "incumbent", confidence: 0.54 },
-      { key: "approval", label: "Executive approval", value: "Early cycle", contribution: -0.11, direction: "challenger", confidence: 0.38 },
-      { key: "polarization", label: "Partisan alignment", value: "High", contribution: 0.31, direction: "stability", confidence: 0.82 },
-      { key: "polling", label: "Polling signal", value: "Not yet available", contribution: 0, direction: "neutral", confidence: 0.05 }
-    ],
-    driver_sensitivity: [],
-    input_provenance: []
-  }
+  forecast: null
 };
 
 const WATCHLIST = [
@@ -690,7 +665,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
     detail.election.system
   );
 
-  if (connection === "fallback" && electionId !== FALLBACK.election.id) {
+  if (connection !== "live") {
     return <DataUnavailableView electionId={electionId} />;
   }
 
@@ -705,6 +680,18 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
         elections={elections}
         jurisdictions={jurisdictions}
       />
+    );
+  }
+
+  if (forecast.data_quality === "D") {
+    return (
+      <main className="unavailable-view">
+        <span className="grade">D · PROVISIONAL</span>
+        <h1>{detail.jurisdiction.name}: forecast withheld</h1>
+        <p>{detail.election.name} remains on the sourced election calendar. The available simulation is structural-only, lacks a source-vintage feature snapshot and jurisdiction-specific out-of-sample validation, and does not support a public win probability.</p>
+        <p>Last model snapshot: {formatDateTime(forecast.as_of)}. Historical grade-D artifacts remain available for method review; their numerical outputs are not current predictions.</p>
+        <Link href="/methodology">Read the publication method</Link>
+      </main>
     );
   }
 
