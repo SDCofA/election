@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@elexion/contracts": "workspace:*",
-    "next": "latest",
+    "next": "16.3.6",
     "react": "latest",
     "react-dom": "latest"
   },
@@ -23,7 +23,7 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "eslint": "^9.39.2",
-    "eslint-config-next": "16.3.0",
+    "eslint-config-next": "16.3.6",
     "typescript": "^5.9.3"
   }
 }

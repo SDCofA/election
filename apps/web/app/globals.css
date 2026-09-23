@@ -218,7 +218,7 @@ h1 strong { font-weight: 400; color: #55514a; }
   border: 1px solid #d6c985;
   background: #fffbe9;
 }
-.grade { height: 32px; display: grid; place-items: center; color: #fff; background: #a47900; font: 800 17px/1 var(--font-display); }
+.grade { height: 32px; display: grid; place-items: center; color: #fff; background: #765600; font: 800 17px/1 var(--font-display); }
 .confidence-banner div { display: grid; gap: 3px; }
 .confidence-banner b { color: #664d00; font-size: 8px; font-weight: 850; letter-spacing: .08em; }
 .confidence-banner small { color: #746b50; font-size: 8px; }

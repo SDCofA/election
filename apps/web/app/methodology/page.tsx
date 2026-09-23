@@ -28,14 +28,14 @@ export default function MethodologyPage() {
 
       <section>
         <h2>Current publication state</h2>
-        <p>The public forecast uses a widened baseline ensemble. Version 0.6 scores that public baseline alongside Gaussian Monte Carlo, Markov momentum, polls-only, fundamentals-only, and previous-election benchmarks. Every production model-fold uses 1,000,000 predictive draws for winner probabilities and 90% intervals. Training origins must fall within 10% of the held-out horizon, bounded to a two-to-thirty-day tolerance. Production horizons must be near an evaluated fold—not merely between the shortest and longest tests. No challenger is promoted because 2–14-day U.S. evidence cannot validate the current early-cycle horizon. The 12 U.S. folds use a pinned retrospective poll compilation, not forecast-origin archived vintages, so they also fail the vintage-proof gate. Forecasts without source-vintage feature snapshots are forced to grade D and list zero model-input sources.</p>
-        <p>Türkiye now has three archive-verified forecast-origin folds, each using 1,000,000 draws after training on 2014 and 2018. All three hold out the same 2023 election, cover only 2–14-day horizons, and span nine years, so they remain diagnostic and cannot validate or promote a model. The current headline is a separate mixture of two May 2026 matchups—Erdoğan against Yavaş and Özel. İmamoğlu receives zero active-scenario weight while his degree remains annulled because higher education is a presidential eligibility requirement; a stay or reversal by the Council of State would trigger reassessment. Equal weights across the two remaining matchups are structural placeholders, not nomination probabilities.</p>
-        <p>Australia now has 14 archive-verified folds across five held-out elections and 21 years of history. Markov momentum has the best election-clustered Brier score in the 7–28-day tests (0.166 versus 0.223 for Gaussian Monte Carlo and 0.279 for the fitted baseline). The historical reliability gates now pass, but the next election remains far outside the tested horizon, so the challenger is not used for the current long-range forecast.</p>
+        <p>No numerical election forecast is currently public. Version 0.6 compares a baseline ensemble with Gaussian Monte Carlo, Markov momentum, polls-only, fundamentals-only, and previous-election benchmarks as research. Its one-million-draw simulations reduce numerical noise but cannot replace missing source-vintage inputs or election-specific validation. The U.S. folds use a retrospective poll compilation rather than forecast-origin archived vintages and cover only 2–14-day horizons. All current structural simulations are grade D, have no traceable model-input revisions, and are withheld from the public dashboard and forecast API.</p>
+        <p>Türkiye has three archive-verified diagnostic folds trained on 2014 and 2018 and held out on the same 2023 election. They cover only 2–14-day horizons across nine years, so they cannot validate a current forecast. Research matchup scenarios are withheld; their equal weights were structural placeholders, not nomination probabilities.</p>
+        <p>Australia has 14 archive-verified folds across five held-out elections and 21 years. Markov momentum has the best election-clustered Brier score in the 7–28-day tests (0.166 versus 0.223 for Gaussian Monte Carlo and 0.279 for the fitted baseline). The next election remains far outside the tested horizon, so no current long-range probability is published.</p>
       </section>
 
       <section>
         <h2>Research doctrine: context without guesswork</h2>
-        <p>Version 0.6 disables every hand-written economy, security, conflict, crime, and incumbency coefficient. Context rows remain reporting signals, but contribute exactly zero to published probabilities. A driver activates only after its value was observable at each historical cutoff, its direction is fitted from training elections, and the complete country-specific model beats simpler alternatives on unseen elections.</p>
+        <p>Version 0.6 disables hand-written economy, security, conflict, crime, and incumbency coefficients. Context rows remain reporting signals and do not create a public probability. A driver can activate only after its value is observable at each historical cutoff, its direction is fitted from training elections, and the country-specific model beats simpler alternatives on unseen elections.</p>
         <p>The polls-versus-fundamentals weight is no longer fixed at 72/28. Every historical fold fits a constrained zero-to-one weight using prior elections only, with each election receiving equal weight regardless of archive density. The held-out election cannot influence that coefficient. A current forecast may use the fitted blend only when its country report passes every reliability and horizon gate; otherwise an available poll aggregate remains polls-only.</p>
         <p>There is no universal “war moves voters right” rule. Research finds conditional, time-varying, and sometimes opposite security effects. The intended model first gates on current issue salience, then uses party ownership, incumbent responsibility, shock timing, geography and decay. A security coefficient stays off when current salience is low or country-specific walk-forward validation is insufficient; it is never activated merely because a conflict exists.</p>
         <div className="method-links">
@@ -49,8 +49,8 @@ export default function MethodologyPage() {
 
       <section>
         <h2>Time and candidate uncertainty</h2>
-        <p>Model volatility is calibrated at a 90-day reference horizon. Version 0.6 applies a transparent time multiplier: (days to election ÷ 90)<sup>0.18</sup>, bounded from 0.75× to 1.60×. Long-range forecasts therefore widen automatically instead of behaving like twelve-week calls. For unsettled ballots, one million draws sample a candidate scenario first and electoral uncertainty second; the public headline is the resulting mixture, while every conditional distribution remains visible.</p>
-        <p>One million runs reduce numerical simulation noise. They do not erase polling error, candidate uncertainty, model misspecification, or missing historical validation; those remain visible through intervals, scenario splits, quality grades, fold counts, and vintage-proof status.</p>
+        <p>The research simulation uses a 90-day reference horizon and a transparent time multiplier: (days to election ÷ 90)<sup>0.18</sup>, bounded from 0.75× to 1.60×. For unsettled ballots, draws sample a candidate scenario and then electoral uncertainty. These simulated distributions are withheld until traceable current inputs and validation support publication.</p>
+        <p>One million runs reduce numerical simulation noise. They do not erase polling error, candidate uncertainty, model misspecification, or missing historical validation.</p>
         <div className="method-links">
           <a href="https://www.cambridge.org/core/journals/political-analysis/article/forecasting-elections-in-multiparty-systems-a-bayesian-approach-combining-polls-and-fundamentals/CA929544F672A09A0E34C5529EBFA482">Polls + fundamentals research</a>
           <a href="https://arxiv.org/abs/2206.14570">Hidden-state polling error research</a>
@@ -79,7 +79,7 @@ export default function MethodologyPage() {
       <section>
         <h2>Promotion gates</h2>
         <ol>{gates.map((gate) => <li key={gate}>{gate}</li>)}</ol>
-        <p>Challengers are compared with a training-fitted poll/fundamentals ensemble, polls-only, fundamentals-only, and previous-election baselines. Failure of any gate retains the simpler public fallback.</p>
+        <p>Challengers are compared with a training-fitted poll/fundamentals ensemble, polls-only, fundamentals-only, and previous-election baselines. Failure of a publication gate withholds the numerical forecast.</p>
       </section>
 
       <section>
@@ -107,7 +107,7 @@ export default function MethodologyPage() {
 
       <section>
         <h2>G20 coverage states</h2>
-        <p>Public scope is limited to the 19 sovereign G20 countries. The European Union and African Union are excluded. All 19 now have sourced national election-status records. Sixteen carry forecasts; China and Saudi Arabia remain calendar-only because no national popular executive or legislative-control ballot exists, while Russia remains calendar-only until an official timetable, candidate field, and approved source-vintage evidence support a probability.</p>
+        <p>Public scope is limited to the 19 sovereign G20 countries. The European Union and African Union are excluded. All 19 have sourced national election-status records. No country currently has a public numerical forecast. Sixteen structural research simulations are grade D and withheld; China, Saudi Arabia, and Russia were already calendar-only.</p>
         <div className="method-links"><Link href="/calendar">G20 election directory</Link></div>
       </section>
     </main>

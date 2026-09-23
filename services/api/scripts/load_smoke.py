@@ -11,7 +11,7 @@ from app.repository import get_repository
 
 REQUESTS = 60
 P95_TARGET_MS = 300
-PATH = "/v1/elections/de-next-bundestag/forecast"
+PATH = "/v1/elections/de-next-bundestag"
 
 
 async def main() -> None:
@@ -36,7 +36,7 @@ async def main() -> None:
     if statuses != [200] * REQUESTS:
         raise SystemExit(f"Load smoke returned non-200 statuses: {statuses}")
     if not all("public" in header and "max-age=60" in header for header in cache_headers):
-        raise SystemExit("Forecast responses are not publicly cacheable")
+        raise SystemExit("Election detail responses are not publicly cacheable")
     if p95 >= P95_TARGET_MS:
         raise SystemExit(f"Cached API p95 {p95:.1f}ms exceeds {P95_TARGET_MS}ms")
     print(
