@@ -12,6 +12,8 @@ body.monarch-product{
  font-family:var(--sans);background:var(--bg);font-variant-numeric:tabular-nums;
 }
 .monarch-product h1,.monarch-product h2,.monarch-product h3,.monarch-product h4{font-family:"IBM Plex Sans",Arial,sans-serif!important;letter-spacing:-.025em}
+body[data-monarch-product="election"]{--bg:var(--paper);--card:#fff;--line:#d7d3ca;--muted:#696864}
+body[data-monarch-product="election"] .monarch-shell a{display:inline-flex!important;align-items:center!important;min-height:24px}
 .monarch-product .topbar,.monarch-product .header,.monarch-product .site-nav{background:#0B1726;border-color:#314252}
 .monarch-product :focus-visible{outline:3px solid #B99558;outline-offset:3px}
 .monarch-shell{box-sizing:border-box!important;height:var(--monarch-shell-height)!important;min-height:var(--monarch-shell-height)!important;width:100%!important;display:flex!important;align-items:center!important;justify-content:space-between!important;gap:1.5rem!important;padding:0 1.5rem!important;background:#0B1726!important;border:0!important;border-bottom:1px solid #314252!important;color:#F4F6F8!important;position:relative;z-index:150;font:400 12px/1.4 "IBM Plex Sans",Arial,sans-serif!important;flex-shrink:0}
