@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
-import { Inter, Space_Grotesk } from "next/font/google";
+import localFont from "next/font/local";
 import { DEFAULT_LOCALE, directionForLocale } from "@/lib/i18n";
 import "./globals.css";
+import "./monarch/design.css";
+import { MonarchNavigation } from "./monarch/navigation";
 
-const inter = Inter({ subsets: ["latin"], variable: "--font-body" });
-const display = Space_Grotesk({ subsets: ["latin"], variable: "--font-display" });
+const inter = localFont({ src: "./monarch/fonts/IBMPlexSans-Regular.woff2", variable: "--font-body", display: "swap" });
+const display = localFont({ src: "./monarch/fonts/IBMPlexSans-SemiBold.woff2", variable: "--font-display", display: "swap" });
 const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, "");
 
 export const metadata: Metadata = {
@@ -29,7 +31,8 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html dir={directionForLocale(DEFAULT_LOCALE)} lang={DEFAULT_LOCALE}>
-      <body className={`${inter.variable} ${display.variable}`}>{children}</body>
+      <body className={`${inter.variable} ${display.variable} monarch-product`} data-monarch-product="election">
+        <MonarchNavigation />{children}</body>
     </html>
   );
 }
