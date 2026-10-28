@@ -118,6 +118,15 @@ jobs:
           createdb -h localhost -U elexion elexion_restore
           pg_restore -h localhost -U elexion -d elexion_restore --exit-on-error /tmp/elexion.dump
           test "$(psql -h localhost -U elexion -d elexion_restore -Atc "select count(*) from information_schema.tables where table_schema='public'")" -ge 15
+  windows-evidence:
+    runs-on: windows-latest
+    steps:
+      - run: git config --global core.autocrlf true
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
+      - run: uv sync --project services/api --locked
+      - name: Verify production evidence hashes on Windows
+        run: uv run --project services/api python -c "from app.repository import get_repository; get_repository()"
   helm:
     runs-on: ubuntu-latest
     steps:

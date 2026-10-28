@@ -1,0 +1,7 @@
+# Backtest datasets, reports, and evidence are verified by SHA-256.
+# Preserve their exact bytes across platforms.
+services/api/app/backtests/** -text
+services/api/app/backtest.py -text
+# Migration checksums are also computed from raw bytes.
+infra/postgres/*.sql -text
+infra/postgres/migrations/*.sql -text

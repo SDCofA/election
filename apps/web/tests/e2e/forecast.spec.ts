@@ -124,6 +124,8 @@ test("U.S. grade-D model is withheld pending source-vintage evidence", async ({ 
   await expect(page.getByRole("heading", { name: /United States/ })).toBeVisible({ timeout: 15_000 });
   await expect(page.getByRole("heading", { name: /forecast withheld/i })).toBeVisible();
   await expect(page.getByText(/source-vintage (feature snapshot|inputs)/).first()).toBeVisible();
+  await expect(page.getByText("SNAPSHOT LOADED", { exact: true })).toBeVisible();
+  await expect(page.getByText("API LIVE", { exact: true })).toHaveCount(0);
   await expect(page.getByText("WIN PROBABILITY", { exact: true })).toHaveCount(0);
 });
 

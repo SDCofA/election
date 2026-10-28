@@ -430,10 +430,12 @@ function CalendarOnlyView({
   detail,
   electionId,
   elections,
-  jurisdictions
+  jurisdictions,
+  usesApi
 }: {
   catalog: CatalogStatus | null;
   connection: ConnectionState;
+  usesApi: boolean;
   currentTime: number;
   detail: ElectionDetail;
   electionId: string;
@@ -457,8 +459,8 @@ function CalendarOnlyView({
         </nav>
         <div className="status-cluster">
           <span className={`live-dot ${connection}`} />
-          <span>{connection === "live" ? "API LIVE" : "CONNECTING"}</span>
-          <time>{currentTime ? formatDate(currentTime, { hour: "2-digit", minute: "2-digit", timeZoneName: "short" }) : "--:--"}</time>
+          <span>{connection === "live" ? (usesApi ? "API DATA LOADED" : "SNAPSHOT LOADED") : "CONNECTING"}</span>
+          <time aria-label="Current clock">{currentTime ? formatDate(currentTime, { hour: "2-digit", minute: "2-digit", timeZoneName: "short" }) : "--:--"}</time>
         </div>
       </header>
       <div className="breaking" role="status">
@@ -675,6 +677,7 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
       <CalendarOnlyView
         catalog={catalog}
         connection={connection}
+        usesApi={Boolean(apiUrl)}
         currentTime={currentTime}
         detail={detail}
         electionId={electionId}
@@ -723,8 +726,8 @@ export function ForecastDashboard({ electionId = "us-2028-president" }: { electi
         </nav>
         <div className="status-cluster">
           <span className={`live-dot ${connection}`} />
-          <span>{connection === "live" ? t("status.apiLive") : connection === "fallback" ? t("status.sample") : t("status.connecting")}</span>
-          <time>{currentTime ? formatDate(currentTime, { hour: "2-digit", minute: "2-digit", timeZoneName: "short" }) : "--:--"}</time>
+          <span>{connection === "live" ? (apiUrl ? t("status.apiConnected") : t("status.snapshotLoaded")) : connection === "fallback" ? t("status.sample") : t("status.connecting")}</span>
+          <time aria-label="Current clock">{currentTime ? formatDate(currentTime, { hour: "2-digit", minute: "2-digit", timeZoneName: "short" }) : "--:--"}</time>
         </div>
       </header>
 
