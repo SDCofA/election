@@ -113,11 +113,13 @@ jobs:
         run: |
           uv run --project services/api python -c "from app.repository import get_repository; r=get_repository(); assert r.forecast_store_status == 'connected:1'; assert any(s.id == 'persistence-smoke-snapshot' for s in r.forecast_history('us-2028-president'))"
       - name: Backup and isolated restore drill
+        env:
+          PG_CONTAINER: ${{ job.services.postgres.id }}
         run: |
-          pg_dump -h localhost -U elexion -d elexion --format=custom --file=/tmp/elexion.dump
-          createdb -h localhost -U elexion elexion_restore
-          pg_restore -h localhost -U elexion -d elexion_restore --exit-on-error /tmp/elexion.dump
-          test "$(psql -h localhost -U elexion -d elexion_restore -Atc "select count(*) from information_schema.tables where table_schema='public'")" -ge 15
+          docker exec -e PGPASSWORD="$PGPASSWORD" "$PG_CONTAINER" pg_dump -h localhost -U elexion -d elexion --format=custom --file=/tmp/elexion.dump
+          docker exec -e PGPASSWORD="$PGPASSWORD" "$PG_CONTAINER" createdb -h localhost -U elexion elexion_restore
+          docker exec -e PGPASSWORD="$PGPASSWORD" "$PG_CONTAINER" pg_restore -h localhost -U elexion -d elexion_restore --exit-on-error /tmp/elexion.dump
+          test "$(docker exec -e PGPASSWORD="$PGPASSWORD" "$PG_CONTAINER" psql -h localhost -U elexion -d elexion_restore -Atc "select count(*) from information_schema.tables where table_schema='public'")" -ge 15
   windows-evidence:
     runs-on: windows-latest
     steps:

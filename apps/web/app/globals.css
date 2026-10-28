@@ -526,7 +526,7 @@ h1 strong { font-weight: 400; color: #55514a; }
   .confidence-banner p { grid-column: 1 / -1; justify-self: start; padding-top: 8px; }
 }
 @media (max-width: 620px) {
-  .brand b, .status-cluster span:not(.live-dot), .breaking p { display: none; }
+  .brand b, .breaking p { display: none; }
   .breaking { justify-content: space-between; }
   .footer a { min-height: 24px; display: inline-flex; align-items: center; }
   .election-title { min-height: 150px; gap: 16px; }
